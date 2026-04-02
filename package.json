@@ -1,0 +1,13 @@
+{
+  "name": "line-dev-docs-archive",
+  "version": "1.0.0",
+  "description": "Archive of LINE Developers documentation extracted from Nuxt Content",
+  "type": "module",
+  "main": "sync.mjs",
+  "dependencies": {
+    "entities": "^7.0.1",
+    "js-yaml": "^4.1.1",
+    "minimark": "^1.0.0",
+    "sqlite3": "^5.1.7"
+  }
+}

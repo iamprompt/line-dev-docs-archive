@@ -1,0 +1,38 @@
+---
+title: 【リマインド】一部のエンドポイントのドメイン名変更のお知らせ（移行期限：2020年10月30日）
+navigation: true
+description: >-
+  2019年11月8日、および2020年3月19日にお知らせしたとおり、Messaging
+  APIの一部のエンドポイントのドメイン名は「api.line.me」から「api-data.line.me」に変更されました。
+meta: '{"date":"2020-08-12 00:00 UTC","tags":"Messaging API","locale":"ja"}'
+path: >-
+  /ja/_partials/news/2020/2020-08-12-extention-of-domain-name-change-transition-period
+__hash__: ObqwV0Okc9gbKdZsj1tVIOciJIfzoeT787HDsKbYdIM
+seo:
+  title: 【リマインド】一部のエンドポイントのドメイン名変更のお知らせ（移行期限：2020年10月30日）
+  description: >-
+    2019年11月8日、および2020年3月19日にお知らせしたとおり、Messaging
+    APIの一部のエンドポイントのドメイン名は「api.line.me」から「api-data.line.me」に変更されました。
+---
+
+[2019年11月8日](/news/2019/11/08/domain-name-change/)、および[2020年3月19日](/news/2020/03/19/remind-domain-name-change/)にお知らせしたとおり、Messaging APIの一部のエンドポイントのドメイン名は「api.line.me」から「api**-data**.line.me」に変更されました。
+
+当初は、2020年4月30日を移行期限にしていましたが、利用状況を踏まえて移行期間を2020年10月30日までに延長します。
+
+### 対象エンドポイント
+
+- [コンテンツを取得する](/reference/messaging-api/#get-content)
+- [リッチメニューの画像をアップロードする](/reference/messaging-api/#upload-rich-menu-image)
+- [リッチメニューの画像をダウンロードする](/reference/messaging-api/#download-rich-menu-image)
+
+### 影響
+
+上記のエンドポイントを利用している場合は、移行期間中にドメイン名を変更してください。
+
+移行期間終了後に、古いドメイン名のエンドポイントにアクセスした場合は、ステータスコード`404`が返されます。
+
+ご利用のユーザー様にはご不便をおかけいたしますが、何卒ご理解いただきますようお願い申し上げます。
+
+### 移行期間
+
+2019年11月8日 ～ 2020年10月30日 14:00

@@ -1,0 +1,53 @@
+---
+title: 'Reminder: Beacon Leave Event to be deprecated at the end of 2020'
+navigation: true
+description: >-
+  As announced on June 6, 2020, the leave event of Beacon event, will be
+  deprecated at the end of 2020. Please adjust your service to use the stay
+  event instead of the leave event for detecting when users exit the reception
+  range of Beacon.
+meta: '{"date":"2020-11-25 00:00 UTC","tags":"Messaging API","locale":"en"}'
+path: /en/_partials/news/2020/2020-11-25-reminder-deprecate-leave-event-for-beacon
+__hash__: fED1lZ_c9Oy97Z_nXeCZ9-8MBTLdy9xnw_ixcSAbst8
+seo:
+  title: 'Reminder: Beacon Leave Event to be deprecated at the end of 2020'
+  description: >-
+    As announced on June 6, 2020, the leave event of Beacon event, will be
+    deprecated at the end of 2020. Please adjust your service to use the stay
+    event instead of the leave event for detecting when users exit the reception
+    range of Beacon.
+---
+
+As announced on [June 6, 2020](/news/2020/06/30/deprecate-leave-event-for-beacon/), the `leave` event of [Beacon event](/reference/messaging-api/#beacon-event), will be deprecated at the end of 2020. Please adjust your service to use the `stay` event instead of the `leave` event for detecting when users exit the reception range of Beacon.
+
+| Schedule              | Description                      |
+| --------------------- | -------------------------------- |
+| End of 2020           | Leave event will be deprecated.  |
+| Early January of 2021 | Webhook transmission will cease. |
+
+::admonition{title="Tip" type="tip"}
+We will continue supporting other Beacon events (`enter`event, `banner`event, or `stay`event).
+::
+
+### Impact
+
+Please adjust your service to use the `stay` event instead of the `leave` event for detecting when users exit the reception range of Beacon.
+
+| beacon.type | Description                                                                                                                    |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| ~~leave~~   | [To be deprecated at the end of 2020] ~~User left the reception range of Beacon.~~                                             |
+| `stay`      | User is currently within the reception range of Beacon.     This event is sent repeatedly at a minimum interval of 10 seconds. |
+
+~~If you wish you use the stay event, contact your sales representative or contact our Sales Partners.~~
+
+::admonition
+---
+title: >-
+  We are no longer accepting new applications in Japan (Added on January 7,
+  2021)
+type: note
+---
+As of January 2021, we are no longer accepting new applications for `stay` events.
+::
+
+We apologize for any inconvenience the deprecation of the `leave` event may have caused. LINE will continue to improve the quality of its services to its customers. Thank you for your understanding.

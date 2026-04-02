@@ -1,0 +1,51 @@
+---
+title: >-
+  Introducing the LIFF features shared during the LIFF sessions at LINE
+  DEVELOPER DAY 2021
+navigation: true
+description: At LINE DEVELOPER DAY 2021, there were two sessions on LIFF.
+meta: '{"date":"2021-11-11 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
+path: /en/_partials/news/2021/2021-11-11-line-developer-day-liff-sessions
+__hash__: 8z9hz0NoA0uPI7Lam4pG2EKMKlxceyKiP7DjAuRGP8I
+seo:
+  title: >-
+    Introducing the LIFF features shared during the LIFF sessions at LINE
+    DEVELOPER DAY 2021
+  description: At LINE DEVELOPER DAY 2021, there were two sessions on LIFF.
+---
+
+At LINE DEVELOPER DAY 2021, there were two sessions on LIFF.
+
+- [Introduction to LIFF/LINE Mini App - Characteristics and Practical Development](https://linedevday.linecorp.com/2021/en/sessions/151/){rel="[\"nofollow\"]"}
+- [For Improvement of Developer Experience of All LIFF App Developers](https://linedevday.linecorp.com/2021/en/sessions/142/){rel="[\"nofollow\"]"}
+
+Here are some references and documentation related to the LIFF features introduced during the sessions. Take a look if there's a feature that you're interested in or thinking about using.
+
+### Features introduced in "Introduction to LIFF/LINE Mini App - Characteristics and Practical Development"
+
+| Feature                               | Overview                                                                                                                                                                                                                         | Reference/Documentation                                                                                                                                                                                                                                                       |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| LINE Login integration                | Performs the login process in the :glossary-tooltip[[LINE's in-app browser](/glossary/#line-iab)]{glossary-id="line-iab"} or :glossary-tooltip[[external browser](/glossary/#external-browser)]{glossary-id="external-browser"}. | - [`liff.login()`](/reference/liff/#login) - [`liff.logout()`](/reference/liff/#logout)                                                                                                                                                                                       |
+| Share Target Picker                   | Displays the target picker and sends the message created by the developer to the selected target.                                                                                                                                | - [Using share target picker](/docs/liff/developing-liff-apps/#using-share-target-picker) - [`liff.shareTargetPicker()`](/reference/liff/#share-target-picker)                                                                                                                |
+| liff.scanCodeV2                       | Launch the 2D code reader and obtain string.                                                                                                                                                                                     | [`liff.scanCodeV2()`](/reference/liff/#scan-code-v2)                                                                                                                                                                                                                          |
+| liff.isApiAvailable                   | Checks whether the specified API is available in the environment where you started the LIFF app.                                                                                                                                 | [`liff.isApiAvailable()`](/reference/liff/#is-api-available)                                                                                                                                                                                                                  |
+| liff.getLineVersion                   | Gets the user's LINE version.                                                                                                                                                                                                    | [`liff.getLineVersion()`](/reference/liff/#get-line-version)                                                                                                                                                                                                                  |
+| liff.getOS                            | Gets the environment in which the user is running the LIFF app.                                                                                                                                                                  | [`liff.getOS()`](/reference/liff/#get-os)                                                                                                                                                                                                                                     |
+| Simplified user agreement             | Allows users to skip the consent screen that is displayed when they access the LINE MINI App for the first time.                                                                                                                 | [Skipping the channel consent process](/docs/line-mini-app/develop/channel-consent-simplification/)                                                                                                                                                                           |
+| liff.referrer query parameter         | Gets the referrer of the page before LIFF-to-LIFF transition.                                                                                                                                                                    | [Get URL from before LIFF-to-LIFF transition](/docs/liff/opening-liff-app/#using-liff-referrer)                                                                                                                                                                               |
+| Getting Started with LIFF Development | Guide for adding a channel for the LIFF app on the [LINE Developers Console](/console/) and using the LIFF SDK for development.                                                                                                  | - [Quickstart](/docs/liff/#quickstart)    - [LINE Front-end Framework](/docs/liff/overview/)   - [Create a channel](/docs/liff/getting-started/)   - [Trying the LIFF starter app](/docs/liff/trying-liff-app/)   - [Developing a LIFF app](/docs/liff/developing-liff-apps/) |
+
+### Features introduced in "For Improvement of Developer Experience of All LIFF App Developers"
+
+| Feature                                                                       | Overview                                                                                                                                                                                                             | Past announcements                                                                                                                               |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [LINE API Status](https://api.line-status.info/){rel="[\"nofollow\"]"}        | LINE API Status is a site through which you can check the service availability and outage status of APIs and services that LINE provides. Service availability and outage status information is provided in English. | [LIFF and LINE Login have been added to services covered by LINE API Status](/news/2021/11/08/liff-and-line-login-are-added-to-line-api-status/) |
+| [LIFF Playground](https://liff-playground.netlify.app/){rel="[\"nofollow\"]"} | The LIFF Playground allows you to easily try out the LIFF APIs.                                                                                                                                                      | [New LIFF starter app and LIFF Playground released](/news/2021/11/02/new-liff-starter-and-playground/)                                           |
+| [LIFF starter app](https://liff-starter.netlify.app/){rel="[\"nofollow\"]"}   | The LIFF starter app is only a demo of the LIFF app initialization to help you understand how to start developing LIFF apps.                                                                                         | Same as above.                                                                                                                                   |
+
+### LINE DEVELOPER DAY 2021 related links
+
+- [LINE DEVELOPER DAY 2021 official website](https://linedevday.linecorp.com/2021/en/){rel="[\"nofollow\"]"}
+- [LINE Engineering](https://engineering.linecorp.com/en/){rel="[\"nofollow\"]"}
+- [Twitter](https://twitter.com/LINE_DEV_EN){rel="[\"nofollow\"]"}
+- [Facebook](https://www.facebook.com/line.developers.jp/){rel="[\"nofollow\"]"}(Japanese only)

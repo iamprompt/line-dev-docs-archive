@@ -1,0 +1,33 @@
+---
+title: ミッションスタンプAPI
+navigation: true
+description: null
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
+path: /ja/docs/partner-docs/mission-stickers
+__hash__: CzSoy4g7B_8UjTJO8xp7LfGYGs27AhTprBXgJaUeWMQ
+seo:
+  title: ミッションスタンプAPI
+  description: null
+---
+
+# :page-title
+
+:markdown-controls::admonition{title="オプション機能を利用するには手続きが必要です" type="note"}
+本ドキュメントに記載の機能は、所定の申請等を行った法人ユーザーのみがご利用いただけます。自社のLINE公式アカウントでご利用になりたいお客様は、担当営業までご連絡いただくか、[弊社パートナー](https://www.lycbiz.com/jp/partner/sales/){rel="[\"nofollow\"]"}にお問い合わせください。
+::
+
+## 概要
+
+ミッションスタンプは、ミッションの達成を条件としてユーザーに提供するスタンプです。スタンプをインセンティブに、ユーザーに「ID情報の連携」や「会員登録」、「アンケート回答」などを促すことができます。
+
+## APIリファレンス
+
+API仕様について詳しくは、『法人ユーザー向けオプションAPIリファレンス』の「[ミッションスタンプAPI](/reference/partner-docs/#mission-stickers)」を参照してください。
+
+## ユーザーがミッションスタンプをダウンロードできない場合
+
+APIリクエストに成功してもユーザーがミッションスタンプをダウンロードできない場合は、以下のような原因が考えられます。詳しくは、担当営業にお問い合わせください。
+
+- スタンプの情報（リリース日、チャネルID、国）に不備がある。
+- ユーザーの国情報が、スタンプの国情報と一致していない。
+- 対象のユーザーが、スタンプをダウンロード済みである。
