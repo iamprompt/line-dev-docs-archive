@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/create-upload-audience-group-by-file
-__hash__: 1DMHhyahZzwU-N_UsZ2nohQhUTQIONt7vpg4fb8CF-k
+__hash__: Ct4kSK7ttAqQWyCl8VaIrjBOVLOFZaGu6z-6lLMnAAk
 seo:
   description: ''
 ---
@@ -60,10 +60,10 @@ seo:
 
     ::::admonition
     ---
-    title: LINEのプライバシーポリシー（2022年3月改定）に同意済みのユーザーのみが対象となります
+    title: LINEのプライバシーポリシー（2022年3月改定以降のもの）に同意済みのユーザーのみが対象となります
     type: note
     ---
-    ユーザーIDアップロード用のオーディエンスにユーザーIDを追加する際に、[プライバシーポリシー（2022年3月改定）](https://guide.line.me/privacy-policy_update/2022/0001/?lang=ja-jp){rel="[\"nofollow\"]"}に同意していないユーザーのユーザーIDが含まれている場合、未同意のユーザーは無視され同意済みのユーザーのみが追加されます。
+    ユーザーIDアップロード用のオーディエンスにユーザーIDを追加する際に、LINEのプライバシーポリシー（2022年3月改定以降のもの）に同意していないユーザーのユーザーIDが含まれている場合、未同意のユーザーは無視され同意済みのユーザーのみが追加されます。
 
     そのため、指定したユーザーIDの数よりもオーディエンスの有効な送信対象アカウントの数が少なくなることがあります。
     ::::

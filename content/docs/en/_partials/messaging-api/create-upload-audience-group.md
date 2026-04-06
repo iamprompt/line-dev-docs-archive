@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/create-upload-audience-group
-__hash__: e7K0BKZuLe-21tgHyxgs7PCjhY4VHHJE8JWiZVJvQI0
+__hash__: CTGANwj52IGJa3wT7hSKF9n9FMmjG-oK6suP0J6T8ps
 seo:
   description: ''
 ---
@@ -75,11 +75,11 @@ seo:
     ::::admonition
     ---
     title: >-
-      Only users who have agreed to the LY Corporation Privacy Policy (revised March
-      2022) will be added
+      Only users who have agreed to LINE's Privacy Policy (revised in March 2022 or
+      later) will be added
     type: note
     ---
-    When adding user IDs to an audience for uploading user IDs, if the user IDs include those of users who haven't agreed to [the privacy policy (revised March 2022)](https://guide.line.me/privacy-policy_update/2022/0001/?lang=en-jp){rel="[\"nofollow\"]"}, users who haven't agreed will be ignored and only users who have agreed will be added.
+    When you add user IDs to an audience for uploading user IDs, any IDs belonging to users who haven't agreed to LINE's Privacy Policy (revised in March 2022 or later) will be ignored. Only the IDs of users who have agreed will be added.
 
     Therefore, the number of valid recipients of the audience may be less than that of user IDs specified.
     ::::

@@ -4,7 +4,7 @@ navigation: true
 description: LINE通知メッセージAPIはSHA256アルゴリズムでハッシュ化した電話番号を元にユーザーにメッセージを送信します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/line-notification-messages/technical-specs
-__hash__: hUNOPYv6uTQKnK4WkDiWSDTnLUYORiAcIVphHsReXpY
+__hash__: xhNWSoqP1ia-PIar_5vYnfWfO27Ae6ftn5UTllIUDqM
 seo:
   title: LINE通知メッセージAPIの技術仕様
   description: LINE通知メッセージAPIはSHA256アルゴリズムでハッシュ化した電話番号を元にユーザーにメッセージを送信します。
@@ -83,7 +83,7 @@ LINE通知メッセージAPIをリクエストし、ユーザーに対してLINE
 - ユーザーがLINE通知メッセージの受信に同意していること
 - ユーザーがLINE通知メッセージ送信元であるLINE公式アカウントをブロックしていないこと
 - LINE通知メッセージの送信対象として指定した電話番号が、日本、タイ、台湾で発行された電話番号かつ、[LINEアプリにおいて電話番号による認証を行うことができる電話番号](https://help.line.me/line/smartphone/pc?lang=ja&contentId=20000104){rel="[\"nofollow\"]"}であること
-- ユーザーが「[LINEのプライバシーポリシー（2022年3月改訂）](https://guide.line.me/privacy-policy_update/2022/0001/?lang=ja-jp){rel="[\"nofollow\"]"}」に同意していること
+- ユーザーがLINEのプライバシーポリシー（2022年3月改定以降のもの）に同意していること
 
 LINEアプリでのLINE通知メッセージの設定について詳しくは、『LINEみんなの使い方ガイド』の「[LINE通知メッセージを受信する方法](https://guide.line.me/ja/services/notification-message.html){rel="[\"nofollow\"]"}」を参照してください。
 
