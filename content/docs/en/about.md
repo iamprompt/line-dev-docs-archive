@@ -9,7 +9,7 @@ description: >-
   API.
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /en/about
-__hash__: Ln7fC9fBrSw4RWO41PeaHqxI6lNCmOQUecam6-FdMuw
+__hash__: DsXLWoZTBvNRoFSJNvg48r5fU8NYL0WNcLKkF7HDqM4
 seo:
   title: About LINE Developers site
   description: >-
@@ -86,9 +86,9 @@ There are related sites to the LINE Developers site that you could use alongside
 
   :::generic-card
   ---
-  path: https://www.linebiz.com/jp-en/
-  title-id: about.lineforbusiness.title
-  description-id: about.lineforbusiness.description
+  path: https://www.lycbiz.jp/en/
+  title-id: about.lyforbusiness.title
+  description-id: about.lyforbusiness.description
   ---
   :::
 

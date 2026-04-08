@@ -7,7 +7,7 @@ description: >-
   APIの仕様や、開発手順を解説したドキュメントを開発者向けに提供しています。
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /ja/about
-__hash__: q5Oro-jGuCgG7wDEvMwwzddvX6Vn3ACHHqAfGJflCFs
+__hash__: SqDw4AWwRDzrugbGauZO89EF8mAG-PMh6puwGp0Cr-Q
 seo:
   title: LINE Developersサイトとは
   description: >-
@@ -84,8 +84,8 @@ LINE Developersサイトには、以下のような関連サイトがありま�
   :::generic-card
   ---
   path: https://www.lycbiz.com/jp/
-  title-id: about.lineforbusiness.title
-  description-id: about.lineforbusiness.description
+  title-id: about.lyforbusiness.title
+  description-id: about.lyforbusiness.description
   ---
   :::
 

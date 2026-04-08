@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/custom-features
-__hash__: a3F6aETzbw6gVRTil0YGDrXw9WiZq8ar0qq580C60K4
+__hash__: JwukqiSUUqKH78ijbxg1j6jFrr09lh0WdLQdyMsOK4c
 seo:
   title: カスタム機能
   description: null
@@ -19,10 +19,11 @@ seo:
 | [サービスメッセージ](#service-messages)                                          | ❌        | ✅        |
 | [Custom Path](#custom-path)                                             | ❌        | ✅        |
 | [ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する](#create-shortcut-on-home-screen) | ❌        | ✅        |
-| [ユーザーをLINE公式アカウントの友だち追加へ誘導する](#OA-friend)                               | ✅        | ✅        |
-| [決済システムの利用](#using-payment-systems)                                     | ✅        | ✅        |
-| [カスタムアクションボタン](#custom-action-button)                                   | ✅        | ✅        |
 | [共通プロフィールのクイック入力](#quick-fill)                                          | ❌        | ✅        |
+| [ユーザーをLINE公式アカウントの友だち追加へ誘導する](#OA-friend)                               | ✅        | ✅        |
+| [カスタムアクションボタン](#custom-action-button)                                   | ✅        | ✅        |
+| [決済システムの利用](#using-payment-systems)                                     | ✅        | ✅        |
+| [広告の掲載](#place-ads)                                                     | ✅        | ✅        |
 
 ## サービスメッセージ
 
@@ -63,6 +64,14 @@ Custom Pathとは、本番用のLIFF URLに設定する独自の文字列のこ�
 
 詳しくは、「[ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する](/docs/line-mini-app/develop/add-to-home-screen/)」を参照してください。
 
+## 共通プロフィールのクイック入力
+
+クイック入力とは、LINEミニアプリ上で［**自動入力**］をタップすることで、必要なプロフィール情報が自動で入力される機能です。ユーザーがアカウントセンターで設定した共通プロフィールの情報が、LINEミニアプリで簡単に利用できます。詳しくは、[共通プロフィールのクイック入力の概要](/docs/line-mini-app/quick-fill/overview/)を参照してください。
+
+![](/media/line-mini-app/quick-fill/quick-fill-3-steps.png){className="[\"bg-border\",\"w-fix-680\"]"}
+
+LINEミニアプリにクイック入力を導入すると、住所や電話番号の登録が必要な場面で、ボタンをタップするだけで必要な情報が自動で入力されます。これにより、たとえば店舗の予約やオンラインストアでの注文時に、ユーザーは面倒な手入力の手間を省くことができます。
+
 ## ユーザーをLINE公式アカウントの友だち追加へ誘導する
 
 LINEミニアプリでは、友だち追加オプションを使って、[アクセス許可要求画面](/docs/line-mini-app/develop/configure-console/#verification-screen)、もしくは[チャネル同意画面](/docs/line-mini-app/develop/configure-console/#consent-screen-settings)からLINE公式アカウントの友だち追加への誘導ができます。
@@ -73,22 +82,30 @@ LINEミニアプリでは、友だち追加オプションを使って、[アク
 
 また、[`liff.requestFriendship()`](/reference/liff/#request-friendship)メソッドを用いて、任意のタイミングでLINE公式アカウントの友だち追加、またはブロック解除を促すサブウィンドウを表示することも可能です。
 
-## 決済システムの利用
-
-LINE Payだけでなく、クレジットカードなどの支払い方法をLINEミニアプリに統合できます。また日本のみ、[LINEミニアプリのアプリ内課金](#in-app-purchase)機能を利用できます。詳しくは、「[決済システムを利用する](/docs/line-mini-app/develop/payment/)」を参照してください。
-
-![mini intro linepay](/media/line-mini-app/mini_intro_linepay.png){className="[\"w-fix-520\"]"}
-
 ## カスタムアクションボタン
 
 友だち同士で、LINEミニアプリを簡単にシェアするために[ビルトインのアクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)が用意されていますが、[カスタムアクションボタンを実装](/docs/line-mini-app/develop/share-messages/)することもできます。
 
 ![](/media/line-mini-app/mini_share_custom.png){className="[\"w-fix-800\"]"}
 
-## 共通プロフィールのクイック入力
+## 決済システムの利用
 
-クイック入力とは、LINEミニアプリ上で［**自動入力**］をタップすることで、必要なプロフィール情報が自動で入力される機能です。ユーザーがアカウントセンターで設定した共通プロフィールの情報が、LINEミニアプリで簡単に利用できます。詳しくは、[共通プロフィールのクイック入力の概要](/docs/line-mini-app/quick-fill/overview/)を参照してください。
+LINE Payなどの支払い方法をLINEミニアプリに統合できます。また日本のみ、[LINEミニアプリのアプリ内課金](/docs/line-mini-app/in-app-purchase/overview/)機能を利用できます。
 
-![](/media/line-mini-app/quick-fill/quick-fill-3-steps.png){className="[\"bg-border\",\"w-fix-680\"]"}
+LINEミニアプリで利用できる決済システムは、国または地域によって異なります。
 
-LINEミニアプリにクイック入力を導入すると、住所や電話番号の登録が必要な場面で、ボタンをタップするだけで必要な情報が自動で入力されます。これにより、たとえば店舗の予約やオンラインストアでの注文時に、ユーザーは面倒な手入力の手間を省くことができます。
+| 決済方法             | 日本  | 台湾  | タイ  |
+| ---------------- | --- | --- | --- |
+| LINE Pay         | ❌   | ✅   | ✅   |
+| LINEミニアプリのアプリ内課金 | ✅   | ❌   | ❌   |
+| その他の決済方法         | ✅   | ✅   | ✅   |
+
+詳しくは、「[決済システムを利用する](/docs/line-mini-app/develop/payment/)」を参照してください。
+
+![mini intro linepay](/media/line-mini-app/mini_intro_linepay.png){className="[\"w-fix-520\"]"}
+
+## 広告の掲載
+
+LINEミニアプリに[LINEヤフー広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/ly-ads/displayads-auc/){rel="[\"nofollow\"]"}を掲載し、収益化できます。広告の掲載は認証済ミニアプリ、未認証ミニアプリのいずれにおいても可能ですが、サービスを提供する地域が日本である必要があります。
+
+詳しくは、「[LINEミニアプリに広告を掲載する](/docs/line-mini-app/service/line-mini-app-ads/)」を参照してください。

@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"sidebar_title":"料金","tags":null,"author":null,"last_updated":null,"source_language":null}
 path: /ja/docs/messaging-api/pricing
-__hash__: 5dboD35GC-mCVn1EvD2iY4hBLdH3snMEQgWGcMSfaIE
+__hash__: nMUjdkmpRKfd3idiiFR01yjk4C7FIL8OdroAglbsXq4
 seo:
   title: Messaging APIの料金
   description: null
@@ -32,7 +32,7 @@ LINE公式アカウントには、無料のプランと、月額固定費がか�
 | 日本     | [LINE公式アカウント料金プラン](https://www.lycbiz.com/jp/service/line-official-account/plan/){rel="[\"nofollow\"]"}     [利用と請求（プラン変更やお支払い関連の管理）](https://www.lycbiz.com/jp/manual/OfficialAccountManager/account-settings_plan/){rel="[\"nofollow\"]"} |
 | 台湾     | [LINE Official Account](https://tw.linebiz.com/service/account-solutions/line-official-account/){rel="[\"nofollow\"]"}     [LINE Official Account - FAQ](https://tw.linebiz.com/faq/oa-price/){rel="[\"nofollow\"]"}                       |
 | タイ     | [LINE Official Account](https://lineforbusiness.com/th/service/line-oa-features/broadcast-message){rel="[\"nofollow\"]"}                                                                                                                   |
-| その他の地域 | [LINE Official Account](https://www.linebiz.com/jp-en/other/){rel="[\"nofollow\"]"}                                                                                                                                                        |
+| その他の地域 | [LINE Official Account](https://www.lycbiz.jp/en/other/){rel="[\"nofollow\"]"}                                                                                                                                                             |
 
 ### 料金プランの例
 

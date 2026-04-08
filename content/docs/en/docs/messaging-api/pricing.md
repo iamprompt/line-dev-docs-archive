@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"sidebar_title":"Pricing","tags":null,"author":null,"last_updated":null,"source_language":null}
 path: /en/docs/messaging-api/pricing
-__hash__: Q6jEeI0HbdAl8NTsoe4kCvh61eZm2wCJB1_yamcr2Oo
+__hash__: izWqgkqwz1jtgFFkq9XjkbeOjUUpHP5RoeONg5hgA84
 seo:
   title: Messaging API pricing
   description: null
@@ -32,7 +32,7 @@ See the following for pricing plans for each country or region:
 | Japan             | [LINE Official Account pricing plan](https://www.lycbiz.com/jp/service/line-official-account/plan/){rel="[\"nofollow\"]"}     [Activity and billing (subscription plan changes and payment related management)](https://www.lycbiz.com/jp/manual/OfficialAccountManager/account-settings_plan/){rel="[\"nofollow\"]"} |
 | Taiwan            | [LINE Official Account](https://tw.linebiz.com/service/account-solutions/line-official-account/){rel="[\"nofollow\"]"}     [LINE Official Account - FAQ](https://tw.linebiz.com/faq/oa-price/){rel="[\"nofollow\"]"}                                                                                                  |
 | Thailand          | [LINE Official Account](https://lineforbusiness.com/th/service/line-oa-features/broadcast-message){rel="[\"nofollow\"]"}                                                                                                                                                                                              |
-| Other regions     | [LINE Official Account](https://www.linebiz.com/jp-en/other/){rel="[\"nofollow\"]"}                                                                                                                                                                                                                                   |
+| Other regions     | [LINE Official Account](https://www.lycbiz.jp/en/other/){rel="[\"nofollow\"]"}                                                                                                                                                                                                                                        |
 
 ### Example of subscription plans
 

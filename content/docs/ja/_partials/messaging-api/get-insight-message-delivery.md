@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-insight-message-delivery
-__hash__: kWH1gPWb9VfqWP0Q6KAohKj5d0LFahzprvsqCWN-VII
+__hash__: R3K5Xz9ikavvd896VgT974vQCV63RFsfZP2sJFR1YTk
 seo:
   description: ''
 ---
@@ -113,7 +113,7 @@ seo:
 
       LINE Official Account Managerでステップ配信を使って送信されたメッセージの数。
 
-      詳しくは、『LINEヤフー for Business』の「[ステップ配信](https://www.linebiz.com/jp/manual/OfficialAccountManager/step-message/){rel="[\"nofollow\"]"}」を参照してください。
+      詳しくは、『LINEヤフー for Business』の「[ステップ配信](https://www.lycbiz.com/jp/manual/OfficialAccountManager/step-message/){rel="[\"nofollow\"]"}」を参照してください。
       :::::
 
       :::::parameter-table-entry{annotation="含まれないことがあります"}

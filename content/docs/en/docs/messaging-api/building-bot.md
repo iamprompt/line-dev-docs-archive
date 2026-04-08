@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/building-bot
-__hash__: 8D6XqnjmHEj-uT34nsngy5p8gWnPFhBR9dWt8DTRKPM
+__hash__: 82cVwtOn0Q3dGJsQ6VytKHj2LVJN_UQC7ERh-qxxQrs
 seo:
   title: Build a bot
   description: null
@@ -84,7 +84,7 @@ If you got a similar log, your bot server did receive a webhook event from the L
 
 The [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"} is a tool to manage your LINE Official Account. In addition to using the features provided by the Messaging API, you can improve the user experience by [customizing your business profile](#customize-profile), create LINE VOOM posts, and much more.
 
-For a complete list of features available to LINE Official Accounts, see [LINE for Business](https://www.linebiz.com/jp-en/){rel="[\"nofollow\"]"}.
+For a complete list of features available to LINE Official Accounts, see [LY for Business](https://www.lycbiz.jp/en/){rel="[\"nofollow\"]"}.
 
 ::admonition{title="Greeting messages and auto-reply messages" type="tip"}
 If the settings for **Greeting messages** and **Auto-reply messages** are set to **Enabled** in the **Messaging API Settings** tab of the channel, the LINE Official Account will automatically respond when a user adds your LINE Official Account as a friend or sends you a message. The default setting for **Greeting Message** and **Auto-reply messages** is **Enabled** when the channel is created.
