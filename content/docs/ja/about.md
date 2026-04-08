@@ -7,7 +7,7 @@ description: >-
   APIの仕様や、開発手順を解説したドキュメントを開発者向けに提供しています。
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /ja/about
-__hash__: '-5cfUr5jw5hPLXYhQgxGw0MSLL5XFKwMHsn0HoMKIqU'
+__hash__: q5Oro-jGuCgG7wDEvMwwzddvX6Vn3ACHHqAfGJflCFs
 seo:
   title: LINE Developersサイトとは
   description: >-
@@ -48,10 +48,11 @@ LINEヤフー株式会社では、外部の企業や開発者に向けて、LINE
 
 対応するカテゴリでは、ページタイトル付近に以下のボタンが表示されます。ボタンを押すことで、そのページの内容をMarkdown形式で取得または表示できます。
 
-| ボタン               | 説明                                                                                                   |
-| ----------------- | ---------------------------------------------------------------------------------------------------- |
-| ［**LLM用にコピー**］    | 現在表示しているページの内容をMarkdown形式でクリップボードにコピーします。                                                            |
-| ［**Markdownで表示**］ | 現在表示しているページのMarkdownファイルを別タブで開きます。なお、MarkdownファイルのURLは、ページURLの末尾に `index.html.md` を付与することで開くことができます。 |
+| ボタン               | 説明                                                                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ［**LLM用にコピー**］    | 現在表示しているページの内容をMarkdown形式でクリップボードにコピーします。                                                                          |
+| ［**Markdownで表示**］ | 現在表示しているページのMarkdownファイルを別タブで開きます。なお、MarkdownファイルのURLは、ページURLの末尾に `index.html.md` を付与することで開くことができます。               |
+| ［**GitHubで表示**］   | 現在表示しているページのMarkdownファイルを[GitHub](https://github.com/line/line-developers-docs-source){rel="[\"nofollow\"]"}で開きます。 |
 
 ## llms.txtの提供
 

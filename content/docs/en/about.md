@@ -9,7 +9,7 @@ description: >-
   API.
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /en/about
-__hash__: '-7GLzEZ7x7tpvyo8qmRSd4WEDsJnTBLoLd_wKpeFlZU'
+__hash__: Ln7fC9fBrSw4RWO41PeaHqxI6lNCmOQUecam6-FdMuw
 seo:
   title: About LINE Developers site
   description: >-
@@ -55,6 +55,7 @@ Pages in these categories now include the buttons shown below near the page titl
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Copy for LLM**     | Copies the current page's content in Markdown format to the clipboard.                                                                            |
 | **View as Markdown** | Opens the Markdown file for the current page in a new tab. You can access the Markdown file by adding `index.html.md` to the end of the page URL. |
+| **View on GitHub**   | Opens the Markdown file for the current page on [GitHub](https://github.com/line/line-developers-docs-source){rel="[\"nofollow\"]"}.              |
 
 ## Providing llms.txt
 
