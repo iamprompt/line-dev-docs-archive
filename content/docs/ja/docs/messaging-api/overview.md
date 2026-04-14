@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"sidebar_title":"概要","tags":null,"author":null,"last_updated":null,"source_language":null}
 path: /ja/docs/messaging-api/overview
-__hash__: nWcoJvwmEV-oTB1he2AIzDwgF-_W5IHgDlHZfluM6vo
+__hash__: Npt2JzqPKwWsiIVfER60HQhZYGhbYDHeYd9WYJDwjjA
 seo:
   title: Messaging APIの概要
   description: null
@@ -16,7 +16,7 @@ seo:
 :markdown-controlsMessaging APIを使って、ユーザー個人に合わせた体験をLINE上で提供するボットを作成できます。
 
 ::admonition{title="LINE公式アカウントとは" type="tip"}
-LINE公式アカウントがどのようなものかが分からない場合は、総合学習プラットフォーム「[LINEキャンパス](https://lymcampus.jp/){rel="[\"nofollow\"]"}」をご利用ください。
+LINE公式アカウントがどのようなものかが分からない場合は、総合学習プラットフォーム「[LINEヤフーマーケティングキャンパス](https://lymcampus.jp/){rel="[\"nofollow\"]"}」をご利用ください。
 ::
 
 ## Messaging APIの仕組み

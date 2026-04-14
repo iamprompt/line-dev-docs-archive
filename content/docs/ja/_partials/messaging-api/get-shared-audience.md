@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-shared-audience
-__hash__: 8RbNa0aIdfmaxOV5DwlrAkt21B2YHNVqUoJkrEP0q7s
+__hash__: HEpI34_Trm6PszF0raQhiNGHcVkuxz-xWVVhAAH5nDQ
 seo:
   description: ''
 ---
@@ -105,7 +105,7 @@ seo:
       - `POINT_AD`：[LINEポイントAD](https://www.lycbiz.com/jp/service/line-point-ad/){rel="[\"nofollow\"]"}で作成したオーディエンス
       - `AD_MANAGER`：[LINE広告](https://admanager.line.biz/){rel="[\"nofollow\"]"}で作成したオーディエンス
       - `BUSINESS_MANAGER`：[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}で作成したオーディエンス
-      - `YAHOO_DISPLAY_ADS`：[Yahoo!広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/yahoo-ads/displayads-auc/){rel="[\"nofollow\"]"}で作成したオーディエンス
+      - `YAHOO_DISPLAY_ADS`：[LINEヤフー広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/ly-ads/displayads-auc/){rel="[\"nofollow\"]"}で作成したオーディエンス
       :::::
 
       :::::parameter-table-entry
@@ -411,7 +411,7 @@ seo:
       - `bm`：ビジネスマネージャー
       - `lap`：LINE広告
       - `account`：LINE公式アカウント
-      - `yda`：Yahoo!広告
+      - `yda`：LINEヤフー広告
       :::::
 
       :::::parameter-table-entry

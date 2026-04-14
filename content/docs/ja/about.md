@@ -7,7 +7,7 @@ description: >-
   APIの仕様や、開発手順を解説したドキュメントを開発者向けに提供しています。
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /ja/about
-__hash__: SqDw4AWwRDzrugbGauZO89EF8mAG-PMh6puwGp0Cr-Q
+__hash__: aEH8i783AWTVOYtmQzIBeZfNqVdhFUMO5TftdV_RS_g
 seo:
   title: LINE Developersサイトとは
   description: >-
@@ -108,8 +108,8 @@ LINE Developersサイトには、以下のような関連サイトがありま�
   :::generic-card
   ---
   path: https://lymcampus.jp/
-  title-id: about.linecampus.title
-  description-id: about.linecampus.description
+  title-id: about.lymcampus.title
+  description-id: about.lymcampus.description
   ---
   :::
 

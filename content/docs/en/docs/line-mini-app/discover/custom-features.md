@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/custom-features
-__hash__: PxlADShJ6qZ2WmVSqemB1noeINexpdzjCeNQ5nT59zo
+__hash__: lJMpsZi9Sr7Yt1KfR0k2yjaQukq5D6bPnxEmBll_j7w
 seo:
   title: Custom features
   description: null
@@ -106,6 +106,6 @@ For more information, see [Handling payments](/docs/line-mini-app/develop/paymen
 
 ## Place ads
 
-LINE MINI Apps can be monetized by displaying [LY Ads Display Ads](https://www.lycbiz.jp/en/#service){rel="[\"nofollow\"]"}. Ads can be placed in both verified and unverified MINI Apps, but the service must be provided in Japan.
+LINE MINI Apps can be monetized by displaying [LY Ads Network Display Ads (Web)](https://www.lycbiz.com/jp/partner/adnetwork/ly-ads/){rel="[\"nofollow\"]"} (only available in Japanese). Ads can be placed in both verified and unverified MINI Apps, but the service must be provided in Japan.
 
 For more information, see [Place ads in LINE MINI Apps](/docs/line-mini-app/service/line-mini-app-ads/).

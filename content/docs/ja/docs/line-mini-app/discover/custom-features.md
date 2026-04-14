@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/custom-features
-__hash__: JwukqiSUUqKH78ijbxg1j6jFrr09lh0WdLQdyMsOK4c
+__hash__: sk3kSdX-0ZhHgzjTKtsCeR3LBq5TjffMZ6dPifzA4Es
 seo:
   title: カスタム機能
   description: null
@@ -106,6 +106,6 @@ LINEミニアプリで利用できる決済システムは、国または地域�
 
 ## 広告の掲載
 
-LINEミニアプリに[LINEヤフー広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/ly-ads/displayads-auc/){rel="[\"nofollow\"]"}を掲載し、収益化できます。広告の掲載は認証済ミニアプリ、未認証ミニアプリのいずれにおいても可能ですが、サービスを提供する地域が日本である必要があります。
+LINEミニアプリに[LINEヤフー広告ネットワークディスプレイ広告（Web）](https://www.lycbiz.com/jp/partner/adnetwork/ly-ads/){rel="[\"nofollow\"]"}を掲載し、収益化できます。広告の掲載は認証済ミニアプリ、未認証ミニアプリのいずれにおいても可能ですが、サービスを提供する地域が日本である必要があります。
 
 詳しくは、「[LINEミニアプリに広告を掲載する](/docs/line-mini-app/service/line-mini-app-ads/)」を参照してください。

@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"sidebar_title":"Overview","tags":null,"author":null,"last_updated":null,"source_language":null}
 path: /en/docs/messaging-api/overview
-__hash__: B4Nqxdk02IwJrwQr7qbv2yuRQ9lmIOT6S559jP79ojY
+__hash__: KGZF-NGg2olz35LTLllvQOv_Nb4hGnG7ZU437tJ5zAk
 seo:
   title: Messaging API overview
   description: null
@@ -16,7 +16,7 @@ seo:
 :markdown-controlsUse the Messaging API to build bots to provide personalized experiences on LINE to your users.
 
 ::admonition{title="What is LINE Official Account" type="tip"}
-If you are unfamiliar with LINE Official Account, visit the comprehensive learning platform, [LINE Campus](https://lymcampus.jp/){rel="[\"nofollow\"]"} (only available in Japanese).
+If you are unfamiliar with LINE Official Account, visit the comprehensive learning platform, [LY Marketing Campus](https://lymcampus.jp/){rel="[\"nofollow\"]"} (only available in Japanese).
 ::
 
 ## How the Messaging API works

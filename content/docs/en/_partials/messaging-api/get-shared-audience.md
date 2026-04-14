@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-shared-audience
-__hash__: '-vs-XEuKZFZLO4TF9M20GtycoVTIjdWFLwBUv-APm5I'
+__hash__: GaE0D7W1BYDHAL-2lbHNU05Z0Kq7nwp_qKtGXDcI3CY
 seo:
   description: ''
 ---
@@ -105,7 +105,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       - `POINT_AD`: Audience created with [LINE Points Ads](https://www.lycbiz.com/jp/service/line-point-ad/){rel="[\"nofollow\"]"} (only available in Japanese)
       - `AD_MANAGER`: Audience created with [LINE Ads](https://admanager.line.biz/){rel="[\"nofollow\"]"}
       - `BUSINESS_MANAGER`: Audience created with [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}
-      - `YAHOO_DISPLAY_ADS`: Audience created with [Yahoo! JAPAN Ads Display Ads](https://www.lycbiz.com/jp/service/yahoo-ads/displayads-auc/){rel="[\"nofollow\"]"}
+      - `YAHOO_DISPLAY_ADS`: Audience created with [LY Ads Display Ads](https://www.lycbiz.jp/en/#advertising){rel="[\"nofollow\"]"}
       :::::
 
       :::::parameter-table-entry
@@ -411,7 +411,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       - `bm`: Business Manager
       - `lap`: LINE Ads
       - `account`: LINE Official Account
-      - `yda`: Yahoo! JAPAN Ads
+      - `yda`: LY Ads
       :::::
 
       :::::parameter-table-entry

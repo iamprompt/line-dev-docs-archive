@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-shared-audience-list
-__hash__: KwETSGHEJWkdADNG8fMGU3ikq2feF0FtkEzdeSzO-6Y
+__hash__: cwEUFFOMruOctkdya7xfeuFxBbufpnv2wCOzp0g_LrQ
 seo:
   description: ''
 ---
@@ -111,7 +111,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
   - `POINT_AD`: Return only audiences created with [LINE Points Ads](https://www.lycbiz.com/jp/service/line-point-ad/){rel="[\"nofollow\"]"} (only available in Japanese).
   - `AD_MANAGER`: Return only audiences created with [LINE Ads](https://admanager.line.biz/){rel="[\"nofollow\"]"}.
   - `BUSINESS_MANAGER`: Return only audiences created with [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}.
-  - `YAHOO_DISPLAY_ADS`: Return only audiences created with [Yahoo! JAPAN Ads Display Ads](https://www.lycbiz.com/jp/service/yahoo-ads/displayads-auc/){rel="[\"nofollow\"]"}.
+  - `YAHOO_DISPLAY_ADS`: Return only audiences created with [LY Ads Display Ads](https://www.lycbiz.jp/en/#advertising){rel="[\"nofollow\"]"}.
 
   If you specify multiple parameters, the OR condition is used.
   :::
@@ -168,7 +168,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       - `POINT_AD`: Audience created with [LINE Points Ads](https://www.lycbiz.com/jp/service/line-point-ad/){rel="[\"nofollow\"]"} (only available in Japanese)
       - `AD_MANAGER`: Audience created with [LINE Ads](https://admanager.line.biz/){rel="[\"nofollow\"]"}
       - `BUSINESS_MANAGER`: Audience created with [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}
-      - `YAHOO_DISPLAY_ADS`: Audience created with [Yahoo! JAPAN Ads Display Ads](https://www.lycbiz.com/jp/service/yahoo-ads/displayads-auc/){rel="[\"nofollow\"]"}
+      - `YAHOO_DISPLAY_ADS`: Audience created with [LY Ads Display Ads](https://www.lycbiz.jp/en/#advertising){rel="[\"nofollow\"]"}
       :::::
 
       :::::parameter-table-entry

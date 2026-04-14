@@ -9,7 +9,7 @@ description: >-
   API.
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /en/about
-__hash__: DsXLWoZTBvNRoFSJNvg48r5fU8NYL0WNcLKkF7HDqM4
+__hash__: rovgbBkMI7MYsJ0jgx8MX7foeiLQ5mvvIAZzxE9_o9o
 seo:
   title: About LINE Developers site
   description: >-
@@ -111,8 +111,8 @@ There are related sites to the LINE Developers site that you could use alongside
   :::generic-card
   ---
   path: https://lymcampus.jp/
-  title-id: about.linecampus.title
-  description-id: about.linecampus.description
+  title-id: about.lymcampus.title
+  description-id: about.lymcampus.description
   ---
   :::
 

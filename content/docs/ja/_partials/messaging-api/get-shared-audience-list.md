@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-shared-audience-list
-__hash__: yqc5RWsyqyQLcdBnOLscDU9g45-8MKfwSHyb7D0rL8I
+__hash__: nVuH1wFbJREJf-yxG075PsUTo7gZ6XT3e_fY7vMC5WU
 seo:
   description: ''
 ---
@@ -111,7 +111,7 @@ seo:
   - `POINT_AD`：[LINEポイントAD](https://www.lycbiz.com/jp/service/line-point-ad/){rel="[\"nofollow\"]"}で作成したオーディエンスのみを取得
   - `AD_MANAGER`：[LINE広告](https://admanager.line.biz/){rel="[\"nofollow\"]"}で作成したオーディエンスのみを取得
   - `BUSINESS_MANAGER`：[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}で作成したオーディエンスのみを取得
-  - `YAHOO_DISPLAY_ADS`：[Yahoo!広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/yahoo-ads/displayads-auc/){rel="[\"nofollow\"]"}で作成したオーディエンスのみを取得
+  - `YAHOO_DISPLAY_ADS`：[LINEヤフー広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/ly-ads/displayads-auc/){rel="[\"nofollow\"]"}で作成したオーディエンスのみを取得
 
   複数のパラメータを指定した場合、OR条件となります。
   :::
@@ -168,7 +168,7 @@ seo:
       - `POINT_AD`：[LINEポイントAD](https://www.lycbiz.com/jp/service/line-point-ad/){rel="[\"nofollow\"]"}で作成したオーディエンス
       - `AD_MANAGER`：[LINE広告](https://admanager.line.biz/){rel="[\"nofollow\"]"}で作成したオーディエンス
       - `BUSINESS_MANAGER`：[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}で作成したオーディエンス
-      - `YAHOO_DISPLAY_ADS`：[Yahoo!広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/yahoo-ads/displayads-auc/){rel="[\"nofollow\"]"}で作成したオーディエンス
+      - `YAHOO_DISPLAY_ADS`：[LINEヤフー広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/ly-ads/displayads-auc/){rel="[\"nofollow\"]"}で作成したオーディエンス
       :::::
 
       :::::parameter-table-entry
