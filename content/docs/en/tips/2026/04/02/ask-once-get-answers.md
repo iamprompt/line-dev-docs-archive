@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-04-02 00:00 UTC","tags":"contact,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/04/02/ask-once-get-answers
-__hash__: pyuu-NVHEmZkdxhAlLsOyo6kNi9v-f1yL2-daO9z7u4
+__hash__: pnsjDebE91V39ZprkTHVlxI11lhPMDf9uFbCGMJ4F4U
 seo:
   title: How to write feedback comments that clearly convey your intent
   description: >-
@@ -23,7 +23,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/04/02" .!mb-4}
+  :::display-date{date="2026/04/02" .!mb-20}
 
   :::
 

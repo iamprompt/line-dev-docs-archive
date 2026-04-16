@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-02-26 00:00 UTC","tags":"docs,
   console","locale":"en","sidebar":false}
 path: /en/tips/2026/02/26/line-developers-console-accounts
-__hash__: 6rfTzgyOxfUKhRjfYzK5E_Enm778RqBKDrP5KJ4Yk5o
+__hash__: 4XjrK_jaLbZNmVpZTS7NtqeMIPDD-MilD6pL30Lnlmg
 seo:
   title: >-
     LINE Developers Console account management: 3 important points to keep in
@@ -21,7 +21,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/02/26" .!mb-4}
+  :::display-date{date="2026/02/26" .!mb-20}
 
   :::
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-02-26 00:00 UTC","tags":"docs,
   console","locale":"ja","sidebar":false}
 path: /ja/tips/2026/02/26/line-developers-console-accounts
-__hash__: _h_IHTobr2ACe0dZLW5osm4tRRHAyIbB5eeFwSsy4RM
+__hash__: 16NmU3-b3qtHyVKvPHJzE_28L0TXHh9nOFL_tbwvHXc
 seo:
   title: LINE Developersコンソールのアカウント管理：押さえるべき3つの注意点
   description: LINE Developersコンソールの利用には開発者アカウントなど、さまざまなアカウントが必要になります。
@@ -15,7 +15,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/02/26" .!mb-4}
+  :::display-date{date="2026/02/26" .!mb-20}
 
   :::
 

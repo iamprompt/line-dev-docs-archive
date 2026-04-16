@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/02/19/markdown-notebooklm
-__hash__: xeND-0vBsrQ3vV1o69K0Nj-742AlgtzkjHHs1qodobM
+__hash__: t-TevCcLYC6WLe2CTjnZwGIJrryzZih7ovhwj8GrKZA
 seo:
   title: >-
     Let AI read the documentation on the LINE Developers site: How to use the
@@ -23,7 +23,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/02/19" .!mb-4}
+  :::display-date{date="2026/02/19" .!mb-20}
 
   :::
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-04-02 00:00 UTC","tags":"contact,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/02/ask-once-get-answers
-__hash__: EnHPyL80GKQ1Um2kL7dJMVEuAdDePIb6jo7ptcl-fe8
+__hash__: xJIFw7TdrXiMXxqwV3-7_gbucu1rQ_1hJWYEjDrBiTQ
 seo:
   title: 意思が的確に伝わるフィードバックコメントの書き方
   description: こんにちは！テクニカルサポート担当の岡と申します。日頃から社内外の技術的な問い合わせに対応する中で、「伝わる書き方」の大切さを実感しています。
@@ -15,7 +15,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/04/02" .!mb-4}
+  :::display-date{date="2026/04/02" .!mb-20}
 
   :::
 

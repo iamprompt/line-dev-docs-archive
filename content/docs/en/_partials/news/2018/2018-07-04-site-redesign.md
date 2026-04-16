@@ -9,7 +9,7 @@ description: >-
   the site.
 meta: '{"date":"2018-07-04 00:00 UTC","tags":"Docs, Console","locale":"en"}'
 path: /en/_partials/news/2018/2018-07-04-site-redesign
-__hash__: ZHYKKOy2CO32vcSCj0lxIhDd8wYY6fuDxdQAKZOhpbU
+__hash__: 055ugqrSiaLqnltYyO3OEjet_zCfnh2a7jqp54b9ANg
 seo:
   title: Introducing the redesigned LINE Developers site
   description: >-
@@ -42,4 +42,4 @@ If you want to keep up-to-date with our latest developments, add the LINE Develo
 
 ![QR code for the LINE Developers account](https://qr-official.line.me/sid/L/linedevelopers.png){className="[\"border\",\"w-fix-200\"]"}
 
-[![Add friend](https://scdn.line-apps.com/n/line_add_friends/btn/en.png){className="[\"w-fix-200\"]"}](https://line.me/R/ti/p/@linedevelopers?from=page){className="[\"no-external-icon\"]" rel="[\"nofollow\"]"}
+[![Add friend](https://scdn.line-apps.com/n/line_add_friends/btn/en.png){className="[\"w-fix-200\"]" :zoom="false"}](https://line.me/R/ti/p/@linedevelopers?from=page){className="[\"no-external-icon\"]" rel="[\"nofollow\"]"}

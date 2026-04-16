@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersサイトが新しくなって、より使いやすくなりました。ここでは、サイトの主な変更点についてご説明します。
 meta: '{"date":"2020-01-27 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-01-27-site-redesign
-__hash__: rL9N_tNWNm-EpgIZVeybKxpX38mtdNl_N_vM9wM27lc
+__hash__: UNBM4d6xHJo6wOYK7eiqi7TW7EAy60aAGwwfY5LGD28
 seo:
   title: LINE Developersサイトがより使いやすくなりました
   description: LINE Developersサイトが新しくなって、より使いやすくなりました。ここでは、サイトの主な変更点についてご説明します。
@@ -38,4 +38,4 @@ APIリファレンスのレスポンシブデザインが改善されました�
 
 ![QR code for the LINE Developers account](https://qr-official.line.me/sid/L/linedevelopers.png){className="[\"border\",\"w-fix-200\"]"}
 
-[![Add friend](https://scdn.line-apps.com/n/line_add_friends/btn/en.png){className="[\"w-fix-200\"]"}](https://line.me/R/ti/p/@linedevelopers?from=page){className="[\"no-external-icon\"]" rel="[\"nofollow\"]"}
+[![Add friend](https://scdn.line-apps.com/n/line_add_friends/btn/en.png){className="[\"w-fix-200\"]" :zoom="false"}](https://line.me/R/ti/p/@linedevelopers?from=page){className="[\"no-external-icon\"]" rel="[\"nofollow\"]"}

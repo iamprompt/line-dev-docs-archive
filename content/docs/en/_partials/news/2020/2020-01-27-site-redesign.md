@@ -7,7 +7,7 @@ description: >-
   the documentation you need.
 meta: '{"date":"2020-01-27 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-27-site-redesign
-__hash__: Wn7A-GKYKRW83yLZKsx3_zjMeBBUKagqyUwUOcEN2zU
+__hash__: I_4IykCIkX7wh0psyLE7k-UzXxpkTwW2rQ-oHAyNTBs
 seo:
   title: Introducing the redesigned LINE Developers site
   description: >-
@@ -46,4 +46,4 @@ Keep up-to-date with the latest developments by adding the LINE Developers Offic
 
 ![QR code for the LINE Developers account](https://qr-official.line.me/sid/L/linedevelopers.png){className="[\"border\",\"w-fix-200\"]"}
 
-[![Add friend](https://scdn.line-apps.com/n/line_add_friends/btn/en.png){className="[\"w-fix-200\"]"}](https://line.me/R/ti/p/@linedevelopers?from=page){className="[\"no-external-icon\"]" rel="[\"nofollow\"]"}
+[![Add friend](https://scdn.line-apps.com/n/line_add_friends/btn/en.png){className="[\"w-fix-200\"]" :zoom="false"}](https://line.me/R/ti/p/@linedevelopers?from=page){className="[\"no-external-icon\"]" rel="[\"nofollow\"]"}

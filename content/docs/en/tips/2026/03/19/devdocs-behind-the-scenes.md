@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-03-19 00:00
   UTC","tags":"line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/03/19/devdocs-behind-the-scenes
-__hash__: REoPwxJBrROP6JysphdA_CjWcNI7AzycCXB0duy_UIE
+__hash__: '-stNT7F6BPOEzOy7vd3Cm1G7QukNJ_Q1DU-lPLiFiQA'
 seo:
   title: LINE Developers site - behind the scenes
   description: >-
@@ -21,7 +21,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/03/19" .!mb-4}
+  :::display-date{date="2026/03/19" .!mb-20}
 
   :::
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-02-12 00:00
   UTC","tags":"line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/02/12/tips-for-developers-launch
-__hash__: 1kwGNJ97R8nqhvBEl9hqVH_UIT4QpBxyuFVRSQ7tMnI
+__hash__: nBHdLAVl82ipE1eRalAsyNS6gGvqYLh4YZAFMGxIybc
 seo:
   title: Tips for Developersを新設しました
   description: こんにちは。LINE Developersサイトのドキュメントを担当している、テクニカルライターの堀越です。
@@ -15,7 +15,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/02/12" .!mb-4}
+  :::display-date{date="2026/02/12" .!mb-20}
 
   :::
 

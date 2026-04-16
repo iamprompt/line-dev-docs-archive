@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/02/19/markdown-notebooklm
-__hash__: G4LTcU-35uugBxohyrFhfzvy41Cq6YGQMhXmZ-wWggw
+__hash__: CZBMm35lexXVlho9k5_orimGhiuZDCaDlDvuhCvlJwM
 seo:
   title: AIにLINE Developersサイトのドキュメントを読ませる：Markdown表示機能の活用方法
   description: こんにちは！LINE Developersサイトのドキュメントを担当している、テクニカルライターの岡島です。
@@ -15,7 +15,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/02/19" .!mb-4}
+  :::display-date{date="2026/02/19" .!mb-20}
 
   :::
 

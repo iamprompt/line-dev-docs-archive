@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-04-09 00:00 UTC","tags":"line-login, messaging-api,
   liff","locale":"en","sidebar":false}
 path: /en/tips/2026/04/09/user-id-linking
-__hash__: WAJphuFsYwQF2JIAqeeRTM93TKGQK3YHXfL40SmaKLA
+__hash__: PCtESzLJuJQIN0xbid3_GK_5iYywWbZafzAjLi2SZIQ
 seo:
   title: How to link user IDs on the LINE Platform
   description: >-
@@ -19,7 +19,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/04/09" .!mb-4}
+  :::display-date{date="2026/04/09" .!mb-20}
 
   :::
 

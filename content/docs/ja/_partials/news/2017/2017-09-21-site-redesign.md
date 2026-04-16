@@ -7,7 +7,7 @@ description: >-
   APIなどのサービスを導入し、必要なドキュメントを参照していただけるようになりました。ここでは、サイトの主な変更点についてご説明します。
 meta: '{"date":"2017-09-21 00:00 UTC","tags":"Docs, Console","locale":"ja"}'
 path: /ja/_partials/news/2017/2017-09-21-site-redesign
-__hash__: VXP9hZF_GDzMjrocjpI0rGN35s4zp4eY5MnVOaygF-o
+__hash__: O4qa-lTvX2ZcNqpVYJKPybeQ4LAsDfbzr1fLwr8UQuY
 seo:
   title: LINE Developersサイトのデザインが新しくなりました
   description: >-
@@ -96,4 +96,4 @@ Messaging APIについて、以下の記事をはじめとするさまざまな�
 
 ![LINE DevelopersアカウントのQRコード](https://qr-official.line.me/sid/L/linedevelopers.png){className="[\"border\",\"w-fix-240\"]"}
 
-[![友だち追加](https://biz.line.naver.jp/line_business/img/btn/addfriends_en.png){className="[\"w-fix-240\"]"}](https://line.me/R/ti/p/@linedevelopers?from=page){rel="[\"nofollow\"]" className="[\"no-external-icon\"]"}
+[![友だち追加](https://biz.line.naver.jp/line_business/img/btn/addfriends_en.png){className="[\"w-fix-240\"]" :zoom="false"}](https://line.me/R/ti/p/@linedevelopers?from=page){rel="[\"nofollow\"]" className="[\"no-external-icon\"]"}

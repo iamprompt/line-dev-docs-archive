@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-02-12 00:00
   UTC","tags":"line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/02/12/tips-for-developers-launch
-__hash__: TclM6f1XtT0ZD3R0DuOvm41bd02kIa4_xl5v7aHXs5A
+__hash__: tatL1iwgu4v5I4svNBHxCSvQeJVRrSrpf1KrJ-W45yM
 seo:
   title: Introducing Tips for Developers
   description: >-
@@ -19,7 +19,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/02/12" .!mb-4}
+  :::display-date{date="2026/02/12" .!mb-20}
 
   :::
 

@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-03-12 00:00
   UTC","tags":"messaging-api","locale":"en","sidebar":false}
 path: /en/tips/2026/03/12/icon-nickname-switch
-__hash__: 31kuc-mIUMuy5XZU6A8IeFgYuzUcdvHjRzSct82DL6I
+__hash__: eV1UfvgbgkEyzPw8w2oFTDUvhOm4E9c_Lz5WtaDAuik
 seo:
   title: >-
     In the Messaging API, you can customize the sender icon and display name for
@@ -23,7 +23,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/03/12" .!mb-4}
+  :::display-date{date="2026/03/12" .!mb-20}
 
   :::
 

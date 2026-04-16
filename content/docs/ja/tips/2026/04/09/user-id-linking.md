@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-04-09 00:00 UTC","tags":"line-login, messaging-api,
   liff","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/09/user-id-linking
-__hash__: P7JR_OJUcszZHZ4EVq1Uu5VQR_uqXL66vVdRRlLFH-M
+__hash__: hcY_goPTYQZNLsbdZHsFyvXkMPS0LkuGtihavFz7p1w
 seo:
   title: LINEプラットフォームでユーザーIDを連携する方法
   description: LINEプラットフォームを使った開発では、ユーザーIDを連携することで実現できることが大きく広がります。
@@ -15,7 +15,7 @@ seo:
 ::Tips
 # :page-title
 
-  :::display-date{date="2026/04/09" .!mb-4}
+  :::display-date{date="2026/04/09" .!mb-20}
 
   :::
 
