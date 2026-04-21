@@ -6,7 +6,7 @@ description: >-
   numbers hashed with the SHA256 algorithm.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/technical-specs
-__hash__: u_MqYpVZ7S4S821pSc8kms58BvmXt8ih6F6fayaQcr4
+__hash__: PVk62R5SaPCYvvIJ7g9wTlT7iyS_JJAPiQ8wpmjtqN0
 seo:
   title: Technical specifications of the LINE notification messages API
   description: >-
@@ -98,7 +98,7 @@ For more information on setting up LINE notification messages in the LINE app, s
 ## Additional information about LINE notification messages and API
 
 - [About the "LINE notification message received" message](#about-recive-the-new-line-notification-message)
-- [How to consent to get LINE notification messages](#how-to-consent-for-line-notification-messages)
+- [LINE notification message reception settings](#how-to-consent-for-line-notification-messages)
 - [Messages sent when you haven't consented to get LINE notification messages](#user-has-not-given-consent-when-receive-line-notification-messages)
 - [About LINE notification messages API requests for users who have blocked the LINE Official Account](#about-pnp-api-block-response)
 - [When the LINE notification messages API request is successful but the message isn't sent](#why-i-cant-receive-line-notification-messages)
@@ -118,25 +118,21 @@ If the user designated by the LINE notification messages API as the receiver of 
 Additionally, LINE notification messages sent while the user had blocked the LINE Official Account won't be delivered even after the user unblock it.
 ::
 
-### How to consent to get LINE notification messages
+### LINE notification message reception settings
 
-In addition to when you actually get LINE notification messages, you can also consent (or refuse) to get LINE notification messages from the LINE app by going to **Settings** > **Privacy** > **Provide usage data** > **LINE notification messages**.
+When a LINE notification message is sent to users, they can consent (or refuse) to get LINE notification messages. Users can also consent (or refuse) at any time from the LINE app by going to **Settings** > **Privacy** > **Provide usage data** > **LINE notification messages**, even when no LINE notification message has been sent.
 
 ![Agree to receive LINE notification messages](/media/line-notification-message/consent-line-notification-message-en.png){className="[\"border\",\"w-fix-280\"]"}
 
-::admonition
----
-title: Settings for getting LINE notification messages
-type: note
----
+#### States of reception settings
+
 There are three states for setting up the receipt of LINE notification messages.
 
-| State        | Description                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Agree (on)   | Get LINE notification messages.                                                                                                                                                                                                                                                                                                                                                                                  |
-| Reject (off) | Refuse to get LINE notification messages. Line notification messages won't be sent.                                                                                                                                                                                                                                                                                                                              |
-| Not set      | Neither consent or refuse. When getting a LINE notification message, a message will be sent asking for consent to get LINE Notification messages.- If you created a new LINE account in the LINE app version 8.0.0 or earlier, your consent to get LINE notification messages will be "not set". - If you change the status to anything other than "not set" even once, you can't return to the "not set" state. |
-::
+| State        | Description                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Agree (on)   | Consented to receive. LINE notification messages will be sent.                                                                                                                                                                                                                                                                                                                                                           |
+| Reject (off) | Refused to receive. LINE notification messages won't be sent.                                                                                                                                                                                                                                                                                                                                                            |
+| Not set      | Neither consented nor refused yet. When getting a LINE notification message, a message will be sent asking for consent to get LINE notification messages.- If you created a new LINE account in the LINE app version 8.0.0 or earlier, your consent to get LINE notification messages will be "not set". - If you change the status to anything other than "not set" even once, you can't return to the "not set" state. |
 
 ### Messages sent when you haven't consented to get LINE notification messages
 
