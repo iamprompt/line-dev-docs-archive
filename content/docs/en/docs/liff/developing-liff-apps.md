@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/developing-liff-apps
-__hash__: l8c3aBi11JDdttF10j2yvPBHOs3JwgZQP8_sp1mGx28
+__hash__: ahSdIWfL3FbS63Nv29eacPms_xddnVZIq8vtSiQxTDU
 seo:
   title: Developing a LIFF app
   description: ''
@@ -522,6 +522,8 @@ When [adding a LIFF app to your channel](/docs/liff/registering-liff-apps/), sel
 ### Requesting the user to add the LINE Official Account as a friend or unblock it
 
 Displays a subwindow that prompts the user to add the LINE Official Account as a friend, or to unblock it.
+
+![](/media/liff/request-friendship/request-friendship-add-friend-en.png){className="[\"border\",\"w-fix-200\"]"}
 
 - If the user has not added the LINE Official Account as a friend, a subwindow that prompts the user to add it as a friend is displayed.
 - If the user has blocked the LINE Official Account, a subwindow that prompts the user to unblock it is displayed.

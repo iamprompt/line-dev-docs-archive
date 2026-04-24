@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/custom-features
-__hash__: lJMpsZi9Sr7Yt1KfR0k2yjaQukq5D6bPnxEmBll_j7w
+__hash__: Fbi6mZfForHfzUohHQ6ILtnQc_fKl38ikKC7-5-0K8Q
 seo:
   title: Custom features
   description: null
@@ -76,7 +76,7 @@ By implementing Quick-fill in LINE MINI Apps, users can automatically fill in re
 
 With LINE MINI App, you can induce users to add your Official Account as a friend from the [verification screen](/docs/line-mini-app/develop/configure-console/#verification-screen) or the [channel consent screen](/docs/line-mini-app/develop/configure-console/#consent-screen-settings), using the add friend option.
 
-For more information, see [Add the LINE Official Account as a friend on the LINE MINI App (add friend option)](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel).
+For more information, see [Add friend option](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel).
 
 ![bot link feature 1](/media/line-mini-app/miniguide-incremental-01-en.png){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![bot link feature 2](/media/line-mini-app/miniguide-incremental-02-en.png){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
 

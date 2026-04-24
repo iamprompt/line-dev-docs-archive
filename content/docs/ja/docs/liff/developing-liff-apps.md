@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/developing-liff-apps
-__hash__: lm_nYGM5TlVEGSLWWBJ061_ZlUYMsCcuhlgS_irLCqE
+__hash__: OKQBNZ-9UStvA_E8dhMBdpf9gkMsTy5kfhnjPF_uS4E
 seo:
   title: LIFFアプリを開発する
   description: ''
@@ -503,6 +503,8 @@ liff.getFriendship().then((data) => {
 ### ユーザーにLINE公式アカウントの友だち追加またはブロック解除を促す
 
 LINE公式アカウントの友だち追加、またはブロック解除を促すサブウィンドウを表示します。
+
+![](/media/liff/request-friendship/request-friendship-add-friend-ja.png){className="[\"border\",\"w-fix-200\"]"}
 
 - LINE公式アカウントと友だちになっていない場合は、友だち追加を促すサブウィンドウが表示されます。
 - LINE公式アカウントをブロックしている場合は、ブロック解除を促すサブウィンドウが表示されます。
