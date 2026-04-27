@@ -3,10 +3,9 @@ title: 「いいね」ボタンを設置する
 navigation: true
 description: >-
   「いいね」ボタンは、「友だち追加」ボタンと一緒に設置することもできます。「友だち追加」ボタンと一緒に設置するには、LINE公式アカウントのIDが必要になります。
-meta: >-
-  {"sidebar_title":"「いいね」ボタンを設置する","tags":null,"author":null,"last_updated":null,"source_language":"ja"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/install-guide/using-like-buttons
-__hash__: w3uAw7lwOJQiBvrBzkGUEsaQZGC3A2fceiZukGuSA-k
+__hash__: TvCw40XROq2KEwmQCvKAsl1LB99EO4Fgl_WPvlevPWU
 seo:
   title: 「いいね」ボタンを設置する
   description: >-

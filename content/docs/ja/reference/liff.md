@@ -1,12 +1,12 @@
 ---
-title: LIFF v2 APIリファレンス
+title: LIFF APIリファレンス
 navigation: true
 description: ''
 meta: '{"pageClass":"api-reference-page"}'
 path: /ja/reference/liff
-__hash__: QVV6PkWVyxhmvqPdgY3k94D0GfO_QdAWx6sJZFoxdx8
+__hash__: p6h4ogKKmKQmZcFDEVedojg8ATfnLHTRDWcKXAI1fmw
 seo:
-  title: LIFF v2 APIリファレンス
+  title: LIFF APIリファレンス
   description: ''
 ---
 

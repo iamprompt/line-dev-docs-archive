@@ -1,12 +1,12 @@
 ---
-title: LINE Front-end Framework (LIFF)
+title: LIFFの概要
 navigation: true
 description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/overview
-__hash__: x0rjHGHasspeTGhPyRDHq4LiiI1oUgjkNhijnS1MQLM
+__hash__: o5IFnVyXzfWMo1_4T-ve2UgopQg0nYe0PHfybXHDpoM
 seo:
-  title: LINE Front-end Framework (LIFF)
+  title: LIFFの概要
   description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
 ---
 
@@ -30,7 +30,7 @@ LINEヤフー株式会社では開発者向けに[LIFFプレイグラウンド](
 
 LIFFの推奨環境は以下のとおりです。
 
-なお、LIFFアプリを[LIFFブラウザ](#liff-browser)で開いた場合と、:glossary-tooltip[[外部ブラウザ](/glossary/#external-browser)]{glossary-id="external-browser"}で開いた場合では、使用できる機能が異なります。たとえば、`liff.scanCode()`は、外部ブラウザでは利用できません。詳しくは、「[LIFF v2 APIリファレンス](/reference/liff/)」を参照してください。
+なお、LIFFアプリを[LIFFブラウザ](#liff-browser)で開いた場合と、:glossary-tooltip[[外部ブラウザ](/glossary/#external-browser)]{glossary-id="external-browser"}で開いた場合では、使用できる機能が異なります。たとえば、`liff.scanCode()`は、外部ブラウザでは利用できません。詳しくは、「[LIFF APIリファレンス](/reference/liff/)」を参照してください。
 
 ### LIFFアプリをLIFFブラウザで開く場合
 

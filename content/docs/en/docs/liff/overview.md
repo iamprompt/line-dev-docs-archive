@@ -1,12 +1,12 @@
 ---
-title: LINE Front-end Framework (LIFF)
+title: LIFF overview
 navigation: true
 description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/liff/overview
-__hash__: 1IGP0RO2WrKXE8yQakuw-VL7AmI4W5QjC3npOV77IP0
+__hash__: 7o0MKxRNwru8Vf83C1IGdlRnMfCRuIPCc2VCAPr1ZCw
 seo:
-  title: LINE Front-end Framework (LIFF)
+  title: LIFF overview
   description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
 ---
 
@@ -30,7 +30,7 @@ Currently, LIFF apps are not officially supported in OpenChat, which means some 
 
 The recommended versions of operating systems and LINE for LIFF are as follows.
 
-Which functions you can use depends on whether the LIFF app is opened in a [LIFF browser](#liff-browser) or an :glossary-tooltip[[external browser](/glossary/#external-browser)]{glossary-id="external-browser"}. For example, you can't use `liff.scanCode()` in an external browser. For more information, see the [LIFF v2 API reference](/reference/liff/).
+Which functions you can use depends on whether the LIFF app is opened in a [LIFF browser](#liff-browser) or an :glossary-tooltip[[external browser](/glossary/#external-browser)]{glossary-id="external-browser"}. For example, you can't use `liff.scanCode()` in an external browser. For more information, see the [LIFF API reference](/reference/liff/).
 
 ### When the LIFF app is opened in a LIFF browser
 

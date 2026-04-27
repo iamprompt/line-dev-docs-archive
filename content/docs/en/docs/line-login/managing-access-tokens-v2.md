@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login/managing-access-tokens-v2
-__hash__: rJA8BlXDVZCqMfURgxTFQiB1Ajbe0zRJjK0SrhMST5Y
+__hash__: UVLqlWNZJ5q3nyedriOpqFEX6zMZacMWpYl9Jg1D3-I
 seo:
   title: Managing access tokens (LINE Login v2.0)
   description: null
@@ -26,7 +26,7 @@ To learn more, see:
 
 **LINE Login:**
 
-- [Integrating LINE Login v2.0 with your web app](/docs/line-login/integrate-line-login-v2/)
+- [Integrating LINE Login (v2.0) with your web app](/docs/line-login/integrate-line-login-v2/)
 
 ::admonition{title="Access token validity period" type="note"}
 An access token is valid for 30 days after being issued. Any response with an access token also includes the number of seconds until the token expires in the `expires_in` property.
@@ -61,5 +61,4 @@ When the LINE Login API successfully verifies an access token, its response cont
 | ------------ | ------------------------------------------------------- |
 | `client_id`  | Channel ID of the LINE Login channel linked to your app |
 | `expires_in` | A positive value                                        |
-|              |                                                         |
 ::

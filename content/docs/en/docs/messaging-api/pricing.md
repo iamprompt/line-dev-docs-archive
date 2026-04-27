@@ -2,10 +2,9 @@
 title: Messaging API pricing
 navigation: true
 description: null
-meta: >-
-  {"sidebar_title":"Pricing","tags":null,"author":null,"last_updated":null,"source_language":null}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/pricing
-__hash__: izWqgkqwz1jtgFFkq9XjkbeOjUUpHP5RoeONg5hgA84
+__hash__: '-StXpTBj_ayQKwL6MbdfqYyrLkHIFoBHIedA7fb0c6I'
 seo:
   title: Messaging API pricing
   description: null

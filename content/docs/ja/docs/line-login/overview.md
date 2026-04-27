@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインをウェブアプリやネイティブアプリに組み込むと、ユーザーがLINEログインを使用できるようになります。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login/overview
-__hash__: 1UM1cZLkzNYnX-twSrdhBOBbiytnxtzOI9n2B_sPbsE
+__hash__: 9nQKTNcgApFPLCVAqza594SqKuMoDn590B9nBQb4LfU
 seo:
   title: LINEログインの概要
   description: LINEログインをウェブアプリやネイティブアプリに組み込むと、ユーザーがLINEログインを使用できるようになります。
@@ -195,5 +195,5 @@ LINE Developersコンソールで既存チャネルを編集する際に、［**
 ## 関連ページ
 
 - [LINEログイン開発ガイドライン](/docs/line-login/development-guidelines/)
-- [セキュリティチェックリスト](/docs/line-login/security-checklist/)
+- [LINEログインのセキュリティチェックリスト](/docs/line-login/security-checklist/)
 - [LINEログイン v2.1 APIリファレンス](/reference/line-login/)

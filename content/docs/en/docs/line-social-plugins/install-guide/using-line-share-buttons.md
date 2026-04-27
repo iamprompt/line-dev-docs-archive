@@ -7,11 +7,9 @@ description: >-
   we recommend that you use the Share with screen. For more information on how
   to add this screen, refer to the Using LINE Features with the LINE URL Scheme
   page.
-meta: >-
-  {"sidebar_title":"Using Share
-  buttons","tags":null,"author":null,"last_updated":null,"source_language":"en"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/install-guide/using-line-share-buttons
-__hash__: PYOkgrixjXXzQSCu6YsWFu75VNy8TtB2NK0v-RByDXY
+__hash__: _AXkJWdCBY6uM7uUKGXDNOkXaGf57yXMU0zxIfRm1Ug
 seo:
   title: Using Share buttons
   description: >-

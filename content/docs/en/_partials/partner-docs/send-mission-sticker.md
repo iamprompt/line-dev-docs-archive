@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/partner-docs/send-mission-sticker
-__hash__: FbqnFZeF4FgWTqPPb-NfOxpkuG7ks8wp6LuXg0GC8to
+__hash__: VFFgomqMLQIIoa5Clr9ltk93eueVJBbiZN6qItzBAP0
 seo:
   description: ''
 ---
 
-## Mission stickers API
+## Mission Sticker API
 
 Mission stickers are provided to users upon completion of certain objectives. Using stickers as an incentive, users are encouraged to "link ID information," "register as a member," or "answer a questionnaire."
 

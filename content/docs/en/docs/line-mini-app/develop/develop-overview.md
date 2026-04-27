@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/develop-overview
-__hash__: l59zCUysjxMyWEC8fsL6rBDR6JeaJn_F75L-ia1L5ew
+__hash__: iOy6jQjVluvOflrtof2lwceiEzMB7BfrR68pjZdE2zM
 seo:
   title: Getting started
   description: null
@@ -16,7 +16,7 @@ seo:
 
 - Discover LINE MINI App
 
-  - [Specifications](/docs/line-mini-app/discover/specifications/)
+  - [LINE MINI App specifications](/docs/line-mini-app/discover/specifications/)
 - Design
 
   - [LINE MINI App icon specifications and guidelines](/docs/line-mini-app/design/line-mini-app-icon/)
@@ -114,7 +114,7 @@ For more information, see [Best practices for provider and channel management](/
 
 Once you create a LINE MINI App channel, you can start developing a LINE MINI App. Think of developing a LINE MINI App as using [LIFF](/docs/liff/overview/) with additional requirements and restrictions as explained in this guide.
 
-For more information, see the [Specifications](/docs/line-mini-app/discover/specifications/).
+For more information, see the [LINE MINI App specifications](/docs/line-mini-app/discover/specifications/).
 
 ### Internal structure of a LINE MINI App channel
 

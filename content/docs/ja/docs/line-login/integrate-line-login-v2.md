@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/integrate-line-login-v2
-__hash__: 0D8RCXF8wJaWtG97WabpTLyKn7GphtaIvGjdvSQTG5o
+__hash__: ZW14hGb0pKt2s9q3qw7iVQkln6Vqz33qf9xbix4MY8c
 seo:
   title: ウェブアプリにLINEログインを組み込む（LINEログイン v2.0）
   description: null
@@ -64,7 +64,6 @@ https://access.line.me/dialog/oauth/weblogin?response_type=code&client_id=123456
 | `client_id`     | String | 必須  | LINEログインチャネルのチャネルID。[LINE Developersコンソール](/console/)で確認できます。                                                                                                                    |
 | `redirect_uri`  | String | 必須  | [LINE Developersコンソール](/console/)に登録したコールバックURL                                                                                                                                  |
 | `state`         | String | 必須  | [クロスサイトリクエストフォージェリ](https://wikipedia.org/wiki/Cross-site_request_forgery){rel="[\"nofollow\"]"}防止用の固有な英数字の文字列。 **ログインセッションごとにウェブアプリでランダムに生成してください。** なお、URLエンコードされた文字列は使用できません。 |
-|                 |        |     |                                                                                                                                                                                  |
 
 ### ユーザーがユーザー認証と認可を行う
 
@@ -92,7 +91,6 @@ LINEログインを組み込むウェブアプリ側で、認可の機能を実�
 | ------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `code`  | String | アクセストークンの取得に使用される認可コード。有効期間は10分です。また、認可コードは1回のみ利用可能です。                                                                                                       |
 | `state` | String | [クロスサイトリクエストフォージェリ](https://wikipedia.org/wiki/Cross-site_request_forgery){rel="[\"nofollow\"]"}防止用の固有な英数字の文字列。この値が認可URLに付与した`state`パラメータの値と一致することを検証してください。 |
-|         |        |                                                                                                                                                              |
 
 リダイレクト先URLの例：
 
@@ -111,7 +109,6 @@ https://example.com/callback?code=b5fd32eacc791df&state=123abc
 | `errorCode`         | Number | `417`                                                                                                   |
 | `state`             | String | 認可URLに含めた`state`パラメータ。この値で、どのプロセスが拒否されたか特定できます。                                                         |
 | `error`             | String | `access_denied`                                                                                         |
-|                     |        |                                                                                                         |
 
 リダイレクト先URLの例：
 
@@ -154,4 +151,4 @@ curl -v -X POST https://api.line.me/v2/oauth/accessToken \
 取得したアクセストークンを使って、以下の操作を行えます。
 
 - [アクセストークンを管理する（LINEログイン v2.0）](/docs/line-login/managing-access-tokens-v2/)
-- [ユーザーを管理する（LINEログイン v2.0](/docs/line-login/managing-users-v2/)
+- [ユーザーを管理する（LINEログイン v2.0）](/docs/line-login/managing-users-v2/)

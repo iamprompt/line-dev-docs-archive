@@ -4,7 +4,7 @@ navigation: true
 description: Notice for corporate customers. See also the News.
 meta: '{"layout":"feature-index"}'
 path: /en/docs/partner-docs/notice
-__hash__: e_xlV0fTPtt4JORo6It0KnPOQ4IFzvvHbRYDG1Rl7O8
+__hash__: xtJ7AiAQSjddxvdrJPqZcEflY7XSzbgDg6D-Mkz4YCw
 seo:
   title: Notice for corporate customers
   description: Notice for corporate customers. See also the News.
@@ -16,9 +16,9 @@ seo:
 
 2026/02/19
 
-## Changes to some error responses in the Mission stickers API
+## Changes to some error responses in the Mission Sticker API
 
-We've modified the content of certain error responses in the [Provide mission stickers to the users](/reference/partner-docs/#send-mission-stickers-v3) endpoint of the Mission stickers API to prevent the inference of user attribute information.
+We've modified the content of certain error responses in the [Provide mission stickers to the users](/reference/partner-docs/#send-mission-stickers-v3) endpoint of the Mission Sticker API to prevent the inference of user attribute information.
 
 For more information, see the [Error messages](/reference/partner-docs/#send-mission-stickers-v3-error-messages) section of the provide mission stickers to the users endpoint.
 
@@ -42,15 +42,15 @@ For more information, see [Difference in appearance from other messages](/docs/p
 
 2025/06/18
 
-## We've changed the endpoint name of the Mission stickers API
+## We've changed the endpoint name of the Mission Sticker API
 
-To improve clarity, we've renamed the "Send mission stickers (v3)" endpoint of the Mission stickers API. There are no changes to its functionality.
+To improve clarity, we've renamed the "Send mission stickers (v3)" endpoint of the Mission Sticker API. There are no changes to its functionality.
 
 | Name before change         | Name after change (current)           |
 | -------------------------- | ------------------------------------- |
 | Send mission stickers (v3) | Provide mission stickers to the users |
 
-For more information, see [Mission stickers API](/reference/partner-docs/#mission-stickers) in the options for corporate customers API reference.
+For more information, see [Mission Sticker API](/reference/partner-docs/#mission-stickers) in the options for corporate customers API reference.
 
 2025/06/02
 
@@ -268,7 +268,7 @@ For more information, see [LINE API Policy Handbook](/docs/partner-docs/api-poli
 
 LINE notification messages is a service that enables you to send messages to users by specifying their phone numbers, even if you don't know their :glossary-tooltip[[User IDs](/glossary/#user-id)]{glossary-id="user-id"}. Even if a user hasn't added your LINE Official Account as a friend, you can send the user messages from your LINE Official Account.
 
-In addition to the previously released overview of LINE notification messages, documentation such as [Technical Specifications of the LINE notification messages API](/docs/partner-docs/line-notification-messages/technical-specs/) (Only available in Japanese) and [LINE notification messages API Reference](/reference/line-notification-messages/) (Only available in Japanese) has been released.
+In addition to the previously released overview of LINE notification messages, documentation such as [Technical specifications of the LINE notification messages API](/docs/partner-docs/line-notification-messages/technical-specs/) (Only available in Japanese) and [LINE notification messages API Reference](/reference/line-notification-messages/) (Only available in Japanese) has been released.
 
 For more information about the LINE notification messages, see [LINE notification messages overview](/docs/partner-docs/line-notification-messages/overview/).
 
@@ -337,7 +337,7 @@ Note that if you specify a name of aggregation unit that exceeds the maximum cha
 We've updated the [Changes](#partner-news-20210428-01) and [Estimated date of change](#partner-news-20210428-02).
 ::
 
-These changes are planned for [Error notification](/docs/partner-docs/error-notification/) provided as a Messaging API function.
+These changes are planned for [error notification](/docs/partner-docs/error-notification/) provided as a Messaging API function.
 
 ### Changes
 

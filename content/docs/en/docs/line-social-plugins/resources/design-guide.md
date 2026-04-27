@@ -5,11 +5,9 @@ description: >-
   You can use custom icons to create your own design of the Share button. For
   more information on adding this button to your website, refer to the section
   on Using Share buttons.
-meta: >-
-  {"sidebar_title":"Design
-  guide","tags":null,"author":null,"last_updated":null,"source_language":"en"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/resources/design-guide
-__hash__: eADtWyD6N1JWD7R5P6b2j43egvp_yyCP3PeL2X7D3Is
+__hash__: r-eJFwa9LCRZj6dvsRlRRmF4FH4LWtcgm0pyLeOW-go
 seo:
   title: Design guide
   description: >-

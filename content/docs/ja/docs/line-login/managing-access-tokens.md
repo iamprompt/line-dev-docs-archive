@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/managing-access-tokens
-__hash__: tSOlfYODFTG--F16m2UZRLf304em76SbmKJyCByYbwg
+__hash__: aSURZqbyYAIjzbFb7qMDzg15rXENIJLZ5oEzyWhfGJA
 seo:
   title: アクセストークンを管理する
   description: null
@@ -23,7 +23,7 @@ seo:
 **LINEログイン：**
 
 - [ウェブアプリにLINEログインを組み込む](/docs/line-login/integrate-line-login/)
-- [iOSアプリにLINEログインを組み込む - Swift](/docs/line-login-sdks/ios-sdk/swift/integrate-line-login/)
+- [iOSアプリにLINEログインを組み込む](/docs/line-login-sdks/ios-sdk/swift/integrate-line-login/)
 - [AndroidアプリにLINEログインを組み込む](/docs/line-login-sdks/android-sdk/integrate-line-login/)
 - [UnityゲームにLINEログインを組み込む](/docs/line-login-sdks/unity-sdk/integrate-line-login/)
 - [LINE SDK for Flutter](/docs/line-login-sdks/flutter-sdk/)

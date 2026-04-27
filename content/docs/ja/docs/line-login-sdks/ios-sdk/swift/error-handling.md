@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for iOS Swiftでは詳しいエラーが報告されます。ユーザーがエラーから復帰できるように、報告されたエラーを制御してください。
 meta: '{}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/error-handling
-__hash__: zKQpBpz7iIMybVO5nk-Ml3jKAayMtT8ieIHdwued7ps
+__hash__: Qq2toDaTLvEXmnTV9wRyNCcu2dy7OR9AXS1Ztht92RE
 seo:
   title: エラーを制御する
   description: LINE SDK for iOS Swiftでは詳しいエラーが報告されます。ユーザーがエラーから復帰できるように、報告されたエラーを制御してください。
@@ -137,4 +137,4 @@ case .failure(let error):
 
 発生する可能性のあるエラーのコードとその内容については、『LINE SDK for iOS Swiftリファレンス（英語）』の「[LineSDKError](/en/reference/ios-sdk-swift/Enums/LineSDKError.html)」を参照してください。
 
-LINE SDK for iOS Swiftのバージョンアップと共に、より多くのエラーが追加される可能性があります。SDKをアップグレードする前に「[リリースノート](/docs/line-login-sdks/ios-sdk/release-notes/)」で大幅な変更がないか確認し、アプリ側のエラー制御方法を更新する必要があるかどうかを判定してください。
+LINE SDK for iOS Swiftのバージョンアップと共に、より多くのエラーが追加される可能性があります。SDKをアップグレードする前に「[iOS SDKリリースノート](/docs/line-login-sdks/ios-sdk/release-notes/)」で大幅な変更がないか確認し、アプリ側のエラー制御方法を更新する必要があるかどうかを判定してください。

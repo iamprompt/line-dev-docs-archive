@@ -5,11 +5,9 @@ description: >-
   You need to have a LINE Official Account to use the Add friend button. When
   your website visitor clicks this button, your Official Account will be added
   as their LINE friend.
-meta: >-
-  {"sidebar_title":"Using Add friend
-  buttons","tags":null,"author":null,"last_updated":null,"source_language":"en"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/install-guide/using-add-friend-buttons
-__hash__: Jq-J1zeYFPrnn-0qT2BcR17HQnVE6yGunmDbKRXkidM
+__hash__: ghChTyvVryrqpoaKTpsnkdQK1BA-ZaCHS9Hl7IBTTCQ
 seo:
   title: Using Add friend buttons
   description: >-

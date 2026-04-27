@@ -6,7 +6,7 @@ description: >-
   the LINE Platform APIs into your Unity games.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login-sdks/unity-sdk/overview
-__hash__: 5zNI-5K1hS676dZR_S1tjQxVqRoDIZmYevpjdXZYuzo
+__hash__: eIBQUfCUJyNhnuALAV0iDQJQ3nRvBMlM7KbKhftMZpk
 seo:
   title: LINE SDK for Unity overview
   description: >-
@@ -62,13 +62,11 @@ This guide explains how to integrate the LINE SDK with your Unity game and use t
 | [Setting up project](/docs/line-login-sdks/unity-sdk/project-setup/)                                 | The prerequisites and environment needed for integrating the LINE SDK for Unity.                               |
 | [Trying the starter app](/docs/line-login-sdks/unity-sdk/try-line-login/)                            | How to run our starter app.                                                                                    |
 | [Integrating LINE Login with your Unity game](/docs/line-login-sdks/unity-sdk/integrate-line-login/) | How to integrate the LINE SDK into your project and leverage LINE Login to improve your app's user experience. |
-| [Using the SDK](/docs/line-login-sdks/unity-sdk/using-sdk/)                                          | Usage and other details of LINE SDK for Unity.                                                                 |
+| [Using LINE SDK for other APIs and result handling](/docs/line-login-sdks/unity-sdk/using-sdk/)      | Usage and other details of LINE SDK for Unity.                                                                 |
 | [LINE SDK for Unity reference](/reference/unity-sdk/)                                                | Detailed information on the interfaces and classes available in the SDK.                                       |
 
 ## Other resources
 
-You can access the following information from the [top page](/docs/line-login-sdks/unity-sdk/) of the LINE SDK for Unity guide.
-
-| Title                                                           | Content                 |
-| --------------------------------------------------------------- | ----------------------- |
-| [Release notes](/docs/line-login-sdks/unity-sdk/release-notes/) | Change log for the SDK. |
+| Title                                                                                  | Content                 |
+| -------------------------------------------------------------------------------------- | ----------------------- |
+| [Release notes for LINE SDK for Unity](/docs/line-login-sdks/unity-sdk/release-notes/) | Change log for the SDK. |

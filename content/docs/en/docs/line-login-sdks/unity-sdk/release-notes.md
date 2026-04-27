@@ -1,12 +1,12 @@
 ---
-title: Release notes
+title: Release notes for LINE SDK for Unity
 navigation: true
 description: Release notes for the LINE SDK for Unity. See the latest changes and releases.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login-sdks/unity-sdk/release-notes
-__hash__: hC3_Wk0JInBfmEdE2u6QZkUDkqBNnGKO5Ae_o66rk2U
+__hash__: 5MQZL-gx04UkZlALUpsaS4W7IrGiIm9Xz9jsZliHAjc
 seo:
-  title: Release notes
+  title: Release notes for LINE SDK for Unity
   description: >-
     Release notes for the LINE SDK for Unity. See the latest changes and
     releases.

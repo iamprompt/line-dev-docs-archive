@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for AndroidはLINEログインをAndroidアプリに組み込むための最新のSDKです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/android-sdk/overview
-__hash__: SV9q9v93Mio0evQE9gvZdxUje2O8CGhBM0Y3mFFAWrM
+__hash__: eT0ru5gWSxVTkcegaqXH30u26WJ-188du2fEAGY5nGs
 seo:
   title: LINE SDK for Androidの概要
   description: LINE SDK for AndroidはLINEログインをAndroidアプリに組み込むための最新のSDKです。
@@ -70,9 +70,7 @@ AndroidアプリでLINE SDKを使用するには、以下の手順に従いま�
 
 ## その他のリソース
 
-『LINE SDK for Androidガイド』の[トップページ](/docs/line-login-sdks/android-sdk/)から、以下の情報を参照できます。
-
-| タイトル                                                        | 内容                 |
-| ----------------------------------------------------------- | ------------------ |
-| [リリースノート](/docs/line-login-sdks/android-sdk/release-notes/) | SDKの変更履歴           |
-| [ダウンロード](/docs/downloads/)                                  | LINE SDKのダウンロードリンク |
+| タイトル                                                                   | 内容                 |
+| ---------------------------------------------------------------------- | ------------------ |
+| [Android SDKリリースノート](/docs/line-login-sdks/android-sdk/release-notes/) | SDKの変更履歴           |
+| [LINE APIのSDK](/docs/downloads/)                                       | LINE SDKのダウンロードリンク |

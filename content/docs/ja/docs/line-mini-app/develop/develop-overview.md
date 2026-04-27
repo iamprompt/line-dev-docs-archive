@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/develop-overview
-__hash__: QO1cyD5q5VxVvyn1e3pOyG4wUWZKGsWGm_EU6QFu90g
+__hash__: eujqTbpQo0nvcU2QV7cSLaCuYOOQpgky1xK9JEsw_40
 seo:
   title: 開発を始めよう
   description: null
@@ -16,7 +16,7 @@ seo:
 
 - LINEミニアプリを知る
 
-  - [仕様](/docs/line-mini-app/discover/specifications/)
+  - [LINEミニアプリの仕様](/docs/line-mini-app/discover/specifications/)
 - デザイン
 
   - [LINEミニアプリのアイコンの仕様とガイドライン](/docs/line-mini-app/design/line-mini-app-icon/)

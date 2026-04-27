@@ -2,11 +2,9 @@
 title: Release notes
 navigation: true
 description: Release notes
-meta: >-
-  {"sidebar_title":"Release
-  notes","tags":null,"author":null,"last_updated":null,"source_language":"en"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/resources/release-notes
-__hash__: xtuR2VDV-rw20SNlnvYo20fAiQPXU3gTCcBZTOP5chU
+__hash__: QPiq81jlGN8V8GHe84WWJb9FXTM0NKA7Hq-qBE1GIhY
 seo:
   title: Release notes
   description: Release notes

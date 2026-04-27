@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-flex-messages
-__hash__: kUYlVPKYcSDTsQ-BHwFVMFVUyEhowF1II9MVZjsfnS8
+__hash__: JDrhfbsC_oSzOrrqWtzpEhGjcMfrTyPm9x929sHOI7E
 seo:
   title: Send Flex Messages
   description: null
@@ -39,6 +39,8 @@ Flex Messages are supported in all LINE versions. The features listed below aren
 | - `maxWidth` property of [box](/reference/messaging-api/#box) - `maxHeight` property of [box](/reference/messaging-api/#box) - `lineSpacing` property of [text](/reference/messaging-api/#f-text) - [Video](/reference/messaging-api/#f-video) *1                | 11.22.0 or later                | 7.7.0 or later                 |
 | - The `deca` and `hecto` values in the `size` property of [bubble](/reference/messaging-api/#bubble) *2 - `scaling` property of [button](/reference/messaging-api/#button), [text](/reference/messaging-api/#f-text), and [icon](/reference/messaging-api/#icon) | 13.6.0 or later                 | 7.17.0 or later                |
 
+
+
 *1 To make the video component in Flex Messages rendered properly on versions that don't support the video component, specify the `altContent` property. The image you specify in this property gets displayed instead.
 
 *2 If the version of LINE is lower than the version that supports `deca` and `hecto`, the size of the bubble will be displayed as `kilo`.
@@ -49,7 +51,7 @@ With the [Flex Message Simulator](/flex-simulator/), you can check the layout of
 
 ![Flex Message Simulator](/media/messaging-api/using-flex-messages/flex-message-simulator-en.png){className="[\"border\"]"}
 
-For more information on Flex Message Simulator, see the [tutorials](/docs/messaging-api/using-flex-message-simulator/).
+For more information on Flex Message Simulator, see [Tutorial - Create a digital business card with Flex Message Simulator](/docs/messaging-api/using-flex-message-simulator/).
 
 ## Send "Hello, World!"
 

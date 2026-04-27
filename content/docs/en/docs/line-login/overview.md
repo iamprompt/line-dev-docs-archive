@@ -7,7 +7,7 @@ description: >-
   Android, or web app.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/overview
-__hash__: v_YpqP_oDqGWdiTA_zbquOrcfBRf44Ylc-GkvGoMJ18
+__hash__: POdaPm2OBFkVCZjc0dvYqS2uJ3dJmYeW6R624pyYOsk
 seo:
   title: LINE Login overview
   description: >-
@@ -59,7 +59,7 @@ To start development to integrate LINE Login, you'll first need to create a LINE
 
 ### Integrating with web apps
 
-Integrate LINE Login into your web app (website) to make it easier for people to create an account and log in. With LINE Login, your users can automatically log in to your web app if they're already logged in to LINE on their device. The authentication and authorization process is based on the [OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc6749){rel="[\"nofollow\"]"} and [OpenID® Connect](https://openid.net/specs/openid-connect-core-1_0.html){rel="[\"nofollow\"]"} protocols. For more information, see [Integrating LINE Login](/docs/line-login/integrate-line-login/).
+Integrate LINE Login into your web app (website) to make it easier for people to create an account and log in. With LINE Login, your users can automatically log in to your web app if they're already logged in to LINE on their device. The authentication and authorization process is based on the [OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc6749){rel="[\"nofollow\"]"} and [OpenID® Connect](https://openid.net/specs/openid-connect-core-1_0.html){rel="[\"nofollow\"]"} protocols. For more information, see [Integrating LINE Login with your web app](/docs/line-login/integrate-line-login/).
 
 For an example of how LINE Login can provide users with an improved experience, see the [LINE STORE](https://store.line.me/){rel="[\"nofollow\"]"} website.
 
@@ -201,5 +201,5 @@ Depending on the [LINE Login authentication methods](#auth-method), a user might
 ## Related pages
 
 - [LINE Login development guidelines](/docs/line-login/development-guidelines/)
-- [Security checklist](/docs/line-login/security-checklist/)
+- [LINE Login security checklist](/docs/line-login/security-checklist/)
 - [LINE Login v2.1 API reference](/reference/line-login/)

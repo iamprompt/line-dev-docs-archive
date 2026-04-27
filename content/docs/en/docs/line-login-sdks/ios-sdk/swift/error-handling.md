@@ -6,7 +6,7 @@ description: >-
   that your users can see how to recover from errors.
 meta: '{}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/error-handling
-__hash__: RDjuGUUpu1Abya2xkXCXdcMqGrgHVT_1Ywq827KU3w8
+__hash__: 0QgFAEzRWscDZVoD0WUuTiy5iS0fyd1xwUpAkrjjWh4
 seo:
   title: Handling errors
   description: >-
@@ -141,4 +141,4 @@ Error handling is not an easy task, but it is definitely worth spending some tim
 
 For information about possible error codes and what they indicate, see [LineSDKError](/reference/ios-sdk-swift/Enums/LineSDKError.html) in the LINE SDK for iOS Swift reference.
 
-More errors may be added to the LINE SDK for iOS Swift as it evolves. Before you upgrade the SDK, make sure to check [Release notes](/docs/line-login-sdks/ios-sdk/release-notes/) for any significant changes and determine whether you need to upgrade your error handling methods.
+More errors may be added to the LINE SDK for iOS Swift as it evolves. Before you upgrade the SDK, make sure to check [Release notes for LINE SDK for iOS](/docs/line-login-sdks/ios-sdk/release-notes/) for any significant changes and determine whether you need to upgrade your error handling methods.

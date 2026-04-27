@@ -2,10 +2,9 @@
 title: リリースノート
 navigation: true
 description: リリースノート
-meta: >-
-  {"sidebar_title":"リリースノート","tags":null,"author":null,"last_updated":null,"source_language":"ja"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/resources/release-notes
-__hash__: thgrbN-GcTNOSWAOmQUl9RvgL9gleZynrTVV3nTTJro
+__hash__: wH5jV7-cTl4ZBz9Ug1JeGSR6jEq5yqK9Aa5xsYFb1CY
 seo:
   title: リリースノート
   description: リリースノート

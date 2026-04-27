@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/developing-liff-apps
-__hash__: OKQBNZ-9UStvA_E8dhMBdpf9gkMsTy5kfhnjPF_uS4E
+__hash__: IUTbS4i0xGdoawdhVW5PPbTiEi3hG-g9Rgf4A53vYDo
 seo:
   title: LIFFアプリを開発する
   description: ''
@@ -178,7 +178,7 @@ liff
 
 なお、`liff.ready`で、LIFFアプリ起動後、`liff.init()`の実行が初めて終了したときにresolveする`Promise`オブジェクトを取得できます。
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.init()](/reference/liff/#initialize-liff-app)」および「[liff.ready](/reference/liff/#ready)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.init()](/reference/liff/#initialize-liff-app)」および「[liff.ready](/reference/liff/#ready)」を参照してください。
 
 ### LIFFアプリ初期化時の注意事項
 
@@ -349,7 +349,7 @@ if (liff.isLoggedIn()) {
 }
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.login()](/reference/liff/#login)」および「[liff.logout()](/reference/liff/#logout)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.login()](/reference/liff/#login)」および「[liff.logout()](/reference/liff/#logout)」を参照してください。
 
 ### URLを開く
 
@@ -365,7 +365,7 @@ liff.openWindow({
 });
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.openWindow()](/reference/liff/#open-window)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.openWindow()](/reference/liff/#open-window)」を参照してください。
 
 ### 二次元コードリーダーを表示する
 
@@ -422,7 +422,7 @@ console.log(context);
 // {"type": "utou", "userId": "U70e153189a29f1188b045366285346bc", "viewType": "full", "accessTokenHash": "ArIXhlwQMAZyW7SDHm7L2g", "availability": {"shareTargetPicker": {"permission": true, "minVer": "10.3.0"}, "multipleLiffTransition": {"permission": true, "minVer": "10.18.0"}}}
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.getContext()](/reference/liff/#get-context)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.getContext()](/reference/liff/#get-context)」を参照してください。
 
 ### ユーザーのプロフィールを取得する
 
@@ -443,7 +443,7 @@ LIFFアプリでIDトークンを取得して、ユーザーのプロフィー�
 
 LIFFアプリからサーバーにユーザー情報を送信する場合は、以下の方法で取得したアクセストークンまたはIDトークンを送信します。サーバーでユーザー情報を使用する方法について詳しくは、「[LIFFアプリおよびサーバーでユーザー情報を使用する](/docs/liff/using-user-profile/)」を参照してください。
 
-- `liff.getAccessToken()`メソッドを実行して、現在のユーザーのアクセストークンを取得します。詳しくは、『LIFF v2 APIリファレンス』の「[liff.getAccessToken()](/reference/liff/#get-access-token)」を参照してください。```javascript
+- `liff.getAccessToken()`メソッドを実行して、現在のユーザーのアクセストークンを取得します。詳しくは、『LIFF APIリファレンス』の「[liff.getAccessToken()](/reference/liff/#get-access-token)」を参照してください。```javascript
 // get access token
 if (!liff.isLoggedIn() && !liff.isInClient()) {
   window.alert(
@@ -454,7 +454,7 @@ if (!liff.isLoggedIn() && !liff.isInClient()) {
   console.log(accessToken);
 }
 ```
-- `liff.getIDToken()`メソッドを実行して、「現在のユーザーの生のIDトークン」を取得します。詳しくは、『LIFF v2 APIリファレンス』の「[liff.getIDToken()](/reference/liff/#get-id-token)」を参照してください。```javascript
+- `liff.getIDToken()`メソッドを実行して、「現在のユーザーの生のIDトークン」を取得します。詳しくは、『LIFF APIリファレンス』の「[liff.getIDToken()](/reference/liff/#get-id-token)」を参照してください。```javascript
 liff.init(() => {
   const idToken = liff.getIDToken();
   console.log(idToken); // print raw idToken object
@@ -478,7 +478,7 @@ liff.init(() => {
 });
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.getDecodedIDToken()](/reference/liff/#get-decoded-id-token)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.getDecodedIDToken()](/reference/liff/#get-decoded-id-token)」を参照してください。
 
 ### ユーザーとLINE公式アカウントの友だち関係を取得する
 
@@ -494,7 +494,7 @@ liff.getFriendship().then((data) => {
 });
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.getFriendship()](/reference/liff/#get-friendship)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.getFriendship()](/reference/liff/#get-friendship)」を参照してください。
 
 ::admonition{title="スコープを選択してください" type="note"}
 [LIFFアプリをチャネルに追加する](/docs/liff/registering-liff-apps/)ときに、`profile`スコープを選択してください。スコープを選択しなかった場合やユーザーが認可しなかった場合は、友だち関係を取得できません。スコープの選択は、LIFFアプリ追加後も[LINE Developersコンソール](/console/)のLIFFタブで変更できます。
@@ -518,7 +518,7 @@ try {
 }
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.requestFriendship()](/reference/liff/#request-friendship)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.requestFriendship()](/reference/liff/#request-friendship)」を参照してください。
 
 ### LIFFアプリの任意のページのパーマネントリンクを取得する
 
@@ -541,7 +541,7 @@ liff.permanentLink
   });
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.permanentLink.createUrlBy()](/reference/liff/#permanent-link-create-url-by)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.permanentLink.createUrlBy()](/reference/liff/#permanent-link-create-url-by)」を参照してください。
 
 ### 現在のトークルームにメッセージを送信する
 
@@ -598,7 +598,7 @@ if (liff.isApiAvailable("shareTargetPicker")) {
 }
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.isApiAvailable()](/reference/liff/#is-api-available)」および「[liff.shareTargetPicker()](/reference/liff/#share-target-picker)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.isApiAvailable()](/reference/liff/#is-api-available)」および「[liff.shareTargetPicker()](/reference/liff/#share-target-picker)」を参照してください。
 
 ### LIFFアプリを閉じる
 
@@ -615,7 +615,7 @@ if (!liff.isInClient()) {
 }
 ```
 
-詳しくは、『LIFF v2 APIリファレンス』の「[liff.closeWindow()](/reference/liff/#close-window)」を参照してください。
+詳しくは、『LIFF APIリファレンス』の「[liff.closeWindow()](/reference/liff/#close-window)」を参照してください。
 
 ::admonition{title="注意" type="note"}
 `liff.closeWindow()`の外部ブラウザでの動作は、保証対象外です。

@@ -1,14 +1,14 @@
 ---
-title: Release notes
+title: Release notes for LINE SDK for Android
 navigation: true
 description: >-
   Release notes for the LINE SDK for Android. See the latest changes and
   releases.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/android-sdk/release-notes
-__hash__: yxwtrrFdpfDv-diVoTDehiCWL9B8CEKWVQ3mDrReMV4
+__hash__: n5uLdtym0KDb8dS2aTo-w-lwNmYpu33pUeK5wuRLWow
 seo:
-  title: Release notes
+  title: Release notes for LINE SDK for Android
   description: >-
     Release notes for the LINE SDK for Android. See the latest changes and
     releases.

@@ -2,10 +2,9 @@
 title: デザインガイド
 navigation: true
 description: カスタムアイコンを使用して「LINEで送る」ボタンを作成できます。ボタンの設置方法については、[LINEで送るボタン]をご確認ください。
-meta: >-
-  {"sidebar_title":"デザインガイド","tags":null,"author":null,"last_updated":null,"source_language":"ja"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/resources/design-guide
-__hash__: YA1hQKUFXIgfiVEU9hPlYGcFKhhUCvIEf8HvT1kpFOI
+__hash__: s-ukwN1leybmzB6PX8m_6DYI5FHWgOfm-UxrINltvrQ
 seo:
   title: デザインガイド
   description: カスタムアイコンを使用して「LINEで送る」ボタンを作成できます。ボタンの設置方法については、[LINEで送るボタン]をご確認ください。

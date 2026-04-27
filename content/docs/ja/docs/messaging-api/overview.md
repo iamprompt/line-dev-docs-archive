@@ -2,10 +2,9 @@
 title: Messaging APIの概要
 navigation: true
 description: null
-meta: >-
-  {"sidebar_title":"概要","tags":null,"author":null,"last_updated":null,"source_language":null}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/overview
-__hash__: Npt2JzqPKwWsiIVfER60HQhZYGhbYDHeYd9WYJDwjjA
+__hash__: _dUAtFMgLrnfJrEcO3PfMnzNnA7DYNoJYsrzf1xcq0o
 seo:
   title: Messaging APIの概要
   description: null

@@ -4,11 +4,9 @@ navigation: true
 description: >-
   You can use the Like button alongside the Add friend button. To use this
   option, you need to have a LINE Official Account ID.
-meta: >-
-  {"sidebar_title":"Using Like
-  buttons","tags":null,"author":null,"last_updated":null,"source_language":"en"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/install-guide/using-like-buttons
-__hash__: CMs2WnftBYVy7qVc9CfAdAG2Fs8JGymVpcvFB3h1QBg
+__hash__: YHrDqHyaFqLH_tkuBlbEvPjpjNM_Jhm3ic2CHJwFqFg
 seo:
   title: Using Like buttons
   description: >-

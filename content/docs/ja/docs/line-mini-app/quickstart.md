@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリの開発について作業の流れを説明します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/quickstart
-__hash__: MS1gVGSVe1-rjA3ZeJqHhepakGnkxpOutIQpIEf5IM4
+__hash__: 5M9GEKUKU86VycL9s2O2WC1FLKk42ZtWpzJcsQ9TUSs
 seo:
   title: はじめに
   description: LINEミニアプリの開発について作業の流れを説明します。
@@ -32,7 +32,7 @@ LINEミニアプリの開発および公開に関して、全体的な流れは�
 
 - [**LINEミニアプリの基本を学ぶ**](/docs/line-mini-app/discover/introduction/)：LINEミニアプリに標準で搭載されているビルトイン機能や、自分で実装できるカスタム機能を理解します。
 
-  - [仕様](/docs/line-mini-app/discover/specifications/)
+  - [LINEミニアプリの仕様](/docs/line-mini-app/discover/specifications/)
   - [ビルトイン機能](/docs/line-mini-app/discover/builtin-features/)
   - [カスタム機能](/docs/line-mini-app/discover/custom-features/)
   - [LINEミニアプリの構造](/docs/line-mini-app/discover/ui-components/)
@@ -51,7 +51,7 @@ LINEミニアプリを使って提供するサービスを企画する場合は�
 
 LINEミニアプリの実装および開発を行う場合は、次のガイドが役に立ちます。
 
-- [**LINEミニアプリの仕様を確認する**](/docs/line-mini-app/discover/specifications/)：どのプラットフォームのどのバージョンでどの機能がサポートされているかといった情報や、LIFFの対応バージョンについて確認してください。
+- [**LINEミニアプリの仕様**](/docs/line-mini-app/discover/specifications/)：どのプラットフォームのどのバージョンでどの機能がサポートされているかといった情報や、LIFFの対応バージョンについて確認してください。
 - **開発者ガイド**
   - [**開発を始めよう**](/docs/line-mini-app/develop/develop-overview/)：LINEミニアプリを開発するときに読みましょう。
   - [**カスタムアクションボタンを実装する**](/docs/line-mini-app/develop/share-messages/)：LINEミニアプリを友だちと共有するときに送信するシェアメッセージをカスタマイズできます。

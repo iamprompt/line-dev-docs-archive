@@ -5,11 +5,9 @@ description: >-
   The usage guidelines for the LINE Social Plugin (hereinafter the Guidelines)
   are a set of basic rules governing the usage of the LINE Social Plugin
   provided by LY Corporation (hereinafter the Company).
-meta: >-
-  {"sidebar_title":"Usage Guidelines for the LINE Social
-  Plugin","tags":null,"author":null,"last_updated":null,"source_language":"en"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/general/guidelines
-__hash__: O47xvBoKeVEBGcinfxglMavzt8t4Q2oOloxSOlMN_KE
+__hash__: fe0MXnBlUGVC2odnHSAnvBb0NNQbteNinvkjAGkSf2o
 seo:
   title: Usage Guidelines for the LINE Social Plugin
   description: >-

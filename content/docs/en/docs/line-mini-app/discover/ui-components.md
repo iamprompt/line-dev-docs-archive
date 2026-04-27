@@ -1,12 +1,12 @@
 ---
-title: LINE MINI App UI Components
+title: LINE MINI App UI components
 navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_update":"2020-04-24","source_language":"en"}'
 path: /en/docs/line-mini-app/discover/ui-components
-__hash__: SltW2GHbVOqZn31tBKogq4TmXNSWwT7JJuZhVWn8aLU
+__hash__: 5djtGQlAJ_h9kH1IWCr1YR3fDWvWRMldlQ5f2QBddY8
 seo:
-  title: LINE MINI App UI Components
+  title: LINE MINI App UI components
   description: null
 ---
 
@@ -37,4 +37,4 @@ The header is composed of the following components:
 
 WebView is used for the body. Utilize HTML5 and LIFF for when developing each of your services.
 
-For more information on LINE MINI App development specifications, see [LINE MINI App Specifications](/docs/line-mini-app/discover/specifications/).
+For more information on LINE MINI App development specifications, see [LINE MINI App specifications](/docs/line-mini-app/discover/specifications/).

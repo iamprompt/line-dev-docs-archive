@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/managing-access-tokens-v2
-__hash__: fZjghZ5WazYECd7Npd4VEMRpdpQ0cU8S22vK1_JXYHE
+__hash__: 6Z0O23nnRd3yVwn6CkL5zBH7UM3y6i-BJHxlAxlytd0
 seo:
   title: アクセストークンを管理する（LINEログイン v2.0）
   description: null
@@ -26,7 +26,7 @@ seo:
 
 **LINEログイン：**
 
-- [ウェブアプリにLINEログイン v2.0を組み込む](/docs/line-login/integrate-line-login-v2/)
+- [ウェブアプリにLINEログインを組み込む（LINEログイン v2.0）](/docs/line-login/integrate-line-login-v2/)
 
 ::admonition{title="アクセストークンの有効期間" type="note"}
 アクセストークンは発行後30日間有効です。アクセストークンを含むレスポンスの`expires_in`プロパティに、有効期間（秒）が含まれます。
@@ -55,5 +55,4 @@ LINEログインAPIによるアクセストークンの検証に成功すると�
 | ------------ | ---------------------------------- |
 | `client_id`  | アプリにリンクされているLINEログインチャネルのチャネルIDと同じ |
 | `expires_in` | 正の値                                |
-|              |                                    |
 ::

@@ -3,11 +3,9 @@ title: LINE Social Plugins利用ガイドライン
 navigation: true
 description: >-
   「LINEソーシャルプラグイン」利用ガイドライン（以下、「本ガイドライン」といいます。）は、LINEヤフー株式会社（以下、「当社」といいます。）が提供する「LINEソーシャルプラグイン」の利用に関し、その基本ルールを定めたものです。
-meta: >-
-  {"sidebar_title":"LINE Social
-  Plugins利用ガイドライン","tags":null,"author":null,"last_updated":null,"source_language":"ja"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/general/guidelines
-__hash__: BpmLXRnzLhbNNCNca3ELiB_vQzeahtbc0ppFhcYVwVM
+__hash__: eCeVbjE4BI-RO9tsn-WAkB21o3I8ZutSGAyQPTpf7U0
 seo:
   title: LINE Social Plugins利用ガイドライン
   description: >-

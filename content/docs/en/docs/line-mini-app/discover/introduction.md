@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App is a web application that runs on LINE.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/introduction
-__hash__: cvCmGwjX1oQ2g1Pvstpuh3w97KSHyVTm7zIgbU2-zvw
+__hash__: H7JkY205-S4dw9Ic3jLVPBK3FWx9YMX6ZCDxTvqn42M
 seo:
   title: Introducing LINE MINI App
   description: LINE MINI App is a web application that runs on LINE.
@@ -16,7 +16,7 @@ seo:
 
 "LINE MINI App" is the official name.
 
-LINE MINI App is a web browser, so most HTML5 specs can be used. For more information, see the [Specifications](/docs/line-mini-app/discover/specifications/).
+LINE MINI App is a web browser, so most HTML5 specs can be used. For more information, see the [LINE MINI App specifications](/docs/line-mini-app/discover/specifications/).
 
 ## Introduction
 
@@ -67,7 +67,7 @@ As described above, by making your LINE MINI App a verified MINI App, you can en
 
 ## LINE MINI App Components
 
-LINE MINI App page consists of (A) Header (B) Body. For details, see [LINE MINI App Components](/docs/line-mini-app/discover/ui-components/).
+LINE MINI App page consists of (A) Header (B) Body. For details, see [LINE MINI App UI components](/docs/line-mini-app/discover/ui-components/).
 
 ![LINE MINI App structure](/media/line-mini-app/mini_concept.png){className="[\"w-fix-280\"]"}
 

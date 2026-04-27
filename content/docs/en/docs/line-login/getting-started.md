@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login/getting-started
-__hash__: Js0jF5I0zGKjgOVN6H6HZ8LKxjt04AYIQd6NEV_DT98
+__hash__: xFi5jlDRtrvb70xP53oSpPehdc1DjwUcp7QYpT8jigU
 seo:
   title: Getting started with LINE Login
   description: null
@@ -224,6 +224,6 @@ For more information on linking a Business ID with a LINE account, see [Link you
 ## Next steps
 
 - [Integrating LINE Login with your web app](/docs/line-login/integrate-line-login/)
-- [Integrating LINE Login with your iOS app - Swift](/docs/line-login-sdks/ios-sdk/swift/integrate-line-login/)
+- [Integrating LINE Login with your iOS app](/docs/line-login-sdks/ios-sdk/swift/integrate-line-login/)
 - [Integrating LINE Login with your Android app](/docs/line-login-sdks/android-sdk/integrate-line-login/)
 - [Integrating LINE Login with your Unity game](/docs/line-login-sdks/unity-sdk/integrate-line-login/)

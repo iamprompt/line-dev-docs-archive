@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/web-to-mini-app
-__hash__: sWbUENFsPXKGeu8SD3rsEbzuDCFts5vbD2U3A1bpsM8
+__hash__: 822CyTPwpQDbzX6Is1zLzEMc1OD95WR_ji06nzAxK5A
 seo:
   title: Implementing web apps in operation as LINE MINI Apps
   description: null
@@ -122,7 +122,7 @@ The LINE MINI App has a feature called service messages. Service messages allow 
 
 #### HTML5 specifications
 
-The LINE MINI App supports almost all HTML5 specifications. For example, the [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API){rel="[\"nofollow\"]"} can be used to retrieve the user's location information. For more information on the specifications of the LINE Mini App, see [Specifications](/docs/line-mini-app/discover/specifications/).
+The LINE MINI App supports almost all HTML5 specifications. For example, the [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API){rel="[\"nofollow\"]"} can be used to retrieve the user's location information. For more information, see [LINE MINI App specifications](/docs/line-mini-app/discover/specifications/).
 
 ### 5. Configure the LINE MINI App channel
 

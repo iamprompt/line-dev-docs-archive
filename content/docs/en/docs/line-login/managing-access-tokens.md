@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login/managing-access-tokens
-__hash__: xAIlgl-LqZsNklj5pXS2lXDwHKzon3BTO1y_gRGJ7Qw
+__hash__: 6dxLm03eq6xgEEazDDn2L9-slaOqzFxIzBdLS6QuW2g
 seo:
   title: Managing access tokens
   description: null
@@ -23,7 +23,7 @@ To learn more, see:
 **LINE Login:**
 
 - [Integrating LINE Login with your web app](/docs/line-login/integrate-line-login/)
-- [Integrating LINE Login with your iOS app - Swift](/docs/line-login-sdks/ios-sdk/swift/integrate-line-login/)
+- [Integrating LINE Login with your iOS app](/docs/line-login-sdks/ios-sdk/swift/integrate-line-login/)
 - [Integrating LINE Login with your Android app](/docs/line-login-sdks/android-sdk/integrate-line-login/)
 - [Integrating LINE Login with your Unity game](/docs/line-login-sdks/unity-sdk/integrate-line-login/)
 - [LINE SDK for Flutter](/docs/line-login-sdks/flutter-sdk/)

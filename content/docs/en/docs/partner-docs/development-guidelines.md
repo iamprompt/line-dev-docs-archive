@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/development-guidelines
-__hash__: BoS1OGOjGjVd6YDyyuiL0ILu2XgjaSm3CoR1EouPFIU
+__hash__: bdDcSGjv4Hp6Uy5AYN0lVDRcraJFm9vzmSzvZ1mbYqs
 seo:
   title: Development guidelines for corporate customers
   description: null
@@ -299,6 +299,7 @@ For more information on callback URLs, see [Setting a callback URL](/docs/line-l
 - Up to 400 URLs can be registered as callback URLs.
 - You can register a URL that includes query parameters as the callback URL.
 - The `redirect_uri` specified at the time of authorization request is a URL-encoded string of the URL registered as the callback URL. Any query parameter can be added.
+
   - You can register `https://example.com` as the callback URL and specify` https://example.com?key=value` in `redirect_uri` specified at the time of authorization request.
 ::
 
@@ -366,7 +367,7 @@ LINE Front-end Framework (LIFF) is a web app platform provided by LY Corporation
 
 The LIFF app lets you get LINE user IDs and other information from the LINE Platform. The LIFF application can use these to provide functions that utilize user information or send messages on behalf of the user.
 
-For more information on the LIFF app, see [LINE Front-end Framework](/docs/liff/overview/).
+For more information on the LIFF app, see [LIFF overview](/docs/liff/overview/).
 
 ## Other features
 

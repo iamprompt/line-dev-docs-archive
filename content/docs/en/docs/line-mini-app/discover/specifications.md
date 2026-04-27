@@ -1,12 +1,12 @@
 ---
-title: Specifications
+title: LINE MINI App specifications
 navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/specifications
-__hash__: Tp00bPWUon7EzcJu-ausLhXRVe_UitGADGejFdSytkI
+__hash__: SgaRj7K0oMA5jwYZO9ZCurojjZTc1SppnQ4st4zptR4
 seo:
-  title: Specifications
+  title: LINE MINI App specifications
   description: null
 ---
 

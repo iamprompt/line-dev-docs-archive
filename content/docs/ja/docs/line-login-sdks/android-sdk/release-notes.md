@@ -1,12 +1,12 @@
 ---
-title: リリースノート
+title: Android SDKリリースノート
 navigation: true
 description: LINE SDK for Androidのリリースノートです。最新のリリースと変更点について記載しています。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/android-sdk/release-notes
-__hash__: cBeP024vT1iZceRR3M901XTAYL227tn8A-0yhspw5Xg
+__hash__: yaWLSN823PGTS9Lk3qiXdJMmwK1Dwo-KKnMDsBwUN60
 seo:
-  title: リリースノート
+  title: Android SDKリリースノート
   description: LINE SDK for Androidのリリースノートです。最新のリリースと変更点について記載しています。
 ---
 

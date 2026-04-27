@@ -6,7 +6,7 @@ description: >-
   iOSおよびLINE SDK for Android向けのラッパーです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /ja/docs/line-login-sdks/unity-sdk/overview
-__hash__: OJLuKKyNY-L1K8czxVxY1jd1KlpeBuzQw7pmaWOHArw
+__hash__: rwA76oAu581d8rXFxDl0HCOAhsWQ_-qZ16RVD0BaXDw
 seo:
   title: LINE SDK for Unityの概要
   description: >-
@@ -62,13 +62,11 @@ UnityゲームでLINE SDKを使用するには、以下の手順を行います�
 | [プロジェクトを設定する](/docs/line-login-sdks/unity-sdk/project-setup/)                   | LINE SDK for Unityを組み込むために必要な前提条件と環境                       |
 | [スターターアプリを試してみる](/docs/line-login-sdks/unity-sdk/try-line-login/)               | スターターアプリを実行する方法                                            |
 | [UnityゲームにLINEログインを組み込む](/docs/line-login-sdks/unity-sdk/integrate-line-login/) | LINE SDKをプロジェクトに組み込み、LINEログインを活用してアプリのユーザーエクスペリエンスを向上させる方法 |
-| [SDKを使用する](/docs/line-login-sdks/unity-sdk/using-sdk/)                          | LINE SDK for Unityの使用方法とその他の詳細                             |
+| [他のAPIの利用と実行結果の処理にLINE SDKを使用する](/docs/line-login-sdks/unity-sdk/using-sdk/)    | LINE SDK for Unityの使用方法とその他の詳細                             |
 | [LINE SDK for Unity APIリファレンス（英語）](/en/reference/unity-sdk/)                    | LINE SDK for Unityのインターフェースおよびクラスの詳細                       |
 
 ## その他のリソース
 
-『LINE SDK for Unityドキュメント』の [トップページ](/docs/line-login-sdks/unity-sdk/)から、以下の情報を参照できます。
-
-| タイトル                                                      | 内容       |
-| --------------------------------------------------------- | -------- |
-| [リリースノート](/docs/line-login-sdks/unity-sdk/release-notes/) | SDKの変更履歴 |
+| タイトル                                                               | 内容       |
+| ------------------------------------------------------------------ | -------- |
+| [Unity SDKリリースノート](/docs/line-login-sdks/unity-sdk/release-notes/) | SDKの変更履歴 |

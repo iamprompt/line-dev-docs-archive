@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/liff/trying-liff-app
-__hash__: hWa7bE3jfQIuM25I9cb-MUKgY6WTUQFUlFtlRPJFPf4
+__hash__: 3L_4KzRQhwxXY65cqHCrA8VfjjeegpRH4DrY6QrofIc
 seo:
   title: Trying the LIFF starter app
   description: null
@@ -19,7 +19,7 @@ The LIFF starter app is a template with the minimum features required for LIFF a
 :tocBy reading this page, you'll be able to deploy a LIFF app on a server and experience opening a LIFF app on LINE, which will give you an idea of how to build an app using LIFF.
 
 ::admonition{title="Before trying the LIFF starter app" type="tip"}
-- For more information about LIFF, see [Overview](/docs/liff/overview/).
+- For more information about LIFF, see [LIFF overview](/docs/liff/overview/).
 - If you would like to try out the LIFF features online, use the [LIFF Playground](https://liff-playground.netlify.app/){rel="[\"nofollow\"]"} to see what you can do with LIFF. [The source code for LIFF Playground](https://github.com/line/liff-playground){rel="[\"nofollow\"]"} is available on GitHub, so developers can set their LIFF ID and run their own LIFF Playground. For example, each client API such as [`liff.login()`](/reference/liff/#login) or [`liff.getProfile()`](/reference/liff/#get-profile) can be run on the web based on the developer's LIFF ID.
 ::
 

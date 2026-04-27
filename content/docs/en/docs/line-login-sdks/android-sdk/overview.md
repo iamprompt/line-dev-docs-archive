@@ -6,7 +6,7 @@ description: >-
   Login features into your Android app.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/android-sdk/overview
-__hash__: 1P7u72K6Gvqz4FU1Z0X889Cdihp0i9_ywuHVa0FahYs
+__hash__: tL4rU7uM88qGVDPWtMTSepwqSXCFOQZ2E5Y4yDtqyqA
 seo:
   title: LINE SDK for Android overview
   description: >-
@@ -74,9 +74,7 @@ This guide explains how to integrate the LINE SDK with your app and use the avai
 
 ## Other resources
 
-You can access the following information from the [top page](/docs/line-login-sdks/android-sdk/) of the LINE SDK for Android guide.
-
-| Title                                                             | Content                          |
-| ----------------------------------------------------------------- | -------------------------------- |
-| [Release notes](/docs/line-login-sdks/android-sdk/release-notes/) | SDK changelog.                   |
-| [Downloads](/docs/downloads/)                                     | Links to download the LINE SDKs. |
+| Title                                                                                      | Content                          |
+| ------------------------------------------------------------------------------------------ | -------------------------------- |
+| [Release notes for LINE SDK for Android](/docs/line-login-sdks/android-sdk/release-notes/) | SDK changelog.                   |
+| [LINE API SDKs](/docs/downloads/)                                                          | Links to download the LINE SDKs. |

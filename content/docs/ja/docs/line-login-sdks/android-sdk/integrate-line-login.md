@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインを使って、サービスのユーザーからデータ取得の許可を得られます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/android-sdk/integrate-line-login
-__hash__: qByxbJt2OyA_a6_weeg_TZJaS7dxEiWVVT6Mtn6nhaY
+__hash__: riEkqRa9lLAKfC9Zqm43BlyifvjwhmfKvhLE2xnxjmU
 seo:
   title: AndroidアプリにLINEログインを組み込む
   description: LINEログインを使って、サービスのユーザーからデータ取得の許可を得られます。
@@ -198,7 +198,7 @@ LINEログインボタンの画像セットには、iOS、Android、デスクト
 
 #### 画像を設定する
 
-画像を使用する前に、ログインボタンのテキストを追加する必要があります。各言語で推奨されるテキストについては、「[LINEログインボタンデザインガイドライン](/docs/line-login/login-button/)」を参照してください。また、LINEアイコンを歪みなく引き伸ばせるようにするために、画像内で引き伸ばせる部分を定義する必要があります。
+画像を使用する前に、ログインボタンのテキストを追加する必要があります。各言語で推奨されるテキストについては、「[LINEログインボタン デザインガイドライン](/docs/line-login/login-button/)」を参照してください。また、LINEアイコンを歪みなく引き伸ばせるようにするために、画像内で引き伸ばせる部分を定義する必要があります。
 
 1. 各画像に対して[9-patchファイル](https://developer.android.com/guide/topics/resources/drawable-resource#NinePatch#NinePatch){rel="[\"nofollow\"]"}を作成し、ログインボタンテキストの伸縮する部分を定義します。
 2. アプリのログイン画面に、望ましいログインボタンテキストと共に、クリックできるテキストビューとしてボタンを追加します。

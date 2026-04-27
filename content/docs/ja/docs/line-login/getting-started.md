@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/getting-started
-__hash__: aBJ6w8IbrSbrMyZpfWT2MWLhjRj2jFTSF3DY76pzptw
+__hash__: 4-TMOdMrz7I61fA7ZS5JE8WHMy2XHiYWon2RtX69zIE
 seo:
   title: LINEログインを始めよう
   description: null
@@ -216,6 +216,6 @@ LINEログインのテストを行う際には、開発アカウントと紐づ�
 ## 次のステップ
 
 - [ウェブアプリにLINEログインを組み込む](/docs/line-login/integrate-line-login/)
-- [iOSアプリにLINEログインを組み込む - Swift](/docs/line-login-sdks/ios-sdk/swift/integrate-line-login/)
+- [iOSアプリにLINEログインを組み込む](/docs/line-login-sdks/ios-sdk/swift/integrate-line-login/)
 - [AndroidアプリにLINEログインを組み込む](/docs/line-login-sdks/android-sdk/integrate-line-login/)
 - [UnityゲームにLINEログインを組み込む](/docs/line-login-sdks/unity-sdk/integrate-line-login/)

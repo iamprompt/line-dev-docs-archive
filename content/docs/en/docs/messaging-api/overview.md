@@ -2,10 +2,9 @@
 title: Messaging API overview
 navigation: true
 description: null
-meta: >-
-  {"sidebar_title":"Overview","tags":null,"author":null,"last_updated":null,"source_language":null}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/overview
-__hash__: KGZF-NGg2olz35LTLllvQOv_Nb4hGnG7ZU437tJ5zAk
+__hash__: ByvYJFu4qsel_KF_vp2ZtxMjavL6h_xiZ5OW1UVyV3A
 seo:
   title: Messaging API overview
   description: null

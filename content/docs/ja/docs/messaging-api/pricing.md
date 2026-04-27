@@ -2,10 +2,9 @@
 title: Messaging APIの料金
 navigation: true
 description: null
-meta: >-
-  {"sidebar_title":"料金","tags":null,"author":null,"last_updated":null,"source_language":null}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/pricing
-__hash__: nMUjdkmpRKfd3idiiFR01yjk4C7FIL8OdroAglbsXq4
+__hash__: ctSzEH11bipQcT_XatOtNJ1IxABPKpwqadHU_3ryFr8
 seo:
   title: Messaging APIの料金
   description: null

@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/02/19/markdown-notebooklm
-__hash__: t-TevCcLYC6WLe2CTjnZwGIJrryzZih7ovhwj8GrKZA
+__hash__: NUbBWSBmZZTrPrWefD2Ei6GRmYpos-x4KBqOjDmy5n8
 seo:
   title: >-
     Let AI read the documentation on the LINE Developers site: How to use the
@@ -58,10 +58,10 @@ Download the Markdown files for the following pages. Open each page and click th
 
 - [Introducing LINE MINI App](/docs/line-mini-app/discover/introduction/)
 - [LINE Developers Console Guide for LINE MINI App](/docs/line-mini-app/discover/console-guide/)
-- [Specifications](/docs/line-mini-app/discover/specifications/)
+- [LINE MINI App specifications](/docs/line-mini-app/discover/specifications/)
 - [Built-in features](/docs/line-mini-app/discover/builtin-features/)
-- [Custom Features](/docs/line-mini-app/discover/custom-features/)
-- [LINE MINI App UI Components](/docs/line-mini-app/discover/ui-components/)
+- [Custom features](/docs/line-mini-app/discover/custom-features/)
+- [LINE MINI App UI components](/docs/line-mini-app/discover/ui-components/)
 
 ![](/media/tips/2026/markdown-notebooklm-view-as-markdown-en.png){className="[\"border\"]"}
 

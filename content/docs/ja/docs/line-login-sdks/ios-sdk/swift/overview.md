@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for iOS SwiftはLINEログインをiOSアプリに組み込むための最新のSDKです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/overview
-__hash__: RnY62LjFMoGSJZAfDhwFtTQKxK0yD8zKwF_5MdNEXVI
+__hash__: lC6-SLxHwYBiKSb-6-yUb7Tq_wMq3vLiNcRwHavLEuo
 seo:
   title: LINE SDK for iOS Swiftの概要
   description: LINE SDK for iOS SwiftはLINEログインをiOSアプリに組み込むための最新のSDKです。
@@ -72,9 +72,7 @@ iOSアプリでLINE SDKを使用するには、以下の手順に従います。
 
 ## その他のリソース
 
-『LINE SDK for iOSガイド』の[トップページ](/docs/line-login-sdks/ios-sdk/)から、以下の情報を参照できます。
-
-| タイトル                                                    | 内容                 |
-| ------------------------------------------------------- | ------------------ |
-| [リリースノート](/docs/line-login-sdks/ios-sdk/release-notes/) | SDKの変更履歴           |
-| [ダウンロード](/docs/downloads/)                              | LINE SDKのダウンロードリンク |
+| タイトル                                                           | 内容                 |
+| -------------------------------------------------------------- | ------------------ |
+| [iOS SDKリリースノート](/docs/line-login-sdks/ios-sdk/release-notes/) | SDKの変更履歴           |
+| [LINE APIのSDK](/docs/downloads/)                               | LINE SDKのダウンロードリンク |

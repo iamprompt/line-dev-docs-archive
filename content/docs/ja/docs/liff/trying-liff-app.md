@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/liff/trying-liff-app
-__hash__: FGC00XtESZiphTG2MU5dvEFCDsAdKvZGrDajc1F50rw
+__hash__: QuuC0TL1GwMHxViYjWTNo59iXHZOZRhhMdl45zPnZxE
 seo:
   title: LIFFスターターアプリを試してみる
   description: null
@@ -19,7 +19,7 @@ LIFFスターターアプリは、LIFFアプリ開発に必要な最低限の機
 :tocこのページを読むことで、LIFFアプリをサーバー上にデプロイし、LINE上でLIFFアプリを開く体験ができます。LIFFを用いて作りたいアプリがあるときに、どのように作ればよいかをイメージできます。
 
 ::admonition{title="LIFFスターターアプリを試す前に" type="tip"}
-- LIFFについては「[概要](/docs/liff/overview/)」を参照してください。
+- LIFFについては「[LIFFの概要](/docs/liff/overview/)」を参照してください。
 - LIFFの機能をオンライン上で試したい場合は[LIFFプレイグラウンド](https://liff-playground.netlify.app/){rel="[\"nofollow\"]"}をご利用ください。LIFFを用いるとどのようなことができるのかを確認できます。なお、[LIFFプレイグラウンドのソースコード](https://github.com/line/liff-playground){rel="[\"nofollow\"]"}はGitHubで公開していますので、開発者は自身のLIFF IDを設定して、独自のLIFFプレイグラウンドをデプロイできます。例えば開発者のLIFF IDをもとに[`liff.login()`](/reference/liff/#login)や[`liff.getProfile()`](/reference/liff/#get-profile)といった各クライアントAPIをウェブ上で実行できます。
 ::
 

@@ -4,11 +4,9 @@ navigation: true
 description: >-
   LINE Social Plugins provides the tools you need to connect your webpages to
   LINE so that others can easily share or react to your content.
-meta: >-
-  {"sidebar_title":"LINE Social Plugins
-  overview","tags":null,"author":null,"last_updated":null,"source_language":"en"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/general/overview
-__hash__: OQ-VwGQhQ8bZ1Ho9IFyzKjMm44j2fjVc4Nwle4ZLcxE
+__hash__: CGYcHyCllRjTM1eFaEFRjxkTcdkHLiB1WO0aAQcXrBg
 seo:
   title: LINE Social Plugins overview
   description: >-

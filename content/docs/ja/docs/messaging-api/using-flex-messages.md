@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/using-flex-messages
-__hash__: BZBdStccqGx5Rv7TKZZAsqWeNm5nhkX0yD3_J6WN_-Y
+__hash__: UJryq5v-oDUlcZRJE7sBUMvNI01K8lC9XCfaQCyRVV8
 seo:
   title: Flex Messageを送信する
   description: null
@@ -49,7 +49,7 @@ Flex Messageは、すべてのバージョンのLINEでサポートされます�
 
 ![Flex Message Simulator](/media/messaging-api/using-flex-messages/flex-message-simulator-ja.png){className="[\"border\"]"}
 
-Flex Message Simulatorについて詳しくは、[チュートリアル](/docs/messaging-api/using-flex-message-simulator/)を参照してください。
+Flex Message Simulatorについて詳しくは、「[チュートリアル - Flex Message Simulatorでデジタル名刺を作成する](/docs/messaging-api/using-flex-message-simulator/)」を参照してください。
 
 ## 「Hello, World!」メッセージを送る
 

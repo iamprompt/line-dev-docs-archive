@@ -6,7 +6,7 @@ description: >-
   LINE Login features into your iOS app.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/overview
-__hash__: T_z3kMlD8ergcS1AIniYnSGaRMkWKwBHC10TzQABhsU
+__hash__: PftJ-D_98T8mDbVkIVfNez7JpwLMur0HSpgXQDJ4Bhk
 seo:
   title: LINE SDK for iOS Swift overview
   description: >-
@@ -76,9 +76,7 @@ This guide explains how to integrate the LINE SDK with your app and use the avai
 
 ## Other resources
 
-You can find the following information on the [top page](/docs/line-login-sdks/ios-sdk/) of the LINE SDK for iOS guide.
-
-| Title                                                         | Content                          |
-| ------------------------------------------------------------- | -------------------------------- |
-| [Release notes](/docs/line-login-sdks/ios-sdk/release-notes/) | SDK changelog.                   |
-| [Downloads](/docs/downloads/)                                 | Links to download the LINE SDKs. |
+| Title                                                                              | Content                          |
+| ---------------------------------------------------------------------------------- | -------------------------------- |
+| [Release notes for LINE SDK for iOS](/docs/line-login-sdks/ios-sdk/release-notes/) | SDK changelog.                   |
+| [LINE API SDKs](/docs/downloads/)                                                  | Links to download the LINE SDKs. |

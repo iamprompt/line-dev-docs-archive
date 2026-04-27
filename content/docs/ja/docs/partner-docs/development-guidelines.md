@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/development-guidelines
-__hash__: OWkF4y1MvZKBJuOce5VaJlyjEaDf-N4Ce5KzZuxZWl8
+__hash__: pqXrMdBa8Tz3MENQ_DeM2eDJgRewb-pCFdqrPMUlzzk
 seo:
   title: 法人ユーザー向け開発ガイドライン
   description: null
@@ -291,6 +291,7 @@ LINEログインについて詳しくは、[LINEログインの概要](/docs/lin
 - コールバックURLには最大400個のURLを登録できます。
 - コールバックURLにはクエリパラメータを含んだURLを登録できます。
 - 認可リクエスト時に指定する`redirect_uri`は、コールバックURLに登録したURLをURLエンコードした文字列。任意のクエリパラメータを付与できます。
+
   - コールバックURLに`https://example.com`を登録し、認可リクエスト時に指定する`redirect_uri`に`https://example.com?key=value`といった指定が可能です。
 ::
 
@@ -354,7 +355,7 @@ LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供する
 
 LIFFアプリを使うと、LINEのユーザーIDなどをLINEプラットフォームから取得できます。LIFFアプリではこれらを利用して、ユーザー情報を活用した機能を提供したり、ユーザーの代わりにメッセージを送信したりできます。
 
-LIFFアプリについて詳しくは、「[LINE Front-end Framework](/docs/liff/overview/)」を参照してください。
+LIFFアプリについて詳しくは、「[LIFFの概要](/docs/liff/overview/)」を参照してください。
 
 ## その他の機能
 

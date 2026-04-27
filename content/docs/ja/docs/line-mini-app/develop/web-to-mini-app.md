@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/web-to-mini-app
-__hash__: khutaMK8Ur126XR7mIup-mNyeTiikLE_tuT-60tCmdg
+__hash__: uX5HO36BhH5wndpuxABgsrlMkOB0cZICMOIC-Ukcg5Q
 seo:
   title: 運用中のウェブアプリをLINEミニアプリ化する
   description: null
@@ -118,7 +118,7 @@ LINEミニアプリでは、サービスメッセージという機能を用い�
 
 #### HTML5の仕様
 
-LINEミニアプリは、HTML5のほぼすべての仕様をサポートしています。たとえば[位置情報API](https://developer.mozilla.org/ja/docs/Web/API/Geolocation_API){rel="[\"nofollow\"]"}を用いることで、ユーザーの位置情報を取得できます。LINEミニアプリの仕様について詳しくは、「[LINEミニアプリの仕様](/docs/line-mini-app/discover/specifications/)」を参照してください。
+LINEミニアプリは、HTML5のほぼすべての仕様をサポートしています。たとえば[位置情報API](https://developer.mozilla.org/ja/docs/Web/API/Geolocation_API){rel="[\"nofollow\"]"}を用いることで、ユーザーの位置情報を取得できます。詳しくは、「[LINEミニアプリの仕様](/docs/line-mini-app/discover/specifications/)」を参照してください。
 
 ### 5. LINEミニアプリチャネルの設定をする
 

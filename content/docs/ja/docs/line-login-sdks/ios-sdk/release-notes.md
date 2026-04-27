@@ -1,12 +1,12 @@
 ---
-title: リリースノート
+title: iOS SDKリリースノート
 navigation: true
 description: LINE SDK for iOSのリリースノートです。最新のリリースと変更点について記載しています。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/ios-sdk/release-notes
-__hash__: 1EZW4697NC7IDBpoBP8ESES3wGDGPIelSWuZBg-e9I4
+__hash__: HF3vFZp-kVd6bIrXMh1wyvo_a3DBmMsXYzd5h_ufJO8
 seo:
-  title: リリースノート
+  title: iOS SDKリリースノート
   description: LINE SDK for iOSのリリースノートです。最新のリリースと変更点について記載しています。
 ---
 

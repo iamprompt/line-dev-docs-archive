@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/developing-liff-apps
-__hash__: ahSdIWfL3FbS63Nv29eacPms_xddnVZIq8vtSiQxTDU
+__hash__: Seg6v7Y1g1Gh--Gg06yvq0FRNrCj6AwVPd_eNvuoA6Y
 seo:
   title: Developing a LIFF app
   description: ''
@@ -186,7 +186,7 @@ liff
 
 Also, with `liff.ready`, you can get the `Promise` object that resolves when you run `liff.init()` for the first time after starting the LIFF app.
 
-For more information, see the [liff.init()](/reference/liff/#initialize-liff-app) and [liff.ready](/reference/liff/#ready) sections in the LIFF v2 API reference.
+For more information, see the [liff.init()](/reference/liff/#initialize-liff-app) and [liff.ready](/reference/liff/#ready) sections in the LIFF API reference.
 
 ### Important points to consider when initializing the LIFF app
 
@@ -360,7 +360,7 @@ if (liff.isLoggedIn()) {
 }
 ```
 
-For more information, see [liff.login()](/reference/liff/#login) and [liff.logout()](/reference/liff/#logout) in the LIFF v2 API reference.
+For more information, see [liff.login()](/reference/liff/#login) and [liff.logout()](/reference/liff/#logout) in the LIFF API reference.
 
 ### Opening a URL
 
@@ -441,7 +441,7 @@ console.log(context);
 // {"type": "utou", "userId": "U70e153189a29f1188b045366285346bc", "viewType": "full", "accessTokenHash": "ArIXhlwQMAZyW7SDHm7L2g", "availability": {"shareTargetPicker": {"permission": true, "minVer": "10.3.0"}, "multipleLiffTransition": {"permission": true, "minVer": "10.18.0"}}}
 ```
 
-For more information, see [liff.getContext()](/reference/liff/#get-context) in the LIFF v2 API reference.
+For more information, see [liff.getContext()](/reference/liff/#get-context) in the LIFF API reference.
 
 ### Get user profile
 
@@ -497,7 +497,7 @@ liff.init(() => {
 });
 ```
 
-For more information, see [liff.getDecodedIDToken()](/reference/liff/#get-decoded-id-token) in the LIFF v2 API reference.
+For more information, see [liff.getDecodedIDToken()](/reference/liff/#get-decoded-id-token) in the LIFF API reference.
 
 ### Getting the friendship status between the user and the LINE Official Account
 
@@ -513,7 +513,7 @@ liff.getFriendship().then((data) => {
 });
 ```
 
-Learn more from [liff.getFriendship()](/reference/liff/#get-friendship) in the LIFF v2 API reference.
+Learn more from [liff.getFriendship()](/reference/liff/#get-friendship) in the LIFF API reference.
 
 ::admonition{title="Select a scope" type="note"}
 When [adding a LIFF app to your channel](/docs/liff/registering-liff-apps/), select the `profile` scope. You can't get the friendship statuses if you don't select the scope, or the users don't grant permission. The scope selections can be changed in the LIFF tab of the [LINE Developers Console](/console/) even after adding the LIFF app.
@@ -537,7 +537,7 @@ try {
 }
 ```
 
-For more information, see [liff.requestFriendship()](/reference/liff/#request-friendship) in the LIFF v2 API reference.
+For more information, see [liff.requestFriendship()](/reference/liff/#request-friendship) in the LIFF API reference.
 
 ### Getting the permanent link of any page in the LIFF app
 
@@ -560,7 +560,7 @@ liff.permanentLink
   });
 ```
 
-For more information, see [liff.permanentLink.createUrlBy()](/reference/liff/#permanent-link-create-url-by) in the LIFF v2 API reference.
+For more information, see [liff.permanentLink.createUrlBy()](/reference/liff/#permanent-link-create-url-by) in the LIFF API reference.
 
 ### Sending messages to the current chat room
 
@@ -617,7 +617,7 @@ if (liff.isApiAvailable("shareTargetPicker")) {
 }
 ```
 
-For more information, see [liff.isApiAvailable()](/reference/liff/#is-api-available) and [liff.shareTargetPicker()](/reference/liff/#share-target-picker) in the LIFF v2 API reference.
+For more information, see [liff.isApiAvailable()](/reference/liff/#is-api-available) and [liff.shareTargetPicker()](/reference/liff/#share-target-picker) in the LIFF API reference.
 
 ### Closing the LIFF app
 
@@ -634,7 +634,7 @@ if (!liff.isInClient()) {
 }
 ```
 
-For more information, see [liff.closeWindow()](/reference/liff/#close-window) in the LIFF v2 API reference.
+For more information, see [liff.closeWindow()](/reference/liff/#close-window) in the LIFF API reference.
 
 ::admonition{title="Note" type="note"}
 `liff.closeWindow()` isn't guaranteed to work in an external browser.

@@ -1,12 +1,12 @@
 ---
-title: リリースノート
+title: Unity SDKリリースノート
 navigation: true
 description: LINE SDK for Unityのリリースノート。最新のリリースと変更点について記載しています。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /ja/docs/line-login-sdks/unity-sdk/release-notes
-__hash__: o5Wii5MvMyAAftVTpqAELDJrJ85Gi0MNb28YyVCgDyA
+__hash__: EFZVkw6sykmYFbuXHVxjcPY_JbqHxDK2AZenuvvgjAc
 seo:
-  title: リリースノート
+  title: Unity SDKリリースノート
   description: LINE SDK for Unityのリリースノート。最新のリリースと変更点について記載しています。
 ---
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login/integrate-line-login-v2
-__hash__: ykSL0btjbF-_lu21JSzc5Vch1OE_P_BLZDnR2QTcQ5g
+__hash__: ra1fbTNca0XWMGqqA5wzVscN-Y57b6A6TlzMMbb9xsA
 seo:
   title: Integrating LINE Login (v2.0) with your web app
   description: null
@@ -68,7 +68,6 @@ You can pass the following query parameters to the authorization URL.
 | `client_id`     | String | Required | LINE Login Channel ID. You can find this in the [LINE Developers Console](/console/).                                                                                                                                                                                |
 | `redirect_uri`  | String | Required | Callback URL registered with the [LINE Developers Console](/console/)                                                                                                                                                                                                |
 | `state`         | String | Required | A unique alphanumeric string used to prevent [cross-site request forgery](https://wikipedia.org/wiki/Cross-site_request_forgery){rel="[\"nofollow\"]"}. **Your web app should generate a random value for each login session.** This cannot be a URL-encoded string. |
-|                 |        |          |                                                                                                                                                                                                                                                                      |
 
 ### User authentication and authorization
 
@@ -104,7 +103,6 @@ Once the user has been authenticated and has completed the authorization step, t
 | --------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `code`    | String | Authorization code used to get an access token. Valid for 10 minutes. This authorization code can only be used once.                                                                                                                                |
 | `state`   | String | A unique alphanumeric string used to prevent [cross-site request forgery](https://wikipedia.org/wiki/Cross-site_request_forgery){rel="[\"nofollow\"]"}. Verify that this matches the value of the `state` parameter given to the authorization URL. |
-|           |        |                                                                                                                                                                                                                                                     |
 
 Example URL of the redirect target:
 
@@ -123,7 +121,6 @@ If the user declines to grant the permissions requested by your app, they are re
 | `errorCode`         | Number | `417`                                                                                                                                                                         |
 | `state`             | String | The `state` parameter included in the authorization URL. You can use this value to determine which process was denied.                                                        |
 | `error`             | String | `access_denied`                                                                                                                                                               |
-|                     |        |                                                                                                                                                                               |
 
 Example URL of the redirect target:
 
@@ -165,5 +162,5 @@ To learn more, see [Issuing access tokens](/reference/line-login-v2/#issue-acces
 
 Once you have an access token, you can use it to do the following:
 
-- [Manage access tokens (LINE Login v2.0)](/docs/line-login/managing-access-tokens-v2/)
-- [Manage users (LINE Login v2.0)](/docs/line-login/managing-users-v2/)
+- [Managing access tokens (LINE Login v2.0)](/docs/line-login/managing-access-tokens-v2/)
+- [Managing users (LINE Login v2.0)](/docs/line-login/managing-users-v2/)

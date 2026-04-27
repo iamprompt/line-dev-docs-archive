@@ -5,10 +5,9 @@ description: >-
   LINE Social
   Pluginsの「LINEで送る」ボタンは、簡単に作成してウェブサイトに設置できます。iOSまたはAndroidのネイティブアプリにこのボタンを設置する場合は、「送信先を選択」画面の利用をおすすめします。この画面の設置方法については、「LINE
   URLスキームでLINEの機能を使う」を参照してください。
-meta: >-
-  {"sidebar_title":"「LINEで送る」ボタンを設置する","tags":null,"author":null,"last_updated":null,"source_language":"ja"}
+meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/install-guide/using-line-share-buttons
-__hash__: NAyVyXksvGYAZNaDdPrDrIQb40boUujIQBiDoiCDQIQ
+__hash__: WaXpkC1Y-lBOX38272eAFpjMhkcelH5GQEW9wOw652U
 seo:
   title: 「LINEで送る」ボタンを設置する
   description: >-
