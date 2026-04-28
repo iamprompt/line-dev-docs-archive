@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/initialize-liff-app
-__hash__: YZLLYyCNgKMHsIKCfBKB43gVwdphTcOs0I8eeHUboTU
+__hash__: wV5kLD9sp64usfIqQbfDoyMRd23Rb3X3s9N6VpGyIw0
 seo:
   description: ''
 ---
@@ -108,19 +108,19 @@ seo:
   ```
 
     ::::admonition{title="LIFFアプリのクエリパラメータについて" type="note"}
-    LIFF URLへのアクセス時やLIFF間遷移時などに、URLに `liff.*` のようなクエリパラメータが付与されることがあります。
+    LIFF URLへのアクセス時やLIFF間遷移時などに、URLに以下のようなクエリパラメータが付与されることがあります。
 
-    例：
+    - `liff.state`：LIFF URLに指定した追加情報を示します。
+    - `liff.referrer`：LIFF間遷移前のURLを示します。詳しくは、『LIFFドキュメント』の「[LIFF間遷移前のURLを取得する](/docs/liff/opening-liff-app/#using-liff-referrer)」を参照してください。
+    - `lineAppVersion`：Android版のLINEでLIFFアプリを開いた場合に付与されることがあります。
 
-    - `liff.state`（LIFF URLに指定した追加情報を示す）
-    - `liff.referrer`（LIFF間遷移前のURLを示す。詳しくは、「[LIFF間遷移前のURLを取得する](/docs/liff/opening-liff-app/#using-liff-referrer)」を参照してください。）
+    上記は、LIFFアプリを正常に動作させるために、LIFF SDK側から付与されるクエリパラメータです。LIFFアプリのURLに独自の処理を行う場合は、LIFFアプリの起動やLIFF間遷移などLIFFアプリの正常な動作を保証するため、`liff.init()`メソッドがresolveされるまでLIFF SDK側で付与されるクエリパラメータを変更しないでください。
 
-    上記は、LIFFアプリを正常に動作させるために、SDK側から付与されるクエリパラメータです。 LIFFアプリのURLに独自の処理を行う場合は、LIFFアプリの起動やLIFF間遷移などLIFFアプリの正常な動作を保証するため、`liff.init`がresolveされるまで`liff.*`のクエリパラメータを変更しないように設計してください。
+    また、上記以外のクエリパラメータも付与される可能性があります。このため、LIFF URLへのアクセス時やLIFF間遷移時などに付与されるクエリパラメータを変更しないように設計してください。
     ::::
 
     ::::admonition{title="LIFFアプリを初期化する前でも実行できるメソッド" type="tip"}
-    以下のプロパティおよびメソッドは、`liff.init()`メソッドを実行する前でも利用できます。
-    LIFFアプリを初期化する前にLIFFアプリを動作させている環境を取得したり、LIFFアプリ初期化に失敗した際にLIFFアプリを閉じたりできます。
+    以下のプロパティおよびメソッドは、`liff.init()`メソッドを実行する前でも利用できます。LIFFアプリを初期化する前にLIFFアプリを動作させている環境を取得したり、LIFFアプリ初期化に失敗した際にLIFFアプリを閉じたりできます。
 
     - [liff.ready](/reference/liff/#ready)
     - [liff.getOS()](/reference/liff/#get-os)

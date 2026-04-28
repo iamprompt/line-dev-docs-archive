@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/developing-liff-apps
-__hash__: Seg6v7Y1g1Gh--Gg06yvq0FRNrCj6AwVPd_eNvuoA6Y
+__hash__: TS0Kjg-8AttM8EPSVh7dA5ngG73-PM3EiH4mG_9HEpE
 seo:
   title: Developing a LIFF app
   description: ''
@@ -117,14 +117,15 @@ The process from when the user accesses the :glossary-tooltip[[LIFF URL](/glossa
 :interactive-svg{src="/media/liff/initializing-liff-app-flow-liff-browser-en.svg" border}For more information, see [LIFF Behaviors from accessing the LIFF URL to opening the LIFF app](/docs/liff/opening-liff-app/#redirect-flow).
 
 ::admonition{title="LIFF app's query parameters" type="note"}
-When you access a LIFF URL or perform a transition between LIFF apps, the URL may be given query parameters that begin with `liff.*`.
+When you access a LIFF URL or perform a LIFF-to-LIFF transition, the following query parameters may be added to the URL:
 
-e.g.
+- `liff.state`: Indicates additional information specified in the LIFF URL.
+- `liff.referrer`: Indicates the URL before a LIFF-to-LIFF transition. For more information, see [Get URL from before LIFF-to-LIFF transition](/docs/liff/opening-liff-app/#using-liff-referrer).
+- `lineAppVersion`: May be included when a LIFF app is opened in LINE for Android.
 
-- `liff.state` (indicates additional information specified in LIFF URL)
-- `liff.referrer` (indicates where the referrer came from when transitioning between LIFF apps. For more information, see [Get URL from before LIFF-to-LIFF transition](/docs/liff/opening-liff-app/#using-liff-referrer))
+The above query parameters are added by the LIFF SDK so that LIFF apps can function properly. When you perform custom processing on the LIFF app's URL, don't modify the query parameters given by the LIFF SDK until the `liff.init()` method is resolved, to ensure that LIFF apps function properly, such as when opening or during LIFF-to-LIFF transitions.
 
-The above query parameters are given by the SDK so that LIFF apps can function properly. When you independently alter the above query parameters, proper opening of the LIFF app and a transition between LIFF apps may not be guaranteed. Implement your app so that the `liff.*` query parameter is altered after `liff.init()` is resolved.
+Other query parameters may also be added. For this reason, design your app so that query parameters added when accessing a LIFF URL or performing a LIFF-to-LIFF transition aren't modified.
 ::
 
 ::admonition
