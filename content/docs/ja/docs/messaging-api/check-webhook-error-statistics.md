@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/check-webhook-error-statistics
-__hash__: lRndlzfVzMIRNKesoe3rqS3D-YBKDRIRMNibARQ_Txs
+__hash__: vHfp7jUDF3jIn0jd3I30PC4PVj_AS2eAqiZ8uyioSiU
 seo:
   title: Webhookのエラーの原因と統計情報を確認する
   description: null
@@ -61,7 +61,7 @@ LINEプラットフォームからボットサーバーに対してWebhookを送
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Connection failed`                    | ボットサーバーへの接続に失敗しました。                                                                                                                          |
 | `Connection failed (received GOAWAY)`  | ボットサーバーへの接続時に、接続が拒否されました。                                                                                                                    |
-| `Connection failed (session closed)`   | ボットサーバへの接続が予期せず終了されました。                                                                                                                      |
+| `Connection failed (session closed)`   | ボットサーバーへの接続が予期せず終了されました。                                                                                                                     |
 | `Connection timeout`                   | ボットサーバーへの接続が一定時間内に完了しませんでした。                                                                                                                 |
 | `DNS Query timeout`                    | Webhook URLの名前解決を行いましたが、一定時間内に名前解決を完了できませんでした。                                                                                               |
 | `Invalid URL syntax`                   | 不正なWebhook URLが指定されています（RFC違反等）。                                                                                                             |

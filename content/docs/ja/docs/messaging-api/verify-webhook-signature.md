@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/verify-webhook-signature
-__hash__: z3pr61GajQO-8yrJkmP6QwA0bIIDqLGYLk5Z42L_l9w
+__hash__: LCHnxF_6DJ5_AwRCgGqxRhPsHGg9QcYg3Ff98LPARK4
 seo:
   title: Webhookの署名を検証する
   description: null
@@ -80,7 +80,7 @@ LINEプラットフォームは、Webhookを送信する際に、以下の手順
 
 ボットサーバーは、LINEプラットフォームから送信されたWebhookを、以下の手順で検証します。
 
-1. 受信したWebhookのリクエストボディの文字列を入力データ、ボットサーバで管理していたチャネルシークレットをハッシュ鍵として、HMAC-SHA256で署名を生成します。
+1. 受信したWebhookのリクエストボディの文字列を入力データ、ボットサーバーで管理していたチャネルシークレットをハッシュ鍵として、HMAC-SHA256で署名を生成します。
 2. 受信した署名（`x-line-signature`）と、生成した署名を比較します。
 3. 署名が一致した場合、受信したWebhookはLINEプラットフォームから送信され、改ざんされることなくボットサーバーに到達したものであることが保証されます。
 4. 署名が一致した場合は、Webhookイベントの内容に応じた処理を行ってください。
