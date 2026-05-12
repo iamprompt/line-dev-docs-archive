@@ -1,20 +1,20 @@
 ---
-title: Notice about service outage for LIFF/LINE MINI App
+title: '[Updated] Notice about service outage for LIFF/LINE MINI App'
 navigation: true
-description: >-
-  We would like to inform you about a service outage regarding LIFF/LINE MINI
-  App. We sincerely apologize for any inconvenience that this may have caused.
+description: ''
 meta: >-
   {"date":"2026-05-11 00:00 UTC","tags":"outage-report, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2026/2026-05-11-liff-outage
-__hash__: _nH6Tch0-4gmexpZqQ-Uaxy1Zjc1L7VqUhl7CYgVdvE
+__hash__: FdoE4V8vVa7HHolosxTGqXPpsZmdYvXkgFiDVe6JtJY
 seo:
-  title: Notice about service outage for LIFF/LINE MINI App
-  description: >-
-    We would like to inform you about a service outage regarding LIFF/LINE MINI
-    App. We sincerely apologize for any inconvenience that this may have caused.
+  title: '[Updated] Notice about service outage for LIFF/LINE MINI App'
+  description: ''
 ---
+
+::admonition{title="Added on May 12, 2026" type="note"}
+We have added a [Workaround](#workaround-20260511) section.
+::
 
 We would like to inform you about a service outage regarding LIFF/LINE MINI App. We sincerely apologize for any inconvenience that this may have caused.
 
@@ -41,7 +41,23 @@ This issue occurs when all of the following conditions are met:
 - The user's LINE version is `26.6.0` or `26.6.1`.
 - While the LIFF browser is open, the same or a different LIFF/LINE MINI App is launched using [Intent](https://developer.android.com/guide/components/intents-filters){rel="[\"nofollow\"]"} or [App Links](https://developer.android.com/training/app-links){rel="[\"nofollow\"]"}.
 
-  
-We are currently reviewing the details of the recovery status. We will provide further details in a subsequent update to this news.
+## Workaround
 
-We apologize for any inconvenience.
+This issue occurs when the LIFF SDK references an invalid access token. You can potentially work around the issue by performing the following steps on your LIFF/LINE MINI App:
+
+- When navigating from a LIFF/LINE MINI App to the same or a different LIFF/LINE MINI App, use `location.href` for the transition.
+- If a LIFF SDK error that may be caused by this issue is detected in a LIFF/LINE MINI App (e.g., error code `invalid_request`), call the [`liff.logout()`](/reference/liff/#logout) method and then call the [`liff.login()`](/reference/liff/#login) method as follows:
+
+```javascript
+const params = new URLSearchParams(location.search)
+const liffState = params.get('liff.state')
+const redirectUri = liffState
+    ? new URL('.' + liffState, location.href).toString()
+    : location.href
+liff.login({ redirectUri })
+```
+
+A fix for LINE for Android is currently being prepared. We will update this news as soon as the fix is released.
+
+  
+We sincerely apologize for any inconvenience.
