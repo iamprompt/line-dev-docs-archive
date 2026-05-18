@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/partner-docs/mark-as-read
-__hash__: dZSeoIpGmqhxN566PVywsICd3gexdhThWhy9AK4Xz-o
+__hash__: qRciUtass4kbDDbULxqeXfwN2vzsldJHuecWFiCVELQ
 seo:
   title: 既読API（旧）
   description: null
@@ -18,6 +18,8 @@ seo:
 
 ::admonition{title="オプション機能を利用するには手続きが必要です" type="note"}
 本ドキュメントに記載の機能は、所定の申請等を行った法人ユーザーのみがご利用いただけます。自社のLINE公式アカウントでご利用になりたいお客様は、担当営業までご連絡いただくか、[弊社パートナー](https://www.lycbiz.com/jp/partner/sales/){rel="[\"nofollow\"]"}にお問い合わせください。
+
+既読API（旧）の新規利用申請の受付は、2026年10月末で終了します。現在、既読API（旧）をご利用中のLINE公式アカウントでは、受付終了後も引き続き既読API（旧）をご利用いただけます。
 ::
 
 ## 概要

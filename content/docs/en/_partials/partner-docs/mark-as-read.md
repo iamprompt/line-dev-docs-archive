@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/partner-docs/mark-as-read
-__hash__: CUaqN2R5EJT-FCX-TeOb7ooRGO7ZCDWzXmsax7SO8sE
+__hash__: m4JxqN8c2vl_q92iUsX0okvikDjh4fToFQTCndAZHkA
 seo:
   description: ''
 ---
@@ -18,7 +18,7 @@ seo:
   All messages sent from a specific user can display "Read".
 
     ::::admonition{title="Use the new endpoint to mark as read" type="tip"}
-    The Mark as read API (old) remains available for use. However, if you're implementing functionality to mark messages as read from users going forward, use the Messaging API's [Mark messages as read](/reference/messaging-api/#mark-as-read) endpoint. The "Mark messages as read" endpoint requires no application and can be used in conjunction with chat feature.
+    The Mark as read API (old) remains available for use. However, if you're implementing functionality to mark messages as read from users going forward, use the Messaging API's [Mark messages as read](/reference/messaging-api/#mark-as-read) endpoint. The "Mark messages as read" endpoint requires no application and can be used in conjunction with the chat feature.
     ::::
   :::
 

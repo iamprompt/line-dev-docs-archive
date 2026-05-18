@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/partner-docs/mark-as-read
-__hash__: '-zphXd5oxgkgbZd-AO-IxbKtTNRK8cFSwOR_ettDwZ4'
+__hash__: dLQXq24GYX7Eoq434DLm4O_XxlYZlLQ_XnPnM87pfbc
 seo:
   title: Mark as read API (old)
   description: null
@@ -13,7 +13,7 @@ seo:
 # :page-title
 
 :markdown-controls::admonition{title="Use the new endpoint to mark as read" type="tip"}
-The Mark as read API (old) remains available for use. However, if you're implementing functionality to mark messages as read from users going forward, use the Messaging API's [Mark messages as read](/reference/messaging-api/#mark-as-read) endpoint. The "Mark messages as read" endpoint requires no application and can be used in conjunction with chat feature.
+The Mark as read API (old) remains available for use. However, if you're implementing functionality to mark messages as read from users going forward, use the Messaging API's [Mark messages as read](/reference/messaging-api/#mark-as-read) endpoint. The "Mark messages as read" endpoint requires no application and can be used in conjunction with the chat feature.
 ::
 
 ::admonition
@@ -22,6 +22,8 @@ title: Use of optional functions requires an application
 type: note
 ---
 Only corporate users who have submitted the required applications can use the functions described in this document. To use these functions with your LINE Official Account, contact your sales representative or contact [our Sales partners](https://www.lycbiz.com/jp/partner/sales/){rel="[\"nofollow\"]"}.
+
+We'll stop accepting new applications for the Mark as read API (old) at the end of October 2026. LINE Official Accounts that are currently using the Mark as read API (old) can continue to use it after new applications are no longer accepted.
 ::
 
 ## Overview
