@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/minimizing-liff-browser
-__hash__: Uyik7hLZF9cv5OKdukX9Vq_-5S3v4cOOW-aUqNpxjiA
+__hash__: Bsw0zAA5O-7rmX3IcO7gdK7H0CQTS7PRBFetEbak5rE
 seo:
   title: Minimizing LIFF browser
   description: ''
@@ -60,9 +60,9 @@ There are three ways to minimize a LIFF browser:
 
 ### Tapping an option from the action button
 
-Tap the **Minimize browser** option after opening the [multi-tab view](/docs/liff/overview/#multi-tab-view) from the [action button](/docs/liff/overview/#action-button).
+Tap the **Minimize browser** option after opening the dropdown menu from the [action button](/docs/liff/overview/#action-button).
 
-![LIFF browser minimization (tapping an action button option)](/media/liff/minimizing-liff-app/tap-action-button-option-en.png){className="[\"w-fix-960\"]"}
+![](/media/line-mini-app/discover/mini-header-action-button-tap-en.png){className="[\"border\",\"w-fix-300\"]"}
 
 ### Tapping an in-app alert
 
@@ -75,6 +75,12 @@ Tap an in-app alert.
 Swipe a LIFF browser down.
 
 ![LIFF browser minimization (swiping a LIFF browser)](/media/liff/minimizing-liff-app/swipe-liff-browser-en.png){className="[\"w-fix-600\"]"}
+
+### Tapping the option from the action button (LINE version earlier than 26.7.0)
+
+Tap the **Minimize browser** option after opening the [multi-tab view](/docs/liff/overview/#multi-tab-view) from the [action button](/docs/liff/overview/#action-button).
+
+![LIFF browser minimization (tapping the action button option)](/media/liff/minimizing-liff-app/tap-action-button-option-en.png){className="[\"w-fix-960\"]"}
 
 ## Maximizing a LIFF browser
 

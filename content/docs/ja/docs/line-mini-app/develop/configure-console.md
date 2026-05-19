@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/configure-console
-__hash__: I_70zU_6ygyl6upUUIoOWCd-fUFSshtKk8P5oCho3Hs
+__hash__: t3gO8yk79ZaXoC8Tg4fsqQQNxTPavGX8qJSsWscGqAQ
 seo:
   title: LINE DevelopersコンソールでLINEミニアプリの設定を管理する
   description: null
@@ -67,7 +67,7 @@ LINEミニアプリの開発を外部委託した場合など、LINEミニアプ
 
 ユーザーが[アクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)を押したときに、[LINE Developersコンソール](/console/)に登録した以下の情報が、[マルチタブビュー](/docs/line-mini-app/discover/builtin-features/#multi-tab-view)に表示されます。
 
-![](/media/line-mini-app/develop/mini-multi-tab-view-config-ja.png){className="[\"border\",\"w-fix-320\",\"border\"]"}
+![](/media/line-mini-app/discover/mini-multi-tab-view-ja.png){className="[\"border\",\"w-fix-320\",\"border\"]"}
 
 | 情報             | 設定                                |
 | -------------- | --------------------------------- |

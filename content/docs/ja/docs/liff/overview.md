@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/overview
-__hash__: o5IFnVyXzfWMo1_4T-ve2UgopQg0nYe0PHfybXHDpoM
+__hash__: FtW9IShjNPK-oCbpF0jRbsMUq0PWe2311pQEbS6iKLY
 seo:
   title: LIFFの概要
   description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
@@ -88,41 +88,39 @@ LIFFブラウザは、以下の3つの画面サイズで表示できます。
 
 LIFFアプリの画面サイズを`Full`に指定している場合、ヘッダーには、デフォルトでアクションボタンが表示されます。
 
-![](/media/news/2025/liff-action-button-after.png){className="[\"w-fix-320\",\"border\"]"}
+![](/media/line-mini-app/discover/mini-header-action-button-ja.png){className="[\"w-fix-320\",\"border\"]"}
 
 ::admonition{title="アクションボタンを非表示にする" type="tip"}
 LINE DevelopersコンソールでLIFFアプリの［**モジュールモード**］をオンにすると、アクションボタンを非表示にできます。詳しくは、「[LIFFアプリをチャネルに追加する](/docs/liff/registering-liff-apps/)」を参照してください。
 ::
 
-アクションボタンを押すと、[マルチタブビュー](#multi-tab-view)または[オプション](#multi-tab-view-option)のどちらかがLINEアプリのバージョンに応じて表示されます。LINEバージョン15.12.0以降ではマルチタブビューが表示され、LINEバージョン15.12.0未満ではオプションが表示されます。
+アクションボタンを押すと、以下に示すLINEアプリのバージョンに応じた機能が表示されます。なお、アクションボタンのアイコンはLINEバージョンによって異なります。
 
-## マルチタブビュー
+| LINEアプリのバージョン     | 表示される機能     |
+| ----------------- | ----------- |
+| 26.7.0以降          | ドロップダウンメニュー |
+| 15.12.0以降26.7.0未満 | マルチタブビュー    |
+| 15.12.0未満         | オプション       |
 
-マルチタブビューには、使用中のLIFFアプリのオプションと最近使用したサービスが表示されます。
+### ドロップダウンメニュー
 
-1. [オプション](#multi-tab-view-option)
-2. [最近使用したサービス](#multi-tab-view-recent-service)
-
-![](/media/liff/overview/liff-multi-tab-view-ja.png){className="[\"w-fix-320\",\"border\"]"}
-
-### オプション
-
-以下のオプションが、ユーザーのLINEアプリの設定言語で表示されます。
+LINEバージョン26.7.0以降では、アクションボタンをタップすると、以下のドロップダウンメニューが表示されます。
 
 | 項目          | 説明                                                                                                                              |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **すべてのタブ**  | [マルチタブビュー](#multi-tab-view)を表示します。                                                                                              |
 | **更新**      | 現在開いているページを再読み込みします。                                                                                                            |
-| **シェア**     | 現在開いているページの:glossary-tooltip[[パーマネントリンク](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"}を、LINEメッセージでシェアします。 |
 | **ページを最小化** | LIFFブラウザを最小化します。詳しくは、「[LIFFブラウザを最小化する](/docs/liff/minimizing-liff-browser/)」を参照してください。                                          |
+| **シェア**     | 現在開いているページの:glossary-tooltip[[パーマネントリンク](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"}を、LINEメッセージでシェアします。 |
 | **権限設定**    | 権限設定画面を開きます。権限設定画面では、現在開いているLIFFアプリのカメラやマイクへのアクセス権を確認できます。変更はできません。LINEバージョン14.6.0以降で利用可能です。                                    |
 
 ::admonition{title="パーマネントリンクのシェアに失敗する場合があります" type="note"}
 現在のページのURLがLINE Developersコンソールの［**エンドポイントURL**］に指定したURLで始まらない場合、パーマネントリンクを取得できずシェアに失敗します。
 ::
 
-### 最近使用したサービス
+### マルチタブビュー
 
-最近使用したサービスには、ユーザーが開いたLIFFアプリが、利用履歴の新しい順に最大50件まで表示されます。
+マルチタブビューには、最近使用したサービスが表示されます。最近使用したサービスには、ユーザーが開いたLIFFアプリが、利用履歴の新しい順に最大50件まで表示されます。
 
 LIFFアプリを閉じたり、別のLIFFアプリを新たに開いたりするとその時点のスクリーンショットが利用履歴として表示されます。ユーザーは利用履歴を使って、LIFFアプリを再度開くことができます。
 

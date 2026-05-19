@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/add-to-home-screen
-__hash__: wngtUlKV4v7Jrat2Hjh9EbjL_25AiQakzIm9QCBwjwo
+__hash__: QIoXGbJ1QO9-SZ7NZYR9kuKUAiEwDm6tC0PG1P-E1fo
 seo:
   title: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する
   description: null
@@ -18,7 +18,7 @@ seo:
 
 ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できます。
 
-[アクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)から[マルチタブビュー](/docs/line-mini-app/discover/builtin-features/#multi-tab-view)を開き［**ホーム画面に追加**］をタップするか、[`liff.createShortcutOnHomeScreen()`](/reference/liff/#create-shortcut-on-home-screen)メソッドを使うと、ショートカット追加画面が表示されます。ユーザーは、画面上の指示に従うことで、端末のホーム画面にLINEミニアプリへのショートカットを追加できます。これにより、ユーザー端末のホーム画面からLINEミニアプリに直接アクセスできるようになります。
+[アクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)からドロップダウンメニューを開き［**ホーム画面に追加**］をタップするか、[`liff.createShortcutOnHomeScreen()`](/reference/liff/#create-shortcut-on-home-screen)メソッドを使うと、ショートカット追加画面が表示されます。ユーザーは、画面上の指示に従うことで、端末のホーム画面にLINEミニアプリへのショートカットを追加できます。これにより、ユーザー端末のホーム画面からLINEミニアプリに直接アクセスできるようになります。
 
 **Android端末での表示**
 

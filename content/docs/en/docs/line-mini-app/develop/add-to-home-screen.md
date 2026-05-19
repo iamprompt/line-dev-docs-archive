@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/add-to-home-screen
-__hash__: VKqgI-WQMPxq1iCwTJ3Tzsuyy-JPIamwsvqBZuZVjF0
+__hash__: O7lVn_Mvt6UJj-wIMO7SG4DvO1SQ4cNGqiZGTIi1rMM
 seo:
   title: Add a shortcut to your LINE MINI App to the home screen of the user's device
   description: null
@@ -22,7 +22,7 @@ This feature is only available for verified MINI Apps. For unverified MINI Apps,
 
 The user can add a shortcut to your LINE MINI App to the home screen of the user's device.
 
-Tapping **Add to Home** option after opening the [multi-tab view](/docs/line-mini-app/discover/builtin-features/#multi-tab-view) from the [action button](/docs/line-mini-app/discover/builtin-features/#action-button) or using the [`liff.createShortcutOnHomeScreen()`](/reference/liff/#create-shortcut-on-home-screen) method will display the Add Shortcut screen. The user can add a shortcut to your LINE MINI App to the home screen of the user's device by following the instructions on the screen. This allows the user to access your LINE MINI App directly from the home screen of the user's device.
+Tapping **Add to Home** option after opening the dropdown menu from the [action button](/docs/line-mini-app/discover/builtin-features/#action-button) or using the [`liff.createShortcutOnHomeScreen()`](/reference/liff/#create-shortcut-on-home-screen) method will display the Add Shortcut screen. The user can add a shortcut to your LINE MINI App to the home screen of the user's device by following the instructions on the screen. This allows the user to access your LINE MINI App directly from the home screen of the user's device.
 
 **Display on Android device**
 

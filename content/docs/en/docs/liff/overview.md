@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/liff/overview
-__hash__: 7o0MKxRNwru8Vf83C1IGdlRnMfCRuIPCc2VCAPr1ZCw
+__hash__: Ibxe-BSCXiIkGOpjG-K3O8ukDYe_0i_gmXGELenVysg
 seo:
   title: LIFF overview
   description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
@@ -92,41 +92,39 @@ Set the view size when you add the LIFF app to your LINE Login channel. For more
 
 LIFF apps with the size of the LIFF app view set to `Full` display an action button in the header by default.
 
-![](/media/news/2025/liff-action-button-after.png){className="[\"w-fix-320\",\"border\"]"}
+![](/media/line-mini-app/discover/mini-header-action-button-en.png){className="[\"w-fix-320\",\"border\"]"}
 
 ::admonition{title="Hide the action button" type="tip"}
 Enable **Module mode** of the LIFF app in the LINE Developers Console to hide the action button. For more information, see [Adding a LIFF app to your channel](/docs/liff/registering-liff-apps/).
 ::
 
-When the user taps the action button, either the [multi-tab view](#multi-tab-view) or the [options](#multi-tab-view-option) will be displayed depending on the LINE app version. In LINE version 15.12.0 or later, the multi-tab will be displayed, and in LINE version earlier than 15.12.0, the options will be displayed.
+When you tap the action button, the features shown below will appear, depending on your version of the LINE app. The action button icon varies depending on your version of LINE.
 
-## Multi-tab view
+| LINE app version                          | Available feature |
+| ----------------------------------------- | ----------------- |
+| 26.7.0 or later                           | Dropdown menu     |
+| 15.12.0 or later, and earlier than 26.7.0 | Multi-tab view    |
+| Earlier than 15.12.0                      | Options           |
 
-The multi-tab view displays options for the LIFF app currently in use and recently used services.
+### Dropdown menu
 
-1. [Options](#multi-tab-view-option)
-2. [Recently used services](#multi-tab-view-recent-service)
+In LINE version 26.7.0 or later, tapping the action button displays the following drop-down menu:
 
-![](/media/liff/overview/liff-multi-tab-view-en.png){className="[\"w-fix-320\",\"border\"]"}
-
-### Options
-
-The following options appear in the language settings of the user's LINE app:
-
-| Item                   | Description                                                                                                                                                                                                                            |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Refresh**            | Reloads the current page.                                                                                                                                                                                                              |
-| **Share**              | Shares the :glossary-tooltip[[permanent link](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"} of the current page via a LINE message.                                                                              |
-| **Minimize browser**   | Minimizes LIFF browser. For more information, see [Minimizing LIFF browser](/docs/liff/minimizing-liff-browser/).                                                                                                                      |
-| **Permission setting** | Opens the Permission Settings screen. The Permission Settings screen allows the user to view the camera and microphone permissions of the currently open LIFF app. No changes can be made. Available in LINE versions 14.6.0 or later. |
+| Item                    | Description                                                                                                                                                                                                                            |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **All tabs**            | Displays the [Multi-tab view](#multi-tab-view).                                                                                                                                                                                        |
+| **Refresh**             | Reloads the current page.                                                                                                                                                                                                              |
+| **Minimize browser**    | Minimizes LIFF browser. For more information, see [Minimizing LIFF browser](/docs/liff/minimizing-liff-browser/).                                                                                                                      |
+| **Share**               | Shares the :glossary-tooltip[[permanent link](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"} of the current page via a LINE message.                                                                              |
+| **Permission settings** | Opens the Permission Settings screen. The Permission Settings screen allows the user to view the camera and microphone permissions of the currently open LIFF app. No changes can be made. Available in LINE versions 14.6.0 or later. |
 
 ::admonition{title="Permanent link sharing may fail" type="note"}
 If the URL of the current page doesn't start with the URL specified in **Endpoint URL** of the LINE Developers Console, the permanent link can't be obtained and sharing will fail.
 ::
 
-### Recently used services
+### Multi-tab view
 
-The recently used services section includes LIFF apps opened by the user, displayed in order of most recent use, up to a maximum of 50 items.
+The Multi-tab view displays your recently used services. The recently used services section includes LIFF apps opened by the user, displayed in order of most recent use, up to a maximum of 50 items.
 
 When a user closes a LIFF app or open a new LIFF app, a screenshot taken at that point will be displayed as usage history. The user can use the usage history to reopen the LIFF app.
 
