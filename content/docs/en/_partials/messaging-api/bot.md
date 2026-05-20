@@ -4,16 +4,16 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/bot
-__hash__: 9p0snxb0bMFLosullQqxoYqqbUp6QI9qRUPFm4qgDgU
+__hash__: wVD16DlwLhS9Q8gurWKSVkVu11WhAKkWc1yQP_ryTNg
 seo:
   description: ''
 ---
 
-## Bot
+## LINE Official Account (bot)
 
 ::reference-with-code
   :::reference-content
-  You can obtain basic information on the LINE Official Account's bots.
+  You can obtain basic information on the LINE Official Account (bot).
   :::
 
   :::reference-code

@@ -4,16 +4,16 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-bot-info
-__hash__: f86yE6-f_t5W4R9v6Ud8gs31B2AuG0Jg1_IJGE7XnTU
+__hash__: UdMiG49VuwosWRJbyVUCGq4QelGE1NKvlU--r0dSrKI
 seo:
   description: ''
 ---
 
-### Get bot info
+### Get LINE Official Account (bot) info
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/info"}::reference-with-code
   :::reference-content
-  Gets a bot's basic information.
+  Gets basic information on the LINE Official Account (bot).
   :::
 
   :::reference-code
@@ -62,7 +62,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       String
 
-      Bot's user ID
+      User ID of the LINE Official Account (bot).
       :::::
 
       :::::parameter-table-entry
@@ -72,7 +72,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       String
 
-      Bot's basic ID
+      Basic ID of the LINE Official Account (bot).
       :::::
 
       :::::parameter-table-entry{annotation="Not always included"}
@@ -82,7 +82,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       String
 
-      Bot's :glossary-tooltip[[premium ID](/glossary/#premium-id)]{glossary-id="premium-id"}. Not included in the response if the premium ID isn't set.
+      :glossary-tooltip[[Premium ID](/glossary/#premium-id)]{glossary-id="premium-id"} of the LINE Official Account (bot). Not included in the response if the premium ID isn't set.
       :::::
 
       :::::parameter-table-entry
@@ -92,7 +92,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       String
 
-      Bot's display name
+      Display name of the LINE Official Account (bot).
       :::::
 
       :::::parameter-table-entry{annotation="Not always included"}
@@ -102,7 +102,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       String
 
-      Profile image URL. "https" image URL. Not included in the response if the bot doesn't have a profile image.
+      Profile image URL. "https" image URL. Not included in the response if the LINE Official Account (bot) doesn't have a profile image.
       :::::
 
       :::::parameter-table-entry

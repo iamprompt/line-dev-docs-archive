@@ -4,16 +4,16 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/bot
-__hash__: mUk3ORsNcOaerX6zXWMlRj30FegQnW1yy6cEmMpWZlw
+__hash__: XntuOytX59VZCRu9uw31kYv21y2OI298FBtDz_Z69ps
 seo:
   description: ''
 ---
 
-## ボット
+## LINE公式アカウント（ボット）
 
 ::reference-with-code
   :::reference-content
-  LINE公式アカウントのボットの基本情報を取得できます。
+  LINE公式アカウント（ボット）の基本情報を取得できます。
   :::
 
   :::reference-code

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/receiving-messages
-__hash__: I3pVbBVru15__NgbR5-W0f3pzHvqS0FSkLVaIWqhb_I
+__hash__: oH8ruLKufAGKE4Zt35q9YdYvywjGnf4WYoaL5IEnie4
 seo:
   title: メッセージ（Webhook）を受信する
   description: null
@@ -131,7 +131,7 @@ Webhookイベントオブジェクトに含まれるデータに基づいて、�
 }
 ```
 
-なお、ボットのユーザーIDは、[Webhookのリクエストボディ](/reference/messaging-api/#request-body)にある`destination`プロパティや、「[ボットの情報を取得する](/reference/messaging-api/#get-bot-info)」エンドポイントで取得できる`userId`プロパティで確認できます。
+なお、ボットのユーザーIDは、[Webhookのリクエストボディ](/reference/messaging-api/#request-body)にある`destination`プロパティや、「[LINE公式アカウント（ボット）の情報を取得する](/reference/messaging-api/#get-bot-info)」エンドポイントで取得できる`userId`プロパティで確認できます。
 
 ### その他のWebhookイベント
 

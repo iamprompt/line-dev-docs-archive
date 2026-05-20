@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module-technical-using-messaging-api
-__hash__: b3i9OvnClHfRgx8Fv2MEXJL7JFYt8hmSPDeOPyh6kCA
+__hash__: SWgitlnF_Ynn93Z8gWaz2tEvUUnh7ggTgSTF1gN23lI
 seo:
   title: Using the Messaging API from a module channel
   description: null
@@ -296,12 +296,12 @@ Implement the module so that there's no conflict in the information managed by t
 
 You can obtain information about each LINE Official Account that is attached to a module channel by using the following APIs:
 
-- [Get bot information](#get-bot-info)
+- [Get LINE Official Account (bot) information](#get-bot-info)
 - [Get a list of bots to which the module is attached](#get-multiple-bot-info)
 
-### Get bot information
+### Get LINE Official Account (bot) information
 
-Gets basic information about the bots of LINE Official Accounts that have attached module channels. For more information, see [Get bot info](/reference/messaging-api/#get-bot-info) in the Messaging API documentation.
+Gets basic information about the bots of LINE Official Accounts that have attached module channels. For more information, see [Get LINE Official Account (bot) info](/reference/messaging-api/#get-bot-info) in the Messaging API documentation.
 
 Also, specify this content in the request header:
 

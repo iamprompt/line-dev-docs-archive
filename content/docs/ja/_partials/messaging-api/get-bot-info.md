@@ -4,16 +4,16 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-bot-info
-__hash__: Dyn7_WiRfIpSVIxxhBxCwrCy_bzJvog3Ml9tgIEtIE0
+__hash__: MQ7SyehiZ_XRc3clspDffUGkyevrMCbETSap2u40ass
 seo:
   description: ''
 ---
 
-### ボットの情報を取得する
+### LINE公式アカウント（ボット）の情報を取得する
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/info"}::reference-with-code
   :::reference-content
-  ボットの基本情報を取得します。
+  LINE公式アカウント（ボット）の基本情報を取得します。
   :::
 
   :::reference-code
@@ -62,7 +62,7 @@ seo:
       #undefined
       String
 
-      ボットのユーザーID
+      LINE公式アカウント（ボット）のユーザーID
       :::::
 
       :::::parameter-table-entry
@@ -72,7 +72,7 @@ seo:
       #undefined
       String
 
-      ボットのベーシックID
+      LINE公式アカウント（ボット）のベーシックID
       :::::
 
       :::::parameter-table-entry{annotation="含まれないことがあります"}
@@ -82,7 +82,7 @@ seo:
       #undefined
       String
 
-      ボットの:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}。プレミアムIDが未設定の場合、この値は含まれません。
+      LINE公式アカウント（ボット）の:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}。プレミアムIDが未設定の場合、この値は含まれません。
       :::::
 
       :::::parameter-table-entry
@@ -92,7 +92,7 @@ seo:
       #undefined
       String
 
-      ボットの表示名
+      LINE公式アカウント（ボット）の表示名
       :::::
 
       :::::parameter-table-entry{annotation="含まれないことがあります"}
@@ -102,7 +102,7 @@ seo:
       #undefined
       String
 
-      プロフィール画像のURL。「https://」から始まる画像URLです。ボットにプロフィール画像を設定していない場合は、レスポンスに含まれません。
+      プロフィール画像のURL。「https://」から始まる画像URLです。LINE公式アカウント（ボット）にプロフィール画像を設定していない場合は、レスポンスに含まれません。
       :::::
 
       :::::parameter-table-entry

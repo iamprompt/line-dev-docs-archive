@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/receiving-messages
-__hash__: Q0m_c3jjIILVxN-2R8v-kl33C-kyVWdCNbbcXWdESPQ
+__hash__: ikQ_6oLTkv8Im1dGWr2L80mlEGnAMuah_sjx5iZ8e2M
 seo:
   title: Receive messages (webhook)
   description: null
@@ -135,7 +135,7 @@ For example, a webhook event object containing the following message event will 
 }
 ```
 
-You can check the user ID of the bot in the `destination` property in the [request body of the webhook](/reference/messaging-api/#request-body) and in the `userId` property which can be obtained using the [Get bot info](/reference/messaging-api/#get-bot-info) endpoint.
+You can check the user ID of the bot in the `destination` property in the [request body of the webhook](/reference/messaging-api/#request-body) and in the `userId` property which can be obtained using the [Get LINE Official Account (bot) info](/reference/messaging-api/#get-bot-info) endpoint.
 
 ### Other webhook events
 

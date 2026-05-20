@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-using-messaging-api
-__hash__: 2iIgKluNdoxYerlhpZGyt0G-eVZFk2fzBxt9cldBIKM
+__hash__: BOyhHRSXXAd-xx_kgdEgBH9HfHnba0FPklbCAyn-hJw
 seo:
   title: モジュールチャネルからMessaging APIを利用する
   description: null
@@ -276,12 +276,12 @@ LINE公式アカウントにアタッチされているチャネルのうち、`
 
 以下のAPIを使うことで、モジュールチャネルをアタッチしたLINE公式アカウントの情報を取得できます。
 
-- [ボットの情報を取得する](#get-bot-info)
+- [LINE公式アカウント（ボット）の情報を取得する](#get-bot-info)
 - [モジュールをアタッチしたボットのリストを取得する](#get-multiple-bot-info)
 
-### ボットの情報を取得する
+### LINE公式アカウント（ボット）の情報を取得する
 
-モジュールチャネルをアタッチしたLINE公式アカウントのボットの基本情報を取得します。詳しくは、『Messaging APIリファレンス』の「[ボットの情報を取得する](/reference/messaging-api/#get-bot-info)」を参照してください。
+モジュールチャネルをアタッチしたLINE公式アカウントのボットの基本情報を取得します。詳しくは、『Messaging APIリファレンス』の「[LINE公式アカウント（ボット）の情報を取得する](/reference/messaging-api/#get-bot-info)」を参照してください。
 
 なお、リクエストヘッダーには、以下の内容を指定してください。
 
