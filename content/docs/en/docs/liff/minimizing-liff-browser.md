@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/minimizing-liff-browser
-__hash__: Bsw0zAA5O-7rmX3IcO7gdK7H0CQTS7PRBFetEbak5rE
+__hash__: G9HTfuweEPd8IDuuIQs6jguHuTyTHj0wSE0pDOrczOg
 seo:
   title: Minimizing LIFF browser
   description: ''
@@ -62,7 +62,7 @@ There are three ways to minimize a LIFF browser:
 
 Tap the **Minimize browser** option after opening the dropdown menu from the [action button](/docs/liff/overview/#action-button).
 
-![](/media/line-mini-app/discover/mini-header-action-button-tap-en.png){className="[\"border\",\"w-fix-300\"]"}
+![](/media/liff/minimizing-liff-app/tap-action-button-en.png){className="[\"border\",\"w-fix-300\"]"}
 
 ### Tapping an in-app alert
 

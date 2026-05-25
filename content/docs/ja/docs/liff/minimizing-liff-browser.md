@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/minimizing-liff-browser
-__hash__: OqlA0nT23AXuEsQ9zCDB7TQ9TV_fVrKnD_sDFyCOKpI
+__hash__: I9RPfpU84xSOa646gnNKpsMMLb3KUTeoQ0Oc_f71dao
 seo:
   title: LIFFブラウザを最小化する
   description: ''
@@ -58,7 +58,7 @@ LIFFブラウザを最小化するには、以下の3つの方法があります
 
 [アクションボタン](/docs/liff/overview/#action-button)からドロップダウンメニューを開き、［**ページを最小化**］オプションをタップします。
 
-![](/media/line-mini-app/discover/mini-header-action-button-tap-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![](/media/liff/minimizing-liff-app/tap-action-button-ja.png){className="[\"border\",\"w-fix-300\"]"}
 
 ### アプリ内通知をタップする
 

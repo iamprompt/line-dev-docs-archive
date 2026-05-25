@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/liff/overview
-__hash__: Ibxe-BSCXiIkGOpjG-K3O8ukDYe_0i_gmXGELenVysg
+__hash__: hDQb_kfnFzwLHD3N03rRvajFp_Dr0EynwmlzE92cVSk
 seo:
   title: LIFF overview
   description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
@@ -92,7 +92,7 @@ Set the view size when you add the LIFF app to your LINE Login channel. For more
 
 LIFF apps with the size of the LIFF app view set to `Full` display an action button in the header by default.
 
-![](/media/line-mini-app/discover/mini-header-action-button-en.png){className="[\"w-fix-320\",\"border\"]"}
+![](/media/liff/overview/liff-header.png){className="[\"w-fix-320\",\"border\"]"}
 
 ::admonition{title="Hide the action button" type="tip"}
 Enable **Module mode** of the LIFF app in the LINE Developers Console to hide the action button. For more information, see [Adding a LIFF app to your channel](/docs/liff/registering-liff-apps/).

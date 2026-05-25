@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/overview
-__hash__: FtW9IShjNPK-oCbpF0jRbsMUq0PWe2311pQEbS6iKLY
+__hash__: kVK74BSnQq_rkS9BSL8djNa9577bHLGSGFgkMpNgG6Q
 seo:
   title: LIFFの概要
   description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
@@ -88,7 +88,7 @@ LIFFブラウザは、以下の3つの画面サイズで表示できます。
 
 LIFFアプリの画面サイズを`Full`に指定している場合、ヘッダーには、デフォルトでアクションボタンが表示されます。
 
-![](/media/line-mini-app/discover/mini-header-action-button-ja.png){className="[\"w-fix-320\",\"border\"]"}
+![](/media/liff/overview/liff-header.png){className="[\"w-fix-320\",\"border\"]"}
 
 ::admonition{title="アクションボタンを非表示にする" type="tip"}
 LINE DevelopersコンソールでLIFFアプリの［**モジュールモード**］をオンにすると、アクションボタンを非表示にできます。詳しくは、「[LIFFアプリをチャネルに追加する](/docs/liff/registering-liff-apps/)」を参照してください。
