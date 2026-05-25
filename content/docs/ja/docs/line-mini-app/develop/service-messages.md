@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/service-messages
-__hash__: JjodR1H7TvumTmIOYHGHYEJNcMGhvDm6QuUnOQnAOFY
+__hash__: 65-6tkqaQtKlDfV6-GHJY4bXJLCJrPcRZe_CtI1xwm4
 seo:
   title: サービスメッセージを送信する
   description: null
@@ -154,13 +154,13 @@ LINEミニアプリのステータスが「審査前」や「審査中」の場�
 
 ユーザーが操作を行ったり何かを要求したりした後で、LINEミニアプリから初めてサービスメッセージを送信する場合の手順を説明します。
 
+以下はチャネルアクセストークンと[liff.getAccessToken()](/reference/liff/#get-access-token)で取得するアクセストークン（以降、LIFFのアクセストークン）を使って、サービス通知トークンを発行し、サービスメッセージを送信するまでのイメージ図です。このイメージ図では、チャネルアクセストークンに[ステートレスチャネルアクセストークン](/docs/basics/channel-access-token/#stateless-channel-access-token)を使用しています。
+
 ::admonition{title="ステートレスチャネルアクセストークンの使用を推奨します" type="note"}
 LINEミニアプリチャネルでは、[長期のチャネルアクセストークン](/docs/basics/channel-access-token/#long-lived-channel-access-token)および、[任意の有効期間を指定できるチャネルアクセストークン（チャネルアクセストークンv2.1）](/docs/basics/channel-access-token/#user-specified-expiration)は使用できません。
 
 LINEミニアプリの開発では、[ステートレスチャネルアクセストークン](/docs/basics/channel-access-token/#stateless-channel-access-token)または[短期のチャネルアクセストークン](/docs/basics/channel-access-token/#short-lived-channel-access-token)を使用できます。このうち、ステートレスチャネルアクセストークンの使用を推奨します。ステートレスチャネルアクセストークンは、発行数に制限がないため、アプリケーション側でトークンのライフサイクルを管理する必要がありません。
 ::
-
-以下はチャネルアクセストークンと[liff.getAccessToken()](/reference/liff/#get-access-token)で取得するアクセストークン（以降、LIFFのアクセストークン）を使って、サービス通知トークンを発行し、サービスメッセージを送信するまでのイメージ図です。このイメージ図では、チャネルアクセストークンに[ステートレスチャネルアクセストークン](/docs/basics/channel-access-token/#stateless-channel-access-token)を使用しています。
 
 ![relationship of tokens](/media/line-mini-app/mini-illust-01-ja.png){className="[\"w-fix-680\"]"}
 
@@ -168,7 +168,7 @@ LINEミニアプリの開発では、[ステートレスチャネルアクセス
 2. 手順1で取得したLIFFのアクセストークンを、サーバーに送信します。
 3. [チャネルアクセストークン](/docs/basics/channel-access-token/)を取得します。
 4. [サービス通知トークンを発行](/reference/line-mini-app/#issue-notification-token)します。  
-手順3で取得したチャネルアクセストークンと、手順1で取得したLIFFのアクセストークンを利用します。なお、ユーザーがLINEミニアプリを閉じると、有効期間内であってもLIFFのアクセストークンは無効化されます。```java
+手順3で取得したチャネルアクセストークンと、手順1で取得したLIFFのアクセストークンを利用します。```java
 final OkHttpClient notifierApiClient = new OkHttpClient().newBuilder().build();
 final MediaType mediaType = MediaType.parse("application/json");
 final RequestBody notificationTokenRequestBody = RequestBody.create(mediaType, "{'liffAccessToken': 'eyJhbGciOiJIUzI1NiJ9…​'");
@@ -182,6 +182,14 @@ final NotificationTokenResponse response = notifierApiClient.newCall(request).ex
 String notificationToken = notificationTokenResponse.getNotificationToken();
 int tokenRemainingCount = notificationTokenResponse.getRemainingCount();
 ```
+
+::admonition{title="LIFFのアクセストークンの有効期間" type="note"}
+LIFFのアクセストークンの有効期間は、発行後12時間です。ただし、有効期間内であっても、ユーザーの操作によりLIFFのアクセストークンが無効化される場合があります。そのため、LIFFのアクセストークンを取得するタイミングに注意してください。
+
+
+  - ユーザーがLINEミニアプリを閉じると、LIFFのアクセストークンが無効化される場合があります。詳しくは、『LIFFドキュメント』の「[LIFFアプリを閉じたときの挙動](/docs/liff/developing-liff-apps/#behavior-when-closing-liff-app)」を参照してください。
+  - 「[チャネル同意の簡略化](/docs/line-mini-app/develop/channel-consent-simplification/#what-is-channel-consent-simplification)」機能が有効な場合、ユーザーが「アクセス許可要求画面」から追加の権限を許可すると、LIFFのアクセストークンが更新され、それ以前に発行されたLIFFのアクセストークンは無効化されます。詳しくは、「[「アクセス許可要求画面」で`openid`スコープ以外の権限を要求する](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid)」を参照してください。
+::
 5. 最初の[サービスメッセージを送信します](/reference/line-mini-app/#send-service-message)。  
 手順4で取得したサービス通知トークンを利用します。サービスメッセージの送信後は、[レスポンスに含まれるサービス通知トークンを保存](#save-service-notification-token)してください。  
 なお、使用するテンプレートにテンプレート変数がある場合は、`params`にキーと値のペアを指定してください。必須要素のテンプレート変数を指定しないと、エラーが返されます。  

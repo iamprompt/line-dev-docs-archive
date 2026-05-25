@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/get-access-token
-__hash__: wBAl09pG0fRTxhe1OWnQxdYb4Xr9e_bl2VeGCAVcdUY
+__hash__: d95ml2-gx1pWzAQzeazUmJvBf3kQoeDKDXWtZNyL8OY
 seo:
   description: ''
 ---
@@ -17,9 +17,12 @@ seo:
 
   You can use the access token obtained with this API to send user data from the LIFF app to the server. For more information, see [Using user data in LIFF apps and servers](/docs/liff/using-user-profile/) in the LIFF documentation.
 
-    ::::admonition{title="Validity period of the access token" type="note"}
-    The access token is valid for 12 hours after being issued. When the user closes the LIFF app, the access token may be revoked even if it hasn't expired yet. For more information, see [Behavior when closing the LIFF app](/docs/liff/developing-liff-apps/#behavior-when-closing-liff-app) in the LIFF documentation.
-    ::::
+  #### Access token validity period
+
+  An access token is valid for 12 hours after it is issued. However, even within this validity period, the access token may be revoked due to user actions.
+
+  - When the user closes the LIFF app, the access token may be revoked. For more information, see [Behavior when closing the LIFF app](/docs/liff/developing-liff-apps/#behavior-when-closing-liff-app) in the LIFF documentation.
+  - In a LINE MINI App where the "[Channel consent simplification](/docs/line-mini-app/develop/channel-consent-simplification/#what-is-channel-consent-simplification)" feature is enabled, granting additional permissions from the verification screen refreshes the access token and revokes the previously issued access token. For more information, see [Request permissions other than the `openid` scope on the verification screen](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid) in the LINE MINI App documentation.
 
     ::::admonition{title="Getting an access token" type="tip"}
     - If the user starts the LIFF app in a LIFF browser, the LIFF SDK will get an access token when you call [`liff.init()`](#initialize-liff-app).

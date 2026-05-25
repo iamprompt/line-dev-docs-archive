@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/in-app-purchase/implement-in-app-purchase
-__hash__: ywpwWH3DeoKA3PgYqVF-nnsBEuy7MS0UDbihSsJ_kf4
+__hash__: 12tV9GdRqXcDh-xyUycqkkC4IpC4AmipO5CrTyXjzJc
 seo:
   title: Integrate the in-app purchase feature
   description: null
@@ -100,9 +100,16 @@ Make the purchase reservation from your LINE MINI App server at appropriate timi
 
 Obtain the additional parameters required for purchase reservation:
 
-- For the access token at authentication, get the user access token obtained by the [`liff.getAccessToken()`](/reference/liff/#get-access-token) method.
+- For the access token at authentication, specify the value obtained by the [`liff.getAccessToken()`](/reference/liff/#get-access-token) method.
 - For `clientIp`, specify the IP address of the user obtained from your LINE MINI App server.
 - For `clientOs`, specify the value obtained by the [`liff.getOS()`](/reference/liff/#get-os) method.
+
+::admonition{title="Access token validity period" type="note"}
+An access token is valid for 12 hours after it is issued. However, even within this validity period, the access token may be revoked due to user actions. Therefore, be careful about when you obtain the access token.
+
+- When the user closes the LINE MINI App, the access token may be revoked. For more information, see [Behavior when closing the LIFF app](/docs/liff/developing-liff-apps/#behavior-when-closing-liff-app) in the LIFF documentation.
+- When the "[Channel consent simplification](/docs/line-mini-app/develop/channel-consent-simplification/#what-is-channel-consent-simplification)" feature is enabled, granting additional permissions from the verification screen refreshes the access token and revokes the previously issued access token. For more information, see [Request permissions other than the `openid` scope on the verification screen](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid).
+::
 
 At this point, the purchase isn't yet complete. For example, even if the purchase reservation is successful, the actual purchase won't be completed if the user later leaves the LINE MINI App or cancels the purchase transaction in the app store.
 

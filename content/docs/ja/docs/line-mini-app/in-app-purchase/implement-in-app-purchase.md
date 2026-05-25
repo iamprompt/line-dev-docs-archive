@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/implement-in-app-purchase
-__hash__: gXX4xdY4RBls2_LCL17mf-UF3dv5NEeJ4TtbYSxFVeo
+__hash__: FO0efcjf7-L8Qsc-lOzubgYbCEcPdVPupYyACM17Ebg
 seo:
   title: LINEミニアプリにアプリ内課金を組み込む
   description: null
@@ -100,9 +100,16 @@ LINEミニアプリのサーバーから購入処理の予約は、「ユーザ�
 
 購入処理の予約時に追加で必要となるパラメータについては、以下の方法で取得します。
 
-- 認証時のアクセストークンは[`liff.getAccessToken()`](/reference/liff/#get-access-token)メソッドで取得されるユーザーアクセストークンを取得して指定してください。
+- 認証時のアクセストークンは[`liff.getAccessToken()`](/reference/liff/#get-access-token)メソッドで取得される値を指定してください。
 - `clientIp`はLINEミニアプリのサーバーで取得したユーザーのIPアドレスを指定してください。
 - `clientOs`は[`liff.getOS()`](/reference/liff/#get-os)メソッドで取得される値を指定してください。
+
+::admonition{title="アクセストークンの有効期間" type="note"}
+アクセストークンの有効期間は、発行後12時間です。ただし、有効期間内であっても、ユーザーの操作によりアクセストークンが無効化される場合があります。そのため、アクセストークンを取得するタイミングに注意してください。
+
+- ユーザーがLINEミニアプリを閉じると、アクセストークンが無効化される場合があります。詳しくは、『LIFFドキュメント』の「[LIFFアプリを閉じたときの挙動](/docs/liff/developing-liff-apps/#behavior-when-closing-liff-app)」を参照してください。
+- 「[チャネル同意の簡略化](/docs/line-mini-app/develop/channel-consent-simplification/#what-is-channel-consent-simplification)」機能が有効な場合、ユーザーが「アクセス許可要求画面」から追加の権限を許可すると、アクセストークンが更新され、それ以前に発行されたアクセストークンは無効化されます。詳しくは、「[「アクセス許可要求画面」で`openid`スコープ以外の権限を要求する](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid)」を参照してください。
+::
 
 この時点では、購入はまだ完了していません。たとえば、購入処理の予約が成功した場合でも、その後ユーザーがLINEミニアプリから離脱したり、アプリストアの購入処理をキャンセルしたりした場合は、実際の購入は完了しないということに注意してください。
 

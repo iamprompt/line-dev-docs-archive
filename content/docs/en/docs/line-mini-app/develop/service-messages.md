@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/service-messages
-__hash__: rjtM3mvYDBrrKH8sUIQn668BKh4vuT6wiAwkL8yxMN8
+__hash__: J5KMailubwpQsO3CK5IQBEuA--xNeZrQFBKq0W4nA5E
 seo:
   title: Sending service messages
   description: null
@@ -162,6 +162,8 @@ The number of characters in the key values is counted in [grapheme cluster](http
 
 Here are the steps to sending a service message for the first time from the LINE MINI App after a user action:
 
+This is an image diagram showing how to issue a service notification token, using a channel access token and an access token obtained by [liff.getAccessToken()](/reference/liff/#get-access-token) (hereafter called "LIFF access token"), to send a service message. In this image, a [stateless channel access token](/docs/basics/channel-access-token/#stateless-channel-access-token) is used as the channel access token.
+
 ::admonition
 ---
 title: Use of stateless channel access tokens is recommended
@@ -172,15 +174,13 @@ type: note
 When developing LINE MINI Apps, either [stateless channel access tokens](/docs/basics/channel-access-token/#stateless-channel-access-token) or [short-lived channel access tokens](/docs/basics/channel-access-token/#short-lived-channel-access-token) can be used. Stateless channel access tokens are recommended among those two. Stateless channel access tokens have an unlimited number of issuances, so there is no need for the application to manage the token lifecycle.
 ::
 
-This is an image diagram showing how to issue a service notification token, using a channel access token and an access token obtained by [liff.getAccessToken()](/reference/liff/#get-access-token) (hereafter called "LIFF access token"), to send a service message. In this image, a [stateless channel access token](/docs/basics/channel-access-token/#stateless-channel-access-token) is used as the channel access token.
-
 ![relationship of tokens](/media/line-mini-app/mini-illust-01-en.png){className="[\"w-fix-680\"]"}
 
 1. When notifying, call [liff.getAccessToken()](/reference/liff/#get-access-token) in the LINE MINI App to get the LIFF access token.
 2. Send the LIFF access token obtained in step 1 to the server.
 3. Obtain a [channel access token](/docs/basics/channel-access-token/).
 4. [Issue a service notification token](/reference/line-mini-app/#issue-notification-token).  
-The channel access token obtained in step 3 and the LIFF access token obtained in step 1 are used. Note that if the user closes the LINE MINI App, the LIFF access token will be revoked even if it's still valid.```java
+The channel access token obtained in step 3 and the LIFF access token obtained in step 1 are used.```java
 final OkHttpClient notifierApiClient = new OkHttpClient().newBuilder().build();
 final MediaType mediaType = MediaType.parse("application/json");
 final RequestBody notificationTokenRequestBody = RequestBody.create(mediaType, "{'liffAccessToken': 'eyJhbGciOiJIUzI1NiJ9…​'");
@@ -194,6 +194,14 @@ final NotificationTokenResponse response = notifierApiClient.newCall(request).ex
 String notificationToken = notificationTokenResponse.getNotificationToken();
 int tokenRemainingCount = notificationTokenResponse.getRemainingCount();
 ```
+
+::admonition{title="LIFF access token validity period" type="note"}
+A LIFF access token is valid for 12 hours after it is issued. However, even within this validity period, the LIFF access token may be revoked due to user actions. Therefore, be careful about when you obtain the LIFF access token.
+
+
+  - When the user closes the LINE MINI App, the LIFF access token may be revoked. For more information, see [Behavior when closing the LIFF app](/docs/liff/developing-liff-apps/#behavior-when-closing-liff-app) in the LIFF documentation.
+  - When the "[Channel consent simplification](/docs/line-mini-app/develop/channel-consent-simplification/#what-is-channel-consent-simplification)" feature is enabled, granting additional permissions from the verification screen refreshes the LIFF access token and revokes the previously issued LIFF access token. For more information, see [Request permissions other than the `openid` scope on the verification screen](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid).
+::
 5. [Sending a service message](/reference/line-mini-app/#send-service-message) for the first time.  
 Use the service notification token obtained in step 4. After sending the service message, [save the service notification token included in the response](#save-service-notification-token).  
 If the template you use has template variables, specify the key-value pair in the `params`. If you do not specify the template variable for the required element, an error will be returned.  
