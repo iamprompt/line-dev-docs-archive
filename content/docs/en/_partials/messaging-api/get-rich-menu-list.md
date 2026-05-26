@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-rich-menu-list
-__hash__: 9m8WSBaKu_tsHO4B_QHEph6AFYEMM7iSqhvRgw5YSZQ
+__hash__: '-XotNS6ufac4EP2xJIzFMRIbI_JVKJHEp0XHpxPS3WU'
 seo:
   description: ''
 ---
@@ -36,7 +36,7 @@ seo:
 
 #### Rate limit
 
-2,000 requests per second
+10 requests per second
 
 For more information on rate limits, see [Rate limits](#rate-limits).
 

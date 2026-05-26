@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-rich-menu-list
-__hash__: i8sbeaLZNwrmKJ3hhAI-mbLJlkgL_uZuDhSB4pGwYTU
+__hash__: R4tHJoYE1zKRiMGyZFIpT6yH2ZCrXvDMUd8ySGnIcnk
 seo:
   description: ''
 ---
@@ -36,7 +36,7 @@ seo:
 
 #### レート制限
 
-2,000リクエスト/秒
+10リクエスト/秒
 
 レート制限について詳しくは、「[レート制限](#rate-limits)」を参照してください。
 
