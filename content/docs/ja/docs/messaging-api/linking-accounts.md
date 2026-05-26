@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/linking-accounts
-__hash__: Xkudp29I7fZKubiu86Ee6LbnjKLtOSb1Vuv3E-jSSyg
+__hash__: UbWHCyf-I9nSIBNH-ekOzEQ51cdKk4wx53mK3WtFS2U
 seo:
   title: ユーザーアカウントの連携
   description: null
@@ -136,3 +136,4 @@ https://access.line.me/dialog/bot/accountLink?linkToken={link token}&nonce={nonc
 ## 関連ページ
 
 - [Messaging APIリファレンス](/reference/messaging-api/)
+- [LINEのAPIを使ったID連携で実現できる新たな顧客体験（LINE DATA SOLUTION）](https://data.linebiz.com/contents/column/line_api){rel="[\"nofollow\"]"}
