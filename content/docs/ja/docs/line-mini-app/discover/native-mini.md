@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/native-mini
-__hash__: hEte6na1P_QcxpSA33kjCqYaYBYNR3XmjAZGvK31zqg
+__hash__: v_jUPz5ZkjBUH5KT08eJWc6HDjes6lzD9YsIB2gOEJU
 seo:
   title: ネイティブアプリとLINEミニアプリの違い
   description: null
@@ -110,32 +110,10 @@ LINEミニアプリでは、LINE Developersコンソールでの設定を伴わ�
 
 ## よくある質問
 
-### Q: ネイティブアプリと違って、端末のホーム画面にアイコン追加できないよね？
+詳しくは、以下のFAQを参照してください。
 
-A: ブラウザのショートカット追加機能を利用し、端末のホーム画面にショートカットアイコンが追加できます。そのため、繰り返し利用する頻度の高い会員証やテイクアウトオーダーのようなサービスでは、LINEを開くことなく、ショートカットアイコンから再利用できるようになります
-
-※ホーム画面にLINEミニアプリへのショートカットを追加する機能は、認証済ミニアプリのみ利用可能です。詳しくは、「[LINEミニアプリとは](/docs/line-mini-app/discover/introduction/)」を参照してください。
-
-![](/media/basics/native-mini/ja/native-mini-img-5.webp)
-
-### Q: LINEミニアプリやLINE公式アカウントでサービス提供したら、通知にお金がかかるよね？
-
-A: いいえ、LINE公式アカウントからのメッセージ配信は配信数に応じた料金（[LINE公式アカウント料金プラン](/docs/messaging-api/pricing/)となりますが、LINEミニアプリでは、サービスメッセージを利用することで、サービス提供に必要な通知を無料で確実に通知できます。
-
-※サービスメッセージ機能は、認証済ミニアプリのみ利用可能です。
-
-![](/media/basics/native-mini/ja/native-mini-img-6.webp)
-
-### Q: LINEって外国人には使われていないから、外国人が利用する可能性のあるサービスではLINEミニアプリ使えないよね？
-
-A: いいえ、LINEの利用率が高い日本、タイ、台湾以外のLINE未使用ユーザーがLINEミニアプリを起動した場合には、ウェブブラウザでLINEミニアプリのサービスを提供することができます。そのため、LINEを使用していない訪日外国人の方がLINEミニアプリのサービスを利用したい場合には、LINEをインストールすることなく、ウェブブラウザでサービスを利用できます。
-
-### Q: ウェブアプリケーションやLIFFアプリからLINEミニアプリに移行することってできるの？
-
-A: ウェブアプリケーションはミニアプリ化することが可能です。詳しくは「[運用中のウェブアプリをLINEミニアプリ化する](/docs/line-mini-app/develop/web-to-mini-app/)」をご覧ください。LINEログインチャネルで作成したLIFFアプリをLINEミニアプリチャネルに移行して、未認証ミニアプリ・認証済ミニアプリにすることはできません。未認証ミニアプリは、審査なしで公開することが可能です。LIFFアプリとLINEミニアプリのどちらを作成すべきか迷っている場合や、将来的に認証済ミニアプリにする可能性がある場合は、未認証ミニアプリを作成することをおすすめします。
-
-### Q: 既にネイティブアプリを運用してる場合、LINEミニアプリを併用するメリットってあるの？
-
-A: 利用ハードルの低さから、ロイヤリティの低い〜中程度の顧客層へのアプローチにLINEミニアプリやLINE公式アカウントを採用し、ロイヤリティの高い顧客層へのサービス提供方法としてはネイティブアプリを運用されるケースが増えてきています。たとえば、会員証サービスを想定すると、ネイティブアプリでサービスを提供する場合、アプリインストールや会員登録が大きなハードルになります。一方、LINEでは数タップでカードの発行ができ、会員登録も不要とすることができます。つまり、多くの障壁をパスした状態でサービスを提供できるため、LINEをライトカスタマーに向けたサービス体験の入り口として活用できるのです。
-
-![](/media/basics/native-mini/ja/native-mini-img-7.webp)
+- [LINEミニアプリのアイコンを端末のホーム画面に追加できますか？](/faq/#can-i-add-line-mini-app-icon-to-home-screen)
+- [LINEミニアプリでユーザーに通知を送る場合、料金はかかりますか？](/faq/#does-it-cost-money-to-send-notifications-with-line-mini-apps)
+- [LINEアプリをインストールしていないユーザーでもLINEミニアプリを利用できますか？](/faq/#can-users-who-do-not-use-line-use-line-mini-apps)
+- [ウェブアプリやLIFFアプリをLINEミニアプリに移行できますか？](/faq/#can-i-migrate-a-web-app-or-liff-app-to-line-mini-app)
+- [すでにネイティブアプリを運用している場合、LINEミニアプリを併用するメリットはありますか？](/faq/#is-there-any-benefit-to-using-line-mini-apps-with-native-app)
