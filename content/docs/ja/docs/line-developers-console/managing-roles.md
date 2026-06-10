@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-developers-console/managing-roles
-__hash__: n7G_dMkE4lTyuBYmR4H7ijMTqPo5WiI0luBAcLGM8pI
+__hash__: Bu7esPpOql9VeuuVKz06rb9j5uSmKxBo9RHhQgUSh2w
 seo:
   title: 権限を管理する
   description: null
@@ -161,6 +161,8 @@ seo:
 | ［**事業情報**］タブの閲覧、編集            | ✅     | ❌      | ❌    |
 | ［**連絡先情報**］タブの閲覧、編集           | ✅     | ❌      | ❌    |
 | ［**サービスメッセージテンプレート**］タブの閲覧、編集 | ✅     | ❌      | ❌    |
+| ［**ビジネスマネージャー接続**］タブの閲覧、編集    | ✅     | ❌      | ❌    |
+| ［**アプリ内課金**］タブの閲覧、編集          | ✅     | ❌      | ❌    |
 | ［**LIFF URL**］の閲覧 ※           | ✅     | ✅      | ❌    |
 
 ※ Admin権限では［**ウェブアプリ設定**］タブ、Tester権限では［**チャネル基本設定**］タブに表示されます。なお、Tester権限では開発用のLIFF URLのみ表示されます。

@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリの開発について作業の流れを説明します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/quickstart
-__hash__: 5M9GEKUKU86VycL9s2O2WC1FLKk42ZtWpzJcsQ9TUSs
+__hash__: SwJvPdAKM_fkmk6P4Rfp2iUut5-8VS-BH8fbCt0PcLE
 seo:
   title: はじめに
   description: LINEミニアプリの開発について作業の流れを説明します。
@@ -85,3 +85,4 @@ LINEミニアプリで提供サービスを運営する際の注意点を覚え�
   - [LINEミニアプリに広告を掲載する](/docs/line-mini-app/service/line-mini-app-ads/)
   - [認証済ミニアプリ更新後の再審査](/docs/line-mini-app/service/update-service/)
   - [LINE公式アカウントを活用する](/docs/line-mini-app/service/line-mini-app-oa/)
+  - [LINEミニアプリチャネルをビジネスマネージャーの組織と接続する](/docs/line-mini-app/service/business-manager-link/)

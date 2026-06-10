@@ -4,7 +4,7 @@ navigation: true
 description: An overview of the workflow for LINE MINI App development
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/quickstart
-__hash__: aAx1d4qC-Tb3d17pH9VF77h4Vg1VPaGeuAIoOeFB6eI
+__hash__: yUqW-yLMb6FhvI_dCELwfZaGuimPM30w8MN93HnSVrc
 seo:
   title: Get started with LINE MINI App
   description: An overview of the workflow for LINE MINI App development
@@ -85,3 +85,4 @@ Here are the tasks you should be aware of if you are running and promoting the s
   - [Place ads in LINE MINI Apps](/docs/line-mini-app/service/line-mini-app-ads/)
   - [Re-review after updating your verified MINI App](/docs/line-mini-app/service/update-service/)
   - [Use LINE Official Account](/docs/line-mini-app/service/line-mini-app-oa/)
+  - [Link a LINE MINI App channel to a Business Manager organization](/docs/line-mini-app/service/business-manager-link/)
