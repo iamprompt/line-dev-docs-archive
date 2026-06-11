@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App is a web application that runs on LINE.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/introduction
-__hash__: H7JkY205-S4dw9Ic3jLVPBK3FWx9YMX6ZCDxTvqn42M
+__hash__: eXynsF_WqdJdNlefhFYmaJ9BDS5L2MyuFVC1WH2tXRE
 seo:
   title: Introducing LINE MINI App
   description: LINE MINI App is a web application that runs on LINE.
@@ -51,11 +51,15 @@ Unverified MINI Apps are LINE MINI Apps that haven't yet passed our verification
 
 Anyone can create an unverified MINI App, but as shown in the following section "[What are verified MINI Apps](#verified-mini-app)", some features are restricted. To make your LINE MINI App a verified MINI App, [submit your LINE MINI App for review](/docs/line-mini-app/submit/submission-guide/).
 
+The [header](/docs/line-mini-app/discover/ui-components/#header) of an unverified MINI App displays the title and the domain name of the endpoint URL.
+
+![](/media/line-mini-app/unverified-mini-app-header-en.png){className="[\"bg-border\",\"w-fix-480\"]"}
+
 ### What are verified MINI Apps
 
-If your LINE MINI App passes our verification review, it'll become a verified MINI App. Once it becomes a verified MINI App, it'll have a verified badge in the header, etc., as shown in the image below:
+If your LINE MINI App passes our verification review, it'll become a verified MINI App. Once it becomes a verified MINI App, a verified badge appears on elements such as the [header](/docs/line-mini-app/discover/ui-components/#header). Additionally, the header displays the title and the LINE MINI App name.
 
-![](/media/news/2024/line-mini-app-header-after.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/line-mini-app/verified-mini-app-header-en.png){className="[\"bg-border\",\"w-fix-480\"]"}
 
 In addition, you'll be able to use such as the following features:
 

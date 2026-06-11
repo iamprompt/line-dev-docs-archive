@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/introduction
-__hash__: zhbDqCEKvE7NHyVY4FVlAIqFrmDiNjRcwdKFBxIk6IU
+__hash__: qdAg2w28ZHB4IUvwuwdiG-voOYUU_hFs2igdbPkkajU
 seo:
   title: LINEミニアプリとは
   description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
@@ -51,11 +51,15 @@ LINEミニアプリは、弊社による認証審査に通過しているかど�
 
 未認証ミニアプリはどなたでも作成できますが、次の「[認証済ミニアプリとは](#verified-mini-app)」に示すように、一部機能が制限されます。認証済ミニアプリにするためには、[認証審査を申請](/docs/line-mini-app/submit/submission-guide/)してください。
 
+未認証ミニアプリでは、[ヘッダー](/docs/line-mini-app/discover/ui-components/#header)にタイトルとエンドポイントURLのドメイン名が表示されます。
+
+![](/media/line-mini-app/unverified-mini-app-header-ja.png){className="[\"bg-border\",\"w-fix-480\"]"}
+
 ### 認証済ミニアプリとは
 
-弊社による認証審査に通過すると、そのLINEミニアプリは認証済ミニアプリとなります。認証済ミニアプリになると、以下の画像のように、ヘッダーなどに認証バッジがつきます。
+弊社による認証審査に通過すると、そのLINEミニアプリは認証済ミニアプリとなります。認証済ミニアプリになると、[ヘッダー](/docs/line-mini-app/discover/ui-components/#header)などに認証バッジがつきます。また、ヘッダーにはタイトルとLINEミニアプリ名が表示されます。
 
-![](/media/news/2024/line-mini-app-header-after.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/line-mini-app/verified-mini-app-header-ja.png){className="[\"bg-border\",\"w-fix-480\"]"}
 
 また、以下の各機能などが利用できるようになります。
 

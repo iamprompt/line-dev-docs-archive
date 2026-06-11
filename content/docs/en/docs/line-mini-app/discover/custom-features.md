@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/custom-features
-__hash__: Fbi6mZfForHfzUohHQ6ILtnQc_fKl38ikKC7-5-0K8Q
+__hash__: DjLHwSSAmOsb-YB-q9ZCKVnaSnx-j2h0D_8RwCvA9Fo
 seo:
   title: Custom features
   description: null
@@ -20,10 +20,13 @@ seo:
 | [Custom Path](#custom-path)                                                                                     | ❌                   | ✅                 |
 | [Add a shortcut to your LINE MINI App to the home screen of the user's device](#create-shortcut-on-home-screen) | ❌                   | ✅                 |
 | [Common Profile Quick-fill](#quick-fill)                                                                        | ❌                   | ✅                 |
+| [Display your LINE MINI App name in the header](#display-mini-app-name-in-header)                               | ❌                   | ✅                 |
 | [Inducing users to add your Official Account as a friend](#OA-friend)                                           | ✅                   | ✅                 |
 | [Custom action button](#custom-action-button)                                                                   | ✅                   | ✅                 |
 | [Using payment systems](#using-payment-systems)                                                                 | ✅                   | ✅                 |
 | [Place ads](#place-ads)                                                                                         | ✅                   | ✅                 |
+
+For unverified MINI Apps, the domain name of the URL is displayed in the header, whereas for verified MINI Apps, the LINE MINI App name is displayed in the header instead of the domain name of the URL. For more information, see [LINE MINI App UI components](/docs/line-mini-app/discover/ui-components/#header).
 
 ## Service messages
 
@@ -71,6 +74,14 @@ Quick-fill is a feature that automatically fills in the necessary profile inform
 ![](/media/line-mini-app/quick-fill/quick-fill-3-steps.png){className="[\"bg-border\",\"w-fix-680\"]"}
 
 By implementing Quick-fill in LINE MINI Apps, users can automatically fill in required information such as addresses and phone numbers with a single tap of a button. This eliminates the need for manual input, making it more convenient for users when making reservations at stores or placing orders on online stores.
+
+## Display your LINE MINI App name in the header
+
+The [header](/docs/line-mini-app/discover/ui-components/#header) of a verified MINI App displays the title, LINE MINI App name, and verified badge. For unverified MINI Apps, the title and the domain name of the endpoint URL are displayed.
+
+![](/media/line-mini-app/line-mini-app-header-en.png){className="[\"bg-border\"]"}
+
+For more information, see [Header](/docs/line-mini-app/discover/ui-components/#header) section in the [LINE MINI App UI components](/docs/line-mini-app/discover/ui-components/).
 
 ## Inducing users to add your Official Account as a friend
 

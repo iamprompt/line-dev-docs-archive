@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/custom-features
-__hash__: QLrAFGFSX_hhlLqKPMw1rYFzp6kyQcG0NHzwMtFbr8s
+__hash__: MgB13YXgzliu__CWxW9Mm1U3E-hZOzFav4oGBlC04Gs
 seo:
   title: カスタム機能
   description: null
@@ -20,10 +20,13 @@ seo:
 | [Custom Path](#custom-path)                                             | ❌        | ✅        |
 | [ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する](#create-shortcut-on-home-screen) | ❌        | ✅        |
 | [共通プロフィールのクイック入力](#quick-fill)                                          | ❌        | ✅        |
+| [ヘッダーにLINEミニアプリ名を表示する](#display-mini-app-name-in-header)                | ❌        | ✅        |
 | [ユーザーをLINE公式アカウントの友だち追加へ誘導する](#OA-friend)                               | ✅        | ✅        |
 | [カスタムアクションボタン](#custom-action-button)                                   | ✅        | ✅        |
 | [決済システムの利用](#using-payment-systems)                                     | ✅        | ✅        |
 | [広告の掲載](#place-ads)                                                     | ✅        | ✅        |
+
+なお、未認証ミニアプリのヘッダーにはURLのドメイン名が表示されますが、認証済ミニアプリのヘッダーにはURLのドメイン名の代わりにLINEミニアプリ名が表示されます。詳しくは、「[LINEミニアプリの構造](/docs/line-mini-app/discover/ui-components/#header)」を参照してください。
 
 ## サービスメッセージ
 
@@ -71,6 +74,14 @@ Custom Pathとは、本番用のLIFF URLに設定する独自の文字列のこ�
 ![](/media/line-mini-app/quick-fill/quick-fill-3-steps.png){className="[\"bg-border\",\"w-fix-680\"]"}
 
 LINEミニアプリにクイック入力を導入すると、住所や電話番号の登録が必要な場面で、ボタンをタップするだけで必要な情報が自動で入力されます。これにより、たとえば店舗の予約やオンラインストアでの注文時に、ユーザーは面倒な手入力の手間を省くことができます。
+
+## ヘッダーにLINEミニアプリ名を表示する
+
+認証済ミニアプリの[ヘッダー](/docs/line-mini-app/discover/ui-components/#header)には、タイトル、LINEミニアプリ名、認証バッジが表示されます。未認証ミニアプリでは、タイトルとエンドポイントURLのドメイン名が表示されます。
+
+![](/media/line-mini-app/line-mini-app-header-ja.png){className="[\"bg-border\"]"}
+
+詳しくは、『[LINEミニアプリの構造](/docs/line-mini-app/discover/ui-components/)』の「[ヘッダー](/docs/line-mini-app/discover/ui-components/#header)」を参照してください。
 
 ## ユーザーをLINE公式アカウントの友だち追加へ誘導する
 
