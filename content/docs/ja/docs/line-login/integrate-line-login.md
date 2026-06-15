@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/integrate-line-login
-__hash__: MK8kzSV667SLNNGxm5zxzbYf4pmWb-WbkjTfP6c0dHE
+__hash__: FfkHTrnlR4G79WUaWhdjELMf3uRAVxV9l5iVCZ3EAT0
 seo:
   title: ウェブアプリにLINEログインを組み込む
   description: null
@@ -84,7 +84,6 @@ https://access.line.me/oauth2/v2.1/authorize?response_type=code&client_id=123456
 | `code_challenge`         | String  | 任意  | LINEログインをPKCE対応するために必要なパラメータ。一意の`code_verifier`をSHA256でハッシュ化したうえで、Base64URL形式にエンコードした値です。デフォルト値は`null`です（値を指定しない場合、リクエストはPKCE対応されません）。   PKCEの実装方法について詳しくは、「[LINEログインにPKCEを実装する](/docs/line-login/integrate-pkce/#how-to-integrate-pkce)」を参照してください。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | `code_challenge_method`  | String  | 任意  | `S256`（ハッシュ関数`SHA256`を表します。）   `code_verifier`の変換方式を指定します。LINEログインでは、セキュリティ上の観点から`S256`のみをサポートしています。   PKCEの実装方法について詳しくは、「[LINEログインにPKCEを実装する](/docs/line-login/integrate-pkce/#how-to-integrate-pkce)」を参照してください。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | `response_mode`          | String  | 任意  | 認可レスポンスのパラメータをウェブアプリにどのように返すかの設定。以下のいずれかの値を設定できます。デフォルト値は`query`です。  - `query`：認可レスポンスの各パラメータをコールバックURLのクエリパラメータとして返します。*1 - `form_post`：認可レスポンスの各パラメータをHTTP POSTリクエストのリクエストボディとして返します。*2 - `query.jwt`：認可レスポンスの各パラメータをJWTにまとめ、コールバックURLのクエリパラメータとして返します。`jwt`を設定した場合と同じです。*3 - `form_post.jwt`：認可レスポンスの各パラメータをJWTにまとめ、HTTP POSTリクエストのリクエストボディとして返します。*3 - `jwt`：認可レスポンスの各パラメータをJWTにまとめ、コールバックURLのクエリパラメータとして返します。`query.jwt`を設定した場合と同じです。*3  *1 [OAuth 2.0 Multiple Response Type Encoding Practices](https://openid.net/specs/oauth-v2-multiple-response-types-1_0.html){rel="[\"nofollow\"]"}の「[2.1. Response Modes](https://openid.net/specs/oauth-v2-multiple-response-types-1_0.html#ResponseModes){rel="[\"nofollow\"]"}」セクションで定義されている`query`に相当します。   *2 [OAuth 2.0 Form Post Response Mode](https://openid.net/specs/oauth-v2-form-post-response-mode-1_0.html){rel="[\"nofollow\"]"}の「[2. Form Post Response Mode](https://openid.net/specs/oauth-v2-form-post-response-mode-1_0.html#FormPostResponseMode){rel="[\"nofollow\"]"}」セクションで定義されている`form_post`に相当します。   *3 [Financial-grade API: JWT Secured Authorization Response Mode for OAuth 2.0 (JARM)](https://openid.net/specs/openid-financial-api-jarm.html){rel="[\"nofollow\"]"}の「[4.3. Response Encoding](https://openid.net/specs/openid-financial-api-jarm.html#response-encoding){rel="[\"nofollow\"]"}」セクションで定義されている`query.jwt`、`form_post.jwt`、`jwt`に相当します。 |
-|                          |         |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ::admonition{title="ヒント" type="tip"}
 - ウェブアプリにLINEログインボタンを追加する際は、「[LINEログインボタン デザインガイドライン](/docs/line-login/login-button/)」に従ってください。
@@ -107,6 +106,8 @@ LIFFブラウザ内でLINEログインによる認可リクエストを行う際
 | `profile%20openid%20email` | ✓        | ✓                                                                   | ✓                                                             | ✓                                                                      | ✓（※）                                                              |
 | `openid`                   | -        | ✓                                                                   | -                                                             | -                                                                      | -                                                                 |
 | `openid%20email`           | -        | ✓                                                                   | -                                                             | -                                                                      | ✓（※）                                                              |
+
+指定したスコープのアクセス権は、同意画面でユーザーによって認可されます。`profile`または`openid`を指定した場合は、それぞれ必須権限として表示されます。詳しくは、「[ユーザーが認可を行う](#authorization-process)」を参照してください。
 
 ※`email`を指定してユーザーにメールアドレスの取得権限を要求するには、あらかじめ[メールアドレス取得権限を申請](#applying-for-email-permission)してください。
 
@@ -214,9 +215,9 @@ LINEログインを組み込むウェブアプリ側で、認可の機能を実�
 
 なお、ユーザーは権限の付与に同意せずにウェブアプリにアクセスする場合があります。認可URLで指定した権限の付与を、ユーザーに拒否される可能性も考慮してウェブアプリを開発してください。
 
-**同意画面の例：**
-
-![同意画面](/media/line-login/integrate-login-web/consent-screen-ja.png){className="[\"border\",\"w-fix-360\"]"}
+| 同意画面                                                                                                         | `scope`パラメータと表示項目                                                        |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| ![同意画面](/media/line-login/integrate-login-web/consent-screen-ja.png){className="[\"border\",\"w-fix-240\"]"} | - `profile`：メインプロフィール情報 (必須) - `openid`：あなたの内部識別子 (必須) - `email`：メールアドレス |
 
 ::admonition{title="同意画面が表示されない場合があります" type="note"}
 - `scope`パラメータで指定した権限が`profile`または`openid`の場合は、ユーザーが既に権限を付与していると同意画面は表示されません。
@@ -242,7 +243,6 @@ LINEログインを組み込むウェブアプリ側で、認可の機能を実�
 | `friendship_status_changed` | Boolean | チャネルにリンクされているLINE公式アカウントとユーザーの関係が、ログイン時に変わった場合は`true`です。それ以外は`false`です。このパラメータは、[ユーザーに認証と認可を要求する](#making-an-authorization-request)ときに`bot_prompt`クエリパラメータを指定し、かつ、ユーザーがログインしたときにLINE公式アカウントを友だち追加するオプションが表示された場合にのみ返されます。詳しくは、「[LINEログインしたときにLINE公式アカウントを友だち追加する（友だち追加オプション）](/docs/line-login/link-a-bot/)」を参照してください。 |
 | `liffClientId`              | String  | LINEログインチャネルのチャネルID。このパラメータは、LIFFアプリで[`liff.login()`](/reference/liff/#login)メソッドによるログイン処理を行った場合にのみ返されます。LIFFアプリの正常な動作を保証するため、このパラメータは変更しないでください。                                                                                                                                                                      |
 | `liffRedirectUri`           | String  | ログイン後にLIFFアプリで表示するURL。[`liff.login()`](/reference/liff/#login)メソッドの`redirectUri`プロパティに指定した値です。このパラメータは、LIFFアプリで[`liff.login()`](/reference/liff/#login)メソッドによるログイン処理を行った場合にのみ返されます。LIFFアプリの正常な動作を保証するため、このパラメータは変更しないでください。                                                                                            |
-|                             |         |                                                                                                                                                                                                                                                                                                                        |
 
 認可リクエストの`response_mode`パラメータに`query`を設定した場合のリダイレクト先URLの例：
 
@@ -265,7 +265,6 @@ https://example.com/callback?response=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...
 | `error`             | String | 必須  | [エラーコード](#error-codes)。                         |
 | `error_description` | String | 任意  | エラーの内容。                                         |
 | `state`             | String | 任意  | 認可URLに含めた`state`パラメータ。この値で、どのプロセスが拒否されたか特定できます。 |
-|                     |        |     |                                                 |
 
 リダイレクト先URLの例：
 
@@ -319,7 +318,6 @@ LINEログイン機能に追加または変更があったときに、レスポ�
 | `refresh_token` | String | 新しいアクセストークンを取得するためのトークン。アクセストークンが発行されてから最長90日間有効です。                                                                                                                                                                |
 | `scope`         | String | ユーザーが付与する権限。ただし、`email`スコープは権限が付与されていても`scope`プロパティの値としては返されません。                                                                                                                                                   |
 | `token_type`    | String | `Bearer`                                                                                                                                                                                                           |
-|                 |        |                                                                                                                                                                                                                    |
 
 以下は、JSONレスポンスの例です。
 

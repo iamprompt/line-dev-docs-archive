@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/opening-liff-app
-__hash__: W__NSzWAbfJ74P42X6bDjCueOGE0OGtS75TlfcYUU_A
+__hash__: 0p4EWHrfY-MDVX9chij8OmN5_ilq-Kk_VBkba_vLBAM
 seo:
   title: Opening a LIFF app
   description: ''
@@ -30,7 +30,7 @@ The LIFF URL is issued when [adding the LIFF app to your channel](/docs/liff/reg
 For example, send the LIFF URL to a chat in the LINE app and tap the LIFF URL displayed in the bubble.  
 ![](/media/liff/open-liff-app.png){className="[\"w-fix-320\"]"}
 2. If authorization is required from the user, a channel consent screen will appear. The user agrees to grant the required permissions to the LIFF app on the consent screen.  
-![Consent screen](/media/line-login/integrate-login-web/consent-screen-en.png){className="[\"border\",\"w-fix-280\"]"}
+![Consent screen](/media/liff/opening-liff-app/channel-consent-screen-en.png){className="[\"border\",\"w-fix-280\"]"}
 3. The LIFF app opens.  
 ![LIFF browser](/media/liff/overview/liffBrowser.png){className="[\"border\"]"}
 
