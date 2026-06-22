@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/developing-liff-apps
-__hash__: TS0Kjg-8AttM8EPSVh7dA5ngG73-PM3EiH4mG_9HEpE
+__hash__: _6aXm0O3uOg-UEz-fiPKmH2VTMXfS1V257mW4_8jPIM
 seo:
   title: Developing a LIFF app
   description: ''
@@ -125,7 +125,7 @@ When you access a LIFF URL or perform a LIFF-to-LIFF transition, the following q
 
 The above query parameters are added by the LIFF SDK so that LIFF apps can function properly. When you perform custom processing on the LIFF app's URL, don't modify the query parameters given by the LIFF SDK until the `liff.init()` method is resolved, to ensure that LIFF apps function properly, such as when opening or during LIFF-to-LIFF transitions.
 
-Other query parameters may also be added. For this reason, design your app so that query parameters added when accessing a LIFF URL or performing a LIFF-to-LIFF transition aren't modified.
+Other `liff.*` query parameters may also be added. For this reason, design your app so that `liff.*` query parameters added when accessing a LIFF URL or performing a LIFF-to-LIFF transition aren't modified.
 ::
 
 ::admonition

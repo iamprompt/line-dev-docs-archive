@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/initialize-liff-app
-__hash__: lE3S6pRlt1XWhp8udKCBJ5a4-CYM0LJ6In-TMRvrmI0
+__hash__: in83YgLJXQal3qrfvdYrKI03smfmhat6uPmbYdolmVY
 seo:
   description: ''
 ---
@@ -144,7 +144,7 @@ LIFF URLへのアクセス時やLIFF間遷移時などに、URLに以下のよ�
 
 上記は、LIFFアプリを正常に動作させるために、LIFF SDK側から付与されるクエリパラメータです。LIFFアプリのURLに独自の処理を行う場合は、LIFFアプリの起動やLIFF間遷移などLIFFアプリの正常な動作を保証するため、`liff.init()`メソッドがresolveされるまでLIFF SDK側で付与されるクエリパラメータを変更しないでください。
 
-また、上記以外のクエリパラメータも付与される可能性があります。このため、LIFF URLへのアクセス時やLIFF間遷移時などに付与されるクエリパラメータを変更しないように設計してください。
+また、上記以外の`liff.*`のクエリパラメータも付与される可能性があります。このため、LIFF URLへのアクセス時やLIFF間遷移時などに付与される`liff.*`のクエリパラメータを変更しないように設計してください。
 ::
 
 ::admonition{title="LIFFアプリを初期化する前でも実行できるメソッド" type="tip"}

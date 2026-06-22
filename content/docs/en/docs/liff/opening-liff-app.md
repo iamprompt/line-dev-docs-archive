@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/opening-liff-app
-__hash__: 0p4EWHrfY-MDVX9chij8OmN5_ilq-Kk_VBkba_vLBAM
+__hash__: BT6GIk0kTu-Wx8LgvPayIhi48yJ5sdKMlpcnxM73nrU
 seo:
   title: Opening a LIFF app
   description: ''
@@ -177,8 +177,8 @@ The following is an example of how `liff.referrer` is given during LIFF-to-LIFF 
 | **Given**     | `https://first.example.com/`   | `https://liff.line.me/{LIFF ID}`    (LIFF URL)  | `✅ https://second.example.com/?liff.referrer=https%3A%2F%2Ffirst.example.com%2F` *1 |
 | **Not given** | `https://first.example.com/`   | `https://second.example.com/`    (Endpoint URL) | `❌ https://second.example.com/` *2                                                  |
 
-*1 In addition to `liff.referrer`, the `liff.*`query parameter may be given to the LIFF app URL after the transition.   
-*2 If the endpoint URL of the LIFF app is opened directly,`liff.referrer` will not be given.
+*1 In addition to `liff.referrer`, other `liff.*` query parameters may be added to the LIFF app URL after the transition.  
+*2 If the endpoint URL of the LIFF app is opened directly, `liff.referrer` won't be added.
 
 ### Message displayed when another LIFF app is opened
 
