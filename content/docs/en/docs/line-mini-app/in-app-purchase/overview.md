@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/in-app-purchase/overview
-__hash__: UGaxM0PieqxGoTZQfcrOyY2CHCaMoMj1MR-pjGNycCM
+__hash__: GKHzpn3djbfJ05lNi2fw4kuJ5sSAH-f8Qf7i9c-Bzik
 seo:
   title: In-app purchase overview
   description: null
@@ -76,7 +76,7 @@ The LINE MINI App must have both "Region to provide the service" and "Company or
 
 ## Available items and prices
 
-Items available for purchase through in-app purchase are pre-defined on the LINE Platform.
+Items available for purchase through in-app purchase are pre-defined on the LINE Platform. For more information, see [List of product IDs for items available for purchase via in-app purchase](/en/docs/line-mini-app/in-app-purchase/iap-product-id/).
 
 Item prices are defined in Japanese yen.
 

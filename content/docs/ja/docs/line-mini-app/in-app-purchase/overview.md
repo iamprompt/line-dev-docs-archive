@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/overview
-__hash__: htvN6i30-bWsPFAoEG96KIyo1nf9UCIV5xcjrZZMvwY
+__hash__: iQg-AXqGxuVC_rLzjgRhgt53kdbmZhjaKxB_1sI39HU
 seo:
   title: アプリ内課金の概要
   description: null
@@ -76,7 +76,7 @@ LINEミニアプリチャネルの「サービスを提供する地域」と「�
 
 ## 利用可能なアイテムと価格
 
-アプリ内課金で購入可能なアイテムは、LINEプラットフォーム側で事前に定義されています。
+アプリ内課金で購入可能なアイテムは、LINEプラットフォーム側で事前に定義されています。詳しくは、「[アプリ内課金で購入可能なアイテムのプロダクトID一覧](/ja/docs/line-mini-app/in-app-purchase/iap-product-id/)」を参照してください。
 
 アイテムの基準価格は日本円で定義されています。
 
