@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/messaging-api/beacon-device-spec
-__hash__: D108mKi9ZmvYPI3bwC-_vVgb0zXg6fATsWdpBHZP1FI
+__hash__: 6BmvDYTKXoDa3s79CTeXSrE4spZOOo4eXjU6zkoq2kY
 seo:
   title: LINE Beacon device specification
   description: null
@@ -156,6 +156,5 @@ To notify iOS devices that a LINE Beacon device is nearby, you must send iBeacon
 | UUID      | D0D2CE24-9EFC-11E5-82C4-1C6A7A17EF38 |
 | Major     | 0x4C49                               |
 | Minor     | 0x4E45                               |
-|           |                                      |
 
 For more information about the AD structure and transmission interval of iBeacon packets, see Apple's Proximity Beacon Specification document. You can download this document from the [iBeacon section of the Apple Developer site](https://developer.apple.com/ibeacon/){rel="[\"nofollow\"]"}.

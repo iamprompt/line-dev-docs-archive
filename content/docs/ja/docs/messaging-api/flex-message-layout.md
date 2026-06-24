@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/flex-message-layout
-__hash__: _KKeLD2LB98R_5_IMIldD-dVfP-uaDJX3jHSZTdIsWM
+__hash__: 76fI8jE5HMXuOuONFUacR_7BxoJsuZHV5rYOy21t-ro
 seo:
   title: Flex Messageのレイアウト
   description: null
@@ -815,7 +815,6 @@ Flex Messageの[ボタン](/reference/messaging-api/#button)、[テキスト](/r
 | `offsetBottom`{className="[\"whitespace-nowrap\"]"} | コンポーネントを通常の位置の下端から上に動かします。                                                                           |
 | `offsetStart`{className="[\"whitespace-nowrap\"]"}  | コンポーネントをテキストの始まる側から動かします。[バブル](/reference/messaging-api/#bubble)の書字方向がLTRの場合、右に動かします。RTLの場合、左に動かします。 |
 | `offsetEnd`{className="[\"whitespace-nowrap\"]"}    | コンポーネントをテキストの終わる側から動かします。[バブル](/reference/messaging-api/#bubble)の書字方向がLTRの場合、左に動かします。RTLの場合、右に動かします。 |
-|                                                     |                                                                                                      |
 
 「TARGET」と表示されているコンポーネントの通常の位置が1枚目の画像です。`position`プロパティとオフセットプロパティを使って位置を動かしたのが2枚目の画像です。
 
@@ -830,7 +829,6 @@ Flex Messageの[ボタン](/reference/messaging-api/#button)、[テキスト](/r
 | `offsetBottom` | -          |
 | `offsetStart`  | `40px`     |
 | `offsetEnd`    | -          |
-|                |            |
 
 例のFlex Messageを表現するには以下のようなJSONデータを指定します。
 
@@ -904,7 +902,6 @@ Flex Messageの[ボタン](/reference/messaging-api/#button)、[テキスト](/r
 | `offsetBottom` | `20px`     |
 | `offsetStart`  | `40px`     |
 | `offsetEnd`    | `80px`     |
-|                |            |
 
 例のFlex Messageを表現するには以下のようなJSONデータを指定します。
 

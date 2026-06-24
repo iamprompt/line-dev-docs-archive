@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login/verify-id-token
-__hash__: fF3oRog35Rd1i4ysyWTUwal-Bq5lNIP5Mw5pTluXFEc
+__hash__: pF0OZ_Ui-iqNEsRaAspwY9kq4NnlwyuFCf-SVprbGkQ
 seo:
   title: Get profile information from ID tokens
   description: null
@@ -84,7 +84,6 @@ The user's information is found in the payload section. You can only get the mai
 | `name`      | String           | User's display name. Not included if the `profile` scope was not specified in the authorization request.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | `picture`   | String           | User's profile image URL. Not included if the `profile` scope was not specified in the authorization request.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | `email`     | String           | User's email address. Not included if the `email` scope was not specified in the authorization request.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|             |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 This is an example of a decoded payload section.
 

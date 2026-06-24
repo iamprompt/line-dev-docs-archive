@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/flex-message-layout
-__hash__: hkX-tJB5Y7BY0PQx2-5eJ1wz_Jjkcsa2Ftthnpzmgwo
+__hash__: 3bjrelSvPd3N_L0BGagAR04q0ByVRgyVx-SQf3uBbN0
 seo:
   title: Flex Message layout
   description: null
@@ -825,7 +825,6 @@ To shift your component from the component's original position, set the `positio
 | `offsetBottom`{className="[\"whitespace-nowrap\"]"} | Shifts the component up from the bottom edge of the component's original position.                                                                                                        |
 | `offsetStart`{className="[\"whitespace-nowrap\"]"}  | Shifts the component away from the where the text starts. If the [bubble](/reference/messaging-api/#bubble)'s text direction is LTR, shift is to the right. If RTL, shift is to the left. |
 | `offsetEnd`{className="[\"whitespace-nowrap\"]"}    | Away from the where the text ends. If the [bubble](/reference/messaging-api/#bubble)'s text direction is LTR, shift is to the left. If RTL, shift is to the right.                        |
-|                                                     |                                                                                                                                                                                           |
 
 The component labeled "TARGET" in its original position is shown on the first image. The component shifted by the `position` and offset properties are shown on the second image.
 
@@ -840,7 +839,6 @@ To shift your component like in the example, set the properties as specified bel
 | `offsetBottom` | -          |
 | `offsetStart`  | `40px`     |
 | `offsetEnd`    | -          |
-|                |            |
 
 The JSON definition of the Flex Message example is as follows.
 
@@ -914,7 +912,6 @@ To shift your component like the example, set the properties as specified below.
 | `offsetBottom` | `20px`     |
 | `offsetStart`  | `40px`     |
 | `offsetEnd`    | `80px`     |
-|                |            |
 
 The JSON definition of the Flex Message example is as follows.
 

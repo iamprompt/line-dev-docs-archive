@@ -4,7 +4,7 @@ navigation: true
 description: Explains how to create a login process that is resistant to attacks
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/secure-login-process
-__hash__: Ot_BbsVT_Y0JH_McXljyyBcWRwBa_s0REm1Gb6ESFyk
+__hash__: T-OvM7drc4d-MYcNYmhe569ItrjuezXJhS9DVh-UaLY
 seo:
   title: Creating a secure login process between your app and server
   description: Explains how to create a login process that is resistant to attacks
@@ -62,7 +62,6 @@ When the LINE Login API successfully verifies an access token, the response cont
 | ------------ | ------------------------------------------------------------------------- |
 | `client_id`  | Same as the channel ID of the LINE Login channel linked to the native app |
 | `expires_in` | Positive value                                                            |
-|              |                                                                           |
 ::
 
 ## Using OpenID to register new users

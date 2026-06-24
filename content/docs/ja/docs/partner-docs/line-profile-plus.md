@@ -4,7 +4,7 @@ navigation: true
 description: LINE Profile+
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/line-profile-plus
-__hash__: bWtdiDm-zlemEsCOfKNOTkQt-WqxnpyQI4ROgZeinIo
+__hash__: 4hxSRxI2fKn9MAeajrlV_DYMB_MmvpI1Z-OZOSbUpMQ
 seo:
   title: LINE Profile+
   description: LINE Profile+
@@ -201,7 +201,6 @@ LINE Profile+を利用しているときは、IDトークンに以下のプロ�
 | `birthdate`                 | String | 誕生日。形式は、[RFC3339プロトコル](https://www.ietf.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}で定義されています。 | `birthdate` |
 | `phone_number`              | String | 電話番号。形式は、:glossary-tooltip[[E.164](/glossary/#e164)]{glossary-id="e164"}で定義されています。           | `phone`     |
 | `address`                   | Object | [住所オブジェクト](#address-object)                                                                  | `address`   |
-|                             |        |                                                                                              |             |
 
 ##### 住所オブジェクト
 

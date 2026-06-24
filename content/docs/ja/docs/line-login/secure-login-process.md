@@ -4,7 +4,7 @@ navigation: true
 description: 攻撃に強いログインプロセスを構築する方法を説明します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login/secure-login-process
-__hash__: l8kiZPAQ13rUTQ3eQwVAvdXBJBRK7T7knCDXCIF2WWw
+__hash__: ki8oCa-Mwixd_7xHn-x4Uo0pC5plekkbAEP8Zc8TZY4
 seo:
   title: アプリとサーバーの間で安全なログインプロセスを構築する
   description: 攻撃に強いログインプロセスを構築する方法を説明します。
@@ -60,7 +60,6 @@ LINEログインAPIによるアクセストークンの検証に成功すると�
 | ------------ | ---------------------------------- |
 | `client_id`  | アプリにリンクされているLINEログインチャネルのチャネルIDと同じ |
 | `expires_in` | 正の値                                |
-|              |                                    |
 ::
 
 ## OpenIDを使用して新規ユーザーを登録する

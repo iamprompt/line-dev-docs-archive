@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/beacon-device-spec
-__hash__: Yrv2aL6vTuLRxcgnWJGYgxe7Iigzmdz89BMUZi6Iexw
+__hash__: apNzLxxFGLBhJs91EHVNOcrCMmH4s3n9LH4iqvUhYVg
 seo:
   title: LINE Beacon端末の仕様
   description: null
@@ -156,6 +156,5 @@ LINE Beaconデバイスが付近にあることをiOSデバイスに通知する
 | UUID  | D0D2CE24-9EFC-11E5-82C4-1C6A7A17EF38 |
 | Major | 0x4C49                               |
 | Minor | 0x4E45                               |
-|       |                                      |
 
 iBeaconパケットのAD structureと送信間隔については、『Proximity Beacon Specification』を参照してください。このドキュメントは、[Apple DeveloperサイトのiBeaconのセクション](https://developer.apple.com/ibeacon/){rel="[\"nofollow\"]"}からダウンロードできます。
