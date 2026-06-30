@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-login/refresh-access-token
-__hash__: EekN-Y5kLyOHFNq8dC1-k482LdxHjfGxNyJCcuhfFPk
+__hash__: oT1fSabsLvSFzFjUN0b68W34phveupkKROcO0fyoYZc
 seo:
   description: ''
 ---
@@ -156,6 +156,8 @@ seo:
       String
 
       アクセストークンに付与されている権限。スコープについて詳しくは、「[スコープ](/docs/line-login/integrate-line-login/#scopes)」を参照してください。
+
+      なお、`email`の権限が付与されている場合でも、`scope`プロパティに`email`は含まれません。
       :::::
     ::::
   :::

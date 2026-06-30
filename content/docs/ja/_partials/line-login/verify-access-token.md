@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-login/verify-access-token
-__hash__: iVSxQejuVPDbvS9Q6FLs0o4XdXOOeHxyXfr51mQ4GVA
+__hash__: '-HTSKQxJVWh04rT7wvs1f9zfM79Af83uLGmoKzAhoKQ'
 seo:
   description: ''
 ---
@@ -66,6 +66,8 @@ seo:
       String
 
       アクセストークンに付与されている権限。スコープについて詳しくは、「[スコープ](/docs/line-login/integrate-line-login/#scopes)」を参照してください。
+
+      なお、`email`の権限が付与されている場合でも、`scope`プロパティに`email`は含まれません。
       :::::
 
       :::::parameter-table-entry

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-login/verify-access-token
-__hash__: wZzLmRcDVltMegFTklYQLHP_k4iCPQJ7b5sIZtPZdTI
+__hash__: tKq7tMB_ByK68r5GyFsyRxQU_7jrXMvKI4NRaWiS45E
 seo:
   description: ''
 ---
@@ -66,6 +66,8 @@ seo:
       String
 
       Permissions granted to the access token. To learn more about scopes, see [Scopes](/docs/line-login/integrate-line-login/#scopes).
+
+      Even if the `email` permission is granted, the `scope` property doesn't include `email`.
       :::::
 
       :::::parameter-table-entry

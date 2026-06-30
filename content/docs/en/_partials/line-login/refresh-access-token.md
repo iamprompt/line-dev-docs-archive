@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-login/refresh-access-token
-__hash__: XNgMMjt6rq6P40bBwBXkQffr-SjQa50TlfGQ4Kk5k9o
+__hash__: 4Dal_j7plKt8u9hn4eI7uBfok5dV0CC3jhh_KHmMiXE
 seo:
   description: ''
 ---
@@ -156,6 +156,8 @@ seo:
       String
 
       Permissions obtained through the access token. For more information on scopes, see [Scopes](/docs/line-login/integrate-line-login/#scopes).
+
+      Even if the `email` permission is granted, the `scope` property doesn't include `email`.
       :::::
     ::::
   :::

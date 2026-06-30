@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-login/issue-access-token
-__hash__: LGXvUPxGfUqECzmWMBbwYfthEpTZNfqGlUh2JAFOZ_Y
+__hash__: 45GwfeLzZUmjQZc-7L-o4o5e7099SZ1s1-MC-xBldVg
 seo:
   description: ''
 ---
@@ -180,7 +180,7 @@ seo:
 
       アクセストークンに付与されている権限。スコープについて詳しくは、「[スコープ](/docs/line-login/integrate-line-login/#scopes)」を参照してください。
 
-      注意：`email`スコープは権限が付与されていても`scope`プロパティの値としては返されません。
+      なお、`email`の権限が付与されている場合でも、`scope`プロパティに`email`は含まれません。
       :::::
 
       :::::parameter-table-entry
