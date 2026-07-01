@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/in-app-purchase/overview
-__hash__: GKHzpn3djbfJ05lNi2fw4kuJ5sSAH-f8Qf7i9c-Bzik
+__hash__: '-bugNyhp97UaZVFe6ouQ39fSMRxOQwtVl4xqmCxZ7_o'
 seo:
   title: In-app purchase overview
   description: null
@@ -32,6 +32,10 @@ In-app purchase has the following features:
 - Performs server-side integration using webhooks.
 
 For more information on implementation, see [Integrate the in-app purchase feature](/docs/line-mini-app/in-app-purchase/implement-in-app-purchase/).
+
+### Service fees for the in-app purchase feature
+
+Service fees apply when using the in-app purchase feature. The fee rate is displayed in the **In-app purchase** tab when you apply for the service via LINE Developers Console.
 
 ## Flow to start using in-app purchase
 

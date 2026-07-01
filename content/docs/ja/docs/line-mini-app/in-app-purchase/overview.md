@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/overview
-__hash__: iQg-AXqGxuVC_rLzjgRhgt53kdbmZhjaKxB_1sI39HU
+__hash__: q9eqn2BsFzty8B3f3RblPpuWAIDMt52hEDG7JgEorK0
 seo:
   title: アプリ内課金の概要
   description: null
@@ -32,6 +32,10 @@ seo:
 - Webhookを利用したサーバーサイド連携を行う。
 
 実装について詳しくは、「[LINEミニアプリにアプリ内課金を組み込む](/docs/line-mini-app/in-app-purchase/implement-in-app-purchase/)」を参照してください。
+
+### アプリ内課金機能の手数料
+
+アプリ内課金機能を利用するには、所定の手数料がかかります。手数料率は、LINE Developersコンソールから利用申請を行う際の［**アプリ内課金**］タブ内に表示されます。
 
 ## アプリ内課金を利用開始するまでの流れ
 
