@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"pageClass":"api-reference-page has-section-blocks"}'
 path: /en/reference/messaging-api
-__hash__: 91NBtxyf7rawwupfgaj0D6cnm5Qmw78TpC-FkZ4mqd8
+__hash__: QwyZVdQl_g1DkUv_1D-3S5NUtpqtx0ZztpfYPwvZQIQ
 seo:
   title: Messaging API reference
   description: ''
@@ -703,6 +703,18 @@ className:
   :::
 
   :::partial{content="messaging-api/get-name-list-of-units/"}
+
+  :::
+
+  :::api-section-div
+
+  :::
+
+  :::partial{content="messaging-api/get-rich-menu-insight-summary/"}
+
+  :::
+
+  :::partial{content="messaging-api/get-rich-menu-insight-daily/"}
 
   :::
 

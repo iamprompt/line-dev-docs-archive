@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/rich-menus-overview
-__hash__: cuc6CVxyAzZR5RFHOqGImvlACBoT5syt-Gnn9EeIxLU
+__hash__: 6UkhtrKz8zw9i6_bnmaoarFZyGhCwXDIEHgmyOmnTTU
 seo:
   title: リッチメニューの概要
   description: null
@@ -40,12 +40,10 @@ seo:
 1つのリッチメニューの取得や編集に、2つのツールを使うことはできません。LINE Official Account Managerで作成したリッチメニューは、LINE Official Account Managerでのみ取得と編集ができます。また、Messaging APIで作成したリッチメニューについては、LINE Official Account Managerは使用できません。
 ::
 
-| ツール                                                                              | 利点                                                                                                                                                                                                                                                                                                                                                                     |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"} | - 開発期間が短く済みます - 操作が簡単なGUIで開発できます - 表示期間を設定できます - 表示された回数やクリック率などの統計情報が確認できます  詳しくは、『LINEヤフー for Business』の「[リッチメニューの活用方法](https://www.lycbiz.com/jp/column/line-official-account/technique/20180731-01/){rel="[\"nofollow\"]"}」および「[分析 - リッチメニュー](https://www.lycbiz.com/jp/manual/OfficialAccountManager/insight_rich-menus/){rel="[\"nofollow\"]"}」を参照してください。        |
-| Messaging API                                                                    | - 高度なカスタマイズが可能です - [ポストバックアクション](/reference/messaging-api/#postback-action)や[日時選択アクション](/reference/messaging-api/#datetime-picker-action)などの[アクションオブジェクト](/reference/messaging-api/#action-objects)を利用できます - [リッチメニューでタブ切り替えを行う](/docs/messaging-api/switch-rich-menus/)ことができます  リッチメニューの機能を実際に使って試したい場合は、「[リッチメニューを試す](/docs/messaging-api/try-rich-menu/)」を参照してください。 |
-
-なおMessaging APIで設定したリッチメニューについては、表示された回数やクリック率などの統計情報は取得できません。
+| ツール                                                                              | 利点                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"} | - 開発期間が短く済みます - 操作が簡単なGUIで開発できます - 表示期間を設定できます - 表示された回数やクリック率などの統計情報が確認できます  詳しくは、『LINEヤフー for Business』の「[リッチメニューの活用方法](https://www.lycbiz.com/jp/column/line-official-account/technique/20180731-01/){rel="[\"nofollow\"]"}」および「[分析 - リッチメニュー](https://www.lycbiz.com/jp/manual/OfficialAccountManager/insight_rich-menus/){rel="[\"nofollow\"]"}」を参照してください。                                                                                                                                                                 |
+| Messaging API                                                                    | - 高度なカスタマイズが可能です - [ポストバックアクション](/reference/messaging-api/#postback-action)や[日時選択アクション](/reference/messaging-api/#datetime-picker-action)などの[アクションオブジェクト](/reference/messaging-api/#action-objects)を利用できます - [リッチメニューでタブ切り替えを行う](/docs/messaging-api/switch-rich-menus/)ことができます - 表示された回数やクリック数などの統計情報（[合計](/reference/messaging-api/#get-rich-menu-insight-summary)、[日別](/reference/messaging-api/#get-rich-menu-insight-daily)）が取得できます  リッチメニューの機能を実際に使って試したい場合は、「[リッチメニューを試す](/docs/messaging-api/try-rich-menu/)」を参照してください。 |
 
 ### LINE Official Account Managerでリッチメニューを設定する
 
@@ -101,6 +99,20 @@ Messaging APIでリッチメニューを設定する方法について詳しく�
 LINE公式アカウントと友だちではないユーザーがトーク画面を開いた場合、LINE Official Account Managerもしくは、Messaging APIで設定したデフォルトのリッチメニューが表示されます。
 
 なお、LINE公式アカウントと友だちではないユーザーに対して、ユーザー単位のリッチメニューはリンクできません。詳しくは、『Messaging APIリファレンス』の「[リッチメニューをリンクできる条件](/reference/messaging-api/#link-rich-menu-to-user-conditions)」を参照してください。
+
+## リッチメニューの統計情報を取得する
+
+Messaging APIで作成したリッチメニューは、表示された回数やクリック数などの統計情報が取得できます。
+
+- [リッチメニューの統計情報（合計）を取得する](/reference/messaging-api/#get-rich-menu-insight-summary)
+- [リッチメニューの統計情報（日別）を取得する](/reference/messaging-api/#get-rich-menu-insight-daily)
+
+なお、Messaging APIとLINE Official Account Managerで作成したリッチメニューは、それぞれ作成したツールでのみ統計情報を参照できます。
+
+| リッチメニューを作成したツール               | Messaging APIで   統計情報を取得 | LINE Official Account Managerで   統計情報を確認 |
+| ----------------------------- | ------------------------ | ---------------------------------------- |
+| Messaging API                 | ✅                        | ❌                                        |
+| LINE Official Account Manager | ❌                        | ✅                                        |
 
 ## リッチメニューのAPIリファレンス
 
