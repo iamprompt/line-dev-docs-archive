@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/introduction
-__hash__: qdAg2w28ZHB4IUvwuwdiG-voOYUU_hFs2igdbPkkajU
+__hash__: _P5ESQMIIL_4ya62H5g-lyeutRj9flJcyEQt1d5JKpI
 seo:
   title: LINEミニアプリとは
   description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
@@ -124,6 +124,7 @@ LINEの検索機能からも、LINEミニアプリにアクセスできます。
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | アクションボタンの非表示（モジュールモード） | LINEミニアプリでは、[アクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)を非表示にすることはできません。LINEミニアプリチャネルに追加されているLIFFアプリでは、［**モジュールモード**］は設定できません。 |
 | 同一チャネルへの複数のLIFFアプリの追加  | LINEミニアプリチャネルでは、同一チャネルに複数のウェブアプリを追加することはできません。                                                                                                             |
+| LIFFブラウザの画面サイズの選択      | LINEミニアプリでは、[LIFFブラウザの画面サイズ](/docs/liff/overview/#screen-size)を選択することができません。LINEミニアプリの画面サイズは`Full`のみです。                                                    |
 
 ::admonition{title="LINEミニアプリとしての作成を推奨します" type="tip"}
 今後、LIFFとLINEミニアプリは、ブランド統合を予定しています。この統合により、LIFFはLINEミニアプリに統合されます。そのため、LIFFアプリを新規作成する際は、LINEミニアプリとして作成することを推奨します。詳しくは、「[2025年2月12日のニュース](/news/2025/02/12/line-mini-app/)」を参照してください。

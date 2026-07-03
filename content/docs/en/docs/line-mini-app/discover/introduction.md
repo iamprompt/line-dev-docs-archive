@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App is a web application that runs on LINE.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/introduction
-__hash__: eXynsF_WqdJdNlefhFYmaJ9BDS5L2MyuFVC1WH2tXRE
+__hash__: _0-cScQ0I5DeEimkIrPQXerU6Iv-BHNoPjQgHKEQhhQ
 seo:
   title: Introducing LINE MINI App
   description: LINE MINI App is a web application that runs on LINE.
@@ -130,6 +130,7 @@ Users can easily share LINE MINI Apps with their friends. The [built-in action b
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Hiding the action button (Module mode)        | You can't hide the [action button](/docs/line-mini-app/discover/builtin-features/#action-button) on the LINE MINI App. **Module Mode** can't be configured for LIFF apps that have been added to the LINE MINI App channel. |
 | Adding multiple LIFF apps to the same channel | It isn't possible to add multiple web apps to the same channel in the LINE MINI App channel.                                                                                                                                |
+| Selecting the screen size of the LIFF browser | You can't select the [size of the LIFF browser](/docs/liff/overview/#screen-size) on the LINE MINI App. The only screen size available for the LINE MINI App is `Full`.                                                     |
 
 ::admonition
 ---
