@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/getting-started
-__hash__: V3iCAf1arB6T1llygOCtoiDcXuLFkHRkMoU6Pb-gjiU
+__hash__: WrpT0CMuRTvoR9RVdjOzHRsTWFkuI1GP3GUhXgNZ-SA
 seo:
   title: Messaging APIを始めよう
   description: null
@@ -74,7 +74,8 @@ LINE公式アカウントが作成されたことを確認したら、手順2に
 続いて、LINE公式アカウントを管理するプロバイダーを選択する画面が表示されます。ほかのLINEログインのチャネルなどと連携する予定がある場合は、そのチャネルと同じプロバイダーを選択してください。
 
 ::admonition{title="プロバイダー選択時の注意" type="note"}
-一度、LINE公式アカウントを管理するプロバイダーを選択すると、後から別のプロバイダーに変更したり、Messaging APIとの連携を解除したりすることはできません。
+- 既存のプロバイダーを選択するには、操作するアカウントにそのプロバイダーのAdmin権限が必要です。Admin権限がない場合、そのプロバイダーはプロバイダーを選択する画面に表示されません。
+- 一度、LINE公式アカウントを管理するプロバイダーを選択すると、後から別のプロバイダーに変更したり、Messaging APIとの連携を解除したりすることはできません。
 ::
 
 ::admonition{title="プロバイダー選択時に特に注意が必要なケース" type="warning"}

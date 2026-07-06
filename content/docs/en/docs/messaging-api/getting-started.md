@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/getting-started
-__hash__: F3mul-TKCs00UY1tkyJrIl7RMgItsdkG6-oDKqDuBBQ
+__hash__: t7dl5W3AtaFQgvIQpXRrgyfdvdEld1XghX-zng89ld0
 seo:
   title: Get started with the Messaging API
   description: null
@@ -74,7 +74,8 @@ If your account used to login on the [LINE Official Account Manager](https://man
 Next, select a provider to manage your LINE Official Account. If you plan to integrate your LINE Official Account with existing channels like LINE Login channel, select the provider the channel to integrate belongs to.
 
 ::admonition{title="Be careful when you select a provider" type="note"}
-Once you assign a provider to manage your LINE Official Account, you can't change or de-assign the provider.
+- To select an existing provider, the account you're using must have the Admin role for that provider. If the account doesn't have the Admin role, the provider won't appear on the provider selection screen.
+- Once you assign a provider to manage your LINE Official Account, you can't change or de-assign the provider.
 ::
 
 ::admonition
