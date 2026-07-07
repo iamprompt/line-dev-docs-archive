@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"pageClass":"api-reference-page has-section-blocks"}'
 path: /en/reference/messaging-api
-__hash__: QwyZVdQl_g1DkUv_1D-3S5NUtpqtx0ZztpfYPwvZQIQ
+__hash__: CyOAhoqCBbSrOH6yeG4YQHejryXlpFpW0HmMnSDlTk4
 seo:
   title: Messaging API reference
   description: ''
@@ -133,6 +133,14 @@ className:
   :::
 
   :::partial{content="messaging-api/webhook-message/"}
+
+  :::
+
+  :::api-section-div
+
+  :::
+
+  :::partial{content="messaging-api/webhook-edit/"}
 
   :::
 

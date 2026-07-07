@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/development-guidelines
-__hash__: bdDcSGjv4Hp6Uy5AYN0lVDRcraJFm9vzmSzvZ1mbYqs
+__hash__: hACmUd67lFjMPBu_des4O3Zv0oRn5Iu9wp3xpGbJQMw
 seo:
   title: Development guidelines for corporate customers
   description: null
@@ -100,7 +100,7 @@ Due to the nature of the LINE Official Account, a large amount of access (sendin
 title: Examples of cases where access is likely to be concentrated
 type: tip
 ---
-- Immediately after setting [Show in search results](https://www.lycbiz.com/jp/manual/OfficialAccountManager/tutorial-step5/){rel="[\"nofollow\"]"} (only available in Japanese) of the LINE Official Account to "Show"
+- Immediately after setting [Show in search results and recommendations](https://www.lycbiz.com/jp/manual/OfficialAccountManager/tutorial-step5/){rel="[\"nofollow\"]"} (only available in Japanese) of the LINE Official Account to "Show"
 - Immediately after the implementation of measures such as [Sponsored sticker](https://www.lycbiz.com/jp/service/line-promotion-sticker/){rel="[\"nofollow\"]"} (only available in Japanese)
 - Immediately after sending a message to all friends at once using [broadcast message](/reference/messaging-api/#send-broadcast-message), etc. (especially when including a campaign or other measure)
 - Immediately after being featured in the media, such as news or television

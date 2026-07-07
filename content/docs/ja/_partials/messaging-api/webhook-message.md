@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/webhook-message
-__hash__: ZgPWrDDcISsRBBENfmEthLYUFjfWDa3EftGp3AK_9aA
+__hash__: Mxr-Zc7ZtCGRzejw5oHh7xTqWc3S9aNVqHlN_XjVBwg
 seo:
   description: ''
 ---
@@ -74,7 +74,9 @@ seo:
       #undefined
       String
 
-      メッセージID
+      メッセージID。
+
+      編集イベントの場合、メッセージIDは元となるメッセージイベントと同じ値になります。
       :::::
 
       :::::parameter-table-entry
@@ -95,9 +97,11 @@ seo:
       String
 
       メッセージの引用トークン。詳しくは、『Messaging APIドキュメント』の「[引用トークンを取得する](/docs/messaging-api/get-quote-tokens/)」を参照してください。
+
+      編集イベントの引用トークンは、元となるメッセージイベントの引用トークンとは異なる値になります。どちらの引用トークンを使用しても編集後のメッセージを引用できます。
       :::::
 
-      :::::parameter-table-entry
+      :::::parameter-table-entry{annotation="含まれないことがあります"}
       #undefined
       markAsReadToken
 
@@ -105,6 +109,8 @@ seo:
       String
 
       既読トークン。このトークンを使用することで、メッセージに既読をつけることができます。有効期限はありません。詳しくは、『Messaging APIドキュメント』の「[メッセージに既読をつける](/docs/messaging-api/mark-as-read/)」を参照してください。
+
+      編集イベントの場合は、既読トークンは含まれません。
       :::::
 
       :::::parameter-table-entry

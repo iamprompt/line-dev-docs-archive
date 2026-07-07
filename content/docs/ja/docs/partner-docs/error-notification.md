@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/partner-docs/error-notification
-__hash__: 2qWJ9LT91Qo-MwYV48gzn0PDYNoON1B1TgpyGgwUJ4Q
+__hash__: U8FbhXWqaG0wNldjK8xfRLW68h-1y0DpVmFy62z0ggk
 seo:
   title: エラー通知
   description: null
@@ -80,12 +80,12 @@ Webhookの再送について詳しくは、[受け取りに失敗したWebhook�
 
 | 項目               | 説明                                                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Channel ID       | 対象のチャネルID                                                                                                                                   |
-| Channel name     | 対象のチャネル名                                                                                                                                    |
+| Channel ID       | 対象のチャネルID。                                                                                                                                  |
+| Channel name     | 対象のチャネル名。                                                                                                                                   |
 | Reason for error | エラー発生原因の概要。詳しくは、『Messaging APIドキュメント』の「[エラーが発生した原因を確認する](/docs/messaging-api/check-webhook-error-statistics/#check-error-reason)」を参照してください。 |
 | Detail for error | エラー発生原因の詳細。詳しくは、『Messaging APIドキュメント』の「[エラーの詳細を確認する](/docs/messaging-api/check-webhook-error-statistics/#check-detail-for-error)」を参照してください。 |
-| Error count      | エラーの発生回数                                                                                                                                    |
-| Time detected    | エラーの発生日時                                                                                                                                    |
+| Error count      | 同じHTTPステータスコードのエラーが5分間（300秒間）に発生した件数。HTTPステータスコードがないエラーは、同じエラーとしてまとめて集計されます。同じエラーとして集計された場合、1通の通知メールにまとめられます。                               |
+| Time detected    | LINEプラットフォームがエラーを検知した日時。                                                                                                                    |
 
 ## 通知メール受信時の対応例
 

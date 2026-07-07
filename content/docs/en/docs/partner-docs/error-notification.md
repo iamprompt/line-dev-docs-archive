@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/error-notification
-__hash__: vNMYVt8Sz69d0YUEqo66VnSOXR8sYDMybF23v8q05_Q
+__hash__: HiRg-0H1h3vwe-x5fAFlvZ0RF7lU7bYlgPVJ3iZ-XUo
 seo:
   title: Error notification
   description: null
@@ -86,14 +86,14 @@ For more information about the webhook redelivery, see [Redeliver a webhook that
 
 These are the contents of the email.
 
-| Item             | Description                                                                                                                                                                                          |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Channel ID       | Target channel ID.                                                                                                                                                                                   |
-| Channel name     | Target channel name.                                                                                                                                                                                 |
-| Reason for error | Overview of reason for error. For more information, see [Check the reason for errors](/docs/messaging-api/check-webhook-error-statistics/#check-error-reason) in the Messaging API documentation.    |
-| Detail for error | Details on reason for error. For more information, see [Check the detail for errors](/docs/messaging-api/check-webhook-error-statistics/#check-detail-for-error) in the Messaging API documentation. |
-| Error count      | Number of times error occurred.                                                                                                                                                                      |
-| Time detected    | Time when error occurred.                                                                                                                                                                            |
+| Item             | Description                                                                                                                                                                                                                                               |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Channel ID       | Target channel ID.                                                                                                                                                                                                                                        |
+| Channel name     | Target channel name.                                                                                                                                                                                                                                      |
+| Reason for error | Overview of reason for error. For more information, see [Check the reason for errors](/docs/messaging-api/check-webhook-error-statistics/#check-error-reason) in the Messaging API documentation.                                                         |
+| Detail for error | Details on reason for error. For more information, see [Check the detail for errors](/docs/messaging-api/check-webhook-error-statistics/#check-detail-for-error) in the Messaging API documentation.                                                      |
+| Error count      | Number of errors with the same HTTP status code that occurred within 5 minutes (300 seconds). Errors without an HTTP status code are grouped and counted as the same error. Errors counted as the same error are included in a single notification email. |
+| Time detected    | Date and time when the LINE Platform detected the error.                                                                                                                                                                                                  |
 
 ## How to resolve a notification message
 

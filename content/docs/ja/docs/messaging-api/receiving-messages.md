@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/receiving-messages
-__hash__: oH8ruLKufAGKE4Zt35q9YdYvywjGnf4WYoaL5IEnie4
+__hash__: v_G2o0RPWpVbu-d8xh8vWCj3qVA0Ka-f6IjwjVJUMNE
 seo:
   title: メッセージ（Webhook）を受信する
   description: null
@@ -38,18 +38,19 @@ Webhookイベントオブジェクトに含まれるデータに基づいて、�
 
 1対1のトーク、および[グループトークと複数人トーク](/docs/messaging-api/group-chats/)において、ボットサーバーが受信するWebhookイベントは以下のとおりです。
 
-| Webhookイベント                                                    | 受信するタイミング                                                                                  | 1対1のトーク | グループトークと複数人トーク |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------- | -------------- |
-| [メッセージイベント](/reference/messaging-api/#message-event)           | ユーザーがメッセージを送信した時。このイベントには応答できます。                                                           | ✅       | ✅              |
-| [送信取消イベント](/reference/messaging-api/#unsend-event)             | ユーザーがメッセージの送信を取り消した時。このイベントの処理について詳しくは、[送信取消イベント受信時の処理](#webhook-unsend-message)を参照してください。 | ✅       | ✅              |
-| [フォローイベント](/reference/messaging-api/#follow-event)             | LINE公式アカウントが友だち追加またはブロック解除された時。このイベントには応答できます。                                             | ✅       | ❌              |
-| [フォロー解除イベント](/reference/messaging-api/#unfollow-event)         | LINE公式アカウントがブロックされた時                                                                       | ✅       | ❌              |
-| [参加イベント](/reference/messaging-api/#join-event)                 | LINE公式アカウントがグループトークまたは複数人トークに参加した時。このイベントには応答できます。                                         | ❌       | ✅              |
-| [退出イベント](/reference/messaging-api/#leave-event)                | ユーザーがグループトークからLINE公式アカウントを削除したか、LINE公式アカウントがグループトークまたは複数人トークから退出した時                        | ❌       | ✅              |
-| [メンバー参加イベント](/reference/messaging-api/#member-joined-event)    | LINE公式アカウントがメンバーになっているグループトークまたは複数人トークに、ユーザーが参加した時。このイベントには応答できます。                         | ❌       | ✅              |
-| [メンバー退出イベント](/reference/messaging-api/#member-left-event)      | LINE公式アカウントがメンバーになっているグループトークまたは複数人トークから、ユーザーが退出した時                                        | ❌       | ✅              |
-| [ポストバックイベント](/reference/messaging-api/#postback-event)         | ユーザーが、[ポストバックアクション](/reference/messaging-api/#postback-action)を実行した時。このイベントには応答できます。       | ✅       | ✅              |
-| [動画視聴完了イベント](/reference/messaging-api/#video-viewing-complete) | ユーザーが、LINE公式アカウントから送信された`trackingId`が指定された動画メッセージの視聴が完了した時。このイベントには応答できます。                 | ✅       | ❌              |
+| Webhookイベント                                                    | 受信するタイミング                                                                                  | 1対1のトーク | グループトーク | 複数人トーク |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------- | ------- | ------ |
+| [メッセージイベント](/reference/messaging-api/#message-event)           | ユーザーがメッセージを送信した時。このイベントには応答できます。                                                           | ✅       | ✅       | ✅      |
+| [編集イベント](/reference/messaging-api/#edit-event)                 | ユーザーがメッセージを編集した時。このイベントには応答できます。                                                           | ❌       | ✅       | ❌      |
+| [送信取消イベント](/reference/messaging-api/#unsend-event)             | ユーザーがメッセージの送信を取り消した時。このイベントの処理について詳しくは、[送信取消イベント受信時の処理](#webhook-unsend-message)を参照してください。 | ✅       | ✅       | ✅      |
+| [フォローイベント](/reference/messaging-api/#follow-event)             | LINE公式アカウントが友だち追加またはブロック解除された時。このイベントには応答できます。                                             | ✅       | ❌       | ❌      |
+| [フォロー解除イベント](/reference/messaging-api/#unfollow-event)         | LINE公式アカウントがブロックされた時。                                                                      | ✅       | ❌       | ❌      |
+| [参加イベント](/reference/messaging-api/#join-event)                 | LINE公式アカウントがグループトークまたは複数人トークに参加した時。このイベントには応答できます。                                         | ❌       | ✅       | ✅      |
+| [退出イベント](/reference/messaging-api/#leave-event)                | ユーザーがグループトークからLINE公式アカウントを削除したか、LINE公式アカウントがグループトークまたは複数人トークから退出した時。                       | ❌       | ✅       | ✅      |
+| [メンバー参加イベント](/reference/messaging-api/#member-joined-event)    | LINE公式アカウントがメンバーになっているグループトークまたは複数人トークに、ユーザーが参加した時。このイベントには応答できます。                         | ❌       | ✅       | ✅      |
+| [メンバー退出イベント](/reference/messaging-api/#member-left-event)      | LINE公式アカウントがメンバーになっているグループトークまたは複数人トークから、ユーザーが退出した時。                                       | ❌       | ✅       | ✅      |
+| [ポストバックイベント](/reference/messaging-api/#postback-event)         | ユーザーが、[ポストバックアクション](/reference/messaging-api/#postback-action)を実行した時。このイベントには応答できます。       | ✅       | ✅       | ✅      |
+| [動画視聴完了イベント](/reference/messaging-api/#video-viewing-complete) | ユーザーが、LINE公式アカウントから送信された`trackingId`が指定された動画メッセージの視聴が完了した時。このイベントには応答できます。                 | ✅       | ❌       | ❌      |
 
 ✅ ボットサーバーはイベントを受信する    ❌ ボットサーバーはイベントを受信しない
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/development-guidelines
-__hash__: pqXrMdBa8Tz3MENQ_DeM2eDJgRewb-pCFdqrPMUlzzk
+__hash__: j08MVn4dWbIfbkj4gNffjlF9A1CBIze9gXSzdeH8MvI
 seo:
   title: 法人ユーザー向け開発ガイドライン
   description: null
@@ -92,7 +92,7 @@ Webhookリクエスト送信元のLINEプラットフォームのIPアドレス�
 LINE公式アカウントの特性上、突発的に大量のアクセス（Webhookイベント送信）が発生する場合があります。ボットサーバーの処理能力を超えるWebhookリクエストが送信された場合、ユーザーへのメッセージの遅延や不達が発生する場合があります。
 
 ::admonition{title="アクセスが集中しやすいケースの例" type="tip"}
-- LINE公式アカウントの[検索結果での表示](https://www.lycbiz.com/jp/manual/OfficialAccountManager/tutorial-step5/){rel="[\"nofollow\"]"}を「表示」設定にした直後
+- LINE公式アカウントの[検索結果とおすすめに表示](https://www.lycbiz.com/jp/manual/OfficialAccountManager/tutorial-step5/){rel="[\"nofollow\"]"}を「表示」設定にした直後
 - [スポンサードスタンプ](https://www.lycbiz.com/jp/service/line-promotion-sticker/){rel="[\"nofollow\"]"}などの施策の実施直後
 - [ブロードキャストメッセージ](/reference/messaging-api/#send-broadcast-message)などですべての友だちへの一斉送信でメッセージを送信した直後（特にキャンペーン等の施策を含む場合）
 - ニュースやテレビなどのメディアに取り上げられた直後

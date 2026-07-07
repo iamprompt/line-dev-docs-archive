@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/webhook-message
-__hash__: cSySSuWU09AfW1vtK_4QOlafFVjwGkCD9-5WPrGn008
+__hash__: meFZXmszs-2V_1MIhm5q_eACIhodlSczZJyXgOAfWjk
 seo:
   description: ''
 ---
@@ -74,7 +74,9 @@ Webhook event object which contains the sent message from a user. The `message` 
       #undefined
       String
 
-      Message ID
+      Message ID.
+
+      If the event is an edit event, the message ID is the same as the message ID in the original message event.
       :::::
 
       :::::parameter-table-entry
@@ -95,9 +97,11 @@ Webhook event object which contains the sent message from a user. The `message` 
       String
 
       Quote token of the message. For more information, see [Get quote tokens](/docs/messaging-api/get-quote-tokens/) in the Messaging API documentation.
+
+      The quote token in an edit event has a different value from the quote token in the original message event. You can use either quote token to quote the edited message.
       :::::
 
-      :::::parameter-table-entry
+      :::::parameter-table-entry{annotation="Not always included"}
       #undefined
       markAsReadToken
 
@@ -105,6 +109,8 @@ Webhook event object which contains the sent message from a user. The `message` 
       String
 
       Read token. This token allows you to mark messages as read. It has no expiration date. For more information, see [Mark messages as read](/docs/messaging-api/mark-as-read/) in the Messaging API documentation.
+
+      The edit event doesn't include a read token.
       :::::
 
       :::::parameter-table-entry

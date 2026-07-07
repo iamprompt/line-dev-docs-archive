@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/check-webhook-error-statistics
-__hash__: vHfp7jUDF3jIn0jd3I30PC4PVj_AS2eAqiZ8uyioSiU
+__hash__: uQi4UcTUzdPDe_FWQvz1ZME4ePIXidQJgD-yWRs8AIQ
 seo:
   title: Webhookのエラーの原因と統計情報を確認する
   description: null
@@ -28,6 +28,17 @@ seo:
 ［**エラーの統計情報**］をオンにした後、統計情報を確認するには、［**Webhookエラー**］タブをクリックしてください。なおエラーは、［**エラーの統計情報**］をオンにしている期間だけ集計されるため、オフだった期間の分はさかのぼって表示されません。表示されるエラーの、日付や時刻の基準となるタイムゾーンはUTC+9です。また［**TSVファイルをダウンロード**］をクリックして、過去に発生したエラーの情報をTSV形式でダウンロードできます。
 
 ![エラーの統計情報](/media/messaging-api/receiving-messages/error-statistics-ja.png){className="[\"border\"]"}
+
+エラーの統計情報には、次の項目が表示されます。
+
+| 項目  | 説明                                                                                                                         |
+| --- | -------------------------------------------------------------------------------------------------------------------------- |
+| 日付  | エラーが発生した日付。                                                                                                                |
+| 開始  | LINEプラットフォームがエラーを最初に検知した時刻。                                                                                                |
+| 終了  | LINEプラットフォームがエラーを最後に検知した時刻。                                                                                                |
+| 原因  | エラーが発生した原因。詳しくは、「[エラーが発生した原因を確認する](/docs/messaging-api/check-webhook-error-statistics/#check-error-reason)」を参照してください。      |
+| 詳細  | エラーが発生した原因ごとの詳細。詳しくは、「[エラーの詳細を確認する](/docs/messaging-api/check-webhook-error-statistics/#check-detail-for-error)」を参照してください。 |
+| エラー | 同じHTTPステータスコードのエラーが60秒間に発生した件数。HTTPステータスコードがないエラーは、同じエラーとしてまとめて集計されます。                                                     |
 
 ::admonition{title="Webhook URLを検証した際のリクエストはエラーの統計情報に含まれません" type="tip"}
 エラーの統計情報には実際に送信を試みたWebhookのみが表示されます。[Webhook URLを検証](/docs/messaging-api/verify-webhook-url/)した際の疎通確認用のリクエストは成功、失敗にかかわらずエラーの統計情報には含まれません。

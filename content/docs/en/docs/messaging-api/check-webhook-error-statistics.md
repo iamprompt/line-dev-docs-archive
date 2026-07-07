@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/check-webhook-error-statistics
-__hash__: qO_9BsamKJwQ18EiuCsCvxDymYzxrEweH3itRLzhv7Y
+__hash__: c0yP8lTBhWbPmx_MZ6ooWzQfoMLBd-1h-XUN2WBTfNY
 seo:
   title: Check webhook error causes and statistics
   description: null
@@ -28,6 +28,17 @@ The display of error statistics is disabled by default. To display error statist
 After turning on **Error statistics aggregation**, click the **Webhook errors** tab to view the statistics. The errors are aggregated only while **Error statistics aggregation** is turned on. Data from periods when it was turned off won't be displayed retroactively. The time zone used for the date and time of the displayed errors is UTC+9. You can also download past error information in TSV format by clicking **Download TSV file**.
 
 ![Error statistics aggregation](/media/messaging-api/receiving-messages/error-statistics-en.png){className="[\"border\"]"}
+
+Error statistics include the following items:
+
+| Item   | Description                                                                                                                                                         |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Date   | Date when the error occurred.                                                                                                                                       |
+| Start  | Time when the LINE Platform detected the error for the first time.                                                                                                  |
+| End    | Time when the LINE Platform last detected the error.                                                                                                                |
+| Reason | Reason for the error. For more information, see [Check the reason for errors](/docs/messaging-api/check-webhook-error-statistics/#check-error-reason).              |
+| Detail | Details for each error reason. For more information, see [Check the detail for errors](/docs/messaging-api/check-webhook-error-statistics/#check-detail-for-error). |
+| Errors | Number of errors with the same HTTP status code that occurred within 60 seconds. Errors without an HTTP status code are grouped and counted as the same error.      |
 
 ::admonition
 ---
