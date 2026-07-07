@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-statistics-per-unit
-__hash__: '-RZF_uWlMHoBfW0dEsgFBf9u2eMwl9Nbavd_0tbjrBc'
+__hash__: wJhvwFgIS_W32F77F8iDRPYTb4ebMB5jCGBi4f3ueUw
 seo:
   description: ''
 ---
@@ -25,6 +25,8 @@ seo:
     統計情報は、メッセージの送信時刻から14日間（1,209,600秒間）のみ更新されます。それ以降は更新されません。
 
     たとえば2021年2月1日の21:15:00に送信した場合、統計情報は2021年2月15日の21:15:00まで更新されます。
+
+    同じユニット名で後から別のメッセージを送信しても、以前に送信したメッセージの統計情報が更新される期間が延長されることはありません。各メッセージの統計情報は、そのメッセージの送信時刻から14日間のみ更新されます。
     ::::
 
     ::::admonition{title="メッセージごとの統計情報を取得したい場合" type="tip"}

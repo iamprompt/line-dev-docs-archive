@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-insight-message-event
-__hash__: 9pzEhUk3Q744kkopMONO8fTdU8xlXJyslnD3hAKj52o
+__hash__: SIs2UjGkU_bNMvldPa5BfTiqU7IqbSSN5GMUmmiGsmY
 seo:
   description: ''
 ---
@@ -20,9 +20,9 @@ seo:
   ![message and bubbles](/media/messaging-api/get-message-event.png){className="[\"border\"]"}
 
     ::::admonition{title="On the recorded statistics recorded" type="note"}
-    Interactions are updated for only 14 days (1,209,600 seconds) from the time a message was sent. After that time, interactions aren't updated.
+    Statistics are updated for only 14 days (1,209,600 seconds) from the time a message was sent. After that time, statistics aren't updated.
 
-    For example, if you send a message at 15:00 on February 1, 2021, interactions will be updated until 15:00 on February 15, 2021.
+    For example, if you send a message at 15:00 on February 1, 2021, statistics will be updated until 15:00 on February 15, 2021.
     ::::
   :::
 
