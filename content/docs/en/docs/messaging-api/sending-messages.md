@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/sending-messages
-__hash__: L1fL1M1fGQlIPUNx6dUSJAXekK_4rG-4m5QDt59n9lM
+__hash__: Qg2WQsSNj4oAV3CIQFXMxJih8-dtBhmCHI1zNyjuly8
 seo:
   title: Send messages
   description: null
@@ -163,7 +163,9 @@ curl -v -X GET https://api.line.me/v2/bot/audienceGroup/{audienceGroupId} \
 -H 'Authorization: Bearer {channel access token}'
 ```
 
-If the `status` property in the response is `READY` (ready to accept messages), then you can send narrowcast messages to the audience.
+If the `audienceGroup.status` property in the response is `READY` (ready to accept messages), then you can send narrowcast messages to the audience.
+
+However, for an audience for uploading user IDs, after you add user IDs or IFAs to an audience whose `audienceGroup.status` property is `READY`, the status remains `READY`. If you want to send messages to the users including the added target recipients, confirm that `jobs[].jobStatus` property for the relevant job is `FINISHED`.
 
 For more information about how to check the status of an audience, see [Get audience data](/reference/messaging-api/#get-audience-group) in the Messaging API Reference.
 
