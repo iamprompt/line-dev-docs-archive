@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /ja/community
-__hash__: uGO0zxNrjKZtkWNRd_PdaZxKwyFsM2G2ZlAPEJ8ZYHA
+__hash__: xqg2obl5YQcHATJTIOczOTaHU8AfKcTKZADgI1-hREw
 seo:
   title: 開発者コミュニティ
   description: ''
@@ -88,5 +88,4 @@ Taiwan
 LINE Developers Taiwanは公式のLINE Developersグループです。こちらにLINEチャットボット開発LIFF開発、LINEクライアントSDK開発、コミュニティのミートアップ情報などすべてのLINEプラットフォームテクノロジーが含まれています。LINEヤフー台湾開発者からの情報を見逃したくないですか？ ぜひ参加してください！
 
 - [Facebook](https://www.facebook.com/LINEDevelopersTW/){rel="[\"nofollow\"]"}
-- [イベント](https://linegroup.kktix.cc/){rel="[\"nofollow\"]"}
 - [ブログ](https://engineering.linecorp.com/zh-hant/blog/){rel="[\"nofollow\"]"}

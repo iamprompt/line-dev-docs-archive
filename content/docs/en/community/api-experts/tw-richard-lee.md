@@ -9,7 +9,7 @@ meta: >-
   Machine Learning, Growth, SEO,
   DevOps","git":"https://github.com/dlackty","fb":"https://www.facebook.com/dlackty","twitter":"https://twitter.com/dlackty"}
 path: /en/community/api-experts/tw-richard-lee
-__hash__: Q7BlO6vv-G7bx9slf2B5XgwUw_rXEUwwvMrP-vAaAl4
+__hash__: yeLBVzzkeqsTetFPXRHsSxgd_t83UkCpQNaadQKw2xw
 seo:
   title: LINE API Expert - Richard Lee
   description: ''
@@ -51,14 +51,6 @@ He's also a passionate speaker giving talks in RubyConf Taiwan / WebConf / Rails
     Type: **SDK Contribution**  
 
     LINE API: **-**
-    ::::
-
-    ::::lae-activity{date="2020/12/19"}
-    [LIFF SDK 的開發者體驗與實用秘訣 @ LINE TECH PULSE 2020](https://techpulse.line.me/2020/){rel="[\"nofollow\"]"}  
-
-    Type: **speaker**  
-
-    LINE API: **LIFF**
     ::::
 
     ::::lae-activity{date="2020/10/12"}

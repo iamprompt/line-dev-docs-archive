@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/get-id-token
-__hash__: Tqo3Ll0OwSCpLz-gMy4iDlLmQ-xlaTzdsONQFdtsUjo
+__hash__: e-Jq4xaDT5diRti5MWOGMI6rqgCR8NYcNDibIRIEmjA
 seo:
   description: ''
 ---
@@ -13,7 +13,7 @@ seo:
 
 ::reference-with-code
   :::reference-content
-  LIFF SDKが取得した「現在のユーザーのIDトークン」を取得します。IDトークンは、ユーザー情報を含むJSONウェブトークン（JWT）です。
+  LIFF SDKが取得した「現在のユーザーのIDトークン」を取得します。IDトークンは、ユーザー情報を含むJSONウェブトークン（JWT）です。IDトークンの有効期間は発行から1時間です。
 
   LIFFアプリからサーバーにユーザー情報を送信するときに、このAPIで取得したIDトークンを利用できます。サーバーでユーザー情報を使用する方法について詳しくは、『LIFFドキュメント』の「[LIFFアプリおよびサーバーでユーザー情報を使用する](/docs/liff/using-user-profile/)」を参照してください。
 
@@ -24,6 +24,7 @@ seo:
     ::::admonition{title="LIFF SDKがIDトークンを取得するタイミング" type="tip"}
     - LIFFブラウザでLIFFアプリを起動した場合は、[`liff.init()`](#initialize-liff-app)を呼び出したときに、LIFF SDKがIDトークンを取得します。
     - 外部ブラウザでLIFFアプリを起動した場合は、以下の手順を行ったのちに、LIFF SDKがIDトークンを取得します。
+
       1. LIFFアプリで、[`liff.login()`](#login)を呼び出す。
       2. ユーザーがログインする。
       3. LIFFアプリで、再度[`liff.init()`](#initialize-liff-app)を呼び出す。

@@ -9,7 +9,7 @@ meta: >-
   iOS App, Android
   App","git":"https://github.com/etrex","fb":"https://www.facebook.com/etrex.kuo","twitter":""}
 path: /en/community/api-experts/tw-etrex-kuo
-__hash__: bVlLv2rIdimB8TXMbdiA7DIrHvCRJoxrIocOw6BKUYo
+__hash__: uMCIKnBJzrgaQM0Bm-tI6n7zS1D6gTw9xOPTu71xP0M
 seo:
   title: LINE API Expert - Etrex Kuo
   description: ''
@@ -97,22 +97,6 @@ Author of the most famous LINE chatbot in Taiwan - kamigo. More than 15 years of
     LINE API: **Messaging API**
     ::::
 
-    ::::lae-activity{date="2020/10/25"}
-    [聊天機器人框架 Bottender 與 Kamigo 的設計@MOPCON 2020](https://mopcon.org/2020/schedule/2020031/){rel="[\"nofollow\"]"}[slides:聊天機器人框架 Bottender 與 Kamigo 的設計](https://docs.google.com/presentation/d/1BbfW8ZkDS1lt-uzFXop6k2PmXg30OcQI35NCeH-S9AY/edit?usp=sharing){rel="[\"nofollow\"]"}  
-
-    Type: **speaker**  
-
-    LINE API: **Messaging API**
-    ::::
-
-    ::::lae-activity{date="2020/8/2"}
-    [LINE Bot 設計模式@COSCUP 2020](https://coscup.org/2020/zh-TW/agenda/JQPSPU){rel="[\"nofollow\"]"}[slides:LINE Bot 設計模式](https://docs.google.com/presentation/d/1PlUMItXtx3vTRa2US1kE1-Nr11GwqIePQoBN7IeptHE/edit?usp=sharing){rel="[\"nofollow\"]"}  
-
-    Type: **speaker**  
-
-    LINE API: **Messaging API, LINE Login, LINE Notify, LIFF, Flex Message**
-    ::::
-
     ::::lae-activity{date="2020/6/23"}
     [對話式表單架構設計@台北 Chatbots 小聚 #20](https://www.facebook.com/events/255364399025115/){rel="[\"nofollow\"]"}  
 
@@ -161,14 +145,6 @@ Author of the most famous LINE chatbot in Taiwan - kamigo. More than 15 years of
     LINE API: **Messaging API, LINE Login, LIFF**
     ::::
 
-    ::::lae-activity{date="2020/1/15"}
-    [The Best Practice Of LIFF@台北 Chatbots 小聚 #16](https://www.facebook.com/events/304099840482673/){rel="[\"nofollow\"]"}[slides:The Best Practice Of LIFF](https://docs.google.com/presentation/d/1T8muJA2tZgUfBgRLd2K_Eurek_vtJXekcq5bc_96kfU/edit?usp=sharing){rel="[\"nofollow\"]"}  
-
-    Type: **speaker**  
-
-    LINE API: **LIFF**
-    ::::
-
     ::::lae-activity{date="2019/12/19"}
     [LINE Bot - Google Sheets Demo](https://etrexkuo.medium.com/line-bot-google-sheets-demo-30be0598660e){rel="[\"nofollow\"]"}    
 
@@ -193,24 +169,8 @@ Author of the most famous LINE chatbot in Taiwan - kamigo. More than 15 years of
     LINE API: **Messaging API**
     ::::
 
-    ::::lae-activity{date="2019/11/6"}
-    [聊天機器人 MVC 框架 - kamigo@台中 Chatbots 小聚 # 4](https://www.facebook.com/events/650390662157526/){rel="[\"nofollow\"]"}[slides:聊天機器人 MVC 框架 - Kamigo](https://docs.google.com/presentation/d/1bpCsME6XC7ZOiyGRkNB2Uhcm4WbJsyMUacmNwp43kSY/edit?usp=sharing){rel="[\"nofollow\"]"}  
-
-    Type: **speaker**  
-
-    LINE API: **Messaging API, LIFF, Flex Message**
-    ::::
-
     ::::lae-activity{date="2019/8/18"}
     [給網站開發者用的 Chatbot MVC 框架@COSCUP 2019](https://coscup.org/2019/programs/a0c2a919-deaf-413a-8a71-09ac877e0017/){rel="[\"nofollow\"]"}  
-
-    Type: **speaker**  
-
-    LINE API: **Messaging API, LIFF, Flex Message**
-    ::::
-
-    ::::lae-activity{date="2019/4/12"}
-    [LINE Bot 上的表單驗證、搜尋以及分頁@台北 Chatbots 小聚 #13](https://chatbots.kktix.cc/events/meetup-009){rel="[\"nofollow\"]"}[slides:LINE Bot 上的表單驗證、搜尋以及分頁](https://docs.google.com/presentation/d/1MNCbVIsMoLAWtPjg22e1-_3PLA2OpyHKSAIvw53Vdsk/edit?usp=sharing){rel="[\"nofollow\"]"}  
 
     Type: **speaker**  
 

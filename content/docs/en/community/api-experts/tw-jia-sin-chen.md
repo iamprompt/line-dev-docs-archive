@@ -8,7 +8,7 @@ meta: >-
   API","skills":"Website, Cloud, Android, iOS,
   UI/UX","git":"https://github.com/jarsing","fb":"https://www.facebook.com/jarsing","twitter":""}
 path: /en/community/api-experts/tw-jia-sin-chen
-__hash__: hSfp8fn6OKydV8FQi2hjMNl0q74WTeYJH2ZgOKWlFAY
+__hash__: FzS6YPLJ0lPRE8dt6u0ghhXpgnZXOPy71ixyGJyPEG4
 seo:
   title: LINE API Expert - Jia-Sin Chen
   description: ''
@@ -91,14 +91,6 @@ Jia-Sin is a full-stack developer and startup owner of ChiBuApp based in Changhu
     [在 LINE TECHPULSE 2020 的 LAE 攤位展示自動_蛋機](https://chibupapa.com/2021/01/05/line-techpulse-2020-auto-capsule-machine/){rel="[\"nofollow\"]"}  
 
     Type: **blog**  
-
-    LINE API: **LIFF**
-    ::::
-
-    ::::lae-activity{date="2020/12/18"}
-    [LIFF IoT _蛋機](https://techpulse.line.me/2020/){rel="[\"nofollow\"]"}  
-
-    Type: **speaker**  
 
     LINE API: **LIFF**
     ::::

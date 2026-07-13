@@ -9,7 +9,7 @@ meta: >-
   Cloud, SaaS,
   NLP/NLU","git":"https://github.com/godgunman","fb":"https://www.facebook.com/godgunman","twitter":"https://twitter.com/godgunman"}
 path: /en/community/api-experts/tw-kuan-hung-kuo
-__hash__: IBh26o0MlmrZs1fA60WzWTqdn3fZY7ExImxW72_c-8I
+__hash__: n_5LuH1gKv2ihf-TAUPJYpQBaobeddL_3mTCGD_MGtQ
 seo:
   title: LINE API Expert - Kuan-Hung Kuo
   description: ''
@@ -50,7 +50,7 @@ Bot: [MedPartner美的好朋友 @wyt3898a](https://www.medpartner.club/){rel="[\
     ::::
 
     ::::lae-activity{date="2015/1/1"}
-    [Startup Leadership Program](https://startupleadership.com/){rel="[\"nofollow\"]"}  
+    [Startup Leadership Program](https://slptaipei.com/){rel="[\"nofollow\"]"}  
 
     Type: **Fellow**  
 

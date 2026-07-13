@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/get-id-token
-__hash__: zexEy4BSH2Mkh-ayXWA6xWP1tsmXTCUw-muZxmUnzL4
+__hash__: uOZcrY3iSCbNheYfbpuWugjmgzmNIRgNs4WRMc8ueEs
 seo:
   description: ''
 ---
@@ -13,7 +13,7 @@ seo:
 
 ::reference-with-code
   :::reference-content
-  Get the ID token of the current user obtained by the LIFF SDK. An ID token is a JSON Web Token (JWT) that contains user data.
+  Get the ID token of the current user obtained by the LIFF SDK. An ID token is a JSON Web Token (JWT) that contains user data. The ID token is valid for one hour after it is issued.
 
   You can use the ID token obtained with this API when sending the user data from the LIFF app to the server. For more information, see [Using user data in LIFF apps and servers](/docs/liff/using-user-profile/) in the LIFF documentation.
 
@@ -24,6 +24,7 @@ seo:
     ::::admonition{title="Getting an ID token" type="tip"}
     - If the user starts the LIFF app in a LIFF browser, the LIFF SDK will get an ID token when you call [`liff.init()`](#initialize-liff-app).
     - If the user starts the LIFF app in an external browser, the LIFF SDK will get an ID token when these steps are satisfied:
+
       1. You call [`liff.login()`](#login).
       2. The user logs in.
       3. You call [`liff.init()`](#initialize-liff-app).
