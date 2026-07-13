@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-batch-control-rich-menus
-__hash__: WMAmqoOed4PTf0Em4c42YmG3C5fvah1KftRUH0Kpg-Q
+__hash__: 2jQDQ7lQMm4UQC6O6rUKFfO-3VJZkN0opQB0wTFn2aA
 seo:
   description: ''
 ---
@@ -78,7 +78,9 @@ For more information on rate limits, see [Rate limits](#rate-limits).
 
       - `ongoing`: Rich menu batch control is in progress.
       - `succeeded`: Rich menu batch control is complete.
-      - `failed`: Rich menu batch control failed. This means that the rich menu for one or more users couldn't be controlled. There may also be users whose operations have been successfully completed.
+      - `failed`: Rich menu batch control failed. This means that the rich menu for one or more users couldn't be controlled. There may also be users whose operations have been successfully completed.  
+        
+      By specifying a retry key in your initial request, you can safely retry failed operations. For more information, see [How to avoid unintended operations when retrying](#batch-control-rich-menus-of-users-retry-key).
       :::::
 
       :::::parameter-table-entry

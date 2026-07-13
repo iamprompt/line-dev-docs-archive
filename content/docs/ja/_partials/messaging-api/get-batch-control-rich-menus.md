@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-batch-control-rich-menus
-__hash__: RGq76VCjYyeJCsfdEugmMWb5rBUIz9AX2g-q5DbCpQc
+__hash__: TiA9NQQ4f55kg1z4rgfrRbrUyC230TrozwbBClRmgKw
 seo:
   description: ''
 ---
@@ -78,7 +78,9 @@ seo:
 
       - `ongoing`：リッチメニューの一括操作が進行中です。
       - `succeeded`：リッチメニューの一括操作が完了しました。
-      - `failed`：リッチメニューの一括操作に失敗しました。これは、1人以上のユーザーのリッチメニューを操作できなかったことを意味します。また、操作が正常に完了したユーザーも存在する可能性があります。
+      - `failed`：リッチメニューの一括操作に失敗しました。これは、1人以上のユーザーのリッチメニューを操作できなかったことを意味します。また、操作が正常に完了したユーザーも存在する可能性があります。  
+        
+      初回のリクエスト時にリトライ用のキーを指定することで、失敗した操作を安全にリトライできます。詳しくは、「[リトライ時に意図しない操作を避けるための方法](#batch-control-rich-menus-of-users-retry-key)」を参照してください。
       :::::
 
       :::::parameter-table-entry

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/batch-control-rich-menus-of-users
-__hash__: voANNmot-ur_77f4bRqAMT4oeZ29WZoPgQekOZnpmVE
+__hash__: 1ITDbPAsjkvh8_RJ_7R4SsuD4hG0EP-dwCX-1TVZODE
 seo:
   description: ''
 ---
@@ -49,7 +49,7 @@ seo:
   - If you're not sure whether your request was accepted due to a timeout or an internal server error of the LINE Platform
   - If you [get rich menu batch operation progress status](#get-batch-control-rich-menus-progress-status) and the `phase` property of response is `failed`
 
-  Even under these conditions, if you specify an arbitrary key in the `resumeRequestKey` property on your first request, sending the request again with the same key will only resume processing for users who haven't completed processing.
+  Even under these conditions, if you specify an arbitrary key in the `resumeRequestKey` property on your initial request, sending the request again with the same key will only resume processing for users who haven't completed processing.
 
   The `resumeRequestKey` property expires in 14 days (336 hours). If it has expired, the request will be treated as a new request.
   :::
