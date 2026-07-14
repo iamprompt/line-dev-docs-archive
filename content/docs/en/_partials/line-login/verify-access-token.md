@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-login/verify-access-token
-__hash__: tKq7tMB_ByK68r5GyFsyRxQU_7jrXMvKI4NRaWiS45E
+__hash__: PVUIyglNjaIs3p1dD289oJzjYV4kJlHTRZ3ZrRCyTGQ
 seo:
   description: ''
 ---
@@ -113,7 +113,11 @@ seo:
 
 ::reference-with-code
   :::reference-content
-  If the access token has expired, a `400 Bad Request` HTTP status code and a JSON response are returned.
+  In addition to the common errors described in [Status codes](#status-codes) under [Common specifications](#common-specifications), the following errors may occur:
+
+  | Status code     | Description                                                                                                                                                                                                                                           |
+  | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | 400 Bad Request | Problem with the request. Consider these reasons:- An access token with an invalid format is specified. - The access token has expired. - The access token has been invalidated (e.g., via the [Revoke access token](#revoke-access-token) endpoint). |
   :::
 
   :::reference-code
@@ -122,9 +126,22 @@ seo:
     ::::code-tabs
       :::::tab{lang="json"}
       ```json
+      // If an access token with an invalid format is specified
       {
         "error": "invalid_request",
-        "error_description": "access token expired"
+        "error_description": "The access token not JWS"
+      }
+
+      // If the access token has expired
+      {
+        "error": "invalid_request",
+        "error_description": "The access token expired"
+      }
+
+      // If the access token has been invalidated (e.g., by using the "revoke access token" endpoint)
+      {
+        "error": "invalid_request",
+        "error_description": "The access token revoked"
       }
       ```
       :::::

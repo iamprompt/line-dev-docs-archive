@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-mini-app/issue-notification-token
-__hash__: BlTjQpn5DeUf9MsZLs8KsyZOIjIKXHBTeEI4DO90XCQ
+__hash__: LMcteq2MY7yvE00dA9Qwn8I01cqkE_XRkz6OTaAdKs0
 seo:
   description: ''
 ---
@@ -185,13 +185,37 @@ When developing LINE MINI Apps, either [stateless channel access tokens](/docs/b
   :::
 
   :::reference-code
-  *Example error response*
+  *Example of an empty LIFF access token*
 
     ::::code-tabs
       :::::tab{lang="json"}
       ```json
       {
         "message": "[liffAccessToken] must not be blank"
+      }
+      ```
+      :::::
+    ::::
+
+  *Example of an expired access token*
+
+    ::::code-tabs
+      :::::tab{lang="json"}
+      ```json
+      {
+        "message": "The access token expired"
+      }
+      ```
+      :::::
+    ::::
+
+  *Example of an invalidated access token (e.g., due to the user closing the LIFF app)*
+
+    ::::code-tabs
+      :::::tab{lang="json"}
+      ```json
+      {
+        "message": "The access token revoked"
       }
       ```
       :::::

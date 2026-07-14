@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/issue-notification-token
-__hash__: LzRlZsBCjDq3vC5H3rtyEl2QFl4V-6EUyO2FYXLwQdg
+__hash__: 6SXNAAseCqhqZ7pzmPoVTIiPjT-KqUv8PLd_MFxQA_Q
 seo:
   description: ''
 ---
@@ -175,13 +175,37 @@ LINEミニアプリの開発では、[ステートレスチャネルアクセス
   :::
 
   :::reference-code
-  *エラーレスポンスの例*
+  *LIFFのアクセストークンが空になっている例*
 
     ::::code-tabs
       :::::tab{lang="json"}
       ```json
       {
         "message": "[liffAccessToken] must not be blank"
+      }
+      ```
+      :::::
+    ::::
+
+  *アクセストークンの有効期限が切れている例*
+
+    ::::code-tabs
+      :::::tab{lang="json"}
+      ```json
+      {
+        "message": "The access token expired"
+      }
+      ```
+      :::::
+    ::::
+
+  *ユーザーがLIFFアプリを閉じたことなどによりアクセストークンが無効化されている例*
+
+    ::::code-tabs
+      :::::tab{lang="json"}
+      ```json
+      {
+        "message": "The access token revoked"
       }
       ```
       :::::
