@@ -10,7 +10,7 @@ meta: >-
   {"date":"2025-11-05 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2025/2025-11-05-mark-as-read
-__hash__: 5XqW1TeDjfWGb-cZDYSLQvy4CNGzqCmCDqaMLI3siok
+__hash__: rb2k8_FiUNUwkjyuMWuzstk9aZ1AP1aFuCC17zm7bFc
 seo:
   title: In the Messaging API, you can now mark messages from users as read
   description: >-
@@ -78,6 +78,6 @@ type: tip
 The Mark as read API (old) provided for corporate users remains available for use. However, if you're implementing functionality to mark messages as read from users going forward, use the Messaging API's [Mark messages as read](/reference/messaging-api/#mark-as-read) endpoint. The "Mark messages as read" endpoint requires no application and can be used in conjunction with chat feature.
 ::
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release in line with the addition of these new features, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release in line with the addition of these new features, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

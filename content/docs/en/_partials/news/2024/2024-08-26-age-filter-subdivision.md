@@ -9,7 +9,7 @@ description: >-
   narrowcast messages:
 meta: '{"date":"2024-08-26 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-08-26-age-filter-subdivision
-__hash__: B0rgfto8_elv4cHA2svfDFIM_BnbOLT0b38NY1kM-FE
+__hash__: Gw7VS46r3rVx8CbuBWDSks6aZ8G_In9gjkqqsiIkXtY
 seo:
   title: >-
     In the Messaging API, you can now use narrowcast messages to filter the
@@ -39,6 +39,6 @@ For example, the following is a demographic filter object that filters by age 50
 }
 ```
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

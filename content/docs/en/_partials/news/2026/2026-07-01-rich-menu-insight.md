@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-07-01 01:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2026/2026-07-01-rich-menu-insight
-__hash__: U5s378vIiqwlvYJ2oJbW1PSUlhyNhOXXjOppVoVvJiY
+__hash__: qHgJNIn0Kug1901SJb7AQ6_6VCvAf-mAwwdRb-7CV9U
 seo:
   title: >-
     You can now retrieve statistics for rich menus created using the Messaging
@@ -29,6 +29,6 @@ Previously, statistics could only be viewed in [Insight - Rich menus](https://ww
 
 Statistics for rich menus created using the Messaging API can't be viewed in LINE Official Account Manager. Similarly, statistics for rich menus created using LINE Official Account Manager can't be retrieved using the Messaging API.
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release in line with the addition of these new features, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release in line with the addition of these new features, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

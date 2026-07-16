@@ -11,7 +11,7 @@ meta: >-
   {"date":"2026-01-21 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2026/2026-01-21-tracking-tag
-__hash__: e6A52mth6u0rSqleqKpy5rrkX0yAlXesQWKyAuwpXB0
+__hash__: hW7outu4vgEu-1DnQaTGlBo0hjQVqLJm0kUgeJYhdTg
 seo:
   title: >-
     Web traffic audiences using Tracking Tag are now available in the Messaging
@@ -48,6 +48,6 @@ LINE Tag will be discontinued in the future. If you plan to use tags for measure
 LINE Ads will continue to support LINE Tag only. If you are sharing LINE Tag between LINE Ads and your LINE Official Account, continue to use LINE Tag as well.
 ::
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

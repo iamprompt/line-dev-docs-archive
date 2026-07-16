@@ -9,7 +9,7 @@ description: >-
 meta: '{"date":"2024-02-06 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: >-
   /en/_partials/news/2024/2024-02-06-add-friends-and-unblock-friends-can-now-be-determined-by-webhook
-__hash__: VtRyxM54XoXz5IC82IQj8X8rmkxOA06BIi-ItQdOeIY
+__hash__: 7ZK5tL4auoKPeH9br2g4HRWjouzc9B4OJ3DVeUzSz_U
 seo:
   title: >-
     In the Messaging API, you can now determine whether a user has added your
@@ -56,6 +56,6 @@ This allows you to send special coupons to users only when they add your LINE Of
 
 For more information, see [Follow event](/reference/messaging-api/#follow-event) in the Messaging API reference.
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

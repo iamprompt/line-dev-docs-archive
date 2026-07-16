@@ -8,7 +8,7 @@ description: >-
   Manager as the recipient for narrowcast messages.
 meta: '{"date":"2025-02-12 01:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2025/2025-02-12-shared-audience
-__hash__: ZVoVyNX3oF86fndlDmXj_Hh1JmdorO9VRXdh1NTvkPg
+__hash__: fsDCwKfc5wEsmDik6B4Y6Ul13EpFQqyLT1Wmi9xDCY0
 seo:
   title: >-
     In the Messaging API, you can now use the shared audience in Business
@@ -33,6 +33,6 @@ Business Manager allows you to share specific audiences across multiple services
 For more information, see [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"} (only available in Japanese) in LINE DATA SOLUTION.
 ::
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

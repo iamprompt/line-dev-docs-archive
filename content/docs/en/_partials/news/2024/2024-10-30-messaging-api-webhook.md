@@ -9,7 +9,7 @@ description: >-
   containing a mention.
 meta: '{"date":"2024-10-30 01:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-10-30-messaging-api-webhook
-__hash__: ICg29bbXz2wbIcyN_P94Qhti6RcTpZYkmcjF_CLGfMw
+__hash__: y0RUKn75_ULjq67DvQmV_eeUahkw3Tx-4Tcv5a-zZZ0
 seo:
   title: >-
     The Messaging API now allows you to recognize mentions from a user to your
@@ -138,6 +138,6 @@ If a message sent by a user mentions another user, the `isSelf` property is set 
 
 The structure of the webhook event object may change, as in the case of this specification addition. Implement your bot server so that it doesn't malfunction when receiving objects with a different structure than before. For more information, see [Recommendation for implementation assuming non-breaking feature additions](/docs/messaging-api/development-guidelines/#assume-non-breaking-changes) section in the Messaging API documentation.
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

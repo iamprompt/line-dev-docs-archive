@@ -10,7 +10,7 @@ description: >-
   now easier to specify LINE emoji.
 meta: '{"date":"2024-10-30 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-10-30-text-message-v2
-__hash__: a6uPleCPdVrEhAbSLjdwxHhDi7gNDzXqC4WY-vqpvyo
+__hash__: 4lghQrERZaDffwGJ-IeywQuoY0S53ktRqyEhksNy1mI
 seo:
   title: >-
     In the Messaging API, we've released text message (v2) which allows you to
@@ -80,6 +80,6 @@ Note the following when specifying mentions in text messages (v2):
 
 For more information about text messages (v2), see [Text message (v2)](/reference/messaging-api/#text-message-v2) in the Messaging API reference.
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

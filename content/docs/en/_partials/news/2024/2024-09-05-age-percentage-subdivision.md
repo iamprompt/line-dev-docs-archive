@@ -9,7 +9,7 @@ description: >-
   using the Get friend demographics endpoint:
 meta: '{"date":"2024-09-05 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-09-05-age-percentage-subdivision
-__hash__: onepCQ-hyNgzKqpI_7-KVAG4Laq7ySHM7wcU8TZa5f4
+__hash__: mxoSpPMWenK-Ccw0fGRJgvMv6a-3XvN7divcThssr_g
 seo:
   title: >-
     Messaging API now provides statistics on the percentage of friends between
@@ -32,6 +32,6 @@ Previously, we've aggregated the percentage of friends who are 50 and older as a
 
 We'll continue to include `from50` in the response as a value that aggregates the percentage of friends who are 50 and older.
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

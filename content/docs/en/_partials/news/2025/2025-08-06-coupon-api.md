@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-08-06 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2025/2025-08-06-coupon-api
-__hash__: AK2G2BLq87edG71DJ1fiH9O45mY8AjGKCC8mRuC4pSI
+__hash__: A93LUwrXiycHRSYbse-rVH4IJjIQY5mKFNkNj7w9rks
 seo:
   title: You can now create coupons using the Messaging API and send them as messages
   description: >-
@@ -30,6 +30,6 @@ You can now create coupons using the Messaging API and send them to users as mes
 
 For more information, see [Create coupons and send them to users](/docs/messaging-api/send-coupons-to-users/) in the Messaging API documentation.
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release in line with the addition of these new features, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release in line with the addition of these new features, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.

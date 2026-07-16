@@ -11,7 +11,7 @@ description: >-
   want them to wait by displaying a loading animation.
 meta: '{"date":"2024-04-17 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-04-17-loading-indicator
-__hash__: IxmgA4lhIDjjBcfWIIX4RZYlJ9w0TO6ebP6aE2cCCLk
+__hash__: p_-N5VJEtWEW2vRL-yG3KQKKRhBPnLxyqlrxZyjc-zA
 seo:
   title: >-
     In the Messaging API, you can now display loading animations on the chat
@@ -36,6 +36,6 @@ For more information, see [Display a loading animation](/docs/messaging-api/use-
 
 LINE version 13.16.0 or later for iOS or Android.
 
-### LINE Messaging API SDK Updates
+### LINE Messaging API SDK updates
 
-For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDK](/docs/messaging-api/line-bot-sdk/) release notes.
+For more information about the update status of each SDK release related to the above, see the [LINE Messaging API SDKs](/docs/messaging-api/line-bot-sdk/) release notes.
