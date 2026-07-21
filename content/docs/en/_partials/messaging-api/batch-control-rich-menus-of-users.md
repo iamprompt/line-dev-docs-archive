@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/batch-control-rich-menus-of-users
-__hash__: 1ITDbPAsjkvh8_RJ_7R4SsuD4hG0EP-dwCX-1TVZODE
+__hash__: HQwpdpkzZik7furqNuUanYTzPGnmX0JDPbbK12noPlI
 seo:
   description: ''
 ---
@@ -204,7 +204,7 @@ Rich menu operation object represents the batch operation to the rich menu linke
 
 ::reference-with-code
   :::reference-content
-  Returns the `200` HTTP status code and an empty JSON object.
+  Returns the `202` HTTP status code and an empty JSON object.
 
   Batch operation of the rich menu is processed asynchronously in the background. You can check the status of the process by using the [Get the status of rich menu batch control](#get-batch-control-rich-menus-progress-status) endpoint.
   :::
