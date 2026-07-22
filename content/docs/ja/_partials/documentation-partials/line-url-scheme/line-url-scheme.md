@@ -7,7 +7,7 @@ description: >-
   URLスキームを開くアクションを設定しておくことで、メニューをタップしたユーザーに対してLINE内のコンテンツを表示できます。
 meta: '{}'
 path: /ja/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: eqEwQz5dT6JDVsDtrkExPeokm_S9fYyA9AkoHwu1i_4
+__hash__: 6DlNdsFO1iVR9k4lYyxbNlQaBuAyOTA73KK3CJZOqBI
 seo:
   description: >-
     LINE URLスキームを使うと、スタンプショップやLIFFアプリを開いたり、カメラを起動したりできます。LINE
@@ -216,14 +216,14 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 
 ![](/media/messaging-api/using-line-url-scheme/shopping-tab-ja.png){className="[\"border\",\"w-fix-240\"]"}
 
-| LINE URLスキーム                            | 説明                        |
-| --------------------------------------- | ------------------------- |
-| `https://line.me/R/nv/chat`             | トークタブを開きます。               |
-| `https://line.me/R/nv/commerce`         | ショッピングタブを開きます。            |
-| `https://line.me/R/nv/wallet`           | ウォレットタブを開きます。             |
-| `https://line.me/R/nv/addFriends`       | 「友だち追加」画面を開きます。           |
-| `https://line.me/R/nv/officialAccounts` | 「LINE公式アカウント」画面を開きます。     |
-| `https://line.me/R/nv/timeline`         | LINE VOOMの「フォロー中」画面を開きます。 |
+| LINE URLスキーム                            | 説明                                                 |
+| --------------------------------------- | -------------------------------------------------- |
+| `https://line.me/R/nv/chat`             | トークタブを開きます。                                        |
+| `https://line.me/R/nv/commerce`         | ショッピングタブを開きます。                                     |
+| `https://line.me/R/nv/wallet`           | ウォレットタブまたはミニアプリタブを開きます。なお、ミニアプリタブは日本のユーザーのみ利用できます。 |
+| `https://line.me/R/nv/addFriends`       | 「友だち追加」画面を開きます。                                    |
+| `https://line.me/R/nv/officialAccounts` | 「LINE公式アカウント」画面を開きます。                              |
+| `https://line.me/R/nv/timeline`         | LINE VOOMの「フォロー中」画面を開きます。                          |
 
 ### 「設定」画面を開く
 

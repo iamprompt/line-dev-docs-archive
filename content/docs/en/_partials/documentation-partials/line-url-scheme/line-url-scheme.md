@@ -7,7 +7,7 @@ description: >-
   LINE contents from rich menus with the action to open the LINE URL scheme.
 meta: '{}'
 path: /en/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: lR9pO9YdaF2kbb7ysGBZ0eErORePRTYQnH_5w4bo6zs
+__hash__: BeEdeAjvdozQIKYSUOLHw61sWxUMztoNOHTw5-GYw-4
 seo:
   description: >-
     You can open Sticker Shop, LIFF app or camera with the LINE URL scheme. The
@@ -250,14 +250,14 @@ With the LINE URL scheme, you can let users open different LINE screens, includi
 
 ![](/media/messaging-api/using-line-url-scheme/shopping-tab-en.png){className="[\"border\",\"w-fix-240\"]"}
 
-| LINE URL scheme                         | Description                                |
-| --------------------------------------- | ------------------------------------------ |
-| `https://line.me/R/nv/chat`             | Opens the Chats tab.                       |
-| `https://line.me/R/nv/commerce`         | Opens the Shopping tab.                    |
-| `https://line.me/R/nv/wallet`           | Opens the Wallet tab.                      |
-| `https://line.me/R/nv/addFriends`       | Opens the "Add friends" screen.            |
-| `https://line.me/R/nv/officialAccounts` | Opens the "LINE Official Accounts" screen. |
-| `https://line.me/R/nv/timeline`         | Opens the LINE VOOM "Following" screen.    |
+| LINE URL scheme                         | Description                                                                                       |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| `https://line.me/R/nv/chat`             | Opens the Chats tab.                                                                              |
+| `https://line.me/R/nv/commerce`         | Opens the Shopping tab.                                                                           |
+| `https://line.me/R/nv/wallet`           | Opens the Wallet tab or the MINI Apps tab. The MINI Apps tab is only available to users in Japan. |
+| `https://line.me/R/nv/addFriends`       | Opens the "Add friends" screen.                                                                   |
+| `https://line.me/R/nv/officialAccounts` | Opens the "LINE Official Accounts" screen.                                                        |
+| `https://line.me/R/nv/timeline`         | Opens the LINE VOOM "Following" screen.                                                           |
 
 ### Opening LINE settings
 
