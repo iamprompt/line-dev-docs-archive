@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールの基本的な仕組みと注意事項
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/console-guide
-__hash__: uoeFjv2Kd7W8xfJ7xAN5ReL1J7cPp8R3NVrM3bB8pV0
+__hash__: J1AwDtBto9_oDMKHz4C-UkWCgl9Ag0gX9kli1fC7WuA
 seo:
   title: LINEミニアプリ用LINE Developersコンソールガイド
   description: LINE Developersコンソールの基本的な仕組みと注意事項
@@ -147,6 +147,14 @@ LINEミニアプリが認証済ミニアプリの場合、チャネル名やLIFF
 | --- | --------------- | --------------------------------------------------------- |
 | 悪い例 | LINE FRIENDSストア | LINE FRIENDSストアは、LINEキャラクターグッズのお店です。                      |
 | 良い例 | LINE FRIENDSストア | LINE FRIENDSストアにおいて、事前注文・決済ができ、店舗で商品を受け取れるモバイルオーダーサービスです。 |
+
+::admonition{title="チャネル説明に含めなければいけない情報" type="note"}
+LINEミニアプリの開発を外部委託した場合など、LINEミニアプリのサービス事業主と開発担当企業が異なる場合は、［**チャネル説明**］には以下の内容を明記してください。
+
+- サービス事業主名
+- 開発担当企業名
+- LINEミニアプリを通じて取得されたユーザーの個人情報をほかの企業に提供する場合、実際の企業名
+::
 
 ## 3つのLINEミニアプリの動作差異について
 

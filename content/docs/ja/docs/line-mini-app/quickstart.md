@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリの開発について作業の流れを説明します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/quickstart
-__hash__: SwJvPdAKM_fkmk6P4Rfp2iUut5-8VS-BH8fbCt0PcLE
+__hash__: TvfRkYz1tC-VCVldbvijfEztLkOBcMVDEXTP-hn0gwE
 seo:
   title: はじめに
   description: LINEミニアプリの開発について作業の流れを説明します。
@@ -58,7 +58,7 @@ LINEミニアプリの実装および開発を行う場合は、次のガイド�
   - [**サービスメッセージを送信する**](/docs/line-mini-app/develop/service-messages/)：ユーザーのアクションに対する確認や応答として、サービスメッセージを送信できます。
   - [**決済システムを利用する**](/docs/line-mini-app/develop/payment/)：ユーザーに決済システムを提供するために、LINEミニアプリにLINE Payや他の決済システムを連動することができます。
   - [**パーマネントリンクを作成する**](/docs/line-mini-app/develop/permanent-links/)：ユーザーがLINEミニアプリにすぐにアクセスできるように、LINEミニアプリのパーマネントリンクを使用できます。
-  - [**LINE DevelopersコンソールでLINEミニアプリの設定を管理する**](/docs/line-mini-app/develop/configure-console/)：LINEミニアプリでは、LINE Developersコンソールで設定したデータを使用します。LINE Developersコンソールに正しいデータを設定してください。
+  - [**LINEミニアプリのユーザーに表示される設定一覧**](/docs/line-mini-app/develop/configure-console/)：LINEミニアプリでは、LINE Developersコンソールで設定したデータを使用します。LINE Developersコンソールに正しいデータを設定してください。
   - [**外部ブラウザでLINEミニアプリを開く**](/docs/line-mini-app/develop/external-browser/)：外部ブラウザでLINEミニアプリを開く場合の注意点を確認してください。
   - [**パフォーマンスガイドを確認する**](/docs/line-mini-app/develop/performance-guidelines/)：LINEミニアプリのパフォーマンスを考慮することをお勧めします。
 - **APIリファレンス**
@@ -71,7 +71,7 @@ LINEミニアプリの実装および開発を行う場合は、次のガイド�
 
 LINEミニアプリのページをデザインする場合は、次を参照してください。
 
-- [**LINEミニアプリのアイコンの仕様とガイドライン**](/docs/line-mini-app/design/line-mini-app-icon/)：ガイドラインに従ってアイコンを作成し、LINE Developersコンソールでチャネルアイコンに設定してください。詳しくは、「[LINE DevelopersコンソールでLINEミニアプリの設定を管理する](/docs/line-mini-app/develop/configure-console/)」を参照してください。
+- [**LINEミニアプリのアイコンの仕様とガイドライン**](/docs/line-mini-app/design/line-mini-app-icon/)：ガイドラインに従ってアイコンを作成し、LINE Developersコンソールでチャネルアイコンに設定してください。詳しくは、「[LINEミニアプリのユーザーに表示される設定一覧](/docs/line-mini-app/develop/configure-console/)」を参照してください。
 - [**ランドスケープモードのセーフエリアを確認する**](/docs/line-mini-app/design/landscape/)：ノッチがある端末でもLINEミニアプリのすべてを表示するために、LINEミニアプリがセーフエリアに収まるようにしてください。
 - [**読み込み中アイコンを確認する**](/docs/line-mini-app/design/loading-icon/)：読み込み中アイコンは、LINEミニアプリで推奨されているUI要素です。指定されたファイルを使用してください。
 

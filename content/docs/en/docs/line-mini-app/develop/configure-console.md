@@ -1,12 +1,12 @@
 ---
-title: Managing LINE MINI App settings on LINE Developers Console
+title: Settings displayed to LINE MINI App users
 navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/configure-console
-__hash__: 87ATh0V68BwclT3j6NIKBKHhiL-bDVZMAF64OX1_p5I
+__hash__: 0jnLb_ocB0ga10a1XVR13MsqXuAiVKcF_pFJRP870fg
 seo:
-  title: Managing LINE MINI App settings on LINE Developers Console
+  title: Settings displayed to LINE MINI App users
   description: null
 ---
 
@@ -37,18 +37,7 @@ The following information on the LINE MINI App channel settings is displayed to 
 | **Channel description**                   | - [Verification screen](#verification-screen) - [Channel consent screen](#consent-screen-settings)  Enter in English. To enter the channel description in any other languages such as Japanese, see [Multi-language support of the Channel consent screen](#localization).                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **Privacy policy URL**                    | [Channel consent screen](#consent-screen-settings)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Localization (multi-language support)** | [Channel consent screen](#consent-screen-settings)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-
-::admonition
----
-title: Information that must be included in the channel description
-type: note
----
-If you have outsourced the development of your service's LINE MINI App, and the company that provides service through the LINE MINI App differs from the company that developed the said LINE MINI App, the **Channel description** must contain a statement indicating the following information:
-
-- The service company name
-- The development company name
-- The actual company name(s) to whom you provide user data obtained through the LINE MINI App
-::
+| **Linked LINE Official Account**          | - [Verification screen](#verification-screen) - [Channel consent screen](#consent-screen-settings)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ### **Web app settings** tab
 
@@ -84,12 +73,13 @@ The following information registered on the [LINE Developers Console](/console/)
 
 ![](/media/line-mini-app/line-mini-app-playground-verification-screen-en.png){className="[\"border\",\"w-fix-320\"]"}
 
-| Information        | Settings                                                                                        |
-| ------------------ | ----------------------------------------------------------------------------------------------- |
-| LINE MINI App icon | **Basic settings** tab > **Channel icon**                                                       |
-| LINE MINI App name | **Basic settings** tab > **Channel name**                                                       |
-| Provider name      | **Settings** tab > **Provider name** of the provider to which the LINE MINI App channel belongs |
-| Description        | **Basic settings** tab > **Channel description**                                                |
+| Information           | Settings                                                                                        |
+| --------------------- | ----------------------------------------------------------------------------------------------- |
+| LINE MINI App icon    | **Basic settings** tab > **Channel icon**                                                       |
+| LINE MINI App name    | **Basic settings** tab > **Channel name**                                                       |
+| Provider name         | **Settings** tab > **Provider name** of the provider to which the LINE MINI App channel belongs |
+| Description           | **Basic settings** tab > **Channel description**                                                |
+| LINE Official Account | **Basic settings** tab > **Linked LINE Official Account**                                       |
 
 ## Channel consent screen
 
@@ -97,13 +87,14 @@ The following information registered on the [LINE Developers Console](/console/)
 
 ![Channel consent screen](/media/line-mini-app/mini-permission-request-en.png){className="[\"border\",\"w-fix-320\"]"}
 
-| Information        | Settings                                                                                        |
-| ------------------ | ----------------------------------------------------------------------------------------------- |
-| LINE MINI App icon | **Basic settings** tab > **Channel icon**                                                       |
-| LINE MINI App name | **Basic settings** tab > **Channel name**                                                       |
-| Provider name      | **Settings** tab > **Provider name** of the provider to which the LINE MINI App channel belongs |
-| Description        | **Basic settings** tab > **Channel description**                                                |
-| Privacy policy URL | **Basic settings** tab > **Privacy policy URL**                                                 |
+| Information           | Settings                                                                                        |
+| --------------------- | ----------------------------------------------------------------------------------------------- |
+| LINE MINI App icon    | **Basic settings** tab > **Channel icon**                                                       |
+| LINE MINI App name    | **Basic settings** tab > **Channel name**                                                       |
+| Provider name         | **Settings** tab > **Provider name** of the provider to which the LINE MINI App channel belongs |
+| Description           | **Basic settings** tab > **Channel description**                                                |
+| Privacy policy URL    | **Basic settings** tab > **Privacy policy URL**                                                 |
+| LINE Official Account | **Basic settings** tab > **Linked LINE Official Account**                                       |
 
 If the LINE MINI App is a verified MINI App, a verified badge will be displayed next to the LINE MINI App name. If the LINE MINI App provider isn't a certified provider, a note saying "LY Corporation hasn't verified this service provider." will be displayed.
 

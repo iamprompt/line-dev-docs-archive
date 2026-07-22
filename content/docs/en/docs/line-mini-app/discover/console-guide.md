@@ -6,7 +6,7 @@ description: >-
   App.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/console-guide
-__hash__: zfZJ2xn2I_MQpV34urn3Hw5OpAvNaq_j53miNWLgpQk
+__hash__: Y9ZiLMRfYlTATLOiSLixpLmocts-49lcaBven7jyqMA
 seo:
   title: LINE Developers Console Guide for LINE MINI App
   description: >-
@@ -175,6 +175,18 @@ Refer to the following table for input examples of **Channel description**.
 | ------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Bad example  | LINE FRIENDS STORE | LINE FRIENDS STORE is a store for LINE character goods.                                                                                  |
 | Good example | LINE FRIENDS STORE | This is a mobile ordering service at the LINE FRIENDS STORE. You can order and pay in advance and receive your merchandise at the store. |
+
+::admonition
+---
+title: Information that must be included in the channel description
+type: note
+---
+If you have outsourced the development of your service's LINE MINI App, and the company that provides service through the LINE MINI App differs from the company that developed the said LINE MINI App, the **Channel description** must contain a statement indicating the following information:
+
+- The service company name
+- The development company name
+- The actual company name(s) to whom you provide user data obtained through the LINE MINI App
+::
 
 ## Differences in the behavior of the 3 LINE MINI Apps
 
