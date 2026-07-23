@@ -4,14 +4,14 @@ navigation: true
 description: ''
 meta: '{"date":"2025-10-20 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-10-20-line-mini-app-platform-terms-of-use
-__hash__: aTgiC742Ik1NXBxH3VCdwEQiWJHa3u73-SyLkheQ_Wc
+__hash__: II0ysa1Cep3UgLZw5sD2MDN10lXo5yHiiwWQvLV-N9I
 seo:
   title: 【更新】2025年11月20日に日本のLINEミニアプリプラットフォーム規約を改定します
   description: ''
 ---
 
 ::admonition{title="2025年10月31日追記" type="note"}
-[改定内容](#line-mini-app-platform-terms-of-use-changes-20251020)に記載している、改定後の[LINEミニアプリプラットフォーム規約](https://workers-hub.ent.box.com/file/1989333438913?s=6ysx93ojzfxvknernkawbf0vej4pu6cs){rel="[\"nofollow\"]"}および[LINE MINI App Platform Terms of Use](https://workers-hub.ent.box.com/file/2004996590312?s=x0gidw3btszsb868p5307xse3h6ofeze){rel="[\"nofollow\"]"}における改定⽇が誤っていたため訂正しました。
+[改定内容](#line-mini-app-platform-terms-of-use-changes-20251020)に記載している、改定後の[LINEミニアプリプラットフォーム規約](https://workers-hub.ent.box.com/s/6ysx93ojzfxvknernkawbf0vej4pu6cs){rel="[\"nofollow\"]"}および[LINE MINI App Platform Terms of Use](https://workers-hub.ent.box.com/s/x0gidw3btszsb868p5307xse3h6ofeze){rel="[\"nofollow\"]"}における改定⽇が誤っていたため訂正しました。
 
 | 改定後規約                               | 修正前                 | 修正後（現在）             |
 | ----------------------------------- | ------------------- | ------------------- |
@@ -36,10 +36,10 @@ seo:
 
 改定前と改定後の規約は次のとおりです。
 
-| 対象となる国と地域 | 言語  | 改定前（現在）                                                                                                                            | 改定後                                                                                                                                                |
-| --------- | --- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 日本        | 日本語 | [LINEミニアプリプラットフォーム規約](https://terms2.line.me/LINE_Developers_MINI_App_JP?country=JP&lang=ja){rel="[\"nofollow\"]"}                 | [LINEミニアプリプラットフォーム規約](https://workers-hub.ent.box.com/file/1989333438913?s=6ysx93ojzfxvknernkawbf0vej4pu6cs){rel="[\"nofollow\"]"}                 |
-| 日本        | 英語  | [LINE MINI App Platform Terms of Use](https://terms2.line.me/LINE_Developers_MINI_App_JP?country=JP&lang=en){rel="[\"nofollow\"]"} | [LINE MINI App Platform Terms of Use](https://workers-hub.ent.box.com/file/2004996590312?s=x0gidw3btszsb868p5307xse3h6ofeze){rel="[\"nofollow\"]"} |
+| 対象となる国と地域 | 言語  | 改定前（現在）                                                                                                                            | 改定後                                                                                                                             |
+| --------- | --- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 日本        | 日本語 | [LINEミニアプリプラットフォーム規約](https://terms2.line.me/LINE_Developers_MINI_App_JP?country=JP&lang=ja){rel="[\"nofollow\"]"}                 | [LINEミニアプリプラットフォーム規約](https://workers-hub.ent.box.com/s/6ysx93ojzfxvknernkawbf0vej4pu6cs){rel="[\"nofollow\"]"}                 |
+| 日本        | 英語  | [LINE MINI App Platform Terms of Use](https://terms2.line.me/LINE_Developers_MINI_App_JP?country=JP&lang=en){rel="[\"nofollow\"]"} | [LINE MINI App Platform Terms of Use](https://workers-hub.ent.box.com/s/x0gidw3btszsb868p5307xse3h6ofeze){rel="[\"nofollow\"]"} |
 
 なおタイ、および台湾の「LINEミニアプリプラットフォーム規約」では改定はございません。
 

@@ -7,7 +7,7 @@ description: >-
   Android, or web app.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/overview
-__hash__: POdaPm2OBFkVCZjc0dvYqS2uJ3dJmYeW6R624pyYOsk
+__hash__: ydJHuXFGf1feI1QUSjMoWSEHUCyOmjm-3E13Gb6DisA
 seo:
   title: LINE Login overview
   description: >-
@@ -38,7 +38,7 @@ By integrating LINE Login into your website or app, users will be able to regist
 LINE Login not only works with native iOS and Android apps but also with web apps (websites) and Unity games.
 
 ::admonition{title="Example of a website with LINE Login" type="tip"}
-For example, the e-book store [BOOK WALKER](https://global.bookwalker.jp/){rel="[\"nofollow\"]"} integrates various social logins, including LINE Login, so that users can easily register the membership and continue using the site.
+For example, the e-book store [BOOK WALKER](https://bookwalker.jp/top/){rel="[\"nofollow\"]"} (Japanese site) integrates various social logins, including LINE Login, so that users can easily register the membership and continue using the site.
 
 ![E-bookstore login screen](/media/line-login/overview/line-login-bookwalker-01-ja.png){className="[\"border\",\"w-fix-560\"]"}
 ::

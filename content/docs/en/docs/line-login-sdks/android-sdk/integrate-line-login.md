@@ -4,7 +4,7 @@ navigation: true
 description: Using LINE Login to get authorization from your users
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/android-sdk/integrate-line-login
-__hash__: ywLjapVk9S-_yM_6fBkVEyRoaUnmwJlA6HPfnhHHmho
+__hash__: ZN_VVIK7FmtCYy2RV4LtAGYcJT0XvmQLzSN9GrqXvUg
 seo:
   title: Integrating LINE Login with your Android app
   description: Using LINE Login to get authorization from your users
@@ -52,7 +52,7 @@ To integrate LINE SDK for Android, import the required library to your project a
 
 Add LINE SDK dependency in your module-level `build.gradle` file.
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.linesdk/linesdk.svg?label=Maven%20Central){:zoom="false"}](https://search.maven.org/search?q=g:%22com.linecorp.linesdk%22%20AND%20a:%22linesdk%22){rel="[\"nofollow\"]" className="[\"no-external-icon\"]"}
+[![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.linesdk/linesdk.svg?label=Maven%20Central){:zoom="false"}](https://central.sonatype.com/artifact/com.linecorp.linesdk/linesdk){rel="[\"nofollow\"]" className="[\"no-external-icon\"]"}
 
 ```groovy
 repositories {

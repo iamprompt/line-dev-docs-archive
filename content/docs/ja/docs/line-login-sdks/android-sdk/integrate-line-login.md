@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインを使って、サービスのユーザーからデータ取得の許可を得られます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/android-sdk/integrate-line-login
-__hash__: VDUN-fdMFACUzcwV451sKZU-XiMrKHp4t-vZTNvVyF8
+__hash__: HwHGAZ3XuNJQsRMF6Pi-tFmtYy3NFhKlNUcyvZMuT44
 seo:
   title: AndroidアプリにLINEログインを組み込む
   description: LINEログインを使って、サービスのユーザーからデータ取得の許可を得られます。
@@ -48,7 +48,7 @@ LINE SDK for Androidを組み込むには、必要なライブラリをプロジ
 
 モジュールレベルの`build.gradle`ファイルに、LINE SDKの依存性を追加します。
 
-[![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.linesdk/linesdk.svg?label=Maven%20Central){:zoom="false"}](https://search.maven.org/search?q=g:%22com.linecorp.linesdk%22%20AND%20a:%22linesdk%22){rel="[\"nofollow\"]" className="[\"no-external-icon\"]"}
+[![Maven Central](https://img.shields.io/maven-central/v/com.linecorp.linesdk/linesdk.svg?label=Maven%20Central){:zoom="false"}](https://central.sonatype.com/artifact/com.linecorp.linesdk/linesdk){rel="[\"nofollow\"]" className="[\"no-external-icon\"]"}
 
 ```groovy
 repositories {

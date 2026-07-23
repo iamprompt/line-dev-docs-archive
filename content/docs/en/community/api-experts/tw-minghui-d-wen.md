@@ -8,7 +8,7 @@ meta: >-
   Finance, Research, UI/UX","skills":"Messaging
   API","git":"","fb":"https://www.facebook.com/sdfaewfadfadf","twitter":""}
 path: /en/community/api-experts/tw-minghui-d-wen
-__hash__: FhtDRtFFxF51fe2YnraZuaeGWRoIxCwJfVvr2Jk2lTY
+__hash__: OqcZjslsQVZeBrnwlAJGBYtyArA9nFGPL5kL671sNV4
 seo:
   title: LINE API Expert - MingHui-D. Wen
   description: ''
@@ -214,7 +214,7 @@ As one of LINE API experts, Don wishes he can contribute to help people who inte
     ::::
 
     ::::lae-activity{date="2019/9/17"}
-    [LINE Chatbot UX design, Chatbot meetup Taipei. (80 people)](https://www.accupass.com/go/chatbot2019){rel="[\"nofollow\"]"}  
+    [LINE Chatbot UX design, Chatbot meetup Taipei. (80 people)](https://www.accupass.com/event/1909180601011990131419){rel="[\"nofollow\"]"}  
 
     Type: **speaker**  
 

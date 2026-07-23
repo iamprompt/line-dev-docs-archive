@@ -8,7 +8,7 @@ meta: >-
   API","skills":"Java, JavaScript, C #, SQL, Chatbot, Smart Speaker,
   Cloud","git":"https://github.com/himanago","fb":"https://www.facebook.com/takumasa.hirabayashi","twitter":"https://twitter.com/himarin269"}
 path: /en/community/api-experts/jp-takumasa-hirabayashi
-__hash__: 65-hqZOD6Mids6mEKeIkYj7aTXOETP5gWkYBDO1chWM
+__hash__: 0bF14q9crHLGLxvFQLcxw2i9zvUmzmzKtutRgoCqceA
 seo:
   title: LINE API Expert - Takumasa Hirabayashi
   description: ''
@@ -24,7 +24,7 @@ Microsoft Azureのサーバーレス技術（Azure Functions, Logic Apps など�
 #undefined
 - [https://himanago.hatenablog.com/](https://himanago.hatenablog.com/){rel="[\"nofollow\"]"}
 - [https://qiita.com/himarin269](https://qiita.com/himarin269){rel="[\"nofollow\"]"}
-- [https://www.slideshare.net/takumasahirabayashi/presentations](https://www.slideshare.net/takumasahirabayashi/presentations){rel="[\"nofollow\"]"}
+- [https://www.slideshare.net/takumasahirabayashi?tab=presentations](https://www.slideshare.net/takumasahirabayashi?tab=presentations){rel="[\"nofollow\"]"}
 
 #undefined
 :::lae-activities

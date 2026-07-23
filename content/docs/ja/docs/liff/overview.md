@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/overview
-__hash__: kVK74BSnQq_rkS9BSL8djNa9577bHLGSGFgkMpNgG6Q
+__hash__: GA9xRteLplWEhwJZ5UkFW409tuByrFi2xgodgli8wmI
 seo:
   title: LIFFの概要
   description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
@@ -120,7 +120,11 @@ LINEバージョン26.7.0以降では、アクションボタンをタップす�
 
 ### マルチタブビュー
 
-マルチタブビューには、最近使用したサービスが表示されます。最近使用したサービスには、ユーザーが開いたLIFFアプリが、利用履歴の新しい順に最大50件まで表示されます。
+マルチタブビューには、最近使用したサービスが表示されます。
+
+#### 最近利用したサービス
+
+最近使用したサービスには、ユーザーが開いたLIFFアプリが、利用履歴の新しい順に最大50件まで表示されます。
 
 LIFFアプリを閉じたり、別のLIFFアプリを新たに開いたりするとその時点のスクリーンショットが利用履歴として表示されます。ユーザーは利用履歴を使って、LIFFアプリを再度開くことができます。
 
@@ -159,12 +163,12 @@ LIFFアプリを開発する際は、「[LIFFアプリ開発ガイドライン](
 
 LINEヤフー株式会社では、開発者の方々がLIFFアプリの開発をより円滑に行えるよう、以下のツールを提供しています。
 
-| ツール名                                                                       | このツールでできること                                                                                                                                                                                                                                                                                                                         |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [LIFFスターターアプリ](/docs/liff/trying-liff-app/)                                | LIFFについて初めて学ぶ人向けのスターターアプリです。LIFFアプリの開発の始め方を理解しやすいよう、LIFFアプリの初期化のデモのみを行っています。まずは動くものを作って、LIFFの概要を大まかに理解したい方にお勧めです。                                                                                                                                                                                                                   |
-| [Create LIFF App](/docs/liff/cli-tool-create-liff-app/)                    | LIFFアプリの開発環境がコマンド1つで構築できるCLIツールです。Reactの[Create React App](https://github.com/facebook/create-react-app){rel="[\"nofollow\"]"}や、Next.jsの[Create Next App](https://nextjs.org/docs/pages/api-reference/cli/create-next-app){rel="[\"nofollow\"]"}のように、Create LIFF Appからの質問に答えていくことで、用途に合わせたLIFFアプリのひな形を含む開発環境が生成され、すぐに開発を始めることができます。 |
-| [LIFF CLI](/docs/liff/liff-cli/)                                           | LIFFアプリの開発を円滑にするCLIツールです。LIFF CLIでできることは次のとおりです。  - LIFFアプリを作成、更新、参照、削除する - LIFFアプリの開発環境を作成する - LIFFアプリを[LIFF Inspector](/docs/liff/liff-plugin/#liff-inspector)でデバッグする - ローカル開発サーバーをHTTPSで起動する  今後のアップデートで[LIFF Mock](/docs/liff/liff-plugin/#liff-mock)の機能も追加される予定です。                                                             |
-| [LIFFプレイグラウンド](https://liff-playground.netlify.app/){rel="[\"nofollow\"]"} | LIFFの機能をオンライン上で試すことができます。[LIFFプレイグラウンドのソースコード](https://github.com/line/liff-playground){rel="[\"nofollow\"]"}はGitHubで公開していますので、開発者は任意のLIFF IDを設定して、独自のLIFFプレイグラウンドをサーバー上にデプロイすることも可能です。                                                                                                                                             |
+| ツール名                                                                       | このツールでできること                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [LIFFスターターアプリ](/docs/liff/trying-liff-app/)                                | LIFFについて初めて学ぶ人向けのスターターアプリです。LIFFアプリの開発の始め方を理解しやすいよう、LIFFアプリの初期化のデモのみを行っています。まずは動くものを作って、LIFFの概要を大まかに理解したい方にお勧めです。                                                                                                                                                                                                                |
+| [Create LIFF App](/docs/liff/cli-tool-create-liff-app/)                    | LIFFアプリの開発環境がコマンド1つで構築できるCLIツールです。Reactの[Create React App](https://github.com/react/create-react-app){rel="[\"nofollow\"]"}や、Next.jsの[Create Next App](https://nextjs.org/docs/pages/api-reference/cli/create-next-app){rel="[\"nofollow\"]"}のように、Create LIFF Appからの質問に答えていくことで、用途に合わせたLIFFアプリのひな形を含む開発環境が生成され、すぐに開発を始めることができます。 |
+| [LIFF CLI](/docs/liff/liff-cli/)                                           | LIFFアプリの開発を円滑にするCLIツールです。LIFF CLIでできることは次のとおりです。  - LIFFアプリを作成、更新、参照、削除する - LIFFアプリの開発環境を作成する - LIFFアプリを[LIFF Inspector](/docs/liff/liff-plugin/#liff-inspector)でデバッグする - ローカル開発サーバーをHTTPSで起動する  今後のアップデートで[LIFF Mock](/docs/liff/liff-plugin/#liff-mock)の機能も追加される予定です。                                                          |
+| [LIFFプレイグラウンド](https://liff-playground.netlify.app/){rel="[\"nofollow\"]"} | LIFFの機能をオンライン上で試すことができます。[LIFFプレイグラウンドのソースコード](https://github.com/line/liff-playground){rel="[\"nofollow\"]"}はGitHubで公開していますので、開発者は任意のLIFF IDを設定して、独自のLIFFプレイグラウンドをサーバー上にデプロイすることも可能です。                                                                                                                                          |
 
 ## 作業の流れ
 

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-profile
-__hash__: rQ4lmSPEhzyna5ZioDloWpwp6yt3am0Rgi5YgGZqKas
+__hash__: A65NCa9WqqU93ugim_wDn0JWicVl7l0nUdT8oaw-lOY
 seo:
   description: ''
 ---
@@ -110,7 +110,7 @@ seo:
       #undefined
       String
 
-      ユーザーの言語。[BCP 47](https://www.rfc-editor.org/info/bcp47){rel="[\"nofollow\"]"}言語タグに従った文字列が返されます。ユーザーがLINEのプライバシーポリシーに未同意の場合はレスポンスに含まれません。  
+      ユーザーの言語。[BCP 47](https://www.rfc-editor.org/info/bcp47/){rel="[\"nofollow\"]"}言語タグに従った文字列が返されます。ユーザーがLINEのプライバシーポリシーに未同意の場合はレスポンスに含まれません。  
 
       例：`en`（英語）。
       :::::

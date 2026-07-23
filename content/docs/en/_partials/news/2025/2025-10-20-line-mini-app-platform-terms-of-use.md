@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2025-10-20 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-10-20-line-mini-app-platform-terms-of-use
-__hash__: vSeE8RbRnTYpNZNzNdqScEhdcu8Z9AkQueHY6w67UJ4
+__hash__: PCpgz1bIu2PZsZDl2S-VDlHwAcc15QRE3p-xe2NyHJA
 seo:
   title: >-
     [Updated] On November 20, 2025, we will revise the LINE MINI App Platform
@@ -15,7 +15,7 @@ seo:
 ---
 
 ::admonition{title="Added on October 31, 2025" type="note"}
-We've corrected an error in the revision date stated in the revised versions of [LINEミニアプリプラットフォーム規約](https://workers-hub.ent.box.com/file/1989333438913?s=6ysx93ojzfxvknernkawbf0vej4pu6cs){rel="[\"nofollow\"]"} and the [LINE MINI App Platform Terms of Use](https://workers-hub.ent.box.com/file/2004996590312?s=x0gidw3btszsb868p5307xse3h6ofeze){rel="[\"nofollow\"]"} mentioned in the [changes](#line-mini-app-platform-terms-of-use-changes-20251020).
+We've corrected an error in the revision date stated in the revised versions of [LINEミニアプリプラットフォーム規約](https://workers-hub.ent.box.com/s/6ysx93ojzfxvknernkawbf0vej4pu6cs){rel="[\"nofollow\"]"} and the [LINE MINI App Platform Terms of Use](https://workers-hub.ent.box.com/s/x0gidw3btszsb868p5307xse3h6ofeze){rel="[\"nofollow\"]"} mentioned in the [changes](#line-mini-app-platform-terms-of-use-changes-20251020).
 
 | Terms of use after the revision     | Before              | After (current)     |
 | ----------------------------------- | ------------------- | ------------------- |
@@ -40,10 +40,10 @@ The "LINE MINI App Platform Terms of Use" for Japan are scheduled to be revised 
 
 The terms of use before and after the revision are as follows:
 
-| Countries and regions | Language | Before the revision (current)                                                                                                      | After the revision                                                                                                                                 |
-| --------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Japan                 | Japanese | [LINEミニアプリプラットフォーム規約](https://terms2.line.me/LINE_Developers_MINI_App_JP?country=JP&lang=ja){rel="[\"nofollow\"]"}                 | [LINEミニアプリプラットフォーム規約](https://workers-hub.ent.box.com/file/1989333438913?s=6ysx93ojzfxvknernkawbf0vej4pu6cs){rel="[\"nofollow\"]"}                 |
-| Japan                 | English  | [LINE MINI App Platform Terms of Use](https://terms2.line.me/LINE_Developers_MINI_App_JP?country=JP&lang=en){rel="[\"nofollow\"]"} | [LINE MINI App Platform Terms of Use](https://workers-hub.ent.box.com/file/2004996590312?s=x0gidw3btszsb868p5307xse3h6ofeze){rel="[\"nofollow\"]"} |
+| Countries and regions | Language | Before the revision (current)                                                                                                      | After the revision                                                                                                              |
+| --------------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Japan                 | Japanese | [LINEミニアプリプラットフォーム規約](https://terms2.line.me/LINE_Developers_MINI_App_JP?country=JP&lang=ja){rel="[\"nofollow\"]"}                 | [LINEミニアプリプラットフォーム規約](https://workers-hub.ent.box.com/s/6ysx93ojzfxvknernkawbf0vej4pu6cs){rel="[\"nofollow\"]"}                 |
+| Japan                 | English  | [LINE MINI App Platform Terms of Use](https://terms2.line.me/LINE_Developers_MINI_App_JP?country=JP&lang=en){rel="[\"nofollow\"]"} | [LINE MINI App Platform Terms of Use](https://workers-hub.ent.box.com/s/x0gidw3btszsb868p5307xse3h6ofeze){rel="[\"nofollow\"]"} |
 
 We won't revise the "LINE MINI App Platform Terms of Use" for Thailand and Taiwan:
 

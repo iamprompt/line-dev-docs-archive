@@ -9,7 +9,7 @@ meta: >-
   Firebase, Vue.js,  SQL, PHP, NLP, IoT,
   AI","git":"https://github.com/kamnan43","fb":"https://www.facebook.com/sitthi.thiammekha","twitter":""}
 path: /en/community/api-experts/th-sitthi-thiammekha
-__hash__: VyMakcVNhkwix--ieZwioLrWX0VeyK_5pZ0ByJsZdQA
+__hash__: jGyv9VtE1WRGOUvHXyjc4cm2S-yf7ENB-3I0ddmu3tU
 seo:
   title: LINE API Expert - Sitthi Thiammekha
   description: ''
@@ -41,7 +41,7 @@ With nearly two decades in software, Sitthi, a Thai technology entrepreneur, evo
     ::::
 
     ::::lae-activity{date="2021/08/02"}
-    [Handle Non-Text Event with Dialogflow](https://codelab.line.me/codelabs/handle-non-text-event-with-dialogflow){rel="[\"nofollow\"]"}  
+    [Handle Non-Text Event with Dialogflow](https://codelab.line.me/codelabs/handle-non-text-event-with-dialogflow/){rel="[\"nofollow\"]"}  
 
     Type: **Codelab**  
 

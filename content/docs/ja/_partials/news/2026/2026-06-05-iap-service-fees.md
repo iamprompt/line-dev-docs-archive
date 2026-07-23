@@ -5,7 +5,7 @@ description: >-
   LINEミニアプリのアプリ内課金機能は、より多くのお客様にご活用いただけるよう、2026年6月末まで手数料無料で提供しております。2026年7月1日以降は、所定の手数料を適用いたします。
 meta: '{"date":"2026-06-05 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-06-05-iap-service-fees
-__hash__: sh7EFnDmon6InLiuJHfSwyiuIfPS5SvgDtpaqvhYZwg
+__hash__: v3hnDTGpZO1WJDnCUGagYrpVBpjbpwKRpUJMAqjdh34
 seo:
   title: LINEミニアプリのアプリ内課金における手数料無料期間の終了および利用規約の改定について
   description: >-
@@ -37,8 +37,8 @@ LINEミニアプリの[アプリ内課金機能](/docs/line-mini-app/in-app-purc
 
 改定前と改定後の差異は次のとおりです。
 
-| 改定前（現在）                                                                                                  | 改定後                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [LINEアプリ内課金利用規約（LINEミニアプリ提供者向け）](https://terms2.line.me/LINE_MINI_App_IAP?lang=ja){rel="[\"nofollow\"]"} | [LINEアプリ内課金利用規約（LINEミニアプリ提供者向け）](https://workers-hub.box.com/s/nf2g7lbay14jhuuapgj9z2tm295naitr){rel="[\"nofollow\"]"} |
+| 改定前（現在）                                                                                                  | 改定後                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [LINEアプリ内課金利用規約（LINEミニアプリ提供者向け）](https://terms2.line.me/LINE_MINI_App_IAP?lang=ja){rel="[\"nofollow\"]"} | [LINEアプリ内課金利用規約（LINEミニアプリ提供者向け）](https://workers-hub.ent.box.com/s/nf2g7lbay14jhuuapgj9z2tm295naitr){rel="[\"nofollow\"]"} |
 
 LINEヤフー株式会社は、今後もお客様への一層のサービス向上に取り組んでまいります。何卒ご理解を賜りますよう、よろしくお願い申し上げます。

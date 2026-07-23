@@ -9,7 +9,7 @@ description: >-
   applicable service fees will be charged.
 meta: '{"date":"2026-06-05 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-06-05-iap-service-fees
-__hash__: JkWiDv_9zS1iq0aCQ3PeGUnpCUX-QyT1eeEpQrsX6Uc
+__hash__: i2UOij5DuF0CwJVwFI6q0j0tEm20hzYpjjeI1RStUG4
 seo:
   title: >-
     End of the no-fee period and revisions to the In-App Purchase Terms of Use
@@ -45,14 +45,14 @@ Main revisions:
 
 The differences between before and after the revision are as follows:
 
-| Before the revision (current)                                                                                                                                    | After the revision                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [(Reference translation) LINE In-App Purchase Terms of Use (for LINE MINI App Provider)](https://terms2.line.me/LINE_MINI_App_IAP?lang=en){rel="[\"nofollow\"]"} | [(Reference translation) LINE In-App Purchase Terms of Use (for LINE MINI App Provider)](https://workers-hub.box.com/s/l6vyav1z0qigh0kgzfwehclnh93fnktc){rel="[\"nofollow\"]"} |
+| Before the revision (current)                                                                                                                                    | After the revision                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [(Reference translation) LINE In-App Purchase Terms of Use (for LINE MINI App Provider)](https://terms2.line.me/LINE_MINI_App_IAP?lang=en){rel="[\"nofollow\"]"} | [(Reference translation) LINE In-App Purchase Terms of Use (for LINE MINI App Provider)](https://workers-hub.ent.box.com/s/l6vyav1z0qigh0kgzfwehclnh93fnktc){rel="[\"nofollow\"]"} |
 
 ::admonition{title="Disclaimer" type="note"}
 These English translations are provided for reference purposes only. Only the Japanese version shall be regarded as original and the English translation shall have no legal effect.
 
-- Japanese: [Current version](https://terms2.line.me/LINE_MINI_App_IAP?lang=ja){rel="[\"nofollow\"]"} / [Revised version](https://workers-hub.box.com/s/nf2g7lbay14jhuuapgj9z2tm295naitr){rel="[\"nofollow\"]"}
+- Japanese: [Current version](https://terms2.line.me/LINE_MINI_App_IAP?lang=ja){rel="[\"nofollow\"]"} / [Revised version](https://workers-hub.ent.box.com/s/nf2g7lbay14jhuuapgj9z2tm295naitr){rel="[\"nofollow\"]"}
 ::
 
 We'll continue to work to further improve our service to our customers. Thank you for your understanding.

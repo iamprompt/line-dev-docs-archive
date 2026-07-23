@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/differences-between-liff-browser-and-external-browser
-__hash__: gr8PgtAFtCfarutWB80RL9xZU2qwr0XOZDB3_l4f0oU
+__hash__: sWn0C8QM1Hg-1Sccq73nzvhJcYCzU4L19YROmDbUnIg
 seo:
   title: LIFFブラウザと外部ブラウザの違い
   description: ''
@@ -22,7 +22,7 @@ seo:
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [theme-color Meta Tag](https://caniuse.com/meta-theme-color){rel="[\"nofollow\"]"}         | ユーザーインターフェースの色を指定する機能                                                                                                                                                                                                                                                                                                                                                                                               |
 | [Download attribute](https://caniuse.com/download){rel="[\"nofollow\"]"}                   | ハイパーリンクを、リソースへの遷移ではなく、リソースのダウンロードに使用する機能                                                                                                                                                                                                                                                                                                                                                                            |
-| [Add to home screen (A2HS)](https://caniuse.com/sr_web-app-manifest){rel="[\"nofollow\"]"} | ユーザーがウェブアプリケーションを端末のホーム画面に追加できるようにする機能。  なお、LINEミニアプリでは、[マルチタブビュー](/docs/line-mini-app/discover/builtin-features/#multi-tab-view)の［**ホーム画面に追加**］や[`liff.createShortcutOnHomeScreen()`](/reference/liff/#create-shortcut-on-home-screen)メソッドを使うことで、ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できます。詳しくは、『LINEミニアプリドキュメント』の「[ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する](/docs/line-mini-app/develop/add-to-home-screen/)」を参照してください。 |
+| [Add to home screen (A2HS)](https://caniuse.com/sr-web-app-manifest){rel="[\"nofollow\"]"} | ユーザーがウェブアプリケーションを端末のホーム画面に追加できるようにする機能。  なお、LINEミニアプリでは、[マルチタブビュー](/docs/line-mini-app/discover/builtin-features/#multi-tab-view)の［**ホーム画面に追加**］や[`liff.createShortcutOnHomeScreen()`](/reference/liff/#create-shortcut-on-home-screen)メソッドを使うことで、ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できます。詳しくは、『LINEミニアプリドキュメント』の「[ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する](/docs/line-mini-app/develop/add-to-home-screen/)」を参照してください。 |
 | [Service Workers](https://caniuse.com/serviceworkers){rel="[\"nofollow\"]"}                | ウェブアプリケーションでオフライン対応、バックグラウンド同期、プッシュ通知などをできるようにする機能                                                                                                                                                                                                                                                                                                                                                                  |
 
 なお、上記のウェブ技術については、今後、LIFFブラウザがサポートする可能性があります。

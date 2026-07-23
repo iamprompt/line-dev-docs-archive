@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login/security-checklist
-__hash__: WHvsXfB7moVzQzHeV3N5ulUaw9fq2yhYT6ldn0Ff56A
+__hash__: gQ-Dx0R7UhrfEE9mWqiGmxjPpI48KjQSiZ7UZf3H_uk
 seo:
   title: LINEログインのセキュリティチェックリスト
   description: null
@@ -16,7 +16,7 @@ seo:
 
 このページでは、LINEログインをアプリに組み込む時に、セキュリティの不備が無いようにするためのチェックリストを公開しています。開発したアプリをリリースする前に、チェックリストの内容を確認してください。
 
-また、LINE DEVELOPER DAY 2020のセッション「[具体例で学ぶ、LINE Loginを利用した安心・安全な認証・認可機能の実装方法](https://linedevday.linecorp.com/2020/ja/sessions/7159/){rel="[\"nofollow\"]"}」も併せて確認することをおすすめします。
+また、LINE DEVELOPER DAY 2020のセッション「具体例で学ぶ、LINE Loginを利用した安心・安全な認証・認可機能の実装方法」（[スライド](https://speakerdeck.com/line_devday2020/implementing-safe-and-secure-line-login){rel="[\"nofollow\"]"}／[動画](https://youtu.be/iM6lzh9nDoA){rel="[\"nofollow\"]"}）も併せて確認することをおすすめします。
 
 ::admonition{title="チェックリストの目的を理解した上で、安全なシステムを構築してください" type="tip"}
 このチェックリストには、LINEログインを実装する上で特に注意すべき点を抜粋して記載しています。チェックリストの内容を満たせば、セキュリティが担保されるわけではありません。危険性を十分に理解した上で、安全なシステムを構築してください。

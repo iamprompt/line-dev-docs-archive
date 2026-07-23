@@ -6,7 +6,7 @@ navigation: true
 description: At LINE DEVELOPER DAY 2021, there were two sessions on LIFF.
 meta: '{"date":"2021-11-11 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2021/2021-11-11-line-developer-day-liff-sessions
-__hash__: 8z9hz0NoA0uPI7Lam4pG2EKMKlxceyKiP7DjAuRGP8I
+__hash__: 1lvf8RYEr2TZ0PNEntVGWlRXzN0gGgMZgo6pTYvf_ec
 seo:
   title: >-
     Introducing the LIFF features shared during the LIFF sessions at LINE
@@ -16,8 +16,8 @@ seo:
 
 At LINE DEVELOPER DAY 2021, there were two sessions on LIFF.
 
-- [Introduction to LIFF/LINE Mini App - Characteristics and Practical Development](https://linedevday.linecorp.com/2021/en/sessions/151/){rel="[\"nofollow\"]"}
-- [For Improvement of Developer Experience of All LIFF App Developers](https://linedevday.linecorp.com/2021/en/sessions/142/){rel="[\"nofollow\"]"}
+- Introduction to LIFF/LINE Mini App - Characteristics and Practical Development ([slides](https://speakerdeck.com/line_devday2021/line-mini-app-characteristics-and-practical-development){rel="[\"nofollow\"]"}/[video](https://youtu.be/y9swvFTjdi8){rel="[\"nofollow\"]"})
+- For Improvement of Developer Experience of All LIFF App Developers ([slides](https://speakerdeck.com/line_devday2021/for-improvement-of-developer-experience-of-all-liff-app-developers){rel="[\"nofollow\"]"}/[video](https://youtu.be/9e4zzZUhziU){rel="[\"nofollow\"]"})
 
 Here are some references and documentation related to the LIFF features introduced during the sessions. Take a look if there's a feature that you're interested in or thinking about using.
 

@@ -4,7 +4,7 @@ navigation: true
 description: Make a reply bot with Node.js
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/nodejs-sample
-__hash__: Yty0HYXnNx4JB4AsZzqQrBKCc6ARJ3chMjh3fOcfjv8
+__hash__: Iox3lfhrqEPE5Db_wjz5goG6nthhVIdqQmOewOP7Xj0
 seo:
   title: Tutorial - Make a reply bot
   description: Make a reply bot with Node.js
@@ -43,7 +43,7 @@ Install these tools:
 
 - [Node.js](https://nodejs.org/en){rel="[\"nofollow\"]"}
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli){rel="[\"nofollow\"]"}
-- [Git](https://git-scm.com/downloads){rel="[\"nofollow\"]"}
+- [Git](https://git-scm.com/install/){rel="[\"nofollow\"]"}
 
 ## 1. Set up Heroku
 

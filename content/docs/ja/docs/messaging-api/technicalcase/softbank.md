@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/softbank
-__hash__: uZ6Q-C4QdIYX2gdpF9u-d-n77ketOTAsZwp4_ETlmxo
+__hash__: XLK61-Di8p5weOjb6Zzzkm9EAN5Bpv0rH90Ba4iZL3k
 seo:
   title: LINEを活用したサービス開発に Infrastructure as “Low” Code を導入！ CNAPによる開発効率化事例
   description: ''
@@ -91,6 +91,6 @@ CNAPではアプリケーションのインフラレイヤーを抽象化、さ�
 
 ## ユーザー導入事例関連リンク
 
-- [クラウドネイティブ・アプリケーションプラットフォーム（CNAP）](https://www.softbank.jp/biz/services/platform/msp-service/cnap/){rel="[\"nofollow\"]"}
-- [MSPサービス](https://www.softbank.jp/biz/services/platform/msp-service/){rel="[\"nofollow\"]"}
+- [クラウドネイティブ・アプリケーションプラットフォーム（CNAP）](https://www.softbank.jp/business/service/platform/msp-service/cnap){rel="[\"nofollow\"]"}
+- [MSPサービス](https://www.softbank.jp/business/service/platform/msp-service/){rel="[\"nofollow\"]"}
 - [ソフトバンク株式会社](https://www.softbank.jp/business/){rel="[\"nofollow\"]"}

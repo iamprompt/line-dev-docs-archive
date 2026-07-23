@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/nodejs-sample
-__hash__: AJwaEJTIHaCbjGOt9u0fO60vThIJ4T5XrnnN3V3lk9w
+__hash__: xNWVe01lixDIDpv-c8RdsHOh9NnZVxd6VVBIJjS1ZwU
 seo:
   title: チュートリアル - 応答ボットを作る
   description: null
@@ -43,7 +43,7 @@ Herokuの無料プランは、2022年11月27日をもって廃止されました
 
 - [Node.js](https://nodejs.org/en){rel="[\"nofollow\"]"}
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli){rel="[\"nofollow\"]"}
-- [Git](https://git-scm.com/downloads){rel="[\"nofollow\"]"}
+- [Git](https://git-scm.com/install/){rel="[\"nofollow\"]"}
 
 ## 1. Herokuの設定
 

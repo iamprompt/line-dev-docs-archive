@@ -9,7 +9,7 @@ meta: >-
   Cloud, SaaS,
   NLP/NLU","git":"https://github.com/godgunman","fb":"https://www.facebook.com/godgunman","twitter":"https://twitter.com/godgunman"}
 path: /en/community/api-experts/tw-kuan-hung-kuo
-__hash__: n_5LuH1gKv2ihf-TAUPJYpQBaobeddL_3mTCGD_MGtQ
+__hash__: unqF92ZNlKYG7rI9wIxiTYvqrKdt2ZWo_fACTLIXZXc
 seo:
   title: LINE API Expert - Kuan-Hung Kuo
   description: ''
@@ -20,8 +20,7 @@ seo:
 Please check here [https://www.linkedin.com/in/ggmkuo/](https://www.linkedin.com/in/ggmkuo/){rel="[\"nofollow\"]"}
 
 #undefined
-Bot: [真的假的 - 轉傳訊息_證: @cofacts](https://beta.hackfoldr.org/cofacts){rel="[\"nofollow\"]"}
-Bot: [MedPartner美的好朋友 @wyt3898a](https://www.medpartner.club/){rel="[\"nofollow\"]"}[hatBot Class in NTU CSIE Training Program](https://train.csie.ntu.edu.tw/train/){rel="[\"nofollow\"]"}
+Bot: [真的假的 - 轉傳訊息_證: @cofacts](https://beta.hackfoldr.org/cofacts){rel="[\"nofollow\"]"} Bot: [MedPartner美的好朋友 @wyt3898a](https://www.medpartner.club/){rel="[\"nofollow\"]"} [hatBot Class in NTU CSIE Training Program](https://train.csie.ntu.edu.tw/school/){rel="[\"nofollow\"]"}
 
 #undefined
 :::lae-activities

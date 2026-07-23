@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-10-28 01:00 UTC","tags":"docs, line-platform, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2021/2021-10-28-line-developer-day-2021
-__hash__: '-knhqDODQBJdSkOI8dPSz3vf_mNgrLuIle5BnCNEczo'
+__hash__: c20JdCP0D9sYMAO9NVAI4eOe1fAaWjOn2dFZJBlUJoY
 seo:
   title: 11月10日・11日 LINE DEVELOPER DAY 2021を開催します
   description: >-
@@ -20,8 +20,8 @@ LINE DEVELOPER DAY 2021は、LINEが11月10日、11日の2日間に開催する�
 
 LINE DEVELOPER DAY 2021では50以上のセッションが配信されます。その中で:glossary-tooltip[[LINE API](/glossary/#line-api)]{glossary-id="line-api"}や[LINE Developersサイト](/)に関連する主なセッションはこちらです。
 
-- [DAY2 15:40 ～ 16:00 LIFF/LINEミニアプリ超入門 - 特徴と実践的な開発](https://linedevday.linecorp.com/2021/ja/sessions/151/){rel="[\"nofollow\"]"}
-- [DAY2 16:00 ～ 16:20 すべてのLIFFアプリ開発者の開発体験を向上させるために](https://linedevday.linecorp.com/2021/ja/sessions/142/){rel="[\"nofollow\"]"}
-- [DAY2 16:40 ～ 17:20 LINEの開発者向けドキュメントを支える「テクニカルライティング」の専門チーム](https://linedevday.linecorp.com/2021/ja/sessions/148/){rel="[\"nofollow\"]"}
+- DAY2 15:40 ～ 16:00 LIFF/LINEミニアプリ超入門 - 特徴と実践的な開発（[スライド](https://speakerdeck.com/line_devday2021/line-mini-app-characteristics-and-practical-development){rel="[\"nofollow\"]"}／[動画](https://youtu.be/fajNObhitzI){rel="[\"nofollow\"]"}）
+- DAY2 16:00 ～ 16:20 すべてのLIFFアプリ開発者の開発体験を向上させるために（[スライド](https://speakerdeck.com/line_devday2021/for-improvement-of-developer-experience-of-all-liff-app-developers){rel="[\"nofollow\"]"}／[動画](https://youtu.be/QD_M52ATbb8){rel="[\"nofollow\"]"}）
+- DAY2 16:40 ～ 17:20 LINEの開発者向けドキュメントを支える「テクニカルライティング」の専門チーム（[スライド](https://speakerdeck.com/line_devday2021/specialized-technical-writing-team-to-provide-documentation-for-line-developers){rel="[\"nofollow\"]"}／[動画](https://youtu.be/HjKvDK50iY0){rel="[\"nofollow\"]"}）
 
 申込方法や開催時間、セッション内容について詳しくは、[LINE DEVELOPER DAY 2021公式サイト](https://linedevday.linecorp.com/2021/ja/){rel="[\"nofollow\"]"}を参照してください。

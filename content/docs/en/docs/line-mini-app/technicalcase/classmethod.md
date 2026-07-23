@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/technicalcase/classmethod
-__hash__: pXfxEQ7zxdyRVLlA9JyNyVZI87032DDQw3wvGSuzSSU
+__hash__: mwEkrkX3OboLYSMCAb0S3c6MzHtznZnrzXl5KSQqoME
 seo:
   title: A case study of mobile order system CX ORDER
   description: ''
@@ -25,7 +25,7 @@ With its mission to "empower creativity for everyone", Classmethod provides tech
 
 ## The service provider’s thoughts on developing the system
 
-Although we are an IT company, we also operate a fully cashless café in Akihabara called "[DevelopersIO CAFE](https://cafe.classmethod.jp/){rel="[\"nofollow\"]"}."*
+Although we are an IT company, we also operate a fully cashless café in Akihabara called "DevelopersIO CAFE".*
 
 Drawing on our experience developing and operating various online sales channels—such as LINE, websites, and native apps—we released [CX ORDER](https://cxorder.jp/lp/){rel="[\"nofollow\"]"}, a cloud service that provides mobile ordering functionality through LINE MINI Apps.
 

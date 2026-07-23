@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-profile
-__hash__: s05EkQPMedr3REWImr8ol4ICZV8y4ISNQJ_M46CLsCs
+__hash__: Hx9al0l_HMmgjNahwHibzA5VWZdnGLp2Jbth84jO2GA
 seo:
   description: ''
 ---
@@ -114,7 +114,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       String
 
-      User's language, as a [BCP 47](https://www.rfc-editor.org/info/bcp47){rel="[\"nofollow\"]"} language tag. Not included in the response if the user hasn't yet consented to the LY Corporation Privacy Policy.  
+      User's language, as a [BCP 47](https://www.rfc-editor.org/info/bcp47/){rel="[\"nofollow\"]"} language tag. Not included in the response if the user hasn't yet consented to the LY Corporation Privacy Policy.  
 
       e.g. `en` for English.
       :::::

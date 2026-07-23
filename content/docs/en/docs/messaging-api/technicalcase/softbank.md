@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/softbank
-__hash__: T1Hnm2Xh4gSCnL0U2J77Qq5HZP_ExSQsDJfmjVujCbM
+__hash__: z66EAUse0FoZSBSMuBm7h6TCZ-Ce1boRdGg1yW-m67w
 seo:
   title: >-
     Introducing infrastructure as low code for LINE-based service development
@@ -95,6 +95,6 @@ As mentioned earlier, LINE has an exceptionally large active user base. As a res
 
 ## Related links
 
-- [Cloud-Native Application Platform（CNAP）](https://www.softbank.jp/biz/services/platform/msp-service/cnap/){rel="[\"nofollow\"]"}
-- [MSP Service](https://www.softbank.jp/biz/services/platform/msp-service/){rel="[\"nofollow\"]"}
+- [Cloud-Native Application Platform（CNAP）](https://www.softbank.jp/business/service/platform/msp-service/cnap){rel="[\"nofollow\"]"}
+- [MSP Service](https://www.softbank.jp/business/service/platform/msp-service/){rel="[\"nofollow\"]"}
 - [SoftBank Corp.](https://global.tm.softbank.jp/en/){rel="[\"nofollow\"]"}

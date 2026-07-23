@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/technicalcase/classmethod
-__hash__: MjnYwi6o-iXiUEqgblkygG4yeQEzk-FwJ1m1fpxxiMc
+__hash__: uctRJtr15w7LXpLIY8l4GOcUuMjnKIwjT-DV00muqMk
 seo:
   title: モバイルオーダーシステム「CX ORDER」の開発事例
   description: ''
@@ -25,7 +25,7 @@ seo:
 
 ## サービス提供者様の今回のシステム開発への想い
 
-クラスメソッド株式会社はIT企業ですが、秋葉原で完全キャッシュレスのカフェ店舗「[DevelopersIO CAFE](https://cafe.classmethod.jp/){rel="[\"nofollow\"]"}」を運営しております。※
+クラスメソッド株式会社はIT企業ですが、秋葉原で完全キャッシュレスのカフェ店舗「DevelopersIO CAFE」を運営しております。※
 
 さまざまなオンラインの販売チャネル（LINE, Web, ネイティブアプリ）を開発・運用した経験をもとに、モバイルオーダー機能をLINEミニアプリとして提供するクラウドサービス「[CX ORDER](https://cxorder.jp/lp/){rel="[\"nofollow\"]"}」としてリリースしました。
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/security-checklist
-__hash__: Ad8QWxXw1HSb731Fe_WUV6DvqfpETK4V1vc3EbPGSsw
+__hash__: _1fnpHj2c04UNgZJlCJod2RyhOPCJtBIPgBtsdFmbHE
 seo:
   title: LINE Login security checklist
   description: null
@@ -16,7 +16,7 @@ seo:
 
 We provide a checklist to ensure that there are no security flaws when integrating LINE Login into your application. Use the checklist to validate your application before publishing.
 
-We also recommend confirming the session "[Implementing safe and secure LINE Login](https://linedevday.linecorp.com/2020/en/sessions/7159/){rel="[\"nofollow\"]"}" at LINE DEVELOPER DAY 2020.
+We also recommend confirming the session "Implementing safe and secure LINE Login" ([slides](https://speakerdeck.com/line_devday2020/implementing-safe-and-secure-line-login){rel="[\"nofollow\"]"}/[video](https://youtu.be/mWtuq6eQtWY){rel="[\"nofollow\"]"}) at LINE DEVELOPER DAY 2020.
 
 ::admonition
 ---
