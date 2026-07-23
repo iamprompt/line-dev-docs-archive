@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/business-manager-link
-__hash__: d-FgrHcQF3p6BY4MdFzAZNysfEGgDEnmuFJB5_5o834
+__hash__: VL1dwFaUuadNubgw0tOGDB4a4pf9sPYVSWV8nV8K8wQ
 seo:
   title: Link a LINE MINI App channel to a Business Manager organization
   description: ''
@@ -28,8 +28,9 @@ To link a LINE MINI App channel to a Business Manager organization, all of the f
 
 .
 - **Region to provide the service** for the LINE MINI App channel is set to "Japan".
-- The provider and the service company of your LINE MINI App for Published must match (*).
+- The provider and the service company of the LINE MINI App for Published must match (*).
 - **Region** for the Business Manager organization is set to "Japan".
+- **Company or owner's country or region** for the LINE MINI App channel and **Company/business owner's country or region** for the Business Manager organization must match.
 
 * On the **Business information** tab of the published data for the LINE MINI App channel, one of the following conditions must be met:
 

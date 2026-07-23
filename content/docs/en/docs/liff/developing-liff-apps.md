@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/developing-liff-apps
-__hash__: _6aXm0O3uOg-UEz-fiPKmH2VTMXfS1V257mW4_8jPIM
+__hash__: xeR-gXVGa7kFGKILWbpVAaYwmzEBQ7s9jI28mUXvhxw
 seo:
   title: Developing a LIFF app
   description: ''

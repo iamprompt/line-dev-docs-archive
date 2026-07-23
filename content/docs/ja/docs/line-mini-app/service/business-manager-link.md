@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/business-manager-link
-__hash__: gr1WPSrWk_5rEDIsP5yLAeSe9-VuMHEIk3UI7FP-E74
+__hash__: GoL90K7yuTvJrDlc_18_5XmwnYZZcpI18SQ1Moqw-ic
 seo:
   title: LINEミニアプリチャネルをビジネスマネージャーの組織と接続する
   description: ''
@@ -30,6 +30,7 @@ LINEミニアプリチャネルをビジネスマネージャーの組織と接�
 - LINEミニアプリチャネルの［**サービスを提供する地域**］が「日本」である。
 - 本番用のLINEミニアプリのプロバイダーとサービス事業主が一致している（※）。
 - ビジネスマネージャーの組織の［**地域**］が「日本」である。
+- LINEミニアプリチャネルとビジネスマネージャーの組織の［**会社・事業者の所在国・地域**］が一致している。
 
 ※ LINEミニアプリチャネルの公開済みデータの［**事業情報**］タブにおいて、以下のいずれかを満たす必要があります。
 
