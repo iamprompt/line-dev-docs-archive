@@ -1,30 +1,36 @@
 ---
-title: 【更新】LINEプラットフォーム障害のお知らせ
+title: 【復旧済み／更新】LINEプラットフォーム障害のお知らせ
 navigation: true
 description: ''
 meta: >-
   {"date":"2026-07-28 00:00 UTC","tags":"outage-report, line-platform,
   line-login, liff, line-mini-app, messaging-api, console","locale":"ja"}
 path: /ja/_partials/news/2026/2026-07-28-messaging-api-outage
-__hash__: 6K573ST0GplUU5C-fyzBmbRCQNyQh64Y31lJPQ4zN28
+__hash__: ke9WBYkSFpTecsESDtzwmmZIwy0OofW77ORQMm0bc0w
 seo:
-  title: 【更新】LINEプラットフォーム障害のお知らせ
+  title: 【復旧済み／更新】LINEプラットフォーム障害のお知らせ
   description: ''
 ---
+
+::admonition{title="2026年7月29日追記" type="note"}
+復旧に伴い、「[発生日時](#messaging-api-outage-date-20260728)」および「[状況](#messaging-api-outage-details-20260728)」を更新しました。
+::
 
 ::admonition{title="2026年7月28日追記" type="note"}
 「[影響範囲](#messaging-api-outage-impact-20260728)」および「[状況](#messaging-api-outage-details-20260728)」を更新しました。
 ::
 
-LINEプラットフォームにおいて以下の障害が発生しております。お客様には多大なご迷惑をお掛けし、誠に申し訳ございません。
+LINEプラットフォームにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。
 
 ## 発生日時
 
-2026年7月28日 16:45頃（UTC+9）（継続中）
+2026年7月28日 16:46頃 〜 21:11頃（UTC+9）
 
 ## 原因
 
 調査中
+
+原因については、調査が完了し次第、情報を更新します。
 
 ## 影響範囲
 
@@ -44,20 +50,23 @@ LINEプラットフォームにおいて以下の障害が発生しておりま�
 
 ### Messaging API
 
-[Messaging API](/docs/messaging-api/)で提供している機能が正常に利用できない事象が発生しております。
+- Webhookイベントの送信が遅延、もしくは正常に行われない場合がありました。
+- 一部のリクエストを正常に処理できず、ステータスコード500番台のエラーが発生していました。
 
 ### LINEログイン
 
-[友だち追加オプション](/docs/line-login/link-a-bot/)を利用した友だち追加や、ブロックの解除の処理が正常に行われない場合があります。
+[友だち追加オプション](/docs/line-login/link-a-bot/)を利用した友だち追加や、ブロックの解除の処理が正常に行われない場合がありました。
 
 ### LIFF/LINEミニアプリ
 
-[友だち追加オプション](/docs/line-login/link-a-bot/)や[`liff.requestFriendship()`](/reference/liff/#request-friendship)メソッドを利用した友だち追加や、ブロックの解除の処理が正常に行われない場合があります。
+- [友だち追加オプション](/docs/line-login/link-a-bot/)や[`liff.requestFriendship()`](/reference/liff/#request-friendship)メソッドを利用した友だち追加や、ブロックの解除の処理が正常に行われない場合がありました。
+- [サービスメッセージ](/docs/line-mini-app/develop/service-messages/)の送信が遅延、もしくは正常に行われない場合がありました。
 
 ### LINE Developersコンソール
 
-各チャネルの設定変更が正常に行われない場合があります。
+各チャネルの設定変更が正常に行われない場合がありました。
 
-現在も引き続き調査を行っております。詳細は追ってお知らせいたします。
+  
+なお障害発生時は、LINE API Statusにて速報をお知らせしております。詳しくは、『LINEプラットフォームの基礎知識』の「[LINEプラットフォームの稼働状況を確認する（LINE API Status）](/docs/basics/line-api-status/)」を参照してください。
 
-なお、最新の状況は[LINE API Status](https://api.line-status.info/incidents/ffzrh28hv6t1){rel="[\"nofollow\"]"}でお知らせしております。
+LINEヤフー株式会社は今後もお客様への一層のサービス向上に取り組んでまいります。何卒ご理解を賜りますよう、よろしくお願い申し上げます。
