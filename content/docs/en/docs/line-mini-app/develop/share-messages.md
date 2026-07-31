@@ -5,7 +5,7 @@ description: Learn how to implement your custom action button on LINE MINI App.
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/develop/share-messages
-__hash__: xd576jsKWY8Ggref0TWlH_jEPpDAkUR0LA_BKcsewZg
+__hash__: ALkgoo6EwVGDTy5f449r-S6FMWrdgfFu-dgfiE0zygs
 seo:
   title: Implementing a custom action button
   description: Learn how to implement your custom action button on LINE MINI App.
@@ -39,11 +39,11 @@ If a user accesses existing `https://liff.line.me/{liffId}`, the LINE MINI App w
 
 ### Using share target picker
 
-Implement a custom action button in the body and display the target picker (screen for selecting a group or friend) when the button is tapped. When the user selects the recipient in the target picker, the user can send the share message created by the developer, such as [Flex Message](/docs/messaging-api/using-flex-messages/).
+Implement a custom action button in the body and display the target picker (a screen for selecting a recipient) when the button is tapped. When the user selects the recipient in the target picker, the user can send the share message created by the developer, such as [Flex Message](/docs/messaging-api/using-flex-messages/).
 
 ![target picker](/media/liff/share-target-picker_tobe_en.png){className="[\"border\",\"w-fix-280\"]"}
 
-See [Sending messages to a user's friend](/docs/liff/developing-liff-apps/#share-target-picker) for detailed guide on using the share target picker.
+For more information about how to use the share target picker, see [Sending messages to a user's friend](/docs/liff/developing-liff-apps/#share-target-picker).
 
 ### Custom share message format
 

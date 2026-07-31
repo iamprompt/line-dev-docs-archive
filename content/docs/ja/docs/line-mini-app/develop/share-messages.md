@@ -5,7 +5,7 @@ description: LINEミニアプリでカスタムアクションボタンを実装
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/develop/share-messages
-__hash__: 3MXGCeq7hw2lkF4De4RjoM-oBxKLv8VYglnImEgm5Ck
+__hash__: LjlOP2wzgxdYfo9vBm7AOGzRAcrD0Z3E--bydOzZ3vY
 seo:
   title: カスタムアクションボタンを実装する
   description: LINEミニアプリでカスタムアクションボタンを実装する方法を説明します。
@@ -35,7 +35,7 @@ seo:
 
 ### シェアターゲットピッカーの利用
 
-ボディにカスタムアクションボタンを配置し、ボタンがタップされたときに、ターゲットピッカー（グループまたは友だちを選択する画面）を表示するように実装してください。ターゲットピッカーでユーザーが送信相手を選択すると、[Flex Message](/docs/messaging-api/using-flex-messages/)など、開発者が作成したメッセージを送信できます。
+ボディにカスタムアクションボタンを配置し、ボタンがタップされたときに、ターゲットピッカー（送信先を選択する画面）を表示するように実装してください。ターゲットピッカーでユーザーが送信相手を選択すると、[Flex Message](/docs/messaging-api/using-flex-messages/)など、開発者が作成したメッセージを送信できます。
 
 ![target picker](/media/liff/share-target-picker_tobe_ja.png){className="[\"border\",\"w-fix-280\"]"}
 

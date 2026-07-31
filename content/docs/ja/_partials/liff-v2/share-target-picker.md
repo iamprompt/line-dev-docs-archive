@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/share-target-picker
-__hash__: 80tKSiD7B85hezNHLNW26GZnqSVlmoAikuQ2zy9RMvM
+__hash__: 4lNuYzHiZujOj34Zi-Maux4bo_pJaqfOwx04TEpp0JQ
 seo:
   description: ''
 ---
@@ -13,9 +13,11 @@ seo:
 
 ::reference-with-code
   :::reference-content
-  ターゲットピッカー（グループまたは友だちを選択する画面）を表示し、ターゲットピッカーで選択した相手に、開発者が作成したメッセージを送信します。このメッセージは、ユーザーが送信したかのように、グループまたは友だちに表示されます。
+  ターゲットピッカー（送信先を選択する画面）を表示し、ターゲットピッカーで選択した相手に、開発者が作成したメッセージを送信します。このメッセージは、ユーザーが送信したかのように、選択した送信先に表示されます。
 
-  ターゲットピッカーで選択できる対象は、ユーザーの友だち（LINE公式アカウントを含む）と、ユーザーが参加しているグループのみです。オープンチャットは含まれません。
+  ターゲットピッカーでは、グループ、友だち、トークから送信先を選択できます。オープンチャットは含まれません。
+
+  ターゲットピッカーで選択できる送信先について詳しくは、『LIFFドキュメント』の「[シェアターゲットピッカーで選択できる送信先](/docs/liff/developing-liff-apps/#share-target-picker-displayed-targets)」を参照してください。
 
   #### liff.shareTargetPicker()メソッドの使用条件
 
