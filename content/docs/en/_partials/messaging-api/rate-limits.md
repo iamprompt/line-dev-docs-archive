@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/rate-limits
-__hash__: ynnKJy6K-7JkDDsMLa8x5naQ9bY14QN2tNd_hXcqPU8
+__hash__: GZ8Lvl9ci4DFA4H9Fufe2hSn3adEzsxmiOdbZnjPUyY
 seo:
   description: ''
 ---
@@ -35,6 +35,14 @@ If you send requests exceeding the rate limit, you will receive an error message
 | Other API endpoints                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2,000 requests per second |
 
 * Creating and deleting rich menus using the :glossary-tooltip[[LINE Official Account Manager](/glossary/#line-oa-manager)]{glossary-id="line-oa-manager"} is not subject to this restriction.
+
+#### How rate limits work
+
+The Messaging API applies rate limits based on the [token bucket algorithm](https://en.wikipedia.org/wiki/Token_bucket){rel="[\"nofollow\"]"}, rather than resetting the number of requests all at once at fixed intervals.
+
+With the token bucket algorithm, tokens required to send requests are stored in a bucket with a fixed capacity. Each request consumes tokens, which are gradually added back to the bucket over time.
+
+If requests continue to consume tokens faster than tokens are refilled, the bucket will eventually run out of available tokens. Requests sent in this state will be subject to a rate limit and return a `429 Too Many Requests` response. As tokens are refilled over time, the number of requests that can be sent gradually increases again.
 
 #### Scope of rate limits
 

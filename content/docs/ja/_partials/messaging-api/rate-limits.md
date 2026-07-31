@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/rate-limits
-__hash__: FNAQhN4oZKnDOCd6--2K1Iok6FI7XHKLI2iuN9CwV90
+__hash__: 6jKSk0tvj9EMVK1IpGHZAT7QHVv_2l2fblTxyezikZI
 seo:
   description: ''
 ---
@@ -31,6 +31,14 @@ Messaging APIでは、チャネル単位かつAPI機能（エンドポイント�
 | 上記以外のエンドポイント                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2,000リクエスト/秒 |
 
 ※ :glossary-tooltip[[LINE Official Account Manager](/glossary/#line-oa-manager)]{glossary-id="line-oa-manager"}を使ってリッチメニューを作成・削除する場合は制限の対象外です。
+
+#### レート制限の仕組み
+
+Messaging APIのレート制限は、一定の時間が経過するたびにリクエスト数が一括でリセットされる仕組みではなく、[トークンバケット方式](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E3%83%90%E3%82%B1%E3%83%83%E3%83%88){rel="[\"nofollow\"]"}をベースに設計されています。
+
+トークンバケット方式では、リクエストの送信に必要なトークンが、上限のあるバケットに蓄えられます。リクエストを送信するとトークンが消費され、消費された分のトークンは時間の経過に応じて徐々にバケットに補充されます。
+
+リクエストの送信によるトークンの消費が補充を上回る状態が続くと、やがてバケット内の利用可能なトークンが不足します。この状態で送信されたリクエストはレート制限の対象となり、`429 Too Many Requests`が返されます。その後、時間の経過に応じてトークンが補充されることで、送信可能なリクエスト数も徐々に増加します。
 
 #### レート制限の範囲
 
