@@ -4,7 +4,7 @@ navigation: true
 description: LIFF APIのリリースノートです。最新のリリースと変更点について記載しています。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/liff/release-notes
-__hash__: 5qvnTYjXT-3xXEkDMffoeXC5vMup9Whl5bPm4zVxDOo
+__hash__: DZC-iv6FV7rMQ_YNxC0_L-7r7Ty1IuTWWaMVewkC1KM
 seo:
   title: リリースノート
   description: LIFF APIのリリースノートです。最新のリリースと変更点について記載しています。
@@ -26,13 +26,17 @@ LIFFでは、CDN固定パスとCDNエッジパスの2種類のCDNパスを用意
 
 CDNエッジパス（`https://static.line-scdn.net/liff/edge/2/sdk.js`）を使用する場合は、常にLIFF v2の最新機能を利用できます。
 
-[LIFF v2.29.1：2026年6月29日](#liff-v2-29-1)
+[LIFF v2.29.2：2026年7月31日](#liff-v2-29-2)
 
 ### バージョンリスト
 
-CDN固定パス（例：`https://static.line-scdn.net/liff/edge/versions/2.29.1/sdk.js`）を使用する場合は、LIFFの特定のバージョンの機能を利用できます。
+CDN固定パス（例：`https://static.line-scdn.net/liff/edge/versions/2.29.2/sdk.js`）を使用する場合は、LIFFの特定のバージョンの機能を利用できます。
 
-:toc{max-depth="2"}2026/06/29
+:toc{max-depth="2"}2026/07/31
+
+## LIFF v2.29.2をリリースしました
+
+:partial{content="news/2026/2026-07-31-release-liff-2-29-2/"}2026/06/29
 
 ## LIFF v2.29.1をリリースしました
 
