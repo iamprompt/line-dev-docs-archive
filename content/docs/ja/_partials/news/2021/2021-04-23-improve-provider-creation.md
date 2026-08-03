@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールで、プロバイダーやMessaging APIチャネルの作成手順が一部変わり、より使いやすくなりました。
 meta: '{"date":"2021-04-23 00:00 UTC","tags":"Messaging API, Console","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-23-improve-provider-creation
-__hash__: d10JWV40stgEVYgx8a7fJNrvcLjTYYDJCMmki82rrZs
+__hash__: HWV_HTVAQCt8JWxRvLtuXDI85-7nHTsM8mIRI4gfsxE
 seo:
   title: プロバイダーやMessaging APIチャネルの作成手順が変わりました
   description: LINE Developersコンソールで、プロバイダーやMessaging APIチャネルの作成手順が一部変わり、より使いやすくなりました。
@@ -12,14 +12,14 @@ seo:
 
 [LINE Developersコンソール](/console/)で、プロバイダーやMessaging APIチャネルの作成手順が一部変わり、より使いやすくなりました。
 
-## 変更点
+### 変更点
 
 主な変更点は、以下のとおりです。
 
 - [プロバイダー作成時にガイドテキストが表示されるようになりました](#add-guide-text)
 - [Messaging APIチャネルの作成手順が変わりました](#updated-messaging-api-channel-creation)
 
-### プロバイダー作成時にガイドテキストが表示されるようになりました
+#### プロバイダー作成時にガイドテキストが表示されるようになりました
 
 開発者がプロバイダーを新しく作成する際に、ポップアップ内に「プロバイダーとは何か？」を解説したガイドテキストが表示されるようになりました。
 
@@ -27,7 +27,7 @@ seo:
 
 新しくプロバイダーを作成する方法については、LINE Developersコンソールのドキュメントで「[プロバイダーを作成する](/docs/line-developers-console/overview/#creating-a-provider)」を参照してください。
 
-### Messaging APIチャネルの作成手順が変わりました
+#### Messaging APIチャネルの作成手順が変わりました
 
 今まで、プロバイダーとそのプロバイダーに紐づくMessaging APIチャネル、そしてLINE公式アカウントの関係は、開発者にとって理解しづらいものでした。そのため、一部の開発者は、誤って意図しないプロバイダーの下でMessaging APIチャネルを作成してしまうことがありました。この問題を解決するため、Messaging APIチャネルの作成手順を変更しました。
 

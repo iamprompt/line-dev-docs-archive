@@ -6,7 +6,7 @@ description: >-
   LINE Login v2.1 more secure.
 meta: '{"date":"2021-04-09 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-09-line-login-pkce-support
-__hash__: cHw9nNuzfQKcGJzkVyF-gE7frihDr-vZQRvC7GHtGCk
+__hash__: E9mV1ZFULtx8EtWkVxhgo3HQ4H-l88M-4MhujAVNlOA
 seo:
   title: LINE Login now supports PKCE
   description: >-
@@ -16,13 +16,13 @@ seo:
 
 We now support PKCE for LINE Login, which will make the authorization flow of LINE Login v2.1 more secure.
 
-## What is PKCE
+### What is PKCE
 
 PKCE (Proof Key for Code Exchange) is an OAuth2.0 extension specification defined in [RFC7636](https://datatracker.ietf.org/doc/html/rfc7636){rel="[\"nofollow\"]"}, intended to combat authorization code interception attacks.
 
 The OAuth2.0 authorization flow that doesn't use PKCE is vulnerable to user-specific access tokens being stolen if a malicious app somehow gets the custom URI containing the authorization code. By implementing the PKCE authorization flow into web apps that incorporate LINE Login, you can further improve the security of LINE Login v2.1 and prevent authorization code interception attacks.
 
-## Benefits of implementing PKCE for LINE Login
+### Benefits of implementing PKCE for LINE Login
 
 The behavior against authorization code interception attacks differs depending on whether PKCE is implemented or not in the web app that uses LINE Login. We recommend implementing PKCE to make your web app more secure.
 

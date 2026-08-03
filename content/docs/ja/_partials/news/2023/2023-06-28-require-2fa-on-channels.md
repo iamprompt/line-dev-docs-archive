@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-06-28 00:00 UTC","tags":"line-login, console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-06-28-require-2fa-on-channels
-__hash__: A6Jhtjlflwqa_YCg7FF4jrSw_fSTArNB62uex-Iu8co
+__hash__: 08k7RraeqaXUcZOipeE74HAi_f6rrwOCrr3IVs5jLU0
 seo:
   title: 【更新】LINEログインでサービス提供者が2要素認証を必須化できるようになりました
   description: ''
@@ -34,7 +34,7 @@ LINEログインチャネルで2要素認証を必須にする設定を行うと
 - [LINE Developerコンソールで2要素認証を必須化を設定する](#two-fa-setting-20230628)
 - [2要素認証スイッチ機能との優先順位](#priority-with-2fa-switch-20230628)
 
-## 2要素認証とは
+### 2要素認証とは
 
 2要素認証とはパスワードのような本人だけが知っている知識、ICカードやスマートフォンなどの本人の所有物、指紋や顔などの生体情報のうち、2つの要素を利用してユーザー認証する仕組みです。2要素認証を使用すると、万が一パスワードが第三者に知られても不正ログインを防げる可能性が高くなります。
 
@@ -56,7 +56,7 @@ LINEログインでは、LINEアカウントによるパスワード認証と、
 バージョンの違いについて詳しくは、LINEログインドキュメントの「[LINEログインのバージョンについて](/docs/line-login/overview/#versions)」を参照してください。
 ::
 
-## LINE Developerコンソールで2要素認証の必須化を設定する
+### LINE Developerコンソールで2要素認証の必須化を設定する
 
 2要素認証の必須化は、[LINE Developersコンソール](/console/)でチャネルを新規作成する際と、既存チャネルを編集する際に設定できます。
 
@@ -65,7 +65,7 @@ LINEログインでは、LINEアカウントによるパスワード認証と、
 
 ![2要素認証の設定](/media/news/2023/2fa-on-a-channel-ja.png){className="[\"bg-border\"]"}
 
-## 2要素認証スイッチ機能との優先順位
+### 2要素認証スイッチ機能との優先順位
 
 2022年4月26日にLINEアプリの[2要素認証スイッチ機能](/news/2022/04/26/2fa-switch-function/)が公開されました。これは、ユーザーの端末でLINEの［**ホーム**］>［**設定**］>［**アカウント**］>［**Webログインの2要素認証**］のトグルスイッチがオンの場合、LINEログイン v2.1を使用しているサービスにログインする際に2要素認証を行う機能です。
 

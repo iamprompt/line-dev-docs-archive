@@ -8,7 +8,7 @@ description: >-
   been changed, input fields have been moved and other changes have been made.
 meta: '{"date":"2022-07-28 00:00 UTC","tags":"console, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-07-28-line-mini-app-tab
-__hash__: lDbHGdDoVCzGCi7GNvnKbhIyrzDUr_uWe7U-l7V9CPU
+__hash__: N6NxJtFR3kLlaWRUykCTto0OMWmpaiVhao7wewunIY0
 seo:
   title: >-
     In the LINE Developers Console, we've reorganized the tabs of the LINE MINI
@@ -25,7 +25,7 @@ The LINE MINI App channel allows you to input and check information related to t
 
 This change has made it easier to manage the LINE MINI App channel.
 
-## Changes
+### Changes
 
 The following three main changes were made:
 
@@ -33,7 +33,7 @@ The following three main changes were made:
 2. [Moved the Function category to the Basic settings tab](#move-function-category-20220728)
 3. [Changed the input field of reference materials for review](#change-materials-20220728)
 
-### 1. Changed the tab name
+#### 1. Changed the tab name
 
 In the LINE MINI App channel, the tab name has been changed as follows:
 
@@ -44,11 +44,11 @@ In the LINE MINI App channel, the tab name has been changed as follows:
 
 ![LINE MINI App channel tab](/media/news/2022/line-mini-app-channel-tab-en.png){className="[\"border\",\"w-fix-640\"]"}
 
-### 2. Moved the Function category to the **Basic settings** tab
+#### 2. Moved the Function category to the **Basic settings** tab
 
 Along with the tab name change, the input field for the **Function category** has been moved from the previous **LINE MINI App** tab to the **Basic settings** tab.
 
-### 3. Changed the input field of reference materials for review
+#### 3. Changed the input field of reference materials for review
 
 The existing **Additional files** in the **LINE MINI App** tab and the **Content to be referenced during the review** in the **Workflow** tab have been merged into the **Reference materials for the review** in the **Workflow** tab.
 

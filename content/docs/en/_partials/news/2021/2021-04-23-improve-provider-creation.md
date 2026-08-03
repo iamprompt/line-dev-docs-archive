@@ -6,7 +6,7 @@ description: >-
   LINE Developers Console to improve the developer experience.
 meta: '{"date":"2021-04-23 00:00 UTC","tags":"Messaging API, Console","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-23-improve-provider-creation
-__hash__: ehPoZIeABGQoklNg9kzrtRyKfS5f7FBZ5uKwt4j7Lxg
+__hash__: nCBVnsdlDitdHRujJl-iIdYnMfil0H4kmvMXlVRVTCo
 seo:
   title: Provider and Messaging API channel creation flow updated
   description: >-
@@ -16,14 +16,14 @@ seo:
 
 We updated the process to create a provider and a Messaging API channel on the [LINE Developers Console](/console/) to improve the developer experience.
 
-## What's changed?
+### What's changed?
 
 We've made these changes:
 
 - [Added a guide text when creating a provider](#add-guide-text)
 - [Updated the Messaging API channel creation flow](#updated-messaging-api-channel-creation)
 
-### Added a guide text when creating a provider
+#### Added a guide text when creating a provider
 
 To make it easy for developers to understand the definition of a provider, we've added a guide text explaining the definition of a provider to the pop-up displayed when creating a new provider.
 
@@ -31,7 +31,7 @@ To make it easy for developers to understand the definition of a provider, we've
 
 For instructions on how to create a new provider, see [Creating a provider](/docs/line-developers-console/overview/#creating-a-provider) in the LINE Developers Console documentation.
 
-### Updated the Messaging API channel creation flow
+#### Updated the Messaging API channel creation flow
 
 Before the update, the relationship between a provider, the Messaging API channels belonging to the provider, and their LINE Official Accounts was unclear to some developers. This lead to some developers creating Messaging API channels under unintended providers. To resolve this issue, we've updated the process of creating a Messaging API channel.
 

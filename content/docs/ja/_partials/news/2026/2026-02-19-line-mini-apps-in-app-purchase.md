@@ -4,7 +4,7 @@ navigation: true
 description: 日本のLINEミニアプリにおいて、「アプリ内課金」機能を正式にリリースしました。
 meta: '{"date":"2026-02-19 00:00 UTC","tags":"line-mini-app, console","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-02-19-line-mini-apps-in-app-purchase
-__hash__: 9O89-ei0gjl-rgvtWvm1N2xhCp3H1dXICRzpoDa88qw
+__hash__: In8_Af-CotuRhQY9cwoXNURvqoUPPfklHiCt43IYVCw
 seo:
   title: 日本のLINEミニアプリにおいて、アプリ内課金機能を正式にリリースしました
   description: 日本のLINEミニアプリにおいて、「アプリ内課金」機能を正式にリリースしました。
@@ -18,11 +18,11 @@ seo:
 
 アプリ内課金機能の利用を開始するには、利用申請の後、弊社によるアプリ内課金利用審査と、認証済ミニアプリとして公開するための認証審査が必要です。
 
-## リリース日
+### リリース日
 
 2026年2月19日
 
-## リリース内容
+### リリース内容
 
 以下の内容をリリースしました。
 
@@ -30,11 +30,11 @@ seo:
 - 開発用チャネルでの[テスト決済](/docs/line-mini-app/in-app-purchase/implement-in-app-purchase/#test-payment-guide)
 - [Webhook URLの設定およびテスト決済機能のテスター登録](/docs/line-mini-app/in-app-purchase/iap-settings/)
 
-## アプリ内課金の利用条件
+### アプリ内課金の利用条件
 
 LINEミニアプリチャネルの「サービスを提供する地域」と「会社・事業者の所在国・地域」がいずれも「日本」のLINEミニアプリである。
 
-## アプリ内課金の動作条件
+### アプリ内課金の動作条件
 
 - 認証済ミニアプリである（※）
 - LINEミニアプリのLIFF SDKのバージョンが2.26.0以上である

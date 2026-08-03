@@ -6,7 +6,7 @@ description: >-
   server API to update a LIFF app. We apologize for any inconvenience.
 meta: '{"date":"2018-11-16 01:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-16-put-api-about-liff
-__hash__: 1PO3XkOtu-cdTgh8zejqi3GiJzTqNDDlitw8gxwwOgk
+__hash__: J78mAx4cEl3ZvnhDTF8VBoVYV9ioQmPnWGNt64zLpQY
 seo:
   title: Correction to documentation
   description: >-
@@ -16,7 +16,7 @@ seo:
 
 There were errors in the news release and documentation for the new LIFF server API to update a LIFF app. We apologize for any inconvenience.
 
-## News
+### News
 
 【Incorrect】
 The HTTP request to the API endpoint to update a LIFF app is changed from `PUT` to `PATCH`. Now you can partially update the properties of your LIFF apps.
@@ -24,7 +24,7 @@ The HTTP request to the API endpoint to update a LIFF app is changed from `PUT` 
 【Correct】
 The API endpoint for updating a LIFF app is changed. Now you can partially update the properties of your LIFF apps.
 
-## API reference
+### API reference
 
 【Incorrect】
 `PATCH https://api.line.me/liff/v1/apps/{liffId}`

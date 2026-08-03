@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-20 00:00 UTC","tags":"LIFF","new":"false","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-05-20-liff-endpoint-url-improvement
-__hash__: M7rqlvvQl3QY-aJSxFqnWzN3bIE2EoVpileJOd0ALPo
+__hash__: SOPY1TM7bdhHm-VjYvgm-9kbcteHwEKQiNzhyKiL-3w
 seo:
   title: 【更新】まもなくLIFFのエンドポイントURLでパスが使用できるようになります
   description: ''
@@ -51,6 +51,6 @@ URLフラグメントを追加できます。
 
 たび重なる仕様変更により混乱を招いたことをお詫び申し上げます。今後も開発者の皆様に提供するサービスの品質向上に努めてまいりますので、何卒ご理解いただきますようお願い申し上げます。
 
-## 仕様変更予定日時
+### 仕様変更予定日時
 
 2020年6月後半

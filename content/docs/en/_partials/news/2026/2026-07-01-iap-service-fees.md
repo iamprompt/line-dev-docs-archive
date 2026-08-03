@@ -8,7 +8,7 @@ description: >-
   LINE MINI App in-app purchase feature.
 meta: '{"date":"2026-07-01 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-07-01-iap-service-fees
-__hash__: UgcET9-X9H2asnCa7adCYjfGrdN0g8N3siMabp4Y-30
+__hash__: BiRuOboVaRIZXL8MiWIiw6HRmneS4G1EtiOC_JiFOLw
 seo:
   title: >-
     Notice of the introduction of service fees for the LINE MINI App in-app
@@ -22,17 +22,17 @@ As announced on [June 5, 2026](/news/2026/06/05/iap-service-fees/), we have star
 
 With the introduction of service fees, we have revised the [LINE In-App Purchase Terms of Use (for LINE MINI App Provider)](https://terms2.line.me/LINE_MINI_App_IAP?lang=en){rel="[\"nofollow\"]"}.
 
-## Fee effective date
+### Fee effective date
 
 Applicable service fees will be charged for usage from July 2026 onward.
 
 The fee rate that applies will be the rate specified at the time of your application.
 
-## Date of revision
+### Date of revision
 
 July 1, 2026
 
-## Details of revision
+### Details of revision
 
 The main revisions are as follows:
 

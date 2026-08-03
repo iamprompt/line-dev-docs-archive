@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-03-11 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"en"}
 path: /en/_partials/news/2022/2022-03-11-flex-message-update-3-released
-__hash__: tXlP03_vWxGm-btI39V2dcXDJNnW3u6H6RnDy2WtCz8
+__hash__: udhLqSn-ZyqZzKUx-se-be0NzWpa2U7UjRfAJb6UC7E
 seo:
   title: '[Updated] Flex Message Update 3 released'
   description: ''
@@ -25,7 +25,7 @@ In Flex Message Update 3, the following features have been added:
 - [The line spacing in a text component can now be increased](#text-component-2022-03-11)
 - [Flex Message Simulator now supports Update 3](#flex-message-simulator-2022-03-11)
 
-## A video can now be displayed in the hero block
+### A video can now be displayed in the hero block
 
 [Video component](/reference/messaging-api/#f-video) is now available in Flex Message. Using the video component, you can display a video in the hero [block](/docs/messaging-api/flex-message-elements/#block).
 
@@ -33,13 +33,13 @@ In Flex Message Update 3, the following features have been added:
 
 For more information, see [Creating a Flex Message including a video](/docs/messaging-api/create-flex-message-including-video/) in the Messaging API documentation.
 
-## The max width and height of a box component can now be specified
+### The max width and height of a box component can now be specified
 
 The `maxWidth` property and the `maxHeight` property have been added to the [box component](/reference/messaging-api/#box). Using these properties, you can specify the max width and height of a box component.
 
 For more information, see [Max width of a box](/docs/messaging-api/flex-message-layout/#box-max-width) and [Max height of a box](/docs/messaging-api/flex-message-layout/#box-max-height) in the Messaging API documentation.
 
-## The line spacing in a text component can now be increased
+### The line spacing in a text component can now be increased
 
 The `lineSpacing` property has been added to the [text component](/reference/messaging-api/#f-text). Using the `lineSpacing` property, you can increase the line spacing in a text component.
 
@@ -49,7 +49,7 @@ The `lineSpacing` property has been added to the [text component](/reference/mes
 
 For more information, see [Increase the line spacing in a text](/docs/messaging-api/flex-message-elements/#text-line-spacing) in the Messaging API documentation.
 
-## Flex Message Simulator now supports Update 3
+### Flex Message Simulator now supports Update 3
 
 [Flex Message Simulator](/flex-simulator/) now supports Flex Message Update 3.
 

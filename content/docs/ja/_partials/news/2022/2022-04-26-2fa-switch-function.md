@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-04-26 00:00 UTC","tags":"line-login","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-26-2fa-switch-function
-__hash__: 7k-54-1IjFAcADTK5XbdsMVDARbYpwrTOpZeE4CfJws
+__hash__: hJRz4gOAPvUYBIwgy7Oc83YAvpBBj18y46V7kJGjf7E
 seo:
   title: 【更新】LINEの2要素認証スイッチ機能導入に伴い、LINEログイン v2.1の利用を推奨します
   description: ''
@@ -30,13 +30,13 @@ IPアドレスが変わった場合の説明に誤りがありました。お詫
 - [2要素認証スイッチ機能を有効にした場合の挙動](#behavior-when-the-two-factor-authentication-switch-function-is-enabled)
 - [導入後の注意事項](#notes-after-implementation)
 
-## 2要素認証スイッチ機能の導入予定日
+### 2要素認証スイッチ機能の導入予定日
 
 2022年5月（スマートフォン版LINEバージョン12.7.0以降）
 
 なお日程は、予告なく変更される可能性があります。
 
-## 2要素認証とは
+### 2要素認証とは
 
 2要素認証とはパスワードのような本人だけが知っている知識、ICカードやスマートフォンなどの本人の所有物、生体認証のうち、2つの要素を利用してユーザー認証する仕組みです。2要素認証を使用すると、万が一パスワードが第三者に知られても不正ログインを防げる可能性が高くなります。
 
@@ -48,7 +48,7 @@ LINEログインでは、LINEアカウントによるパスワード認証と、
 
 ![2要素認証の流れ](/media/news/login-flow-with-2fa-ja.png){className="[\"w-fix-760\"]"}
 
-## 2要素認証スイッチ機能を使用するための条件
+### 2要素認証スイッチ機能を使用するための条件
 
 2要素認証スイッチ機能とは、LINEログインを使用しているサービスにログインする際に2要素認証を使用するかどうかをユーザーが選択できる機能です。
 
@@ -65,7 +65,7 @@ LINEログイン v1.0（:glossary-tooltip[[廃止](/glossary/#end-of-life)]{glos
 
 バージョンの違いについて詳しくは、『LINEログインドキュメント』の「[LINEログインのバージョンについて](/docs/line-login/overview/#versions)」を参照してください。
 
-## 2要素認証スイッチ機能を有効にした場合の挙動
+### 2要素認証スイッチ機能を有効にした場合の挙動
 
 2要素認証スイッチ機能は、LINEの［**ホーム**］>［**設定**］>［**アカウント**］をタップし、［**Webログインの2要素認証**］のトグルスイッチをオン（右）にすることで有効化できます。
 
@@ -80,7 +80,7 @@ LINEログイン v1.0（:glossary-tooltip[[廃止](/glossary/#end-of-life)]{glos
 
 なお、機能導入後のデフォルト設定は「OFF」のため、ユーザーは導入前と同じくサービスの利用が可能です。
 
-## 導入後の注意事項
+### 導入後の注意事項
 
 2要素認証スイッチ機能導入後の注意事項は以下のとおりです。
 

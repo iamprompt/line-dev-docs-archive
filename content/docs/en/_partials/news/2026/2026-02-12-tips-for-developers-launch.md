@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-02-12 00:00 UTC","tags":"line-developers-site,
   docs","locale":"en"}
 path: /en/_partials/news/2026/2026-02-12-tips-for-developers-launch
-__hash__: x64iU8o7uMf0yqCAz6RzoOdm2R-s10YCOx2EwPE8NnE
+__hash__: 2Aj4sLjzc2Hk_IXo7kBMWE_YzjjAwgxU7YnibjyWIxQ
 seo:
   title: We've launched Tips for Developers on the LINE Developers site
   description: >-
@@ -18,7 +18,7 @@ seo:
 
 We've launched a new content section called [Tips for Developers](/tips/) on the LINE Developers site.
 
-## What is Tips for Developers
+### What is Tips for Developers
 
 Tips for Developers is a lightweight, easy-to-read content category. It's separate from the documentation and API reference.
 

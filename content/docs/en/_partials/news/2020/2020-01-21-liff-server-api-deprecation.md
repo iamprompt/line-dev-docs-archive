@@ -6,7 +6,7 @@ description: >-
   v1 Server API. On that date, these features will be removed:
 meta: '{"date":"2020-01-21 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-21-liff-server-api-deprecation
-__hash__: twmzihekDwmZMSCpG1SA7N5FzRqigky0KGg5QvYEYuo
+__hash__: YopDBdMZ54qxClUwp1w8bzVfXyyIDnVlBpvTi59nNPs
 seo:
   title: LIFF v1 Server API end-of-life on March 31, 2020
   description: >-
@@ -26,7 +26,7 @@ March 31, 2020 marks the end-of-life date for **LINE Front-end Framework (LIFF) 
 As announced on [October 16, 2019](/news/2019/10/16/liff-v2-released/), LIFF v1 will be discontinued.
 ::
 
-## Use LIFF v2
+### Use LIFF v2
 
 All discontinued Server API functions can be used in the [LINE Developers Console](/console/). For more information on how to add a LIFF app to a channel, read this:
 

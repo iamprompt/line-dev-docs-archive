@@ -9,7 +9,7 @@ description: >-
   authentication has been changed to on.
 meta: '{"date":"2023-07-26 00:00 UTC","tags":"line-login, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-07-26-change-default-setting-for-2fa
-__hash__: Az9LvB22lBcxIUXbU5ziV0DoT6HRuFER2EI_zVspx8U
+__hash__: rrEysXJMt8t4Qom5f1NmIl4mANZIXlW9wjZIiovigHU
 seo:
   title: >-
     Default setting of require two-factor authentication when creating a channel
@@ -22,11 +22,11 @@ seo:
 
 When creating a LINE Login channel and a Blockchain Service channel on the [LINE Developers Console](/console/), the default setting of **Require two-factor authentication** has been changed to on.
 
-## Date of change
+### Date of change
 
 July 26, 2023
 
-## Details of the change
+### Details of the change
 
 [On June 28th, 2023](/news/2023/06/28/require-2fa-on-channels/), we've added a function to LINE Login that allows service providers to require two-factor authentication.
 
@@ -40,7 +40,7 @@ If two-factor authentication isn't required, you can turn off with a toggle swit
 
 Existing channel settings won't be affected by this change.
 
-## Require two-factor authentication setting on the LINE Developers Console
+### Require two-factor authentication setting on the LINE Developers Console
 
 If you set LINE Login to require two-factor authentication, users will be required to authenticate with two-factor authentication when they log in to that channel. By using two-factor authentication, you're more likely to reduce the risk of unauthorized logins, such as list-based attacks.
 

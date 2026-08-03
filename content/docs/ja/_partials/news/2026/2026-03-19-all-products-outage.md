@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-19 00:00 UTC","tags":"outage-report, line-platform,
   line-login, liff, line-mini-app, messaging-api","locale":"ja"}
 path: /ja/_partials/news/2026/2026-03-19-all-products-outage
-__hash__: zgRytsSdO4ojmOpTkkuk34wUViLpoRN9e_R7doKOyNA
+__hash__: CQ4KVTIYTXZdSy54U8VcISmBET5wA2Jsd_PYRU_5E-4
 seo:
   title: 【復旧済み】LINEプラットフォーム障害のお知らせ
   description: >-
@@ -15,21 +15,21 @@ seo:
 
 LINEプラットフォームにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。
 
-## 発生日時
+### 発生日時
 
 2026年3月19日 12:15頃 〜 12:16頃（UTC+9）
 
-## 原因
+### 原因
 
 サーバー障害
 
-## 影響範囲
+### 影響範囲
 
 - Messaging API
 - LINEログイン
 - LIFF/LINEミニアプリ
 
-## 状況
+### 状況
 
 各プロダクトへの主な影響は以下のとおりです。
 
@@ -37,25 +37,25 @@ LINEプラットフォームにおいて以下の障害が発生しておりま�
 - [LINEログイン](#state-20260319-02)
 - [LIFF/LINEミニアプリ](#state-20260319-03)
 
-### Messaging API
+#### Messaging API
 
 - Webhookイベントの送信が遅延する場合がありました。
 - 一部のリクエストを正常に処理できず、ステータスコード500番台のエラーが発生していました。
 
 なお本障害の影響で、APIリクエストは成功したが実際に送信されなかったメッセージについては、LINE公式アカウントのご利用料金、および[送信済みのプッシュメッセージの数を取得する](/reference/messaging-api/#get-number-of-push-messages)エンドポイント等で確認可能な「送信済みメッセージの数」にはカウントされません。
 
-#### APIリクエストの再試行について
+##### APIリクエストの再試行について
 
 なお一部のAPIにおいては、ステータスコード500番台のエラーが発生した場合や、リクエストがタイムアウトした場合に、リトライキー（`X-Line-Retry-Key`）を使ってAPIリクエストを再試行する実装にしておくことで、同じ処理の重複を防ぎながら安全にリクエストを再試行できます。
 
 詳しくは、『Messaging APIドキュメント』の「[失敗したAPIリクエストを再試行する](/docs/messaging-api/retrying-api-request/)」および「[リトライキーを常に指定する](/docs/messaging-api/retrying-api-request/#apis-with-available-retry-keys)」を参照してください。
 
-### LINEログイン
+#### LINEログイン
 
 - LINEログインを正常に行うことができない場合がありました。
 - 一部のリクエストを正常に処理できず、ステータスコード500番台のエラーが発生していました。
 
-### LIFF/LINEミニアプリ
+#### LIFF/LINEミニアプリ
 
 - LIFF/LINEミニアプリを正常に利用できない場合がありました。
 - 一部のリクエストを正常に処理できず、ステータスコード500番台のエラーが発生していました。

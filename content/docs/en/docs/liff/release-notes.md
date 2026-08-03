@@ -2,9 +2,10 @@
 title: Release notes
 navigation: true
 description: Release notes for the LIFF API. See the latest changes and releases.
-meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
+meta: >-
+  {"tags":null,"author":null,"last_updated":null,"source_language":"en","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/liff/release-notes
-__hash__: ib6gcnJUuNYB3vlqJDe2nw2mluDUmk-pMiw1OeVhIKs
+__hash__: 7oHjfUH-8fLIKryQdi8q6uc7BLBZp0vQjpxmoeT2LNw
 seo:
   title: Release notes
   description: Release notes for the LIFF API. See the latest changes and releases.
@@ -32,7 +33,7 @@ When you use the CDN edge path (`https://static.line-scdn.net/liff/edge/2/sdk.js
 
 When you use the CDN fixed path (e.g. `https://static.line-scdn.net/liff/edge/versions/2.29.2/sdk.js`), you can use the features of the specified LIFF version.
 
-:toc{max-depth="2"}2026/07/31
+:toc2026/07/31
 
 ## LIFF v2.29.2 released
 
@@ -318,7 +319,7 @@ When you use the CDN fixed path (e.g. `https://static.line-scdn.net/liff/edge/ve
 
 :partial{content="news/2019/2019-11-29-liff-functions-suspended/"}2019/11/11
 
-## Users can no longer add LIFF apps to Messaging API channels
+## Users will no longer be able to add LIFF apps to Messaging API channels
 
 :partial{content="news/2019/2019-11-11-liff-cannot-be-used-with-messaging-api-channels/"}2019/10/16
 

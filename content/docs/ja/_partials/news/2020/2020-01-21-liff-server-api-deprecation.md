@@ -6,7 +6,7 @@ description: >-
   v1のサーバーAPIの提供を終了します。提供終了日に、以下の機能を削除する予定です。
 meta: '{"date":"2020-01-21 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-01-21-liff-server-api-deprecation
-__hash__: KK3_sCCKY0a1bWP6NHt2YfyGxBB4s2fU0FdkYuF30Z0
+__hash__: I7LzsERV2Y2s5haZcc4c5Sho9zlJweuVFc-nceg9CRA
 seo:
   title: 2020年3月31日にLIFF v1のサーバーAPIの提供を終了します
   description: >-
@@ -26,7 +26,7 @@ seo:
 [2019年10月16日に告知](/news/2019/10/16/liff-v2-released/)したとおり、LIFF v1は、廃止される予定です。
 ::
 
-## LIFF v2を利用してください
+### LIFF v2を利用してください
 
 提供を終了するサーバーAPIの機能は、すべて[LINE Developersコンソール](/console/)で利用できます。LIFFアプリをチャネルに追加する操作について詳しくは、以下の項目を参照してください。
 

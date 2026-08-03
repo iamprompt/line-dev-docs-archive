@@ -8,7 +8,7 @@ description: >-
   MINI App Provider) has been revised on July 27, 2026.
 meta: '{"date":"2026-07-27 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-07-27-line-mini-app-iap
-__hash__: ZILf4cTw4hL84QzrSEBEpyipk8HoAzaabwQ7XiM1tTo
+__hash__: ctfrWjkEfguP-6djbdfebF7LFRBN84kFFsDsKoG6qdM
 seo:
   title: >-
     The LINE In-App Purchase Terms of Use (for LINE MINI App Provider) has been
@@ -20,11 +20,11 @@ seo:
 
 As announced on [July 17, 2026](/news/2026/07/17/line-mini-app-iap/), the [LINE In-App Purchase Terms of Use (for LINE MINI App Provider)](https://terms2.line.me/LINE_MINI_App_IAP?lang=ja){rel="[\"nofollow\"]"} has been revised on July 27, 2026.
 
-## Date of revision
+### Date of revision
 
 July 27, 2026
 
-## Details of revision
+### Details of revision
 
 - Clarifying provisions based on the responsibilities, authority, etc. of each party
 - Other formatting-related updates

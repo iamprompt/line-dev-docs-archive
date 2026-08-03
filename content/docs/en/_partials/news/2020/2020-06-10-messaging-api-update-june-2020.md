@@ -6,7 +6,7 @@ description: >-
   to this update:
 meta: '{"date":"2020-06-10 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-06-10-messaging-api-update-june-2020
-__hash__: 6fN6-4PNs0BOPi9vqaCbbV2-hs93RanQOlP4Mpbm0x4
+__hash__: O_M5uv4nGbUsy3Qqz72upidP-jOML_xtGUZH7NdPJDc
 seo:
   title: Messaging API update for June 2020
   description: >-
@@ -24,19 +24,19 @@ We added new endpoints to the Messaging API. These are the new features added to
 
 This is a summary of each new feature. For details, see each new feature in the Messaging API reference.
 
-## Get group summary
+### Get group summary
 
 Gets the group ID, group name, and group icon URL of a group where the LINE Official Account is a member.
 
 For more information, see [Get group summary](/reference/messaging-api/#get-group-summary) in the Messaging API reference.
 
-## Get number of users in a group
+### Get number of users in a group
 
 Gets the count of users in a group. You can get the user in group count even if the user hasn't added the LINE Official Account as a friend or has blocked the LINE Official Account.
 
 For more information, see [Get number of users in a group](/reference/messaging-api/#get-members-group-count) in the Messaging API reference.
 
-## Get number of users in a room
+### Get number of users in a room
 
 Gets the count of users in a room. You can get the users in room count even if the user hasn't added the LINE Official Account as a friend or has blocked the LINE Official Account.
 

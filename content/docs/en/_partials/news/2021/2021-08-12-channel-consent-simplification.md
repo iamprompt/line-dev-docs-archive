@@ -9,7 +9,7 @@ description: >-
   MINI Apps.
 meta: '{"date":"2021-08-12 00:00 UTC","tags":"LINE MINI app, console","locale":"en"}'
 path: /en/_partials/news/2021/2021-08-12-channel-consent-simplification
-__hash__: SFTiTm4XSXA1s96w3XlEzWc9p_LfoVNWiskj2nlag-g
+__hash__: tQiXBHONqAedpL-wWBf8Y1LEL0TU3T0yEe-_tlrzxB0
 seo:
   title: >-
     Skip the consent screen with the newly-released "Channel consent
@@ -30,7 +30,7 @@ type: note
 The only permission consent that can be skipped with the "Channel consent simplification" feature is :glossary-tooltip[[user ID](/glossary/#user-id)]{glossary-id="user-id"} (`openid` scope). Permission required to get user profile information (the `profile` scope) or permission to send messages (the `chat_message.write` scope) aren't covered by "Channel consent simplification".
 ::
 
-## Channel consent simplification feature setup
+### Channel consent simplification feature setup
 
 From your LINE MINI App channel on the [LINE Developers Console](/console/), locate the **Channel consent simplification** section under the LIFF tab, and toggle the slider on (right) to enable the "Channel consent simplification" feature.
 
@@ -46,7 +46,7 @@ type: note
 - The `openid` scope will automatically be enabled for a channel with "Channel consent simplification" enabled.
 ::
 
-## Detailed workflow of LINE MINI App with "Channel consent simplification" enabled
+### Detailed workflow of LINE MINI App with "Channel consent simplification" enabled
 
 When a user first access a LINE MINI App with "Channel consent simplifcation" enabled, the channel consent screen is displayed, requesting consent regarding the use of :glossary-tooltip[[User ID](/glossary/#user-id)]{glossary-id="user-id"}.
 

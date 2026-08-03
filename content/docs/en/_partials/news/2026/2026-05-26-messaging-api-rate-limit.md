@@ -8,7 +8,7 @@ description: >-
   menu list endpoint as of May 26, 2026.
 meta: '{"date":"2026-05-26 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2026/2026-05-26-messaging-api-rate-limit
-__hash__: tzKLAOmlm44DWB0nmq9CwZnWKfW-OK_hZz5KCYe5T4k
+__hash__: TGc_u3TpEXfSasizumjmGjPc7DrJ163QpjUUG9LY0x0
 seo:
   title: >-
     The rate limit for the "Get rich menu list" endpoint in the Messaging API
@@ -20,11 +20,11 @@ seo:
 
 As announced on [May 7, 2026](/news/2026/05/07/messaging-api-rate-limit/), we have changed the rate limit for the [Get rich menu list](/reference/messaging-api/#get-rich-menu-list) endpoint as of May 26, 2026.
 
-## Date of specification change
+### Date of specification change
 
 May 26, 2026
 
-## Details
+### Details
 
 The rate limits before and after the change are as follows:
 

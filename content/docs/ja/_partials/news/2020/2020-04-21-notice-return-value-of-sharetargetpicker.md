@@ -6,7 +6,7 @@ description: |-
   現在の仕様のみを想定しているアプリの開発者の方は、実装の変更をお願いします。
 meta: '{"date":"2020-04-21 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-04-21-notice-return-value-of-sharetargetpicker
-__hash__: OVDoKBA-Jrm-IS5tpEa9rEgo5nygQAQXBpOu9df6v6Y
+__hash__: zLBtFoQoO3-mZYcpneNHvYeVdzHKZhmgxskFlouOe_w
 seo:
   title: liff.shareTargetPicker()の戻り値に関するお知らせ
   description: |-
@@ -21,15 +21,15 @@ seo:
 現時点では、変更後の`liff.shareTargetPicker()`の戻り値の仕様は確定していません。
 ::
 
-## 概要
+### 概要
 
 仕様変更前は、ターゲットピッカーを表示できたかどうかをLIFFアプリが確認できましたが、その後、メッセージを送信できたかどうかは確認できませんでした。
 
 仕様変更後は、メッセージを送信できたかどうかを確認できるため、ユーザーの状況に合わせて、LIFFアプリの挙動を変更するように実装できます。
 
-## 仕様変更前
+### 仕様変更前
 
-### サンプル
+#### サンプル
 
 ```javascript
 if (liff.isApiAvailable('shareTargetPicker')) {
@@ -47,11 +47,11 @@ if (liff.isApiAvailable('shareTargetPicker')) {
 }
 ```
 
-### 構文
+#### 構文
 
 `liff.shareTargetPicker(messages)`
 
-### 戻り値
+#### 戻り値
 
 `Promise`オブジェクトが返されます。
 
@@ -64,9 +64,9 @@ if (liff.isApiAvailable('shareTargetPicker')) {
 - `Promise`がresolveした場合とrejectした場合のコールバック関数内で、`alert()`を実行すると一部端末で正しく動作しません。
 ::
 
-## 仕様変更後
+### 仕様変更後
 
-### サンプル
+#### サンプル
 
 ```javascript
 if (liff.isApiAvailable('shareTargetPicker')) {
@@ -91,11 +91,11 @@ if (liff.isApiAvailable('shareTargetPicker')) {
 }
 ```
 
-### 構文
+#### 構文
 
 `liff.shareTargetPicker(messages)`
 
-### 戻り値
+#### 戻り値
 
 `Promise`オブジェクトが返されます。
 
@@ -111,6 +111,6 @@ if (liff.isApiAvailable('shareTargetPicker')) {
 `Promise`がresolveした場合とrejectした場合のコールバック関数内で、`alert()`を実行すると一部端末で正しく動作しません。
 ::
 
-## 仕様変更予定日時
+### 仕様変更予定日時
 
 未定

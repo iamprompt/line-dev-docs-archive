@@ -8,7 +8,7 @@ description: >-
   as announced in the news from June 2, 2022.
 meta: '{"date":"2022-07-21 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-07-21-liff-minimize-for-iphone
-__hash__: RNC8nLNzpL8qO8BfdkEy3nOYW3aqb-supe6bVft6GL4
+__hash__: LCZ2G0d6-vJqCpmSdGLufX1vRbE9igWNbctFgpl2Nqc
 seo:
   title: >-
     On LINE for iOS version 12.12.0 or later, we'll be making changes to some of
@@ -20,16 +20,16 @@ seo:
 
 We'll be making changes to some of :glossary-tooltip[[LIFF browser's](/glossary/#liff-browser)]{glossary-id="liff-browser"} minimization specifications as announced in the news from [June 2, 2022](/news/2022/06/02/liff-minimize-for-iphone/).
 
-## Target version
+### Target version
 
 LINE for iOS version 12.12.0 or later
 
-## Changes
+### Changes
 
 - [Changes to closing a minimized LIFF browser](#changes-1-20220721)
 - [Changes to the Japanese notation of the action button's options](#changes-2-20220721)
 
-### Changes to closing a minimized LIFF browser
+#### Changes to closing a minimized LIFF browser
 
 In addition to [the current way of swiping a LIFF browser off the screen](/docs/liff/minimizing-liff-browser/#close-minimized-liff-browser-1), you can also close a LIFF browser in the following way:
 
@@ -37,7 +37,7 @@ In addition to [the current way of swiping a LIFF browser off the screen](/docs/
 
 Dragging a minimized LIFF browser shows the close icon at the bottom of the screen. Drag the minimized LIFF browser to the close icon and release your finger.
 
-### Changes to the Japanese notation of the action button's options
+#### Changes to the Japanese notation of the action button's options
 
 Changes to the Japanese notation of the [action button's](/docs/liff/overview/#action-button) options are as follows:
 

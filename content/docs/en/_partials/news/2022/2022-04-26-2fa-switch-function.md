@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-04-26 00:00 UTC","tags":"line-login","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-26-2fa-switch-function
-__hash__: TVEHXUj02tRMFyBSnNoKem93ZaIy_LuOWxL_zTdVXJE
+__hash__: oKjnS93S9A3C5MWxpTTQhOfxZFAKl_BxNvzZI29Ogtg
 seo:
   title: >-
     [Updated] LINE Login v2.1 is recommended as we'll implement LINE's
@@ -34,13 +34,13 @@ The Two-factor Authentication Switch function is not available for LINE Login v1
 - [Behavior when the Two-factor Authentication Switch function is enabled](#behavior-when-the-two-factor-authentication-switch-function-is-enabled)
 - [Notes after implementation ](#notes-after-implementation)
 
-## Date of implementation of Two-factor Authentication Switch function
+### Date of implementation of Two-factor Authentication Switch function
 
 May 2022 (LINE for smartphones version 12.7.0 or later)
 
 The date is subject to change without notice.
 
-## What is two-factor authentication?
+### What is two-factor authentication?
 
 Two-factor authentication is a method to authenticate a user using two elements: knowledge known only to the user (such as a password), the user's property (such as an IC card or a smartphone), and biometric authentication. Two-factor authentication increases the possibility of preventing unauthorized logins even if a password is known to a third party.
 
@@ -52,7 +52,7 @@ If the IP address changes, the user is not prompted to enter the verification co
 
 ![The flow of two-factor authentication](/media/news/login-flow-with-2fa-en.png){className="[\"w-fix-760\"]"}
 
-## Requirements for using the Two-factor Authentication Switch function
+### Requirements for using the Two-factor Authentication Switch function
 
 The Two-factor Authentication Switch function allows users to choose whether to use two-factor authentication when logging in to services that use LINE Login.
 
@@ -69,7 +69,7 @@ This function is not available in LINE Login v1.0 (:glossary-tooltip[[end-of-lif
 
 For more information about the differences between the versions, see [LINE Login versions](/docs/line-login/overview/#versions) in LINE Login documentation.
 
-## Behavior when the Two-factor Authentication Switch function is enabled
+### Behavior when the Two-factor Authentication Switch function is enabled
 
 The Two-factor Authentication Switch function can be activated by tapping **Home** > **Settings** > **Accounts** in LINE and turning the **Two-factor authentication** toggle switch to "ON" (right).
 
@@ -84,7 +84,7 @@ The behavior when the user turns the switch on and off is as follows:
 
 The default setting after the implementation of the function is "OFF", and the users can use the service as before.
 
-## Notes after implementation
+### Notes after implementation
 
 The notes after enabling the Two-factor Authentication Switch function are as follows:
 

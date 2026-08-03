@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-07-04 01:00 UTC","tags":"messaging-api,
   flex-message","locale":"ja"}
 path: /ja/_partials/news/2023/2023-07-04-flex-message-update-4-released
-__hash__: oR-hx6z9np0OHi8uFFATBunI3e57Yf2tRG7gz9ZZIW4
+__hash__: r4HXKeXBA37qOnYsxVo1tPWVDMmpNIF1B49V54EKu80
 seo:
   title: Flex Message Update 4をリリースしました
   description: Messaging APIのFlex Message Update 4をリリースしました。
@@ -21,13 +21,13 @@ Flex Message Update 4で追加された機能と、対象バージョンは以�
 - [Flex Message SimulatorがUpdate 4の一部に対応しました](#flex-message-simulator-2023-07-04)
 - [対象バージョン](#target-version-20230704)
 
-## バブルに新しいサイズが追加されました
+### バブルに新しいサイズが追加されました
 
 [バブル](/reference/messaging-api/#bubble)の`size`プロパティに`deca`と`hecto`が追加されました。`size`プロパティで指定するバブルのサイズは、`nano`、`micro`、`deca`、`hecto`、`kilo`、`mega`、`giga`の順に大きくなります。
 
 詳しくは、『Messaging APIリファレンス』の「[バブル](/reference/messaging-api/#bubble)」を参照してください。
 
-## フォントサイズ設定に応じてフォントやアイコンを自動で拡大縮小できるようになりました
+### フォントサイズ設定に応じてフォントやアイコンを自動で拡大縮小できるようになりました
 
 [ボタン](/reference/messaging-api/#button)、[テキスト](/reference/messaging-api/#f-text)、および[アイコン](/reference/messaging-api/#icon)に`scaling`プロパティが追加されました。`scaling`プロパティに`true`を指定すると、LINEアプリのフォントサイズ設定に応じて、フォントサイズやアイコンのサイズが自動的に拡大縮小されます。`scaling`プロパティを`true`にすることで、アクセシビリティに配慮したメッセージを送ることができます。
 
@@ -37,7 +37,7 @@ Flex Message Update 4で追加された機能と、対象バージョンは以�
 
 詳しくは、『Messaging APIドキュメント』の「[フォントサイズ設定に応じたサイズへの拡大縮小](/docs/messaging-api/flex-message-layout/#size-scaling)」を参照してください。
 
-## Flex Message SimulatorがUpdate 4の一部に対応しました
+### Flex Message SimulatorがUpdate 4の一部に対応しました
 
 [Flex Message Simulator](/flex-simulator/)が、Flex Message Update 4で追加されたバブルのサイズに対応しました。現時点では、`scaling`プロパティには対応していません。今後対応する予定です。
 
@@ -47,7 +47,7 @@ Flex Message Simulatorを使うと、簡単にFlex MessageのJSONデータを作
 Flex Message Simulatorは、Flex Messageのレイアウトを保証するものではありません。受信端末の環境によって、同じFlex Messageでも描画結果が異なる可能性があります。描画に影響を与える要素には、OS、LINEのバージョン、端末の解像度、言語設定、フォントなどがあります。
 ::
 
-### 対象バージョン
+#### 対象バージョン
 
 仕様変更の対象となるLINEバージョンは以下のとおりです。
 

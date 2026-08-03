@@ -4,7 +4,7 @@ navigation: true
 description: ユーザーが、LINEミニアプリに初めてアクセスする際に表示される同意画面をスキップできる「チャネル同意の簡略化」機能がリリースされました。
 meta: '{"date":"2021-08-12 00:00 UTC","tags":"LINE MINI app, console","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-08-12-channel-consent-simplification
-__hash__: 1mMzpJ65oT0X4CxivBTXKWwINzt5_b-ajOIacoS8CJo
+__hash__: 4RsIYc9CB1Lvs8hC2eJj0N0Jqr_whdYnfiPkq3OB9zg
 seo:
   title: 同意画面をスキップできる「チャネル同意の簡略化」機能をリリースしました
   description: ユーザーが、LINEミニアプリに初めてアクセスする際に表示される同意画面をスキップできる「チャネル同意の簡略化」機能がリリースされました。
@@ -16,7 +16,7 @@ seo:
 「チャネル同意の簡略化」機能でスキップされる権限同意は、:glossary-tooltip[[ユーザーID](/glossary/#user-id)]{glossary-id="user-id"}（`openid`スコープ）のみです。ユーザーのプロフィール情報取得やメッセージ送信に必要な権限（`profile`スコープまたは`chat_message.write`スコープ）は、「チャネル同意の簡略化」の対象に含まれません。
 ::
 
-## 「チャネル同意の簡略化」の設定方法
+### 「チャネル同意の簡略化」の設定方法
 
 [LINE Developersコンソール](/console/)のLINEミニアプリチャネルで、LIFFタブの**チャネル同意の簡略化**セクションのトグルボタンをオン（右）にすることで、「チャネル同意の簡略化」が有効化されます。
 
@@ -28,7 +28,7 @@ seo:
 - 「チャネル同意の簡略化」を有効化したチャネルでは、`openid`スコープが自動的に有効化されます。
 ::
 
-## 「チャネル同意の簡略化」を有効化したLINEミニアプリにアクセスした際の動作
+### 「チャネル同意の簡略化」を有効化したLINEミニアプリにアクセスした際の動作
 
 「チャネル同意の簡略化」を有効化したLINEミニアプリに初めてアクセスした場合は、チャネル同意画面が表示され、:glossary-tooltip[[ユーザーID](/glossary/#user-id)]{glossary-id="user-id"}の利用に対する同意を要求されます。
 

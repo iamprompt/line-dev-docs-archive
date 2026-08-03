@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-20 00:00 UTC","tags":"LIFF","new":"false","locale":"en"}'
 path: /en/_partials/news/2020/2020-05-20-liff-endpoint-url-improvement
-__hash__: YeVyrSWoa4GU7vtd1JeY6Kmc9ZRAjDt9KP9d3HHCk-g
+__hash__: LfPCJB1ODfoo4tVAusdu9MvKD6CtFdpRRavdZin4LjU
 seo:
   title: '[Updated] You can soon add and use paths to your LIFF endpoint URL'
   description: ''
@@ -51,6 +51,6 @@ Learn more about [Adding a LIFF app to your channel](/docs/liff/registering-liff
 
 We apologize for the confusion caused by the previous specification. We will continue to improve the quality of the services we provide to our developers and we greatly appreciate your understanding.
 
-## Scheduled date of specification change
+### Scheduled date of specification change
 
 Second half of June, 2020

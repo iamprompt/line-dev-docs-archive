@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-11 00:00 UTC","tags":"outage-report, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2026/2026-05-11-liff-outage
-__hash__: fn7bOpO-raVRhRG7fVa4Cj410fJ12WnJHJgbOtHZb8U
+__hash__: GCz4aAUlT_lircbArx5XaGa5jqTM1UECBOQshZ7cAfs
 seo:
   title: '[Resolved/Updated] Notice about service outage for LIFF/LINE MINI App'
   description: ''
@@ -22,22 +22,22 @@ We've added a [Workaround](#workaround-20260511) section.
 
 The following issues were occurring in the LIFF/LINE MINI App, but we've released an updated version of LINE that resolves them. We sincerely apologize for any inconvenience that this may have caused.
 
-## Date and time of outage
+### Date and time of outage
 
 April 27, 2026 - May 14, 2026
 
-## Cause of the outage
+### Cause of the outage
 
 Bug in LINE for Android versions 26.6.0 and 26.6.1
 
-## Details
+### Details
 
 The following issues were occurring in LIFF/LINE MINI Apps under specific conditions:
 
 - User profiles couldn't be retrieved
 - The LIFF API wasn't working properly
 
-## Impact
+### Impact
 
 This issue occurred when all of the following conditions were met:
 
@@ -47,7 +47,7 @@ This issue occurred when all of the following conditions were met:
 
 If all of the above conditions are met, updating the user's LINE version to `26.6.2` or later will resolve the issue.
 
-## Workaround
+### Workaround
 
 This issue occurred when the LIFF SDK referenced an invalid access token. You can potentially work around the issue by performing the following steps on your LIFF/LINE MINI App, even on devices where LINE hasn't been updated:
 

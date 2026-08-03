@@ -4,7 +4,7 @@ navigation: true
 description: 2026年2月19日にLINEミニアプリポリシーを改定します。
 meta: '{"date":"2026-02-06 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-02-06-line-mini-app-policy
-__hash__: P69M7vuGtVvG1_XnN3MS3NpLMevRhVn6tbAnqAtwzmg
+__hash__: 82jSWxTePRKbxrDycHEMSLG83gUYIt7_5CoKb_-MSrc
 seo:
   title: 2026年2月19日にLINEミニアプリポリシーを改定します
   description: 2026年2月19日にLINEミニアプリポリシーを改定します。
@@ -12,13 +12,13 @@ seo:
 
 2026年2月19日に[LINEミニアプリポリシー](https://terms2.line.me/LINE_MINI_App?lang=ja){rel="[\"nofollow\"]"}を改定します。
 
-## 改定予定日
+### 改定予定日
 
 2026年2月19日
 
 なお、内容および日時は、変更される可能性があります。
 
-## 改定内容
+### 改定内容
 
 - デジタルコンテンツに関する内容の変更
 - プライバシーポリシーに関する内容の明確化
@@ -30,7 +30,7 @@ seo:
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [LINEミニアプリポリシー](https://terms2.line.me/LINE_MINI_App?lang=ja){rel="[\"nofollow\"]"} | [LINEミニアプリポリシー](https://workers-hub.ent.box.com/s/5f331dhgoj3kh8qfklfigdc6cd9z44nd){rel="[\"nofollow\"]"} |
 
-## 改定の背景
+### 改定の背景
 
 これまで、LINEミニアプリでは、デジタルコンテンツなどの仮想アイテムの販売を原則として禁止していました。今後、日本において、提供開始を予定しているアプリ内課金の機能を利用することで、仮想アイテムの販売が可能となります。これに伴い、LINEミニアプリポリシーを改定することになりました。
 

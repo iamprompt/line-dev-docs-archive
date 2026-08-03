@@ -9,7 +9,7 @@ description: >-
   implementation.
 meta: '{"date":"2020-04-21 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-21-notice-return-value-of-sharetargetpicker
-__hash__: 50jbpckltAjZQF4jOt3f9EIwy1nwjs9okOIWiwQFXdY
+__hash__: 5b7Hi2U4iFz1_wSWdr35CAFRXhcwbb1pIz6y4pHeL-o
 seo:
   title: Notice about the return value of liff.shareTargetPicker()
   description: >-
@@ -27,15 +27,15 @@ If you are developing an app that uses the current specification, change the imp
 The specification for the return value of `liff.shareTargetPicker()` after the change isn't currently fixed.
 ::
 
-## Summary
+### Summary
 
 Before the specification change, the LIFF app could check whether the target picker could be displayed but couldn't check whether the message could be sent.
 
 After the specification change, the LIFF app can check whether a message has been sent or not, so you can implement a change in LIFF app behavior to suit the user's situation.
 
-## Before the specification change
+### Before the specification change
 
-### Sample
+#### Sample
 
 ```javascript
 if (liff.isApiAvailable('shareTargetPicker')) {
@@ -53,11 +53,11 @@ if (liff.isApiAvailable('shareTargetPicker')) {
 }
 ```
 
-### Syntax
+#### Syntax
 
 `liff.shareTargetPicker(messages)`
 
-### Return value
+#### Return value
 
 Returns a `Promise` object.
 
@@ -70,9 +70,9 @@ If a problem occurs before the target picker is displayed, the `Promise` is reje
 - In the callback function where the `Promise` has been resolved and rejected, the LIFF app won't work on some devices if the developer uses `alert()`.
 ::
 
-## After the specification change
+### After the specification change
 
-### Sample
+#### Sample
 
 ```javascript
 if (liff.isApiAvailable('shareTargetPicker')) {
@@ -97,11 +97,11 @@ if (liff.isApiAvailable('shareTargetPicker')) {
 }
 ```
 
-### Syntax
+#### Syntax
 
 `liff.shareTargetPicker(messages)`
 
-### Return value
+#### Return value
 
 Returns a `Promise` object.
 
@@ -117,6 +117,6 @@ We plan to change the error definition as the specification changes in the futur
 In the callback function where the `Promise` has been resolved and rejected, the LIFF app won't work on some devices if the developer uses `alert()`.
 ::
 
-## Scheduled date of specification change
+### Scheduled date of specification change
 
 TBD

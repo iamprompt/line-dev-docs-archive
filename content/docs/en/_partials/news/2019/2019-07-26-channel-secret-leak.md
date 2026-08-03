@@ -7,7 +7,7 @@ description: >-
   inconvenience caused.
 meta: '{"date":"2019-07-26 2:00 UTC","tags":"Outage report, Console","locale":"en"}'
 path: /en/_partials/news/2019/2019-07-26-channel-secret-leak
-__hash__: pwcsAIGvbxylKqr2ltB7qL24woDHLpCwQwbhJJYk3Xg
+__hash__: 8qHA5jJ58rbEDeD43e45dJs_uXMcpUS7blcGfyhUl-k
 seo:
   title: >-
     [Resolved] Member users were able to retrieve Channel secret because of a
@@ -22,13 +22,13 @@ We discovered and fixed a bug in the LINE Developers Console that allowed Member
 
 On July 24, 2019, we emailed this information to all administrators of channels with Member users.
 
-### Issue time
+#### Issue time
 
 Issue inception: September 21, 2017
 
 Issue solved: July 17, 2019
 
-### Details
+#### Details
 
 There was a bug that allowed Member users to obtain the channel secret, which should have appeared only to Admin users.
 
@@ -42,13 +42,13 @@ The channel secret is a secret key provided by LINE to call our APIs and validat
 Originally, Member users can only view basic information and statistics for a channel. They don't have access to the channel secret.
 ::
 
-## What you should do
+### What you should do
 
 If you're concerned that unauthorized Member users have obtained your channel secret, you should issue a new one. Doing so will invalidate the previous channel secret.
 
 After you issue a new channel secret, you'll have to update it in the app which uses the channel secret. Carefully consider the impact of issuing a new channel secret on your app.
 
-### How to issue a new channel secret
+#### How to issue a new channel secret
 
 You can issue a new channel secret on the **Channel settings** tab in the [LINE Developers Console](/console/).
 
@@ -56,7 +56,7 @@ You can issue a new channel secret on the **Channel settings** tab in the [LINE 
 LINE will not forcibly reissue new channel secrets. The Admin user for each channel should decide whether it's necessary to reissue a new channel secret.
 ::
 
-## Acknowledgement
+### Acknowledgement
 
 This bug was reported through the [LINE Security Bug Bounty Program](https://bugbounty.linecorp.com/en/){rel="[\"nofollow\"]"}.
 

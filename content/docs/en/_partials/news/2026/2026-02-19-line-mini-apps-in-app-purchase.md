@@ -8,7 +8,7 @@ description: >-
   Japan.
 meta: '{"date":"2026-02-19 00:00 UTC","tags":"line-mini-app, console","locale":"en"}'
 path: /en/_partials/news/2026/2026-02-19-line-mini-apps-in-app-purchase
-__hash__: kzKQPRX1RzVPaDFFfYinXJjrgN8pSuv6ZAgw_rupeHo
+__hash__: KNCaS4A6_TLMPaRAi41hP5AFhb224MU0mwtSyYsfAI4
 seo:
   title: >-
     In-app purchase feature for LINE MINI Apps in Japan has been officially
@@ -26,11 +26,11 @@ This feature was initially rolled out to select companies starting in July 2025.
 
 To start using the in-app purchase feature, after submitting an application, you must undergo our in-app purchase review and the verification review.
 
-## Release date
+### Release date
 
 February 19, 2026
 
-## Release details
+### Release details
 
 The following updates have been released:
 
@@ -38,11 +38,11 @@ The following updates have been released:
 - [Test payment](/docs/line-mini-app/in-app-purchase/implement-in-app-purchase/#test-payment-guide) in a Developing channel
 - [Webhook URL configuration and test payment feature tester registration](/docs/line-mini-app/in-app-purchase/iap-settings/)
 
-## In-app purchase use conditions
+### In-app purchase use conditions
 
 The LINE MINI App must have both "Region to provide the service" and "Company or owner's country or region" set to "Japan" on the LINE MINI App channel.
 
-## In-app purchase requirements
+### In-app purchase requirements
 
 - The LINE MINI App is a verified MINI App (*)
 - LIFF SDK version of the LINE MINI App is 2.26.0 or later

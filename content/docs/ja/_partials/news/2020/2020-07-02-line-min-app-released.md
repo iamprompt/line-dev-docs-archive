@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
 meta: '{"date":"2020-07-02 00:00 UTC","tags":"LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-02-line-min-app-released
-__hash__: PkI3CxxlgFQ33oTn-4Pgl_sLZ04YR6VDvWx3Yf4Jx2c
+__hash__: 1a2fRYYy-5AWVIRi-MXZXkk90ky9G-3vruboCjqptiE
 seo:
   title: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
   description: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
@@ -12,7 +12,7 @@ seo:
 
 LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
 
-## LINEミニアプリとは
+### LINEミニアプリとは
 
 LINEミニアプリは、LINE上で動作するウェブアプリです。
 
@@ -24,7 +24,7 @@ LINEミニアプリでは、特別なトークルームに「サービスメッ�
 
 詳しくは、「[LINEミニアプリとは](/docs/line-mini-app/discover/introduction/)」を参照してください。
 
-## LINEミニアプリを開発するには
+### LINEミニアプリを開発するには
 
 LINEミニアプリを開発し、ユーザーに提供するには、LINE DevelopersコンソールでLINEミニアプリチャネルを作成する必要があります。
 
@@ -34,7 +34,7 @@ LINEミニアプリを開発し、ユーザーに提供するには、LINE Devel
 
 この機会に、[LINEミニアプリ開発プログラムへの登録](/docs/line-mini-app/support/enroll-line-mini-app/)をお願いいたします。
 
-## LINEミニアプリの開発ドキュメント
+### LINEミニアプリの開発ドキュメント
 
 LINEミニアプリの開発に必要な情報については、以下を参照してください。
 

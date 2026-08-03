@@ -6,7 +6,7 @@ description: >-
   functions. We'll let you know as soon as this situation changes.
 meta: '{"date":"2019-11-29 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2019/2019-11-29-liff-functions-suspended
-__hash__: qVrC7vuW6hkuU0JV_RnNbc24aktMzTcC79co-nMx9cw
+__hash__: kA6w3bFKhucpgrf_2X0yTBF1fs4nDtFmKvrnenq5W5Q
 seo:
   title: Some LIFF functions suspended
   description: >-
@@ -19,7 +19,7 @@ Due to a technical issue, we've temporarily suspended the following LIFF functio
 - `liff.scanCode()`
 - `liff.bluetooth.*`
 
-## Impacted environments
+### Impacted environments
 
 | Environment      | Version                                                                              |
 | ---------------- | ------------------------------------------------------------------------------------ |

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-02-12 00:00 UTC","tags":"line-developers-site,
   docs","locale":"ja"}
 path: /ja/_partials/news/2026/2026-02-12-tips-for-developers-launch
-__hash__: cgirpbYyW5qODLb8AcmfiNJNloOT-GTlQd68PQ_2s20
+__hash__: e3eJGqe3pcdMyVBSYGvKZtFZPvz1_-B2bCW8QHQdsts
 seo:
   title: LINE Developersサイトに「Tips for Developers」を新設しました
   description: LINE Developersサイトに「Tips for Developers」というコンテンツが新設されました。
@@ -14,7 +14,7 @@ seo:
 
 LINE Developersサイトに「[Tips for Developers](/tips/)」というコンテンツが新設されました。
 
-## Tips for Developersとは
+### Tips for Developersとは
 
 Tips for Developersは、ドキュメントやAPIリファレンスとは別枠の「気軽に読める」コンテンツです。
 

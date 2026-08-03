@@ -2,9 +2,10 @@
 title: Notice for corporate customers
 navigation: true
 description: Notice for corporate customers. See also the News.
-meta: '{"layout":"feature-index"}'
+meta: >-
+  {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/partner-docs/notice
-__hash__: jd_SUw1MzEUdCUV6ZvDDxE-q5tpw6Q_nbuSOdd6TjqM
+__hash__: TipotmbFcD0AMIWYQnWBcBXAFgn_0N8QrXlyd8MWiyQ
 seo:
   title: Notice for corporate customers
   description: Notice for corporate customers. See also the News.

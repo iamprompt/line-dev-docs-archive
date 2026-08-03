@@ -8,7 +8,7 @@ description: >-
 meta: '{"date":"2019-11-11 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: >-
   /ja/_partials/news/2019/2019-11-11-liff-cannot-be-used-with-messaging-api-channels
-__hash__: yMsDYDHcmA1-VRMEYJBqTwY-qj4MploEbEl7RkYaYcQ
+__hash__: 2wO4Hd7IT_EStuAqUW3PNSR6mlC0yqWhsttBh2-VPIs
 seo:
   title: Messaging APIのチャネルにはLIFFアプリを追加できなくなります
   description: >-
@@ -19,11 +19,11 @@ seo:
 
 LIFF v2では、LINEログインを中核とした機能拡張を予定しています。そのため、LINEログインチャネルにLIFFアプリを追加することを推奨します。それに伴い、現在サポートしているMessaging APIチャネルにLIFFアプリを追加できなくなる仕様変更が予定されています。
 
-## 仕様変更時期
+### 仕様変更時期
 
 2020年2月上旬
 
-## 影響
+### 影響
 
 | チャネル種別            | 影響                                                                                                |
 | ----------------- | ------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ LIFF v2では、LINEログインを中核とした機能拡張を予定してい
 なお、LINEログインチャネルに追加したLIFFアプリには制限がなく、LIFF v2のすべての機能を利用できます。
 ::
 
-## LINEログインチャネルへの移行
+### LINEログインチャネルへの移行
 
 Messaging APIチャネルに追加したLIFFアプリを継続して使用するには、LINEログインチャネルにLIFFアプリを追加し直してください。
 

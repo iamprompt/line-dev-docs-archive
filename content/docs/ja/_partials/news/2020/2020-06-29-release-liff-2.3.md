@@ -6,7 +6,7 @@ description: |-
   LIFF v2.3.0における変更点は以下のとおりです。
 meta: '{"date":"2020-06-29 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-06-29-release-liff-2.3
-__hash__: 3kZbQ-nXR3XYC-9Agwp3LPxdGClVulbNpmtYmJNO6_4
+__hash__: pB7uPriqKNIYpLj2jk5q2tmYzgKB62nEx36gP19AN9k
 seo:
   title: LIFF v2.3.0をリリースしました
   description: |-
@@ -22,7 +22,7 @@ LIFF v2.3.0における変更点は以下のとおりです。
 - [liff.shareTargetPicker()の送信結果を取得できるようになりました](#shareTargetPicker)
 - [liff.sendMessages()で返されるエラーコードを追加しました](#sendMessage)
 
-## LIFFのエンドポイントURLでパスおよびクエリパラメータを利用できるようになりました
+### LIFFのエンドポイントURLでパスおよびクエリパラメータを利用できるようになりました
 
 以前[お知らせ](/news/2020/05/20/liff-endpoint-url-improvement/)したとおり、[LINE Developersコンソール](/console/)の［**エンドポイントURL**］に入力したパス（`/path`）およびクエリパラメータ（`?key=value`）を、LIFFアプリで利用できるようになりました。
 
@@ -37,7 +37,7 @@ LIFFアプリが新仕様に対応していない場合は、設定を変更し�
 
 詳しくは、『LIFFドキュメント』の「[LIFFアプリを開く](/docs/liff/opening-liff-app/)」を参照してください。
 
-## liff.permanentLink.createUrl()メソッドで例外が発生する条件を追加しました
+### liff.permanentLink.createUrl()メソッドで例外が発生する条件を追加しました
 
 `liff.permanentLink.createUrl()`メソッドを実行したとき、現在のページのURLが［**エンドポイントURL**］に指定したURLで始まらない場合に、例外が発生します。
 
@@ -55,7 +55,7 @@ catch (err) {
 
 詳しくは、『LIFF v2 APIリファレンス』の「[`liff.permanentLink.createUrl()`](/reference/liff/#permanent-link-create-url)」を参照してください。
 
-## liff.shareTargetPicker()の送信結果を取得できるようになりました
+### liff.shareTargetPicker()の送信結果を取得できるようになりました
 
 [2020年4月21日にお知らせ](/news/2020/04/21/notice-return-value-of-sharetargetpicker/)したとおり、`liff.shareTargetPicker()`の送信結果を取得できるようになりました。
 
@@ -68,7 +68,7 @@ catch (err) {
 - ユーザーがLINE 10.3.0～LINE 10.10.0を使用している場合は、この仕様変更の影響を受けません。
 ::
 
-### 仕様変更に対応するサンプルコード
+#### 仕様変更に対応するサンプルコード
 
 以下のように、ユーザーが使用しているLINEバージョンによって戻り値を処理することをお勧めします。
 
@@ -105,7 +105,7 @@ if (liff.isApiAvailable('shareTargetPicker')) {
 
 詳しくは、『LIFF v2 APIリファレンス』の「[`liff.shareTargetPicker()`](/reference/liff/#share-target-picker)」を参照してください。
 
-## liff.sendMessages()で返されるエラーコードを追加しました
+### liff.sendMessages()で返されるエラーコードを追加しました
 
 `liff.sendMessages()`に不正なパラメータを渡した場合、`LiffError`のエラーコードで`400`が返されていました。仕様変更後は、`400`の代わりに`INVALID_ARGUMENT`が返されます。
 

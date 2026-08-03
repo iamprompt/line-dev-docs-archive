@@ -5,7 +5,7 @@ description: >-
   2026年3月11日より、台湾およびタイにおいて、LINEミニアプリポリシーにおける「本サービスのご利用対象者」であれば、どなたでもLINEミニアプリチャネルを作成できるようになりました。
 meta: '{"date":"2026-03-11 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-03-11-line-mini-app
-__hash__: 6MIRCs-a93sR4TRup1BoZDLPH84-CMl43Je_JKDslcw
+__hash__: UWBtEmnGa-4mJY2qTQU4kAhbPap1PRag_u4fM-YLDbY
 seo:
   title: 2026年3月11日より、台湾およびタイでどなたでもLINEミニアプリを公開できるようになりました
   description: >-
@@ -18,11 +18,11 @@ seo:
 
 詳しくは、『LINEミニアプリドキュメント』の「[LINEミニアプリチャネルを作成する](/docs/line-mini-app/develop/develop-overview/#create-line-mini-app-channel)」を参照してください。
 
-## 変更日
+### 変更日
 
 2026年3月11日
 
-## LINEミニアプリの認証審査について
+### LINEミニアプリの認証審査について
 
 サービスを提供する地域が台湾またはタイの場合は、LINEミニアプリを:glossary-tooltip[[認証済ミニアプリ](/glossary/#verified-mini-app)]{glossary-id="verified-mini-app"}として公開するための認証審査は、認証プロバイダー配下のLINEミニアプリチャネルのみ申請できます。
 

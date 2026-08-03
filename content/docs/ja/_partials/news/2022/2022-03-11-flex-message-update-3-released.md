@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-03-11 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"ja"}
 path: /ja/_partials/news/2022/2022-03-11-flex-message-update-3-released
-__hash__: 1br_sAbucTc84aa_gV0xikQqG2ndcjxgNjcINSr1NaA
+__hash__: fkI793nA4J2gKcyom011cumeTEqfZopV2oU0l90fyns
 seo:
   title: 【更新】Flex Message Update 3をリリースしました
   description: ''
@@ -25,7 +25,7 @@ Flex Message Update 3では、以下の機能追加を行いました。
 - [テキストコンポーネント内の行間を広げられるようになりました](#text-component-2022-03-11)
 - [Flex Message SimulatorがUpdate 3に対応しました](#flex-message-simulator-2022-03-11)
 
-## ヒーローのブロックに動画を表示できるようになりました
+### ヒーローのブロックに動画を表示できるようになりました
 
 Flex Messageに[動画コンポーネント](/reference/messaging-api/#f-video)が追加されました。動画コンポーネントを使うと、ヒーローの[ブロック](/docs/messaging-api/flex-message-elements/#block)に動画を表示できます。
 
@@ -33,13 +33,13 @@ Flex Messageに[動画コンポーネント](/reference/messaging-api/#f-video)�
 
 詳しくは、『Messaging APIドキュメント』の「[動画を含むFlex Messageを作成する](/docs/messaging-api/create-flex-message-including-video/)」を参照してください。
 
-## ボックスコンポーネントの最大幅と最大高を指定できるようになりました
+### ボックスコンポーネントの最大幅と最大高を指定できるようになりました
 
 [ボックスコンポーネント](/reference/messaging-api/#box)に`maxWidth`プロパティと`maxHeight`プロパティが追加されました。これらのプロパティを使うと、ボックスコンポーネントの最大幅や最大高を指定することができます。
 
 詳しくは、『Messaging APIドキュメント』の「[ボックスの最大幅](/docs/messaging-api/flex-message-layout/#box-max-width)」および「[ボックスの最大高](/docs/messaging-api/flex-message-layout/#box-max-height)」を参照してください。
 
-## テキストコンポーネント内の行間を広げられるようになりました
+### テキストコンポーネント内の行間を広げられるようになりました
 
 [テキストコンポーネント](/reference/messaging-api/#f-text)に`lineSpacing`プロパティが追加されました。`lineSpacing`プロパティを使うと、テキストコンポーネント内の行間を広げることができます。
 
@@ -49,7 +49,7 @@ Flex Messageに[動画コンポーネント](/reference/messaging-api/#f-video)�
 
 詳しくは、『Messaging APIドキュメント』の「[テキスト内の行間を広げる](/docs/messaging-api/flex-message-elements/#text-line-spacing)」を参照してください。
 
-## Flex Message SimulatorがUpdate 3に対応しました
+### Flex Message SimulatorがUpdate 3に対応しました
 
 [Flex Message Simulator](/flex-simulator/)が、Flex Message Update 3に対応しました。
 

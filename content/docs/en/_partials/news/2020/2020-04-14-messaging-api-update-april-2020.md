@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-04-14 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-14-messaging-api-update-april-2020
-__hash__: 9ZuiH6XktzxTn9BcK_fk3h_1djDL_ZgSSLfyKVmAPoo
+__hash__: Py6coU_8c0lb20gEGN3WzW5LiS3LdnW6RK6b0PwuMDA
 seo:
   title: '[Updated] Messaging API update for April 2020'
   description: ''
@@ -21,7 +21,7 @@ We've changed the following property names, which were announced on April 14 202
 
 We made several improvements to the Messaging API.
 
-## Use LINE emoji in messages
+### Use LINE emoji in messages
 
 In addition to standard unicode emoji and (deprecated) LINE original emoji, you can now include LINE emoji when you send a [text message](/reference/messaging-api/#text-message) with the Messaging API.
 
@@ -44,14 +44,14 @@ LINE emoji are identified by a `productId` and `emojiId`:
 
 For details, see the [Text message](/reference/messaging-api/#text-message) section in the Messaging API reference.
 
-## Get user's language
+### Get user's language
 
 The [Get profile](/reference/messaging-api/#get-profile) endpoint now returns a `language` property in addition to other user profile information, provided one of these situations applies:
 
 - User has a LINE account created in Japan and has agreed to the Privacy Policy of LINE version 8.0.0 or later
 - User has a LINE account created in Taiwan, Thailand, or Indonesia and has agreed to the Privacy Policy of LINE version 8.9.0 or later
 
-## Multicast recipient limit removed
+### Multicast recipient limit removed
 
 Previously, messages sent with the [Send multicast message](/reference/messaging-api/#send-multicast-message) endpoint were limited to a maximum number of recipients. This limit has been removed. Other rate limits remain in place. See this table for a comparison of the previous and current situation:
 

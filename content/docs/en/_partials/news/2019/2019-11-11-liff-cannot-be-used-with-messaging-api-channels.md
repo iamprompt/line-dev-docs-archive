@@ -1,5 +1,5 @@
 ---
-title: Users can no longer add LIFF apps to Messaging API channels
+title: Users will no longer be able to add LIFF apps to Messaging API channels
 navigation: true
 description: >-
   LIFF v2 is scheduled to be updated with LINE Login as the core channel.
@@ -9,9 +9,9 @@ description: >-
 meta: '{"date":"2019-11-11 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: >-
   /en/_partials/news/2019/2019-11-11-liff-cannot-be-used-with-messaging-api-channels
-__hash__: CiEq8DC6y3Bsnihl12sfttCTSjThKhCOHyL4xALhsk8
+__hash__: DbnLVI_v872hkJb-UfCzvHJYH0bECs7Fw5_X2iqofaI
 seo:
-  title: Users can no longer add LIFF apps to Messaging API channels
+  title: Users will no longer be able to add LIFF apps to Messaging API channels
   description: >-
     LIFF v2 is scheduled to be updated with LINE Login as the core channel.
     Additionally, an upcoming change will prevent users from adding LIFF apps to
@@ -21,11 +21,11 @@ seo:
 
 LIFF v2 is scheduled to be updated with LINE Login as the core channel. Additionally, an upcoming change will prevent users from adding LIFF apps to Messaging API channels entirely. We strongly recommend users to add LIFF apps to the LINE Login channel.
 
-## Scheduled change date
+### Scheduled change date
 
 Early February 2020
 
-## Impact
+### Impact
 
 | Channel type          | Impact                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -46,7 +46,7 @@ At this time, users can add LIFF apps to the Messaging API channel. However, we 
 LIFF apps added to the LINE Login channel have no restrictions and can use all LIFF v2 functions.
 ::
 
-## Transition to the LINE Login channel
+### Transition to the LINE Login channel
 
 To continue using the LIFF app added to the Messaging API channel, re-add the LIFF app to the LINE Login channel. Once re-added, LINE Developers Console will issue a new LIFF app ID. As a result, please take note of the following:
 

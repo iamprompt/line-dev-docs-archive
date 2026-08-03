@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインがPKCE対応されました。PKCEを導入することで、LINEログイン v2.1の認可フローをよりセキュアにすることができます。
 meta: '{"date":"2021-04-09 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-09-line-login-pkce-support
-__hash__: hc9zIc6O4Nn-pr2q09s8L5vuZB0RmoftHg8Ahr1IkEo
+__hash__: uciim1FrUDpxifYh8y-AZn1k8hV2x-9P1VHm4IEl3iw
 seo:
   title: LINEログインがPKCE対応されました
   description: LINEログインがPKCE対応されました。PKCEを導入することで、LINEログイン v2.1の認可フローをよりセキュアにすることができます。
@@ -12,13 +12,13 @@ seo:
 
 LINEログインがPKCE対応されました。PKCEを導入することで、LINEログイン v2.1の認可フローをよりセキュアにすることができます。
 
-## PKCEとは何か？
+### PKCEとは何か？
 
 PKCE（Proof Key for Code Exchange）とは、認可コード横取り攻撃への対策を目的とし、[RFC7636](https://datatracker.ietf.org/doc/html/rfc7636){rel="[\"nofollow\"]"}で定義されているOAuth2.0拡張仕様です。
 
 PKCEの機構を持たないOAuth2.0の認可フローでは、悪意のあるアプリが何らかの方法で認可コードを含むカスタムURIを取得した場合、ユーザー固有のアクセストークンを横取りされる恐れがあります。LINEログインを組み込んだウェブアプリにPKCEの認可フローを導入することで、LINEログイン v2.1のセキュリティをさらに向上させ、「認可コード横取り攻撃」を防ぐことができます。
 
-## LINEログインにPKCEを実装するメリット
+### LINEログインにPKCEを実装するメリット
 
 LINEログインを組み込んだウェブアプリに、PKCEを実装した場合と実装していない場合では、以下のように「認可コード横取り攻撃」に対する動作が異なります。ウェブアプリをよりセキュアにするために、PKCEの実装をおすすめします。
 

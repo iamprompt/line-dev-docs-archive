@@ -4,13 +4,18 @@ navigation: true
 description: ''
 meta: >-
   {"date":"2026-07-28 00:00 UTC","tags":"outage-report, line-platform,
-  line-login, liff, line-mini-app, messaging-api, console","locale":"en"}
+  line-login, liff, line-mini-app, messaging-api,
+  options-for-corporate-customers, console","locale":"en"}
 path: /en/_partials/news/2026/2026-07-28-messaging-api-outage
-__hash__: vk4F9XU7JwgujXRohBNGQVnJnxWKLzW9arC8trMNimI
+__hash__: ZRVcXUCPqa5unIrmfU36Ndog0UVBfqS9QCpLeyqU4rQ
 seo:
   title: '[Resolved/Updated] Notice about service outage for the LINE Platform'
   description: ''
 ---
+
+::admonition{title="Updated on August 3, 2026" type="note"}
+We've added information regarding LINE notification messages to the [Impact](#messaging-api-outage-impact-20260728) and [Details](#messaging-api-outage-details-20260728).
+::
 
 ::admonition{title="Updated on July 29, 2026" type="note"}
 We've updated the [Date and time of outage](#messaging-api-outage-date-20260728) and [Details](#messaging-api-outage-details-20260728) following the resolution of the issue.
@@ -22,24 +27,25 @@ We've updated the [Impact](#messaging-api-outage-impact-20260728) and [Details](
 
 We'd like to inform you about a service outage regarding the LINE Platform. The issue has now been resolved. We sincerely apologize for any inconvenience that this may have caused.
 
-## Date and time of outage
+### Date and time of outage
 
 July 28, 2026 around 16:46 - around 21:11 (UTC+9)
 
-## Cause of the outage
+### Cause of the outage
 
 Under investigation
 
-We will provide an update on the cause of the outage once the investigation is complete.
+We'll provide an update on the cause of the outage once the investigation is complete.
 
-## Impact
+### Impact
 
 - Messaging API
 - LINE Login
 - LIFF/LINE MINI App
 - LINE Developers Console
+- LINE notification messages
 
-## Details
+### Details
 
 These are the main impacts per product:
 
@@ -47,26 +53,35 @@ These are the main impacts per product:
 - [LINE Login](#outage-state-20260728-02)
 - [LIFF/LINE MINI App](#outage-state-20260728-03)
 - [LINE Developers Console](#outage-state-20260728-04)
+- [LINE notification messages](#outage-state-20260728-05)
 
-### Messaging API
+#### Messaging API
 
 - There were instances where sending webhook events was delayed or didn't work properly.
 - Some requests weren't processed properly, resulting in errors with status code 5xx.
 
-### LINE Login
+#### LINE Login
 
 There were instances where adding a LINE Official Account as a friend or unblocking it using the [add friend option](/docs/line-login/link-a-bot/) didn't work properly.
 
-### LIFF/LINE MINI App
+#### LIFF/LINE MINI App
 
 - There were instances where adding a LINE Official Account as a friend or unblocking it using the [add friend option](/docs/line-login/link-a-bot/) or the [`liff.requestFriendship()`](/reference/liff/#request-friendship) method didn't work properly.
 - There were instances where [service messages](/docs/line-mini-app/develop/service-messages/) were delayed or weren't sent properly.
 
-### LINE Developers Console
+#### LINE Developers Console
 
 There were instances where channel settings couldn't be changed properly.
+
+### LINE notification messages
+
+- There were instances where sending webhook events ([delivery completion events](/docs/partner-docs/line-notification-messages/message-sending-complete-webhook-event/)) was delayed or didn't work properly.
+- Some requests weren't processed properly, resulting in errors with status code 5xx.
+- There were instances where messages weren't sent even after users configured their LINE notification message reception settings or completed SMS authentication and became eligible to receive LINE notification messages.
+
+  - We plan to send each affected user an apology and information about this outage.
 
   
 When an outage occurs, we post a preliminary report on the LINE API Status. For more information, see [Check the availability of the LINE Platform (LINE API Status)](/docs/basics/line-api-status/) in the LINE Platform basics.
 
-We will continue to improve the quality of our services to prevent future outages. Thank you for your understanding.
+We'll continue to improve the quality of our services to prevent future outages. Thank you for your understanding.

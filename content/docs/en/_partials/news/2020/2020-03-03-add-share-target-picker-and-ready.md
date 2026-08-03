@@ -4,7 +4,7 @@ navigation: true
 description: We added liff.shareTargetPicker() and liff.ready to LIFF v2.
 meta: '{"date":"2020-03-03 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-03-03-add-share-target-picker-and-ready
-__hash__: 6-VzqkhRyjZ9XnBkENiGAtZfZa0ve7OOGq0ejh5jlPY
+__hash__: fy4I6-Z2nEv7mYVVtBto6mGa0RfrWqQXh3Pq9LYvADI
 seo:
   title: liff.shareTargetPicker() and liff.ready added to LIFF v2
   description: We added liff.shareTargetPicker() and liff.ready to LIFF v2.
@@ -12,7 +12,7 @@ seo:
 
 We added `liff.shareTargetPicker()` and `liff.ready` to LIFF v2.
 
-## liff.shareTargetPicker()
+### liff.shareTargetPicker()
 
 Execute the `liff.shareTargetPicker()` method to display the target picker (screen for selecting a group or friend) and send the message created by the developer to the selected target. This message appears to your group or friends as if you had sent it.
 
@@ -24,7 +24,7 @@ For more information, see [Sending messages to a user's friend (share target pic
 Target picker is supported by LINE 10.3.0 for iOS and Android.
 ::
 
-## liff.ready
+### liff.ready
 
 With `liff.ready`, you can get the `Promise` object that resolves when you run [`liff.init()`](/reference/liff/#initialize-liff-app) for the first time after starting the LIFF app. If you use `liff.ready`, you can execute any process after the completion of `liff.init()`.
 

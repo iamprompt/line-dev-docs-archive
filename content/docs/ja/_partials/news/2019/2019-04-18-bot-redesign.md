@@ -6,7 +6,7 @@ description: >-
   APIの機能が以下のように変更されました。
 meta: '{"date":"2019-04-18 00:00 UTC","tags":"Messaging API, Console","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-04-18-bot-redesign
-__hash__: 47aQN6fmhXOlygSzwpXuS7M5zvp4qGkq50qNnBZfk-A
+__hash__: GimOx8n7KZ4_jY-NOxvQF3-yO6ZgSpQqA1j33T_WhJc
 seo:
   title: LINE@アカウントのLINE公式アカウントへの統合に伴う変更について
   description: >-
@@ -16,21 +16,21 @@ seo:
 
 [LINE@アカウントのLINE公式アカウントへの統合](https://www.lycorp.co.jp/news/archive/L/ja/ja20181203_B.pdf){rel="[\"nofollow\"]"}に伴い、[LINE Developersコンソール](/console/)およびMessaging APIの機能が以下のように変更されました。
 
-## LINE Developersコンソールの機能変更
+### LINE Developersコンソールの機能変更
 
-### 作成されるアカウントの種別
+#### 作成されるアカウントの種別
 
 LINE DevelopersコンソールでMessaging APIのチャネルを作成すると、LINE@アカウントではなくLINE公式アカウントが作成されます。
 
 詳しくは、「[LINE@アカウントの移行](/docs/messaging-api/migrating-line-at/)」を参照してください。既存のLINE@アカウントも、LINE公式アカウントに順次移行されます。
 
-### プライバシーポリシーと利用条件
+#### プライバシーポリシーと利用条件
 
 LINEログインおよびMessagig APIのチャネルに、プライバシーポリシーと利用条件のURLを設定できます。
 
 将来的には、これらのURLを設定すると、LINEログインおよびLINE公式アカウントのユーザー同意画面に、プライバシーポリシーと利用条件へのリンクが表示されるようになる予定です。
 
-## Messaging APIの機能拡張
+### Messaging APIの機能拡張
 
 新しい、または移行済みのLINE公式アカウントに紐づけられたボットでは、利用プランを問わず以下の機能を利用できます。
 

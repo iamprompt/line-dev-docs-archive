@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-12-23 00:00 UTC","tags":"Options for corporate customers, LINE
   Ads","locale":"ja"}
 path: /ja/_partials/news/2019/2019-12-23-options-for-corporate-customers
-__hash__: m435Wv0xauDX_d8_61wWdWxL83D7Umf6-ySli-We9b0
+__hash__: 8FsjMyIx3pSVBcjs0hdTQ2-gAD4hk3xGqNT6gdTkAyY
 seo:
   title: 法人ユーザー向けオプションおよびLINE  Ads Platform APIのドキュメントがリリースされました
   description: ''
@@ -20,7 +20,7 @@ LINEは今後もお客様への一層のサービス向上に取組んでまい�
 
 法人ユーザー向けオプションおよびLINE Ads Platform APIのドキュメントがリリースされました。
 
-## 法人ユーザー向けオプション
+### 法人ユーザー向けオプション
 
 法人ユーザー向けオプションのドキュメントでは、以下のオプション機能の使いかたを説明しています。
 
@@ -40,7 +40,7 @@ LINEは今後もお客様への一層のサービス向上に取組んでまい�
 自社のLINE公式アカウントでご利用になりたいお客様は、担当営業までご連絡いただくか、[弊社パートナー](https://www.linebiz.com/jp/partner/sales/){rel="[\"nofollow\"]"}にお問い合わせください。
 ::
 
-## LINE Ads Platform API
+### LINE Ads Platform API
 
 LINE Ads Platform APIのドキュメントでは、LINE Ads Platformを利用している方に公開しているAPIの使いかたを説明しています。
 

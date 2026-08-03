@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-04-14 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-04-14-messaging-api-update-april-2020
-__hash__: NMRIO_NBbPkKhWAVNcnevrQ1BF-WqnA8UDKitd15LT4
+__hash__: RhdIRsEZmVUXQ3M6OAl6dPmvP4rGGT1pIjnlxrfA6L4
 seo:
   title: 【更新】Messaging APIアップデート（2020年4月）
   description: ''
@@ -21,7 +21,7 @@ seo:
 
 Messaging APIにおいて、以下の改善を行いました。
 
-## テキストメッセージでLINE絵文字を送信する
+### テキストメッセージでLINE絵文字を送信する
 
 Messaging APIで[テキストメッセージ](/reference/messaging-api/#text-message)を送信する際、Unicodeで定義された絵文字、LINEが独自に定義した絵文字（非推奨）を送信できますが、さらに、LINE絵文字を送信できるようになりました。
 
@@ -44,7 +44,7 @@ LINE絵文字は、`productId`および`emojiId`で指定します。
 
 詳しくは、『Messaging APIリファレンス』の「[テキストメッセージ](/reference/messaging-api/#text-message)」を参照してください。
 
-## ユーザーの言語を取得する
+### ユーザーの言語を取得する
 
 [プロフィールを取得する](/reference/messaging-api/#get-profile)エンドポイントで、既存のユーザープロフィール情報に加えて、`language`プロパティが返されるようになりました。
 
@@ -53,7 +53,7 @@ LINE絵文字は、`productId`および`emojiId`で指定します。
 - 日本で作成されたLINEアカウントを使用しているユーザーが、LINEバージョン8.0.0以降で、プライバシーポリシーに同意している場合
 - 台湾、タイ、またはインドネシアで作成されたLINEアカウントを使用しているユーザーが、LINEバージョン8.9.0以降で、プライバシーポリシーに同意している場合
 
-## マルチキャストの受信者数制限が削除されました
+### マルチキャストの受信者数制限が削除されました
 
 [マルチキャストメッセージを送る](/reference/messaging-api/#send-multicast-message) エンドポイントは、1分間当たりの受信者数が制限されていました。本日、この制限が削除されました。その他のレート制限は引き続き適用されます。変更前の制限と変更後の差異については、以下の表を参照してください。
 

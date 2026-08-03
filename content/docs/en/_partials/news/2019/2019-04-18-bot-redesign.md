@@ -9,7 +9,7 @@ description: >-
   as follows:
 meta: '{"date":"2019-04-18 00:00 UTC","tags":"Messaging API, Console","locale":"en"}'
 path: /en/_partials/news/2019/2019-04-18-bot-redesign
-__hash__: x9FvhdUD2Gaf8Wn8wBqW4BtEfswO44TKQWj3qvvjcJY
+__hash__: pUJccmgXGXLAlHR64JYXyTwTaM8nC2PML6q3TShGyiI
 seo:
   title: >-
     Changes associated with the integration of LINE@ accounts into LINE Official
@@ -22,21 +22,21 @@ seo:
 
 With the [consolidation of LINE@ account plans into LINE official plans](https://linecorp.com/en/pr/news/en/2018/2550){rel="[\"nofollow\"]"}, we changed the functionality of the [LINE Developers Console](/console/) and the Messaging API as follows:
 
-## Changes in the LINE Developers Console
+### Changes in the LINE Developers Console
 
-### Type of created accounts
+#### Type of created accounts
 
 When you create a Messaging API channel in the LINE Developers Console, a LINE Official Account is created instead of a LINE@ account.
 
 For more information, see [Migration of LINE@ accounts](/docs/messaging-api/migrating-line-at/). Existing LINE@ accounts will be migrated to LINE Official Accounts sequentially.
 
-### Privacy policy and terms of use
+#### Privacy policy and terms of use
 
 Now you can set your own privacy policy and terms of use for your app in your LINE Login and Messaging API channels.
 
 In the future, we will add links to your privacy policy and terms of use for your app in the user consent screen of LINE Login or your LINE Official Account.
 
-## Enhanced Messaging API features
+### Enhanced Messaging API features
 
 Bots associated with new or migrated LINE Official Accounts can use the following features regardless of applied plans:
 

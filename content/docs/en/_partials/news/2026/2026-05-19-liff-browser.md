@@ -8,7 +8,7 @@ description: >-
   tapped, as well as replacing the minimize button with the close button.
 meta: '{"date":"2026-05-19 00:00 UTC","tags":"line-mini-app, liff","locale":"en"}'
 path: /en/_partials/news/2026/2026-05-19-liff-browser
-__hash__: qE9PjJ0d1pbtBLg9qPhog2tj5jJyxDXLGSCchRVof1I
+__hash__: DFEsl94zWJN6xx-nD7k9NeF0we5trdKwITacsaobZ00
 seo:
   title: Changes to LIFF browser header specifications from LINE version 26.7.0
   description: >-
@@ -20,11 +20,11 @@ seo:
 
 Starting from LINE version 26.7.0, the specifications for the header of the LIFF browser used to display LINE MINI Apps and LIFF apps have been updated. These changes include updates to the action button icon and its behavior when tapped, as well as replacing the minimize button with the close button.
 
-## Target version
+### Target version
 
 LINE version 26.7.0 or later
 
-## Changes
+### Changes
 
 The main changes are as follows:
 
@@ -32,7 +32,7 @@ The main changes are as follows:
 - [Action button tap behavior](#tap-20260519)
 - [Minimize button](#minimize-20260519)
 
-### Action button icon
+#### Action button icon
 
 Previously, the action button used an icon representing the multi-tab view. From LINE version 26.7.0 or later, the action button icon has been changed to a vertical ellipsis icon.
 
@@ -40,7 +40,7 @@ Previously, the action button used an icon representing the multi-tab view. From
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | ![](/media/news/2026/action-button-icon-asis.png){className="[\"border\",\"w-fix-300\"]"} | ![](/media/news/2026/action-button-icon-tobe.png){className="[\"border\",\"w-fix-300\"]"} |
 
-### Action button tap behavior
+#### Action button tap behavior
 
 Previously, tapping the action button opened the multi-tab view. From LINE version 26.7.0 or later, tapping the action button now opens a dropdown menu.
 
@@ -64,7 +64,7 @@ The dropdown menu contains the following items:
 
 The items displayed in the dropdown menu vary depending on factors such as whether the app is a LINE MINI App or a LIFF app, and whether the LINE MINI App is verified. For more information, see [Dropdown menu](/docs/line-mini-app/discover/builtin-features/#dropdown) in the LINE MINI App documentation and [Dropdown menu](/docs/liff/overview/#dropdown) in the LIFF documentation.
 
-### Minimize button
+#### Minimize button
 
 For verified MINI Apps, the minimize button was previously displayed in the header. From LINE version 26.7.0 or later, the minimize button has been moved into the dropdown menu, and the close button is now displayed in its place.
 

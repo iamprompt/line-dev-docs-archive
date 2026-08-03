@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-06-28 00:00 UTC","tags":"line-login, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-06-28-require-2fa-on-channels
-__hash__: 3FBJUvFSB5knNvNq7byb46MGzDt8R9cFYPLpdlwfGIM
+__hash__: IcReqmbNw3ppYyGVr5zxNfgE9YMCW7U49luzwzRPHE0
 seo:
   title: >-
     [Updated] Service providers can now require two-factor authentication for
@@ -42,7 +42,7 @@ In late July 2023, we plan to change the default setting to "ON" when creating a
 - [Require two-factor authentication setting on the LINE Developers Console](#two-fa-setting-20230628)
 - [Priority with the Two-factor Authentication Switch function](#priority-with-2fa-switch-20230628)
 
-## What is two-factor authentication?
+### What is two-factor authentication?
 
 Two-factor authentication is a method to authenticate a user using two elements: knowledge known only to the user (such as a password), the user's property (such as an IC card or a smartphone), and biometric information (such as a fingerprint or a face). Two-factor authentication increases the possibility of preventing unauthorized logins even if a password is known to a third party.
 
@@ -64,7 +64,7 @@ Two-factor authentication is available with LINE Login v2.1. If you use LINE Log
 For more information about the differences between the versions, see [LINE Login versions](/docs/line-login/overview/#versions) in LINE Login documentation.
 ::
 
-## Require two-factor authentication setting on the LINE Developers Console
+### Require two-factor authentication setting on the LINE Developers Console
 
 You can set to require two-factor authentication when creating a new channel and when editing an existing channel on the [LINE Developers Console](/console/).
 
@@ -73,7 +73,7 @@ You can set to require two-factor authentication when creating a new channel and
 
 ![2FA Setting](/media/news/2023/2fa-on-a-channel-en.png){className="[\"bg-border\"]"}
 
-## Priority with the Two-factor Authentication Switch function
+### Priority with the Two-factor Authentication Switch function
 
 On April 26, 2022, the [Two-factor Authentication Switch function](/news/2022/04/26/2fa-switch-function/) of the LINE app was released. This is a feature that provides two-factor authentication when logging into services that use LINE Login v2.1 if the toggle switch for **Home** > **Settings** > **Accounts** > **Two-factor authentication** is "ON" (right) on the user's device.
 

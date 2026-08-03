@@ -6,7 +6,7 @@ description: >-
   March 31, 2025.
 meta: '{"date":"2025-04-01 00:00 UTC","tags":"end-of-life","locale":"en"}'
 path: /en/_partials/news/2025/2025-04-01-line-notify
-__hash__: IS4WckoycOr_Vu6F4x1DF2aPK4eDP0ti1L7cNbqhwhM
+__hash__: nIIyOnigHB1x8baiBlm9p6FBSseSsERXqc3NQOUlO30
 seo:
   title: LINE Notify service has been terminated as of March 31, 2025
   description: >-
@@ -16,11 +16,11 @@ seo:
 
 As announced on [October 7, 2024](/news/2024/10/07/line-notify-will-be-discontinued/), [LINE Notify](https://notify-bot.line.me/en/){rel="[\"nofollow\"]"} service has been terminated as of March 31, 2025.
 
-## Date of service termination
+### Date of service termination
 
 March 31, 2025
 
-## Impact
+### Impact
 
 After April 1, 2025, all LINE Notify features, including the following, will no longer be available:
 
@@ -42,13 +42,13 @@ In addition, The LINE Official Account "LINE Notify" (`@linenotify`) and the fol
 - [LINE Notify Help Center](https://help2.line.me/line_notify/web/?lang=en){rel="[\"nofollow\"]"}
 - [LINE Notify Terms and Conditions of Use](https://terms2.line.me/line_notify_terms_of_use?lang=en){rel="[\"nofollow\"]"}
 
-## Alternative method
+### Alternative method
 
 Please consider using the [Messaging API](/services/messaging-api/) as an alternative method of notifying users from your LINE Official Account. You can send a certain number of messages each month for free. For more information, see [Messaging API pricing](/docs/messaging-api/overview/#line-official-account-plan) in the Messaging API documentation.
 
 For more information about features available with the Messaging API, see the [Messaging API documentation](/docs/messaging-api/).
 
-## Contact
+### Contact
 
 Please contact us via the [inquiry form](https://contact-cc.line.me/category2Id/14043){rel="[\"nofollow\"]"}.
 

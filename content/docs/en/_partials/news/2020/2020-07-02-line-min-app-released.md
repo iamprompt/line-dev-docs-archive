@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App opened its documents and entry point of contact.
 meta: '{"date":"2020-07-02 00:00 UTC","tags":"LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-02-line-min-app-released
-__hash__: IJuSoZu_bU3ZwvFBuRPNuSUR-vEHNZGLhq9qunDpB9w
+__hash__: Nr2KCkYhTGLxNrDUlcRVgSRA3fhoNIEGTrIcIRK_xWg
 seo:
   title: LINE MINI App docs and entry point of contact opened
   description: LINE MINI App opened its documents and entry point of contact.
@@ -12,7 +12,7 @@ seo:
 
 LINE MINI App opened its documents and entry point of contact.
 
-## What is LINE MINI App?
+### What is LINE MINI App?
 
 LINE MINI App is a web application that runs on LINE.
 
@@ -24,7 +24,7 @@ LINE MINI App provides even more features than the existing LINE Front-end Frame
 
 For details, see [Discover LINE MINI App](/docs/line-mini-app/discover/introduction/).
 
-## How to develop LINE MINI App
+### How to develop LINE MINI App
 
 In order to develop a LINE MINI App and provide it to your users, you must create a LINE MINI App Channel in the LINE Developers Console.
 
@@ -34,7 +34,7 @@ Currently, only developers of services that have applied to [Enroll in the LINE 
 
 Please take this opportunity to [Enroll in the LINE MINI App Development Program](/docs/line-mini-app/support/enroll-line-mini-app/).
 
-## LINE MINI App Development Documents
+### LINE MINI App Development Documents
 
 Please see the below information necessary for LINE MINI App development.
 

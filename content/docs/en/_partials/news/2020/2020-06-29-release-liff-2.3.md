@@ -6,7 +6,7 @@ description: |-
   The changes in LIFF v2.3.0 are as follows:
 meta: '{"date":"2020-06-29 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-06-29-release-liff-2.3
-__hash__: vehkLnRCN-3n3UhxFj7LZss0qQtgtkAdysZFn9eBnNQ
+__hash__: IzPPGosh8edJpeSSgWbeu3vQl7rlFqH78rWJkriPJlo
 seo:
   title: LIFF v2.3.0 released
   description: |-
@@ -22,7 +22,7 @@ The changes in LIFF v2.3.0 are as follows:
 - [You can now get the send results of liff.shareTargetPicker()](#shareTargetPicker)
 - [An error code returned by liff.sendMessages() added](#sendMessage)
 
-## You can now use paths and query parameters in the LIFF endpoint URL
+### You can now use paths and query parameters in the LIFF endpoint URL
 
 [As announced before](/news/2020/05/20/liff-endpoint-url-improvement/), you can now use paths (`/path`) and query parameters (`?key=value`) added to the LIFF endpoint URL in the LIFF tab of the [LINE Developers Console](/console/).
 
@@ -41,7 +41,7 @@ Don't change the setting if your existing LIFF app doesn't support the new specs
 
 For more information, see [Opening a LIFF app](/docs/liff/opening-liff-app/) in the LIFF documentation.
 
-## A condition for the liff.permanentLink.createUrl() method to throw an exception added
+### A condition for the liff.permanentLink.createUrl() method to throw an exception added
 
 When executing the `liff.permanentLink.createUrl()` method, an exception is thrown if the current page URL doesn't start with the URL specified in **Endpoint URL**.
 
@@ -59,7 +59,7 @@ In this case, you can't get a permanent link because the `liff.permanentLink.cre
 
 For more information, see [`liff.permanentLink.createUrl()`](/reference/liff/#permanent-link-create-url) in the LIFF v2 API reference.
 
-## You can now get the send results of liff.shareTargetPicker()
+### You can now get the send results of liff.shareTargetPicker()
 
 As announced on [April 21, 2020](/news/2020/04/21/notice-return-value-of-sharetargetpicker/), you can now get the send results of `liff.shareTargetPicker()`.
 
@@ -72,7 +72,7 @@ After the change, the LIFF app is able to check whether the message has been sen
 - This spec change doesn't affect users using LINE 10.3.0 - 10.10.0.
 ::
 
-### Sample code for this spec change
+#### Sample code for this spec change
 
 We recommend you to handle the return value according to the LINE versions that users are using as shown below:
 
@@ -109,7 +109,7 @@ if (liff.isApiAvailable('shareTargetPicker')) {
 
 For more information, see [`liff.shareTargetPicker()`](/reference/liff/#share-target-picker) in the LIFF v2 API reference.
 
-## An error code returned by liff.sendMessages() added
+### An error code returned by liff.sendMessages() added
 
 Previously, if passing the wrong parameters to `liff.sendMessages()`, `400` was returned as the error code of `LiffError`. After the spec change, `INVALID_ARGUMENT` is returned instead.
 

@@ -7,7 +7,7 @@ description: >-
   launched.
 meta: '{"date":"2020-04-03 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-03-add-is-api-available
-__hash__: YP2Fc68rH6k5kv6onnCWMSaM8hJDCvG26Gc4lKBIE08
+__hash__: 5nIwFRd0EAqxZIUXTm3QJz8SGF2M_kfqbpuDWfsLnPs
 seo:
   title: liff.isApiAvailable() added to LIFF v2
   description: >-
@@ -22,7 +22,7 @@ We added the method `liff.isApiAvailable()` to LIFF v2. This method checks wheth
 The number of APIs you can specify is limited. Currently, you can only specify `liff.shareTargetPicker()`. We'll notify you when more APIs can be checked with `liff.isApiAvailable()` in the future.
 ::
 
-## Check if share target picker is available
+### Check if share target picker is available
 
 By executing `liff.isApiAvailable()` before you execute `liff.shareTargetPicker()`, you can avoid the user getting an error message on their screen if the share target picker isn't available in their device environment.
 
