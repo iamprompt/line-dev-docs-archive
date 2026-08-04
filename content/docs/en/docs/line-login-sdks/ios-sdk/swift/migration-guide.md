@@ -6,7 +6,7 @@ description: >-
   the LINE SDK to the current version
 meta: '{}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/migration-guide
-__hash__: Z7yxXCo5LhcjO8kG7j82j-O0g8JE75scBWhHmA3vYW8
+__hash__: ylJoGJPL_nXdnWfttQR6UC3tceLgNY6HiudzDISHrlk
 seo:
   title: Upgrading the SDK
   description: >-

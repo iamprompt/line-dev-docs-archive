@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-12-27 00:00 UTC","tags":"liff, line-mini-app,
   line-login","locale":"ja"}
 path: /ja/_partials/news/2022/2022-12-27-liff-spec-change
-__hash__: Bn0IahbzVesMhJO5PFqdMVRxUmDRwd0fHTC2Vd4Jr9g
+__hash__: kCq_G7vIsVBhVH3C4Wk8UwD6dq8U8LKy7lKGziZ1ltk
 seo:
   title: LIFFアプリに対するトークルームの内部識別子の提供廃止を予定しています
   description: 2023年前半に、LIFFアプリに対するトークルームの内部識別子（1対1トークID、グループID、トークルームID）の提供廃止を予定しています。

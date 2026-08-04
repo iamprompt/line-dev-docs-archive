@@ -11,7 +11,7 @@ meta: >-
   {"date":"2023-12-14 00:00 UTC","tags":"line-login, line-sdk,
   android","locale":"en"}
 path: /en/_partials/news/2023/2023-12-14-line-login-sdk-for-android
-__hash__: DdUEZ1Icw-Vd0UgzTFpzeYvBQcWb0U4A-phpzDWU99s
+__hash__: Ei3jyLL9JMvFwK3dksBH4meqf28s-W_fTvM2s0tbPFE
 seo:
   title: LINE SDK for Android v5.10.0 released
   description: >-

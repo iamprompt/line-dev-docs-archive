@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-11-25 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/what-is-the-uniqueness-of-the-message-id
-__hash__: aUiLE71ccPe5j5dPNwlcnxflqnKOg1iyfAh74FWdRI8
+__hash__: XNK1Nxoke-y_4oySWW_1IS8U6OlOJ7svlB6s331Iuu8
 seo:
   title: Webhookのメッセージイベントオブジェクトに含まれるメッセージIDは、メッセージの種類ごと、またはチャネルごとに一意ですか？
   description: メッセージIDには、Messaging APIの環境全体で一意となる値が割り振られます。

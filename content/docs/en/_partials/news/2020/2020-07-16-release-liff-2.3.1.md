@@ -6,7 +6,7 @@ description: |-
   The changes in LIFF v2.3.1 are as follows:
 meta: '{"date":"2020-07-16 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-16-release-liff-2.3.1
-__hash__: xQir7IdZImOLfcgPL-pHKxO1XKO-l1Ft-Bu-cNlgIt0
+__hash__: 9Ln7bGnfKhZKOOeqjyPFjdb9M1NmlpnC1MDX8tg4A8k
 seo:
   title: LIFF v2.3.1 released
   description: |-

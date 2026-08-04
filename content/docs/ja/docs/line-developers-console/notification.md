@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-developers-console/notification
-__hash__: lWuUEhhkmr7u5g8810JWbFMYI0QlhIjZh4Akz1KlgC0
+__hash__: XsXF4wuqmXa2ZBEkG5DLIT_VY95O6gNQCJm3VfBQepE
 seo:
   title: メールや通知センターでお知らせを受け取る
   description: null

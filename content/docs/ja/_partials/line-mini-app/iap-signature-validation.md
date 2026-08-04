@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/iap-signature-validation
-__hash__: ikGen-pnRlf07ru1rvWWxQznHtnLLeCn68z7pSHQS78
+__hash__: gfj-YKGqQKCQUpstsVFj5m5K1Jp3Xc8-mSFk0yzZaxA
 seo:
   description: ''
 ---

@@ -7,7 +7,7 @@ description: >-
   we've made it available.
 meta: '{"date":"2019-10-30 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-10-30-new-insight-api
-__hash__: uNFsKIg8H8oicfb8Ee0iydTfNNoWoarGtTky0TcBNKQ
+__hash__: Za_-ZYpBWXczSmaCdzFlTPNb0dKrNj_tKhQqha_qKJc
 seo:
   title: Endpoint for obtaining user statistics now available in Thailand (TH)
   description: >-

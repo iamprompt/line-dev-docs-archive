@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-01-05 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-internationalize-messages-and-rich-menus
-__hash__: L0hlX5DpR8L1BZQmUV4wNtifP_8obZR1S77WBDjyruM
+__hash__: JGP1BwaMxv2fCft2ewbgIopK_q88ztw38oua7aQL-fk
 seo:
   title: Can I internationalize or multilingualize messages and rich menus?
   description: >-

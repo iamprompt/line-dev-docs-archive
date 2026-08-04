@@ -4,7 +4,7 @@ navigation: true
 description: DevDay 2017で発表した、開発者コミュニティに影響力を持つ外部開発者をLINEが公式に認定するプログラムをリリースし、開発者の募集を開始しました。
 meta: '{"date":"2017-11-01 00:00 UTC","tags":"LINE API Expert","locale":"ja"}'
 path: /ja/_partials/news/2017/2017-11-01-line-api-expert-release
-__hash__: NPf3Fy5wugJzQQroEEh-52aZYAbMfe0k1FbCe-dv64c
+__hash__: ZfYYNku-39RLWpkYPfmuCESbrUeKSZogWzYC9NSq_kY
 seo:
   title: LINE API Expertプログラムがリリースされました
   description: >-

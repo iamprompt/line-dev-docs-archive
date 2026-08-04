@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-06-29 00:00 UTC","tags":"console, flex-message-simulator, docs,
   SSL, end-of-life, life-cycle","locale":"ja"}
 path: /ja/_partials/news/2022/2022-06-29-supported-tls-protocol-versions
-__hash__: Ug27J7b6cCOVHh6yxsz1iipIOJLipSLNL8rhirgowjE
+__hash__: hLNIoXuUrnChyOLzNJgbE35MlLB4SsZmi7Z6yF4ihM8
 seo:
   title: LINE DevelopersサイトのTLS 1.0、TLS 1.1のサポートを終了しました
   description: 2022年6月29日をもってLINE DevelopersサイトのTLS 1.0、TLS 1.1のサポートを終了しました。

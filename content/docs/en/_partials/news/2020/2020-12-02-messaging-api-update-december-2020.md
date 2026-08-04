@@ -6,7 +6,7 @@ description: >-
   event object of the Messaging API.
 meta: '{"date":"2020-12-02 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-12-02-messaging-api-update-december-2020
-__hash__: cD-7M9gGhpE5thtD6S0yHcXIbGKAoRmvmClVKBtsYKk
+__hash__: xMhPCCYQLT6Piq1-uUM1itMZbgGsIzs8LR8NSrjR5qM
 seo:
   title: Messaging API update for December 2020
   description: >-

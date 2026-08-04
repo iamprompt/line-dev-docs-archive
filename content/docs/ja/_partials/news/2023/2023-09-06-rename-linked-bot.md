@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-09-06 00:00 UTC","tags":"line-login, liff, line-mini-app,
   console, line-blockchain","locale":"ja"}
 path: /ja/_partials/news/2023/2023-09-06-rename-linked-bot
-__hash__: T8vhvB-cTbotw9LWdKEeh3apn0jH4XNTbTsZlGVQjHw
+__hash__: ciY3viuf2NqmCgJvqMzr1HzNhdg2aCFY1CqpOdEU-EE
 seo:
   title: LINE Developersコンソールにおいて「ボットリンク機能」および「リンクされたボット」の名称を変更しました
   description: LINE Developersコンソールにおいて、機能の名称を変更しました。

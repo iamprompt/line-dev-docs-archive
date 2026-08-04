@@ -10,7 +10,7 @@ meta: >-
   {"date":"2020-09-15 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2020/2020-09-15-messaging-api-outage
-__hash__: L8C9u0N6rdQijS_ovKggyyua_m1F_nZORx42gSrDVhk
+__hash__: GPxbN7YAmbnS9CAO2i4zQplMbrb7bk_BQomnVleuanA
 seo:
   title: '[Resolved] Notice about service outage for the Messaging API'
   description: >-

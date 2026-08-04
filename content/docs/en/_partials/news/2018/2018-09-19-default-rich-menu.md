@@ -6,7 +6,7 @@ meta: >-
   {"date":"2018-09-19 00:00 UTC","tags":"Messaging API, Rich
   menu","locale":"en"}
 path: /en/_partials/news/2018/2018-09-19-default-rich-menu
-__hash__: m2l1iYM7yd75txc8iEZ1spYV7I9mIoAx7fv80rRSqaE
+__hash__: HHvTtOZI9jyZeChqC4-c6unAUUHWOBuNRPsNcmvZfMI
 seo:
   title: Default rich menu can now be configured with the Messaging API
   description: Now you can configure the default rich menu with the Messaging API.

@@ -6,7 +6,7 @@ description: >-
   and time.
 meta: '{"date":"2016-06-15 00:00 UTC","tags":"Maintenance, Console","local":"en"}'
 path: /ja/_partials/news/2016/2016-06-15-site-unavailable
-__hash__: JdA2VpNPyQVQpGIuUx02vW1nE2nUBYBX19-tx2Emljc
+__hash__: _VOFoTLmQvKE3BIa0awTa_QWuC85OXb2Jr6xnd3E35U
 seo:
   title: Channel Console unavailable temporarily on June 16
   description: >-

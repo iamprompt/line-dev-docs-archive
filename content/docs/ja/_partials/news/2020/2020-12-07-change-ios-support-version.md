@@ -6,7 +6,7 @@ description: >-
   11以前のバージョンでLIFFブラウザを開いた場合の動作については保証しません。
 meta: '{"date":"2020-12-07 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-12-07-change-ios-support-version
-__hash__: YmKqpf2SoJe8HR2Rnam_HtfL9fIOi-tPj2f5nMQbOpA
+__hash__: mG2tpWiFJEz8QW7QNsm1OM-yi5ukkCvB75wACaEwbe8
 seo:
   title: LIFFブラウザのiOSのサポートバージョンが変更されました
   description: >-

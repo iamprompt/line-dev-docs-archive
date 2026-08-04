@@ -8,7 +8,7 @@ description: >-
   Apps in Japan:
 meta: '{"date":"2022-06-01 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-06-01-line-mini-app-pre-examination
-__hash__: Z_XL1ceH1KDYejJqYgbZ9xDOLmiMy0v5t5nixYCvH_k
+__hash__: 4U8e0ayBm4izilk_VIgXtdkLjb8pMAZQQSk-yskV7Kw
 seo:
   title: >-
     In Japan, the pre-examination for LINE MINI Apps has been eliminated, making

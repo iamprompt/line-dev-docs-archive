@@ -7,7 +7,7 @@ meta: >-
   {"date":"2024-04-04 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/what-is-ip-address-of-line-platform
-__hash__: kuQTXxT6dcbphBNikkqRUa5IZ4-9MdPMIsn4sRnj-NI
+__hash__: 2lT7DrjtFKQT5mzmRQRADXwT9d0NKRGpPo9AT0PBvk8
 seo:
   title: ボットサーバーでLINEプラットフォーム以外からのアクセスを制限したいです。LINEプラットフォームのIPアドレスは公開されていますか？
   description: >-

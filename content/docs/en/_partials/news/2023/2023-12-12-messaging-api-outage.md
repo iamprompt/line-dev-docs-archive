@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-12-12 01:00 UTC","tags":"outage-report,
   messaging-api","locale":"en"}
 path: /en/_partials/news/2023/2023-12-12-messaging-api-outage
-__hash__: QWbcivaJlSwedCoJmDXZk9yy8mZZXzuL8srq98Uc1Zo
+__hash__: VeBWecNJaLuyfEvZx3md90v1fzXbSOeDd7IUJqFWaIo
 seo:
   title: '[Resolved] Notice about service outage for some of the insight APIs'
   description: >-

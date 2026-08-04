@@ -4,7 +4,7 @@ navigation: true
 description: Using LINE Login to get authorization from your users
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/integrate-line-login
-__hash__: 49oNhUMjpsvOH9oQAQi96E87dUOYtXDjgKCNKDlpkeo
+__hash__: dcsN4083FvRDQRCJFCtugf2rWVjoNXuP9vzK9jAb2gE
 seo:
   title: Integrating LINE Login with your iOS app
   description: Using LINE Login to get authorization from your users

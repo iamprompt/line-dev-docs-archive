@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-11-25 00:00 UTC","tags":"line-app, line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/what-is-the-rule-to-generate-a-link-from-a-text
-__hash__: '-0ahGJXC1V9yrHRERAi7mj1aeYIharSdYBGneHHtwQc'
+__hash__: BwxyF2mgv2NH1Ilsbwodqh0SkQl_BNIY3LXzaOeLl94
 seo:
   title: >-
     When sending a text message, a series of numbers may be considered a phone

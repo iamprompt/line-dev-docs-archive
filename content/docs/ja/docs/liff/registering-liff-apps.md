@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/registering-liff-apps
-__hash__: V6opcgcAl2rIQYmzekhQ_Vv2EnyEyPXA6dYMwzsUPCE
+__hash__: D_qA5Pg6WBcxOiNuitXew2A9_jtsE6u6et8n0NKCYLA
 seo:
   title: LIFFアプリをチャネルに追加する
   description: ''

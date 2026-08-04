@@ -6,7 +6,7 @@ description: >-
   APIの機能が以下のように変更されました。
 meta: '{"date":"2019-04-18 00:00 UTC","tags":"Messaging API, Console","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-04-18-bot-redesign
-__hash__: GimOx8n7KZ4_jY-NOxvQF3-yO6ZgSpQqA1j33T_WhJc
+__hash__: SKtGu365ZQ0lwPxySDJOFy6XS5lxpABlKND7czdtOM4
 seo:
   title: LINE@アカウントのLINE公式アカウントへの統合に伴う変更について
   description: >-

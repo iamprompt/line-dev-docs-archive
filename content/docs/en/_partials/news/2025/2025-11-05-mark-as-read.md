@@ -10,7 +10,7 @@ meta: >-
   {"date":"2025-11-05 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2025/2025-11-05-mark-as-read
-__hash__: rb2k8_FiUNUwkjyuMWuzstk9aZ1AP1aFuCC17zm7bFc
+__hash__: IUhotIRy0ECzYT_XCY9snxfaednHyqt7gpsTmRtk2LM
 seo:
   title: In the Messaging API, you can now mark messages from users as read
   description: >-

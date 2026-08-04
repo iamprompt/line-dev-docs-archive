@@ -4,7 +4,7 @@ navigation: true
 description: 2020年7月6日にお知らせしたとおり、LIFFのヘッダーに機能を追加しました。
 meta: '{"date":"2020-07-15 00:00 UTC","tags":"LIFF","new":"false","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-15-liff-header-design-improvement
-__hash__: 6UPE0HKsQaHllw6iLjQz7M4wGjn9HOOHw5RMSspeCM8
+__hash__: el6VY6Eeb0tGHCGmS_Ma4a1ptz-MsPDI-g1J5BxE7Y4
 seo:
   title: LIFFのヘッダーに機能を追加しました
   description: 2020年7月6日にお知らせしたとおり、LIFFのヘッダーに機能を追加しました。

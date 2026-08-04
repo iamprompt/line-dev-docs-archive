@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module-technical-using-messaging-api
-__hash__: SWgitlnF_Ynn93Z8gWaz2tEvUUnh7ggTgSTF1gN23lI
+__hash__: JsMwHHV4vrhouTuQ5nf3ierwQfyIHSQR86nRAYDsHJA
 seo:
   title: Using the Messaging API from a module channel
   description: null

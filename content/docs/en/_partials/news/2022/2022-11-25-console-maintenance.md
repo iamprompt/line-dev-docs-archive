@@ -9,7 +9,7 @@ meta: >-
   {"date":"2022-11-25 00:00 UTC","tags":"console, messaging-api,
   line-blockchain, maintenance","locale":"en"}
 path: /en/_partials/news/2022/2022-11-25-console-maintenance
-__hash__: I7ZYJrfAjzYKvzG2-k6myeARGgxP3YFQGzwsrcTujmU
+__hash__: Jh4ubA6KQif1K_WdcQGoO0tpZELOP-mqcf9VJeAKR3Y
 seo:
   title: LINE Developers Console maintenance notice
   description: >-

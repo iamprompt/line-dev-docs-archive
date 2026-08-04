@@ -5,7 +5,7 @@ description: Release notes for the LIFF API. See the latest changes and releases
 meta: >-
   {"tags":null,"author":null,"last_updated":null,"source_language":"en","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/liff/release-notes
-__hash__: 7oHjfUH-8fLIKryQdi8q6uc7BLBZp0vQjpxmoeT2LNw
+__hash__: 4NYqw4Klhsy2wpf3jaH5IViysX7YXaezGT1_dx8X-Xg
 seo:
   title: Release notes
   description: Release notes for the LIFF API. See the latest changes and releases.

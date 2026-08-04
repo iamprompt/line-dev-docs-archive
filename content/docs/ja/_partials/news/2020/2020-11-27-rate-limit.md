@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIでは、エンドポイントごとにレート制限があります。
 meta: '{"date":"2020-11-27 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-27-rate-limit
-__hash__: 59QJTG0jSm2MdrIB16BSI3yFRQmYPtOeFnPrTshUcxM
+__hash__: PuPcCgJFrUEh6eYs4SOl8HaDBD-dThz29ouK_ZradC8
 seo:
   title: 2020年12月よりMessaging APIのレート制限が変更されます
   description: Messaging APIでは、エンドポイントごとにレート制限があります。

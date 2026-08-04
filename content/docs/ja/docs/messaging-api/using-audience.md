@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/using-audience
-__hash__: W0uf0WuAYenNsjf44ffD_0p6VMcmHhssGh7zqS4vNjo
+__hash__: y1qZ7gaGZMq_wIA7k2FCoZaNRLxWJ-ZnvjGT807moEw
 seo:
   title: オーディエンスを使う
   description: null
@@ -71,7 +71,7 @@ Messaging APIとLINE Official Account Manager以外のツール（[LINE広告マ
 
 ### ビジネスマネージャーでオーディエンスを共有する
 
-[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}を使うことで、特定のオーディエンスを複数のサービス（LINE広告マネージャなど）で共有して、相互に利用できるようになります。
+[ビジネスマネージャー](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}を使うことで、特定のオーディエンスを複数のサービス（LINE広告マネージャなど）で共有して、相互に利用できるようになります。
 
 またビジネスマネージャーのオーディエンス共有機能を使うことで、同一プロバイダー配下のMessaging APIチャネル間でもオーディエンスを共有できます。ただしビジネスマネージャーでオーディエンスの共有を設定できるLINE公式アカウントは、認証済アカウントと:glossary-tooltip[[プレミアムアカウント](/glossary/#premium-account)]{glossary-id="premium-account"}のみです。
 
@@ -80,7 +80,7 @@ Messaging APIとLINE Official Account Manager以外のツール（[LINE広告マ
 - [ビジネスマネージャーで共有されたオーディエンスのリストを取得する](/reference/messaging-api/#get-shared-audience-list)
 - [ビジネスマネージャーで共有されたオーディエンスの情報を取得する](/reference/messaging-api/#get-shared-audience)
 
-オーディエンスの共有方法について詳しくは、『ビジネスマネージャーマニュアル』の「[リソースの共有](https://data.linebiz.com/business-manager/manual/bmmaniyuarushare003){rel="[\"nofollow\"]"}」を参照してください。
+オーディエンスの共有方法について詳しくは、『ビジネスマネージャーマニュアル』の「[リソースの共有](https://www.lycbiz.com/jp/manual/BusinessManager/BMmaniyuarushare003/){rel="[\"nofollow\"]"}」を参照してください。
 
 ## オーディエンスの仕様について
 

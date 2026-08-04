@@ -9,7 +9,7 @@ meta: >-
   {"date":"2023-06-22 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-determine-if-user-is-friend-of-line-official-account
-__hash__: qNlMyhf63meA9dpt5O6AHyMEJhLs7tgjr9FnoqFf90g
+__hash__: vgyzbZ_MGfQRtV-6pQR3A8UwO3Yl7hMfUf_djGm04Qs
 seo:
   title: Can I determine if a user is a friend of my LINE Official Account?
   description: >-

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-09-26 2:00 UTC","tags":"Maintenance, LINE Login, Social API,
   Messaging API, LIFF","locale":"en"}
 path: /en/_partials/news/2019/2019-09-26-system-maintenance
-__hash__: tmkAJ68TXo7wG5vv1nxCPTesp6Ht3By4300GDiayUkM
+__hash__: dYP2Yh0Ecwijes3Tb09YzAq3Ec_A0IS2tHQJvGNoMoo
 seo:
   title: Notice about system maintenance
   description: >-

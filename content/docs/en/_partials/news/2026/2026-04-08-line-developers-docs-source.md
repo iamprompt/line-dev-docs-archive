@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-04-08 00:00 UTC","tags":"line-developers-site,
   docs","locale":"en"}
 path: /en/_partials/news/2026/2026-04-08-line-developers-docs-source
-__hash__: O1NfE7MNRofCeijQq8eB6VfiIyb6VEKkXEVuAt9SFOk
+__hash__: TMBgk2Td4EQi2fIEqZBzp1kNFekOZeHE4zKqNDUfiDA
 seo:
   title: >-
     The Markdown files for the LINE Developers site documentation are now

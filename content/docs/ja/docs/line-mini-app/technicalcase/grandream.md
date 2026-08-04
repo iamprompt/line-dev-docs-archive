@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/technicalcase/grandream
-__hash__: qPat4KzGTWNsIlCVWqbcVUHI9H0MjTKYZC7HtG9FSDg
+__hash__: Q-Lu89AmtGjoLaSP8ZkDc9WwZrPG1h09gVB7pbeezVM
 seo:
   title: 開発コストと柔軟性の両立をする「GDLプラットフォーム」の技術事例
   description: ''

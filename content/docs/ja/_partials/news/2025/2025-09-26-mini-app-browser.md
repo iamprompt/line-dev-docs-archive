@@ -5,7 +5,7 @@ description: >-
   LINEミニアプリにおいて、現在は日本、タイ、台湾以外のLINE未使用ユーザーがウェブブラウザでサービスを利用できます。2025年4月2日のニュースでお知らせしたとおり、2025年10月1日より、すべてのユーザーがウェブブラウザでサービスを利用できるように仕様を変更する予定ですのでお知らせします。
 meta: '{"date":"2025-09-26 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-09-26-mini-app-browser
-__hash__: kPMzWT-omd8APFVaBeTf8lrU_GXOTX2YEnwMSSUku8k
+__hash__: lzBcsA1iwKlUUOHcUJRKMcxfGXKdujqHg4Tu223alsI
 seo:
   title: LINEミニアプリにおいて、2025年10月1日よりすべてのユーザーがウェブブラウザでサービスを利用できるようになります
   description: >-

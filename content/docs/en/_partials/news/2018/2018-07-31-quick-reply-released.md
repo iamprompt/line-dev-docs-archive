@@ -8,7 +8,7 @@ description: >-
   simply tap one of the buttons to reply to your bot.
 meta: '{"date":"2018-07-31 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-07-31-quick-reply-released
-__hash__: SozkG8lgfK2ahLdkp5CgpIVZsFPn4B-4Dfz7_dogdLc
+__hash__: _SouEh0egweOQs03dpFzxPUPmhlzss-Bso2e5z4LxUs
 seo:
   title: Quick reply released
   description: >-

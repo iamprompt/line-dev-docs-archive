@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-12-18 00:00 UTC","tags":"docs, messaging-api, line-login, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2024/2024-12-18-document-for-getting-user-profile
-__hash__: ERV9PwgLTIoYFBC_JD8BB2Mv24m6lIvGbKdQ0YVjPIA
+__hash__: 8RgIIrkZD7eXNm6Qkv5EoSndbPxzy8VsAqYR316iKrg
 seo:
   title: ユーザーのプロフィール情報を取得する方法をまとめたドキュメントを公開しました
   description: 『LINEプラットフォームの基礎知識』において、「ユーザーのプロフィール情報を取得する」を公開しました。

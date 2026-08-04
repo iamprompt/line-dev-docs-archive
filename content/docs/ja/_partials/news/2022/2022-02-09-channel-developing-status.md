@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-02-09 00:00 UTC","tags":"console, line-login,
   line-blockchain","locale":"ja"}
 path: /ja/_partials/news/2022/2022-02-09-channel-developing-status
-__hash__: m1hn_Zh4glvukCEcz31QKTG8qtBNDwvRpbYIjAtRkjU
+__hash__: 1DRO2HKlt7S35opQFAR_G0eF7kv1Mahb5Yh7PEtzgi8
 seo:
   title: チャネルのステータスの表記を一部変更しました
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: 'LIFF v2.1.14, v2.2.1, v2.3.2 were released. The changes are as follows:'
 meta: '{"date":"2020-09-14 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-09-14-release-liff-versions
-__hash__: zRb2gUJoVuVQbA04Sr9i3KySOc3AsphDgihpeFVE8sw
+__hash__: eLMCIPziiOCeFNh1uwcFM7apiSyN8OIyZOB7dkaGyMc
 seo:
   title: LIFF v2.1.14, v2.2.1, v2.3.2 released
   description: 'LIFF v2.1.14, v2.2.1, v2.3.2 were released. The changes are as follows:'

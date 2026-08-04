@@ -4,7 +4,7 @@ navigation: true
 description: スタンプの送信を通知するWebhookイベントに、stickerResourceTypeプロパティが追加されました。
 meta: '{"date":"2019-12-05 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-12-05-add-stickerresourcetype-property
-__hash__: kwM7Af3kyOXdbd5Kfs01xA24Rx3AHB-ZV2lkrZ4CB4w
+__hash__: 9XYPs6Dza57BGZYnQPOBIxU4ljQwS_z8CDzSmadrvHw
 seo:
   title: スタンプの送信を通知するWebhookイベントに新しいプロパティが追加されました
   description: スタンプの送信を通知するWebhookイベントに、stickerResourceTypeプロパティが追加されました。

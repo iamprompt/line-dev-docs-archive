@@ -8,7 +8,7 @@ meta: >-
   messaging-api, line-login, liff, line-mini-app,
   options-for-corporate-customers, console","locale":"ja"}
 path: /ja/_partials/news/2024/2024-08-13-maintenance-notice
-__hash__: mC33RYKquXloWwvjdj9Hnh0n26J2gInlFiRI1WWq0W0
+__hash__: 25K36LHNFMSjGrvOlFvW_hrx5j2ZWav5Idk42lpzmH8
 seo:
   title: LINEプラットフォーム メンテナンスのお知らせ
   description: >-

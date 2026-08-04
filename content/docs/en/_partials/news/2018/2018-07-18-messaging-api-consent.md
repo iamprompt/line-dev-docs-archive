@@ -13,7 +13,7 @@ description: >-
   2, 2018.
 meta: '{"date":"2018-07-18 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-07-18-messaging-api-consent
-__hash__: 0awWPEq8Nw9McA44pW8EVFKcZORW-6nHHX_BEuaKPsg
+__hash__: 0fm_B_-5lcGJtXJ2jKf5Cycwb9vUVLI93MQ7Otl5sK0
 seo:
   title: An important message for our users in Thailand, Taiwan, and Indonesia
   description: >-

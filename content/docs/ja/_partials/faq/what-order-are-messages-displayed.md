@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-01-05 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/what-order-are-messages-displayed
-__hash__: bJqGrtBUancjJUi2CM8sMt4R13xDyTiSiF_wDKHKCNU
+__hash__: tj06v4jUdoprZxVG1AAkglb-58tAxTeUri8S5k8TH0g
 seo:
   title: Messaging APIで、同じユーザーに複数のメッセージを送信した場合、メッセージの表示順序はどうなりますか？
   description: メッセージの表示順序は、複数のメッセージをどのように送信したかによって異なります。

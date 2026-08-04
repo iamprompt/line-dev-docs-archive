@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-07-14 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-see-the-results-of-friend-referrals
-__hash__: D7hYa4NwPkH8a4zkIXuS8ovWlyduZNNb19h5iTkDK0o
+__hash__: Xyo2BgQpTzDBHB1p1tCMiAqStXpxLlz7TkXTV4gqOgY
 seo:
   title: ユーザーが友だちにLINE公式アカウントをシェアした際、友だち紹介の結果（友だち追加の有無や人数）をLINE公式アカウント側で取得できますか？
   description: いいえ、できません。

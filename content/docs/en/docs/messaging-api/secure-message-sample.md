@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/secure-message-sample
-__hash__: pqXGY3kF13pinASYY9zwnmSGV_65aiSSy5JDPtmCpSo
+__hash__: _RaAfUJmIrRa2c2eG56uwAEZYKnw343mr3S88B7zmaE
 seo:
   title: Sample code and data for generating secure messages
   description: null

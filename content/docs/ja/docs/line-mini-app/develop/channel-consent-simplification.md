@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/channel-consent-simplification
-__hash__: a01hSNQ4wP9v4vuDqUDG3KGMLfnvmqi5KZ3EXyoqhKY
+__hash__: BGP7nm5TBGW3JZRcjKmyCoXstELq7eye5ICYylWJjNo
 seo:
   title: LINEミニアプリの認可フロー
   description: null

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-server/add-liff-app
-__hash__: azy4HLgbWooMuwKI1IYQDkHXRdPzwgqdhORDhPsl4lU
+__hash__: wlxq0ADcaxDy2TmHHkuy-KwF5m5pmXMIZPfiNWwX6f8
 seo:
   description: ''
 ---

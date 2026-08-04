@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/softbank
-__hash__: XLK61-Di8p5weOjb6Zzzkm9EAN5Bpv0rH90Ba4iZL3k
+__hash__: hufHV4V47GK8Lu0exlw3mDkHuCjzB7UhKlT84Er74hM
 seo:
   title: LINEを活用したサービス開発に Infrastructure as “Low” Code を導入！ CNAPによる開発効率化事例
   description: ''

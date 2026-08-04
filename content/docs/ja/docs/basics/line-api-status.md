@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/basics/line-api-status
-__hash__: tbe-UJC1pLcNn3Ld_dAqqE_73UxHGSWqyUic-pRkQNw
+__hash__: G251L6AcydYl1ChaZ2YEypcE9ZnOwhygh3kk-lPLFaQ
 seo:
   title: LINEプラットフォームの稼働状況を確認する（LINE API Status）
   description: null

@@ -8,7 +8,7 @@ description: >-
   security purposes.
 meta: '{"date":"2016-04-28 00:00 UTC","tags":"Messaging API","local":"en"}'
 path: /en/_partials/news/2016/2016-04-28-msg-api-methods
-__hash__: XCx40mNd4ez22YBmGOV9PHeZY9Yyuc0-sXxinsnY0a0
+__hash__: 8_o46IA4Ih2gsUOtctV0OY3dZte0OiTJgMA20MLy5N4
 seo:
   title: Method for calling APIs for BOT API Trial changed
   description: >-

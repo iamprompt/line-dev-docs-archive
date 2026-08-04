@@ -7,7 +7,7 @@ description: >-
   Here's the information that's now available on our site:
 meta: '{"date":"2020-12-16 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-12-16-line-pay-content-migration
-__hash__: GXTsF-AmsH30DVwohiwOwZL9mzeFN5AN8EL9Q8EFbYg
+__hash__: uIFc3siIhSynA_FUuh9yWHiC88Zj71l3L0Mo6ryoboE
 seo:
   title: The LINE Pay developer's documentation is now on the LINE Developers site
   description: >-

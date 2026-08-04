@@ -6,7 +6,7 @@ description: >-
   this update:
 meta: '{"date":"2021-03-10 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-03-10-messaging-api-update-march-2021
-__hash__: vbTZHG-qpyVCW1ek8cPKRMvxcXutMof8ky0A14EMJi0
+__hash__: sDFH_dF4hpzOJ9TWmbrDdVR-OEYj_g1jyMHKnQ-5878
 seo:
   title: Messaging API update for March 2021
   description: >-

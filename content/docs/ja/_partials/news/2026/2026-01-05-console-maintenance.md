@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-01-05 00:00 UTC","tags":"console, line-mini-app,
   maintenance","locale":"ja"}
 path: /ja/_partials/news/2026/2026-01-05-console-maintenance
-__hash__: fLPWxrJ_5p8QI6CBsPsGO8Hku7CE4Zzwh3v5MhXnMDM
+__hash__: sW0o2kbsL-Q_z4RIIfDsPP3ro0i0fMKwhafG0c64Okk
 seo:
   title: LINE Developersコンソール メンテナンスのお知らせ
   description: LINE Developersコンソールにおいて、以下のメンテナンスを行います。

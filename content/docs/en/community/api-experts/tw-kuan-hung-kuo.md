@@ -9,7 +9,7 @@ meta: >-
   Cloud, SaaS,
   NLP/NLU","git":"https://github.com/godgunman","fb":"https://www.facebook.com/godgunman","twitter":"https://twitter.com/godgunman"}
 path: /en/community/api-experts/tw-kuan-hung-kuo
-__hash__: unqF92ZNlKYG7rI9wIxiTYvqrKdt2ZWo_fACTLIXZXc
+__hash__: MEOpmto1m8MQZjdDiYzl3A4q3TLMu68S2mFVfOXpaC8
 seo:
   title: LINE API Expert - Kuan-Hung Kuo
   description: ''

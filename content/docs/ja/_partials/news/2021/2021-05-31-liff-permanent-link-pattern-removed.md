@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-05-31 00:00 UTC","tags":"LIFF, LINE MINI app,
   Console","locale":"ja"}
 path: /ja/_partials/news/2021/2021-05-31-liff-permanent-link-pattern-removed
-__hash__: y7l_WGbs8yAQZnioDtEx_Q2TQDOnaL_VZp2c-jzrhMk
+__hash__: GP06jJ1IJBa5G2nRCKzs0zUZ_qFmVeivTOeFlHEa17o
 seo:
   title: LINE DevelopersコンソールのLIFFチャネルから［LIFF URLの追加情報の処理方法］設定を削除しました
   description: >-

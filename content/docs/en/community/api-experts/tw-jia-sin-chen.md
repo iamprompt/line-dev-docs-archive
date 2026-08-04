@@ -8,7 +8,7 @@ meta: >-
   API","skills":"Website, Cloud, Android, iOS,
   UI/UX","git":"https://github.com/jarsing","fb":"https://www.facebook.com/jarsing","twitter":""}
 path: /en/community/api-experts/tw-jia-sin-chen
-__hash__: bO6rkYwTX3h14xXFO5wK5qbZFlwcBp7GdZfftbgwyVQ
+__hash__: mL9Bi3rTdga59_gQm2aBXRwlgmPXvoorOlpCGdwJvjg
 seo:
   title: LINE API Expert - Jia-Sin Chen
   description: ''

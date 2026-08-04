@@ -7,7 +7,7 @@ description: >-
 meta: '{"date":"2024-01-18 00:00 UTC","tags":"social-plugins","locale":"en"}'
 path: >-
   /en/_partials/news/2024/2024-01-18-revise-usage-guidelines-for-the-line-social-plugin
-__hash__: 3Fc7lM3_cbq6JNqBbAqwas5oLlJfnX8ZdWuP-1sx9NY
+__hash__: oVvJXaaQr-CI8Gu0o2tj5Lh0C_OOq55dSfzBrL0CSfk
 seo:
   title: Revision of the Usage Guidelines for the LINE Social Plugin
   description: >-

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2024-05-07 00:00 UTC","tags":"maintenance, messaging-api,
   options-for-corporate-customers, console","locale":"en"}
 path: /en/_partials/news/2024/2024-05-07-maintenance-notice
-__hash__: 3vPRInXSOSpqpciMUSbWuDdogCHiy5_6keuNsFzP2lU
+__hash__: Z6bZ9-DGNN5V1zerfAlvqHTkYQtlqZkI0HaYdwPnHJM
 seo:
   title: Maintenance notice for Messaging API, module, and LINE Developers Console
   description: >-

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2025-03-03 00:00 UTC","tags":"outage-report, line-platform,
   line-login, liff, line-mini-app, messaging-api, console","locale":"en"}
 path: /en/_partials/news/2025/2025-03-03-all-products-outage
-__hash__: Rc0KrYWOmwRPUbUyNjN7P6m0xhhatvNGdVBcXdFsuVU
+__hash__: kI0PifR3iEW9FGB-X0XiVEDi2MMIFkBwrsNnNgMTT7M
 seo:
   title: '[Resolved] Notice about service outage for the LINE Platform'
   description: >-

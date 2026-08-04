@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for iOS Swiftでユニバーサルリンクを設定する方法
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/universal-links-support
-__hash__: _iUD68oar4USJBOt7MZFfGHRSvO45j8Fbn58FExtcp8
+__hash__: D5UxoRgnvud9B8FfXPN0hAgFPh0BIf2cYpxF3NhkHOg
 seo:
   title: ユニバーサルリンクを利用する
   description: LINE SDK for iOS Swiftでユニバーサルリンクを設定する方法

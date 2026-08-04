@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-10-16 00:00 UTC","tags":"Outage report, LINE Login,
   LIFF","locale":"ja"}
 path: /ja/_partials/news/2020/2020-10-16-liff-and-line-login-outage
-__hash__: kOaZZ3Dp2R-TRe2YuHev6XqyU5VRh3nTZb77EPckDLM
+__hash__: RYtLvTGTLbjoE9Q3fVmG6ltlmKDt-mr8V_iuQU-M658
 seo:
   title: 【復旧済み】LINEログインおよびLIFF障害のお知らせ
   description: |-

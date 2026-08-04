@@ -10,7 +10,7 @@ description: >-
   now easier to specify LINE emoji.
 meta: '{"date":"2024-10-30 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-10-30-text-message-v2
-__hash__: 4lghQrERZaDffwGJ-IeywQuoY0S53ktRqyEhksNy1mI
+__hash__: FU7o6v2oNtUuG6yu497rp_2QXAmxtWCVSj94fCsQKKk
 seo:
   title: >-
     In the Messaging API, we've released text message (v2) which allows you to

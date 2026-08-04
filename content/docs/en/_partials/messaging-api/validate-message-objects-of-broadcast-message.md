@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/validate-message-objects-of-broadcast-message
-__hash__: 9FOff7Hexf82HXDKj28k_fv7geEKFd9-rK9C5iE53Wc
+__hash__: Ktau4C-O_1HK8qvduuLh9-F4YZDJCwX22CgfuEhZoEc
 seo:
   description: ''
 ---

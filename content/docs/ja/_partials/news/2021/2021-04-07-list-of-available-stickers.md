@@ -7,7 +7,7 @@ description: >-
   APIドキュメント』の「送信可能なスタンプリスト」を参照してください。
 meta: '{"date":"2021-04-07 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-07-list-of-available-stickers
-__hash__: GSa2yAPbAUFNvWA8t9FNliOYrRXyG2oA-9uk79Zq_kI
+__hash__: z2_xPu2uN2KIzifHwrHgkkG_K7JZZW3x4v6TDXa1j6M
 seo:
   title: Messaging APIで送信可能なスタンプが増えました
   description: >-

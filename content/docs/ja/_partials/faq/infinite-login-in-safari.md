@@ -7,7 +7,7 @@ meta: >-
   {"date":"2023-11-20 7:21 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/infinite-login-in-safari
-__hash__: Cuau2bIde4p0qsQzLWIy3i2Kcsv4l25dOD7Q4Iw1wCo
+__hash__: TNOVAQKFrWjArAxn0Fa-ZLfyeksSUrba7VqKbxnZxPk
 seo:
   title: Safariブラウザで「LINEで送る」ボタンを押すと、何度もログインを繰り返します。
   description: >-

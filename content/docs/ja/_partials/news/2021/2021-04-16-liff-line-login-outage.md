@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-04-16 01:00 UTC","tags":"Outage report, LINE Login, LIFF, LINE
   MINI App","locale":"ja"}
 path: /ja/_partials/news/2021/2021-04-16-liff-line-login-outage
-__hash__: 36FkNPHXlIL7BqgmODRIgYokzGX1q8dfYV8W1cVOeqk
+__hash__: uSqNwLuOQT_zL9egrg484uc5Epocb0FHmc4RPDpdVUA
 seo:
   title: 【復旧済み／更新】LINEログインおよびLIFF/LINEミニアプリ障害のお知らせ
   description: ''

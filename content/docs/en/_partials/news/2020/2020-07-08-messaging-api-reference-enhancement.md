@@ -6,7 +6,7 @@ description: >-
   amount of endpoints, was long and difficult to navigate.
 meta: '{"date":"2020-07-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-08-messaging-api-reference-enhancement
-__hash__: mwV7M6xEVSsjxrEBglwYMN90jWNTNvF4b23DheNhEWE
+__hash__: 9g0I72HZm8gq51soa7PGfaZo5EX5tj85I6d2FbmoBXU
 seo:
   title: Improved Messaging API reference and side menu
   description: >-

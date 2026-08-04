@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-07 00:00 UTC","tags":"line-login,
   liff","locale":"ja","sidebar":false}
 path: /ja/tips/2026/05/07/line-launch-issue
-__hash__: YUkWzRRhwsHjA0vjUjpxIWoSKxCSetLcy7AhoZIUMlY
+__hash__: INOzHnUVyFE0r53Mzr63eM0T7lMc40JRAEcJFMpAMVI
 seo:
   title: 「LINEで開く」や「LINEでログイン」がうまく動かないときに知っておきたいこと
   description: みなさんはLINEミニアプリを利用した際に「LINEで開く」ボタンを押してもLINEが起動しなかった、といった経験はありませんか？

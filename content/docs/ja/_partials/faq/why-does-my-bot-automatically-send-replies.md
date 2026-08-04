@@ -6,7 +6,7 @@ meta: >-
   {"date":"2017-07-24 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/why-does-my-bot-automatically-send-replies
-__hash__: oZgquMnbjsOw24hypDfqbrCGFqZ4Rsy7BOwV_-emhUI
+__hash__: xUj3IJO_LewIARHQuvPcuf_6IgtIwcLqFYmnLJJvuLU
 seo:
   title: LINE公式アカウントが自動的に応答するのはなぜですか？
   description: LINE Official Account Managerの応答設定によっては、LINE公式アカウントが自動的に応答します。

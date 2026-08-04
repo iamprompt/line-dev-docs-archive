@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-03-17 00:00 UTC","tags":"Maintenance, Messaging API, Options for
   corporate customers","locale":"ja"}
 path: /ja/_partials/news/2022/2022-03-17-line-notification-messages-maintenance
-__hash__: izhXi7KscX_hctWoS4MK-uehIckAa3y6cQKA8AHtoWs
+__hash__: tL1417olHWyn-H5rZgRU6d4Areeg8qeoaqluEVdzNBM
 seo:
   title: 【メンテナンス終了】LINE通知メッセージ緊急メンテナンスのお知らせ
   description: ''

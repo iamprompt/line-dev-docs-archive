@@ -4,7 +4,7 @@ navigation: true
 description: 以下のバージョンのLINEを使用しているユーザーに対して、LINE Beaconの提供を終了します。
 meta: '{"date":"2020-03-10 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-03-10-line-beacon-deprecation
-__hash__: 7cj9YYQpi09omipQfKNBvsKUWEMPIg1zR2Xcj_Gs6LI
+__hash__: rhLSAkNXq2dDfA17wkSpFgmyNLepL1GqBgAKSYnHYRo
 seo:
   title: 2020年3月25日より以下のバージョンのLINEに対するLINE Beaconのサービス提供を終了します
   description: 以下のバージョンのLINEを使用しているユーザーに対して、LINE Beaconの提供を終了します。

@@ -11,7 +11,7 @@ meta: >-
   {"date":"2026-04-30 00:00 UTC","tags":"docs, messaging-api,
   flex-message","locale":"en","sidebar":false}
 path: /en/tips/2026/04/30/flex-message-usage-1
-__hash__: _PVq-QFr4_PvQxluH4qI8gPGdMJRBHimpNTERtDUdHM
+__hash__: haxDKMEG7ZHIDuOZaaxxm1xcPDh9gBg0u2ck5Mqp_W8
 seo:
   title: Mastering Flex Messages, part 1
   description: >-

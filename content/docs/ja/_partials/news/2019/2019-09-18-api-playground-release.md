@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIリファレンスの以下の項目に、［試す］ボタンを追加しました。
 meta: '{"date":"2019-09-18 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-09-18-api-playground-release
-__hash__: ypTm5tI-ggSPjkasjvaJh-XrrI4FNKhq_Nd3BOY8dw8
+__hash__: XuMgdR56AYhEhyHYwIjc-MCjqy3YFSg_uMTjzT7RwJ4
 seo:
   title: ブラウザから一部のMessaging APIを呼び出せるようになりました
   description: Messaging APIリファレンスの以下の項目に、［試す］ボタンを追加しました。

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-02-10 00:00 UTC","tags":"messaging-api, liff, line-mini-app,
   LINE Login, console, line-blockchain","locale":"ja"}
 path: /ja/_partials/news/2022/2022-02-10-country-or-region-setting-request
-__hash__: cocO0_xPZt0t0tofy_k-Bz5uQe6JgHgsXiGD-PgKVEg
+__hash__: p7xWWA0ycn1XnQFJYebniy-IsmRVlC3G3CAWYmuLKr8
 seo:
   title: 【更新】改正個人情報保護法の施行に伴い、LINE公式アカウントや連動アプリを管理する会社または事業者は、所在国・地域を設定してください
   description: ''

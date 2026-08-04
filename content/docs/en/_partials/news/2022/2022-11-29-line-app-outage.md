@@ -9,7 +9,7 @@ meta: >-
   {"date":"2022-11-29 00:00 UTC","tags":"outage-report,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2022/2022-11-29-line-app-outage
-__hash__: f5tCmGrP2L3Adkt_leaaBF1IVWXl_5rXT_8L0ZZXRgM
+__hash__: K_wnK5cHAImbLYO-cwM3p1jf3Orugb5xWrByueYh3pI
 seo:
   title: '[Resolved] Notice about service outages for the Home tab of the LINE app'
   description: >-

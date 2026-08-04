@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-06-01 01:00 UTC","tags":"console, line-login, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2022/2022-06-01-channel-providing-region
-__hash__: LDbRkJGXTOShGZ5PUUCVjCZSngRx_2q169Uc5F83i4c
+__hash__: eGXjmIUsrrHWehlOeCcmOAiBL_vxaLwoLsiGKqiE0gA
 seo:
   title: LINE Developersコンソールにおいて、LINEログインチャネルおよびLINEミニアプリチャネルの「地域」の表記を変更しました
   description: >-

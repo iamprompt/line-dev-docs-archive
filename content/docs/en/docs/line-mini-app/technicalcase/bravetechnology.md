@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/technicalcase/bravetechnology
-__hash__: sKeFqTIjQkO38-A3EIWM9bEwXeZg8Ti-dKdSNOlfYkU
+__hash__: '-DcjOz61kxzEkoStLpfeGaos53Deyhr9y_KAL8P5z04'
 seo:
   title: >-
     How queue management solutions are scaling with the LINE MINI App: The

@@ -6,7 +6,7 @@ description: >-
   on download the LINE SDK, see below.
 meta: '{"date":"2017-04-26 00:00 UTC","tags":"Android, LINE SDK","local":"en"}'
 path: /ja/_partials/news/2017/2017-04-26-android-sdk-released
-__hash__: Kvlks1xtBJsr6l9Dl4ecnFXwwIjHalcB-Ncja3xSCz8
+__hash__: H0oMVuw-1DX1HBr0vr69QB34jCpiYDsE0Z-UZsaim44
 seo:
   title: LINE SDK for Android 4.0.4 released
   description: >-

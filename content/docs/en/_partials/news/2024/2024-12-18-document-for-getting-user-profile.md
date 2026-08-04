@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-12-18 00:00 UTC","tags":"docs, messaging-api, line-login, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2024/2024-12-18-document-for-getting-user-profile
-__hash__: J4KNNV99ge2uOl9W5IJ6YcD1VFC8WiE5yGbtFsc_ikY
+__hash__: GrjRMSO9J8VM57MwRHckZAki34OM-gYEM8CBVRZqHE8
 seo:
   title: >-
     We've published a document that summarizes how to get user profile

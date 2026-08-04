@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-02-08 00:00 UTC","tags":"Messaging API, SSL,
   end-of-life","locale":"ja"}
 path: /ja/_partials/news/2021/2021-02-08-line-platform-update
-__hash__: 5tSHzDuxCDYYvfAKk7teagTaS5ZahtlJFS7eVfr8nLc
+__hash__: bSIIXc3NYSrbZ6MXv2okrTq6nA04AyJK_qnyRAJnrgU
 seo:
   title: Webhook通知元におけるTLS 1.0、TLS 1.1のサポートを終了しました
   description: >-

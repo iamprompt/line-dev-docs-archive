@@ -8,7 +8,7 @@ description: >-
   sent by users. The added endpoints are as follows:
 meta: '{"date":"2023-02-14 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2023/2023-02-14-messaging-api-updated
-__hash__: uY1Jk8qrvP5qjA_4ZpdGA2As2nMG53TWn3FWdJGmHtE
+__hash__: UYvWbPgje3f3yhRq9j6lote1wYnriJwysKv1MLo274o
 seo:
   title: >-
     In the Messaging API, you can now get the preparation status for getting and

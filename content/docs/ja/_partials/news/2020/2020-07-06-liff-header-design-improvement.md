@@ -4,7 +4,7 @@ navigation: true
 description: 2020年7月中旬以降に、LIFFのヘッダーの仕様変更を予定しています。
 meta: '{"date":"2020-07-06 00:00 UTC","tags":"LIFF","new":"false","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-06-liff-header-design-improvement
-__hash__: VXhOCn7VIS0g31XDc12CenQzzVVgJ-R3_qCTvLEjmC8
+__hash__: 3-kKtWqSHLdKvyWEgAYhUJG1pFJ_AfD3f5l2ZivU7S8
 seo:
   title: LIFFのヘッダーに機能が追加されます
   description: 2020年7月中旬以降に、LIFFのヘッダーの仕様変更を予定しています。

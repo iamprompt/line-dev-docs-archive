@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/custom-features
-__hash__: MgB13YXgzliu__CWxW9Mm1U3E-hZOzFav4oGBlC04Gs
+__hash__: g1-fu-JDn84WjnEUqOcCdtU1UHvFmHvrFEReHKq9TrQ
 seo:
   title: カスタム機能
   description: null

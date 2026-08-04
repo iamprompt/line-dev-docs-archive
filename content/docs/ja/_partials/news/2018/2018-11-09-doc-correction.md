@@ -4,7 +4,7 @@ navigation: true
 description: 昨日公開された、Webhookイベントに追加された新しいdestinationプロパティの記載に誤記がありました。お詫びして訂正いたします。
 meta: '{"date":"2018-11-09 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-11-09-doc-correction
-__hash__: NbxtX28DTeasQB5HSe8KY3z1rxCMZtaFbdJbLOFeAfU
+__hash__: AJ9cwx96jtzNk-q4DOvH1-JOjRduVc0sl-C_4jp9z4k
 seo:
   title: ドキュメント訂正のお知らせ
   description: 昨日公開された、Webhookイベントに追加された新しいdestinationプロパティの記載に誤記がありました。お詫びして訂正いたします。

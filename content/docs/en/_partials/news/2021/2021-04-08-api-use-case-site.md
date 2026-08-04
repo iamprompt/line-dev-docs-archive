@@ -7,7 +7,7 @@ description: >-
   English.
 meta: '{"date":"2021-04-08 00:00 UTC","tags":"LINE Platform","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-08-api-use-case-site
-__hash__: ieOw_G76m9AHMerzZT3J-ikfM-CIs0Wb0mitrvTkWDs
+__hash__: CGNj-QrT2-6CcN1sFm3YzPSXzi970PMC3_OiHTsCs84
 seo:
   title: The LINE API Use Case site is now available in English
   description: >-

@@ -6,7 +6,7 @@ description: >-
   February 19, 2026.
 meta: '{"date":"2026-02-19 01:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-02-19-line-mini-app-policy
-__hash__: t8-TJoUq08lhwx8fTUBRB07_RqhdeeyjE_Tl8oQSi6w
+__hash__: d6K2l9Z0cjmuz9gk1IVWHJ03GEKYJMoD89te8qTw11c
 seo:
   title: LINE MINI App Policy has been revised on February 19, 2026
   description: >-

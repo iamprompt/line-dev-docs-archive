@@ -9,7 +9,7 @@ meta: >-
   {"date":"2018-03-26 00:00 UTC","tags":"Outage report, LINE
   Platform","locale":"en"}
 path: /en/_partials/news/2018/2018-03-26-devcenter-outage
-__hash__: 0s2F72rZf4nafly0LQPBxJZO0OzgdsLSWUnoLYCrxYc
+__hash__: aCR2xPJOKyWRzUQKQhlCEh7DQ-M0UAUW5biTHRWcTVM
 seo:
   title: '[Resolved] Notice about service outage for LINE Developers site'
   description: >-

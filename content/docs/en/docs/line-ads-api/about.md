@@ -6,7 +6,7 @@ description: >-
   site.
 meta: '{"layout":"document","source_language":"en"}'
 path: /en/docs/line-ads-api/about
-__hash__: xV4puvY6fOhMqheUSKNvStEh2gXHZVpiD96UeOVCoMs
+__hash__: nmBeqw3XDNND6niSxTerRx9ooWLsbdELmTYN91C0NIo
 seo:
   title: About LINE Ads API
   description: >-

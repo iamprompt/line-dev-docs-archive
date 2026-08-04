@@ -7,7 +7,7 @@ description: >-
   below.
 meta: '{"date":"2018-11-15 00:00 UTC","tags":"Maintenance","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-15-devsite-maintenance
-__hash__: ihxR7ym6lwxcyrm3NgJlf-BhIB2Hhxpbv1lSj-qYxhU
+__hash__: a8sntPg2cqZXBCPdRyi4iW9PnBCftqZIUg0dhqwVxRc
 seo:
   title: Maintenance period for the LINE Developers site is extended
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIのメッセージWebhookイベントオブジェクトのスタンプのメッセージタイプに、新たにプロパティが追加されました。
 meta: '{"date":"2020-12-02 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-12-02-messaging-api-update-december-2020
-__hash__: rIKCnucnyGfp90Cepq-I1p2cm5WAkH4gGzhDk89QozU
+__hash__: DswyXwcPQjATyhHINsTPM3rIGquWILOx62hWNUn4CM4
 seo:
   title: Messaging APIアップデート（2020年12月）
   description: Messaging APIのメッセージWebhookイベントオブジェクトのスタンプのメッセージタイプに、新たにプロパティが追加されました。

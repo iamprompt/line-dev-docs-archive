@@ -12,7 +12,7 @@ meta: >-
   {"date":"2026-05-26 00:00
   UTC","tags":"line-mini-app","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-add-line-mini-app-icon-to-home-screen
-__hash__: aXB6po0K1mLUyeeyWSveUJPAhrQyAa1BZlv1JQnBmTM
+__hash__: 7lm_Mj0Y8kpAt8I81v6yhTVtYswC068MhuQmUUQbPkw
 seo:
   title: Can users add a LINE MINI App icon to their device's home screen?
   description: >-

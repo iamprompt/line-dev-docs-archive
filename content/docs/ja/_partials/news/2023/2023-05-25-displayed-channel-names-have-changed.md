@@ -5,7 +5,7 @@ description: >-
   LINEミニアプリから送ったサービスメッセージのフッターには、そのLINEミニアプリチャネルの［チャネル名］が表示されます。このフッターに表示されるチャネル名の参照元が変わりました。
 meta: '{"date":"2023-05-25 00:00 UTC","tags":"line-mini-app, console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-05-25-displayed-channel-names-have-changed
-__hash__: yyhgAehK2dMfPeZ3SvH5BqeuvH059we3evF75_uJsLA
+__hash__: 5Xj6vjfhGb0iE3zcFfE7Wml9g70rYKa9Dxp3Rmze3Os
 seo:
   title: LINEミニアプリのサービスメッセージでフッターに表示されるチャネル名の参照元が変わりました
   description: >-

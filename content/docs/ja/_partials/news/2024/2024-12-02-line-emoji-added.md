@@ -9,7 +9,7 @@ meta: >-
   {"date":"2024-12-02 00:00 UTC","tags":"line-official-account,
   messaging-api","locale":"ja"}
 path: /ja/_partials/news/2024/2024-12-02-line-emoji-added
-__hash__: BdhjA3y4oUs1xch479kz5hxMMxj8RxvfIs2nJGO5R2Q
+__hash__: z8xz5IKfo9L7cwr6U3mFKJ5N6jHOx8s6MO72XfI0lhs
 seo:
   title: Messaging APIで送信可能なLINE絵文字が増えました
   description: >-

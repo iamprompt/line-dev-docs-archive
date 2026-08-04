@@ -6,7 +6,7 @@ description: >-
   15, 2019.
 meta: '{"date":"2019-02-07 17:00 UTC","tags":"LINE Platform","locale":"en"}'
 path: /en/_partials/news/2019/2019-02-07-line-platform-feedback-closed
-__hash__: pPTBIjAmsTJS94i-Ql4ERsE-pBMLxmh4PMSe2J_GDds
+__hash__: 1wepL1w-hPnT4et_2v_rnUyIjGJa4xSQA2ivwTtcMv4
 seo:
   title: We're archiving the LINE Platform feedback repository on GitHub
   description: >-

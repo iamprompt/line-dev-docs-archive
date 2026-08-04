@@ -11,7 +11,7 @@ description: >-
   October 1, 2025.
 meta: '{"date":"2025-09-26 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-09-26-mini-app-browser
-__hash__: 2d6NkP7bx79aF2yc_QRJsMD6pR75rvjzeYhHK84sgtA
+__hash__: 3FAeZmmO9gNNhfvCc41bhRb6j2HH8JGThjwI4ae_Oe8
 seo:
   title: >-
     On October 1, 2025, all LINE MINI App users will be able to use the service

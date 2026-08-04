@@ -8,7 +8,7 @@ description: >-
   users in Thailand and Taiwan) can now cancel sending messages.
 meta: '{"date":"2022-08-17 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2022/2022-08-17-unsend-event-updated
-__hash__: xyIHSvnphuysSW0L9HasxD9ZeHEQD8UEoGZeWNsxzqI
+__hash__: eOxzdaEHJxr4AlkSg0AZujSrOz_MyBQjub__2p3Qejg
 seo:
   title: >-
     Users can now cancel sending messages in one-on-one chats with LINE Official

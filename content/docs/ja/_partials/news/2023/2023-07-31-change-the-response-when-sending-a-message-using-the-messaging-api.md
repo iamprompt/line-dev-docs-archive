@@ -5,7 +5,7 @@ description: 2023年9月上旬に、Messaging APIで応答メッセージおよ�
 meta: '{"date":"2023-07-31 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: >-
   /ja/_partials/news/2023/2023-07-31-change-the-response-when-sending-a-message-using-the-messaging-api
-__hash__: YXGun1Y4dGLohei6ly8tgQ95oC6kOm5jnawrawoLLaU
+__hash__: xy72ApZsZ6PGpRHtC4RqkGdPW4iH_yHb-kFs0aZOzhg
 seo:
   title: 2023年9月上旬よりMessaging APIでメッセージを送信した際のレスポンスが変わります
   description: 2023年9月上旬に、Messaging APIで応答メッセージおよびプッシュメッセージを送信した際の、レスポンスの仕様を変更する予定です。

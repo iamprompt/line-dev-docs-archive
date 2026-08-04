@@ -7,7 +7,7 @@ meta: >-
   messaging-api","priority":1000,"locale":"ja"}
 path: >-
   /ja/_partials/faq/can-i-add-line-official-accounts-to-a-group-chat-or-multi-person-chat
-__hash__: '-BbEk8oPV1DvkfovaU7aGuaT_FxoqC1g61gcLUgPA6E'
+__hash__: fxnqxXukGIk-2zrCu4guxQe1_OfkONnBo3XaJrFtpzo
 seo:
   title: LINE公式アカウントをグループトークや複数人トークに参加させることはできますか？
   description: >-

@@ -9,7 +9,7 @@ meta: >-
   messaging-api, line-login, liff, line-mini-app,
   options-for-corporate-customers, console","locale":"en"}
 path: /en/_partials/news/2024/2024-08-13-maintenance-notice
-__hash__: LkdjPvDqkqJMieQoVAk8nZN_z32CH4zAuU5LT6hbW4c
+__hash__: 4K_bRXbC_hzWjvpOpg2YdnBCcD_BH1hTPVN5qx3yDeE
 seo:
   title: Maintenance notice for the LINE Platform
   description: >-

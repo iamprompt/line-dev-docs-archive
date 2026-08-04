@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-01-06 00:00 UTC","tags":"line-login, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2025/2025-01-06-line-login-dark-mode
-__hash__: FLAJllvAKCrIz-zduYURCQam9IRjF2omn4esZ4Lmvpg
+__hash__: qTERboseXHeN6ubgm07wilXiwGynEGAhRSFw76Rc2O0
 seo:
   title: Some LINE Login screens now support dark mode
   description: >-

@@ -6,7 +6,7 @@ description: >-
   plans.
 meta: '{"date":"2019-04-10 04:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-04-10-redesign-blog-article
-__hash__: ZVI1SVbeuCwGC9mNZHQs4G8ZFufp3vkwUTD_DgOd7L0
+__hash__: aaN-hU7ZXhfgJUCSisw2Q_YuJARqqdz4Z8bNzXi9lXY
 seo:
   title: Migrating your LINE@ account under the Developer Trial plan
   description: >-

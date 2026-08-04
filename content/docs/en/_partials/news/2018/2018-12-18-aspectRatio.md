@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2018-12-18 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-12-18-aspectratio
-__hash__: ve31UIkPBYIpmHIlOG1BBfuggMbLQK-okKiQeKgOuSI
+__hash__: Wisv-9Np2IiVPguS_VrWijVScLVAsA-llZyNGUIODJg
 seo:
   title: Specification change for the Messaging API
   description: ''

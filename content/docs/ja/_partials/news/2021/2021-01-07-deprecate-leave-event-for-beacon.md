@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-01-07 00:00 UTC","tags":"Messaging API,
   end-of-life","locale":"ja"}
 path: /ja/_partials/news/2021/2021-01-07-deprecate-leave-event-for-beacon
-__hash__: 87mF78oXb_1qNi9L7e6oImn1ULzuHk8Yb9a3sJCoZFc
+__hash__: hctn5ZEQFVymqYdp-ojLxurVRFOVYl0_fO6gOhZgZug
 seo:
   title: 2020年末をもってビーコンイベントのleaveイベントは廃止されました
   description: 2020年6月30日、および2020年11月25日にお知らせしたとおり、ビーコンイベントのleaveイベントは2020年末をもって廃止されました。

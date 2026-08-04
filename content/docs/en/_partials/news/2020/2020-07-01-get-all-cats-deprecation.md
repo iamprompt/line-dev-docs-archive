@@ -7,7 +7,7 @@ description: >-
   2020.
 meta: '{"date":"2020-07-01 05:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-01-get-all-cats-deprecation
-__hash__: dkRH9M1BnAqtOnXfwgCPCZve9rom8N9J6L7rNEXJOro
+__hash__: 7b7zcxN9nVvtoApyUlAlEtJJVzwAla-bjLNhXT3mhnw
 seo:
   title: Get all valid channel access tokens 2.1 is deprecated
   description: >-

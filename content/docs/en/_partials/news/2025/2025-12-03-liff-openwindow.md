@@ -9,7 +9,7 @@ description: >-
   Links on LINE version 15.20.0 or later.
 meta: '{"date":"2025-12-03 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-12-03-liff-openwindow
-__hash__: uKE4EgOO8FBv6uCc2GD6YFpLu9Z41HPQN7pDwO2XSjg
+__hash__: rMwprbBZYJ7niE65yeVSQS8T4HicZ4tmgN50oGfT-Xw
 seo:
   title: >-
     On LINE version 15.20.0 or later, the behavior of the liff.openWindow()

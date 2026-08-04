@@ -10,7 +10,7 @@ meta: >-
   {"date":"2023-11-20 7:21
   UTC","tags":"social-plugins","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-resize-the-buttons
-__hash__: B9Dbmq1bm_Dx4fSoUsMVFZ4Ja21ez-v-CNBBvjJWtxY
+__hash__: BddJQN8A9AgVEdUxUx0mN0iqKP1y8Ov2zImQSLbCQ9k
 seo:
   title: Can I resize the buttons?
   description: >-

@@ -9,7 +9,7 @@ description: >-
   the form.
 meta: '{"date":"2017-12-20 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2017/2017-12-20-feedback-form
-__hash__: FeW_0vqvMnty4z0JNqbooHZG6PQNUYXHaGEnVQnVXMQ
+__hash__: HxAbFKQKjs0NtnJmZnKU9qrTfjQJOrSbBY7nua4pK9I
 seo:
   title: Introducing our feedback form
   description: >-

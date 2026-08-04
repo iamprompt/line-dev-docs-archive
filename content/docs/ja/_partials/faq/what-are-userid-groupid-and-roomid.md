@@ -6,7 +6,7 @@ meta: >-
   {"date":"2018-01-09 00:00 UTC","tags":"line-platform, line-login, liff,
   line-mini-app, messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/what-are-userid-groupid-and-roomid
-__hash__: UCRN2GeU5Y46vf3TuSAzFIwkMDabigrSRD82wgCbJaM
+__hash__: Dal9wSv46oFpTzbSbzprC0mmiDyI-7KcvxMX8GIQpcA
 seo:
   title: ユーザーID、グループID、トークルームIDとはどのような値ですか？
   description: LINEプラットフォームで使用するユーザーIDは、ユーザーを識別するために利用する識別子であり、以下のような特徴を持ちます。

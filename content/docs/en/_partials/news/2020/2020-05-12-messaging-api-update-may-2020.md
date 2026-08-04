@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-12 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-05-12-messaging-api-update-may-2020
-__hash__: jFj28NC5yuBC0V1iKG_i2pznG4TP8sC03pH49HFVlOM
+__hash__: Ir92BI0jKvnKWZFN00-Thc4XYQpGvoszjyIsqTUJAEM
 seo:
   title: '[Updated] Messaging API update for May 2020'
   description: ''

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-05-01 00:01 UTC","tags":"Messaging
   API","new":"false","locale":"ja"}
 path: /ja/_partials/news/2020/2020-05-01-restore-impression-audiences-related-apis
-__hash__: dWQ64EkuZuNyjONu5h7rKR9cBhmyhvJo0t4OeugIM8A
+__hash__: xovDAs50U4gG-X1G6AtVmMF2qBrqSERqt9K87r5LlN8
 seo:
   title: 「オーディエンス」と「分析」の一部APIの使用再開のお知らせ
   description: 2020年4月22日に停止をお知らせしていたAPIが、制限付きで使用できるようになりました。

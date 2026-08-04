@@ -4,7 +4,7 @@ navigation: true
 description: LINE Notify service will be discontinued on March 31, 2025.
 meta: '{"date":"2024-10-07 00:00 UTC","tags":"end-of-life","locale":"en"}'
 path: /en/_partials/news/2024/2024-10-07-line-notify-will-be-discontinued
-__hash__: CWpsVaH79_RcTNJt6hCTXYFp25YBjIpjBUBQ2qzM4rQ
+__hash__: qE-Vr3nDeZmR8A8KnyKLineQJC_f-FVRsia5VdSCpIk
 seo:
   title: LINE Notify service will be discontinued on March 31, 2025
   description: LINE Notify service will be discontinued on March 31, 2025.

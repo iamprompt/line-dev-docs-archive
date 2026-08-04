@@ -6,7 +6,7 @@ description: >-
   Trialに自動通信が追加されました。使い方については、以下のドキュメントおよびAPIリファレンスを参照してください。
 meta: '{"date":"2019-05-07 00:00 UTC","tags":"LINE Things","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-05-07-line-things-updated
-__hash__: MnbJoTZ4Qtef6WyAlMg3BBeBezQ7e_iZx95UwW23Z0M
+__hash__: Q28tkTyMOO_khgqyY90_ejVJvOJewEeHBqwUr0VCgkc
 seo:
   title: LINE Things Developers Trialに自動通信が追加されました
   description: >-

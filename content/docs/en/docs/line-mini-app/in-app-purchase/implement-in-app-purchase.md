@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/in-app-purchase/implement-in-app-purchase
-__hash__: 12tV9GdRqXcDh-xyUycqkkC4IpC4AmipO5CrTyXjzJc
+__hash__: 52rCJYWGgXfpTxBNsPB919SjU7hQqkQAutoM-VOpl3w
 seo:
   title: Integrate the in-app purchase feature
   description: null

@@ -6,7 +6,7 @@ description: >-
   with Messaging API is now available in English.
 meta: '{"date":"2020-03-04 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-03-04-all-narrowcast-english
-__hash__: SulKwTX6gf1BcBM5QFV-ySt1oCSn_K-otSgTp_23Ets
+__hash__: 8tthFo7jGNGcLJBzQtFYTZzI2-IPKN3NYBRlA8qMPi4
 seo:
   title: >-
     All Narrowcast and Audience Management documentation now available in

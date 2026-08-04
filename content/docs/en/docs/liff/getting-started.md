@@ -6,7 +6,7 @@ description: >-
   LINE Developers Console.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/liff/getting-started
-__hash__: t7RDxlmDEfDXQuTgSz0K2dN-2BD8CgHr_1ZC2Dt2t_E
+__hash__: 5nIRyKXCVxmup5tgPxU_dtTE2FpeBWCkQ-u31Hc8PQc
 seo:
   title: Create a channel
   description: >-

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-06-15 00:00 UTC","tags":"contact, line-platform, line-login,
   liff, line-mini-app, messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/how-do-i-report-an-issue
-__hash__: O7wWhI6COqqA_g3i7y52WquvVF4LVwgJEy3EJ6s2lXc
+__hash__: flgQeDhm9cieSY8t1PDCaK9wtLYh-a75IGM1bN1lqag
 seo:
   title: How do I report an issue about the LINE Platform?
   description: >-

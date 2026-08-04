@@ -5,7 +5,7 @@ description: Messaging APIで作成したオーディエンスを、LINE Officia
 meta: '{"date":"2023-05-29 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: >-
   /ja/_partials/news/2023/2023-05-29-use-audiences-created-with-messaging-api-for-step-messages
-__hash__: '-zoLiQ-eVGa8u7cwGzy47KOasHQv4LSJFGe0PW5L9tk'
+__hash__: nbEHDYz9hkl49mGL-LVKoVHt98KmmK_1a7Agayary9o
 seo:
   title: Messaging APIで作成したオーディエンスをステップ配信で使えるようになりました
   description: Messaging APIで作成したオーディエンスを、LINE Official Account Managerのステップ配信で使えるようになりました。

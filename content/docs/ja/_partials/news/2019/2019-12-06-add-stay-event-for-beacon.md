@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIのビーコンイベントに、ユーザーがビーコンの電波の受信圏に滞在していることを示すstayイベントが追加されました。
 meta: '{"date":"2019-12-06 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-12-06-add-stay-event-for-beacon
-__hash__: sJf_JMs7H9-gKatXWscRmgby82iI1Nx7or2Urog_fLA
+__hash__: fuueaBPCLAYhvyr1AWdobaDcKbKqnfW0BvyeS3aX9D4
 seo:
   title: ビーコンイベントにstayイベントが追加されました
   description: Messaging APIのビーコンイベントに、ユーザーがビーコンの電波の受信圏に滞在していることを示すstayイベントが追加されました。

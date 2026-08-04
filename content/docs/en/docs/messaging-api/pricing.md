@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/pricing
-__hash__: '-StXpTBj_ayQKwL6MbdfqYyrLkHIFoBHIedA7fb0c6I'
+__hash__: kn9CLr3S56tJlEhRiqNxmVXxagvQPB20I5iidTroZxE
 seo:
   title: Messaging API pricing
   description: null

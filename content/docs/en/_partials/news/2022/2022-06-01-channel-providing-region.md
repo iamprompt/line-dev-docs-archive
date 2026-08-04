@@ -10,7 +10,7 @@ meta: >-
   {"date":"2022-06-01 01:00 UTC","tags":"console, line-login, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2022/2022-06-01-channel-providing-region
-__hash__: hyDJylDcUvi-BuhofehsHNLjhgq0UCteZlWaLueBSNQ
+__hash__: OcI8e1eSIT-hqWxobVKCpUHykXgY_rok1OURVvxU4fo
 seo:
   title: >-
     The notation of "Region" of LINE Login channel and LINE MINI App channel has

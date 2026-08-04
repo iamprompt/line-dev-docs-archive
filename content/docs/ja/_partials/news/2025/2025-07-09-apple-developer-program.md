@@ -6,7 +6,7 @@ description: >-
   Programの情報の入力が不要になりましたのでお知らせします。
 meta: '{"date":"2025-07-09 01:00 UTC","tags":"console, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-07-09-apple-developer-program
-__hash__: Lp-D2k3B4pUGkDpdhWkHt3ShEBSRMBhKP5OLP2S48z0
+__hash__: kIgo3N9poywf9AUpe_GOh3oL46qzhXLPF2TyWF0xSq4
 seo:
   title: LINEミニアプリチャネルにおいて、Apple Developer Programの情報の入力が不要になりました
   description: >-

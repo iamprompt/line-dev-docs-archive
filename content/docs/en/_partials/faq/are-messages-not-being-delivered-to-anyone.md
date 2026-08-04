@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-04-21 00:00 UTC","tags":"line-app, line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/are-messages-not-being-delivered-to-anyone
-__hash__: 3L_1CDsnjB8yYfTJbV3zykbLi-sPMzG7KzWoUoXS_U0
+__hash__: 4WlI1nLJh-TX4c4IK1oM9bnE_Zem7FiNklc6tRMwgnc
 seo:
   title: >-
     I got an error when sending a message to multiple users. Was the message

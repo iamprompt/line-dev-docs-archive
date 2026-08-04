@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/skillbox
-__hash__: J2IIt-kAtmzl6Fq2jV1Mgi5VPSTTHpCr8pZDqGvYS9o
+__hash__: ACGaaqi37LeRQpNblxRWyrXxMWhLrwTroeeQQcd3Lq0
 seo:
   title: >-
     SkillBox technical case study: LINE notifications greatly increased usage

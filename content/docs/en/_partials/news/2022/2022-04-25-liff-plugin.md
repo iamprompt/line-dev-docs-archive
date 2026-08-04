@@ -6,7 +6,7 @@ description: >-
   and LIFF Mock.
 meta: '{"date":"2022-04-25 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-25-liff-plugin
-__hash__: QuNA91bszX8ExUf-Gs94g4jT8y2fEK2OOKybuC8Ve2Q
+__hash__: 514k91HfRdDIWyDvdjjmdzByhGDNnhFZIUYwLy4mAmQ
 seo:
   title: LIFF Inspector and LIFF Mock released
   description: >-

@@ -7,7 +7,7 @@ meta: >-
   {"date":"2021-06-21 00:00 UTC","tags":"console, line-platform,
   line-official-account, messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-change-company-name-on-profile-page
-__hash__: FWRRhVgsaqDeU3PihctdK4UYGOg7egSznw545cc6rKE
+__hash__: tlDQYcNxqdVMc0rQKOfiCm9h9PPsoqqaUg_y7VdyqoI
 seo:
   title: LINE公式アカウントのビジネスプロフィールに表示される企業名はどこで変更できますか？
   description: >-
@@ -25,4 +25,4 @@ LINE公式アカウントの[ビジネスプロフィール](https://www.lycbiz.
 
 なおプロバイダー名を変更してからビジネスプロフィールページに反映されるまでに時間がかかる場合があります。
 
-同様に認証アイコンをタップすると表示される法人名、およびビジネス名は、[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}で変更できます。
+同様に認証アイコンをタップすると表示される法人名、およびビジネス名は、[ビジネスマネージャー](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}で変更できます。

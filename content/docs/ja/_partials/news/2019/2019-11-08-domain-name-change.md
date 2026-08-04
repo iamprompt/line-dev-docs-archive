@@ -6,7 +6,7 @@ description: >-
   APIの一部のエンドポイントのドメイン名を「api.line.me」から「api-data.line.me」に変更いたしました。これに伴うメンテナンスはありません。
 meta: '{"date":"2019-11-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-11-08-domain-name-change
-__hash__: rayPZSoxbAohG00DQXJDVKdWpfydlFIGtzBNbSlj43I
+__hash__: CddNl50IwzkglxooJnZZy5rgKvAeBUSkpqZ6YZ20A9g
 seo:
   title: 一部のエンドポイントのドメイン名変更のお知らせ
   description: >-

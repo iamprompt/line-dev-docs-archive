@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/try-rich-menu
-__hash__: 4i50p5FD-tbh4XDoxWiRnQckVfnAj5fRKL49kMFHPFE
+__hash__: ZrS5dqVLb9N1jUQPYMt2ittTLCH894bgQzIj7702PWI
 seo:
   title: リッチメニューを試す
   description: null

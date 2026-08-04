@@ -6,7 +6,7 @@ description: >-
   https://miniapp.line.me/{liffId}.
 meta: '{"date":"2023-12-13 01:00 UTC","tags":"line-mini-app, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-12-13-change-of-liff-url-for-line-mini-app
-__hash__: noX6oG7tyZ738Xuq-fpd1OdJnFes2gwlyH-kheVY_bE
+__hash__: 60mTHHyle22lnQb6aVkc3j8CAZnIzlkb5dcsSBJT9aw
 seo:
   title: LIFF URL for LINE MINI App has been changed
   description: >-

@@ -9,7 +9,7 @@ meta: >-
   end-of-life, docs","locale":"en"}
 path: >-
   /en/_partials/news/2023/2023-10-26-finish-providing-line-sdk-for-ios-objective-c
-__hash__: ihgu22pkMufSPEwk9tVzLVO8aO5tn4tjmrGGeaSfb94
+__hash__: BNV57qvtwWYdOyg5i2gROKZFIu7rbU69crlQ1wFEz3k
 seo:
   title: We've discontinued providing LINE SDK for iOS Objective-C
   description: >-

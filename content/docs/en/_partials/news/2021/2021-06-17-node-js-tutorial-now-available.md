@@ -8,7 +8,7 @@ description: >-
   Node.js and deploy it using Heroku.
 meta: '{"date":"2021-06-17 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-06-17-node-js-tutorial-now-available
-__hash__: IrAZ99KLG4M_buDLWOZJswtsvr0SrtwzhEW4vQtYxmQ
+__hash__: yP_iKGgL5MKNNn7gWnpCEqr9DMJu7R8nfJdf0HdrHnw
 seo:
   title: >-
     Tutorial on how to create a sample bot for Messaging API using Node.js and

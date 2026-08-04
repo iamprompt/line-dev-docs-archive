@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDKを以前のバージョンから現在のバージョンに移行するときに注意すべき変更とアップグレード手順について説明します。
 meta: '{}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/migration-guide
-__hash__: hfCOzJPL_wGF5iLAfvhPecXYa91cXDlXH8LJr_E4cKo
+__hash__: k12ufm1QtYnhcZ4vtIa8kH4HLVId5nSOt7jJc6EVsxo
 seo:
   title: SDKをアップグレードする
   description: LINE SDKを以前のバージョンから現在のバージョンに移行するときに注意すべき変更とアップグレード手順について説明します。

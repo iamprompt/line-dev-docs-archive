@@ -11,7 +11,7 @@ meta: >-
   {"date":"2023-01-25 00:00 UTC","tags":"liff, line-mini-app,
   line-login","locale":"en"}
 path: /en/_partials/news/2023/2023-01-25-liff-spec-change
-__hash__: gEhYNp_1Lsv19Q2egvgTL0rjKNo10tSxoDJ7qezCACQ
+__hash__: HH3mbmuh2DndSw7WLiFSnwHJLIyfaRgtJk7hLRVWuTc
 seo:
   title: >-
     Providing company internal identifiers of chat rooms to LIFF apps will be

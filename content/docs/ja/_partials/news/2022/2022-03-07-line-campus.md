@@ -4,7 +4,7 @@ navigation: true
 description: LINE公式アカウントおよびLINE広告の知識やスキルをオンラインで習得できる、総合学習プラットフォーム「LINEキャンパス」をオープンしました。
 meta: '{"date":"2022-03-07 01:00 UTC","tags":"messaging-api, line-ads","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-03-07-line-campus
-__hash__: AqvOe5FCIMljx5BUxwMAAni4D7P6Oi7-cId16fvg3Bk
+__hash__: PEjOTFRYwaxWVx9HEo3IhGhJJkmSw6uCNG2JijiFOmI
 seo:
   title: 総合学習プラットフォーム「LINEキャンパス」をオープンしました
   description: LINE公式アカウントおよびLINE広告の知識やスキルをオンラインで習得できる、総合学習プラットフォーム「LINEキャンパス」をオープンしました。

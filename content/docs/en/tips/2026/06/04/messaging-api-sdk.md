@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-06-04 00:00 UTC","tags":"messaging-api,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/06/04/messaging-api-sdk
-__hash__: B-zx2xMbKIFOr6cc51WJmJRMUmzPUGuSds0w4PsBQ4s
+__hash__: ophDy3jc4lRruxH3S69WCEV0zA2zrZzC9r6T55A8FIU
 seo:
   title: Let's make use of the Messaging API SDK sample code
   description: >-

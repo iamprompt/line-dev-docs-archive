@@ -8,7 +8,7 @@ meta: >-
   end-of-life","locale":"ja"}
 path: >-
   /ja/_partials/news/2021/2021-01-18-remind-discontinue-replace-mode-announcement
-__hash__: u6E2LchApu3Ka39Cw5MNZhxzzYpMowZ1cyIJpr85jaw
+__hash__: xzr4LaEtS8QWs96qU2jp86SjlYGokhjETrMkeZhqdzo
 seo:
   title: >-
     【更新】【リマインド】2021年3月1日にLIFFアプリおよびLINEミニアプリのパーマネントリンクのリダイレクト設定から「置換（後方互換性モード）」が廃止されます

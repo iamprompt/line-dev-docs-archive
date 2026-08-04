@@ -4,7 +4,7 @@ navigation: true
 description: You can now log in to the LINE Developers Console using business accounts.
 meta: '{"date":"2020-10-13 00:00 UTC","tags":"Console","locale":"en"}'
 path: /en/_partials/news/2020/2020-10-13-login-with-business-account
-__hash__: uI2lLtrDJjobGeXS0yvDc_iOm2qUPkHqX67_JR8rC38
+__hash__: GTyGyTz-vpDy9UpTDMKG7D9MG-C0RkVLeXGIJ2ZadAM
 seo:
   title: You can now log in to the LINE Developers Console using business accounts
   description: You can now log in to the LINE Developers Console using business accounts.

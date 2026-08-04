@@ -8,7 +8,7 @@ description: >-
   Objective-C project.
 meta: '{}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/using-objc
-__hash__: pht6DpfmXLupryvVOYDdlijQ7p3A0o-PkdNYDAidKg0
+__hash__: Hhhl4-hDgf8p0j4KOpyPGszrZWSO_rewQ5PzZ6UyGvM
 seo:
   title: Using the SDK with Objective-C code
   description: >-

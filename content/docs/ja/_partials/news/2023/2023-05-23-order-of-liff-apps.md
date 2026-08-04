@@ -4,7 +4,7 @@ navigation: true
 description: 2023年5月8日にお知らせしたとおり、LINE DevelopersコンソールのLINEログインチャネルにおいて、LIFFアプリの並び順を変更しました。
 meta: '{"date":"2023-05-23 00:00 UTC","tags":"liff, console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-05-23-order-of-liff-apps
-__hash__: cQF5BtLS2En9uYnZfQTnzZxSxpF9U-8ABSsjaIe1-yY
+__hash__: UO46VVun-GDwVGaXp0zhgGxhL-EbwjSuheEoXH4huT4
 seo:
   title: LINE DevelopersコンソールのLINEログインチャネルにおいて、LIFFアプリの並び順を変更しました
   description: >-

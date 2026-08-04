@@ -6,7 +6,7 @@ description: >-
   APIの一部機能の仕様を変更しました。今回の仕様変更は、タイのユーザーと、タイのLINE公式アカウントにのみ適用されます。
 meta: '{"date":"2022-05-26 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-05-26-messaging-api-updated
-__hash__: dgG96g3K7Dl8bdTBZZ0oIH96du-PrwqjmOEtPdPl1qk
+__hash__: qZvtjD8nTHz8c5vkNHh7eIJr8iY66hc_eo-uaiNB8Kc
 seo:
   title: タイの個人情報保護法施行に伴い、Messaging APIの一部機能の仕様を変更しました
   description: >-

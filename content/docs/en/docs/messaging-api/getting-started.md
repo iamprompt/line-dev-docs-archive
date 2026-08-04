@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/getting-started
-__hash__: t7dl5W3AtaFQgvIQpXRrgyfdvdEld1XghX-zng89ld0
+__hash__: cKO8yPyZAb9bnPO57_KeIwR-zD5OIpCW4ya05r7jjrA
 seo:
   title: Get started with the Messaging API
   description: null

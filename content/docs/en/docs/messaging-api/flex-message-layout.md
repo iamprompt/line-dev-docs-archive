@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/flex-message-layout
-__hash__: 3bjrelSvPd3N_L0BGagAR04q0ByVRgyVx-SQf3uBbN0
+__hash__: a1K4QtyzwiItiMqkjsyGfnCcHbWeY_2B8lTQmDlet8s
 seo:
   title: Flex Message layout
   description: null

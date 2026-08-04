@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-06-15 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/do-messages-sent-reach-users-immediately
-__hash__: rs4itdcgiSx_JjM4whgnxk6wnyVkyWCcBLUhE9kQG-w
+__hash__: BACZL4BTGtlKSlbxm6DZyfapurMPgj4oO5gEOftUN5M
 seo:
   title: Messaging APIでメッセージを送信したらすぐにユーザーに届きますか？
   description: Messaging APIで送信したメッセージがユーザーに届くまで、時間がかかる場合があります。

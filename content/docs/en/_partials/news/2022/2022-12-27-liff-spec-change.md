@@ -10,7 +10,7 @@ meta: >-
   {"date":"2022-12-27 00:00 UTC","tags":"liff, line-mini-app,
   line-login","locale":"en"}
 path: /en/_partials/news/2022/2022-12-27-liff-spec-change
-__hash__: _ckK9TCztTYjBCtleXqfVdK2c5Gnap1DAlF5AbnFWPs
+__hash__: 5JQXWsngMwI7Lm8XT477k0vd0JTtCo47H31MOTdfvFE
 seo:
   title: >-
     Plans to discontinue providing company internal identifiers of chat rooms to

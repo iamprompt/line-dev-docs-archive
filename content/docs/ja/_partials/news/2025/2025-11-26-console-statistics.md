@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-11-26 00:00 UTC","tags":"console, end-of-life, messaging-api,
   options-for-corporate-customers","locale":"ja"}
 path: /ja/_partials/news/2025/2025-11-26-console-statistics
-__hash__: gIzB46Bkb0udYw0ZL5R35FxQHXzDTrvDhkBHTNUV898
+__hash__: ooqjXf6Tah3wYmMfvZJBaPFx5WgGpNsyOM5F5b-3KLo
 seo:
   title: 2025年11月26日をもって、LINE Developersコンソールの統計情報タブで送信メッセージ数を確認できる機能の提供を終了しました
   description: >-

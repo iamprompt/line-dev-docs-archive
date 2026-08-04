@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-flex-message-simulator
-__hash__: AF1G09fyf9BOrgm82bKw4FglFGtjU_FzAsy3WsvbI_M
+__hash__: WZjndNPeBzfLveefLUPdZwebaMOv_4F67H3awi1YsJg
 seo:
   title: Tutorial - Create a digital business card with Flex Message Simulator
   description: null

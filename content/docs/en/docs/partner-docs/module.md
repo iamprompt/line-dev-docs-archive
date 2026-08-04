@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module
-__hash__: Qx7rcXQMzgY-HLHizFywX88lUZdAOBLMTU0R7DmEwV4
+__hash__: RlojEP-IgSCCHn057NwfLYy7AHbqPVWhzS0jbiS5CmE
 seo:
   title: Module
   description: null

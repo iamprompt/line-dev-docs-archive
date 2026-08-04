@@ -9,7 +9,7 @@ meta: >-
   {"date":"2018-06-12 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"en"}
 path: /en/_partials/news/2018/2018-06-12-flex-message-added
-__hash__: MDN7-ds19gPls9PgrJmlgeR_-KrbZvPMtYUuFrdhee0
+__hash__: yD6tBH9jqo1rtvKalUg2zOhVUfKYbI-Ih2pnYGC6-40
 seo:
   title: Flex Message released
   description: >-

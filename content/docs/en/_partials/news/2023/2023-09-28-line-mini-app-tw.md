@@ -11,7 +11,7 @@ description: >-
   slots are limited. Please note that your application may not be approved.
 meta: '{"date":"2023-09-28 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2023/2023-09-28-line-mini-app-tw
-__hash__: QvyS6xP95WYiiKu9cGRWMffLvgLsLHeN3rtP21zytWg
+__hash__: phwne3814yVnfzi8Ft0i65Xxb0XNqEMw4dS70vvSxLI
 seo:
   title: >-
     You can now apply for permission to create LINE MINI Apps that will be

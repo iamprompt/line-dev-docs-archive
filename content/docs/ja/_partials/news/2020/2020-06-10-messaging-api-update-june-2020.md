@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに新しいエンドポイントが追加されました。今回のアップデートで追加された機能は以下のとおりです。
 meta: '{"date":"2020-06-10 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-06-10-messaging-api-update-june-2020
-__hash__: Py3sUSAqcPOcfoV8T12m5U4hWhPaOZukeiIlD7gwQRg
+__hash__: UsZ9GxB3OWhNQDFsTt9rZG8FviQJO3lamkQjYFYtkds
 seo:
   title: Messaging APIアップデート（2020年6月）
   description: Messaging APIに新しいエンドポイントが追加されました。今回のアップデートで追加された機能は以下のとおりです。

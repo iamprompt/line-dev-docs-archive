@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-05-26 00:00
   UTC","tags":"line-mini-app","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-users-who-do-not-use-line-use-line-mini-apps
-__hash__: hwDYrkgOW6z1HpNyzRtlGPZ3Bv62gjIGUzGQshoICOM
+__hash__: 6foeXouF3Tk_RNkEr8JT_cbPSW5IzHFMyKeM17Dpslk
 seo:
   title: Can users access LINE MINI Apps without installing the LINE app?
   description: >-

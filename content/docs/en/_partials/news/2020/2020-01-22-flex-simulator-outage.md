@@ -9,7 +9,7 @@ meta: >-
   {"date":"2020-01-22 00:00 UTC","tags":"Outage report, Flex Message
   Simulator","locale":"en"}
 path: /en/_partials/news/2020/2020-01-22-flex-simulator-outage
-__hash__: rRTDqUjjfMXHlZ2iqIM2Op5fVpN_rIB6jBnUMm1eW7c
+__hash__: 4FBFPQeQve-OU6358UC-GeaPOhMk_ljVuj56L4Kh6Z4
 seo:
   title: '[Resolved] Notice about Flex Message Simulator outage'
   description: >-

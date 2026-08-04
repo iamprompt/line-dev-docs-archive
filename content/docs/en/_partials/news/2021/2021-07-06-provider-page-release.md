@@ -8,7 +8,7 @@ description: >-
   provider page.
 meta: '{"date":"2021-07-06 01:00 UTC","tags":"Console","locale":"en"}'
 path: /en/_partials/news/2021/2021-07-06-provider-page-release
-__hash__: kvZVrSSxxc_ysOY-DXNSp50eCFxgZWcT7UUY9pphvBA
+__hash__: 8s8xs8jSJQixB-ScbzwWqSpUiZvZn4RUd7I4tIotjVE
 seo:
   title: A list of services provided by providers can now be published
   description: >-

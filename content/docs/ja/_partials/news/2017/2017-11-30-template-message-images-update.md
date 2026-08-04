@@ -7,7 +7,7 @@ meta: >-
   {"date":"2017-11-30 00:00 UTC","tags":"Messaging API, Template
   messages","locale":"ja"}
 path: /ja/_partials/news/2017/2017-11-30-template-message-images-update
-__hash__: 3qdO84D-bIvl79zARNJvfmTY3-uibqrSdfInxZjdX5A
+__hash__: cJgQWf_u-J78Ad2qnbhxRF67iiEjLY-oBy94ywM8Vac
 seo:
   title: テンプレートメッセージの画像の仕様が変わりました
   description: >-

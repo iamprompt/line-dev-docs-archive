@@ -6,7 +6,7 @@ description: >-
   Added endpoints are as follows:
 meta: '{"date":"2022-10-24 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2022/2022-10-24-validate-message-objects-api
-__hash__: eN0FJ4-RG31vBhqcpR9GCrP2nreS4o_gJqRWMIUykt8
+__hash__: 5NPl1ADnYqErXfKNhqZVUzVsfRKiPfU9wGQf80AuzDQ
 seo:
   title: The endpoints for validating message objects have been added
   description: >-

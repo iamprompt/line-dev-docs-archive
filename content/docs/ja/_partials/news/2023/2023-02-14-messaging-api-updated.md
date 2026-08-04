@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIにおいて、ユーザーが送信したコンテンツの取得に関連するエンドポイントを追加しました。追加されたエンドポイントは以下のとおりです。
 meta: '{"date":"2023-02-14 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-02-14-messaging-api-updated
-__hash__: NzREsvTivYUNjqQoQ78-3FILepBGmXIqbkVN1CXf-yU
+__hash__: PaNS-H_VzAfxHR9kHXZPGFQjwBVAyhKlhu4OOLMwCq0
 seo:
   title: Messaging APIにおいて、ユーザーが送信したコンテンツの取得準備の状況とプレビュー画像が取得できるようになりました
   description: >-

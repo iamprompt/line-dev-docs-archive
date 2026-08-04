@@ -6,7 +6,7 @@ description: >-
   API.
 meta: '{"date":"2020-01-15 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-15-release-narrowcast
-__hash__: tDMHDDDX2KfNuwiS7c1DILz0yqCATUL52U21VgGRstA
+__hash__: kN8tV7IkbFGI8LVDu-Zlp5LpqQqLSyUGFG1H2tBwWz8
 seo:
   title: New Messaging API endpoint for sending narrowcast messages
   description: >-

@@ -8,7 +8,7 @@ description: >-
   will be changed. The revised plans will only apply to Japan.
 meta: '{"date":"2023-04-12 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2023/2023-04-12-revise-subscription-plans
-__hash__: xI3hzVci_pAJDHsK_a8eMzFw11pg_FZyGHMILsAQEhk
+__hash__: JS4sQJKhGHUFjJEGgkTOwNq9bjB3zXO_WxZ3Y7k_G6s
 seo:
   title: 'Reminder: Revision of LINE Official Account subscription plans'
   description: >-

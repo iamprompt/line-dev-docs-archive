@@ -6,7 +6,7 @@ description: >-
   allow developers to easily recognize the sticker ID.
 meta: '{"date":"2016-05-20 00:00 UTC","tags":"Messaging API","local":"en"}'
 path: /en/_partials/news/2016/2016-05-20-stickers-updated
-__hash__: Z0rfCO6JWKbUbj8fmm5aJ3Q3S4vwQwZTk38u1Yd7alY
+__hash__: QTEp5552bYjNUtahQukjSFEcTzJeTi-o-03a212G-3w
 seo:
   title: List of stickers updated
   description: >-

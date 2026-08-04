@@ -10,7 +10,7 @@ meta: >-
   {"date":"2023-07-04 00:00 UTC","tags":"Messaging API, Rich
   menu","locale":"en"}
 path: /en/_partials/news/2023/2023-07-04-messaging-api-updated
-__hash__: GL3A9cdAjNCOk080dV_zet3n2Xz2fp1-_HrsrIfb6Fk
+__hash__: Jr2V33VdiTOi8NCXYR32PdhiVPDGt-dzrzt3BkqADQ4
 seo:
   title: >-
     In the Messaging API, you can now replace or unlink the rich menu linked to

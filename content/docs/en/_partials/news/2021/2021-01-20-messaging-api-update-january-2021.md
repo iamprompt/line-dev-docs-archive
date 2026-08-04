@@ -7,7 +7,7 @@ description: >-
   API.
 meta: '{"date":"2021-01-20 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-01-20-messaging-api-update-january-2021
-__hash__: Lpk2I3TjY7jjktPu22B4EDPO5pIc3D8HVzJ47bSAGp8
+__hash__: VsjcAOzST0PxGDpnXeYR21DYnZUkolJf5r5qtQzWDac
 seo:
   title: Messaging API update for January 2021
   description: >-

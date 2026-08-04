@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"pageClass":"api-reference-page has-section-blocks"}'
 path: /en/reference/messaging-api
-__hash__: CyOAhoqCBbSrOH6yeG4YQHejryXlpFpW0HmMnSDlTk4
+__hash__: BdXMNLpydEc05Q0fhXw6QrPxl3jJZzOsrnZskIlV76Y
 seo:
   title: Messaging API reference
   description: ''

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-07-04 01:00 UTC","tags":"messaging-api,
   flex-message","locale":"en"}
 path: /en/_partials/news/2023/2023-07-04-flex-message-update-4-released
-__hash__: jlrtv5OL65mJaI79MITJFk3_Y3XtqSmUKR9DXRCt2P0
+__hash__: 0wc8pUegCf0mHEZqe5cY8idlFCYxqEuBgTZsz6rELHw
 seo:
   title: Flex Message Update 4 released
   description: We've released Flex Message Update 4.

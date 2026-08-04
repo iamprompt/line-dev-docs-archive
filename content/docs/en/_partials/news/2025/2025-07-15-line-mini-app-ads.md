@@ -7,7 +7,7 @@ description: >-
   Apps.
 meta: '{"date":"2025-07-15 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-07-15-line-mini-app-ads
-__hash__: yx4_H-vIJSUp-8SpddKFd6v28hUzZjJoksOZVxQuTCk
+__hash__: RIk5xfQVo4YweGI-wyT7UgU62P7Ya1ZQKDyXUkfdhs0
 seo:
   title: LINE MINI Apps can now display Yahoo! JAPAN Ads
   description: >-

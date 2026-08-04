@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/technicalcase/bravetechnology
-__hash__: BFm_HVenhAsPwqxfXs4ugDja51NCZUaSXILMt_SEI9U
+__hash__: hTAN622XBu9aEQ74bci-nvJhCxuVSB6xq-1KZZAGnk4
 seo:
   title: LINEミニアプリと共に拡大する順番待ちソリューション（matoca、yoboca）の開発事例
   description: ''

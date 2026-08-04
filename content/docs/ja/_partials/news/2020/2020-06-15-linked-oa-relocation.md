@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソール内で、特定のチャネルタイプの［リンクされたボット］設定の位置を移動しました。
 meta: '{"date":"2020-06-15 00:00 UTC","tags":"Console","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-06-15-linked-oa-relocation
-__hash__: 5ElixF5WESJOL4iIao6xxDTfI0n3G6FTCH-iDIoYktg
+__hash__: ZHrwy-ndOJkzDejVZXy22BMkvg3tpeQji5jCrqzAuS8
 seo:
   title: LINE Developersコンソール内で「リンクされたボット」設定の位置を移動しました
   description: LINE Developersコンソール内で、特定のチャネルタイプの［リンクされたボット］設定の位置を移動しました。

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/line-mini-app-ads
-__hash__: lqPigtuAJq92823rMgaL5Stzu5SRJ7xo4qcTEl4CZtI
+__hash__: Pn51BFg4PON-TPmoClun5ypwRPjKB6OY4h-KDw1C9Wg
 seo:
   title: Place ads in LINE MINI Apps
   description: ''

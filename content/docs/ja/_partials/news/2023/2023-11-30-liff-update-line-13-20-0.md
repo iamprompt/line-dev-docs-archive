@@ -5,7 +5,7 @@ description: >-
   LINEバージョン12.13.0以降において、LIFF間遷移時にLIFFブラウザがRefererリクエストヘッダーを送信せず、遷移後のLIFFアプリのURLにliff.referrerクエリパラメータが付与されない不具合がありました。
 meta: '{"date":"2023-11-30 01:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-11-30-liff-update-line-13-20-0
-__hash__: MdUMXPaCdg9sK23qxoxPBqtARnGBDG1pMNM_pELHLEM
+__hash__: kuPdnvIYvM0WoG8AnYhPmUjYdkBIj5WFM1gSgJywEBM
 seo:
   title: LINEバージョン12.13.0以降でLIFF間遷移後にliff.referrerが付与されない不具合を修正しました
   description: >-

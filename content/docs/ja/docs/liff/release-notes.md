@@ -5,7 +5,7 @@ description: LIFF APIのリリースノートです。最新のリリースと�
 meta: >-
   {"tags":null,"author":null,"last_updated":null,"source_language":null,"toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /ja/docs/liff/release-notes
-__hash__: 0sW1WvaBu_VaMktPwO3VgAZZSkQFaHLCQVxWWeZoakY
+__hash__: vqRfruXYMLBMNNQlXCDzSTK-_Ogudwnw4bFi0aNgWQw
 seo:
   title: リリースノート
   description: LIFF APIのリリースノートです。最新のリリースと変更点について記載しています。

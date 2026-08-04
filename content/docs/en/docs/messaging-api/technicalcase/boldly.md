@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/boldly
-__hash__: khhmtNZiUqr13nrzS-6MY70WAjNvGlrteBPWtg1BWs4
+__hash__: lnViAsIduv44lXV1inkVFsfY4lDTwEB2wArzjkfUhIU
 seo:
   title: A LINE MINI App case study of an on-demand autonomous bus reservation system
   description: ''

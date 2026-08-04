@@ -9,7 +9,7 @@ meta: >-
   {"date":"2025-06-19 00:00 UTC","tags":"console, line-mini-app,
   options-for-corporate-customers, outage-report","locale":"en"}
 path: /en/_partials/news/2025/2025-06-19-notification-email-outage
-__hash__: cGW4rDF2SzwApaAkTH0viPICypmFiofffD-BQqNzCh4
+__hash__: RjX0-wyfZypsi97JBwriVwL0l8Ha1KHvYJmdOa8Al0M
 seo:
   title: >-
     [Resolved] Notice of email transmission outage on the LINE Developers

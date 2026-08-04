@@ -4,7 +4,7 @@ navigation: true
 description: LIFF v2.9.1では、以下の不具合が修正されました。機能に変更はありません。
 meta: '{"date":"2021-04-27 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-27-liff-v2-9-1-release
-__hash__: SG4zeWp7XR7kAeOwjTZ2Rtyfc0QB-7hG_OkL1Gfi5xk
+__hash__: NmCd91zMDImb_nVk8OfRr8_I8nEO2d2pkZVzs_kd5s4
 seo:
   title: LIFF v2.9.1をリリースしました
   description: LIFF v2.9.1では、以下の不具合が修正されました。機能に変更はありません。

@@ -6,7 +6,7 @@ description: >-
   PER_STICKER_TEXTが追加されました。
 meta: '{"date":"2020-03-30 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-03-30-per-sticker-text-type-added
-__hash__: 9rdLH_V83lX-pRLK91_lDXT7Y2CuPTkgH428ZUZNcBU
+__hash__: wf6YicCX8knB639pAmLCHLvaYpCrcxnNomND4M7Mlsw
 seo:
   title: スタンプの送信を通知するWebhookイベントに新しいリソースタイプが追加されました
   description: >-

@@ -5,7 +5,7 @@ description: 『LIFFドキュメント』において、「LIFFブラウザと�
 meta: '{"date":"2022-09-01 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: >-
   /ja/_partials/news/2022/2022-09-01-differences-between-liff-browser-and-external-browser
-__hash__: 2bWaTkjV6eM-Xj5Fz05bBxbNOhtraJDgvfpJZkXnSPo
+__hash__: x9bz2bjgl2vmd6Rk4vDLp3HTmoY-Zxn1o-Wi9FSokrU
 seo:
   title: 「LIFFブラウザと外部ブラウザの違い」を公開しました
   description: 『LIFFドキュメント』において、「LIFFブラウザと外部ブラウザの違い」を公開しました。

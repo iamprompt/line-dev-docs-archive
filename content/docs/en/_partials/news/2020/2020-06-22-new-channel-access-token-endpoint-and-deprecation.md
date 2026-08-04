@@ -10,7 +10,7 @@ description: >-
 meta: '{"date":"2020-06-22 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: >-
   /en/_partials/news/2020/2020-06-22-new-channel-access-token-endpoint-and-deprecation
-__hash__: wgL9Fyhvpv0_N1yp1oRNVJCk_uuVn2hRvevlP9NQMKo
+__hash__: n4xHvF_b5iquCrDniucrgrpb4-v8BC2gbhg90JM6YsY
 seo:
   title: The key IDs to identify Channel Access Tokens have been added
   description: >-

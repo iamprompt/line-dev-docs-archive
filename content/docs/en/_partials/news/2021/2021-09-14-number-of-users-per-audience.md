@@ -9,7 +9,7 @@ description: >-
   audience", but this requirement has been reduced to a minimum of 50 users.
 meta: '{"date":"2021-09-14 02:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-09-14-number-of-users-per-audience
-__hash__: L7akNyRf3tGSn_tA6xaeCuYmDOHZg_UwNoOaulOkts0
+__hash__: pvDGUx4XTSnRmI1P5UCJbOQ-Ijp6nJbG8zhZ0VtqwsA
 seo:
   title: >-
     Requirement reduced for minimum number of users per audience when sending

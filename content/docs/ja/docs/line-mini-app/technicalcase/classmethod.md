@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/technicalcase/classmethod
-__hash__: uctRJtr15w7LXpLIY8l4GOcUuMjnKIwjT-DV00muqMk
+__hash__: LmYc493ZMSyV7OvBVZrPzaowLGMiSs34WyGmsxb-6sA
 seo:
   title: モバイルオーダーシステム「CX ORDER」の開発事例
   description: ''

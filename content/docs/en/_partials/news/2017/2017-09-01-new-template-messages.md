@@ -4,7 +4,7 @@ navigation: true
 description: We have released the following features for the Messaging API.
 meta: '{"date":"2017-09-01 00:00 UTC","tags":"Template messages","local":"en"}'
 path: /en/_partials/news/2017/2017-09-01-new-template-messages
-__hash__: P51SQtVtev3b7jHnm6WbXswVVudRcaVmDWVyv6nYkIU
+__hash__: yVj8LMpxx0GC1wY0Ggxua8A2d7Rb0ORRMPgjdXyXfjk
 seo:
   title: New template message features released
   description: We have released the following features for the Messaging API.

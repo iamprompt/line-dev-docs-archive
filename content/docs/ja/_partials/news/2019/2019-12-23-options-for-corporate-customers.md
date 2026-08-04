@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-12-23 00:00 UTC","tags":"Options for corporate customers, LINE
   Ads","locale":"ja"}
 path: /ja/_partials/news/2019/2019-12-23-options-for-corporate-customers
-__hash__: 8FsjMyIx3pSVBcjs0hdTQ2-gAD4hk3xGqNT6gdTkAyY
+__hash__: PEYd_kmAr6B3XewYGX78DBf98uAwVhqzN4kuSf0pzvA
 seo:
   title: 法人ユーザー向けオプションおよびLINE  Ads Platform APIのドキュメントがリリースされました
   description: ''

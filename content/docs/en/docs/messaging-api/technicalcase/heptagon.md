@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/heptagon
-__hash__: s4ThjKsSJ2_MLsn4s1VxhKhYhsaLhf2nTAkuDPO5Jzo
+__hash__: GcwcE1jlwrNxGW_KytlbgVqAGmgFy_gweV0mx-yXmCc
 seo:
   title: >-
     A case study of developing a LINE bot to handle inquiries related to

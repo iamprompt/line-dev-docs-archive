@@ -6,7 +6,7 @@ description: >-
   URLの追加情報の処理方法］の［置換（後方互換性モード）］の廃止に伴い、「［連結］で生成されたURLを［置換（後方互換性モード）］仕様のURLに変換するコード例」は2021年6月末をもって提供終了しました。
 meta: '{"date":"2021-07-01 01:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-07-01-deleleted-liff-example-code
-__hash__: 5-CWVGeqnRqvnygHC0d7tCdqdYXrqsRrcdIRYNz9A14
+__hash__: Tkty2taUVkR0B2HfoZqMpRTnmtQYv9ulUFWLpYKLs8g
 seo:
   title: LIFFにおいて［連結］で生成されたURLを［置換（後方互換性モード）］仕様に変換するコード例を削除しました
   description: >-

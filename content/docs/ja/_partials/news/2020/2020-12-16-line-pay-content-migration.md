@@ -6,7 +6,7 @@ description: >-
   Developersサイトに移行しました。移行したドキュメントは、以下のとおりです。
 meta: '{"date":"2020-12-16 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-12-16-line-pay-content-migration
-__hash__: DQ_9hE4DMska366SAHBWABM2KcHKVgOi8A20zI_wtCA
+__hash__: XGeeyw_3g6X8hb1r2VMXAL5MnNqX7ZMOgC32ke0ES3U
 seo:
   title: LINE Payの開発者向けドキュメントがLINE Developersサイトに公開されました
   description: >-

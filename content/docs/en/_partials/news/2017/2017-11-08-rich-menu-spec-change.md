@@ -9,7 +9,7 @@ description: >-
   200 status code.
 meta: '{"date":"2017-11-08 00:00 UTC","tags":"Messaging API, Rich menu","local":"en"}'
 path: /en/_partials/news/2017/2017-11-08-rich-menu-spec-change
-__hash__: _VyVZdUutbS7ZuufBisRVLF2dWT0Vx2AWd5O1-gVFA8
+__hash__: Te2rBfhNookPFyrd5qyUFbWfvPwlD901ZCBODxJJeIs
 seo:
   title: Specification change for rich menu resources
   description: >-

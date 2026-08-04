@@ -5,7 +5,7 @@ description: >-
   ユーザーがLINE公式アカウントにメッセージを送ったときなど、イベントに応じたWebhookがボットサーバーに送信されます。このWebhookはこれまで一度しか送信されませんでしたが、これを再送する機能の追加を予定しています。
 meta: '{"date":"2022-03-07 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-03-07-pre-release-webhook-redelivery
-__hash__: IlP48pWDDyZH-5saOOUN4YxM1bv1xpT26jtWGcjsRB0
+__hash__: 5RApXBEHbzZThVQEUdzU9roEyE8sYy1xq1GMATQpr10
 seo:
   title: 2022年4月上旬よりMessaging APIにWebhook再送機能が追加されます
   description: >-

@@ -6,7 +6,7 @@ description: >-
   Developersサイトに検索機能が追加されました。サイドメニューの最上位にある検索バーを使って、［プロダクト］、［ドキュメント］、および［FAQ］の各セクションの内容を検索できます。
 meta: '{"date":"2017-12-06 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2017/2017-12-06-search-feature
-__hash__: VLCLdj2PhlVf8RNfk9RCWAxSrOUVs33LTQxN6auK8oQ
+__hash__: QaNA7bUctVIQhk_kuLh7ycStW7-cZdeLVoSOx-Y8pyU
 seo:
   title: サイトに検索機能が追加されました
   description: >-

@@ -6,7 +6,7 @@ description: >-
   LINE Developers Console to improve the developer experience.
 meta: '{"date":"2021-04-23 00:00 UTC","tags":"Messaging API, Console","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-23-improve-provider-creation
-__hash__: nCBVnsdlDitdHRujJl-iIdYnMfil0H4kmvMXlVRVTCo
+__hash__: kXJbHjWq3AVjYK019W3UvLD75nbPdwrZJUMimYVWH9A
 seo:
   title: Provider and Messaging API channel creation flow updated
   description: >-

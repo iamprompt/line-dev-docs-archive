@@ -10,7 +10,7 @@ description: >-
   You won’t be able to access https://developers.line.me
 meta: '{"date":"2017-02-06 00:00 UTC","tags":"Maintenance"}'
 path: /ja/_partials/news/2017/2017-02-06-site-unavailable
-__hash__: yf2Hs-yJXdNqbruOs8c9VzTomdAk8br0k5a0JYpSvrs
+__hash__: n-T_mT3PPRxx_NZbv_36ad8aXbJYVr-cnZ0Qvl7JL-Q
 seo:
   title: LINE Developers site temporarily unavailable on February 7
   description: >-

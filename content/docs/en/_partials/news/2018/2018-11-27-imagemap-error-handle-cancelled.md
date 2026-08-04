@@ -7,7 +7,7 @@ description: >-
   inconveniences caused and appreciate your understanding.
 meta: '{"date":"2018-11-27 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-27-imagemap-error-handle-cancelled
-__hash__: eXy9qPBCCkDOvoddrlixhE3KjBEPexZhA1oWoEVfdZY
+__hash__: qN-isDmvRM3N3hFfBGbE5Q3rvDvtm0dMYu09jEW202E
 seo:
   title: '[Update] Change to the imagemap message'
   description: >-

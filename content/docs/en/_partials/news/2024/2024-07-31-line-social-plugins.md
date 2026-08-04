@@ -8,7 +8,7 @@ description: >-
   a pop-up will appear to select the destination.
 meta: '{"date":"2024-07-31 00:00 UTC","tags":"social-plugins","locale":"en"}'
 path: /en/_partials/news/2024/2024-07-31-line-social-plugins
-__hash__: BejO3Op3ZsgUwbDniNpUIIj-6Ou02SmWIl8asSR1z3M
+__hash__: vOEVvv_hpjYUk_HcYV6yEoXbLZVCUjbsAfNpaV-vq8Y
 seo:
   title: >-
     In the LINE Social Plugins, we've changed the destination when clicking the

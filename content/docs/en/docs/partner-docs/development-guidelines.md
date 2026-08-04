@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/development-guidelines
-__hash__: hACmUd67lFjMPBu_des4O3Zv0oRn5Iu9wp3xpGbJQMw
+__hash__: atuYUM5MFk46yivVikras6ugDNxTJ5yKG8Qcsu4HSnE
 seo:
   title: Development guidelines for corporate customers
   description: null

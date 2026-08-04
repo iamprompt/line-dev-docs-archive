@@ -4,7 +4,7 @@ navigation: true
 description: iOS版LINEバージョン12.19.0よりLIFFブラウザのアクションボタンのUIを変更します。
 meta: '{"date":"2022-11-09 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-11-09-liff-update-line-12-19-0
-__hash__: H2WnsFwjze3kaYsM2VcBk9462qmwnNscHDwH8maYIlE
+__hash__: ZtkPFZK8qXGsdz8mu7X21eL5xfTef5GycGaribd4pAM
 seo:
   title: iOS版LINEバージョン12.19.0よりLIFFブラウザのアクションボタンのUIを変更します
   description: iOS版LINEバージョン12.19.0よりLIFFブラウザのアクションボタンのUIを変更します。

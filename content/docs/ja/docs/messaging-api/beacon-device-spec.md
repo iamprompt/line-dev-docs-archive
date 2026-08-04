@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/beacon-device-spec
-__hash__: apNzLxxFGLBhJs91EHVNOcrCMmH4s3n9LH4iqvUhYVg
+__hash__: lGWelH87iOHmAh9S6ifWC49wLMcfUHFc5dtChxS9gxA
 seo:
   title: LINE Beacon端末の仕様
   description: null

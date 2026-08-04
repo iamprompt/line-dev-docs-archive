@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-name-list-of-units
-__hash__: iXSKaRU6bAsJ1MUfE9VO3Fl73W1k4TkYFAmiJYWrpq4
+__hash__: nMNPfc28vbnimEhTOgNyrmWtFXmYLSsRWBFlL3aSIJk
 seo:
   description: ''
 ---

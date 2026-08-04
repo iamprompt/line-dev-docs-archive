@@ -7,7 +7,7 @@ description: >-
   as their LINE friend.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/install-guide/using-add-friend-buttons
-__hash__: ghChTyvVryrqpoaKTpsnkdQK1BA-ZaCHS9Hl7IBTTCQ
+__hash__: t0oAre-uSVU1_3Z_90U69DSBfL8D61ea0YAPi4gAChM
 seo:
   title: Using Add friend buttons
   description: >-

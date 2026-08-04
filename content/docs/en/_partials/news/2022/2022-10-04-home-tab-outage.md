@@ -9,7 +9,7 @@ meta: >-
   {"date":"2022-10-04 00:00 UTC","tags":"outage-report,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2022/2022-10-04-home-tab-outage
-__hash__: pUTojs6gxGIFrklNgkvykCnD9fqc115_G9v8ri5NnHU
+__hash__: hGcD0AtVCDwakPKgfePTRGlh-7nrBWpV0DXXB2QEebY
 seo:
   title: '[Resolved] Notice about service outage for the Home tab of LINE for iOS'
   description: >-

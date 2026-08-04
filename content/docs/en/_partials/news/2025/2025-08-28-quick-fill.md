@@ -13,7 +13,7 @@ meta: >-
   {"date":"2025-08-28 00:00 UTC","tags":"line-mini-app, liff,
   options-for-corporate-customers","locale":"en"}
 path: /en/_partials/news/2025/2025-08-28-quick-fill
-__hash__: j7FskYzMu5Yj5KCSooxn_D95BRHSl4Z11IiohbfiNBQ
+__hash__: TdSUpsy2zH4s4nkk5D5BCHW7IOZY3WaDxqMO6WOcPbo
 seo:
   title: >-
     In the LINE MINI App, we've officially released the Quick-fill feature for

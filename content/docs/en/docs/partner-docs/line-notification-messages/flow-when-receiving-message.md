@@ -8,7 +8,7 @@ description: >-
   LINE Official Account as a friend.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/flow-when-receiving-message
-__hash__: IQXT-ErNwj9GezMC2FmTQGziOiqW8-n7-kmoyhO3b80
+__hash__: NcagnTQvvQLx3ASaFGyG0g6IeRGGfIXGiGBdReKPHHE
 seo:
   title: Flow when receiving a LINE notification message
   description: >-

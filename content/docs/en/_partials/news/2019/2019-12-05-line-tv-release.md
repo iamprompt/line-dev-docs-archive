@@ -7,7 +7,7 @@ description: >-
   planning to translate it to other languages.
 meta: '{"date":"2019-12-05 00:00 UTC","tags":"LINE TV, Docs","locale":"en"}'
 path: /en/_partials/news/2019/2019-12-05-line-tv-release
-__hash__: liwjwwFDy8JrXfwxwj6pwpv7VmGMlCcPTEMRM00wn9M
+__hash__: 60Vg7LuZ0_vXhQ-yxG72a5o9ogu1et9ehl9846y79dE
 seo:
   title: LINE TV API documentation released
   description: >-

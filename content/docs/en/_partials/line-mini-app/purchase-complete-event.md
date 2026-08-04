@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-mini-app/purchase-complete-event
-__hash__: zEnZ35WtDxBJB6JqLvsmgvs83WGXLDHHovBEFUlSe5U
+__hash__: oOQtXP5N_CCFlj13pn7wWmoF8ZC0cbt_vhLABea4tVk
 seo:
   description: ''
 ---

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/group-chats
-__hash__: '-pCpuY1qRxcRidVpIadZvK3Cjk8m0LxjnoCwK2hMCSY'
+__hash__: SvLJxsxnT2nCvU4tIQtlmG76RqV2x7ucg3VWCwZLrD8
 seo:
   title: グループトークと複数人トーク
   description: null

@@ -6,7 +6,7 @@ description: >-
   API.
 meta: '{"date":"2021-06-21 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-06-21-switch-between-multiple-rich-menus
-__hash__: E7sFtqUbmXHAoUny57maoVddW_X8Z0h3mPAjO1vAPyw
+__hash__: eCpr13TrFXLuVCu55I57gehDZo1o9QMGdBKtdqpW2CU
 seo:
   title: You can now easily switch between multiple rich menus
   description: >-

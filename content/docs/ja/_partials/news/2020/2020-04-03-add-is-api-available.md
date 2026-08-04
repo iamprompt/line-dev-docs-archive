@@ -6,7 +6,7 @@ description: |-
   指定したAPIが、LIFFアプリを起動した環境で使用可能かどうかを確認できます。
 meta: '{"date":"2020-04-03 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-04-03-add-is-api-available
-__hash__: slfwCjSfu13hKQyyZfCQJwiEPNM6Ti5OUTpYcZtLjAY
+__hash__: lBNiiSfSn4OSNcEYeL4sJq2WRpb2Qi12APqx3rq7pR4
 seo:
   title: LIFF v2にliff.isApiAvailable()が追加されました
   description: |-

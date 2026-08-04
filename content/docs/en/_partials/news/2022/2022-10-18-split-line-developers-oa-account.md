@@ -9,7 +9,7 @@ description: >-
   English account.
 meta: '{"date":"2022-10-18 00:00 UTC","tags":"docs","locale":"en"}'
 path: /en/_partials/news/2022/2022-10-18-split-line-developers-oa-account
-__hash__: RwjxGR814kTFOTZv36471IWOTNodzFQPEdJrt9NqVmo
+__hash__: JNXtlIdz2wxPFEVyWqnO5wDJuESEUjxbsWRrgrNSVuE
 seo:
   title: >-
     The LINE Developers Official Account has been split into a Japanese and an

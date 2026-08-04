@@ -9,7 +9,7 @@ meta: >-
   {"date":"2023-10-25 00:00 UTC","tags":"outage-report,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2023/2023-10-25-line-mini-app-outage
-__hash__: '-McM7E_9gUTaTRivkWmeO4eEh2YKR6WAgD03zsNWJAw'
+__hash__: 1lTdCAmfEJycYGL-ut960EKYQfGpQE257Nl0-AXhCUs
 seo:
   title: '[Resolved] Notice about service outage of the LINE MINI App'
   description: >-

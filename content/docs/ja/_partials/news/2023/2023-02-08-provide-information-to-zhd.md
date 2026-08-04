@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-02-08 00:00 UTC","tags":"messaging-api, line-blockchain,
   console","locale":"ja"}
 path: /ja/_partials/news/2023/2023-02-08-provide-information-to-zhd
-__hash__: g6TJKa3AnaLiXnbGbU5MQPPaG_c3ES70LbMg2CUP0M8
+__hash__: SXzlufMQvm0WwZHfp-pBIPWmOD6HuGJ-Du4NB2zhLiA
 seo:
   title: 「ZHDグループへの情報提供に関する個別規約」の制定について
   description: >-

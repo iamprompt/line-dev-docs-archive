@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-10-08 00:00 UTC","tags":"Messaging API, Flex
   Message","new":"false","category":"Messaging API","locale":"en"}
 path: /en/_partials/news/2020/2020-10-08-flex-message-update-2-released
-__hash__: zHK0iwOde5-kROiuPTIYtQOEfPlXQ3TZa_pX9OteAZM
+__hash__: OVi-M9HKeCckBVeFKS8iLzMUyOlYVT4f1f6olkdcqdU
 seo:
   title: '[Updated] Flex Message Update 2 released'
   description: ''

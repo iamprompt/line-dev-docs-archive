@@ -6,7 +6,7 @@ description: >-
   Developersサイトのドキュメントのページに、フィードバックフォームを追加しました。ページ下部の［フィードバックを送る］ボタンをクリックするとフォームが開きますので、ドキュメントについてお気づきになったことやご意見・ご要望をお寄せいただければ幸いです。
 meta: '{"date":"2017-12-20 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2017/2017-12-20-feedback-form
-__hash__: Oqy3-_2quhzsVELAoVWHynWZIFxGfWizVICtf0w4wJk
+__hash__: TYA41k9CFRm7uAMRNBDNGzby0ggHUi4jddRX-XJfEh8
 seo:
   title: フィードバックフォームをご利用いただけるようになりました
   description: >-

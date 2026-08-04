@@ -8,7 +8,7 @@ description: >-
   that ask for access to the camera and microphone.
 meta: '{"date":"2024-04-24 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-04-24-skip-pop-up-asking-for-access
-__hash__: h0ULj-s3wrc2L3XLrdwR-pTq9yWXbRfGZ_nsqYxLRAI
+__hash__: 8r1z7kRH7jsBQYODnpthewu0b61HSi_nj-mH1JqKPiQ
 seo:
   title: >-
     In the LINE MINI App, users can now skip the pop-ups that ask for access to

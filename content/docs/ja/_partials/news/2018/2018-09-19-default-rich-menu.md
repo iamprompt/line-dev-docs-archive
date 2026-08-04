@@ -6,7 +6,7 @@ meta: >-
   {"date":"2018-09-19 00:00 UTC","tags":"Messaging API, Rich
   menu","locale":"ja"}
 path: /ja/_partials/news/2018/2018-09-19-default-rich-menu
-__hash__: GJPT-uEDTSF_h5-j1TrLu_yZ7HPGvX1XdHGrskZbHmg
+__hash__: 5ao-ulpkEdvF2Blv4MnUz6DnzfRKxrg60hwpI70z1vE
 seo:
   title: Messaging APIでデフォルトのリッチメニューを設定できるようになりました
   description: Messaging APIでデフォルトのリッチメニューを設定できるようになりました。

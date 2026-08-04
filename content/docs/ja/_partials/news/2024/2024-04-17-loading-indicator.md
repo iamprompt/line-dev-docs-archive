@@ -6,7 +6,7 @@ description: >-
   APIにローディングのアニメーションを表示するエンドポイントが追加されました。LINE公式アカウントがユーザーからのメッセージを受信したあと、メッセージの準備や予約の処理などで返答に少し時間がかかることがあります。そのような場合に、ユーザーにそのまま待機しておいて欲しいことをローディングのアニメーションで視覚的に伝えることができます。
 meta: '{"date":"2024-04-17 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-04-17-loading-indicator
-__hash__: dWBzLnSRyVAlg0TsGuWoxECrjcQQ2p6Io2h0hAc7P3Y
+__hash__: vhlwpd4BTkf1URgpRfQkgQ9VwKG_OdVYeks0Hwg7450
 seo:
   title: Messaging APIでユーザーとのトーク画面にローディングのアニメーションを表示できるようになりました
   description: >-

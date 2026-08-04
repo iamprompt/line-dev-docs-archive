@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-8-17 11:41
   UTC","tags":"social-plugins","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-see-number-of-clicks-i-get
-__hash__: ZjOpiM_N3ZkGBHCjt3rmT44O87kpBbf1zCkyXerVLKY
+__hash__: i7u13nImhHK_-MeKWV5AWCT0SMSvd-Fzl53lVen8KfI
 seo:
   title: Can I see the total number of button clicks/taps I get?
   description: You can see the total number of shares, added friends, and likes.

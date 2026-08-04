@@ -8,7 +8,7 @@ description: >-
   endpoints has been changed from api.line.me to api-data.line.me.
 meta: '{"date":"2020-03-19 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-03-19-remind-domain-name-change
-__hash__: hebpe_X96aN-HgWvqbk1HtAYey34-eBklenS303c04s
+__hash__: vi8iKdSpiv8whU78bIs5zBMIGpuYAH-4WrOkoV_O8_E
 seo:
   title: >-
     Reminder: Notice of domain name change for certain endpoints (Domain names

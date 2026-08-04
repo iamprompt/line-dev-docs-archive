@@ -4,7 +4,7 @@ navigation: true
 description: 一部のデザインと文章を見直し、LINEログインの同意画面がもっと見やすく、使いやすくなりました。
 meta: '{"date":"2020-04-02 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-04-02-changed-line-login-authentication-ui
-__hash__: xuUf0bmtMbLq0FrFDVU2zN7R9sZAHpDpLgiOJnyp_aA
+__hash__: Q6u1TnwmcL_jNNJPojxN8as0em5CxTn3o8CpF5VRJfI
 seo:
   title: LINEログインの権限付与への同意画面が変わりました
   description: 一部のデザインと文章を見直し、LINEログインの同意画面がもっと見やすく、使いやすくなりました。

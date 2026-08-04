@@ -6,7 +6,7 @@ description: >-
   owners.
 meta: '{"sidebar":false,"feedback_form":false,"search_index":false}'
 path: /en/trademark
-__hash__: PErau7VM2lb8QuMdUENe_tfyLH4gpMCX5Ybv0xpQKig
+__hash__: MHoZzJt1D8NGgrLYo4izZiJaC6zo5598GmfSBmcj7zU
 seo:
   title: About trademarks
   description: >-

@@ -7,7 +7,7 @@ description: >-
   need for additional development work.
 meta: '{"date":"2019-04-23 02:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2019/2019-04-23-liff-consent-screen-changed
-__hash__: Hmt4xxF2DS-k6i438Ub7dxqp9v-6rJNLMvYyFCDO1lg
+__hash__: hxsV7Y773unNuXVvXvGqsFE6MrmCkmuzr-mMkGQvTwU
 seo:
   title: Improved consent screen in LINE Front-end Framework
   description: >-

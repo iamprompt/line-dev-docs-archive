@@ -4,7 +4,7 @@ navigation: true
 description: LINE Notifyにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。
 meta: '{"date":"2020-09-11 00:00 UTC","tags":"Outage report","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-09-11-line-notify-outage
-__hash__: vGsySkwH6UFgLjy7VM7Z3p1xx8otKDGwPpQHPAHgT3Y
+__hash__: G509XLyjkD2S0vlPb-LlbsZar0RcdcqObvikWEJFLe4
 seo:
   title: 【復旧済み】LINE Notify障害のお知らせ
   description: LINE Notifyにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。

@@ -10,7 +10,7 @@ meta: >-
   {"date":"2025-09-30 00:00 UTC","tags":"LINE Login, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2025/2025-09-30-add-friend-option-updated
-__hash__: p3oyJEKWEVW9AGpkjiyBEuy_FBF4xm0gomZAXJdnjAw
+__hash__: _wDFOcBEfbPZ3CH0-vi5m6nAs16GykKht2JkAYfJZPo
 seo:
   title: >-
     We've changed the design of the add friend option displayed on the channel

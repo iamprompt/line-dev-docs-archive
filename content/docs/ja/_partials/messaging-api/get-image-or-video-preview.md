@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-image-or-video-preview
-__hash__: 0khlVLJF2kuMaFR4aoDw2P3sKy3aK6AuCGvXOVoo5M0
+__hash__: lMFgdsB9zuPQsaUQ284SAHphyWoFeydBFxfNRUSprs0
 seo:
   description: ''
 ---

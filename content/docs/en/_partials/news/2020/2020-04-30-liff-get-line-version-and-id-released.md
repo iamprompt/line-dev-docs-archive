@@ -4,7 +4,7 @@ navigation: true
 description: We added the liff.getLineVersion() method and the liff.id property to LIFF v2.
 meta: '{"date":"2020-04-30 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-30-liff-get-line-version-and-id-released
-__hash__: '-RX0Y_cuhq0pJ_juCatg_JoHKwCMM6ID_FR2_dA_yag'
+__hash__: acjUK79KzPyX0h3Duk6j5NvCdvFzXP3FKozaBVah-0o
 seo:
   title: liff.getLineVersion() and liff.id added to LIFF v2
   description: >-

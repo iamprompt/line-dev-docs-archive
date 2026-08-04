@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/discover/builtin-features
-__hash__: 86qaaOqhhPxyXvxtLcCt89VcvPsoZBCPXSPph_N4nz8
+__hash__: 8UiZB_exZ1Pw_iuBK5iHSpXTkhWQ3kPNWU5qcgJc2ho
 seo:
   title: ビルトイン機能
   description: null

@@ -6,7 +6,7 @@ description: >-
   Developersサイトのドメイン名を変更いたします。これに伴うメンテナンス中はサイトにアクセスできなくなります。ご利用のユーザー様にはご不便をおかけいたしますが、何卒ご理解いただきますようお願い申し上げます。
 meta: '{"date":"2018-11-09 01:00 UTC","tags":"Maintenance","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-11-09-devsite-maintenance
-__hash__: bjSC0DL4x9YbWpljF7yFqFVFkjmOLX2Ag1o9oij6w4s
+__hash__: ZE5gP_wrVWvbYsgJEKk_mMKxbC0pjPEsQrjAo_ze2v8
 seo:
   title: LINE Developersサイトのドメイン名変更のお知らせ
   description: >-

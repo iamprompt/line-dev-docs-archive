@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-03-12 00:00
   UTC","tags":"messaging-api","locale":"en","sidebar":false}
 path: /en/tips/2026/03/12/icon-nickname-switch
-__hash__: eV1UfvgbgkEyzPw8w2oFTDUvhOm4E9c_Lz5WtaDAuik
+__hash__: ywVajLKMy8SygP-U7UtToC3jUfTe7AiOJAXFYjCu274
 seo:
   title: >-
     In the Messaging API, you can customize the sender icon and display name for

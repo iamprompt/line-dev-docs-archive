@@ -6,7 +6,7 @@ description: >-
   notification from the Official LINE account will be different.
 meta: '{"date":"2019-12-06 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2019/2019-12-06-line-login-notification-improvement
-__hash__: mMgGPytUJP2yz_pgeegu-S4QJfwaScBcwjBf_2CCVcg
+__hash__: bUJnfsTK4s77YWkMZptDXFSBqNNtUFtgh-7L8o9KjBY
 seo:
   title: New LINE Login notification message
   description: >-

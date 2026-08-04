@@ -11,7 +11,7 @@ meta: >-
   end-of-life","locale":"ja"}
 path: >-
   /ja/_partials/news/2021/2021-03-01-liff-replace-mode-discontinuation-announcement
-__hash__: LlbZusj3J-_JfhVW91L9WjcqBABz8Kch9dsYIwttpBE
+__hash__: 2atvTpiJ7PgzjvQXNEvzO5F2C5HNICmPyGM80F7tlkQ
 seo:
   title: 【更新】LIFFアプリおよびLINEミニアプリのパーマネントリンクのリダイレクト設定から「置換（後方互換性モード）」が廃止されました
   description: >-

@@ -11,7 +11,7 @@ meta: >-
   {"date":"2021-06-21 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/is-an-invalid-user-counted-to-the-number-of-messages-sent
-__hash__: hTglHWYHGZwOM7gGnpYDPPh6i0lrkKXk1QZ5vI5FHUY
+__hash__: ikfA_SgLlGZncRzWUqO1214RCAH-n-kRR3ZbyiQL_kc
 seo:
   title: >-
     If I send a message to a user who doesn't receive the message, is it still

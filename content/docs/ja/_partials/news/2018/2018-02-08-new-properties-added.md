@@ -6,7 +6,7 @@ meta: >-
   {"date":"2018-02-08 00:00 UTC","tags":"Messaging API, Template
   messages","locale":"ja"}
 path: /ja/_partials/news/2018/2018-02-08-new-properties-added
-__hash__: x9exbV_wJIV2BBh5A3i962n2XrLl9YMWtWnw4eVJt0c
+__hash__: 3T8c8SLCfdoqsVbcnlqebn6hyVWV7iq12zZmLoNBI_Y
 seo:
   title: テンプレートメッセージとポストバックアクションにプロパティが追加されました
   description: ''

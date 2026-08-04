@@ -10,7 +10,7 @@ meta: >-
   {"date":"2017-11-27 00:00 UTC","tags":"Docs, Messaging API, LINE
   Login","locale":"ja"}
 path: /ja/_partials/news/2017/2017-11-27-line-url-scheme
-__hash__: jZ5ZlWckG9SUBenEkdbTvJKXzO1U2cGW9KOiLLqy6pA
+__hash__: 28BrFj2lwIkO7t1a4P9L9zYbDFpwGJiVJO6pUIDptRQ
 seo:
   title: LINE URLスキーム情報が公開されました
   description: >-

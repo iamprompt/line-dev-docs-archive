@@ -4,7 +4,7 @@ navigation: true
 description: iOS版LINEバージョン12.8.0以降で、トークルーム上で開いたLIFFブラウザを最小化できるようになりました。
 meta: '{"date":"2022-06-02 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-06-02-liff-minimize-for-iphone
-__hash__: agV7zDOhvgTSlhaV0YXPUeE4LnBjKF0RPITPLPxNuGs
+__hash__: r-wYFKn66-zZkcLisVSLiB-mhada27DUOxMmTR8ZKzM
 seo:
   title: iOS版LINEバージョン12.8.0以降でLIFFブラウザを最小化できるようになりました
   description: iOS版LINEバージョン12.8.0以降で、トークルーム上で開いたLIFFブラウザを最小化できるようになりました。

@@ -7,7 +7,7 @@ meta: >-
   {"date":"2024-04-24 00:00 UTC","tags":"line-app, line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/why-do-urls-in-text-messages-sometimes-not-become-links
-__hash__: 6lAViL7hRqY1wmXklBhOwUb_aRG_r-hBLzMiOdg6Vqs
+__hash__: sNSVQNFasE9DDX7GhoSkV7bEiVt-BE1juNSMIT9TGyw
 seo:
   title: テキストメッセージ内のURLがリンクにならないことがあるのはなぜですか？
   description: >-

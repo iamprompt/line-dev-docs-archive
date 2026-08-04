@@ -8,7 +8,7 @@ description: >-
 meta: '{"date":"2019-11-11 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: >-
   /ja/_partials/news/2019/2019-11-11-liff-cannot-be-used-with-messaging-api-channels
-__hash__: 2wO4Hd7IT_EStuAqUW3PNSR6mlC0yqWhsttBh2-VPIs
+__hash__: OmwDlWzNv3Sy6Dd4QwnI2zV7GHmC7onhQ-qAJZUIzxQ
 seo:
   title: Messaging APIのチャネルにはLIFFアプリを追加できなくなります
   description: >-

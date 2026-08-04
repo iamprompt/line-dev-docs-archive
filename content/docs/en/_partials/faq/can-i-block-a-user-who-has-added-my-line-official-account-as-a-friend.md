@@ -7,7 +7,7 @@ meta: >-
   messaging-api","priority":1000,"locale":"en"}
 path: >-
   /en/_partials/faq/can-i-block-a-user-who-has-added-my-line-official-account-as-a-friend
-__hash__: K98nz2O0lzjH__-Uq3c1C6aAYN2GgPPdJxgLyh3F_Ds
+__hash__: wCLQ6ni4OhP3nrZCNA8BDfJH19mg6B2XNBT26CxAzzk
 seo:
   title: Can I block a user who has added my LINE Official Account as a friend?
   description: You can't block a user who has added your LINE Official Account as a friend.

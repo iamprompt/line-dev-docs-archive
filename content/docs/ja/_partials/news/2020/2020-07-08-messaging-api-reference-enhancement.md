@@ -8,7 +8,7 @@ description: >-
   そのため開発者の皆さんからは、「スクロールしているうちに、どこを見ていたのか分からなくなってしまう」「ページが長すぎて見にくい」といったお声をいただいていました。
 meta: '{"date":"2020-07-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-08-messaging-api-reference-enhancement
-__hash__: Qrr-ASNFrCjkifwm66sdBA8GMHL0HgWQCyhZn28DJrg
+__hash__: '-iXp7MfYwkS_CjzWH8pBgHFz4wT6V_ld0hYzL_iaW2U'
 seo:
   title: Messaging APIリファレンスとサイドメニューを改善しました
   description: >-

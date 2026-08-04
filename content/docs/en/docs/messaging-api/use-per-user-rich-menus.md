@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/use-per-user-rich-menus
-__hash__: 99XWtEfCbWyzmmBsBEzd4DY7vbgrS1tRiIQjlOZEQQ4
+__hash__: u3ERnLP5RfpI_CXNbm86QVn-Vk8OPHxa7OKW2qNEGP8
 seo:
   title: Use per-user rich menus
   description: null

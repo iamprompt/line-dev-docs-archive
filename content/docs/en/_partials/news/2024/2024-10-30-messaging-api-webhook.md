@@ -9,7 +9,7 @@ description: >-
   containing a mention.
 meta: '{"date":"2024-10-30 01:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-10-30-messaging-api-webhook
-__hash__: y0RUKn75_ULjq67DvQmV_eeUahkw3Tx-4Tcv5a-zZZ0
+__hash__: T2QmXel-9LoqmI7YAXVEwKVGtMgLI44zMeFTBX4q180
 seo:
   title: >-
     The Messaging API now allows you to recognize mentions from a user to your

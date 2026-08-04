@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/error-notification
-__hash__: HiRg-0H1h3vwe-x5fAFlvZ0RF7lU7bYlgPVJ3iZ-XUo
+__hash__: eXa0_jPrK_KgPogixn4OA_381K5B3e_eQ9cOnhWBr2g
 seo:
   title: Error notification
   description: null

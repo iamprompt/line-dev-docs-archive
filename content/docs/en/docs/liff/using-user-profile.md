@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/using-user-profile
-__hash__: ov8yQ0EfO7GG7ewJBeuR3Nsvmyvo71Fu9gAjPTPzAYM
+__hash__: e9JrqD6e6pFfXtzcz6Nm8aKGFb1-13wJcDxDK6SCkNo
 seo:
   title: Using user data in LIFF apps and servers
   description: ''

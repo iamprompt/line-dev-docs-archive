@@ -5,7 +5,7 @@ description: >-
   LINEバージョン15.20.0より、LINEミニアプリおよびLIFFアプリを最小化した際の挙動が変更されました。主な変更点として、最小化した時のアイコン表示から背景がなくなり、従来よりもアイコンが大きく表示されるようになりました。また、最小化した後にLINEミニアプリおよびLIFFアプリを閉じる方法も変更されています。
 meta: '{"date":"2025-12-04 00:00 UTC","tags":"line-mini-app, liff","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-12-04-minimized-line-mini-app-and-liff
-__hash__: rOsRfqqy7wzb7e5SEqtA1E8OQB_hD2-P8FG05dfy9qc
+__hash__: 4gE0CFPUYotOsgroIi9B_nPOQNXsYhsiY5KfKElz_nE
 seo:
   title: LINEバージョン15.20.0より、LINEミニアプリおよびLIFFアプリを最小化した際の挙動が変更されました
   description: >-

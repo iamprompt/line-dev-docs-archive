@@ -10,7 +10,7 @@ description: >-
   message (the value of the message property in the LiffError object).
 meta: '{"date":"2025-05-30 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-05-30-liff-error
-__hash__: WU7MqZ9IXYXB-fSWu_pFzvjhuE8DjTi98XBWFutp_YQ
+__hash__: b6Pu3XN6KzjgrA28tNY8NNUOVUhNYHxknwqIFhYFE7M
 seo:
   title: >-
     When identifying LIFF SDK errors, refer to both the error code and the error

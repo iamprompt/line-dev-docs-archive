@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/in-app-purchase/iap-guidelines
-__hash__: wsYC5oVjd2OYt8PoyQigxRNWV5XkbtT2Pwsq0g2ztqg
+__hash__: T1V3zo0SZNgYzexVBcBLlT_XgpS_gId9OEpR0QO9bFQ
 seo:
   title: In-app purchase development guidelines
   description: null

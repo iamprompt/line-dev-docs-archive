@@ -9,7 +9,7 @@ meta: >-
   {"date":"2022-02-02 00:00 UTC","tags":"messaging-api,
   rich-menu","locale":"en"}
 path: /en/_partials/news/2022/2022-02-02-rich-menu-playground
-__hash__: tmKIkIjR-R1ggl-eeYzCgD5sqaCa-gn-ne8sI-ziaS0
+__hash__: 9UegnDctcNsaSo1VqgvacWsWG0oHO1XoFg8kQ9vRbiU
 seo:
   title: Rich Menu Playground is now available
   description: >-

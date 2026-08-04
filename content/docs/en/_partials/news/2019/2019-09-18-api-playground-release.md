@@ -6,7 +6,7 @@ description: >-
   documentation:
 meta: '{"date":"2019-09-18 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-09-18-api-playground-release
-__hash__: mQkbf3Gc-JmioABUW5APB-lljJLk_4SYUbZT2XczoJA
+__hash__: Xl_OMm59yfxGCiRKW6IfBs8ym36ARkVBT-gboGtiry0
 seo:
   title: Try out Messaging API calls in your browser
   description: >-

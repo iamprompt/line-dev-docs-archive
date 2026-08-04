@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-02-06 00:00 UTC","tags":"liff, line-mini-app, line-login,
   end-of-life","locale":"en"}
 path: /en/_partials/news/2023/2023-02-06-liff-spec-change
-__hash__: HQ5EMvWWDIQMWWrOeNY3G9CQBYoE73LfdDqIYVSr_o4
+__hash__: RGYFCuOHzwpNObORstHtOeWgPvwdhelDOOB_KquVBSo
 seo:
   title: >-
     [Updated] We've discontinued providing company internal identifiers of chat

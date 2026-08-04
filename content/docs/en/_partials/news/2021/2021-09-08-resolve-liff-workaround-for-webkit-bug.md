@@ -11,7 +11,7 @@ description: >-
   Safari 14.1.2 on macOS.
 meta: '{"date":"2021-09-08 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2021/2021-09-08-resolve-liff-workaround-for-webkit-bug
-__hash__: VkdlEQg3K9ybd36krLMBrHM78ZeU87f9QM8hFDbOKmg
+__hash__: xe-tpXVbBG1XnSGgRFTqerKReq6Of0IBkuapQyPqCOE
 seo:
   title: >-
     We fixed the bug that caused content to be displayed incorrectly when

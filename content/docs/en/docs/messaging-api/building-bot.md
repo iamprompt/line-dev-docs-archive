@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/building-bot
-__hash__: 82cVwtOn0Q3dGJsQ6VytKHj2LVJN_UQC7ERh-qxxQrs
+__hash__: u9TSTfV5R7RBJ97KBxFkWmreBQHkja8p_RlfifBNzXQ
 seo:
   title: Build a bot
   description: null

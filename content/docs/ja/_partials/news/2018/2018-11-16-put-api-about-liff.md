@@ -4,7 +4,7 @@ navigation: true
 description: 本日公開された、LIFFアプリを更新するAPIに関するニュース、およびドキュメントの記載に誤記がありました。お詫びして訂正いたします。
 meta: '{"date":"2018-11-16 01:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-11-16-put-api-about-liff
-__hash__: DZMzNWAD-rCU9dnld7Ivch4VmFMJl18O5XAln7QveIQ
+__hash__: tU9aDsQvsgYcLn4UDXMIkfK5nl8BLUHtC2Nqjd6YvFg
 seo:
   title: ドキュメント訂正のお知らせ
   description: 本日公開された、LIFFアプリを更新するAPIに関するニュース、およびドキュメントの記載に誤記がありました。お詫びして訂正いたします。

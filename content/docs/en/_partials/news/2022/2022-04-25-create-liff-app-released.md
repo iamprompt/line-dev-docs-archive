@@ -9,7 +9,7 @@ description: >-
   more smoothly.
 meta: '{"date":"2022-04-25 01:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-25-create-liff-app-released
-__hash__: '-ZCzxr9pKoX7agFjtoLoyAGPYeCdVSxfJ-AoT2rIIb8'
+__hash__: _eiHkYsHmyUUiaJY35xKhRFwOKS56F9OXVwKGdhTqa4
 seo:
   title: >-
     Create LIFF App, a CLI tool for building a development environment for LIFF

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-05-01 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-05-01-messaging-api-outage
-__hash__: F_gfZpXLxKOHuvrHGYNNxyyvHKx_Gom03B6isiG9dTk
+__hash__: KzhqTnasLKEpIPDVrieHw8mjnBz0FdpOHEDIPpQ0gQk
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: |-

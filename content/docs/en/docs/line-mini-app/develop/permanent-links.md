@@ -4,7 +4,7 @@ navigation: true
 description: Learn how to create a permanent link for your LINE MINI App.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/permanent-links
-__hash__: KY6sUvg7XWKiL24NQXOqYwfzBj9qxnZ2EZrIby1qNyg
+__hash__: mBcxhKTOcLd_LTiV1iMHUnjxnoILTitnyk4ph64pDlg
 seo:
   title: Creating permanent links
   description: Learn how to create a permanent link for your LINE MINI App.

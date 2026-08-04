@@ -4,7 +4,7 @@ navigation: true
 description: iOS版およびiPadOS版LINE v11.0.0以降、「セーフエリア」の取り扱いが厳格化します。
 meta: '{"date":"2021-01-21 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-01-21-about-liff-safe-area
-__hash__: YI_tWshTYaWLrUXs3FtJFQi8AxUgcmK6-IMhHJuIcjg
+__hash__: NPbm1cwFIvHymr3PlqqDf4WRI-NFVoZxAzAW01iZX-c
 seo:
   title: LIFFアプリおよびLINEミニアプリの「セーフエリア」の取り扱いが厳格化します
   description: iOS版およびiPadOS版LINE v11.0.0以降、「セーフエリア」の取り扱いが厳格化します。

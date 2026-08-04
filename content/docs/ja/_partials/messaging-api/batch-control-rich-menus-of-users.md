@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/batch-control-rich-menus-of-users
-__hash__: KEkeIFxYzM7XiYsh-nk8lOC2pYGlU4cwuxc-ZpEbw2Q
+__hash__: 2XIDKeKs6IEHuS6NLDjaTWxPU9RiqVWBOx7duSt5hwc
 seo:
   description: ''
 ---

@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/heptagon
-__hash__: He1O7KEmIW9mmsx77FF9QLP-Q2TO5IjmYs738vFG21E
+__hash__: 8aQKSY-D4wWRKxHQXjGU0LKhPvWX2EbxjhtLoYEqM7E
 seo:
   title: 移住・定住について寄せられた問い合わせに関するLINE bot開発事例
   description: ''

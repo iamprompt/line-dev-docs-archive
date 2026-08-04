@@ -9,7 +9,7 @@ description: >-
 meta: '{"date":"2023-09-21 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: >-
   /en/_partials/news/2023/2023-09-21-notice-concerning-use-of-information-for-liff
-__hash__: d4XkML5YEzmzUjGAnKqGR8X476qBN2vVJ_ppJolj_mM
+__hash__: 2hffAB3je7svWLiO4VpQVo6PmrmExPnHWQ-Mbr3-FWs
 seo:
   title: >-
     Notice Concerning Use of Information in Connection with Group Restructuring

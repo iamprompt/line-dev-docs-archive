@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-07-01 03:00 UTC","tags":"Messaging API, LINE Login, LIFF,
   SSL","locale":"en"}
 path: /en/_partials/news/2020/2020-07-01-enabled-tls1.3
-__hash__: Liy86JFSmG049wt8AzFk1g2Uj2LahirSQ-vXRBMXZgc
+__hash__: nV4uEl2Alrsokx_MLm0KUVC5hKSYg5ZEKO3hG99fiSo
 seo:
   title: LINE's APIs now support TLS 1.3
   description: ''

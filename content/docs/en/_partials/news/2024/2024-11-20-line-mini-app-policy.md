@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App Policy will be revised on November 27, 2024.
 meta: '{"date":"2024-11-20 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-11-20-line-mini-app-policy
-__hash__: z4EArAYkDWjfguKTK1KKPTM_sQfXjciDGzELfpF6Lgc
+__hash__: ED_hgVLaamWcp9tMIksi3_kj1f_11x4vTXcyBBK_y7k
 seo:
   title: LINE MINI App Policy will be revised on November 27, 2024
   description: LINE MINI App Policy will be revised on November 27, 2024.

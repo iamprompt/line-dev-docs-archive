@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-04-26 00:00 UTC","tags":"line-login","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-26-2fa-switch-function
-__hash__: hJRz4gOAPvUYBIwgy7Oc83YAvpBBj18y46V7kJGjf7E
+__hash__: usLv-TXsSiXlXQFq33WpkqmkSYgcMgTBqs35NIatOmw
 seo:
   title: 【更新】LINEの2要素認証スイッチ機能導入に伴い、LINEログイン v2.1の利用を推奨します
   description: ''

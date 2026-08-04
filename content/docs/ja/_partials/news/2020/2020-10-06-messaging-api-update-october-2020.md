@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに新たにエンドポイントが追加されました。
 meta: '{"date":"2020-10-06 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-10-06-messaging-api-update-october-2020
-__hash__: dcci9OukQGTY8YqiBuX2RSLfS6mAVhHIyhkRmvFh5_Q
+__hash__: NO1H8lqZInzl5kniA6DZrho4e9hPXKMeItzX-rDHTt0
 seo:
   title: Messaging APIアップデート（2020年10月）
   description: Messaging APIに新たにエンドポイントが追加されました。

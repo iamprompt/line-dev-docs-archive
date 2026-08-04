@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールで、開発者アカウントを削除できるようになりました。
 meta: '{"date":"2026-06-24 00:00 UTC","tags":"console","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-06-24-delete-developer-account
-__hash__: vu2GXZ9MkSzQW5Ubx6mnbKctrej2qOQdl0I-AkXXnKs
+__hash__: 9-D9WG14L-eRh1uE-I08ro79zEgk7l7kE6hJvienTN4
 seo:
   title: LINE Developersコンソールで開発者アカウントを削除できるようになりました
   description: LINE Developersコンソールで、開発者アカウントを削除できるようになりました。

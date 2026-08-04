@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-04-04 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-unsend-or-delete-a-message
-__hash__: igASn1rYd3vHi_7z4yQyrXsXVkNq3efOai4l2r4qgps
+__hash__: qebVfnNDSVcasaTmRa88guGSAM-jp39B7OJrftPWPI0
 seo:
   title: Can I unsend or delete a message sent from my LINE Official Account?
   description: >-

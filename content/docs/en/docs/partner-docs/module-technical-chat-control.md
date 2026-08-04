@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module-technical-chat-control
-__hash__: Bu77oUbxyUrBL-vMf91GpBg1R-P1M7HfLULKjczcf34
+__hash__: bmRMq47iO9ixtAdhGWOTuiX_vU-_-OMrR_gZ_rqV4kY
 seo:
   title: Control chat initiative (Chat Control)
   description: ''

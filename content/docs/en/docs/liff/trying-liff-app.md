@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/liff/trying-liff-app
-__hash__: 3L_4KzRQhwxXY65cqHCrA8VfjjeegpRH4DrY6QrofIc
+__hash__: yxclYuj2Z1sXxNoDy-w1DexnXztP3n-vlfiWQNY7ZDE
 seo:
   title: Trying the LIFF starter app
   description: null

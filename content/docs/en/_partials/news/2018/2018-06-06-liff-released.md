@@ -6,7 +6,7 @@ description: >-
   LINE.
 meta: '{"date":"2018-06-06 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2018/2018-06-06-liff-released
-__hash__: hgrk1fO81lIHGDKNLg4rimKLcoFxHuxajGocWN0uX5Q
+__hash__: AQixGffV08pmt1LX8Q-WrgcO_igsqtmeCEQE543wkgI
 seo:
   title: LINE Front-end Framework released
   description: >-

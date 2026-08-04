@@ -5,7 +5,7 @@ description: >-
   LIFFアプリの各ページにOGPタグを設定すると、たとえばLINEのトークルームでLIFFアプリのURL（https://liff.line.me/{liffId}）をシェアしたときに、任意のタイトルや説明文、サムネイル画像を表示できるようになりました。
 meta: '{"date":"2020-05-19 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-05-19-liff-supports-ogp-tags
-__hash__: Wqs9uMqvolhUwaeBDir2F_qV_WAOLgafho3O1WxBdIk
+__hash__: PWYTZsGjgA6jFtx-_KAHwdU3vBvt3-ujHCHq_aPj8mM
 seo:
   title: LIFFアプリでOGPタグを利用できるようになりました
   description: >-

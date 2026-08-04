@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/send-coupons-to-users
-__hash__: jPV13B1a0iupBcZsf6Hclbqhn1PKKJcxBWblqZavPN0
+__hash__: 8eAIw_bA-oG0f_8klPveBqwILbHwytnM1Fhx5ZoO_js
 seo:
   title: Create coupons and send them to users
   description: null

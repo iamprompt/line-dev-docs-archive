@@ -9,7 +9,7 @@ meta: >-
   line-mini-app, line-official-account, messaging-api,
   options-for-corporate-customers","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/how-can-get-email-phone-scopes
-__hash__: trj8gvFjOgKb0R50BCqS8X1UUFSlyfVnCo8evfCjceU
+__hash__: zqWVtsqDcIhGb37v9KsoWqnJbGUixmtIEe3GOsGIqdg
 seo:
   title: ユーザーの電話番号はどうしたら取得できますか？
   description: >-

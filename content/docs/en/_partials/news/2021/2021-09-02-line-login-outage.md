@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-09-02 00:00 UTC","tags":"Outage report, line-login,
   LIFF","locale":"en"}
 path: /en/_partials/news/2021/2021-09-02-line-login-outage
-__hash__: SQBgviokOYo5q1acM1QX9XMnViYdqKwOLrBOJL8IPsY
+__hash__: HaXKzU3-uK8Hg9OuZ2glAZT2Ii1J5dFT4MYG0a8qEj4
 seo:
   title: '[Resolved] Notice about outage for LINE Login and LIFF'
   description: >-

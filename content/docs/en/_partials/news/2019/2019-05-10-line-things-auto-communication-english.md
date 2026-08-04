@@ -6,7 +6,7 @@ description: >-
   "automatic communication" feature:
 meta: '{"date":"2019-05-10 02:00 UTC","tags":"LINE Things","locale":"en"}'
 path: /en/_partials/news/2019/2019-05-10-line-things-auto-communication-english
-__hash__: zPe3mnKJDnNi01lw9YprmoC9SFElXX5czwnnUy_rEvw
+__hash__: SrneFGpTEFRC18usIcZAaV_RAAQYbp0w2oYVBrP06gc
 seo:
   title: 'LINE Things: Automatic communication English documentation released'
   description: >-

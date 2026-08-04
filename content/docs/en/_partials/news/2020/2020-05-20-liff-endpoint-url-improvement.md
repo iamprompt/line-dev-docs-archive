@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-20 00:00 UTC","tags":"LIFF","new":"false","locale":"en"}'
 path: /en/_partials/news/2020/2020-05-20-liff-endpoint-url-improvement
-__hash__: LfPCJB1ODfoo4tVAusdu9MvKD6CtFdpRRavdZin4LjU
+__hash__: 5x3wpiz1TOQWKY3iyh8ix_vQuYwP4OJjgiuE0-oavi0
 seo:
   title: '[Updated] You can soon add and use paths to your LIFF endpoint URL'
   description: ''

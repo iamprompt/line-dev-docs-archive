@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-02-29 00:00 UTC","tags":"line-official-account, messaging-api,
   options-for-corporate-customers, end-of-life","locale":"ja"}
 path: /ja/_partials/news/2024/2024-02-29-indonesia-features-change
-__hash__: zCrZlt8Pu06C5UhRFsWeuF97xQ4-IVtlUwnRF5HjLgQ
+__hash__: ntUe79WjjX-3PwVTgp2JQKe6GALn2nuU3HvI0oEIMOI
 seo:
   title: インドネシアにおけるMessaging APIの一部機能が2024年4月3日に廃止されます
   description: インドネシアにおけるLINE公式アカウントの戦略変更に伴い、Messaging APIの一部機能が廃止されますのでお知らせします。

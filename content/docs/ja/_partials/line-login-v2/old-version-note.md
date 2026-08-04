@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-login-v2/old-version-note
-__hash__: JrYlS8VbXOj4xz170sZVBak3uTfbQWkev5l-rb9cu2g
+__hash__: YdH-bW2xP0fcFzmnZiqWP8erXlGB693p20qfHNJ2HJg
 seo:
   description: ''
 ---

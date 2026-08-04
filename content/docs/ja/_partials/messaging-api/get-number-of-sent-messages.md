@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-number-of-sent-messages
-__hash__: ozwEenJeTj6FnAW8XzexIjD5nkM52WbNhYusOWWTQ_s
+__hash__: PwxnV0dpbEkBpQs-ATMsk90eJB7lSmqHqD5U_oluD8k
 seo:
   description: ''
 ---

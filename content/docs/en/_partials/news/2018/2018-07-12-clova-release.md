@@ -9,7 +9,7 @@ meta: >-
   {"date":"2018-07-12 00:00 UTC","tags":"Clova Extensions Kit,
   Clova","locale":"en"}
 path: /en/_partials/news/2018/2018-07-12-clova-release
-__hash__: sSGX7BmB4ZI2CeQzIgL0eIpAdVC1lRSyoPz80tnls_Y
+__hash__: HkDx9hVREIBK6T8HGOq9DI3A52lQrQNXkbKMixxFZEI
 seo:
   title: CLOVA Extensions Kit released
   description: >-

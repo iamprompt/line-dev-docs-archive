@@ -6,7 +6,7 @@ description: >-
   provider the channel should be created under.
 meta: '{"date":"2026-06-25 00:00 UTC","tags":"console","locale":"en","sidebar":false}'
 path: /en/tips/2026/06/25/provider-design-basics
-__hash__: zX60IKic7tRvW1712JNnE_mWg-NCqOGcFumgUs3OBaw
+__hash__: '-uNk4tTay0npJtwcJNgNmWdLZ8uiALKcUsXsWDggx7I'
 seo:
   title: Provider design basics to check before creating a channel
   description: >-

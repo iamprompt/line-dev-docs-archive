@@ -7,7 +7,7 @@ meta: >-
   {"date":"2021-06-15 00:00 UTC","tags":"contact, line-platform, line-login,
   liff, line-mini-app, messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/how-do-i-report-an-issue
-__hash__: 4xdR7f05kqX0oPJ1UqG1qL_9E2SG3guGoIVNoZ6pHCw
+__hash__: JwaJ-23MKwnPTEmwUfBqUySBlGYIrPRAvsvy2aWTdZM
 seo:
   title: LINEプラットフォームで発生した問題の報告方法を教えてください。
   description: >-

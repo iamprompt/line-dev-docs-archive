@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/iap-webhook-event
-__hash__: xg7RHBhS86BzQoR8ocbILek-95R2gxVcBnf7Vp9D0Gw
+__hash__: 8f_AeVndF7qjzYOggQ-VlMYShx0HJ1ZxQwaYvOmbT-8
 seo:
   description: ''
 ---

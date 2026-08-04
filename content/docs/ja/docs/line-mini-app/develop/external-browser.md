@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/external-browser
-__hash__: x7tZ-y2P6Dmrn5siajOHfopebyOf8GRW4x3PEW8_o6A
+__hash__: R8qwsbIT2BUfbSQDuF7kgrBLsw_0C1qBFmTOYLI-Hn8
 seo:
   title: 外部ブラウザでLINEミニアプリを開く
   description: null

@@ -6,7 +6,7 @@ description: >-
   Expertsが主導し、新たな時代を切り開くLINEボットの開発を促進することを目的としています。
 meta: '{"date":"2024-04-01 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-04-01-line-dc-bot-awards-2024
-__hash__: yLJPoCrCysPcyhm2WkPSvCoM8YFgfJvdpSKhe4_uq9o
+__hash__: uDpQZYb-Id98tgpDThrAFe55rYao3w_GoqaQvBE-lUU
 seo:
   title: LINE DC BOT AWARDS 2024開催のお知らせ
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/liff/liff-cli
-__hash__: n1gLnlsKEqxiV7yYFFqWZPzNCo5QRSf87wtwV3J_Qes
+__hash__: utDwoUhbkAh7Ca7kWMlQGbguST-w-Qoz-MmJaO-gmYM
 seo:
   title: LIFF CLI
   description: null

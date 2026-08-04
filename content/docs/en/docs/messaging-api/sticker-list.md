@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/sticker-list
-__hash__: 0ZDJZkgOLQjzieAvPi_dy3PF1bbIy-Ppv9nTYuQ1dqk
+__hash__: p1G8oL9Pf2TrVv5ac91J7LMGIuWZRRy0NLZQmPp1VtE
 seo:
   title: Stickers
   description: null

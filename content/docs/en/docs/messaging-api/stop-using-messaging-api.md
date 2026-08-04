@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/stop-using-messaging-api
-__hash__: 0nj95uzHQ_pV07EJDaXVT83b7n-1hgMTKzquVRPGiTI
+__hash__: QFiWKOY4yctfi2TTod2CccWEgfJ3bHumODv2MdM079w
 seo:
   title: Stop using the Messaging API
   description: null

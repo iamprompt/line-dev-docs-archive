@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリを更新する場合、更新する情報がコアとして指定されていなければ、レビュープロセスは必要ありません。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/update-service
-__hash__: 7i-vMyOR2Os4qFdRT1I3ErCC4TIbQA7Kkx4rMPbb9F8
+__hash__: MuCUs3M_ZO7F6FA1qbJU67sh7dTkCrLQdP-cEzCr98s
 seo:
   title: 認証済ミニアプリ更新後の再審査
   description: LINEミニアプリを更新する場合、更新する情報がコアとして指定されていなければ、レビュープロセスは必要ありません。

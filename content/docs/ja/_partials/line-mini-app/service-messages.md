@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/service-messages
-__hash__: GN7KSNK7DW-uxBrLL7Zn4ldrgvbt3n1vcUQrsjHAuN8
+__hash__: YUrCfoZWywx096rKraRb4qA1lTGBm24_HVHXL4Meuo8
 seo:
   description: ''
 ---

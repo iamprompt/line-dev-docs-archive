@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIを使ったナローキャストの送信とオーディエンス管理について、英語ドキュメントを部分的に公開しました。
 meta: '{"date":"2020-02-19 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-02-19-release-narrowcast-en
-__hash__: IsjdO3klJuCXH5JOuUaIvduWDHZv1tuMUrWxWRVJVP4
+__hash__: wtHq_JTFH95ZwYOhFkRhxFC1DtWZF-VVyjZ-XLNFYNs
 seo:
   title: Messaging APIのナローキャストの英語ドキュメントが公開されました
   description: Messaging APIを使ったナローキャストの送信とオーディエンス管理について、英語ドキュメントを部分的に公開しました。

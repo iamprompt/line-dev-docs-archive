@@ -4,7 +4,7 @@ navigation: true
 description: 2022年1月25日より、LIFFアプリ名に一部の予約語等が使用できなくなりますのでお知らせします。
 meta: '{"date":"2022-01-25 00:00 UTC","tags":"liff","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-01-25-restrictions-on-liff-app-name
-__hash__: StDlIxHMdYsUPx1k6K-LOvM7x08Te5fmCfq-4X5tslo
+__hash__: OjmTuZ5465lGxscQD4N7-W1FslhghmBK9kcj925hvGY
 seo:
   title: 2022年1月25日よりLIFFアプリ名に一部の予約語等が使用できなくなります
   description: 2022年1月25日より、LIFFアプリ名に一部の予約語等が使用できなくなりますのでお知らせします。

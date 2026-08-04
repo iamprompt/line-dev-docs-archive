@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/api-policy-handbook
-__hash__: mfKB-d_k3j9fSlpHyDudz5fE16NOoZlPqb6_gK6QCHQ
+__hash__: ORV5caNAyJOW3FRHcOFm2dI8KQkAvQ9gct7fM15kfpA
 seo:
   title: LINE API Policy Handbook
   description: null

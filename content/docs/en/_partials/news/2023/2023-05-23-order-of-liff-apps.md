@@ -8,7 +8,7 @@ description: >-
   changed in LINE Login channels of the LINE Developers Console.
 meta: '{"date":"2023-05-23 00:00 UTC","tags":"liff, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-05-23-order-of-liff-apps
-__hash__: 3t9hfCd7dkFqEKsB65O9CZPmPTgVc7-5FCO_TEr8Pwk
+__hash__: Co5NlbUGOJ9_LCYQaMQ-zCzxSy54oNBefCFszeC8Go0
 seo:
   title: >-
     The display order of the LIFF apps has been changed in LINE Login channels

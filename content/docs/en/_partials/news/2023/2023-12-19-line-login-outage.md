@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-12-19 00:00 UTC","tags":"outage-report,
   line-login","locale":"en"}
 path: /en/_partials/news/2023/2023-12-19-line-login-outage
-__hash__: idZoFodhaM0AWAVOba9havTlytGw_ZL6UlJsEBOAqHQ
+__hash__: VKLo_8HwqG9ZjWmmorlpuOt6CsygH1FaPlbP1X46iGE
 seo:
   title: '[Resolved] Notice about service outage for LINE Login'
   description: >-

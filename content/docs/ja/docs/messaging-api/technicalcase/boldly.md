@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/boldly
-__hash__: ozBbtM8Zwr-MST30uhe6pQrYbvhoqMQdmKls4NCrG-g
+__hash__: uRD4_FrEZ4c90qmkUbn_n3HzrZxdggbhnkd51ZAbh2w
 seo:
   title: 茨城県境町から始まる自動運転バス オンデマンド予約システムのLINEミニアプリ活用事例
   description: ''

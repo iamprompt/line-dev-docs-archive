@@ -9,7 +9,7 @@ description: >-
   channel name displayed in this footer has changed.
 meta: '{"date":"2023-05-25 00:00 UTC","tags":"line-mini-app, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-05-25-displayed-channel-names-have-changed
-__hash__: ILyPBXQJjtDyzDPRiIvUMnWQz7ag1JSBH-n6wx8UsrU
+__hash__: 6x2q2Jb02KqyN7_a06Bsu2hn0N6W5APbhE9nJbaKl8I
 seo:
   title: >-
     The referent of the channel name displayed in the footer in the LINE MINI

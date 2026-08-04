@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/demo/reservation-demo
-__hash__: kdEHf27v_Fi0Xri8PHBdnt6KwYtGiXgPj5jT11d91ug
+__hash__: sfSSgu0fSRxEyDUZUeaa32isfpndEmJNBHTZYR7oozQ
 seo:
   title: Store reservation demo
   description: null

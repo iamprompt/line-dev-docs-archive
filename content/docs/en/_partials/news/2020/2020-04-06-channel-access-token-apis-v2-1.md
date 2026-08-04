@@ -8,7 +8,7 @@ description: >-
   channel secret.
 meta: '{"date":"2020-04-06 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-06-channel-access-token-apis-v2-1
-__hash__: '-gacgSE2Y8SBqjn5EX_gHhFn21xIuELmAKv_oDqScH8'
+__hash__: xCRT1MsqDw4iZTEp1MKkRBqsAljvAUsn7wk5b4B4r_U
 seo:
   title: Channel access token v2.1 released
   description: >-

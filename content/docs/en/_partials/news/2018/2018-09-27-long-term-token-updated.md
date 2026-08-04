@@ -6,7 +6,7 @@ description: >-
   channel access token that we announced in August.
 meta: '{"date":"2018-09-27 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-09-27-long-term-token-updated
-__hash__: jVn2u6jdCtstaTTK5pxDbrkFaF448TGqrTJRYxulIoE
+__hash__: 64ZOtWlV7GQbdzBIe2aFp3sVFzvx6I84aPe2SmrgGe8
 seo:
   title: '[Update] Discontinuation of the long-lived channel access token'
   description: >-

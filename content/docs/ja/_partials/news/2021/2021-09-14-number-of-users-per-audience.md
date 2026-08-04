@@ -6,7 +6,7 @@ description: >-
   APIのナローキャストメッセージでは、配信対象としてオーディエンスを指定できます。従来、このオーディエンスには、「オーディエンスあたりのユーザー数は最小100件」という条件がありましたが、この条件を最小50件に緩和しました。
 meta: '{"date":"2021-09-14 02:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-09-14-number-of-users-per-audience
-__hash__: 624QmmodcZxAqmYiDX-NF16FZ7i1HkimD2A5VPIorS8
+__hash__: YTKpQ9DcXuxBYXEOYkr_XtbGxbZyJT5naEIby6eL2JI
 seo:
   title: オーディエンスの最小ユーザー数が100件から50件に緩和されました
   description: >-

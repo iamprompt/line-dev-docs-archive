@@ -7,7 +7,7 @@ description: >-
   the design of the LINE Developers site.
 meta: '{"date":"2023-11-01 00:00 UTC","tags":"console","locale":"en"}'
 path: /en/_partials/news/2023/2023-11-01-console-renewal
-__hash__: jX4A_qOjyPKZ26Is2JYAScboOsp2jDKVfA6j0s9eaaQ
+__hash__: llN52ne7BGuSgMMT8dV7PX57g4lXNiWI9hdNP1Js-PA
 seo:
   title: The header and footer of the LINE Developers Console have been redesigned
   description: >-

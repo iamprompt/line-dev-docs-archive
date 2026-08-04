@@ -5,7 +5,7 @@ description: >-
   LINEバージョン15.18.0において、LINEミニアプリのマルチタブビューのオプションに［お気に入り］が追加されました。［お気に入り］をタップすると、現在開いているLINEミニアプリがお気に入りに追加されます。
 meta: '{"date":"2025-11-04 01:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-11-04-line-mini-app-favorites
-__hash__: lhO2dRu9hOZ8SOWut5nHX6EFqfRF6dLpBul2RBMzhtU
+__hash__: UzYYWr8yMoHu4IOVUtrAmZ4FliSNO2AvLtED-L9pvNU
 seo:
   title: LINEバージョン15.18.0より、日本のユーザーが認証済ミニアプリをお気に入りに追加できるようになりました
   description: >-

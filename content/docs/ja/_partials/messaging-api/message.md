@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/message
-__hash__: RdEDK45vHBwhdSduf2DJcFPSpESZsdSCimRnBU18nAA
+__hash__: z5snwNy7AgXogoBD6ChFmRApCRTlUkmDhogM30YWNs0
 seo:
   description: ''
 ---

@@ -7,7 +7,7 @@ meta: >-
   {"date":"2023-03-10 00:00 UTC","tags":"messaging-api, template-messages,
   liff","locale":"ja"}
 path: /ja/_partials/news/2023/2023-03-10-template-messages-updated
-__hash__: WETvYoD_yZRJW4JH_IdIfGHziIc6zHH9TeHVwmPzGL4
+__hash__: liGmaQe6f5gstRz06HhRVYsUPEORwWbKfrsT5ViBftk
 seo:
   title: LIFFのメソッドで送信したテンプレートメッセージが、デスクトップ版のLINEに対応しました
   description: >-

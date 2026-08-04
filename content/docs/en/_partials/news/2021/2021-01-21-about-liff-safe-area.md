@@ -6,7 +6,7 @@ description: >-
   will be stricter.
 meta: '{"date":"2021-01-21 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2021/2021-01-21-about-liff-safe-area
-__hash__: h0lex3NDHUn_e0stupqzKmYTRpCfZAVkBZRwAipeK48
+__hash__: p5Tbm-xp-kptbCJxAvYwl18sBeATg8WIL-chA6F8_PA
 seo:
   title: >-
     The handling of "Safe Areas" for LIFF apps and LINE MINI Apps will be

@@ -6,7 +6,7 @@ description: >-
   APIにおいて、ユーザーがメンションを含むメッセージを送信した際の、ボットサーバーへ送信されるWebhookイベントオブジェクトにプロパティが追加されますのでお知らせします。
 meta: '{"date":"2024-09-30 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-09-30-messaging-api-webhook
-__hash__: uYDtHZDFld7s46KlKLy3iN01DLEEJkUXmvX-MI0jUjI
+__hash__: E3OswawVuUBJ1ktfi8MEQhY-V5qYdF3RoOjnOvMPB7w
 seo:
   title: 2024年10月下旬より、Messaging APIにおいてユーザーからボットへのメンションが判別できるようになります
   description: >-

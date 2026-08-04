@@ -8,7 +8,7 @@ description: >-
   messages are displayed.
 meta: '{"date":"2023-01-10 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2023/2023-01-10-mini-service-messages-update
-__hash__: RaskR2GkfZRwWd0vS2VDBRcPqeMhrToiF3UYUzKvZ6U
+__hash__: Ci4gkGzs7FAidmiSzuS9HymaDxx9nPwPsD2XiZfb4pI
 seo:
   title: >-
     As of January 16, 2023, the chat room where LINE MINI App service messages

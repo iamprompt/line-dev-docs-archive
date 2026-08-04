@@ -6,7 +6,7 @@ description: >-
   develop LIFF apps more smoothly.
 meta: '{"date":"2021-11-02 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2021/2021-11-02-new-liff-starter-and-playground
-__hash__: JIodZdJbalUCOPk-TI3eBWq37urEmtoAMBMsm0lcSio
+__hash__: UN6ymrrviBtNQZryi7O0ztbk47UcROH2op1Wz4FSlKI
 seo:
   title: New LIFF starter app and LIFF Playground released
   description: >-

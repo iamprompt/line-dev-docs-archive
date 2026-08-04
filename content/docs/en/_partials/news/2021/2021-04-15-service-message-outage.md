@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-04-15 01:00 UTC","tags":"Outage report, LINE MINI
   App","locale":"en"}
 path: /en/_partials/news/2021/2021-04-15-service-message-outage
-__hash__: TQ_uacz9iMq1WCkHOtSHytuYkccNer0C0yqel4Jajas
+__hash__: g1O-cCe5tmnGlmE5LWKgPf3sTAvdJ6B9_co3A4JLTD4
 seo:
   title: >-
     [Resolved] Notice about outage for sending service messages in LINE MINI

@@ -6,7 +6,7 @@ description: >-
   and outage status of LINE APIs.
 meta: '{"date":"2021-04-05 00:00 UTC","tags":"LINE Platform","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-05-line-api-status
-__hash__: VFnYzL-vdtNXPKGcL0YGtGuzM5s6QumvMqot6rjDjU0
+__hash__: _4I7Eux7ezaEppA6BEZCwZ0x6fSOn0lTE-zDwMU7quU
 seo:
   title: LINE API Status site for checking service availability opened
   description: >-

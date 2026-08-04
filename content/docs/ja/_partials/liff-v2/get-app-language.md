@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/get-app-language
-__hash__: NE6IfcuRHYjU7RCosiYmY7Bs-zaj0qBHGwqQzOoFyMQ
+__hash__: NzTKk1QEhimEpvthkcOvFyalVHBiCemsistSQfSN8yk
 seo:
   description: ''
 ---

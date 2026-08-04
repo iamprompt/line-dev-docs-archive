@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-01-14 00:00 UTC","tags":"outage-report, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2022/2022-01-14-liff-outage
-__hash__: WF00gqUYWM0KGH-K8P5MhfjanIZz9K5VVb8TLWdfun8
+__hash__: bjlKmxmLrTtzTe3d8nemyqkMQwxWzKpFza4bxPgKuxM
 seo:
   title: 【復旧済み】LIFF/LINEミニアプリ障害のお知らせ
   description: ''

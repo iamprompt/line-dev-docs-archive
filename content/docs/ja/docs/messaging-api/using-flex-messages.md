@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/using-flex-messages
-__hash__: UJryq5v-oDUlcZRJE7sBUMvNI01K8lC9XCfaQCyRVV8
+__hash__: McdnAnIBERRAozVdwNQHd6MRH2BnfccCQr7VTfzS1Kk
 seo:
   title: Flex Messageを送信する
   description: null

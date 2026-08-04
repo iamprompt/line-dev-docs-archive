@@ -7,7 +7,7 @@ meta: >-
   {"date":"2025-08-28 00:00 UTC","tags":"line-mini-app, liff,
   options-for-corporate-customers","locale":"ja"}
 path: /ja/_partials/news/2025/2025-08-28-quick-fill
-__hash__: 1RjqVwLGGvtmEd3bQD8lL4jKB74EYSHI7qez8ypL610
+__hash__: Bw7PNGM4hdb4bAqTH50y40NK0PSdsUlaOpjZRWTua4E
 seo:
   title: LINEミニアプリにおいて共通プロフィールのクイック入力機能を正式にリリースしました
   description: >-

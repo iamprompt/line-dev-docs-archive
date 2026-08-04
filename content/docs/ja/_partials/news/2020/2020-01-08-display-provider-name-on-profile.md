@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-01-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-01-08-display-provider-name-on-profile
-__hash__: 7lJYyJeD2kGhJje7kDpHfB0DfG8rNRFpMVHEAfOpnK0
+__hash__: BqRX1B34Ww2z9RblPZ77zzAcwqc4TPr09I9x20Ro4BU
 seo:
   title: 【更新】プロバイダー名が適切であることを確認してください
   description: ''

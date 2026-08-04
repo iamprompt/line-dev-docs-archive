@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/message-object-coupon
-__hash__: rTbGtX0GSikVYLMT9nzklDQDxmPB2BAAo3avU204qnM
+__hash__: MV41SDw6zTR3LEg2HNhpZSeuipE5TjBnOsfqckf74Gs
 seo:
   description: ''
 ---

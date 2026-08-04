@@ -6,7 +6,7 @@ description: >-
   Developersコンソールにおけるリニューアルでは、ヘッダーとフッターがLINE Developersサイトのデザインに追従しました。
 meta: '{"date":"2023-11-01 00:00 UTC","tags":"console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-11-01-console-renewal
-__hash__: 7oEj9-kjQGvRZV0rCnA0C0NxjsQqRnUGsDCNTZS_X3s
+__hash__: bwhZqZZaTDULofS0LLyXi0tgyxAkZywtoGs1Z239AXg
 seo:
   title: LINE Developersコンソールのヘッダーとフッターのデザインをリニューアルしました
   description: >-

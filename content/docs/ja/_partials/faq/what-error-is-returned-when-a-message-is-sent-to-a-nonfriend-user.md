@@ -8,7 +8,7 @@ meta: >-
   messaging-api","priority":1000,"locale":"ja"}
 path: >-
   /ja/_partials/faq/what-error-is-returned-when-a-message-is-sent-to-a-nonfriend-user
-__hash__: uYX7zDZG0gZ3Gccyr6CeTVOaB0bTWftpCWg1JLQWu6U
+__hash__: P1czrjeVjzKme005X7h6NqFbuLNrZl8SYEZfQ4VX-S4
 seo:
   title: LINE公式アカウントをブロックしているユーザーIDを指定してメッセージを送信するとエラーが返りますか？
   description: >-

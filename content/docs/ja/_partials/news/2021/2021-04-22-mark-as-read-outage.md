@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-04-22 00:00 UTC","tags":"Outage report, Options for corporate
   customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-04-22-mark-as-read-outage
-__hash__: xJN3SZQHPQ0dIkwHDEt36XybB0f-uxD9nItiau0t_iU
+__hash__: 9OSrgoOeCpruu-btc2aX_C5m2tRpUiqpxiDRfYDvsrM
 seo:
   title: 【復旧済み】Mark-as-Read API障害のお知らせ
   description: ''

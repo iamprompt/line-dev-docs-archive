@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-10-28 01:00 UTC","tags":"docs, line-platform, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2021/2021-10-28-line-developer-day-2021
-__hash__: c20JdCP0D9sYMAO9NVAI4eOe1fAaWjOn2dFZJBlUJoY
+__hash__: biT-V04vijEg_81j72_p9eAqZui5CuKQZY98oZNj9UY
 seo:
   title: 11月10日・11日 LINE DEVELOPER DAY 2021を開催します
   description: >-

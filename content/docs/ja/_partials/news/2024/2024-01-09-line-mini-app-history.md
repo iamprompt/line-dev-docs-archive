@@ -4,7 +4,7 @@ navigation: true
 description: 2023年11月29日にお知らせしたとおり、ユーザーが最近利用したLINEミニアプリに、LINEのホームタブからアクセスできるようになりました。
 meta: '{"date":"2024-01-09 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-01-09-line-mini-app-history
-__hash__: CdMAV4mpKwsc2FlufcZVy5eF1Fml5WesPgDvAqWIQdc
+__hash__: 3Xyhnwx6Mr0tbISMldSe2Ze09J8kI1IuzeN9G30_jc4
 seo:
   title: 最近利用したLINEミニアプリにLINEのホームタブからアクセスできるようになりました
   description: 2023年11月29日にお知らせしたとおり、ユーザーが最近利用したLINEミニアプリに、LINEのホームタブからアクセスできるようになりました。

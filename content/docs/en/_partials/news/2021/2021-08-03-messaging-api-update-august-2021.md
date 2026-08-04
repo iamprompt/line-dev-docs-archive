@@ -4,7 +4,7 @@ navigation: true
 description: The following features have been changed in this update of the Messaging API.
 meta: '{"date":"2021-08-03 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-08-03-messaging-api-update-august-2021
-__hash__: C7dIGGg1e4pl-uTH_QIqp_fcruaNk2nlU6Gxgy2mq-U
+__hash__: 3jKPgKKCf_MAYJUCOzDRMdxWRMcKfZTwMyh16es7Sks
 seo:
   title: Messaging API Update (August, 2021)
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/payment
-__hash__: Tbdc30wkkw2bMDbUfrUWgzLq55-5NORmYRmtkNVRX1w
+__hash__: 1_AQBdiXkzJXgYFYeeOzrdqRxO2q7fX3rwdUMRPa1TI
 seo:
   title: Handling payments
   description: null

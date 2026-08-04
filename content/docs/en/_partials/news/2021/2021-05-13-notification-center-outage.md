@@ -6,7 +6,7 @@ description: >-
   Console. The issue has now been resolved.
 meta: '{"date":"2021-05-13 01:00 UTC","tags":"Console, Outage report","locale":"en"}'
 path: /en/_partials/news/2021/2021-05-13-notification-center-outage
-__hash__: 4xfZ6rj2O1OvmKXihztHJh0vGgA0EbFTLkxJGnnwJgQ
+__hash__: m277kPO_rjjDnvErlNCP1OpAeho7zN_GH2c4EAxo47E
 seo:
   title: '[Resolved] Notice about LINE Developers Console notification center failure'
   description: >-

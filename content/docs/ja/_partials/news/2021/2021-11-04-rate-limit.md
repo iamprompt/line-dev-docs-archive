@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIでは、エンドポイントごとにレート制限があります。
 meta: '{"date":"2021-11-04 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-04-rate-limit
-__hash__: 7Ceb4faDybEZRbBNbulsyunxCjAxASZWER8_FXwXCKk
+__hash__: AXaIdMow8z_Ua3qAdW86woHkDLP0VYikuNzdSvSVvYA
 seo:
   title: 2021年11月18日よりMessaging APIのレート制限が変更されます
   description: Messaging APIでは、エンドポイントごとにレート制限があります。

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-06-29 00:00 UTC","tags":"console, flex-message-simulator, docs,
   SSL, end-of-life, life-cycle","locale":"en"}
 path: /en/_partials/news/2022/2022-06-29-supported-tls-protocol-versions
-__hash__: KNTbe66YTb1RLvwkGZpv00GD2YKJQ4HHRIGn2qePCHg
+__hash__: VYhwAzY7vigKP0-sC3NaUzbSKzjilgMWtRoWbtf6SJU
 seo:
   title: TLS 1.0 and TLS 1.1 support for LINE Developers site has been discontinued
   description: >-

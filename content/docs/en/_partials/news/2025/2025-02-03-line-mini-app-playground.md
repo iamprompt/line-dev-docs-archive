@@ -6,7 +6,7 @@ description: >-
   to easily try out the features of the LINE MINI App.
 meta: '{"date":"2025-02-03 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-02-03-line-mini-app-playground
-__hash__: w-6IqomrnbIfBjnE6RNBHHbFqfrYGd0FURPttATuzj0
+__hash__: An8Dj0XRC6cAAGnJ_Ci-EcK1vV6RLGVm31D5MMHbVgQ
 seo:
   title: LINE MINI App Playground released
   description: >-

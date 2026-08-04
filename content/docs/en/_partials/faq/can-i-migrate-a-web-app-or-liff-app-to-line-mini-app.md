@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-05-26 00:00 UTC","tags":"liff,
   line-mini-app","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-migrate-a-web-app-or-liff-app-to-line-mini-app
-__hash__: _C_B1bY6cJ7xd4-zL0Y0VEEkrXp1hu70AsF3Trgy1A0
+__hash__: LyWEwYDd347cN1mHcFMSAc9jkSF_7Ud4M6SRWjtLuzc
 seo:
   title: Can I migrate a web app or LIFF app to a LINE MINI App?
   description: >-

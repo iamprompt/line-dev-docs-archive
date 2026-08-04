@@ -5,7 +5,7 @@ description: Learn how to implement your custom action button on LINE MINI App.
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/develop/share-messages
-__hash__: ALkgoo6EwVGDTy5f449r-S6FMWrdgfFu-dgfiE0zygs
+__hash__: DWw5HhRc27PeHoHIt-qdBCOgVYLMN8SBaXtSihAobEM
 seo:
   title: Implementing a custom action button
   description: Learn how to implement your custom action button on LINE MINI App.

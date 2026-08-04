@@ -8,7 +8,7 @@ meta: >-
   API","skills":"C++, Python, Perl, Go, Chatbot, Cloud, NLP, Machine Learning,
   AI","git":"https://github.com/clsung","fb":"","twitter":"https://twitter.com/clsung"}
 path: /en/community/api-experts/tw-cheng-lung-sung
-__hash__: e1Zvp9KXcp8-pqNouD3Sr1t1DC_k5rVm6BzoFf5IEr0
+__hash__: L_h5BUiyLrvoRHsVekikn701UGl4GA0hEegFTHgPXc8
 seo:
   title: LINE API Expert - Cheng-Lung Sung
   description: ''

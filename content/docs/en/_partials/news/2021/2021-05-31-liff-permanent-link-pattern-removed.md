@@ -11,7 +11,7 @@ meta: >-
   {"date":"2021-05-31 00:00 UTC","tags":"LIFF, LINE MINI app,
   Console","locale":"en"}
 path: /en/_partials/news/2021/2021-05-31-liff-permanent-link-pattern-removed
-__hash__: gJCm5UT3MXSugaT-09benIWDf-gDjn4fqmhuXzv54sA
+__hash__: 5cZT4VrW3btA79gLqMvE1wbhVoS9LvRwaLQZRWCFBUs
 seo:
   title: >-
     [Method for converting additional information in the LIFF URL] settings

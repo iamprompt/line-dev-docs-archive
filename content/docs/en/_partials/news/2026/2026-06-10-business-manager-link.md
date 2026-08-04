@@ -8,7 +8,7 @@ description: >-
   Business Manager organizations.
 meta: '{"date":"2026-06-10 00:00 UTC","tags":"console, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-06-10-business-manager-link
-__hash__: 0LvoUJyBRTT9vbAr6i9QXb3q_KRO81OzN3yYg_UBlg0
+__hash__: xtc9KQ9pEnku9YQ373hqCR2TVjhVZn-JRoJOR9Barjw
 seo:
   title: >-
     Verified MINI Apps in Japan can now link their LINE MINI App channels to

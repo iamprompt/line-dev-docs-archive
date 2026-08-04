@@ -6,7 +6,7 @@ description: >-
   number was 10.
 meta: '{"date":"2018-07-19 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2018/2018-07-19-more-liff-app
-__hash__: stUXDSq6q5WrwTMWRAtRgdljNyepZEU6SoIAAyIpo2E
+__hash__: UHobJO7jEMfSO0HpbaYmCCPY08XCzpGhuiPsfj-r_fs
 seo:
   title: The maximum number of LIFF apps has been increased
   description: >-

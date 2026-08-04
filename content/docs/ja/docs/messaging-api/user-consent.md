@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/user-consent
-__hash__: 31bmOjFw_7d-tvT8NkcVXlznJwMsvp6zVbKEFfGOnik
+__hash__: UNeCO6GLEwMGw4H_xueGULgX-y3yIpE1rN-2TCLNhcA
 seo:
   title: ユーザーのプロフィール情報取得の同意
   description: null

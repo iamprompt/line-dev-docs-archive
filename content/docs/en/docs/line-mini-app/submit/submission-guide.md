@@ -8,7 +8,7 @@ meta: >-
   {"tags":"LINE MINI
   App","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/submit/submission-guide
-__hash__: LWy24J76jpyaf5CIGgItjWXrQ4fioRCoyixnhzM2V4k
+__hash__: J0F1ljmEbGzrqfMwc8EYqWunOSkxb7Q6Z7qFOesZS0U
 seo:
   title: Submitting LINE MINI App
   description: >-

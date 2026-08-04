@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-06-30 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-06-30-deprecate-leave-event-for-beacon
-__hash__: 8-cqzRcjFuEhaJYD1SVhO8r041XI97OzerDVygu-UPY
+__hash__: RUeW5CYaJC0G9ddc2P7lkZiLyFduZOekEE1HL2CiOH4
 seo:
   title: Beacon Leave Event to be deprecated at the end of 2020
   description: ''

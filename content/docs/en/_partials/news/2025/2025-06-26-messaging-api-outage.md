@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-06-26 01:00 UTC","tags":"outage-report, messaging-api,
   options-for-corporate-customers","locale":"en"}
 path: /en/_partials/news/2025/2025-06-26-messaging-api-outage
-__hash__: L_2EouY5EqJtIN2NnlWp7dUCGR_sYZ45u5zcmCgndaY
+__hash__: lcUdxgIt2Mr28436pg89kiHvzl8oCpbl2icK6yB9McQ
 seo:
   title: '[Resolved] Notice about service outage for the Messaging API'
   description: >-

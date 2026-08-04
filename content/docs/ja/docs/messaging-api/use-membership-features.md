@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/use-membership-features
-__hash__: V9TbptdiOOPBAWqUuklO1Igult8T4TdEqnrQY7bQ7Vo
+__hash__: XnKFQO5dfDHjwT9WtNR0Dv9uVEPA3Zxpj8fLqSsXK8A
 seo:
   title: メンバーシップ機能を使う
   description: null

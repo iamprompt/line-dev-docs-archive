@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-07-30 00:00 UTC","tags":"LINE Platform, Maintenance,
   SSL","locale":"en"}
 path: /en/_partials/news/2020/2020-07-30-line-api-supports-http2
-__hash__: 5MrYaBNLhXM6wZlPE6qpj0eEhCSnDZYkQVDTik8bklM
+__hash__: qSjy1qWoz8BnJVmrt6RUjMfy5uLFLMUmAocjw3rDZ0k
 seo:
   title: LINE's APIs will support HTTP/2
   description: LINE's APIs will support HTTP/2.

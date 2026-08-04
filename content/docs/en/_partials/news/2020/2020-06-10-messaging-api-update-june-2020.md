@@ -6,7 +6,7 @@ description: >-
   to this update:
 meta: '{"date":"2020-06-10 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-06-10-messaging-api-update-june-2020
-__hash__: O_M5uv4nGbUsy3Qqz72upidP-jOML_xtGUZH7NdPJDc
+__hash__: TbPNPacv--QC3VSlM-Ulgq9vvz5znMQJYHbbi-qDIWQ
 seo:
   title: Messaging API update for June 2020
   description: >-

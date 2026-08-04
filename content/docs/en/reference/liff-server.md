@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"pageClass":"api-reference-page"}'
 path: /en/reference/liff-server
-__hash__: 0u1oxIkNH61MUgPjKONl3g93t9otqK9KQvku2SxPf9w
+__hash__: xPelrWPozWKpb3oWRtbYExTZ17fLetoNly34WLc5eaQ
 seo:
   title: Server API
   description: ''

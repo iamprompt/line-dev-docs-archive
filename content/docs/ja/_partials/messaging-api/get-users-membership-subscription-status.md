@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-users-membership-subscription-status
-__hash__: KbfjXgHyutHvFR7i0OI-19VFqQFg3JtqHm_qMtgUjJg
+__hash__: NE8Azf51L6-l9uUe2bWyJvvbAE8kir6TOvL_NaQ2EUA
 seo:
   description: ''
 ---

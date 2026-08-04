@@ -6,7 +6,7 @@ description: >-
   LINE SDK for iOS using CocoaPods for your Objective-C and Swift projects.
 meta: '{"date":"2017-03-22 00:00 UTC","tags":"iOS, LINE SDK","local":"en"}'
 path: /en/_partials/news/2017/2017-03-22-ios-sdk-cocoapod
-__hash__: DO6wlD4uC13Tzuu0zXqsF7GsFYNYNGiELTT_ZHljo0k
+__hash__: 0kx6ItTcsFiu1VqR31Wb3u-n6SmdSHxBjwpomRC9kvw
 seo:
   title: LINE SDK for iOS CocoaPod released
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
 meta: '{"date":"2020-07-02 00:00 UTC","tags":"LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-02-line-min-app-released
-__hash__: 1a2fRYYy-5AWVIRi-MXZXkk90ky9G-3vruboCjqptiE
+__hash__: _KaMGP48DXJmM4sraX-1f3TPDHWkUedTrjhbHP5Xbnk
 seo:
   title: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
   description: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました

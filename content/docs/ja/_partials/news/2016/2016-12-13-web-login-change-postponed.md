@@ -7,7 +7,7 @@ description: >-
   specification change as specified in the earlier post are shown below.
 meta: '{"date":"2016-12-13 00:00 UTC","tags":"LINE Login","local":"en"}'
 path: /ja/_partials/news/2016/2016-12-13-web-login-change-postponed
-__hash__: 4zOnKRS8QzkHmQDMfgWL-qgQyYSznudves0EbNB85uk
+__hash__: PRMS6Mjhm5JZ628Mvyl3cIoBHC4UVth9CgRBDkW50eA
 seo:
   title: Specification change to API postponed
   description: >-

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-02-08 00:00 UTC","tags":"Messaging API, SSL,
   end-of-life","locale":"en"}
 path: /en/_partials/news/2021/2021-02-08-line-platform-update
-__hash__: 5OvNGon_PLerGPYqGMrPEHaRCWxOM23HXwWvgH6gMgw
+__hash__: IEVvKPdwATKaBG6MrfbyX7Rc58xI84TV7eKCVw7S37U
 seo:
   title: TLS 1.0 and TLS 1.1 support by the webhook notification source discontinued
   description: >-

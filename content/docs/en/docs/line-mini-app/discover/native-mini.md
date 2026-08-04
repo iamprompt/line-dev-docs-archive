@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/native-mini
-__hash__: ncUO3XoppVJCo5YnTHYeWOP_vEciqOTeTTU4ou1s6SE
+__hash__: 3QvrbVCNx5JULtWmn_0pxx5v9qm9_E_N_1c3Ujo_3y4
 seo:
   title: The differences between native apps and LINE MINI Apps
   description: null

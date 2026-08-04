@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/iap-guidelines
-__hash__: '-vfdQ5Tl0A-i_MmU55IbiDtz3eT4hguNeRe9I9izsWc'
+__hash__: vMIkB57Xnsioh9dCPaEjMXy8m6lbY0bh-MbouhXaIe0
 seo:
   title: アプリ内課金 開発ガイドライン
   description: null

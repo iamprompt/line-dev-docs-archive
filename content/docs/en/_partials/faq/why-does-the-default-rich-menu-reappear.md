@@ -10,7 +10,7 @@ meta: >-
   {"date":"2025-05-19 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/why-does-the-default-rich-menu-reappear
-__hash__: sVUM-UvU_Okx8lYocG37CK9puUy2jKDFszP9vixYluw
+__hash__: Qa-g1n-CEEEOazIpVN08yBvCAQOsXJWUXMM9rAd_b60
 seo:
   title: >-
     Why does the default rich menu reappear even though I have set a per-user

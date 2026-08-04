@@ -7,7 +7,7 @@ description: >-
   button, or link your bot with a LINE Login channel.
 meta: '{"date":"2017-12-13 00:00 UTC","tags":"Docs, Messaging API","local":"en"}'
 path: /en/_partials/news/2017/2017-12-13-sharing-bot-with-users
-__hash__: W4KAIdU8HZhC9lIPeCVd9qwCy-rpAWUb71pTE0pxqA0
+__hash__: xF8vMotSBtXTKYpDSEYpEHIq5a75Gu_RXm-YrvUQUpU
 seo:
   title: New article on sharing bots
   description: >-

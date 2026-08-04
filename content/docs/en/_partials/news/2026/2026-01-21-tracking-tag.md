@@ -11,7 +11,7 @@ meta: >-
   {"date":"2026-01-21 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2026/2026-01-21-tracking-tag
-__hash__: hW7outu4vgEu-1DnQaTGlBo0hjQVqLJm0kUgeJYhdTg
+__hash__: lyFizbSv6J96aSL-6lrBBMM-LR_ZKsYs1yVpzYMdxx0
 seo:
   title: >-
     Web traffic audiences using Tracking Tag are now available in the Messaging

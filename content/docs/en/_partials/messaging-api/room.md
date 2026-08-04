@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/room
-__hash__: '-Qx2oV2sJ7Vgd2mdGUFz7a3bRMfkhT-lNgBNWXs8t3Q'
+__hash__: R65fUJVIDGc6UEFUDrj2NRAd0grh-PN4rTEMOEqC2dA
 seo:
   description: ''
 ---

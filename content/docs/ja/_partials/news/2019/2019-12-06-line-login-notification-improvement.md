@@ -5,7 +5,7 @@ description: >-
   LINEログインバージョン2.1を利用しているサイト（以降、対応サイト）にユーザーがログインしたときに、LINE公式アカウントからユーザーに通知される内容が変更されます。
 meta: '{"date":"2019-12-06 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-12-06-line-login-notification-improvement
-__hash__: naJ7_lTvmlnpSUde2CeRl4YcN_k9ujnRnyUMoF33f8s
+__hash__: URh89dEcohNZwRCCBwo1P_Gx-vWI5YjWrFCqU2q5aiM
 seo:
   title: LINEログインしたときの通知メッセージが変更されます
   description: >-

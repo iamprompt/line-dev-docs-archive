@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-11-25 00:00 UTC","tags":"line-platform, line-login, liff,
   line-mini-app, messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/when-can-userid-be-changed
-__hash__: LgklXy42UckCnIiqhombzrcQxeRemfLkpF1f963_1V0
+__hash__: eFSOyhOzt2YYxX3LtWSXUvS2H33GEn5JfwhT9RVNJCE
 seo:
   title: Once a user ID is issued, can it be changed at any time?
   description: >-

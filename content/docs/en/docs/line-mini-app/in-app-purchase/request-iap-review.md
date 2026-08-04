@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/in-app-purchase/request-iap-review
-__hash__: 4r5ZaVhVp6uY5iEeXfqfCPM7CV8aC-E_3kFhjs_SATM
+__hash__: vBYB2Hf__esq4urpsRSsj-cioONLtgBMaK7Pvb8QVeU
 seo:
   title: Apply to use in-app purchase
   description: null

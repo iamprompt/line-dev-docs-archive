@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for iOS Swiftでは詳しいエラーが報告されます。ユーザーがエラーから復帰できるように、報告されたエラーを制御してください。
 meta: '{}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/error-handling
-__hash__: Qq2toDaTLvEXmnTV9wRyNCcu2dy7OR9AXS1Ztht92RE
+__hash__: DW09HGwKdYkNJKJAa1nFDfbO4VCxdSI5QSc4Or-kM6Q
 seo:
   title: エラーを制御する
   description: LINE SDK for iOS Swiftでは詳しいエラーが報告されます。ユーザーがエラーから復帰できるように、報告されたエラーを制御してください。

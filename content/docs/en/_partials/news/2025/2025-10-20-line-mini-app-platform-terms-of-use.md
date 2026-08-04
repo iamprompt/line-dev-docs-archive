@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2025-10-20 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-10-20-line-mini-app-platform-terms-of-use
-__hash__: PCpgz1bIu2PZsZDl2S-VDlHwAcc15QRE3p-xe2NyHJA
+__hash__: P4vDRdd2X8dbL4Z1C5SEW7HLPUlKueKASupOcVj54ds
 seo:
   title: >-
     [Updated] On November 20, 2025, we will revise the LINE MINI App Platform

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2017-12-15 00:00 UTC","tags":"Outage report, LINE
   Platform","local":"en"}
 path: /en/_partials/news/2017/2017-12-15-server-outage
-__hash__: ufwWUJab4sP-6VSYFngD9LD-h5tKEdYH7fapYdlVFJs
+__hash__: v88ziDQNWhmpCl-_J-hzk1VTdtza06oOt-C3sQUwz7c
 seo:
   title: '[Resolved] Notice about service outage for LINE Login and the Messaging API'
   description: >-

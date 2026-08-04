@@ -6,7 +6,7 @@ description: >-
   to the release of the Business Center and BOT API.
 meta: '{"date":"2016-04-15 00:00 UTC","tags":"Docs"}'
 path: /ja/_partials/news/2016/2016-04-15-site-changes
-__hash__: uGva9vepqtPONktHn8RhqqQmT26Myr-5iJIpoLG2uAE
+__hash__: 2Fmg7Kt-5XBnOzboPF4b5eV0pBDBCNIo1hW4pmx8JIU
 seo:
   title: Changes to the LINE Developers site
   description: >-

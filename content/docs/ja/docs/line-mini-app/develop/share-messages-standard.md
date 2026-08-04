@@ -5,7 +5,7 @@ description: ガイドラインに従ったJSONファイルです。
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/develop/share-messages-standard
-__hash__: Nv_s_2io8wZxpWhP7u32__tga3-I9jXcZVpzdB03mvQ
+__hash__: EC0rImfe9FlETM017YA1hGQG17NJ1p8LGogEdEf7TYg
 seo:
   title: ガイドラインに従ったJSONファイルの例
   description: ガイドラインに従ったJSONファイルです。

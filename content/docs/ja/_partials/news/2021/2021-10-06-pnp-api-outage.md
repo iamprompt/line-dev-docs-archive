@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-10-06 00:00 UTC","tags":"Outage report,
   options-for-corporate-customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-10-06-pnp-api-outage
-__hash__: CHUQmd6i11i6lOduojyzuGd84f4iqQAkC4FRwSH-UkM
+__hash__: 1DCcxDroGIAImPXyQfO5_edUPsPFG_c9aSqjGuyu-hI
 seo:
   title: 【復旧済み】LINE通知メッセージ障害のお知らせ
   description: LINE通知メッセージにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。

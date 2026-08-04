@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-09-17 00:00 UTC","tags":"LIFF, LINE MINI app, deprecated,
   end-of-life","locale":"en"}
 path: /en/_partials/news/2021/2021-09-17-liff-v1-discontinued
-__hash__: V6-EgWlDVEGXWdIRAduo8JAg1DJO6hv-Nmw1He0Czac
+__hash__: FnQop9pn7fpYwkYz007GZNSIibH9YrvphAAhQ9eDGBw
 seo:
   title: LIFF v1 will be discontinued on October 1, 2021
   description: >-

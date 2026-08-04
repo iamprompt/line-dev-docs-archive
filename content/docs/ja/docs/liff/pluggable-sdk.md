@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/pluggable-sdk
-__hash__: OT2EMEIr778pphXKRB9CZhWq2NogCVBg-6gX_c2u54g
+__hash__: zwrkllLBIFal5ynZxVWieI5dHfDR4BaRJEi8ABeDv08
 seo:
   title: プラガブルSDK
   description: null

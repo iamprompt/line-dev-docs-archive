@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/rate-limits
-__hash__: 6jKSk0tvj9EMVK1IpGHZAT7QHVv_2l2fblTxyezikZI
+__hash__: mDGbr1OGf50IGpqz6wrLjsH_vjNM-K4ExwxW7jL886A
 seo:
   description: ''
 ---

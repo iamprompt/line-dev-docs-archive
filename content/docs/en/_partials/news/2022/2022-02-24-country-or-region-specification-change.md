@@ -11,7 +11,7 @@ meta: >-
   {"date":"2022-02-24 00:00 UTC","tags":"messaging-api, LINE Login, console,
   line-blockchain","locale":"en"}
 path: /en/_partials/news/2022/2022-02-24-country-or-region-specification-change
-__hash__: hCrgT1laGeJeEfUdVrHBjpec38ML_Tnxh4xnk22C_Bo
+__hash__: 95RjCtkQURuYy-Xfw4l7TQTrWbtjxAVnt_Vhzk1vQZw
 seo:
   title: >-
     Users can no longer set "Other" as the Company or owner's country or region

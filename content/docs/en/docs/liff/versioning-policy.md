@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/liff/versioning-policy
-__hash__: 0RdcI6zs6tZz-b59EbdhoqHcHhqE4rj4c1Jfz4jcII0
+__hash__: pp5hDJCzT4WkFhFSlRSxs99gJtnA7KeIwImmQQXq_fQ
 seo:
   title: Versioning policy
   description: null

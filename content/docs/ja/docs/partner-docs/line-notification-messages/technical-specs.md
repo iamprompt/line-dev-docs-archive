@@ -4,7 +4,7 @@ navigation: true
 description: LINE通知メッセージAPIはSHA256アルゴリズムでハッシュ化した電話番号を元にユーザーにメッセージを送信します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/line-notification-messages/technical-specs
-__hash__: _0PfJLd1YEyMHMrOk62uQBmL-egEAWNDx58wSBQgR04
+__hash__: vQv8CxQ9vwMW1W_vF5UH9CG5_wiLd-9MCzpoa0B9Gn4
 seo:
   title: LINE通知メッセージAPIの技術仕様
   description: LINE通知メッセージAPIはSHA256アルゴリズムでハッシュ化した電話番号を元にユーザーにメッセージを送信します。

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/discontinue-coupon
-__hash__: '-e7bNNFwPCG-BsMT22TQMDTX2TvncoOvRfJN74d7VqQ'
+__hash__: 4Q9_VE__2X10YllPjZfk0hn_YDpe6T6ERMDAvwqFJII
 seo:
   description: ''
 ---

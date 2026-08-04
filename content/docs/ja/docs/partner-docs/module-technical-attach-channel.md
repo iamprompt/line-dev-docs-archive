@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-attach-channel
-__hash__: uN5ZolriuitC5HmxGDvCDo7HnXfD5OT1MaHmegry20A
+__hash__: fyrSMOX0zD2kDZnTshmVWIb9tZfNlVmXJ5K12aFKrL8
 seo:
   title: モジュールチャネルを連携（アタッチ）する
   description: null

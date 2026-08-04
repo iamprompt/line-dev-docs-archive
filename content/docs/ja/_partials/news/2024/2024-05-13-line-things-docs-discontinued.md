@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-05-13 00:00 UTC","tags":"line-things, life-cycle, end-of-life,
   docs","locale":"ja"}
 path: /ja/_partials/news/2024/2024-05-13-line-things-docs-discontinued
-__hash__: 9sqEACg3oi0P_HOO7snHbt91z5p3AaVCZHGMIHii-fE
+__hash__: 9n48u103aUHJ3Xpd5Jh2_CUkEl6F7gyNANfg7iq0Cfk
 seo:
   title: LINE Thingsのドキュメントとリファレンスの提供を終了しました
   description: 2024年5月13日をもって、LINE Thingsのドキュメントとリファレンスの提供を終了しました。

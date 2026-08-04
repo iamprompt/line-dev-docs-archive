@@ -4,7 +4,7 @@ navigation: true
 description: 2019年11月11日に告知したとおり、LIFF v2の機能拡張に伴いMessaging APIのチャネルにはLIFFアプリを追加できなくなりました。
 meta: '{"date":"2020-02-05 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-02-05-liff-channel-type
-__hash__: QxvVcisu1T7-S61wm32b0LiXlSKnGeI8ni21CjbXXZ8
+__hash__: PdGIHK-Bq3UO671Z-dNvYNY8BH-zeM0bKUftcLrnTzI
 seo:
   title: Messaging APIのチャネルにはLIFFアプリを追加できなくなりました
   description: 2019年11月11日に告知したとおり、LIFF v2の機能拡張に伴いMessaging APIのチャネルにはLIFFアプリを追加できなくなりました。

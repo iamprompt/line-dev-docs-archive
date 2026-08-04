@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2018-11-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-08-video-play-on-imagemap
-__hash__: 59kuI4BKmgtjXqt7X4q10ICpH3MN0ZFwFzxTtdbMxyQ
+__hash__: bsxPqzmsaEjzKF9ey6AFzyJw6ZBPdJQQASRi5KDw2qA
 seo:
   title: Specification change for the Messaging API
   description: ''

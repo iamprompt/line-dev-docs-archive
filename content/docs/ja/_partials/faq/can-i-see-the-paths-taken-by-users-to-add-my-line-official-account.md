@@ -7,7 +7,7 @@ meta: >-
   messaging-api","priority":1000,"locale":"ja"}
 path: >-
   /ja/_partials/faq/can-i-see-the-paths-taken-by-users-to-add-my-line-official-account
-__hash__: _H0q6XHuJ7Yf4Kb0-sGrV5uD4d5AX6jkYJ3zYOvttL8
+__hash__: rZu8Up-H6Xfy_Rzf2ZbslxqC3NmPC6oH5B1gaKLSW5I
 seo:
   title: LINE公式アカウントの友だち追加経路をユーザー単位で確認できますか？
   description: 特定のユーザーがLINE公式アカウントをどの経路で友だち追加したのかは、Messaging APIでは確認できません。

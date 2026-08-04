@@ -8,7 +8,7 @@ description: >-
   found at the top of the side menu.
 meta: '{"date":"2017-12-06 00:00 UTC","tags":"Docs","local":"en"}'
 path: /en/_partials/news/2017/2017-12-06-search-feature
-__hash__: ae0Obb6BtG4E7HdHTZ_oflMDgAd_jHonnaPIzFMoQOc
+__hash__: ugTx0a1fe_o5kedyvJHTFaZ7cBUnVfwMEGNkhyR1VnU
 seo:
   title: Search feature released on website
   description: >-

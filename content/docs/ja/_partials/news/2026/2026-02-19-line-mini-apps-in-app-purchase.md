@@ -4,7 +4,7 @@ navigation: true
 description: 日本のLINEミニアプリにおいて、「アプリ内課金」機能を正式にリリースしました。
 meta: '{"date":"2026-02-19 00:00 UTC","tags":"line-mini-app, console","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-02-19-line-mini-apps-in-app-purchase
-__hash__: In8_Af-CotuRhQY9cwoXNURvqoUPPfklHiCt43IYVCw
+__hash__: 8BDuzdS5j5WhM0BNxT3WjZGQLLD9fGsZ7J14M40DeGo
 seo:
   title: 日本のLINEミニアプリにおいて、アプリ内課金機能を正式にリリースしました
   description: 日本のLINEミニアプリにおいて、「アプリ内課金」機能を正式にリリースしました。

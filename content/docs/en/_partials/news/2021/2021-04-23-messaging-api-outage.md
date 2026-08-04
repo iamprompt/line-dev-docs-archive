@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-04-23 01:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-04-23-messaging-api-outage
-__hash__: g0mghOsbTx3HpBfZAz6j76koMpNQJBvjKiQNk1Mo8eE
+__hash__: C6Ccx0ldcH31Ae095QpuyG3Lt1pmIst6lkhu4NnrZlM
 seo:
   title: '[Resolved] Notice about service outage for the Messaging API'
   description: >-

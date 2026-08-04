@@ -4,7 +4,7 @@ navigation: true
 description: We've added an endpoint for getting user information to the LINE Login.
 meta: '{"date":"2022-06-03 00:00 UTC","tags":"line-login","locale":"en"}'
 path: /en/_partials/news/2022/2022-06-03-user-info-endpoint
-__hash__: sEllDl9t6fxYncju6bMZho9tcoQVQkHfsRjepI-vQ_8
+__hash__: Ja_kchR-Y1Z5x9FQktMTZIz0HLZKHPSm1vgOwh6o7MU
 seo:
   title: The endpoint for getting user information has been added to the LINE Login
   description: We've added an endpoint for getting user information to the LINE Login.

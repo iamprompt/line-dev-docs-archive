@@ -5,7 +5,7 @@ description: >-
   LINEミニアプリにおいて、日本、タイ、台湾以外のLINE未使用ユーザーがウェブブラウザでサービスを利用できるようになりました。これにより、たとえばLINEアプリを使用していない訪日外国人の方がLINEミニアプリのサービスを利用したい場合に、LINEアプリをインストールすることなく、ウェブブラウザでサービスを利用できます。
 meta: '{"date":"2024-02-14 00:00 UTC","tags":"line-mini-app, console","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-02-14-mini-app-browser
-__hash__: iVOozR5Fjdvdn_XGSnHLJgOXqDeVLb_DeyFpwFcyCCU
+__hash__: aP-o4OuAIsGS2cd-m7Pamh2nUUZygFZ5Ny_SV34XGEI
 seo:
   title: LINEミニアプリにおいて、日本・タイ・台湾以外のLINE未使用ユーザーがウェブブラウザでサービスを利用できるようになりました
   description: >-

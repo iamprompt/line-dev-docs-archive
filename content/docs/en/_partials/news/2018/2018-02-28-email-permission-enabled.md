@@ -7,7 +7,7 @@ description: >-
   the permission in the LINE Developers Console.
 meta: '{"date":"2018-02-28 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2018/2018-02-28-email-permission-enabled
-__hash__: f0m609NtiY6QipayK39pCxkZrtZrdzBOlQCVBx6dCO0
+__hash__: JyqTX57-YeYHdL5En3ISIx0TzDPuosykErUqJmk70qU
 seo:
   title: New permission to get users' email address released
   description: >-

@@ -5,7 +5,7 @@ description: >-
   「友だち追加」ボタンを利用するには、LINE公式アカウントのIDが必要になります。ウェブサイトの訪問者がこのボタンをクリックすると、あなたのLINE公式アカウントがLINEの友だちとして追加されます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/install-guide/using-add-friend-buttons
-__hash__: pOwvTv3Nikqgzwg8Nwj1wDlE_Bi3muQW7Mwj3d_OIj8
+__hash__: TzBhHOZKiYa0q9PR6kHxcKr80tjt7y8mg8N2JzD1fsY
 seo:
   title: 「友だち追加」ボタンを設置する
   description: >-

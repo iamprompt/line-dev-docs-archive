@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/common/revoke-channel-access-token-v2.1
-__hash__: wL855KcSu-TaMvNv1G2NdqFKUvjMt0znqa304qXY52w
+__hash__: rzrFpUZasY8VGBMTuafXByFbPKoddGV9dKs9yXMXySA
 seo:
   description: ''
 ---

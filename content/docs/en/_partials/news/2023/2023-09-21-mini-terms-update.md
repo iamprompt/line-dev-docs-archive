@@ -6,7 +6,7 @@ navigation: true
 description: Thank you very much for always using the LINE MINI App.
 meta: '{"date":"2023-09-21 01:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2023/2023-09-21-mini-terms-update
-__hash__: eXhaTc5nMG-77Ky53rP1se_Lys6OnNDTrtIpNG6N5ng
+__hash__: gpwH10vDglBpORL7JrAkgJ4FmP1xiLCURq0C914iTDs
 seo:
   title: >-
     Notice Concerning Use of Information in Connection with Group Restructuring

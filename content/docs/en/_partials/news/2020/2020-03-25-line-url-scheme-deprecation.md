@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-03-25 00:00 UTC","tags":"LINE Login, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2020/2020-03-25-line-url-scheme-deprecation
-__hash__: paS9Sn0__5xCisoGLVQZcWcM22pInDbsjS3iZh4QdJE
+__hash__: P5aY4KrqOPB876HI2lUPDsNVDU5XTY079Y0bhEeTzVs
 seo:
   title: LINE URL scheme of 'line://' is deprecated
   description: >-

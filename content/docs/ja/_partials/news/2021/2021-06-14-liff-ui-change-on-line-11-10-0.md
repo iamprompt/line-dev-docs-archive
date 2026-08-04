@@ -4,7 +4,7 @@ navigation: true
 description: LINE 11.10.0以降、LIFFアプリのヘッダー部分のデザインがより見やすくなります。
 meta: '{"date":"2021-06-14 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-06-14-liff-ui-change-on-line-11-10-0
-__hash__: 5hjrokDkj3LzsK2w2Glw2_0EoX9q-ngS4zpsSE3MUVI
+__hash__: xdt6jZr9xzmXufZrXeGcF1Ovsx0h_0aDayaL04UVy8o
 seo:
   title: LINE 11.10.0以降LIFFアプリのヘッダー部分のアイコンが見やすくなります
   description: LINE 11.10.0以降、LIFFアプリのヘッダー部分のデザインがより見やすくなります。

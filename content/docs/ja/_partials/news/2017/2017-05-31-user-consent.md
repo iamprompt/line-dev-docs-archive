@@ -7,7 +7,7 @@ description: >-
   shown below.
 meta: '{"date":"2017-05-31 00:00 UTC","tags":"Messaging API"}'
 path: /ja/_partials/news/2017/2017-05-31-user-consent
-__hash__: Hoa4HuLc6y4LWAFYz7ik-jTRoJS_bGSXzZbFXfR2HfM
+__hash__: XFyeEdyhbGFGQ4Ejftk-qBdj4jCwHFVmOzB9Ln7j3zs
 seo:
   title: Changes to the user consent process and data retrieved in webhooks
   description: >-

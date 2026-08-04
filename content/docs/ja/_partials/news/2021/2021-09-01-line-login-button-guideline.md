@@ -4,7 +4,7 @@ navigation: true
 description: LINEアプリアイコンのデザイン変更に伴い、LINEログインボタンのデザインガイドラインを更新しました。
 meta: '{"date":"2021-09-01 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-09-01-line-login-button-guideline
-__hash__: QZg2Oh11bK22gWzbcNolD4kuFyCkN5R9AslMVhE4Sog
+__hash__: Lo5mDdFpUWTO987dhr2RCW_EF40Jx-NjmhCprOKycjc
 seo:
   title: LINEログインボタンのデザインが変わりました
   description: LINEアプリアイコンのデザイン変更に伴い、LINEログインボタンのデザインガイドラインを更新しました。

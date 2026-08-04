@@ -4,7 +4,7 @@ navigation: true
 description: 友だち数遷移の情報は、LINE DevelopersコンソールからLINE Official Account Managerに統合されました。
 meta: '{"date":"2019-02-19 17:00 UTC","tags":"Console, Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-02-19-numer-of-friends-removed
-__hash__: ZiVJpDtqYaANBhtsvf6kMNtSYWwEUE7TPRsAcWQjeYM
+__hash__: oGpCDyQtEnQNDyqSxgFKHAy_I2TeHoABnLI8qznbq08
 seo:
   title: LINE Developersコンソール：友だち数遷移情報の確認方法が変更されました
   description: 友だち数遷移の情報は、LINE DevelopersコンソールからLINE Official Account Managerに統合されました。

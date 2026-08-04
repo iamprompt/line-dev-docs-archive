@@ -4,7 +4,7 @@ navigation: true
 description: How to integrate the LINE SDK for iOS Swift into your project
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/setting-up-project
-__hash__: 0IOfFHWoM7g6xtCBIYiRG7Tyw0avIk7cabrhzFehL9M
+__hash__: deIWpbWrRM23h5zb1aA935TkvmjdRrBDKaD6cjkqxRY
 seo:
   title: Setting up your project
   description: How to integrate the LINE SDK for iOS Swift into your project

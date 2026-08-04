@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリが、iPhoneの「Siriからの提案」で表示されるようになりました。
 meta: '{"date":"2022-05-20 00:00 UTC","tags":"line-mini-app, ios","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-05-20-line-mini-apps-appear-in-siri-suggestions
-__hash__: 1qR-UlcNJr_epWn7eTX20h2aW9Tct5Wt7iyqjjR8Ius
+__hash__: Ujp-boh5ej7GMqeGZ3OR-SH-4FE0xPkKU9bcmigWN6M
 seo:
   title: LINEミニアプリが「Siriからの提案」で表示されるようになりました
   description: LINEミニアプリが、iPhoneの「Siriからの提案」で表示されるようになりました。

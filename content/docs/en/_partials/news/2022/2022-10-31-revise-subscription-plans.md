@@ -8,7 +8,7 @@ description: >-
   changed.
 meta: '{"date":"2022-10-31 01:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2022/2022-10-31-revise-subscription-plans
-__hash__: Y0_Ba12rqVXM4dyU515_z9Z9ulsId6bTky4QnRG6fCY
+__hash__: EN9KAxiIT59vPh2sLBud8Jp4adlUiRfz-hpelab427E
 seo:
   title: Revision of LINE Official Account subscription plans
   description: >-

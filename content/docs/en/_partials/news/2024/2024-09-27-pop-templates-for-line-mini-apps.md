@@ -8,7 +8,7 @@ description: >-
   ordering in stores, presenting membership and loyalty cards, etc.
 meta: '{"date":"2024-09-27 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-09-27-pop-templates-for-line-mini-apps
-__hash__: ykfjzqg_tEkkCvhLRUZ9r7dhRtEagGslOV1qoWpoYsc
+__hash__: Czs1o2fdbYQAcM4b7RsnshZo0JEUxP-wwOrJrrfTvfY
 seo:
   title: In-store POP templates for LINE MINI Apps are now available
   description: >-

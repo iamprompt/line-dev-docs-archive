@@ -6,7 +6,7 @@ description: >-
   the LINE APP ICON GUIDELINE.
 meta: '{"date":"2021-09-01 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2021/2021-09-01-line-login-button-guideline
-__hash__: mOblJexQFbUdff2IgDpYCqiG-NTuNuBIfWXwwghHmDA
+__hash__: _RZty9y2qS4MGhccwmXdnSYu1xWzT9IGwe8uJLjsbYQ
 seo:
   title: LINE Login button design guidelines have been changed
   description: >-

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-09-15 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-09-15-messaging-api-outage
-__hash__: Mb5BPxnvRe3VnDCY9lm64h0XhZVjGGo2GqQfkdCxTro
+__hash__: GjnGqKR-K_7Tc8hdLM6yb4JVv7o-8nsG7YNDYydJCDQ
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: |-

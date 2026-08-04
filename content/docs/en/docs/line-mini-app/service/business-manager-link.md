@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/business-manager-link
-__hash__: VL1dwFaUuadNubgw0tOGDB4a4pf9sPYVSWV8nV8K8wQ
+__hash__: xtEismKrjq_O0CRo_AAb5AdeK7O2v9fJyGyMVi4t6WI
 seo:
   title: Link a LINE MINI App channel to a Business Manager organization
   description: ''

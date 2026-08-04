@@ -6,7 +6,7 @@ description: >-
   DevelopersコンソールのLINEミニアプリチャネルにおいて、ユーザーインターフェースの大幅な変更を予定しています。これに伴い、下記の期間において、LINEミニアプリの審査を一時停止します。ご利用のユーザー様にはご不便をおかけいたしますが、何卒ご理解いただきますようお願い申し上げます。
 meta: '{"date":"2024-11-12 00:00 UTC","tags":"line-mini-app, console","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-11-12-line-mini-app-review
-__hash__: 90WHAKip_WqcAA2K2RU3KdJzW3pQ8qSAC1IQaVzYf4c
+__hash__: Uf1svMTmhlBJlb1u3tRt2ZuFo3_a8rJOx2TzQJac3dg
 seo:
   title: LINEミニアプリ 機能追加に伴う一時的な審査停止のお知らせ
   description: >-

@@ -9,7 +9,7 @@ meta: >-
   Blockchain","locale":"ja"}
 path: >-
   /ja/_partials/news/2021/2021-06-17-liff-cannot-be-used-with-blockchain-service-channels
-__hash__: y-ftpci4GowIkaGYKOfaq7ltt-YvALw2ddWrkZxoxXI
+__hash__: pKoYIbX6aHPO8yLNu46rm4pGHRWZzsYmpV79dQlzc3M
 seo:
   title: ブロックチェーンサービスのチャネルにはLIFFアプリを追加できなくなります
   description: >-

@@ -10,7 +10,7 @@ description: >-
   use the service with a web browser in October 2025.
 meta: '{"date":"2025-04-02 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-04-02-mini-app-browser
-__hash__: smX-_075bqI7YFzloBFYoMy15erelO8sTbZljO8C-lE
+__hash__: hZFH5TbVdFBGoTGuwx4Sh8uDStJUIGmJd9n14l6z-Q4
 seo:
   title: >-
     In October 2025, all LINE MINI App users will be able to use the service in

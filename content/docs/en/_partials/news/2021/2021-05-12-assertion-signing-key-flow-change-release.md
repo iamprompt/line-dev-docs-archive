@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-05-12 00:00 UTC","tags":"Console, LINE Login, Messaging API,
   LINE MINI app, LINE Blockchain","locale":"en"}
 path: /en/_partials/news/2021/2021-05-12-assertion-signing-key-flow-change-release
-__hash__: t6B9e5eAGOBIhteZF-naV1qbEJsvptMOpc_NTF_AxHc
+__hash__: SaLkazUDnfJZ-pnB-w2QkslCQ_H5VpS1wn93tbgYDS8
 seo:
   title: The procedure for issuing an assertion signing key has changed
   description: >-

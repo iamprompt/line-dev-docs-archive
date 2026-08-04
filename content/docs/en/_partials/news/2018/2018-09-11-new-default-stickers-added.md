@@ -6,7 +6,7 @@ description: >-
   462. You can create a smarter, more expressive bot with various new stickers.
 meta: '{"date":"2018-09-11 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-09-11-new-default-stickers-added
-__hash__: wL2jpCrzCBE82-TEYs9n97jxrbyHMF9o1tiayZdUsGM
+__hash__: U7Mfop12567ppAv47PUnF4MiQKt5WnNt4xPJAmod7k4
 seo:
   title: More stickers are available for your bot
   description: >-

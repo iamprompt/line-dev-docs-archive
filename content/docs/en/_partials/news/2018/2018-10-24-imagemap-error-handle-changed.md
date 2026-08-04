@@ -6,7 +6,7 @@ description: >-
   message.
 meta: '{"date":"2018-10-24 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-10-24-imagemap-error-handle-changed
-__hash__: Umb1KVnFzlf69cC1-z2NdXYqbx_vJ1fqkxlJgNBx2WM
+__hash__: PHAW4hI8zXytvJpypj2olDaDNUhhaSkIsGUxh95gOxo
 seo:
   title: Change to the imagemap message is scheduled
   description: >-

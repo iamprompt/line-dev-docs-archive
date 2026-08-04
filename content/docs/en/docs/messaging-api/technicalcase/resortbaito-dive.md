@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/resortbaito-dive
-__hash__: 8xiPHn5sJBmlQwYyKGJu6Z6j8iTyiyQyp-thtvQRkzw
+__hash__: F62KRtWlIKLXGEkibGuLDV47F1yCuCBb_3dh2nExf7A
 seo:
   title: >-
     A case study on the development of "Resort Baito Dive" to enhance temporary

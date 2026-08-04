@@ -4,7 +4,7 @@ navigation: true
 description: LINE APIの稼働状況や障害状況を確認できるサイト、LINE API Statusを公開しました。
 meta: '{"date":"2021-04-05 00:00 UTC","tags":"LINE Platform","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-05-line-api-status
-__hash__: yExdBcM925GjO2eQc84Tmeb8P0syW71xo3fdoQR6Kls
+__hash__: N2xNYpg7guEniw4DGowR7PXtpu2W9ty5QFKzYPjIMyE
 seo:
   title: サービスの稼働状況を確認できるLINE API Statusを公開しました
   description: LINE APIの稼働状況や障害状況を確認できるサイト、LINE API Statusを公開しました。

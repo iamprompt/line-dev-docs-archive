@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/demo/smartretail-demo
-__hash__: x98dKSorJwKzEW4Ctk0LkUPn26HSNbPc-G6q2V4gMJI
+__hash__: Jk_bVqbstILvua1hbt9ny84YdEN2aM3qkP0vFQNXin8
 seo:
   title: Purchase experience demo
   description: null

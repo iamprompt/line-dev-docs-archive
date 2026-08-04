@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/partner-docs/mark-as-read
-__hash__: dLQXq24GYX7Eoq434DLm4O_XxlYZlLQ_XnPnM87pfbc
+__hash__: iuH6AwiE7iW0epOSd4WJW_vh-J-MWQR_vRRJAYD3w7s
 seo:
   title: Mark as read API (old)
   description: null

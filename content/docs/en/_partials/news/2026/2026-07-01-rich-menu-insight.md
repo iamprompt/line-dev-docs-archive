@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-07-01 01:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2026/2026-07-01-rich-menu-insight
-__hash__: qHgJNIn0Kug1901SJb7AQ6_6VCvAf-mAwwdRb-7CV9U
+__hash__: s1t_C-RE7qyRTS0cdIXz0PZynwDPxJJAEgyUs5ZfKds
 seo:
   title: >-
     You can now retrieve statistics for rich menus created using the Messaging

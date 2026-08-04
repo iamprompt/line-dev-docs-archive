@@ -11,7 +11,7 @@ description: >-
   want them to wait by displaying a loading animation.
 meta: '{"date":"2024-04-17 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-04-17-loading-indicator
-__hash__: p_-N5VJEtWEW2vRL-yG3KQKKRhBPnLxyqlrxZyjc-zA
+__hash__: vz1WsSBG3iecTHtZEBcdtTX-S4L1wzhSkf9feFZKuEI
 seo:
   title: >-
     In the Messaging API, you can now display loading animations on the chat

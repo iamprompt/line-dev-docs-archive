@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-11-20 7:21 UTC","tags":"social-plugins,
   sp-friend","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-use-personal-line-id
-__hash__: m9ojp1oHPHrV3z0Dm1CqB7pwFTaRIApWLju3QsZov14
+__hash__: 5K4ydUpCrg1WhpcxZSHFWmxiFr8x0vahtBVGVEGLZhg
 seo:
   title: When installing the Add friend button, can I use my personal LINE ID?
   description: |-

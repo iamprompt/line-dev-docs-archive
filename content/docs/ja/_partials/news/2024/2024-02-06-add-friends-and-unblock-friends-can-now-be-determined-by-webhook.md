@@ -7,7 +7,7 @@ description: >-
 meta: '{"date":"2024-02-06 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: >-
   /ja/_partials/news/2024/2024-02-06-add-friends-and-unblock-friends-can-now-be-determined-by-webhook
-__hash__: mb0xhU2ZmmmX8qB6asbWXaLELYXmNTdnrALC7RqgdnE
+__hash__: InL3Z6qH-PYPjvhkSG26yvSx0-UioxWBKfGjDNKjbLY
 seo:
   title: Messaging APIにおいて、友だち追加とブロック解除がWebhookのフォローイベントで判別できるようになりました
   description: >-

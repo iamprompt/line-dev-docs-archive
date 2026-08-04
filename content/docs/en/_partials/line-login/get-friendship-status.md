@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-login/get-friendship-status
-__hash__: Jkxahj8TYXH_weHyxL_tS-Tp-ekQTIB611TSCVtNmfs
+__hash__: MtWI_wWLMmjXtBDbxUvvGiKB0nw4c5aejdgw1_FvFPk
 seo:
   description: ''
 ---

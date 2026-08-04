@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2021-03-23 00:00 UTC","tags":"Outage report, LIFF","locale":"en"}'
 path: /en/_partials/news/2021/2021-03-23-liff-outage
-__hash__: ZeFERbRNvIrANSZXhLBWFaKZfUmvWazLojM3_TKJQFc
+__hash__: 2aPpMt4nqImyFh4RsLQQaI_Zy4jrIIfanXVSJ0WrTaU
 seo:
   title: '[Resolved/Updated] Notice about partial LIFF API outage'
   description: ''

@@ -6,7 +6,7 @@ description: >-
   webhook events released yesterday. We correct it as below:
 meta: '{"date":"2018-11-09 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-09-doc-correction
-__hash__: cdy-2gHmgBc0dFdSBGjBTBK5edBUrVySVJ78yXseuBM
+__hash__: 8vdSiWIcPqGDOOBT3f-n4FFvw98y9LCcp3OsoNTwdbs
 seo:
   title: Correction to documentation
   description: >-

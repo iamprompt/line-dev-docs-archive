@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/create-payment
-__hash__: 9vqPERqxPZXxkjVODGFKg8b78zs7XYclOFGfUX4n_bw
+__hash__: VBbdw5OOWEiRw_qNMh7XtuT6y3_y0iGSgLx3LBeFLdI
 seo:
   description: ''
 ---

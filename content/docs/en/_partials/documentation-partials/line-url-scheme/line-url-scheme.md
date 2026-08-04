@@ -7,7 +7,7 @@ description: >-
   LINE contents from rich menus with the action to open the LINE URL scheme.
 meta: '{}'
 path: /en/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: BeEdeAjvdozQIKYSUOLHw61sWxUMztoNOHTw5-GYw-4
+__hash__: QQedIDqAan6pP3I_iQPx7wH3b7sEC1MMHChhwmbZSIU
 seo:
   description: >-
     You can open Sticker Shop, LIFF app or camera with the LINE URL scheme. The

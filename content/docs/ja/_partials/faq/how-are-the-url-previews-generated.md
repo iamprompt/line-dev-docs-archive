@@ -6,7 +6,7 @@ meta: >-
   {"date":"2017-07-24 00:00 UTC","tags":"line-app, line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/how-are-the-url-previews-generated
-__hash__: UbQ2zsX-E3nvKFwyJl6taUrixQgzPM8CoaEvDpSxU9A
+__hash__: MEEq3kacMKMSk5WFT4-Brm-cxan9z5n_6eBrVg04IEg
 seo:
   title: トークとLINE VOOM内のURLプレビューはどのようにして生成されますか？
   description: LINEでは、ウェブサイトのOpen Graphタグを使用してURLプレビューが生成されます。

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login-sdks/android-sdk/link-a-bot
-__hash__: 5cIe3WMUdvMuk3Q6Z5DgVzPy72bajdFhIE1CzbCLaBQ
+__hash__: OND8yai-Mk44ch-WeXdQH4lMo5V_qCAj5EiT1ndNjH8
 seo:
   title: Enabling the add friend option with the SDK
   description: null

@@ -4,7 +4,7 @@ navigation: true
 description: LINEバージョン14.6.0より、LINEミニアプリにおいて、カメラやマイクへのアクセス権を求めるポップアップをスキップできるようになりました。
 meta: '{"date":"2024-04-24 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-04-24-skip-pop-up-asking-for-access
-__hash__: Xn-o2tlthD8Jor83bnRmh2mnjCTq-offJej8zSTGrtA
+__hash__: DenXSMMKri8058bgUKWIwfoWPq_6vLgoSWgy4tSPieI
 seo:
   title: LINEミニアプリにおいて、カメラやマイクへのアクセス権を求めるポップアップをスキップできるようになりました
   description: LINEバージョン14.6.0より、LINEミニアプリにおいて、カメラやマイクへのアクセス権を求めるポップアップをスキップできるようになりました。

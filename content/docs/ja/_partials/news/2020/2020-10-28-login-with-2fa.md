@@ -4,7 +4,7 @@ navigation: true
 description: 2020年10月19日より、LINE Developersコンソールへのログインに、二要素認証が導入されました。
 meta: '{"date":"2020-10-28 00:00 UTC","tags":"Console","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-10-28-login-with-2fa
-__hash__: fYogL8oDxfw48VvPaXNSIq6zdnChC_k3tpyN8wh07pA
+__hash__: BQt4PvpXooFmRVJ8iak5GNmH_IBnh8CDJrgKwnm8Vbw
 seo:
   title: LINE Developersコンソールへのログインに二要素認証が導入されました
   description: 2020年10月19日より、LINE Developersコンソールへのログインに、二要素認証が導入されました。

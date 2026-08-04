@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-8-17 11:41 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-share-certain-selection-of-text
-__hash__: MHpbBxFhx-9EesIQtJVH_Qv3DpphEJxbhczpy3VgE1U
+__hash__: OErQFIov32DGCuMTHDSs2I237MasD5zQp0U1opMsQt4
 seo:
   title: 「LINEで送る」ボタンからテキストの一部のみをシェアできますか？
   description: >-

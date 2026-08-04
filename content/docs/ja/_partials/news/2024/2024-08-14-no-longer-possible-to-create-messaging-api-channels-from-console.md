@@ -5,7 +5,7 @@ description: 2024年9月4日をもって、LINE DevelopersコンソールからM
 meta: '{"date":"2024-08-14 00:00 UTC","tags":"messaging-api, console","locale":"ja"}'
 path: >-
   /ja/_partials/news/2024/2024-08-14-no-longer-possible-to-create-messaging-api-channels-from-console
-__hash__: E76K3vzlxR8yLL4IKvAg1BEr7XdosLemrf9iGZTiyus
+__hash__: WU_sl9sqGiHr4B2so-11UcGDWgNV7dhv36yynhdNJDk
 seo:
   title: 2024年9月4日をもってLINE DevelopersコンソールからMessaging APIチャネルを直接作成することができなくなります
   description: 2024年9月4日をもって、LINE DevelopersコンソールからMessaging APIチャネルを直接作成することができなくなります。

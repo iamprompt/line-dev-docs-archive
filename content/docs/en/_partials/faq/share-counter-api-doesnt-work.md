@@ -12,7 +12,7 @@ meta: >-
   {"date":"2021-8-17 11:41 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"en"}
 path: /en/_partials/faq/share-counter-api-doesnt-work
-__hash__: 7UQe9P1e_xDplyxnQm_DE6R1ihs8XlNScOGQCOCDz58
+__hash__: wLVV78YG-qkRFMc-TJprZs09fQFd_8Wr5YESyFH5r0M
 seo:
   title: >-
     I set a custom icon Share button using the share counter API documentation,

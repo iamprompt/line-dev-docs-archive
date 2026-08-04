@@ -8,7 +8,7 @@ description: >-
   Japan.
 meta: '{"date":"2026-02-19 00:00 UTC","tags":"line-mini-app, console","locale":"en"}'
 path: /en/_partials/news/2026/2026-02-19-line-mini-apps-in-app-purchase
-__hash__: KNCaS4A6_TLMPaRAi41hP5AFhb224MU0mwtSyYsfAI4
+__hash__: 1SMnjqO3gSrISnhauJXGfS2oBNIHlwC4Xh_B48JeprE
 seo:
   title: >-
     In-app purchase feature for LINE MINI Apps in Japan has been officially

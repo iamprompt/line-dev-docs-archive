@@ -9,7 +9,7 @@ description: >-
   be used by anyone.
 meta: '{"date":"2022-09-28 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2022/2022-09-28-messaging-api-updated
-__hash__: SQ77xSMB4hz-VZBksoYvU3JvWGjBTYB6ilBtI9CzRYw
+__hash__: 3j7q2582JuKpKxjdiGMIEdlPxGLrLFrWw1LS72u90z8
 seo:
   title: >-
     "Feature for getting statistics per aggregation unit" is now available in

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-11-27 06:00 UTC","tags":"console, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2024/2024-11-27-line-mini-app
-__hash__: UUqy4todqFqYtmaeLdH_ahWK5um_RNNLxGqJ1HgoXPE
+__hash__: 9XkiZ0epbx5F36EdipttaFnIvCOne-PDfviKXzERyyY
 seo:
   title: 【更新】2024年11月28日より、どなたでもLINEミニアプリを公開できるようになりました
   description: ''

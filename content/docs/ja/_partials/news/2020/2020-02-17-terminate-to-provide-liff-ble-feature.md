@@ -4,7 +4,7 @@ navigation: true
 description: 技術的な問題があり、2020年2月10日に、LINE Things Developer TrialでのLIFFアプリのBLE機能の新規提供を終了しました。
 meta: '{"date":"2020-02-17 00:00 UTC","tags":"LINE Things","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-02-17-terminate-to-provide-liff-ble-feature
-__hash__: jZkJLikjZzUFg0ZcL38QXvrQtIxBrkP0uYNxsgcOa_M
+__hash__: mMmi6ATs2lBmxk2SF1_qYZ16Il0yU46IxtUNohi09F0
 seo:
   title: LINE ThingsでのLIFFアプリのBLE機能の新規提供を終了しました
   description: >-

@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-11-18 11:41 UTC","tags":"social-plugins,
   sp-like","priority":1000,"locale":"en"}
 path: /en/_partials/faq/click-sp-button-in-mobile-doesnt-work
-__hash__: Wm4xjFbCVjZzL4BAl1NzMCWQuzfI3015PdXdX2fDkkk
+__hash__: PJF40aT5dnp54earOqpvLqghEG-Bw0fly-1Wv5AOH6k
 seo:
   title: 'Clicking the Like button on the mobile version doesn''t work. '
   description: >-

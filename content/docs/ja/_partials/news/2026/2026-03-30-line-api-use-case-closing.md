@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-03-30 00:00 UTC","tags":"line-developers-site,
   docs","locale":"ja"}
 path: /ja/_partials/news/2026/2026-03-30-line-api-use-case-closing
-__hash__: KUAdtN3KwPhwWPSo90R_Q_ymmqD6cld5-RHPzTg6mJI
+__hash__: 2uN17t1xu6qt0ynERbCzYpaQ6Ad8EnmHCYbsVS0iGJk
 seo:
   title: LINE API Use Caseサイトからコンテンツの一部をLINE Developersサイトに移管しました
   description: >-

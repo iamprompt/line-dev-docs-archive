@@ -9,7 +9,7 @@ description: >-
   applicable service fees will be charged.
 meta: '{"date":"2026-06-05 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-06-05-iap-service-fees
-__hash__: qslfXg-xpsUO4TfZ-GC3olCyjdsnzLR6sUEIvOZee24
+__hash__: WFnPQQeoF0r2bD1kBaLRoE3EWq2EJS6Arkf_ao98MGw
 seo:
   title: >-
     End of the no-fee period and revisions to the In-App Purchase Terms of Use

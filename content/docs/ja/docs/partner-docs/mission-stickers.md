@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/partner-docs/mission-stickers
-__hash__: CzSoy4g7B_8UjTJO8xp7LfGYGs27AhTprBXgJaUeWMQ
+__hash__: rTaMMUnEbqQJ6v4tjB1ldOSKhJEQfG5L1NKV5w8MjNc
 seo:
   title: ミッションスタンプAPI
   description: null

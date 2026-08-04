@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-11-08 00:00 UTC","tags":"Messaging API, Rich
   menu","locale":"ja"}
 path: /ja/_partials/news/2017/2017-11-08-rich-menu-spec-change
-__hash__: 1uxlPuXDzNSvicDbnSx0Rr-jnD4izNJL0nF6JqTQkpE
+__hash__: BxdKdkycoVv7KA0pbm_LLix7SJ79QCzaSwJnVOmtzWA
 seo:
   title: リッチメニューリソースの仕様が変更されました
   description: >-

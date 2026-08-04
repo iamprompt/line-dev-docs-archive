@@ -10,7 +10,7 @@ meta: >-
   {"date":"2024-12-02 00:00 UTC","tags":"line-official-account,
   messaging-api","locale":"en"}
 path: /en/_partials/news/2024/2024-12-02-line-emoji-added
-__hash__: VTKo1t1BLOJQFoJWocQDoJu9WV4uu-WGU86MIaHNObM
+__hash__: haj3j5fR6iDAAG9xu31Oti-qoI8xEctqsruenQWZVFU
 seo:
   title: New LINE emojis are available with Messaging API
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2021-02-02 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-02-02-convert-url-to-replace
-__hash__: lKt20CFYoc9j8NMUD77goOOHEtt74NI-EQL1bs622GU
+__hash__: OPAhXew51wjr0Fo2jKZ08KXCVAMF_uGi8dAWa58KDCg
 seo:
   title: 【更新】LIFFにおいて［連結］で生成されたURLを［置換（後方互換性モード）］仕様に変換するコード例を公開しました
   description: ''

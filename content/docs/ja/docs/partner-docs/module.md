@@ -6,7 +6,7 @@ description: >-
   APIを利用した高度な機能を簡単に追加することができます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module
-__hash__: gCrG3XXSobZ7Tl_Q0idkhBg9F_WFOjP7JE5lZmbi_fU
+__hash__: 00Kf623V4yp3Fbv04HyS_wAd_4ijnjGGYsjbQJvj6go
 seo:
   title: モジュール
   description: >-

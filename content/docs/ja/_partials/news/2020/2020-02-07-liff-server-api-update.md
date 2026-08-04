@@ -6,7 +6,7 @@ description: >-
   v1のサーバーAPIを2020年3月31日に廃止する告知をしましたが、影響範囲を考慮し提供を継続します。
 meta: '{"date":"2020-02-07 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-02-07-liff-server-api-update
-__hash__: Q9MLEzWQPVej593362QxExiU02mYVa5ABmV8gMfVu68
+__hash__: 44iWCN37x741PJhWYcIUOkwmbN0LAqxJB-wBfHSn9dM
 seo:
   title: LIFF v1 廃止対象APIと廃止スケジュール変更のお知らせ
   description: >-

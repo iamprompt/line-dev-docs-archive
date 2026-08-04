@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-06-07 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-see-who-has-read-a-message-i-have-sent
-__hash__: 2K9Do-7-kiUQgNpQYQyuVPnZOXJXl6zr_VJhvB9eDlU
+__hash__: mamVZJW60qr9qTzD_6Bx-UZ1oAvY9L7IWfbdflYt-R4
 seo:
   title: LINE公式アカウントから送信したメッセージが未読か既読かを、ユーザー単位で確認する方法はありますか？
   description: >-

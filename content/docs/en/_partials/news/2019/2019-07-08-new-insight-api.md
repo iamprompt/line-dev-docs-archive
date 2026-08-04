@@ -7,7 +7,7 @@ description: >-
   Account:
 meta: '{"date":"2019-07-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-07-08-new-insight-api
-__hash__: ql5bHrmds0LD1NgWFsRI00FBcV8vjUJGsN85fEPfcVU
+__hash__: PWIKnf6WDDhxAUXV5BIzLlAzDrAI1w5lo-FysFcLBvs
 seo:
   title: New Messaging API endpoints for friend statistics
   description: >-

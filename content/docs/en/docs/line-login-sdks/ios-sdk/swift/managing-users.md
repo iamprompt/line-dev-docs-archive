@@ -6,7 +6,7 @@ description: >-
   Swift.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/managing-users
-__hash__: smTX2Ci7qu4ooquSLgGv5lNH_6vbXs7BpIvRFo53Qto
+__hash__: o-6fx4cY-AW-pCYFrA_xp1iau-LtrR_8Fm-fiX-3CIc
 seo:
   title: Managing users
   description: >-

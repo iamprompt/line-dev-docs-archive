@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/link-a-bot
-__hash__: DGgv3MLVYZl6B4UoniZMJTpkxUlGVUnCFo-h_SvU0yI
+__hash__: LnzfWyryAz_61xlV75aamUdaHZffinmzcIr-A_Cspys
 seo:
   title: SDKで友だち追加オプションを利用する
   description: null

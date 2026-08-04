@@ -6,7 +6,7 @@ description: >-
   APIのpush/reply APIリクエスト拡張機能を一般公開しました。
 meta: '{"date":"2020-03-17 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-03-17-icon-nickname-switch
-__hash__: O4Es5goRLKQMHrnL428mZBU0Ljn4XdtLTl4YD2pS7Bk
+__hash__: oDd09ggC_vwTSZgJpLL46ktgcoGkpsmlmRtqIp-1E2M
 seo:
   title: アイコンおよび表示名が変更できるようになりました
   description: >-

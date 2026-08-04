@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-03-31 00:00 UTC","tags":"Maintenance, Messaging API, Options for
   corporate customers","locale":"ja"}
 path: /ja/_partials/news/2022/2022-03-31-messaging-api-maintenance
-__hash__: bdx4TWGN86trvesy2uxoQCzX-40WIU85KIpkjGP_xww
+__hash__: zDRS7nbbRzW9On5hfvYcSNq9Ss9Ukse2OoO26w3pytM
 seo:
   title: Messaging API メンテナンスのお知らせ
   description: >-

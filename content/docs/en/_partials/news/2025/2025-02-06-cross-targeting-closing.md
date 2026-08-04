@@ -10,7 +10,7 @@ meta: >-
   {"date":"2025-02-06 00:00 UTC","tags":"messaging-api, end-of-life,
   life-cycle","locale":"en"}
 path: /en/_partials/news/2025/2025-02-06-cross-targeting-closing
-__hash__: szeVbLpNZNtP6Tr5kjKIquQyAHQR-oKsYV69Xb-tbes
+__hash__: vxWkOFbgWiZro0iOMZxO86-PiqtRnzI4Ho-VX3Y7Rkc
 seo:
   title: >-
     As of March 26, 2025, we will no longer provide the feature to change the
@@ -48,7 +48,7 @@ Even after the feature to set the authority level of an audience to public or pr
 | LINE Official Account Manager | Messaging API                 | Private         | ❌                                | ✅                     |
 | LINE Official Account Manager | Messaging API                 | Public          | ✅                                | ✅                     |
 
-You can use the audience created by the Messaging API with the tools other than LINE Official Account Manager, such as [LINE Ads Manager](https://admanager.line.biz/){rel="[\"nofollow\"]"}, by using the audience sharing function in [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}.
+You can use the audience created by the Messaging API with the tools other than LINE Official Account Manager, such as [LINE Ads Manager](https://admanager.line.biz/){rel="[\"nofollow\"]"}, by using the audience sharing function in [Business Manager](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}.
 
 In addition, you can share audiences between Messaging API channels under the same provider by using the audience sharing function in the Business Manager. However, only verified accounts and :glossary-tooltip[[premium accounts](/glossary/#premium-account)]{glossary-id="premium-account"} can set audience sharing in Business Manager.
 

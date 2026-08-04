@@ -11,7 +11,7 @@ description: >-
   remained the same or was blank.
 meta: '{"date":"2021-05-31 01:00 UTC","tags":"LIFF, LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2021/2021-05-31-liff-workaround-for-webkit-bug
-__hash__: Bkld9vCQk3cyR93WICre_AhsG1fEBhQ5eIFKPlTczAQ
+__hash__: '-Uhdb_LCn-nb9bgpXpe9x7O3cH5V78Gzfj1wC7p3FII'
 seo:
   title: >-
     We made a temporary fix for a bug which prevented content from being

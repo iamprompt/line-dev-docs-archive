@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-03-18 01:00 UTC","tags":"Outage report, Options for corporate
   customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-03-18-mark-as-read-outage
-__hash__: dNZGgD9J1ViUhEL5Mb-qkqKlHBbEETsElKqroRNbdXY
+__hash__: U8kPulfjz8PObrBO9ouVnTAMOncuf7rrhZm2m-BbGzU
 seo:
   title: 【復旧済み】Mark-as-Read API障害のお知らせ
   description: >-

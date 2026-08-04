@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/group-chats
-__hash__: jIYqJPoH5uTAj3ofisQ1n26f_oM_ACqoGI_KC4Relyw
+__hash__: pRjrXJHjfR5kavUQzdVxVqT9IvQdmXU2iWvkTYAsiTM
 seo:
   title: Group chats and multi-person chats
   description: null

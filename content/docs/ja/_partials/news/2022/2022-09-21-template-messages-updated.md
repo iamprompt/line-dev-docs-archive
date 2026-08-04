@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-09-21 00:00 UTC","tags":"messaging-api,
   template-messages","locale":"ja"}
 path: /ja/_partials/news/2022/2022-09-21-template-messages-updated
-__hash__: B4NbxzVyKHaaCBiw0S94YB_39KVhbTojIaQ6a_K2CFc
+__hash__: GmGKdSpk7kb73kq2-KeJgw4ZzIFYVCk-e2uo7UxAUDs
 seo:
   title: 【更新】Messaging APIのテンプレートメッセージが、デスクトップ版のLINEに対応しました
   description: ''

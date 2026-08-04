@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-12-17 00:00 UTC","tags":"line-login, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2024/2024-12-17-line-login-liff-roadmap
-__hash__: gqk0ugY18CrnE7IEtv5SlL3CKnqSja-o_FR8o8imzLo
+__hash__: DLWA6DPHgxqWt1rZmPsb06y1S4AA1Q3Q0_6KcHLttKw
 seo:
   title: LINEログインとLIFFのロードマップを更新しました
   description: >-

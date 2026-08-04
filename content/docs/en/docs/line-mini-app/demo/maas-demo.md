@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/demo/maas-demo
-__hash__: syLR2uKGSyZ6v5znfgHH3dHMui0CeiQ2knEzbvgen10
+__hash__: TVN1Bgl3jWP42LFY8hbsJZuTTBMIirGWDe81so81Wvw
 seo:
   title: Travel experience demo
   description: null

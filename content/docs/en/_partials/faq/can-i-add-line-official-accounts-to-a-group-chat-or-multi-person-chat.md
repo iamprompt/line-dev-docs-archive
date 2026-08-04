@@ -9,7 +9,7 @@ meta: >-
   messaging-api","priority":1000,"locale":"en"}
 path: >-
   /en/_partials/faq/can-i-add-line-official-accounts-to-a-group-chat-or-multi-person-chat
-__hash__: vMC528GsdNoiqq_1zKE47T89bxWxFh8OqqW5KPdlR1Y
+__hash__: ToyrNRBA3Oj2IjiGatiW6P-4y1ftQt8NqIlzdBHGA_A
 seo:
   title: Can I add LINE Official Accounts to a group chat or multi-person chat?
   description: >-

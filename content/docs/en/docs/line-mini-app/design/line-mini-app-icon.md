@@ -7,7 +7,7 @@ description: >-
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/design/line-mini-app-icon
-__hash__: cfjBCaNexlHzY1EsTwGJSBrXMaiP9f8atLsDOWY2Y8w
+__hash__: m6CerXZODPCfFzmW0vR_m2RHzxLMRuH9jjwzZu_qIxA
 seo:
   title: LINE MINI App icon specifications and guidelines
   description: >-

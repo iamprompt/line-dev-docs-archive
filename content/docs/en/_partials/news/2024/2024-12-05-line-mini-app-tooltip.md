@@ -6,7 +6,7 @@ description: >-
   shortcut to your LINE MINI App to the home screen.
 meta: '{"date":"2024-12-05 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-12-05-line-mini-app-tooltip
-__hash__: euFeAbSXxYTjB9TRZPlpIYcIuNvtHsDJAbAJdGabyY8
+__hash__: VhOkAt1SbHAEjCeHDQ-5G9y4NYBQ_OIpHhVmzf6m-9Y
 seo:
   title: LINE MINI Apps now display a tooltip for adding shortcuts to the home screen
   description: >-

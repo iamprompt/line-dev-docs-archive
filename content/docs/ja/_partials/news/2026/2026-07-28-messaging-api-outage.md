@@ -7,7 +7,7 @@ meta: >-
   line-login, liff, line-mini-app, messaging-api,
   options-for-corporate-customers, console","locale":"ja"}
 path: /ja/_partials/news/2026/2026-07-28-messaging-api-outage
-__hash__: XKqD5wLKcXJrFksPI497k-AA9WWK7Pg-mgl9dSeQ02o
+__hash__: m5NB9fr_APNsxoqozYweG6d4GDfkTif1eFX_BCWaGfc
 seo:
   title: 【復旧済み／更新】LINEプラットフォーム障害のお知らせ
   description: ''

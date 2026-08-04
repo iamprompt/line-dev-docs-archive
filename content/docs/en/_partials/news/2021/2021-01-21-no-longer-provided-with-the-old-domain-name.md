@@ -7,7 +7,7 @@ description: >-
   changed from "api.line.me" to "api-data.line.me".
 meta: '{"date":"2021-01-21 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-01-21-no-longer-provided-with-the-old-domain-name
-__hash__: 9iUhA5qoHefg4LiYD18m_uC-ZGYNJ4qYiwEfer8E2TU
+__hash__: QsIfIff7uAHo5b4dQ453UdIuaqJpOGlzWSzZN1DfXkE
 seo:
   title: Some endpoints have stopped accepting requests with the old domain name
   description: >-

@@ -6,7 +6,7 @@ description: >-
   functions. We'll let you know as soon as this situation changes.
 meta: '{"date":"2019-11-29 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2019/2019-11-29-liff-functions-suspended
-__hash__: kA6w3bFKhucpgrf_2X0yTBF1fs4nDtFmKvrnenq5W5Q
+__hash__: lsj-lvye3SkLghjDQC658jg8wpjk3kaZd7Hw6CF15Js
 seo:
   title: Some LIFF functions suspended
   description: >-

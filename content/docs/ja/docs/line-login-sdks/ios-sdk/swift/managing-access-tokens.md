@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/managing-access-tokens
-__hash__: mfn1Iv-EGX6UCTUimJ66xj3pTVcDcmxzrNdyuqgnicc
+__hash__: 3jcGKnIcTC15T82b7L9PtFKdvmA6WcJ1PTnSG-q3rn4
 seo:
   title: アクセストークンを管理する
   description: null

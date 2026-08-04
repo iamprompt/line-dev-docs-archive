@@ -9,7 +9,7 @@ meta: >-
   {"date":"2022-03-24 00:00 UTC","tags":"outage-report, messaging-api,
   options-for-corporate-customers","locale":"en"}
 path: /en/_partials/news/2022/2022-03-24-messaging-api-outage
-__hash__: kZhDvmxF9i3M5cVUqiYHmJEYjW3uei_wUylaE7mqrZ4
+__hash__: 28M7ZsxY8SrcQ0n7oRNyGQN4fH0G--zScwZlT1JdRIE
 seo:
   title: '[Resolved] Notice of failure in some of the insight''s APIs'
   description: >-

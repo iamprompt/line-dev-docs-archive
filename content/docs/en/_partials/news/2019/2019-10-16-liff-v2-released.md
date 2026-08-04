@@ -6,7 +6,7 @@ description: >-
   LINE.
 meta: '{"date":"2019-10-16 07:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2019/2019-10-16-liff-v2-released
-__hash__: QC-XrlacoPwuKGJRwormqzD0VO4IXnULeajRcCH01ds
+__hash__: A3ZQa8Qo9YxaehDNrpT21-jvA8515NpgnPRtPhWfZjQ
 seo:
   title: LIFF v2 released
   description: >-

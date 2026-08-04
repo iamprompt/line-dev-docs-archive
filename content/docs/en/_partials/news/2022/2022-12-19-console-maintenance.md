@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-12-19 00:00 UTC","tags":"console, liff, line-mini-app,
   maintenance","locale":"en"}
 path: /en/_partials/news/2022/2022-12-19-console-maintenance
-__hash__: 5IGpqIA8KESPieHvFUNXAFA2oWpbp5Zj0WgjlaTyBoY
+__hash__: ygGPXDfZ4eLo81TXNXzXZrX5uDNlpohvLaJoiZl80ag
 seo:
   title: '[Updated] LINE Developers Console maintenance notice'
   description: ''

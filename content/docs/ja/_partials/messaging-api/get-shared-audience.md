@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-shared-audience
-__hash__: Oyi9njX82y0YKCv7rF3AOddNU3lmaT8VbpvnqbDLN14
+__hash__: bK6ev8rWGRb0XSSvdOq8uKyd_zGKC42af-dAPutpAYc
 seo:
   description: ''
 ---
@@ -13,12 +13,12 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/audienceGroup/shared/{audienceGroupId}"}::reference-with-code
   :::reference-content
-  [ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}で共有されたオーディエンスの情報を取得します。
+  [ビジネスマネージャー](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}で共有されたオーディエンスの情報を取得します。
 
     ::::admonition{title="ビジネスマネージャーについて" type="tip"}
     ビジネスマネージャーを使うことで、特定のオーディエンスを複数のサービス間で共有できます。ビジネスマネージャーでオーディエンスを横断利用することで、エンドユーザーとのより良いコミュニケーションが実現できます。
 
-    詳しくは、『LINE DATA SOLUTION』の「[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}」を参照してください。
+    詳しくは、『LINEヤフー for Business』の「[ビジネスマネージャー](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}」を参照してください。
     ::::
   :::
 
@@ -104,7 +104,7 @@ seo:
       - `MESSAGING_API`：Messaging APIで作成したオーディエンス
       - `POINT_AD`：[LINEポイントAD](https://www.lycbiz.com/jp/service/line-point-ad/){rel="[\"nofollow\"]"}で作成したオーディエンス
       - `AD_MANAGER`：[LINE広告](https://admanager.line.biz/){rel="[\"nofollow\"]"}で作成したオーディエンス
-      - `BUSINESS_MANAGER`：[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}で作成したオーディエンス
+      - `BUSINESS_MANAGER`：[ビジネスマネージャー](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}で作成したオーディエンス
       - `YAHOO_DISPLAY_ADS`：[LINEヤフー広告 ディスプレイ広告](https://www.lycbiz.com/jp/service/ly-ads/displayads-auc/){rel="[\"nofollow\"]"}で作成したオーディエンス
       :::::
 
@@ -547,7 +547,7 @@ seo:
 
       - `OA_MANAGER`：[LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}で作成したオーディエンス
       - `AD_MANAGER`：[LINE広告](https://admanager.line.biz/){rel="[\"nofollow\"]"}で作成したオーディエンス
-      - `BUSINESS_MANAGER`：[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}で作成したオーディエンス
+      - `BUSINESS_MANAGER`：[ビジネスマネージャー](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}で作成したオーディエンス
       :::::
 
       :::::parameter-table-entry

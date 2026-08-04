@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/in-app-purchase/iap-product-id
-__hash__: yTEceQ3uVXI_31yfQcxOyqLBK8ahdVIeax-HF_-ExlM
+__hash__: ljbz_BEfD3vAKG9-R_IfO7H5uf23h-9hBaOtgxjQJhg
 seo:
   title: List of product IDs for items available for purchase via in-app purchase
   description: null

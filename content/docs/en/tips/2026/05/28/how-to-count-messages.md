@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-05-28 00:00
   UTC","tags":"messaging-api","locale":"en","sidebar":false}
 path: /en/tips/2026/05/28/how-to-count-messages
-__hash__: aTX6-NYxzVcYkqL1KnH-QiVG4saVG_rWTajeMazrS1M
+__hash__: GTHxT_5RjslNBEKQkLAT6evmcL7HBpRfN4XvNbcSQFY
 seo:
   title: How message counts are calculated in the Messaging API
   description: >-

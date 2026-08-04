@@ -8,7 +8,7 @@ description: >-
   will change when opening URLs that support Universal Links or App Links.
 meta: '{"date":"2025-11-04 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-11-04-liff-openwindow
-__hash__: tR1npxGA-wRE4x32uwA6ucYLVwgePXcMmYjbJkjk8s0
+__hash__: _mH0T2Wkfl6Pw9N4yrm0haQp2toPxCpaFvipribcVLw
 seo:
   title: >-
     On LINE version 15.20.0 or later, the behavior of the liff.openWindow()

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2023-03-07 00:00 UTC","tags":"outage-report,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2023/2023-03-07-home-tab-outage
-__hash__: xVDnEeL_jTGIeEJCuuxf4ldcHjyCnh4L30KEn4BL24Q
+__hash__: QP1wcO8O6BD2QkmW3SgyqyYda2C1Ebm4AomjQbHx6zY
 seo:
   title: '[Resolved] Notice about service outage for the Home tab in the LINE app'
   description: >-

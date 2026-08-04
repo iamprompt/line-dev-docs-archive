@@ -4,7 +4,7 @@ navigation: true
 description: LINEのバージョン12.13.0以降のLIFFブラウザにおいて、以下の仕様変更を行います。
 meta: '{"date":"2022-08-04 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-08-04-liff-update-line-12-13-0
-__hash__: gQOmlUuZ0qPboAmeOuHx90a2EyDlVOz9DFF1EbCEzkA
+__hash__: Ye987v_9WPMVVFHGIbf_2nX3PuJP62h2qYZHugpX-w8
 seo:
   title: LINEのバージョン12.13.0以降のLIFFブラウザにおいて、外部サイトへの遷移時およびLIFF間遷移時の仕様を変更します
   description: LINEのバージョン12.13.0以降のLIFFブラウザにおいて、以下の仕様変更を行います。

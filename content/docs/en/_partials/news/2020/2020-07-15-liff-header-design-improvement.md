@@ -4,7 +4,7 @@ navigation: true
 description: As announced on July 6, 2020, a new feature has been added to the LIFF header.
 meta: '{"date":"2020-07-15 00:00 UTC","tags":"LIFF","new":"false","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-15-liff-header-design-improvement
-__hash__: ATyX7OP9dpMijx6b27igiqbcAPJVo8TV8ezDfYVL7Io
+__hash__: fTUV0qDAXQxJNGhpQZyioN615YIc15nkcFsV51LGqxg
 seo:
   title: New feature has been added to the LIFF header
   description: >-

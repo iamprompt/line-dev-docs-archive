@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-10-25 00:00 UTC","tags":"LINE Login, Social API, LINE SDK, iOS,
   Android","locale":"en"}
 path: /en/_partials/news/2019/2019-10-25-id-token-verification-api
-__hash__: T50odEBGPsff0PeTjvpxOUVdCjYYTNl4eZrJpBVZycY
+__hash__: JZ9b2eqdXZOzUK6Xzb1LiWe_qO1A_nFouI0PwuH4QvE
 seo:
   title: New ID token verification endpoint released
   description: >-

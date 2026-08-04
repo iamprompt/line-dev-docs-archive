@@ -6,7 +6,7 @@ description: >-
   server API to update a LIFF app. We apologize for any inconvenience.
 meta: '{"date":"2018-11-16 01:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-16-put-api-about-liff
-__hash__: J78mAx4cEl3ZvnhDTF8VBoVYV9ioQmPnWGNt64zLpQY
+__hash__: AFROea7vbQGTAGult_7O57lPV4Y_WhMN1SNEDHQ3Rx4
 seo:
   title: Correction to documentation
   description: >-

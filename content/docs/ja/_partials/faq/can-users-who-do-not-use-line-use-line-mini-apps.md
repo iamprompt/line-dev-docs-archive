@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-26 00:00
   UTC","tags":"line-mini-app","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-users-who-do-not-use-line-use-line-mini-apps
-__hash__: tdpeigFC95il_4EO0-_UzoHNNM6iH8743Zo-Z51hAXw
+__hash__: zIiRCNax6U6nZ0MTvnjMo6jky_hE5dFbr0J4aHP-2OY
 seo:
   title: LINEアプリをインストールしていないユーザーでもLINEミニアプリを利用できますか？
   description: LINEアプリをインストールしていないユーザーがLINEミニアプリを開いた場合は、ウェブブラウザでLINEミニアプリのサービスを提供できます。

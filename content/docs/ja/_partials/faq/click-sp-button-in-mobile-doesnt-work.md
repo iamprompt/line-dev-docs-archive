@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-11-18 11:41 UTC","tags":"social-plugins,
   sp-like","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/click-sp-button-in-mobile-doesnt-work
-__hash__: exjyBrXwlNftSIgKR2oDt34PVQ6Up_P-iB_jyIfzEG0
+__hash__: 2BpO7batN6R3cPPq8E5pL92KAsGM3ECutSPckWUbzLY
 seo:
   title: モバイル版で「いいね」ボタンをクリックしても正常に動作しません。
   description: >-

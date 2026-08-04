@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/opening-liff-app
-__hash__: VgVDlhFiIWADKf4vVRXK-dHSq-0BrFmD4bqmkSgr1s4
+__hash__: KOgXE2EcX01vyEuC9RW-ToBfzFWDHl2xkXkjP7sG9wU
 seo:
   title: LIFFアプリを開く
   description: ''

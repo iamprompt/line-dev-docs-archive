@@ -10,7 +10,7 @@ meta: >-
   line-official-account","locale":"en"}
 path: >-
   /en/_partials/news/2023/2023-06-26-modification-of-the-aggregation-logic-of-the-line-official-accounts-insight
-__hash__: abJoY81VBR5Se1EGWhMa4GtAgqL6u5-CUARZ38t-OFc
+__hash__: DDwjirxRFiwezZL1R-NwkxAiBKJ9n-o6431OcgkC1m0
 seo:
   title: We'll modify the aggregation logic of the LINE Official Accounts insight
   description: >-

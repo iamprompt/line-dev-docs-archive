@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/demo/maas-demo
-__hash__: cjp8rzfdSugyLU3q2_QeJi1SRPlv_PjYDB5Ag2FYevU
+__hash__: sTh1sykorqfCRyBvra7d9PiMsJz1PUDGEApKyYwl_ag
 seo:
   title: 旅行体験デモ
   description: null

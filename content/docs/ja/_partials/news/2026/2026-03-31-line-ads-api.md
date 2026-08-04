@@ -4,7 +4,7 @@ navigation: true
 description: 日本におけるLINE広告の提供終了に伴い、LINE広告APIの提供を2027年3月に終了しますのでお知らせします。
 meta: '{"date":"2026-03-31 00:00 UTC","tags":"line-ads, end-of-life","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-03-31-line-ads-api
-__hash__: NEu2gQrSE1sb6zsgpBZMHQOoa_COhDDw61YjC-Y5gvo
+__hash__: uJdpxkDq-0S9LtNV8nvyxGGkglAVNxmn-sSWLVQhE-8
 seo:
   title: 日本におけるLINE広告の提供終了に伴い、LINE広告APIの提供を2027年3月に終了します
   description: 日本におけるLINE広告の提供終了に伴い、LINE広告APIの提供を2027年3月に終了しますのでお知らせします。

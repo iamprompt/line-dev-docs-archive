@@ -7,7 +7,7 @@ description: >-
   channel can be done via the API.
 meta: '{"date":"2022-03-09 01:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-03-09-liff-server-api
-__hash__: eF8jCyDHFxsHg-lcNxftTcesqyssF_rl7DcxpIGek1A
+__hash__: fQyMe25eqq6i_Y6OhUygJZ6A4c9J9cGA1XLhD7gn3Js
 seo:
   title: Use the correct endpoint when making requests to LIFF's server API
   description: >-

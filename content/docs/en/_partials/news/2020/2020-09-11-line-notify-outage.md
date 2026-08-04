@@ -7,7 +7,7 @@ description: >-
   that this may have caused.
 meta: '{"date":"2020-09-11 00:00 UTC","tags":"Outage report","locale":"en"}'
 path: /en/_partials/news/2020/2020-09-11-line-notify-outage
-__hash__: sR_qxz97jwystN2ewGPSzUDITnG3lnLJPBeGBUKUNzY
+__hash__: q3-dDBvyLb5kbTDk-BIYLSbORWrjFmIKXHz2qhaZfPs
 seo:
   title: '[Resolved] Notice about service outage for LINE Notify'
   description: >-

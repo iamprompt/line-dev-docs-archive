@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-07-28 00:00 UTC","tags":"LINE Login, Deprecated, Life
   cycle","locale":"ja"}
 path: /ja/_partials/news/2021/2021-07-28-line-login-v2-0-is-deprecated
-__hash__: 8HC-1C-_G3lxDlNINP-5C8we_PWJOF7QaZPycWbV-Nw
+__hash__: itNefm7vpEZSQY4G4Kuo6O__8oaWODH-19r5W0engIQ
 seo:
   title: LINEログイン v2.0は非推奨です
   description: LINEログイン v2.0は非推奨です。

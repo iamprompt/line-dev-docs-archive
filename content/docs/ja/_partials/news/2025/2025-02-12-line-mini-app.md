@@ -6,7 +6,7 @@ description: >-
   Framework（LIFF）とLINEミニアプリは、ブランド統合を予定しています。この統合により、LIFFはLINEミニアプリに統合されます。統合後はLINEミニアプリとして、LIFFアプリで実現できた機能の実装や新機能の追加などを行う予定です。そのため、LIFFアプリを新規作成する際は、LINEミニアプリとして作成することを推奨します。
 meta: '{"date":"2025-02-12 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-02-12-line-mini-app
-__hash__: _Dv6trgOyPX3R-Y82MIrPCL9RHqAgbMkPL1DpbcZzJg
+__hash__: UkALH0XLZslGB-YMWqxfORAFMeNr20Oh1X-yzLPB3Po
 seo:
   title: LIFFアプリを新規作成する際は、LINEミニアプリとして作成することを推奨します
   description: >-

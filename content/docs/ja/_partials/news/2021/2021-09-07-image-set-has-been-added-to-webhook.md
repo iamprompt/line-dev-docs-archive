@@ -6,7 +6,7 @@ description: >-
   APIでは、ユーザーが2つの画像を同時に送信すると、LINEプラットフォームからボットサーバーにWebhookイベントが2つ送られます。このWebhookに含まれる画像のメッセージオブジェクトに、以下のフィールドが追加されました。
 meta: '{"date":"2021-09-07 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-09-07-image-set-has-been-added-to-webhook
-__hash__: VjiA_0kTA2PjYiTQ9SwzQ2qGYhHkIH_Bj5TaSk1ckHY
+__hash__: OTsADig_9OTCzNFVNiwmF0Kcap5Ieqi2TzSx-v2FEUc
 seo:
   title: 複数画像の同時送信をWebhookで判別できるようになりました
   description: >-

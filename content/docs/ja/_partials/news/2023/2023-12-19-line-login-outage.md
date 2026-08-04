@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-12-19 00:00 UTC","tags":"outage-report,
   line-login","locale":"ja"}
 path: /ja/_partials/news/2023/2023-12-19-line-login-outage
-__hash__: 6tMoSupxPSk_BrS8rjZ5vP24ku9yVZkugYtJLETZ2ng
+__hash__: 833qt0PI2VyCiYozRS7hgsNF_VaYOAFdA0dX0eX_0o8
 seo:
   title: 【復旧済み】LINEログイン障害のお知らせ
   description: LINEログインにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。

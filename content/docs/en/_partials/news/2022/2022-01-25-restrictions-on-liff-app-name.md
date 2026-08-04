@@ -8,7 +8,7 @@ description: >-
   no longer be allowed in LIFF app name.
 meta: '{"date":"2022-01-25 00:00 UTC","tags":"liff","locale":"en"}'
 path: /en/_partials/news/2022/2022-01-25-restrictions-on-liff-app-name
-__hash__: 5QofmQQFy0pGD0tzp8RcdKEFW8ksKqTc9Edwla8-1Uc
+__hash__: aUsHAxdggJZoO_HVVQFFmFUS6-yZ6GqmGecF5idWPHM
 seo:
   title: >-
     Some reserved words will no longer be allowed in LIFF app name as of January

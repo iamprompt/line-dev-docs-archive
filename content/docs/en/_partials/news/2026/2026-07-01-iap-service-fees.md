@@ -8,7 +8,7 @@ description: >-
   LINE MINI App in-app purchase feature.
 meta: '{"date":"2026-07-01 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-07-01-iap-service-fees
-__hash__: BiRuOboVaRIZXL8MiWIiw6HRmneS4G1EtiOC_JiFOLw
+__hash__: prW9ADTJ31-Rj85A9UaLC4xVUjplLHMXQa3uaMMXjH4
 seo:
   title: >-
     Notice of the introduction of service fees for the LINE MINI App in-app

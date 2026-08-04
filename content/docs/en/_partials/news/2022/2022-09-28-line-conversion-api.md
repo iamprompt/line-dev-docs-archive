@@ -4,7 +4,7 @@ navigation: true
 description: The LINE Conversion API is now available.
 meta: '{"date":"2022-09-28 00:00 UTC","tags":"LINE Ads","locale":"en"}'
 path: /en/_partials/news/2022/2022-09-28-line-conversion-api
-__hash__: 3ncH3USKA1y-wsJWnlB5QgFvvBkvXRHGWI7fXT8cojQ
+__hash__: P37r9o4ZfJHefsM3yfX2XzDE1Pq6TN33nTWQUCMFJp0
 seo:
   title: LINE Conversion API is now available
   description: The LINE Conversion API is now available.

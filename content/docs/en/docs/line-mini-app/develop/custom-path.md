@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/custom-path
-__hash__: tsyZKFQT_UlWxVXchsxZfuMEcpj60ttk8iyDO6Ru_Ek
+__hash__: 29rkc3ukUcxPMpmQb0Bx41agd8mmn5dSz87r3O_oVO4
 seo:
   title: Configuring Custom Path
   description: null

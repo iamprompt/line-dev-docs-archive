@@ -10,7 +10,7 @@ description: >-
   actions to specified areas.
 meta: '{"date":"2017-10-23 00:00 UTC","tags":"Messaging API, Rich menu","local":"en"}'
 path: /en/_partials/news/2017/2017-10-23-rich-menu-release
-__hash__: WYiYtrNW71kzIn7bMPgGzMe5z4IU1b-RliCKMvxsVFo
+__hash__: eqDa0Dm-fGE3RgdMNIUTc0VdhF_sR1lyZDLzNYFg138
 seo:
   title: Rich menu features for Messaging API released
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: GitHubのLINE Platform feedbackリポジトリは2019年2月15日に運用を終了します。
 meta: '{"date":"2019-02-07 17:00 UTC","tags":"LINE Platform","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-02-07-line-platform-feedback-closed
-__hash__: b6SkMETzbalmu_xU7aW8NpE4TSaptP2XE-94TzLweaw
+__hash__: QP8H2Q43wT8n-fYyAdjK5FVaO7l85UdaXy5iQn_YCok
 seo:
   title: LINE Platform feedbackリポジトリの運用終了のお知らせ
   description: GitHubのLINE Platform feedbackリポジトリは2019年2月15日に運用を終了します。

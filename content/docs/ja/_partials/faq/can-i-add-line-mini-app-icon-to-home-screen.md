@@ -7,7 +7,7 @@ meta: >-
   {"date":"2026-05-26 00:00
   UTC","tags":"line-mini-app","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-add-line-mini-app-icon-to-home-screen
-__hash__: DQiXdK3HPOqDkhfe11PdVpeltVxtrpc1qbVUPsRv9w0
+__hash__: YMGfZAjeh50qMgaOmmAFkdrAdW2maQVakjcSr8iFIJo
 seo:
   title: LINEミニアプリのアイコンを端末のホーム画面に追加できますか？
   description: >-

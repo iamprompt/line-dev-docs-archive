@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/message-object-audio
-__hash__: uD_57o1iP-hUC3oSOb8vSkq2hmXMBYBvRFPzo05SEeQ
+__hash__: nZa_xZV6C8jNaVID5Ijp4QhfTivFrGpi7PR1dgnrA_I
 seo:
   description: ''
 ---

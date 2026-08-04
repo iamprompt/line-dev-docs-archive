@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールにおいて、LINEミニアプリチャネルのタブ名を変更したり、情報の入力欄を移動したりするなどの変更をしました。
 meta: '{"date":"2022-07-28 00:00 UTC","tags":"console, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-07-28-line-mini-app-tab
-__hash__: se6QZri5e2xTj6-XC9XsEYW-OeCcJeHopW8-CQs17ZI
+__hash__: DEf-K24hY2WGWbtJOb1uNWkd_ghfiOT-Q91u4BJn3sk
 seo:
   title: LINE Developersコンソールにおいて、LINEミニアプリチャネルのタブを整理しました
   description: LINE Developersコンソールにおいて、LINEミニアプリチャネルのタブ名を変更したり、情報の入力欄を移動したりするなどの変更をしました。

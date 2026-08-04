@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-04-22 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-04-22-stop-using-impression-audiences
-__hash__: XYQV6wyBZ8lo1ciGGQQ3Lf5lVO3mi_iO3NXONRKRf5Y
+__hash__: LmypDyUb3KEmEDSDwqxAOa7MA9APaAhV2hfbUG4xluY
 seo:
   title: 【復旧済み／更新】「オーディエンス」と「分析」の一部APIの集計不具合のお知らせ
   description: ''

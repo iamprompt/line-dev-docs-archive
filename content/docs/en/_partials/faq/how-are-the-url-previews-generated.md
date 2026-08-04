@@ -6,7 +6,7 @@ meta: >-
   {"date":"2017-07-24 00:00 UTC","tags":"line-app, line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/how-are-the-url-previews-generated
-__hash__: vfsKk34CJvs5RxqmkvJOqbknQKv90GIXnvSsOk5qVC8
+__hash__: 0gOTdYJAdo3H9IoWTM_Wgq8Y_MtqyDPUKRxKH6AgmRs
 seo:
   title: How are the URL previews in chats and on LINE VOOM generated?
   description: LINE uses Open Graph Protocol tags from websites to generate URL previews.

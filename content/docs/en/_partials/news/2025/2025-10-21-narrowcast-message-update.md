@@ -8,7 +8,7 @@ description: >-
   the limit object to prevent partial delivery of narrowcast messages.
 meta: '{"date":"2025-10-21 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2025/2025-10-21-narrowcast-message-update
-__hash__: gc3gGywPqQ2tiuvT63iEVYISlhecUb0OFbc8soEEmnY
+__hash__: bTb7frEq2zgcdFa1-B2ohYZEF4G6Asr1-r7e74R8M7g
 seo:
   title: >-
     In the Messaging API, a property to prevent partial delivery of narrowcast

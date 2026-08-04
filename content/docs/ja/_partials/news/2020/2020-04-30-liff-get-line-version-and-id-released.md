@@ -4,7 +4,7 @@ navigation: true
 description: LIFF v2に、liff.getLineVersion()メソッドおよびliff.idプロパティが追加されました。
 meta: '{"date":"2020-04-30 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-04-30-liff-get-line-version-and-id-released
-__hash__: 7FfvfKiai9Vkh6xJYgN1QlaxLn5cizL9RvjfmcOUZ4k
+__hash__: an2GGf3TvYKvjx0ou7Zy884mFsuCd7REkT_YCmK7BQk
 seo:
   title: LIFF v2にliff.getLineVersion()およびliff.idが追加されました
   description: LIFF v2に、liff.getLineVersion()メソッドおよびliff.idプロパティが追加されました。

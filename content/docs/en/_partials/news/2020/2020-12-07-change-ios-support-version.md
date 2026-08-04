@@ -7,7 +7,7 @@ description: >-
   opened on iOS 11 or earlier versions.
 meta: '{"date":"2020-12-07 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-12-07-change-ios-support-version
-__hash__: h9X1K6qwpO-JbCqevlILm5AY14ai0eB5nJwHhFeTEOg
+__hash__: 9-NZCk77xfs7XsCyLiQUkcxweTWHMrfQua5c9ZzbX4c
 seo:
   title: iOS support version for a LIFF browser has changed
   description: >-

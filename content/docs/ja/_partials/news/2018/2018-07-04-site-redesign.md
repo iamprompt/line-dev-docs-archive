@@ -6,7 +6,7 @@ description: >-
   Developersコンソールの機能自体に変更はありませんが、デベロッパーエクスペリエンスが改善され、より快適にLINEプラットフォームプロダクトをご利用いただけるようになりました。ここでは、サイトの主な変更点についてご説明します。
 meta: '{"date":"2018-07-04 00:00 UTC","tags":"Docs, Console","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-07-04-site-redesign
-__hash__: IXM8FNGtDQCJdn0D9yM1uJUMniT6FkWfoDbqi4HnOzM
+__hash__: 9c-aYCa0b4K3pdMk-mm2xcNZJactBpbpT4txSFRu4co
 seo:
   title: LINE Developersサイトのデザインが新しくなりました
   description: >-

@@ -8,7 +8,7 @@ description: >-
   options in the LINE MINI App.
 meta: '{"date":"2024-03-07 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-03-07-add-to-home-screen
-__hash__: fuQ29cp8uW4KM9knKlQtxWez6BpAvXJSUl30kfqJgXM
+__hash__: ZaSou9q8Eiun9EsPVmDg5ZIiShmb82lZYSzFWPzMtbg
 seo:
   title: >-
     On LINE version 14.3.0 or later, shortcuts to your LINE MINI App can now be

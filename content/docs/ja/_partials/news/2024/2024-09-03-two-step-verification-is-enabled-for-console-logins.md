@@ -5,7 +5,7 @@ description: 2024年8月30日にお知らせしたとおり、セキュリティ
 meta: '{"date":"2024-09-03 00:00 UTC","tags":"console","locale":"ja"}'
 path: >-
   /ja/_partials/news/2024/2024-09-03-two-step-verification-is-enabled-for-console-logins
-__hash__: pNRq8eq9aC0N_kxSxxO3atJG8GqM3mUk7fx2Rxms1OI
+__hash__: RXaJSJZA_sIKgru4pxZ94Vx5pwsu_wy1HVyCbv1LIuw
 seo:
   title: 2024年9月3日にLINE Developersコンソールへのログインで2段階認証が有効化されました
   description: 2024年8月30日にお知らせしたとおり、セキュリティ強化の観点から、2024年9月3日にLINEビジネスIDにおいて2段階認証が有効化されました。

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-03-09 00:00 UTC","tags":"liff, line-mini-app, LINE Login,
   console","locale":"ja"}
 path: /ja/_partials/news/2022/2022-03-09-permission-consent-screen-will-be-updated
-__hash__: RbRk5rFzpxf_xAl9iqXxIN0FQ7lYYjGuMzvsRMey5VA
+__hash__: 9uFllYZWPjISCsOaOZgHXhUXBahj4mwUVpL6uYVuwK8
 seo:
   title: 【対応推奨】チャネル権限の同意画面のデザイン変更に伴い、会社・事業者の所在国・地域を速やかに設定してください
   description: チャネル権限の同意画面へのデザイン変更を2022年3月24日に予定しています。

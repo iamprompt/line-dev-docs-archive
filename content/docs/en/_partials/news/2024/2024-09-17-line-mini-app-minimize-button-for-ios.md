@@ -8,7 +8,7 @@ description: >-
   from the header.
 meta: '{"date":"2024-09-17 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-09-17-line-mini-app-minimize-button-for-ios
-__hash__: _Fjllq_m-AafNyWs7megcIrHmgHWzN-hMlE-RlOdDjc
+__hash__: Zx2x5gIPmXviRrM6-0Sv9RmDG6ViKjKcwIYd1TSJvQE
 seo:
   title: >-
     On LINE for iOS version 14.15.1 or later, you can now minimize LINE MINI

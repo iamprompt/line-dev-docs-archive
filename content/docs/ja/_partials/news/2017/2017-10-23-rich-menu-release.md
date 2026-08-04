@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-10-23 00:00 UTC","tags":"Messaging API, Rich
   menu","locale":"ja"}
 path: /ja/_partials/news/2017/2017-10-23-rich-menu-release
-__hash__: TnEb8cUY2IysZe2p6HawiqeT0IcOHJp6BUsWnQLAFo8
+__hash__: YUddDoWzFlz_eUCLrEklruXhkOUKJdzTBCsZEsEuD5g
 seo:
   title: Messaging APIのリッチメニュー機能がリリースされました
   description: >-

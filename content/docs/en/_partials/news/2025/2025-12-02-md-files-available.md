@@ -11,7 +11,7 @@ meta: >-
   {"date":"2025-12-02 00:00 UTC","tags":"line-developers-site,
   docs","locale":"en"}
 path: /en/_partials/news/2025/2025-12-02-md-files-available
-__hash__: _9rgnL50Hk1mKiAkSJsin_gOSJaiy8MRB-0GZWcLzzk
+__hash__: ed3vNJUhGbtbtDyrlg_-ivP5qc8KrExBkO2iBMyMg2U
 seo:
   title: >-
     In the LINE Developers site, we've started providing documentation in

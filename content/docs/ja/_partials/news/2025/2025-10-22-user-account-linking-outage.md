@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-10-22 00:00 UTC","tags":"Outage report, messaging-api,
   line-login","locale":"ja"}
 path: /ja/_partials/news/2025/2025-10-22-user-account-linking-outage
-__hash__: ZqV2zhFKIQbvBcwIPWQXUHqBSxKzKnHglVB-ANabrOI
+__hash__: ITiVjLUjcvscDkWFVBW-2UxdrdXR-CaDXCfEd1jQo0o
 seo:
   title: 【復旧済み】「ユーザーアカウントの連携」不具合のお知らせ
   description: >-

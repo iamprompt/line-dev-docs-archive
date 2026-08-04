@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/permanent-link-create-url
-__hash__: jwBwGbmYRGgE408eIEB13M0vG1dUwAZC38xQrmRMq4M
+__hash__: m8ziBtE9P6kPNxZLQQwM_FylXr22F3T_IuUjlPepuiU
 seo:
   description: ''
 ---

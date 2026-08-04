@@ -6,7 +6,7 @@ description: >-
   Web Token（JWT）を使用するようになったことでセキュリティが強化されています。
 meta: '{"date":"2020-04-06 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-04-06-channel-access-token-apis-v2-1
-__hash__: donI_2phNv7XzRvsrbZLdwHiiOQSC6XUf3jqjpHr7ls
+__hash__: Pk_TaG7QWtpZoC4K-pkhBFplPkvSq86vSxRosH6tjAE
 seo:
   title: チャネルアクセストークンv2.1をリリースしました
   description: >-

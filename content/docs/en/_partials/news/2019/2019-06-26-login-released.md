@@ -4,7 +4,7 @@ navigation: true
 description: 'We''ve added new parameters and properties to LINE Login v2.1:'
 meta: '{"date":"2019-06-26 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2019/2019-06-26-login-released
-__hash__: FLSecsTWsZ1PGKt7YKFWu-dpt6fARKjzGWODcPidhG4
+__hash__: ab-tG8tHbtduN7LjFzgGskui0xSPzr-JC1DMUFEK-9A
 seo:
   title: 'LINE Login: new parameters and properties added'
   description: 'We''ve added new parameters and properties to LINE Login v2.1:'

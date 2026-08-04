@@ -5,7 +5,7 @@ description: >-
   ご自身が提供されているサービスの既存のユーザーアカウントを、ボットと友だちになっているLINEユーザーのアカウントとセキュアに連携できるようになりました。これにより、すでにお持ちのユーザー情報を活用し、LINEのボットを使ってより良いサービスを提供できます。
 meta: '{"date":"2018-03-29 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-03-29-account-link
-__hash__: iR2QZJ02AhV2LKDU26Mo1iJyYDwEjqvzCNdHnsFeeg4
+__hash__: KhPwHAWVotbVPISIYZreNlqY_0LF7X_17M8TODlJaAU
 seo:
   title: アカウント連携機能がリリースされました
   description: >-

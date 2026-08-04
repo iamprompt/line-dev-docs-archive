@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-05-12 00:00 UTC","tags":"Console, LINE Login, Messaging API,
   LINE MINI app, LINE Blockchain","locale":"ja"}
 path: /ja/_partials/news/2021/2021-05-12-assertion-signing-key-flow-change-release
-__hash__: NexNVyuqfGVYN3tIgZZiTz4B739tYOP7ctiwqqdRO50
+__hash__: tIRgK_-0vydYcXIml7ywVcsfpD0Qt0YTW-Ct4u5UxVo
 seo:
   title: アサーション署名キーの発行手順が変わりました
   description: 2021年4月1日に告知したとおり、アサーション署名キーを発行する手順を変更しました。

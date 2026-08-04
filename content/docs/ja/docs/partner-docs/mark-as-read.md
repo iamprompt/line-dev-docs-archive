@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/partner-docs/mark-as-read
-__hash__: qRciUtass4kbDDbULxqeXfwN2vzsldJHuecWFiCVELQ
+__hash__: _YX2UD-zjun5zRxwhaACg9hYAWkRDmkc0lDGCk4jzhs
 seo:
   title: 既読API（旧）
   description: null

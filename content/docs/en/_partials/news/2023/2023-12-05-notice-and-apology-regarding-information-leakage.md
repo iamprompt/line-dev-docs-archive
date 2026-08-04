@@ -14,7 +14,7 @@ meta: >-
   messaging-api, liff, line-mini-app, line-login","locale":"en"}
 path: >-
   /en/_partials/news/2023/2023-12-05-notice-and-apology-regarding-information-leakage
-__hash__: TPSqoHjQPCbiIiCTJvD6Of9c6gCGXwac0-x4b74QJ10
+__hash__: MPJLVutOwst7LZD0dBbsfIONDNxsUx4QNFj8Q7qgI84
 seo:
   title: >-
     Notification regarding information leakage due to unauthorized access and

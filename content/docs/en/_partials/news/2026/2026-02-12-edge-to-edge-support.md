@@ -8,7 +8,7 @@ description: >-
   LINE.
 meta: '{"date":"2026-02-12 01:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-02-12-edge-to-edge-support
-__hash__: DP3KK_JUkyi8KJ1DeSgRyxIaVW9nRjKCKb3NIchd85Y
+__hash__: CYq86PkLswW6wF4sjezpPMZ7TH0SpUHquXJ82320Y8I
 seo:
   title: >-
     Starting on 9 March 2026, edge-to-edge support in the Android version of

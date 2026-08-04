@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/mark-as-read
-__hash__: mKT0Wlj93k7ylm_jd4Bx5EPApbRugYcsiGsYK1PTr28
+__hash__: KYCiOMYuHA5oZID2PaVU4SN8HKmX_33JzuIeVi7p7_w
 seo:
   description: ''
 ---

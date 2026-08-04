@@ -7,7 +7,7 @@ description: >-
   URLスキームでLINEの機能を使う」を参照してください。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/install-guide/using-line-share-buttons
-__hash__: WaXpkC1Y-lBOX38272eAFpjMhkcelH5GQEW9wOw652U
+__hash__: bkQy4RjS90YA02nR4XSemOvuJSOOP3-pfCoO8tGbeZo
 seo:
   title: 「LINEで送る」ボタンを設置する
   description: >-

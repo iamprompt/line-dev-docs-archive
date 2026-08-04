@@ -4,7 +4,7 @@ navigation: true
 description: LINE Beacon
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-beacon
-__hash__: AFfDEtUBK6x1YdwuGk_Z80Ly-WjyNIm5ptWImmnS8Sk
+__hash__: YuE2NeN9u_-Q3s_Hdvt03j1SStvSaTHG4LlQqsGT6AE
 seo:
   title: LINE Beacon
   description: LINE Beacon

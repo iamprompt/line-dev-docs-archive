@@ -6,7 +6,7 @@ description: >-
   APIを組み込んだボットアプリの開発を簡単に始めることができます。公式SDKとコミュニティSDKの両方とも、オープンソースとして提供されておりさまざまなプログラミング言語で利用できます。
 meta: '{}'
 path: /ja/_partials/messaging-api/messaging-api-sdk
-__hash__: F9ZiIbo0ue6PT591G2XQOtfZ8CnoCyKuGgvPmezBpc4
+__hash__: dYjFtpETpb48uo30nFOcPMNk0ahETYWolYmNDQwPQXA
 seo:
   description: >-
     LINE Messaging API SDKには、ライブラリ、ツール、およびサンプルが含まれています。SDKを使えば、Messaging

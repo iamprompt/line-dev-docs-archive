@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-03-01 00:00 UTC","tags":"Outage report, Social API, LINE
   Login","locale":"en"}
 path: /en/_partials/news/2019/2019-03-01-social-api-outage
-__hash__: 2jRuayORwAT9qyL0ItxwyaQIP62Jo8_029VnSArHP3g
+__hash__: TqbE9omTswBCEkiPiYlvrrwLp0jFNpcIqqvdpTkhLnY
 seo:
   title: '[Resolved] Notice about service outage for LINE Login and the Social API'
   description: >-

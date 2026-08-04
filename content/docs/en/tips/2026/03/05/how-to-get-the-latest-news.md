@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-05 00:00 UTC","tags":"docs, line-developers-site,
   console","locale":"en","sidebar":false}
 path: /en/tips/2026/03/05/how-to-get-the-latest-news
-__hash__: B3H27dRL1COPiouA8iTrUjDmWf3HW__qbDhRCd5ILxc
+__hash__: taxB-NXXhNPrsh0SWz79LGBe05KFm5stJhEs1Su_0zY
 seo:
   title: Let's check out the latest news from the LINE Developers site
   description: '"Wait, when was this feature added?"'

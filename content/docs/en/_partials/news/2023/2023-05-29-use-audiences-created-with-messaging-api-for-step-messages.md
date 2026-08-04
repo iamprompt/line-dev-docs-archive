@@ -7,7 +7,7 @@ description: >-
 meta: '{"date":"2023-05-29 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: >-
   /en/_partials/news/2023/2023-05-29-use-audiences-created-with-messaging-api-for-step-messages
-__hash__: tC8w_YaHaJKZ68GuH4WbXkcid6w1ZHZuAJ7S_Rt3cJM
+__hash__: CcCT2GbgETB1uEFU0iERFGjx15TQLzKcMoPTX8Dh4AI
 seo:
   title: You can now use audiences created with the Messaging API for step messages
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: LINEバージョン15.12.0よりLIFFブラウザのアクションボタンのUIおよび仕様を変更します。
 meta: '{"date":"2025-08-04 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-08-04-multi-tab-view
-__hash__: c72SdQMhvpkJhvST7-jWyWFSSV45bCIX_HWjZX1MhuU
+__hash__: yGLR05rC468piO3o_wUnDhQNbVAMNNrfA-D5UXIbuec
 seo:
   title: LINEバージョン15.12.0より複数のLIFFアプリを同時利用できるようになり、LIFFアプリ間の切り替えがよりスムーズになりました
   description: LINEバージョン15.12.0よりLIFFブラウザのアクションボタンのUIおよび仕様を変更します。

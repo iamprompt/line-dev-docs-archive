@@ -8,7 +8,7 @@ description: >-
   be provided in the LINE Things Developer Trial when creating a new app.
 meta: '{"date":"2020-02-17 00:00 UTC","tags":"LINE Things","locale":"en"}'
 path: /en/_partials/news/2020/2020-02-17-terminate-to-provide-liff-ble-feature
-__hash__: 7jsCzzCksFW7ZnbhSNaqC2wMbg6wlhxy_jevvFv9XfI
+__hash__: H21oWlGl4KI_aNlHv5dA_Mr38SoVlixoe3KyvJEPB4Y
 seo:
   title: >-
     BLE functions for LIFF apps on LINE Things no longer provided when creating

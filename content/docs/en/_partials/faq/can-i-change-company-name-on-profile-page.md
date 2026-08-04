@@ -11,7 +11,7 @@ meta: >-
   {"date":"2021-06-21 00:00 UTC","tags":"console, line-platform,
   line-official-account, messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-change-company-name-on-profile-page
-__hash__: v5vA_v9XEHoY6Ja2RG8rnPe1B0stqMibD9kK133jvrQ
+__hash__: vllX4mN9cRkTuEkJ3UTcE4fiBA0-mAhqUfyYblZK6YM
 seo:
   title: >-
     Where can I change the company name displayed in the LINE Official Account
@@ -32,4 +32,4 @@ From the [LINE Developers Console](/console/), select provider, click **Settings
 
 It will take some time before the change of provider name is reflected on your business profile page.
 
-Similarly, you can change the corporate name and business name displayed when tapping the certification icon in [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}.
+Similarly, you can change the corporate name and business name displayed when tapping the certification icon in [Business Manager](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}.

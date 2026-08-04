@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-11-11 00:00 UTC","tags":"line-official-account,
   messaging-api","locale":"en"}
 path: /en/_partials/news/2024/2024-11-11-api-terms-of-use
-__hash__: eApGSTvWzMFTbXCTu9_jXQbv1gj4UNWVPQrc_Uy-tak
+__hash__: gIpt-qflGlNa_T8T4gY0OrZE805oWMyKfXB3MwOkYKg
 seo:
   title: >-
     [Updated] On November 26, 2024, we will revise the LINE Official Account API

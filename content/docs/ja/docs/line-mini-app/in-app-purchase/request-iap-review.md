@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/request-iap-review
-__hash__: A1IhIJsiZP8ssDGDZS-ddgP8otHhW6rLEcIiJNzlBrI
+__hash__: SJFNXQd46cFRT-nlhfXXCqoCduUHjScDKIYd0-SeBU0
 seo:
   title: アプリ内課金の利用を申請する
   description: null

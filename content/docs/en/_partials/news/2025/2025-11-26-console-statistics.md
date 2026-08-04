@@ -11,7 +11,7 @@ meta: >-
   {"date":"2025-11-26 00:00 UTC","tags":"console, end-of-life, messaging-api,
   options-for-corporate-customers","locale":"en"}
 path: /en/_partials/news/2025/2025-11-26-console-statistics
-__hash__: XErqOB8QDXuAHW32g3VgO71nI88ON8lPHWEABRHtqec
+__hash__: 6qnJftjcob8uTNDeV--5AX53aJordK2CYF6_025yi8E
 seo:
   title: >-
     As of November 26, 2025, we discontinued the feature to check the number of

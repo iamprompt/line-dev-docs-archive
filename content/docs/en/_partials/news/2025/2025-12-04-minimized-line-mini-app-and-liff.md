@@ -11,7 +11,7 @@ description: >-
   after they are minimized has also been changed.
 meta: '{"date":"2025-12-04 00:00 UTC","tags":"line-mini-app, liff","locale":"en"}'
 path: /en/_partials/news/2025/2025-12-04-minimized-line-mini-app-and-liff
-__hash__: PopVoR6ghg631mVC9gHHRTAdxxZzB6zffZZvFglbYxM
+__hash__: dT5Y38xtNV4BRxkVtIZ4ZVPEHcsCHwC7clm8cHCS0QY
 seo:
   title: >-
     In LINE version 15.20.0 or later, the behavior when minimizing the LINE MINI

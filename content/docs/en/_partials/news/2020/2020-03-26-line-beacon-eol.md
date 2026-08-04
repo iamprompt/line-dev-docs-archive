@@ -6,7 +6,7 @@ description: >-
   following LINE versions:
 meta: '{"date":"2020-03-26 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-03-26-line-beacon-eol
-__hash__: Lti-0x2Y8My-ulCjcJOEU3sQbX02Sel9cIzJu46X2hs
+__hash__: O18KdoDQkEmgwos3GND5YNnnf32GbEv5PIyQ85Y9inI
 seo:
   title: LINE Beacon no longer supported on several LINE versions
   description: >-

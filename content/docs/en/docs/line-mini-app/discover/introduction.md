@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App is a web application that runs on LINE.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/introduction
-__hash__: _0-cScQ0I5DeEimkIrPQXerU6Iv-BHNoPjQgHKEQhhQ
+__hash__: SwOwN0TcBHXg0R1fbuh1Th9TSOEfzYQEYFsvnoJKhEU
 seo:
   title: Introducing LINE MINI App
   description: LINE MINI App is a web application that runs on LINE.

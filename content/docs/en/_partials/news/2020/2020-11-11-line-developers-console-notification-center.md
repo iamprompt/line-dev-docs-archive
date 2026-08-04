@@ -6,7 +6,7 @@ description: >-
   we've added a notification center to the LINE Developers Console.
 meta: '{"date":"2020-11-11 00:00 UTC","tags":"Console","locale":"en"}'
 path: /en/_partials/news/2020/2020-11-11-line-developers-console-notification-center
-__hash__: LDyxnhst2rLT4AGxg_-meft_mTaN5pBOwlGhMujzIW4
+__hash__: D0w5dtOTUJ3XV_JFqiAD0nzkktpqNdnNDYekcdddJL8
 seo:
   title: Introducing the LINE Developers Console notification center
   description: >-

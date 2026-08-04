@@ -6,7 +6,7 @@ description: >-
   VOOMについて詳しくは、「リニューアルに伴う設定変更について」を参照してください。
 meta: '{"date":"2021-11-25 00:00 UTC","tags":"line-platform","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-25-timeline-has-been-revamped-as-line-voom
-__hash__: of6ZSLMv3-uc7OK3yb5UnbjrsPT5D_rEyWKJt0Oa8Pk
+__hash__: znM3U5M2EgIoyz0eJXWT4U48sYiukSGSIWcQVDYhwGI
 seo:
   title: タイムラインは動画プラットフォーム「LINE VOOM」にリニューアルしました
   description: >-

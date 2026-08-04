@@ -8,7 +8,7 @@ description: >-
   added the LINE Official Account as a friend.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/overview
-__hash__: zeNxSOEeWJIYIJm9aO11ixp2y24gkUO7sWx9a36Tmic
+__hash__: lGc5mUQ2frM8Y_Y-AsSOhC_c8ts8f0_eqckeBt397aY
 seo:
   title: LINE notification messages overview
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/add-to-home-screen
-__hash__: O7lVn_Mvt6UJj-wIMO7SG4DvO1SQ4cNGqiZGTIi1rMM
+__hash__: dp6BzDJ_3s5pCDU73YNKunjnxT0ijxV-ZMK9MMJL5pI
 seo:
   title: Add a shortcut to your LINE MINI App to the home screen of the user's device
   description: null

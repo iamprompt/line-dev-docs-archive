@@ -4,7 +4,7 @@ navigation: true
 description: LINE@アカウントはLINE公式アカウントに統合されることになりました。
 meta: '{"date":"2019-04-04 03:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-04-04-redesign-blog-article
-__hash__: uidpWNm7DF6rutkgcE5aYrSok1HjRyhYD83oAR0IEnM
+__hash__: X-byg9rCjJkspH0mc_7Kk2nBr9W9Pq785mbsdmMJZcI
 seo:
   title: Developer Trialプランの移行についてのご案内
   description: LINE@アカウントはLINE公式アカウントに統合されることになりました。

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/rich-menus-overview
-__hash__: 6UkhtrKz8zw9i6_bnmaoarFZyGhCwXDIEHgmyOmnTTU
+__hash__: QbMe0dBJSPjOH2dVHSD5fyxqTeHnC-xOG1swp1ABfSM
 seo:
   title: リッチメニューの概要
   description: null

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/specifications
-__hash__: JPI_sfAH06E8c6u-mS_PO3cfBGjenkZz0vt9teQ1Gpg
+__hash__: kk-zwqMg9xkty4KmTRdBMd9piNOJWVnWjNe6HCYdZP0
 seo:
   title: LINEミニアプリの仕様
   description: null

@@ -7,7 +7,7 @@ description: >-
   the LINE SDK into your application.
 meta: '{"date":"2015-08-17 00:00 UTC","tags":"iOS, LINE Login, Android"}'
 path: /ja/_partials/news/2015/2015-08-17-starters-released
-__hash__: 1-RUl7Dfh4F9hd7Fuxo0inopm9KnIELFeTSDzrv8UfA
+__hash__: EA_AT7J1xcyVRZQ0ewCzbC0gd85_YiMmMJcZXsrhki8
 seo:
   title: LINE Starter Application for iOS and Android released
   description: >-

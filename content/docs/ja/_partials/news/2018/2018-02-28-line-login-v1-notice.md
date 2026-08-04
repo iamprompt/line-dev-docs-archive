@@ -6,7 +6,7 @@ description: >-
   v1をお使いの方のみを対象としています。最新バージョンのv2.1またはv2のエンドポイントをご利用の方には影響ありません。
 meta: '{"date":"2018-02-28 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-02-28-line-login-v1-notice
-__hash__: n2YR91VqjEIH9UnVtm1-PAgFZJBzEtBtm8OcbM4Maqo
+__hash__: 7igdJqM31ZXZT-HlIl9RhK9A-dR3tGsRZr0Lk1q0cj8
 seo:
   title: LINEログイン v1の提供終了予定について
   description: >-

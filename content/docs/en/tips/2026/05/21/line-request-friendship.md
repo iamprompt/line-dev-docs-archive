@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-05-21 00:00 UTC","tags":"liff,
   line-mini-app","locale":"en","sidebar":false}
 path: /en/tips/2026/05/21/line-request-friendship
-__hash__: 9O2LxWq2019I-KWASvTY5bftKmld4DaC40C1AGuDl5g
+__hash__: tym_FDAmh-CALY0WRQtIqXggTyd1M1OdSW-OU7mOed4
 seo:
   title: >-
     Use the liff.requestFriendship() method to naturally prompt users to add

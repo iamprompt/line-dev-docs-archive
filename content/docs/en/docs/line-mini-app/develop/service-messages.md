@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/service-messages
-__hash__: J5KMailubwpQsO3CK5IQBEuA--xNeZrQFBKq0W4nA5E
+__hash__: rwiis0ioLYfIPgPw30wbhU1zWySbhjIqIAKRUwSgFYE
 seo:
   title: Sending service messages
   description: null

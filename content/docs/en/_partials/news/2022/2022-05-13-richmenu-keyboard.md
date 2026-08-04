@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-05-13 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2022/2022-05-13-richmenu-keyboard
-__hash__: vpCQYA0nW54BWjgNQNXOzfEr95QCEPIzGjvzoEvbIak
+__hash__: wifiXtrwbAQ6k_mmeb1p73xj3qnXvRKmV4fw9LiFpe0
 seo:
   title: >-
     [Updated] Added features such as automatic opening and closing of the rich

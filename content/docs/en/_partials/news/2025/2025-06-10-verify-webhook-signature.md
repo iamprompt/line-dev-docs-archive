@@ -9,7 +9,7 @@ description: >-
   receiving a webhook.
 meta: '{"date":"2025-06-10 00:00 UTC","tags":"docs, messaging-api","locale":"en"}'
 path: /en/_partials/news/2025/2025-06-10-verify-webhook-signature
-__hash__: vJbWx0F5UtgNLoGyAxZnRsur1CXEsBVjHRe8-ubFsC0
+__hash__: yH2O2ifR-9zzBm7XzRpW1C2EXOCvRo4ropVg6_goikc
 seo:
   title: >-
     We've added documentation for webhook signature verification to the

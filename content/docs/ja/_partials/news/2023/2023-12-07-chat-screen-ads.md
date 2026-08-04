@@ -4,7 +4,7 @@ navigation: true
 description: LINE公式アカウントを収益化できる、トークルーム広告機能の提供を開始しました。
 meta: '{"date":"2023-12-07 00:00 UTC","tags":"line-official-account","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-12-07-chat-screen-ads
-__hash__: Q5GDSYYdCZyHaTuKw3KL0uVRmDvXDwuoUcOFe8gOwYk
+__hash__: StnUG_73zt1LFl7qyzN5lDcWZrKzswkI7Ntu1US8Fr8
 seo:
   title: LINE公式アカウントを収益化できるトークルーム広告機能の提供を開始しました
   description: LINE公式アカウントを収益化できる、トークルーム広告機能の提供を開始しました。

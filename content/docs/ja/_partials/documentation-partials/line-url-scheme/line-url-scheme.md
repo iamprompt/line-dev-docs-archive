@@ -7,7 +7,7 @@ description: >-
   URLスキームを開くアクションを設定しておくことで、メニューをタップしたユーザーに対してLINE内のコンテンツを表示できます。
 meta: '{}'
 path: /ja/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: 6DlNdsFO1iVR9k4lYyxbNlQaBuAyOTA73KK3CJZOqBI
+__hash__: TfvQuBiUrXIdBW2MHYK788UekAuuIwuaTMevWA5ndQg
 seo:
   description: >-
     LINE URLスキームを使うと、スタンプショップやLIFFアプリを開いたり、カメラを起動したりできます。LINE

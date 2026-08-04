@@ -5,7 +5,7 @@ description: >-
   LINEミニアプリのアプリ内課金機能は、より多くのお客様にご活用いただけるよう、2026年6月末まで手数料無料で提供しております。2026年7月1日以降は、所定の手数料を適用いたします。
 meta: '{"date":"2026-06-05 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-06-05-iap-service-fees
-__hash__: '-EvSIfLXIaEVFbIv4NeGTrfKQ5AapYMtwJUWXWluOOE'
+__hash__: uVqIurDjE5W-UO4uZWnxvckoXhF1nkPbOTx2vMXbLpc
 seo:
   title: LINEミニアプリのアプリ内課金における手数料無料期間の終了および利用規約の改定について
   description: >-

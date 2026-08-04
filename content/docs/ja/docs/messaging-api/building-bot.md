@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/building-bot
-__hash__: p2WViuNDiKMb8xwBXQsi1FA8-mO1sJ_WRAAPThnzAEk
+__hash__: '-CKbTPXAL1kngKvfV_Alq8oGSy1Z5zWaF1ry47jwJO4'
 seo:
   title: ボットを作成する
   description: null

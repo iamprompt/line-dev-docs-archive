@@ -6,7 +6,7 @@ description: >-
   APIにおいて、ナローキャストメッセージの部分配信を禁止するlimit.forbidPartialDeliveryプロパティをリミットオブジェクトに追加しました。
 meta: '{"date":"2025-10-21 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-10-21-narrowcast-message-update
-__hash__: z5zCu2K1YT96F6ylDbrigkN5usgZlC6lpG8Z_YRzcYU
+__hash__: cFAx1KbV9rAJAWw2aTKGHInKPa8OWi2k2TIynDFN3NI
 seo:
   title: Messaging APIにおいて、ナローキャストメッセージの部分配信を禁止するプロパティを追加しました
   description: >-

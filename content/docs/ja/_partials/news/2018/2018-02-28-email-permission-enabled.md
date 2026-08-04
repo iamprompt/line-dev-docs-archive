@@ -6,7 +6,7 @@ description: >-
   Developersコンソールから申請する必要があります。
 meta: '{"date":"2018-02-28 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-02-28-email-permission-enabled
-__hash__: WphzzBmnJ0Tiz7MT07-DizgRiD5UzFravvgY9peHeBc
+__hash__: KdyXaUuQ9FLvmJSlx7FeqFe4Rq6WNJ3_2iwlkDsp0Ac
 seo:
   title: ユーザーのメールアドレスを取得できるようになりました
   description: >-

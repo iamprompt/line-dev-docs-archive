@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/use-membership-features
-__hash__: JeHarwxQBjMvJeqiA-_adXi10l3ZFxrZ4dbWZxHdzok
+__hash__: mvI12bf8mRnaEjZMHbLcLLxn9zLTqQo7foDAOD2rirg
 seo:
   title: Use membership features
   description: null

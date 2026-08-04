@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-02-08 00:00 UTC","tags":"bot-designer, line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/i-made-a-template-message-but-the-link-does-not-work
-__hash__: 1LbE_WRAW3sPMolfnzTvR1n9VSJcB0lYa53D-CvaHN0
+__hash__: 8elZu9mNnEg6JLVH9QZc3lyDTwO5oZy1YA9sLDTQ3DA
 seo:
   title: I made a template message in Bot Designer but the link doesn't work.
   description: >-

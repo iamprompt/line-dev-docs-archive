@@ -4,7 +4,7 @@ navigation: true
 description: 2026年7月27日にLINEアプリ内課金利用規約（LINEミニアプリ提供者向け）を改定します。
 meta: '{"date":"2026-07-17 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-07-17-line-mini-app-iap
-__hash__: Q4fjLNQFJK9qJyV34EoqYtLkIyIBNXB4yDyYKOSwAJU
+__hash__: kGn-87pbwBWAUZqMWeAarW8t4Y68q0I5RkocPagy7VA
 seo:
   title: 2026年7月27日にLINEアプリ内課金利用規約（LINEミニアプリ提供者向け）を改定します
   description: 2026年7月27日にLINEアプリ内課金利用規約（LINEミニアプリ提供者向け）を改定します。

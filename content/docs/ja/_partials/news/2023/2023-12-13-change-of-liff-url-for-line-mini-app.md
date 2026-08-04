@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリのLIFF URLが、新しいドメイン名のhttps://miniapp.line.me/{liffId}に変更されました。
 meta: '{"date":"2023-12-13 01:00 UTC","tags":"line-mini-app, console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-12-13-change-of-liff-url-for-line-mini-app
-__hash__: 3NcVMttwR0XYpHPTlBY4Vn3a5jWLwigHbnRuMOH8a4w
+__hash__: 1IG6Ynm7GwnK4NbyNwlz0MM8uuiAUwKHM2NZyOu352Q
 seo:
   title: LINEミニアプリのLIFF URLが変更されました
   description: LINEミニアプリのLIFF URLが、新しいドメイン名のhttps://miniapp.line.me/{liffId}に変更されました。

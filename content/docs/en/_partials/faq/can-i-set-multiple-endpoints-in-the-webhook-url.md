@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-3-28 00:00
   UTC","tags":"messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-set-multiple-endpoints-in-the-webhook-url
-__hash__: uIMPaG9DQiULuh7G3Y5kF4MXQUsq7m6d8hyvsHKJjq8
+__hash__: ulQ0JHFOk1t1Mh0rwhcBZLWTNQinpa7XnuMP7Y9PUO0
 seo:
   title: Can I set multiple bot server endpoints in the webhook URL?
   description: >-

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-09-06 00:00 UTC","tags":"line-login, liff, line-mini-app,
   console, line-blockchain","locale":"en"}
 path: /en/_partials/news/2023/2023-09-06-rename-linked-bot
-__hash__: ETlkB2gWZ-4Ov9rRpLUjLQxYcZg8sg6CnMVIeCTeGRk
+__hash__: w-HrvOfEyYfHzhndxsaSC8s5UxkaAIyTOztyYaxWCEo
 seo:
   title: >-
     The names of "Bot link feature" and "Linked OA" have been changed in the

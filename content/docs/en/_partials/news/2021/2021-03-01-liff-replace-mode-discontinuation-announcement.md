@@ -12,7 +12,7 @@ meta: >-
   end-of-life","locale":"en"}
 path: >-
   /en/_partials/news/2021/2021-03-01-liff-replace-mode-discontinuation-announcement
-__hash__: h_syUZ41J_RXNu_43Xq9wZAH0FDaS8NNc5F-WxIcWm0
+__hash__: axmb9gJkj1UVzXJSg0leROdQyURwkeeZp6yhA-HQSNk
 seo:
   title: >-
     [Updated] Replace (Backward compatibility mode) has been removed from the

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/demo/membership-demo
-__hash__: mlADZEhSpnl3dX1Hee2vgYyShMo1U20hGQnb0Mi1Sn8
+__hash__: jvfJlixc5thOd-aKCWVCO9j63TEWlhwQE8bOiw735BE
 seo:
   title: Membership card demo
   description: null

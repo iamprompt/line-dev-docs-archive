@@ -9,7 +9,7 @@ meta: >-
   Smart Speaker, IoT, WEB site, iOS App,
   SaaS","git":"https://github.com/minako-ph","fb":"","twitter":"https://twitter.com/minako__ph"}
 path: /en/community/api-experts/jp-minako-yamamoto
-__hash__: xyxJvhFGv5hOujxEhHlKCQ8jM0WUP5QGaogSzCa25fc
+__hash__: P-J2CeJtHAcFb1tcEne_Lby-0d1OGA9ekQqj8_VfBRs
 seo:
   title: LINE API Expert - Minako Yamamoto
   description: ''

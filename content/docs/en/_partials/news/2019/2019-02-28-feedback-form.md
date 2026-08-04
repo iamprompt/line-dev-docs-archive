@@ -6,7 +6,7 @@ description: >-
   the feedback form again at the right bottom of our documentation pages.
 meta: '{"date":"2019-02-28 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2019/2019-02-28-feedback-form
-__hash__: klVE0uJD6vEfjp6yhtJO5juRmfFrUtIvZ4wlFYPu_20
+__hash__: O57mHjI58mLzXmksp1aA17rvV8yNHHpqLtCgIjtPgJw
 seo:
   title: Introducing our new feedback form
   description: >-

@@ -7,7 +7,7 @@ description: >-
   "Settings for iOS 9 or later" section has been removed.
 meta: '{"date":"2016-12-13 00:00 UTC","tags":"iOS","local":"en"}'
 path: /en/_partials/news/2016/2016-12-13-whitelisting-spec-change
-__hash__: tzX7sRt1drtd3CGsNyNTgAr2YIFFbmxSXzu4RurP7bw
+__hash__: UO4TVAH7Z5ib-3Oty2fsSxnL7ohNlz4sHGZEafa_c54
 seo:
   title: Change to requirement on whitelisting LINE domains
   description: >-

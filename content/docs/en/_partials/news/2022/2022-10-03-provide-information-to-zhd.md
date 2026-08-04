@@ -12,7 +12,7 @@ meta: >-
   {"date":"2022-10-03 00:00 UTC","tags":"messaging-api, line-blockchain,
   console","locale":"en"}
 path: /en/_partials/news/2022/2022-10-03-provide-information-to-zhd
-__hash__: jWsSkJPN4AbLFD1WAi0HISc448JrnA8yfamovlRP25c
+__hash__: s-HOn82zxtuqqdsHRNftL4FxzL6vcPQ9V3wtVDOqCyY
 seo:
   title: >-
     The scheduled effective date of the "Individual Terms and Conditions for

@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインを使って、サービスのユーザーからデータ取得の許可を得られます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/integrate-line-login
-__hash__: 86tef4XviOjli_evZmppTcNdrWTzo4fC40-7iHtFv98
+__hash__: SDI7j6CxYoC8UIzzN8ZSAboWCAkDVC_z_CISS8L_BLc
 seo:
   title: iOSアプリにLINEログインを組み込む
   description: LINEログインを使って、サービスのユーザーからデータ取得の許可を得られます。

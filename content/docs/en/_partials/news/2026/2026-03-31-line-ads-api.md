@@ -8,7 +8,7 @@ description: >-
   March 2027, following the discontinuation of LINE Ads in Japan.
 meta: '{"date":"2026-03-31 00:00 UTC","tags":"line-ads, end-of-life","locale":"en"}'
 path: /en/_partials/news/2026/2026-03-31-line-ads-api
-__hash__: m1GVVHYEN1Pp7T9GlQvTcoR_7SzwnYOi5FAw39hjYVI
+__hash__: iuIk3O89nEBHthOUwjq7dOytHvIKmyU6sphhjfeU4s8
 seo:
   title: >-
     In Japan, LINE Ads API will be discontinued in March 2027 due to the

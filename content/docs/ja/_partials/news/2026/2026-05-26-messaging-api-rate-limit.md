@@ -6,7 +6,7 @@ description: >-
   APIの「リッチメニューの配列を取得する」エンドポイントのレート制限を変更しました。
 meta: '{"date":"2026-05-26 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-05-26-messaging-api-rate-limit
-__hash__: jsXZBrDJfJrpLY5QWBl8ZbQkE4AmPv_xZDmETIhrKgQ
+__hash__: dMmWKJ2sEhh4cjYHcxMU4HpS73wHtU4IPEJ3V56PO6U
 seo:
   title: 2026年5月26日にMessaging APIの「リッチメニューの配列を取得する」エンドポイントのレート制限を変更しました
   description: >-

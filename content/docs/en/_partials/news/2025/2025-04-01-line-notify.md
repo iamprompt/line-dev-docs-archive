@@ -6,7 +6,7 @@ description: >-
   March 31, 2025.
 meta: '{"date":"2025-04-01 00:00 UTC","tags":"end-of-life","locale":"en"}'
 path: /en/_partials/news/2025/2025-04-01-line-notify
-__hash__: nIIyOnigHB1x8baiBlm9p6FBSseSsERXqc3NQOUlO30
+__hash__: g5UtdwxfTadCIz_qAs0qabzdnkZfVt69HSdcyL8jbvQ
 seo:
   title: LINE Notify service has been terminated as of March 31, 2025
   description: >-

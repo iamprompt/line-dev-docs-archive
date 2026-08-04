@@ -10,7 +10,7 @@ meta: >-
   {"date":"2023-03-10 00:00 UTC","tags":"messaging-api, template-messages,
   liff","locale":"en"}
 path: /en/_partials/news/2023/2023-03-10-template-messages-updated
-__hash__: OaChaaAJYBMoGVVyYErXVHlzKVL8WE7k2D4OVO6CHDQ
+__hash__: zJMog2TVFf6OXlM1XJaMSeMhn1TpHZC5USX4M6iaR-4
 seo:
   title: >-
     Template messages sent by LIFF method are now available for the desktop

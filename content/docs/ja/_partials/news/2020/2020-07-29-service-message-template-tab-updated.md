@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリチャネルの［サービスメッセージテンプレート］タブを更新しました。
 meta: '{"date":"2020-07-29 02:00 UTC","tags":"LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-29-service-message-template-tab-updated
-__hash__: 0rQb0gDS8MDBOayeBowfVIbGVYTnj1lb3Y1n9q_TXfg
+__hash__: mlC2HezJBZyRw2n_JdcDQEJ8hMDr21s_WP0bzX6vHLI
 seo:
   title: LINEミニアプリチャネルのサービスメッセージテンプレートタブを更新しました
   description: LINEミニアプリチャネルの［サービスメッセージテンプレート］タブを更新しました。

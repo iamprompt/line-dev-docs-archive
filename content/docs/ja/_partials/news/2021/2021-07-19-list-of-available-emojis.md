@@ -7,7 +7,7 @@ description: >-
   APIドキュメント』の「送信可能なLINE絵文字リスト」を参照してください。
 meta: '{"date":"2021-07-19 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-07-19-list-of-available-emojis
-__hash__: pBoqK0A_PqKYygYLiwj28xyV4X9pN362IlOSxGjl2cA
+__hash__: vSNUPkqlYiYWo_cE4SuJZU09nmOitruh2aXJHXnEZPQ
 seo:
   title: Messaging APIで送信可能なLINE絵文字のリストが見やすくなりました
   description: >-

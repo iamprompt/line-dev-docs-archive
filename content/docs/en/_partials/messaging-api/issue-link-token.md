@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/issue-link-token
-__hash__: oevbYawDkJ6IPX4UQqmAICnCYoY08etUV6HbTvkmAEw
+__hash__: 2rwhgBJuqG4FHCuFzfENZbFE5MCs6Osj1uynr-Ep6Ak
 seo:
   description: ''
 ---

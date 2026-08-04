@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-02-28 00:00 UTC","tags":"Messaging API, Bot
   Designer","locale":"en"}
 path: /en/_partials/news/2018/2018-02-28-community-site
-__hash__: kUl08DSPR3fBTyHmel9FOsAx66JDCSCxBUmSUkyFy9s
+__hash__: tPP-kog-9N8j5bkFPk3R2bZ5GKRvllo3gSdfhDHQSk8
 seo:
   title: LINE Bot Designer released
   description: >-

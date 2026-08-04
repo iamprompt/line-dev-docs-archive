@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/switch-rich-menus
-__hash__: NFnmpGSDkpgjTE87Pjed3sysxpffd3hX1SqkeVCM73c
+__hash__: n8UB1Bq4QRaAon9NFbd5L8NoFtm8APiA96NxpHRhcN0
 seo:
   title: リッチメニューでタブ切り替えを行う
   description: null

@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2024-02-09 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-02-09-get-membership-plan-information
-__hash__: eL0tlk5eUy4cWX5y13HL-CgtFVgTWJTD-4tbp3mf8bY
+__hash__: mnQsUf5NMVKCWfl3ewh0KLqk7fxl7FCgb4RAyfJuyI4
 seo:
   title: >-
     [Updated] In the Messaging API, you can now retrieve information about your

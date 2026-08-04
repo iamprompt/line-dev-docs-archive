@@ -7,7 +7,7 @@ description: >-
   Pluggable SDK.
 meta: '{"date":"2026-07-02 00:00 UTC","tags":"liff","locale":"en","sidebar":false}'
 path: /en/tips/2026/07/02/pluggable-sdk-type
-__hash__: 1dVg0U0ADavQwzXK8D62PzSZ_KYC_x9rbZQRRqQ519o
+__hash__: HEdfMo4NHi4wRKQI43TiCSb1k8YPErFvkHQQ5qJA8rQ
 seo:
   title: A small type trick implemented in the LIFF SDK's Pluggable SDK
   description: >-

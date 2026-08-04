@@ -7,7 +7,7 @@ description: >-
   for reading them.
 meta: '{"date":"2026-07-16 00:00 UTC","tags":"liff","locale":"en","sidebar":false}'
 path: /en/tips/2026/07/16/liff-url-additional-info
-__hash__: tQj6xd7ds_dhg48_pPFkWMl9emZkqos_lY8tk7q6AXQ
+__hash__: idJNu2iZShKGezQjIB8jHl7oxIpfhvdbDtwOy9hnb84
 seo:
   title: Parameters added to the LIFF URL should be read after liff.init()
   description: >-

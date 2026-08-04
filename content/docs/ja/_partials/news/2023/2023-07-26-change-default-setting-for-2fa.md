@@ -6,7 +6,7 @@ description: >-
   DevelopersコンソールでLINEログインチャネルおよびブロックチェーンサービスチャネルを新規作成する際の、［2要素認証の必須化］の初期設定がオンに変更されました。
 meta: '{"date":"2023-07-26 00:00 UTC","tags":"line-login, console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-07-26-change-default-setting-for-2fa
-__hash__: _sbMCpCjjRo4TWjhO6Axrf1pT1g9oWoP2a216Tb9wsY
+__hash__: mbJAXoJ0E_R4en27P_bT8GY6ghuXkjAb2299uEkqYT8
 seo:
   title: チャネル新規作成時における2要素認証の必須化の初期設定がオンに変更されました
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: シェアターゲットピッカーのUIが改善されました。
 meta: '{"date":"2020-12-01 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-12-01-share-target-picker-ui-improve
-__hash__: L7MWidW41mNd7Sj-BLJB15GOBZSh4R9RFKZJ3iNOKh0
+__hash__: EPDd_qJsbHapZUjgvWdmDTUfDZB0ZSVw18Z0mzcpRNY
 seo:
   title: シェアターゲットピッカーのUIが改善されました
   description: シェアターゲットピッカーのUIが改善されました。

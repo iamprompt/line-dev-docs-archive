@@ -8,7 +8,7 @@ description: >-
   the action button in the LIFF browser.
 meta: '{"date":"2022-11-09 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-11-09-liff-update-line-12-19-0
-__hash__: Db73KSNxSQTJE-PO6aNthLrRnZdU3SjLf-pW9hJagTE
+__hash__: 4jXBlMxbpxZPuGUapYhBfUMoU1emiV-T3q-By_CEMzs
 seo:
   title: >-
     On LINE for iOS version 12.19.0 or later, we'll be making changes to the UI

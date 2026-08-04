@@ -8,7 +8,7 @@ description: >-
   user's device.
 meta: '{"date":"2024-02-01 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-02-01-add-to-home-screen
-__hash__: zTksuw4Hsc5AOvAdsWCflLgKp3IcxYfewA0Ubw4haXA
+__hash__: 2rQbMcNuHmsHozx4iNuZyT-3ctI5U3UHRp71IbbdjF8
 seo:
   title: >-
     Shortcuts to your LINE MINI App can now be added to the home screen of the

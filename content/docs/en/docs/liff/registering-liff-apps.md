@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/registering-liff-apps
-__hash__: pdwpnjoExF4W7sp4yJpzVHtikWgUEk8mYcnLO4F64jM
+__hash__: kq1a44xgcXH-LU4lD-vgFP1LXdB4vBKOmGSRv1vzSgg
 seo:
   title: Adding a LIFF app to your channel
   description: ''

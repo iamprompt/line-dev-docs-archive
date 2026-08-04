@@ -6,7 +6,7 @@ description: >-
   APIにおいて、「友だちの属性情報に基づく統計情報を取得する」エンドポイントで取得できるLINE公式アカウントの友だちの年齢ごとの割合に、以下の値を追加しました。
 meta: '{"date":"2024-09-05 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-09-05-age-percentage-subdivision
-__hash__: BZbosV6hbdZIlQzINOQGjTVqaMFoNAxc-3rdgPFI8Ak
+__hash__: WuzbEa_nfXrVQo1_1MVdzNBLxHmsOO6lzM7gikYDa5c
 seo:
   title: Messaging APIで取得できる友だちの統計情報において、50歳から70歳までの割合を取得できるようになりました
   description: >-

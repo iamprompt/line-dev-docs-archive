@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/open-window
-__hash__: 1dmTwbQGx7qEbhf2IcNDwzIRm-8TV0Xbcj-y-e0bD7E
+__hash__: o1cwbIW0JlomaTIIlZg5TJMbZB-WQB6JpZaG9koBOgo
 seo:
   description: ''
 ---

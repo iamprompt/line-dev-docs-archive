@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-04-07 01:00 UTC","tags":"Outage report, LINE
   Login","locale":"en"}
 path: /en/_partials/news/2021/2021-04-07-line-login-outage
-__hash__: pi9dW0yDU-BXngd6sS36ZGo3NcW9WiwiMFbnUyVsdzc
+__hash__: aXwU3qpsv1MPmcfIDwmRH8DblkToJaGlE4PdEOJq20c
 seo:
   title: '[Resolved] Notice about service outage for LINE Login'
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-08-04 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-08-04-messaging-api-update-august-2020
-__hash__: 34Lq0jeAoNCctY265ZZqnp7fXQJem-PSJnW-mOA0cmI
+__hash__: aicHKPPoGtJo7t7v7SBOiO1iuB2SsQNQUUBDj1sqeq0
 seo:
   title: 【更新】Messaging APIアップデート（2020年8月）
   description: ''

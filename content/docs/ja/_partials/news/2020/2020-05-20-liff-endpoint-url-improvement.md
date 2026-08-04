@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-20 00:00 UTC","tags":"LIFF","new":"false","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-05-20-liff-endpoint-url-improvement
-__hash__: SOPY1TM7bdhHm-VjYvgm-9kbcteHwEKQiNzhyKiL-3w
+__hash__: r7FRJzF9EfEpJH9v5qEj-4OsgF06IYeTZtnZY1E4ofE
 seo:
   title: 【更新】まもなくLIFFのエンドポイントURLでパスが使用できるようになります
   description: ''

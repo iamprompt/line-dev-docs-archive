@@ -5,7 +5,7 @@ description: 2024年2月1日にLINE Social Plugins利用ガイドラインの改
 meta: '{"date":"2024-01-18 00:00 UTC","tags":"social-plugins","locale":"ja"}'
 path: >-
   /ja/_partials/news/2024/2024-01-18-revise-usage-guidelines-for-the-line-social-plugin
-__hash__: FyXzPp-JHDB5RLGCkDplfQaJM9uKjCEpNfIKwFCQPkA
+__hash__: ht5qxt_jHsAxllyoLzD5MtpSTb7tIsxo3Nz8-XNNfBA
 seo:
   title: LINE Social Plugins利用ガイドラインの改定について
   description: 2024年2月1日にLINE Social Plugins利用ガイドラインの改定を予定しています。

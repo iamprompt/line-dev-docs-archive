@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/payment
-__hash__: QZy0mQiPIKNNq4dvGBCFfpZnNMMe5Vo1T5VOcB2DDZM
+__hash__: HJQOLZrKoSMUh7xARvIbpoJMm3PTL16HNY-lHdXLsSY
 seo:
   title: 決済システムを利用する
   description: null

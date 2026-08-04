@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-number-of-multicast-messages
-__hash__: UgxKWGnNPPlFpyhJP60rTkaPmr4Pv-LDEyiF__PaDv8
+__hash__: kMPDEZe_8woPPAsrnwRPKDClO6BX3bSCJS8EBCRt8UA
 seo:
   description: ''
 ---

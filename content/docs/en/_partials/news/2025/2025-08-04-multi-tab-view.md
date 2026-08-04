@@ -8,7 +8,7 @@ description: >-
   specifications of the action button in the LIFF browser.
 meta: '{"date":"2025-08-04 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-08-04-multi-tab-view
-__hash__: nN0bIC0dxyeQhWhuROCWiQilQNEeoEbZP6LfPJ8QcnE
+__hash__: kpRaPJFhAYfcp8JmxBg-2AkVcqnlLgCSISmxIFYIKJs
 seo:
   title: >-
     On LINE version 15.12.0 or later, users can use multiple LIFF apps at the

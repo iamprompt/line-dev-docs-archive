@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-12-09 00:00 UTC","tags":"line-login, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2025/2025-12-09-line-login-liff-roadmap
-__hash__: N-77XNNkwsvGN3sRvuhHTQetbPPnd66vvKXNhjMRohg
+__hash__: 7zRqLScIu9Kw9bc7PBzgLVYBoA9PTGd0hR56quiLQtg
 seo:
   title: LINEログインとLIFFのロードマップの掲載を終了しました
   description: 2025年12月9日をもって、LINEログインとLINE Front-end Framework（LIFF）のロードマップの掲載を終了しました。

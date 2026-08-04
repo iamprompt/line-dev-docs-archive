@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/switch-rich-menus
-__hash__: AhCGxq7ZaZXhVdkpSktH2bevCzTLMyr77J-xI5Ih-ek
+__hash__: BNGSWp5Nq2ibhJQS0eFrGyQddtRMCvc3zN4DDVHubrc
 seo:
   title: Switch between tabs on rich menus
   description: null

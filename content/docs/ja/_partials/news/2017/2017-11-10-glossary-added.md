@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-11-10 00:00 UTC","tags":"Docs, Messaging API, LINE
   Login","locale":"ja"}
 path: /ja/_partials/news/2017/2017-11-10-glossary-added
-__hash__: gvFN7FNJ8h75BSAtiLZ7SEd-zIInqe2dJYis2wq2-Ls
+__hash__: yYitdVCt0E_cegky8aD0DY9niCrP5un5f2ywNDgkO4c
 seo:
   title: LINEログインとMessaging APIの用語集ができました
   description: >-

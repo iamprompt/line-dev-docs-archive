@@ -6,7 +6,7 @@ description: >-
   version 12.8.0 or later.
 meta: '{"date":"2022-06-02 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-06-02-liff-minimize-for-iphone
-__hash__: Gc2P4ER5OmD35dr0P-9usDQku-EJudR4WfnPF5ZbN0w
+__hash__: 2Gt7ID1FG7aFY-k5wpwDwXwuB7PKj_qeTEPLL7p_l-Q
 seo:
   title: LIFF browser can now be minimized on LINE for iOS version 12.8.0 or later
   description: >-

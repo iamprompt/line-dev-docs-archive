@@ -6,7 +6,7 @@ description: >-
   features.
 meta: '{"date":"2021-04-27 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-27-liff-v2-9-1-release
-__hash__: iRwBwvLOqlmUj9tzuxmxY1b3iUSFPWzGrO1rqER7l0w
+__hash__: slRR7CF52qUq-rAtB68-npBe4gAo0tGo8QyvlPykdgo
 seo:
   title: LIFF v2.9.1 released
   description: >-

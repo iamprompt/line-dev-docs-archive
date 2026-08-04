@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIには、今まで「既存のオーディエンスと同じ名前は設定できない」という制限がありました。この制限が解除されたことをお知らせします。
 meta: '{"date":"2021-05-27 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-05-27-same-audience-name-can-be-used
-__hash__: cjarlfpKg5-vHR18IE14V-9CITQgSdVK7KLPnCVnFhQ
+__hash__: Ki0CCOgncMRx53jTNagbt2fegfKupQsHkAZnlIn0h2k
 seo:
   title: Messaging APIで既存と同じ名前のオーディエンスが作れるようになりました
   description: Messaging APIには、今まで「既存のオーディエンスと同じ名前は設定できない」という制限がありました。この制限が解除されたことをお知らせします。

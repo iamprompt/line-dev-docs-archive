@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/business-manager-link
-__hash__: GoL90K7yuTvJrDlc_18_5XmwnYZZcpI18SQ1Moqw-ic
+__hash__: gECgC6Zjd5JMiD-9yJdVDutjMqe1_liO6t11Bh9Kv8c
 seo:
   title: LINEミニアプリチャネルをビジネスマネージャーの組織と接続する
   description: ''

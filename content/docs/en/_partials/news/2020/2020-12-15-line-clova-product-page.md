@@ -4,7 +4,7 @@ navigation: true
 description: We added a LINE CLOVA page to the Products page.
 meta: '{"date":"2020-12-15 00:00 UTC","tags":"clova","locale":"en"}'
 path: /en/_partials/news/2020/2020-12-15-line-clova-product-page
-__hash__: h8NOQYPj64qsK_eNaJWbr6lgibXVrQQnORpmc-rYHbQ
+__hash__: AEw2xalRU9X6BVyBtMppYFxIFpOORtFLrb__4AOfUWE
 seo:
   title: The LINE CLOVA product page has been released
   description: We added a LINE CLOVA page to the Products page.

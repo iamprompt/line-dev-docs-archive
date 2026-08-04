@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module-technical-console
-__hash__: EANz_ycJcCxCjnmKcNUPNRDg6xEdlwgMWdkUp-RV1Y4
+__hash__: Z8pkGTY__OUctB8ktZYgmWsq_7MB-ILk7K8tsQSshrU
 seo:
   title: Configure module channel settings
   description: null

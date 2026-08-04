@@ -5,7 +5,7 @@ description: Notice for corporate customers. See also the News.
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/partner-docs/notice
-__hash__: TipotmbFcD0AMIWYQnWBcBXAFgn_0N8QrXlyd8MWiyQ
+__hash__: rHLcQjt_HCXf-gjZ_JVev1Ul5ELrV5nVc87SmzNzBvY
 seo:
   title: Notice for corporate customers
   description: Notice for corporate customers. See also the News.

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/link-a-bot
-__hash__: _MGVWOeE1dOpYlwrGFr9oOvyAChO7ka7RYzIvENrkIY
+__hash__: f61ehkfpXqrimM7jwfBa86W1kZPPATvs-bzeWowyyrs
 seo:
   title: Add a LINE Official Account as a friend when logged in (add friend option)
   description: null

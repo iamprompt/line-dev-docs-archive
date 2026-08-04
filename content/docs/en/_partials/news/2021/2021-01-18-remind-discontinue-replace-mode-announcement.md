@@ -10,7 +10,7 @@ meta: >-
   end-of-life","locale":"en"}
 path: >-
   /en/_partials/news/2021/2021-01-18-remind-discontinue-replace-mode-announcement
-__hash__: 2BUCF3cuUeFTFIM2hpdCX4lUqW-XHCUplf55BGBlOOU
+__hash__: PYLYzCFpMfXQsfR4cnmhUyzh959lKnaqKHZnuQqF7dY
 seo:
   title: >-
     [Updated] Reminder: On March 1, 2021, "Replace (Backward compatibility

@@ -8,7 +8,7 @@ description: >-
   on.
 meta: '{"date":"2020-05-19 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-05-19-liff-supports-ogp-tags
-__hash__: miics1yzigNudetZ3xamL18MKfci-6x2DXDApNoI4VU
+__hash__: oStLES61-MU_RwQlyqrC-jpAr_8mBLKmnYlJzwa5ZeI
 seo:
   title: OGP tags are now available in the LIFF app
   description: >-

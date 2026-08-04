@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-07-24 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/why-does-my-bot-automatically-send-replies
-__hash__: D-NJotOJggt7Hdz7_z3PC_8EW1Z-pJfhX_yYLP16csM
+__hash__: H_D2HO1PqveRrmt_cWjUk6deRtnHLayBXXydRYrjNuk
 seo:
   title: Why does my LINE Official Account automatically send replies?
   description: >-

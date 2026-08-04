@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-08-28 09:00 UTC","tags":"Outage report, LINE
   Platform","locale":"en"}
 path: /en/_partials/news/2019/2019-08-28-devcenter-outage
-__hash__: s-niYyXm-C-5QNyI3f3kFq-fadBbokP2vgfCMFFXYRo
+__hash__: qj8MJFwkt78F9pIn-LrybOYGy-BU6f4ZnRVuK3K29vA
 seo:
   title: '[Resolved] Notice about service outage for LINE Developers site'
   description: >-

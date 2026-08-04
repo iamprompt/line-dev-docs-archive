@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/basics/channel-access-token
-__hash__: iJ6tyn0F2vUn7zibobZWlNd8lImmX-TQZt9fdk5W2ac
+__hash__: '-mCfX8WmjXt6Vs71kBIk_NqcdZV1uqPNI3NRkZGPk9Y'
 seo:
   title: チャネルアクセストークン
   description: null

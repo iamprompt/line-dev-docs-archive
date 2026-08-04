@@ -6,7 +6,7 @@ description: >-
   can now be used through the Messaging API.
 meta: '{"date":"2021-01-27 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-01-27-activate-audience-api
-__hash__: ePHiJHjnbaFj0iPfZRH9yH8_8TPWDN05JSGa3-qEgwY
+__hash__: lj_dh5Hz55a7MDaPltBeGrxlV6jJ7nMf3gNgzb9joVg
 seo:
   title: You can now use audiences created with LINE Ads and LINE Points Ads
   description: >-

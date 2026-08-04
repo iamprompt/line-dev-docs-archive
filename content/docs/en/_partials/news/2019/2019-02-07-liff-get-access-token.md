@@ -4,7 +4,7 @@ navigation: true
 description: We added the liff.getAccessToken() method to the LIFF SDK.
 meta: '{"date":"2019-02-07 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2019/2019-02-07-liff-get-access-token
-__hash__: lo0jZd0UQkRccXQTNMGwpiWFKkZjEnIyTCg-bCZmXz0
+__hash__: pYI5o6Bf-DcxGTOZJkduDlSEvNwQHj3cO-XhIXhiLS8
 seo:
   title: You can get access tokens through LIFF SDK
   description: We added the liff.getAccessToken() method to the LIFF SDK.

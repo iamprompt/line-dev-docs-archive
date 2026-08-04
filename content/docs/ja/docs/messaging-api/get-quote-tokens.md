@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/get-quote-tokens
-__hash__: jXhUExnjvX_AguZw6wlrsN8VbZPVg8uVJ1dTGZUbL-M
+__hash__: P5iTvsMGbb3NwPRFSWxX22iujG-JvNefEkWei1Evz48
 seo:
   title: 引用トークンを取得する
   description: null

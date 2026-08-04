@@ -4,7 +4,7 @@ navigation: true
 description: LINE広告APIのリファレンスおよびドキュメントは、別サイトで公開しています。
 meta: '{"layout":"document","source_language":"ja"}'
 path: /ja/docs/line-ads-api/about
-__hash__: ULlG_jqjZcuNS7sUjdakpnRuNC5JpQgxYtysuHgV5-U
+__hash__: _EHNHm8ZT-NmLmnHxE_7jFV3VGQHjjyE5woG-tuKHbY
 seo:
   title: LINE広告APIについて
   description: LINE広告APIのリファレンスおよびドキュメントは、別サイトで公開しています。

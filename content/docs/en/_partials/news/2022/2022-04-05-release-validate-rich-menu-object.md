@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-04-05 00:00 UTC","tags":"messaging-api,
   rich-menu","locale":"en"}
 path: /en/_partials/news/2022/2022-04-05-release-validate-rich-menu-object
-__hash__: cU16MMwIWQ_z5rFbUrrdxjvI9pIaSrm9PuFYGHj9334
+__hash__: '-ZfYfXvwboTC5XQo9-9FrtFHhsUd5Nx1WqIGD0YQPb0'
 seo:
   title: The endpoint for validating rich menu object has been added
   description: >-

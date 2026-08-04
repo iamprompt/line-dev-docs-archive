@@ -4,7 +4,7 @@ navigation: true
 description: 2021年12月31日をもちまして、タイで提供している動画配信サービス「LINE TV」を終了いたします。
 meta: '{"date":"2021-11-29 01:00 UTC","tags":"line-tv, end-of-life","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-29-line-tv-closing
-__hash__: 7Rtod3faH98PIued68ubVyfOYbhsRCGwFWd1MgurSoY
+__hash__: f2Mgn-A1NFWUM6ouO_Yja5i3Kr0HtrAYw8vzWVterFI
 seo:
   title: 2021年12月31日をもってLINE TVのサービスを終了します
   description: 2021年12月31日をもちまして、タイで提供している動画配信サービス「LINE TV」を終了いたします。

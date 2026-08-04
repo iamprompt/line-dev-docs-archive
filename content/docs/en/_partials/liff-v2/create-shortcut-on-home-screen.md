@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/create-shortcut-on-home-screen
-__hash__: HtRveZj9kaoY_NwjfvL9wZ1dT_yXw8P0t0t4Tm5OX1g
+__hash__: 0a08mWqB8z1kFQYLshX2HKxYC21pauQRoLu-hzOhm9w
 seo:
   description: ''
 ---

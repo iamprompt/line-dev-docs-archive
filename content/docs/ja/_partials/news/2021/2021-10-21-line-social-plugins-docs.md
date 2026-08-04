@@ -6,7 +6,7 @@ description: >-
   Developersサイトに移行しました。移行したLINE Social Pluginsのドキュメントは、以下のとおりです。
 meta: '{"date":"2021-10-21 00:00 UTC","tags":"social-plugins, docs","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-10-21-line-social-plugins-docs
-__hash__: MLh7IEyhWD2oTljQnbczZPspdyqYt9OexrLNHGWjHIs
+__hash__: W6hqui-VRF9s9SGYLJDDPBBS8j3dpDdQuzLHPgIXolQ
 seo:
   title: LINE Social PluginsのドキュメントをLINE Developersサイトに移行しました
   description: >-

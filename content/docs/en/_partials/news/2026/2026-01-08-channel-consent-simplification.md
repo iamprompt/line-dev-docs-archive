@@ -9,7 +9,7 @@ description: >-
   January 8, 2026.
 meta: '{"date":"2026-01-08 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-01-08-channel-consent-simplification
-__hash__: TrY5gWSz-lMXDY8ds1VxmYUxIY3Fe0bCrOLbcwFBTKE
+__hash__: D4o5yY68EiVL4yxE4QvFTFU6pOMPSVLfmTedflTV_yo
 seo:
   title: >-
     For new LINE MINI App channels in Japan, the &quot;Channel consent

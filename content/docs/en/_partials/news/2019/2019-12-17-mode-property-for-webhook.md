@@ -4,7 +4,7 @@ navigation: true
 description: We've added the mode property to all Messaging API webhook events.
 meta: '{"date":"2019-12-17 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-12-17-mode-property-for-webhook
-__hash__: FSI2cNn_1tDMjCAnnNJF01cEm30b0LZLAS2aDb3-fNg
+__hash__: SnXky79_9qZF6Bn4zPhJZBTODcyolRxO0jQjLUxA7-c
 seo:
   title: mode property added to Messaging API webhook events
   description: We've added the mode property to all Messaging API webhook events.

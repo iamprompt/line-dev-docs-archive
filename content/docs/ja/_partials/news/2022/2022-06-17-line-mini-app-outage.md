@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-06-17 00:00 UTC","tags":"outage-report,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2022/2022-06-17-line-mini-app-outage
-__hash__: Vru86Fzq8iVmDHFcF2vPPjNHRLt187DMXFwbscybDU8
+__hash__: 9x-9b3IOGiLHCHOWSkJkTlgSkzObEZV9oS473tDxNJo
 seo:
   title: 【復旧済み】LINEミニアプリ障害のお知らせ
   description: LINEミニアプリにおいて以下の障害が発生しておりましたが、すべて復旧しております。お客様には多大なご迷惑をお掛けし、誠に申し訳ございません。

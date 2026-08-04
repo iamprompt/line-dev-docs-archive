@@ -4,7 +4,7 @@ navigation: true
 description: We've added new features to the Messaging API.
 meta: '{"date":"2020-09-01 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-09-01-messaging-api-update-september-2020
-__hash__: NH_HnEzCe_0C7pJb_D8qkxxkhHdiTAEw-Ky2kvI0OhE
+__hash__: 8X6gT_-SaUyV7pBbptyusXezNhdp7xxWy_LOLtjl7Ss
 seo:
   title: Messaging API update for September 2020
   description: We've added new features to the Messaging API.

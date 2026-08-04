@@ -6,7 +6,7 @@ description: >-
   Systemに従うことにより、一貫性のあるユーザー体験を提供することを主な目的としています。また、ダークモードを追加し、ユーザーの好みに合わせて快適にサイトを閲覧できるようになりました。
 meta: '{"date":"2023-05-17 00:00 UTC","tags":"docs, line-platform","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-05-17-site-renewal
-__hash__: wunbn33aEkLwgA0ptI4xRSAOayd_zE3t5n2Wbdg1ouU
+__hash__: wF3AOR8LDLk0g0q4RQv2irCFg73Sc0_GFP0Czmpq0ko
 seo:
   title: LINE Developersサイトのデザインをリニューアルしました
   description: >-

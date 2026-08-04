@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-04-08 00:00 UTC","tags":"line-login, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2024/2024-04-08-endpoint-to-deauthorize
-__hash__: kwSUctsmtydnI4BnZjJigpyZSFZa3QUJDvCSbelfjSc
+__hash__: YLO68jBdqmMr-5JZWZTqd6A99tRCB91eM595vsgAVX8
 seo:
   title: LINEログイン開発ガイドラインに則り、ユーザー退会時の連動アプリに対する権限取消をお願いします
   description: LINEログインにおいて、ユーザーが連動アプリに対して認可した権限を、ユーザーの代わりに取り消すためのエンドポイントを追加しました。

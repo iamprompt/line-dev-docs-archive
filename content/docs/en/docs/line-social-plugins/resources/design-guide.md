@@ -7,7 +7,7 @@ description: >-
   on Using Share buttons.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/resources/design-guide
-__hash__: r-eJFwa9LCRZj6dvsRlRRmF4FH4LWtcgm0pyLeOW-go
+__hash__: gN5Xjo3aIeG92z7hc48FMeAXEuNXrwu4LMJeNh_vnmg
 seo:
   title: Design guide
   description: >-

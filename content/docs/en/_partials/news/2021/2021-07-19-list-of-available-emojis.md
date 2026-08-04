@@ -9,7 +9,7 @@ description: >-
   available LINE emojis in the Messaging API documentation.
 meta: '{"date":"2021-07-19 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-07-19-list-of-available-emojis
-__hash__: pSXtqF7Cjw5HfKNPDJk0RzntN4LNHTVwbogXI2TCZxY
+__hash__: 20RYT9CRwjFCvKguH_wykOtW87r3_rkSk6bl0_woSbs
 seo:
   title: >-
     List of available LINE emojis with Messaging API has been changed for easier

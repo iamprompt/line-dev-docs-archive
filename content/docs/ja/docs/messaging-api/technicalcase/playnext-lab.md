@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/playnext-lab
-__hash__: OfW3lvj4MNyT9zefL7UXUkV5RMGf9LwvG3FJTemii28
+__hash__: gm4NvrB_-6Wg21X2Lydvbu00aJzHX-3lkNt8GS1uZiY
 seo:
   title: 行政DXを支えるLINE活用スマート公共ラボの技術事例
   description: ''

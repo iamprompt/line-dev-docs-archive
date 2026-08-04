@@ -7,7 +7,7 @@ description: >-
   launched.
 meta: '{"date":"2020-04-03 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-03-add-is-api-available
-__hash__: 5nIwFRd0EAqxZIUXTm3QJz8SGF2M_kfqbpuDWfsLnPs
+__hash__: IF-2oWOaaVDjqnGCFm6o1Lp-_KkFVCGr9mICKQ_LIsU
 seo:
   title: liff.isApiAvailable() added to LIFF v2
   description: >-

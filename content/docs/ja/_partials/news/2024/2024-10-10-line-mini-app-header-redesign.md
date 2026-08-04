@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-10-10 00:00 UTC","tags":"line-mini-app,
   end-of-life","locale":"ja"}
 path: /ja/_partials/news/2024/2024-10-10-line-mini-app-header-redesign
-__hash__: qlpuFAvAeI0OHjzlKHA-KNbBx0Wh761yIRFA19qumFY
+__hash__: boJ_kYQU5gpFRNOYw0YA1dtxImXOn3rY4LuD78hrqZw
 seo:
   title: 【更新】2024年11月下旬に予定しているLINEミニアプリのヘッダーのリニューアルに伴い、「ヘッダーの背景色」機能を廃止します
   description: ''

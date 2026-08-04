@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/documentation-partials/api-use-case/announcement-of-articles
-__hash__: v8BXNBW04etSZMXiICdjV8uDrnSqqGFPcaXoqAS78x4
+__hash__: 9DymNSzWn1MNcS-iqeFH6UcFHY_NaVQY8WHr659KJyg
 seo:
   description: ''
 ---

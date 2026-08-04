@@ -6,7 +6,7 @@ description: >-
   specified core information, you don't need to undergo another review process.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/update-service
-__hash__: nGKTOROYuOdlU6AmJGIp9c_EjbOYXb8WdDEdyn8B6_c
+__hash__: mELkdt4RIRymAsxIJDadfmMf3XFzrsK8yh3DhsZZgrs
 seo:
   title: Re-review after updating your verified MINI App
   description: >-

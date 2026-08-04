@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2021-11-29 00:00 UTC","tags":"LINE MINI App","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-29-mini-app-review-process-change
-__hash__: pIC0zX2E2a8rfJQGmCBIXYccvGV2-pa_tJi6denG8ro
+__hash__: '-pPGrIh7-zISg6CVZxjePWkoO6eDAmMNGx6TTqYT0Vs'
 seo:
   title: LINEミニアプリの審査プロセスが変更されました
   description: ''

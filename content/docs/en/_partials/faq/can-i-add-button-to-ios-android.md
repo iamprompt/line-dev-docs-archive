@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-add-button-to-ios-android
-__hash__: lJOfjbQOb2fmJI0wPlCIYrCnA29gku_GPmUkOPRA7Lk
+__hash__: i22O_JKV6orv95wrxpo3j8TbvXdzpmMcwRiJprTKBho
 seo:
   title: Can I add buttons to native iOS and Android apps?
   description: >-

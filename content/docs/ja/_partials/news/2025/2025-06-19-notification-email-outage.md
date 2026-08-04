@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-06-19 00:00 UTC","tags":"console, line-mini-app,
   options-for-corporate-customers, outage-report","locale":"ja"}
 path: /ja/_partials/news/2025/2025-06-19-notification-email-outage
-__hash__: uHAgJ2pP7h6e8KfTX6YoBiZ3uc9O9N3EGvuapiMiRx4
+__hash__: hDQ47xc20HlBvojqLaCw40Uekx9t6lvDV_SjqYNVuTE
 seo:
   title: 【復旧済み】LINE Developersコンソール メール送信障害のお知らせ
   description: LINE Developersコンソールの各種メール送信処理において、以下の障害が発生しておりましたが、すべて復旧いたしました。

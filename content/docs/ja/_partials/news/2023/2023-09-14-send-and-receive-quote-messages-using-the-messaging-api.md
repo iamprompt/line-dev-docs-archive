@@ -7,7 +7,7 @@ description: >-
 meta: '{"date":"2023-09-14 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: >-
   /ja/_partials/news/2023/2023-09-14-send-and-receive-quote-messages-using-the-messaging-api
-__hash__: zejt9yMKbsK0i3tT3mj1uuEV_CwXhQ6MCk-MJYApz3M
+__hash__: LXJoahgUnXLye711PALWzvn-Fo7bOxcAOWgYd4SZhio
 seo:
   title: Messaging APIで引用メッセージを送受信できるようになりました
   description: >-

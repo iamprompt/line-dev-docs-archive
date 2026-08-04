@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-06-28 00:00 UTC","tags":"line-login, console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-06-28-require-2fa-on-channels
-__hash__: 08k7RraeqaXUcZOipeE74HAi_f6rrwOCrr3IVs5jLU0
+__hash__: '-pNGUKDmD_6THpIiE8TPmyK8nVDGBTFupHay_qTDbZg'
 seo:
   title: 【更新】LINEログインでサービス提供者が2要素認証を必須化できるようになりました
   description: ''

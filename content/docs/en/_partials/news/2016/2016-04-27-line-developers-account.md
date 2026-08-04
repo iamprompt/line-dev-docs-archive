@@ -4,7 +4,7 @@ navigation: true
 description: We are pleased to announce the launch of the LINE Developers Official Account.
 meta: '{"date":"2016-04-27 00:00 UTC","tags":"LINE Platform","local":"en"}'
 path: /en/_partials/news/2016/2016-04-27-line-developers-account
-__hash__: 9d8XNlwEhBCZPxukjNKqPnw7QXSEJJS_ymrhNcpDzH4
+__hash__: qrGodtlV0ebdOOx3NjukUbyqevhAKm3Suu8CxZP5E64
 seo:
   title: Method for calling APIs for BOT API Trial changed
   description: >-

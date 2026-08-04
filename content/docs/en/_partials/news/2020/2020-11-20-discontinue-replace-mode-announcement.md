@@ -7,7 +7,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-11-20 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2020/2020-11-20-discontinue-replace-mode-announcement
-__hash__: e297t9JMawqGdWz7T7iaSYaA7eeiEbyE060ccTxSOdw
+__hash__: U8moSktMmB7_r9D8hX_73Hh9HS4an9sBHBKhpspJGo4
 seo:
   title: >-
     [Updated] On March 1, 2021, "Replace (Backward compatibility mode)" will be

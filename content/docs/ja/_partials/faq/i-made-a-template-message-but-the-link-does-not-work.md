@@ -7,7 +7,7 @@ meta: >-
   {"date":"2018-02-08 00:00 UTC","tags":"bot-designer, line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/i-made-a-template-message-but-the-link-does-not-work
-__hash__: Yn-7Pu1BnLiANSUc7GzBkimBZWFnZdOa6Z3mTkV-Z5Y
+__hash__: IPawI_iMV1Jft49aa-7C1Xwyv3moOIS6nkX9wXRmhIo
 seo:
   title: Bot Designerでテンプレートメッセージを作成しましたがリンクが動作しません。
   description: >-

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-03-20 00:00 UTC","tags":"LINE
   Platform,Maintenance","locale":"ja"}
 path: /ja/_partials/news/2018/2018-03-20-change-ssl-root-certificate
-__hash__: LMDt0p19E5CFhkg5L6q29pZL46lTktXv0cu-iHUsMsY
+__hash__: tEkpxLptmePadFZxMRwBJIk-aYp-MDD6LBTRTAn5ohA
 seo:
   title: api.line.meのSSLルート認証局を変更します
   description: >-

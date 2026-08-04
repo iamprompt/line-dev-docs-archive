@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-11-27 06:00 UTC","tags":"console, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2024/2024-11-27-line-mini-app
-__hash__: JqEVT8SOxa0myXk-CuNgLBcZVsphnSAkwMk92KwBqRQ
+__hash__: lzz18YmPwityrVkR0QCj0Q2d9LEpfkK4odc6BYJaOm4
 seo:
   title: '[Updated] As of November 28, 2024, anyone can now publish LINE MINI Apps'
   description: ''

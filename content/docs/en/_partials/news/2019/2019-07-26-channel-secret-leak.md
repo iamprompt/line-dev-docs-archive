@@ -7,7 +7,7 @@ description: >-
   inconvenience caused.
 meta: '{"date":"2019-07-26 2:00 UTC","tags":"Outage report, Console","locale":"en"}'
 path: /en/_partials/news/2019/2019-07-26-channel-secret-leak
-__hash__: 8qHA5jJ58rbEDeD43e45dJs_uXMcpUS7blcGfyhUl-k
+__hash__: QD9sAcXjtgb439pAP3vYkLaqkFCf5sv7hGaIbcg_-s8
 seo:
   title: >-
     [Resolved] Member users were able to retrieve Channel secret because of a

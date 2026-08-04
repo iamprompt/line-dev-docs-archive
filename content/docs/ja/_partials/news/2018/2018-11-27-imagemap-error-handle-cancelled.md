@@ -5,7 +5,7 @@ description: >-
   2018年11月14日にお知らせしたイメージマップメッセージの仕様変更は、互換性維持のために中止させていただくことになりました。ご利用中のユーザー様にはご迷惑をおかけしたことを深くお詫び申し上げますとともに、何卒ご理解いただきますようお願い申し上げます。
 meta: '{"date":"2018-11-27 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-11-27-imagemap-error-handle-cancelled
-__hash__: vC43HRrs5LZXa6IVjL9Oi7PmDGFiXDikGm2LMfq4C6I
+__hash__: 4-wwiJK2LsRhFzF5c5vvQzwTkCXShDmpiJ3wYnlp1oU
 seo:
   title: ［変更］イメージマップメッセージの仕様変更について
   description: >-

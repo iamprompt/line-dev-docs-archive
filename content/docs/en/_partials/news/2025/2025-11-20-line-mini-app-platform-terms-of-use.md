@@ -8,7 +8,7 @@ description: >-
   of Use" for Japan on November 20, 2025.
 meta: '{"date":"2025-11-20 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-11-20-line-mini-app-platform-terms-of-use
-__hash__: d-o-yj68pe_pVaEsm2wCr2lAvJFJMTW-ES1c6gNW8no
+__hash__: 04AALNY3yW0OQ3HFoiF-cINKJKLHHFSj2kY7AyClQRs
 seo:
   title: >-
     LINE MINI App Platform Terms of Use for Japan were revised on November 20,

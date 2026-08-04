@@ -5,7 +5,7 @@ description: >-
   日本において、LINEミニアプリを更新する際に再審査が必要となる項目を減らしました。これにより、LINEミニアプリの機能の更新や仕様変更を実施しやすくなりました。
 meta: '{"date":"2022-12-09 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-12-09-mini-app-review
-__hash__: APNWvo9HzcwTQ75vYYI_Qdu5hIv85XJRu29k8ZMWinE
+__hash__: FlpMYFMBJvTcIWEyf0ZrcniX8bfs3vzj7PT2wo8GW_A
 seo:
   title: 日本において、LINEミニアプリのサービス内容を変更する際の再審査が不要になりました
   description: >-

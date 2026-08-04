@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-using-messaging-api
-__hash__: BOyhHRSXXAd-xx_kgdEgBH9HfHnba0FPklbCAyn-hJw
+__hash__: ihJeR9-keeupccHt4a7O1Ozk5RUpTUNRU45jR-umvPw
 seo:
   title: モジュールチャネルからMessaging APIを利用する
   description: null

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/get-platform-products
-__hash__: yYW8C38_ifTpVjHsUueEkI0urkbjbwREg0vwjW-q5Ik
+__hash__: G33ueiEr4qbrWdzvfrS_3imUSWMtpkLizN1VLGBiKLk
 seo:
   description: ''
 ---

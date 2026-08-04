@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/iap-client
-__hash__: OfC4UTJrYZnBS-rPGgnuy1BDwgL1waMlsHKV4I1cHgI
+__hash__: nr7uQIN_tnWWzpOrStKLPxI2k9H45WwGSA0dvNzhEF8
 seo:
   description: ''
 ---

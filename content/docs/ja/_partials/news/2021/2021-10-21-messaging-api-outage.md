@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-10-21 01:00 UTC","tags":"outage-report, messaging-api,
   options-for-corporate-customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-10-21-messaging-api-outage
-__hash__: AiYvlIHqHnm0xvIzNn_OjvxI5ZITlo_EuyDNpe7eJYU
+__hash__: sRPZaG1oxJ38epXivIGMvalnW88wwfIyJHS_nAJjzYY
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: Messaging APIにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。

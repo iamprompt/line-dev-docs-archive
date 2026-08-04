@@ -5,7 +5,7 @@ description: This is how a JSON file that follows the guidelines should look.
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/develop/share-messages-standard
-__hash__: STrc3eWww-kyGkDChZjS9QkAD9UKSJQsotTm0dCUzOo
+__hash__: J0J-7ZHbSemxGo_hF7Fune2xDcfRiyL9i53Plp2AKMU
 seo:
   title: An example of a JSON file that adheres to guidelines
   description: This is how a JSON file that follows the guidelines should look.

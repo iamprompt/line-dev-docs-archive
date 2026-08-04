@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/differences-between-liff-browser-and-external-browser
-__hash__: sWn0C8QM1Hg-1Sccq73nzvhJcYCzU4L19YROmDbUnIg
+__hash__: NthVN09drFrdXFpxqKOLpmaEISL4TSmsEdaLvtz6_qY
 seo:
   title: LIFFブラウザと外部ブラウザの違い
   description: ''

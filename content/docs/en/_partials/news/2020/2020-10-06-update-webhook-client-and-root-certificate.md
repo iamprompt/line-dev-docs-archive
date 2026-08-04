@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-10-06 01:00 UTC","tags":"Messaging API, SSL","locale":"en"}'
 path: /en/_partials/news/2020/2020-10-06-update-webhook-client-and-root-certificate
-__hash__: Rajh6RBZnfLmyH1tRcdPyEkDaojIZs32NXpQjQJeJCQ
+__hash__: '-ymP8yEG6YlH1zvSIHkxzhmU2fI9S2x4ved26jLxeng'
 seo:
   title: >-
     [Updated] TLS 1.0 and TLS 1.1 support by the webhook notification source

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/channel-consent-simplification
-__hash__: A9Nl_Htmqa0Nq8Mn5K9Z-NUmEAqj8aegnxH7z9ydgAE
+__hash__: KB6yrbw4_1Bry0WTYmtISIPImuypZRiMT-NVOoB1qO4
 seo:
   title: LINE MINI App authorization flow
   description: null

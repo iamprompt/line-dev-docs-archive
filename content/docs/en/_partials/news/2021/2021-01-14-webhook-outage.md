@@ -11,7 +11,7 @@ meta: >-
   {"date":"2021-01-14 00:00 UTC","tags":"Outage report, LIFF, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-01-14-webhook-outage
-__hash__: ajgCG3VPxBxkBIS0Jtuv6MHp0WJbWDOcP7WcTOiE-q4
+__hash__: WLRA5FJN3mXVwYWNcMi7YThYDi5Q-mElWBBcfpl9goA
 seo:
   title: '[Resolved] Notice about service outage for sending webhook events'
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/create-flex-message-including-video
-__hash__: VEnLtPGMEthHAEskj8SNP4AbgKkmHtPWg0jLcrzrxLk
+__hash__: ZeY7_CLikhE83R9LO92MA4re9RfkdWCZ99zFVqu-w_o
 seo:
   title: 動画を含むFlex Messageを作成する
   description: null

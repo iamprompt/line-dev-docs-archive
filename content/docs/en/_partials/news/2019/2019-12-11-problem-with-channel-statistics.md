@@ -8,7 +8,7 @@ description: >-
   TSV file that you can generate by clicking Download as TSV.
 meta: '{"date":"2019-12-11 00:00 UTC","tags":"Messaging API, Console","locale":"en"}'
 path: /en/_partials/news/2019/2019-12-11-problem-with-channel-statistics
-__hash__: bnnMyypnW33ZmJ50cflc_ZUSTw-O99KqTByUldh_mvo
+__hash__: FjuzfDNZDkb2FHFR56epG8XhUyuVFE9f-azmLUg47K4
 seo:
   title: '[Resolved] Problem with channel statistics in console'
   description: >-

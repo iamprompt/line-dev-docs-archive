@@ -8,7 +8,7 @@ description: >-
   API documentation.
 meta: '{"date":"2021-04-07 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-07-list-of-available-stickers
-__hash__: uDANFy3e_vSZbJcmNoV_2TK_3lkWxBIkibbZf6oqVx0
+__hash__: zCrdJuq6fUwbX2QADFB00Kba-ovTTB1-_Q2guCnggQ8
 seo:
   title: More stickers are available with Messaging API
   description: >-

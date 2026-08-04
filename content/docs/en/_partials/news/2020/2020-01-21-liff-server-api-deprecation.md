@@ -6,7 +6,7 @@ description: >-
   v1 Server API. On that date, these features will be removed:
 meta: '{"date":"2020-01-21 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-21-liff-server-api-deprecation
-__hash__: YopDBdMZ54qxClUwp1w8bzVfXyyIDnVlBpvTi59nNPs
+__hash__: 6Jrtk4kyp1fu17EjLZg3obUx4OjhssoeRmLN2qxswik
 seo:
   title: LIFF v1 Server API end-of-life on March 31, 2020
   description: >-

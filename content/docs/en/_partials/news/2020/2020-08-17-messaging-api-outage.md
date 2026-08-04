@@ -9,7 +9,7 @@ meta: >-
   {"date":"2020-08-17 00:00 UTC","tags":"Outage report, LINE
   Platform","locale":"en"}
 path: /en/_partials/news/2020/2020-08-17-messaging-api-outage
-__hash__: xiEtYWxVeBBc3i_YGlZM6TNnZfFlo2hYlWzBsAewZJY
+__hash__: lkeMFpfbPSjWQDkDdwJNRyu1hb_zkEQrXosQWp8bmkA
 seo:
   title: '[Resolved] Notice about service outage for LINE Developers site'
   description: >-

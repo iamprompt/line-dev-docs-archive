@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-audience
-__hash__: Wb-hzidrUjNnVw5wIAqGgySImu3nbwvOiovg4QMn-oI
+__hash__: PW0f4KA5bhMMH8tritnB9A7zFrNdVRQ34H4zfBqwE9M
 seo:
   title: Use audiences
   description: null
@@ -71,7 +71,7 @@ If you want to use audiences between the Messaging API and tools other than the 
 
 ### Share your audience in Business Manager
 
-The [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"} allows you to share specific audiences across multiple services (such as the LINE Ads Manager) and use the audiences with each other.
+The [Business Manager](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"} allows you to share specific audiences across multiple services (such as the LINE Ads Manager) and use the audiences with each other.
 
 You can share audiences between Messaging API channels under the same provider by using the audience sharing function in the Business Manager. However, only verified accounts and :glossary-tooltip[[premium accounts](/glossary/#premium-account)]{glossary-id="premium-account"} can set audience sharing in the Business Manager.
 
@@ -80,7 +80,7 @@ You can get data of the shared audience in Business Manager by using the followi
 - [Get a list of shared audiences in Business Manager](/reference/messaging-api/#get-shared-audience-list)
 - [Get shared audience data in Business Manager ](/reference/messaging-api/#get-shared-audience)
 
-For more information on how to share audiences, see [Sharing Resources](https://data.linebiz.com/business-manager/manual/bmmaniyuarushare003){rel="[\"nofollow\"]"} (only available in Japanese) in the Business Manager manual.
+For more information on how to share audiences, see [Sharing Resources](https://www.lycbiz.com/jp/manual/BusinessManager/BMmaniyuarushare003/){rel="[\"nofollow\"]"} (only available in Japanese) in the Business Manager manual.
 
 ## Audience specification
 

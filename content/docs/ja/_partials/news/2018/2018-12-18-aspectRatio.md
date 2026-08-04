@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2018-12-18 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-12-18-aspectratio
-__hash__: gMHVnrEEVYorOGhnY67Cz2aa9cHqxtgo3c_-S8nhRww
+__hash__: rx2UaEA52a02TcWP-myLO7H2N8BDBAKKxQ8mB6YFGjw
 seo:
   title: Messaging APIのFlex Messageの仕様が変更されました
   description: ''

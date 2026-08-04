@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/action-object-camera
-__hash__: YtkgUH3280yQtFOP5CpmwoOZj2IxErbABFjGTHeTS80
+__hash__: ncDHeiVEuY6hF8ZvKN7u7HtEs-BHax4MF_oq9U1ff2A
 seo:
   description: ''
 ---

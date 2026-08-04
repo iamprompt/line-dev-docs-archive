@@ -13,7 +13,7 @@ meta: >-
   end-of-life","locale":"en"}
 path: >-
   /en/_partials/news/2021/2021-01-18-reminder-update-webhook-client-and-root-certificate
-__hash__: G0GER73noGlb_jyK_Uw-MS9O-Mczp1VHuov-wWRS7b8
+__hash__: 3DZSUK3KvpbRXI4evTjnT_gUGS91mpF4fUVAYaHwZcs
 seo:
   title: >-
     Reminder: TLS 1.0 and TLS 1.1 support by the webhook notification source

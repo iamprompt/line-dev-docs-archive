@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"sidebar":false,"feedback_form":false,"search_index":false}'
 path: /en/terms-and-policies
-__hash__: DgfDDlrkTEnlWeNsIP8yuD0Ku1fyLz_jNTx5Q9GIZMM
+__hash__: CKPwfNrXVyZoJWm7vG_iMBxoZLr1GuejrHuR5d26Z2U
 seo:
   title: Terms and policies
   description: ''

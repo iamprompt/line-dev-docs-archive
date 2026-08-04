@@ -4,7 +4,7 @@ navigation: true
 description: 2026年2月19日にLINEミニアプリポリシーを改定します。
 meta: '{"date":"2026-02-06 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-02-06-line-mini-app-policy
-__hash__: 82jSWxTePRKbxrDycHEMSLG83gUYIt7_5CoKb_-MSrc
+__hash__: zJ9O4eAJVwzUaCCtyOEmf_A2olTFJK5231lW9ufOAqM
 seo:
   title: 2026年2月19日にLINEミニアプリポリシーを改定します
   description: 2026年2月19日にLINEミニアプリポリシーを改定します。

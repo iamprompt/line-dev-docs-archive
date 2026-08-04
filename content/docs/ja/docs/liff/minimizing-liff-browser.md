@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/minimizing-liff-browser
-__hash__: I9RPfpU84xSOa646gnNKpsMMLb3KUTeoQ0Oc_f71dao
+__hash__: nZ4TjdtV-w4v-zkk30Q5Oto9XgTP82ZZP1A13zOGYNY
 seo:
   title: LIFFブラウザを最小化する
   description: ''

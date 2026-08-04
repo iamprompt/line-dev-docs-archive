@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-04-05 00:00 UTC","tags":"messaging-api,
   rich-menu","locale":"ja"}
 path: /ja/_partials/news/2022/2022-04-05-release-validate-rich-menu-object
-__hash__: ZeVMhi_lvZNeaIT2QGNx5DPubWo0Kc69a9Fo2Hw8ryg
+__hash__: u_fKcddjQB9YVNLV24XyZRN9o9Qv0u_PaNdINB2ildU
 seo:
   title: リッチメニューオブジェクトを検証するエンドポイントを追加しました
   description: Messaging APIで、リッチメニューオブジェクトを検証するエンドポイントを追加しました。

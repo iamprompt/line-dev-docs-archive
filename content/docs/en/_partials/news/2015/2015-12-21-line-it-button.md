@@ -7,7 +7,7 @@ description: >-
   users share websites with their friends on LINE.
 meta: '{"date":"2015-12-21 00:00 UTC","tags":"LINE Platform","local":"en"}'
 path: /en/_partials/news/2015/2015-12-21-line-it-button
-__hash__: vJ1_BTBP_d4LsJeMGaSq0VrPLwk-VQ2NHAkKK8kAcIg
+__hash__: _aSh_PuYl49my8BrZ9txtI8abryVg9JCa2HItXEldTQ
 seo:
   title: Using the LINE it! Button on Websites page published
   description: >-

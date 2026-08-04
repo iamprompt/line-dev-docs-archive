@@ -8,7 +8,7 @@ meta: >-
   messaging-api, liff, line-mini-app, line-login","locale":"ja"}
 path: >-
   /ja/_partials/news/2023/2023-12-05-notice-and-apology-regarding-information-leakage
-__hash__: j_fuxJ8j33CXCl_x-L1pf5LhWaWfWAotFCpzGtWJM70
+__hash__: 5Isx3MQDP0TO0VVC6Z_qC52XpqNAtyEZPHO3xSnbgzE
 seo:
   title: 不正アクセスによる情報漏えいとLINE Developersへの影響についてお知らせ
   description: >-

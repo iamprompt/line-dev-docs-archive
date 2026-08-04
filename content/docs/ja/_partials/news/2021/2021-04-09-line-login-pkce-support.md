@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインがPKCE対応されました。PKCEを導入することで、LINEログイン v2.1の認可フローをよりセキュアにすることができます。
 meta: '{"date":"2021-04-09 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-09-line-login-pkce-support
-__hash__: uciim1FrUDpxifYh8y-AZn1k8hV2x-9P1VHm4IEl3iw
+__hash__: ER9s_wc4HhkmXB4RTansdzutyP7Y8lvJB8_SLLi16KA
 seo:
   title: LINEログインがPKCE対応されました
   description: LINEログインがPKCE対応されました。PKCEを導入することで、LINEログイン v2.1の認可フローをよりセキュアにすることができます。

@@ -12,7 +12,7 @@ meta: >-
   {"date":"2023-03-08 01:00 UTC","tags":"messaging-api, line-blockchain,
   console","locale":"en"}
 path: /en/_partials/news/2023/2023-03-08-provide-information-to-zhd
-__hash__: RWlX2OvS4dy2xCydzlygSicBjwrN41JSsyUOktUPJHo
+__hash__: j2TFuBmKmq-vspvqCSa_bKZpf42C51fkVDzDC6I3J9w
 seo:
   title: >-
     "Individual Terms and Conditions for Provision of Information to ZHD Group"

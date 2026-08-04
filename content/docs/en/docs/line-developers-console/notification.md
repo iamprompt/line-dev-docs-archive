@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-developers-console/notification
-__hash__: '-z0ZwrDIrMud4rLcwJUq96dQ-7t8KPsl0iRdlzva6rE'
+__hash__: rtmjX6lkJKgztbXSPHCsq7wItLvdAzxWLcQrX7hwBu4
 seo:
   title: Receive notifications via email or the notification center
   description: null

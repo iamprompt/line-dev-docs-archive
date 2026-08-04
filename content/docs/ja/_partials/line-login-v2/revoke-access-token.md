@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-login-v2/revoke-access-token
-__hash__: J2qdMzRzJ6SR2wtV15zDtwbEuE_GZjvhk1zECLNzp9Q
+__hash__: AYPw8YZ6yK0gp2IMOW484YoEwezJJUcLB8SKwYL11Bc
 seo:
   description: ''
 ---

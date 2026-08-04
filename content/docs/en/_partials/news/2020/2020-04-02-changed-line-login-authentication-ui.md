@@ -6,7 +6,7 @@ description: >-
   Login easier to see and use.
 meta: '{"date":"2020-04-02 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-02-changed-line-login-authentication-ui
-__hash__: 8g1BB0mKelg2nA3jvLpMmVrfkhMC5zrkcXwXRuRNX9k
+__hash__: '-wUx3CXPnQm2XfcnBCObxlKg3_lsQunsD_5i38-WmxY'
 seo:
   title: The consent screen for LINE Login authorization has changed
   description: >-

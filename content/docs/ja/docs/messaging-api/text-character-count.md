@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/text-character-count
-__hash__: 1zrjDWmgWkxiM0rlKXYP0kFkxpg-RYL-1u6B-AH1bHo
+__hash__: PgUOttWTIJv1_xjY8jH94tFodcQrfS5LsYfzCcV9Bf4
 seo:
   title: テキストの文字数のカウント
   description: null

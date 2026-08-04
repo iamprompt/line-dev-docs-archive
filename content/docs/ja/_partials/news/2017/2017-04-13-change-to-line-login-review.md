@@ -8,7 +8,7 @@ description: >-
   Business Center will automatically have the "published" status.
 meta: '{"date":"2017-04-13 00:00 UTC","tags":"LINE Login","local":"en"}'
 path: /ja/_partials/news/2017/2017-04-13-change-to-line-login-review
-__hash__: PWmB5Sb3Zgjax03Yvg0JfNFMc2UMUV2hoTq9vyP1BjI
+__hash__: 6_QY51JdP83AQKMAEYXFq-DL9sStyS71l-kaW0wpW40
 seo:
   title: Changes to the LINE Login review criteria
   description: >-

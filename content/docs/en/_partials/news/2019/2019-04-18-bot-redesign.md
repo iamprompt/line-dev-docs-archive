@@ -9,7 +9,7 @@ description: >-
   as follows:
 meta: '{"date":"2019-04-18 00:00 UTC","tags":"Messaging API, Console","locale":"en"}'
 path: /en/_partials/news/2019/2019-04-18-bot-redesign
-__hash__: pUJccmgXGXLAlHR64JYXyTwTaM8nC2PML6q3TShGyiI
+__hash__: VS9BJpQUOwezpB9PKWoLknwjgpCGKoxpGo0RRST3-wE
 seo:
   title: >-
     Changes associated with the integration of LINE@ accounts into LINE Official

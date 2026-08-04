@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-07-01 01:00 UTC","tags":"messaging-api,
   line-official-account","locale":"ja"}
 path: /ja/_partials/news/2026/2026-07-01-rich-menu-insight
-__hash__: J7hh2ua8V2pZx7CxpQeM0kPhpeNOYiR7OFM18GWcu28
+__hash__: 37zWlVG6jOPBbPE6HWXk7fBcazbuJBaEnfCwzAJploI
 seo:
   title: Messaging APIで作成したリッチメニューの統計情報が取得できるようになりました
   description: Messaging APIで作成したリッチメニューにおいて、表示された回数やクリック数などの統計情報が取得できるようになりました。

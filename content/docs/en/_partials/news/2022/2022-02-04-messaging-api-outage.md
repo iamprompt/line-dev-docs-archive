@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-02-04 00:00 UTC","tags":"outage-report,
   messaging-api","locale":"en"}
 path: /en/_partials/news/2022/2022-02-04-messaging-api-outage
-__hash__: 8JCElM1wD8bberwr8ciWfBJbtTDyjcLV9LewWJAH-qM
+__hash__: b11Frz1Ac-LgmXHcFYZykf3Ip5XAU1nz2YBQtncxG9o
 seo:
   title: '[Resolved] Notice about service outage for the Messaging API'
   description: >-

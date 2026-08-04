@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-03-24 02:00 UTC","tags":"liff, line-mini-app, LINE
   Login","locale":"en"}
 path: /en/_partials/news/2022/2022-03-24-permission-consent-screen-has-been-updated
-__hash__: g1ZUnrY8K_m8n4xwAFPjcMkmN_xS8ptgqznXLt2hvDA
+__hash__: z6_I7KteSdSCiT-qSMa_pzQLsvGRCHj2cNwAlfmXpq4
 seo:
   title: The design of the channel consent screen has been changed
   description: >-

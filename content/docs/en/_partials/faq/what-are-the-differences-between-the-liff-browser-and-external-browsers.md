@@ -9,7 +9,7 @@ meta: >-
   line-mini-app","priority":1000,"locale":"en"}
 path: >-
   /en/_partials/faq/what-are-the-differences-between-the-liff-browser-and-external-browsers
-__hash__: ZPttfxuPJfSX2TcIBNlKaAeQVIsUKFKBZKrF9_6dXo8
+__hash__: CNDqfpEfA58XkBSkNJvyYYIPrH1UJvrOZQ3W8RmD0b0
 seo:
   title: What are the differences between the LIFF browser and external browsers?
   description: >-

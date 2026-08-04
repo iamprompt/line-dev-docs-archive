@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/in-app-purchase/iap-settings
-__hash__: Nt6sH5sCHM_icHxJEVvWDIf5X1mO-l93DSvhoDwR4Gk
+__hash__: Zq-4AIjPeN9qYz7rZVuEkJNjp1s0rIeCjH5taQS-Oss
 seo:
   title: Set up in-app purchase
   description: null

@@ -6,7 +6,7 @@ description: >-
   SDKのプラガブルSDKに実装しているちょっとした型の工夫について紹介します。
 meta: '{"date":"2026-07-02 00:00 UTC","tags":"liff","locale":"ja","sidebar":false}'
 path: /ja/tips/2026/07/02/pluggable-sdk-type
-__hash__: dxVHIUjsXiUkcW1EMY1WA-yetWfmAFYR_xY0OqshdOI
+__hash__: sfzXb_eBFh_DBLJxHWNnsBJ6uIkm3RLE1jsTw1TIqwY
 seo:
   title: LIFF SDKのプラガブルSDKに実装しているちょっとした型の工夫
   description: >-

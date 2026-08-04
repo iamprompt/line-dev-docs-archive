@@ -9,7 +9,7 @@ meta: >-
   end-of-life","locale":"ja"}
 path: >-
   /ja/_partials/news/2021/2021-01-18-reminder-update-webhook-client-and-root-certificate
-__hash__: 931FJ7lTwxDJfpnbHXQGeq_ngyBhny9HwiZSqIkIDUE
+__hash__: Mh5_KVq63pUVM04CWjces0EF8_kDRuPFX31idXGnCqI
 seo:
   title: 【リマインド】2021年1月末をもってWebhook通知元におけるTLS 1.0、TLS 1.1のサポートを終了します
   description: >-

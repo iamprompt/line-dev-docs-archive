@@ -8,7 +8,7 @@ meta: >-
   {"date":"2015-09-15 00:00 UTC","tags":"iOS, LINE Login, LINE
   SDK","local":"en"}
 path: /en/_partials/news/2015/2015-09-15-ios-settings
-__hash__: 2YXStybFiTDG4NQe1CitaG4sVhzd310_zolAzZKIRqc
+__hash__: uVsUPfPiJ1Nxz62B2iQoW5hWizWc7nhYruBSQYhpFpw
 seo:
   title: Settings for iOS 9 or later
   description: >-

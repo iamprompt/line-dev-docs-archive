@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/common/channel-access-token
-__hash__: 0THsiOgz50mkJo5wSYFMns9EcdFj1bGPuD9TmCfPSqE
+__hash__: G3eyxG5HsLwQdpquAYiMAvtAQmdiKbwi-sABqYXgzJ8
 seo:
   description: ''
 ---

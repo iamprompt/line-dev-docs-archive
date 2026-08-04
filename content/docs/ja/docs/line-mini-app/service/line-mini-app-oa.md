@@ -4,7 +4,7 @@ navigation: true
 description: LINE公式アカウントを使ってLINEミニアプリを宣伝します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/line-mini-app-oa
-__hash__: nT-AJFq1MLy7TQGy6wAAV6FSv47hLngmBj2y6Rjkz3c
+__hash__: iVTl_8WJGlxRNBi4eHNyjNpwrSWNC3sshCGlM-vyod8
 seo:
   title: LINE公式アカウントを活用する
   description: LINE公式アカウントを使ってLINEミニアプリを宣伝します。

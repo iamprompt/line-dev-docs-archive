@@ -7,7 +7,7 @@ description: >-
   channels, and won't affect those who don't use module channels.
 meta: '{"date":"2025-01-17 00:00 UTC","tags":"line-platform, console","locale":"en"}'
 path: /en/_partials/news/2025/2025-01-17-line-developers-agreement
-__hash__: gEO35WJ52DZkVtZ58NfteE74RNBKYmzwSmiqVS6LNio
+__hash__: 0sg0tKLad6C8iYRDSWJsljw44hxI4aQY0V0AL9JJ4aM
 seo:
   title: On February 3, 2025, LINE Developers Agreement will be revised
   description: >-

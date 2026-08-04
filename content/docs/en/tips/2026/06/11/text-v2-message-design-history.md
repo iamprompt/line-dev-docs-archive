@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-06-11 00:00
   UTC","tags":"messaging-api","locale":"en","sidebar":false}
 path: /en/tips/2026/06/11/text-v2-message-design-history
-__hash__: W8r7fsoKbgsHhv7SvdGwwtgPb6qM7xWGVuwi1LK_E0w
+__hash__: luIOOCJke5UfxQQKTo8yBBUli2Gzy7B-TZMjQR22vAI
 seo:
   title: How the Messaging API development team designed the text message (v2) syntax
   description: Hi, I'm Habara, an engineer working on the Messaging API.

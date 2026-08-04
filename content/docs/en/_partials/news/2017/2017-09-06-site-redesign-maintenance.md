@@ -8,7 +8,7 @@ description: >-
   Developers site will be unavailable at the following date and time.
 meta: '{"date":"2017-09-06 00:00 UTC","tags":"Maintenance","local":"en"}'
 path: /en/_partials/news/2017/2017-09-06-site-redesign-maintenance
-__hash__: BTBv6K6c_jyEf2W2PAhls3Tpc7XZFUWcoVBIe99a_NI
+__hash__: Pl9XuqufyL_xiiYEejzFW4knXudo7YqHimEU1IrhmOw
 seo:
   title: LINE Developers site redesign and maintenance
   description: >-

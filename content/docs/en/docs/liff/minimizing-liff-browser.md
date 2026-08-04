@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/minimizing-liff-browser
-__hash__: G9HTfuweEPd8IDuuIQs6jguHuTyTHj0wSE0pDOrczOg
+__hash__: 3EaHHltrO5lF42Agtipi8nqsIaX19UQQzphC3SeweZI
 seo:
   title: Minimizing LIFF browser
   description: ''

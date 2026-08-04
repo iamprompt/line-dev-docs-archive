@@ -10,7 +10,7 @@ meta: >-
   {"date":"2023-12-13 00:00 UTC","tags":"line-platform,
   community","locale":"en"}
 path: /en/_partials/news/2023/2023-12-13-developers-community-page-released
-__hash__: e7FpiABuSyRQZaet4IVFJDFJjQyEDTisUvBxnxZJxbU
+__hash__: ljxccOD_tP-7974yydSKCrk-9Y4u8fj2e9jVYcCAMuM
 seo:
   title: >-
     Partial content of LINE Developers Community has been migrated to LINE

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-11-27 00:00 UTC","tags":"line-mini-app,
   end-of-life","locale":"en"}
 path: /en/_partials/news/2024/2024-11-27-line-mini-app-header-redesign
-__hash__: 55JJ00D5gzEmgEa16IJPmTYKMG1nGl3YrgHIG-fziUI
+__hash__: yHdiTeSTpbOZPmt4Sy72ixjU24Wiu8eFo4fL9Sva1eU
 seo:
   title: >-
     [Updated] Due to the redesign of the LINE MINI App header, the "Header

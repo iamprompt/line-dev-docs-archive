@@ -4,7 +4,7 @@ navigation: true
 description: 2020年10月13日のニュースでお知らせしたとおり、現状のLINE Developersコンソールには、以下のアカウントでログインできます。
 meta: '{"date":"2020-12-15 00:00 UTC","tags":"Console, Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-12-15-login-account-doc
-__hash__: Tz6JUco2P9ZsOXLqKTqbURXsbKixy84YmPrRtS7IxmI
+__hash__: gbpc2Iaf99mOuOgKUMSX1mFh0evplxGfaJg3PGLzFK0
 seo:
   title: LINE Developersコンソールへログインするアカウントごとに利用できる機能の一覧を追加しました
   description: 2020年10月13日のニュースでお知らせしたとおり、現状のLINE Developersコンソールには、以下のアカウントでログインできます。

@@ -8,7 +8,7 @@ description: >-
   new era.
 meta: '{"date":"2024-04-01 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-04-01-line-dc-bot-awards-2024
-__hash__: oKUM5Wwh4QfXAz9svJkXJmeyL529Sa5BoHIFE6P9CUI
+__hash__: RsLPr6Ns2zMjcCc1oqbJ3Oh-dg82zr9CWgOMlO3mykc
 seo:
   title: Announcement of the LINE DC BOT AWARDS 2024
   description: >-

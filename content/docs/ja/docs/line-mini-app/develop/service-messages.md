@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/service-messages
-__hash__: 65-6tkqaQtKlDfV6-GHJY4bXJLCJrPcRZe_CtI1xwm4
+__hash__: kE6B0Bs9UkkgMsyOBycHWZQhZjTk4FZ32umC3-ihPLc
 seo:
   title: サービスメッセージを送信する
   description: null

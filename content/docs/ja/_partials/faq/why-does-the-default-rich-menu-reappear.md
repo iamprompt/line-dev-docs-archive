@@ -7,7 +7,7 @@ meta: >-
   {"date":"2025-05-19 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/why-does-the-default-rich-menu-reappear
-__hash__: vlDt0bT_8HV4O_VGkyZQL02MYanOAWVtGOzN5I_G7yE
+__hash__: lw2q-YCi_kW2sY_rZpofFyqBQc2bzOLZmyXPp6A49WY
 seo:
   title: ユーザー単位のリッチメニューを設定したのに、デフォルトのリッチメニューに戻ってしまうのはなぜですか？
   description: >-

@@ -5,7 +5,7 @@ description: >-
   LINE公式アカウントでは、従来は［応答モード］という設定で、Webhookを利用するための［Bot］モードか、チャットを利用するための［チャット］モードのどちらかを選ぶ仕様となっていました。この仕様を変更し、2022年11月30日より、LINE公式アカウントでWebhookとチャットが併用できるようになりました。
 meta: '{"date":"2022-12-01 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-12-01-use-both-chats-and-webhooks
-__hash__: _3D53UuoyBRD4uWMtYSNFcYsP4mNqt-UNxWz4SQ51EI
+__hash__: UyLz3vMYavXiSbxqcEqh54ZuwgKpLUKH3a9w4LCHPkA
 seo:
   title: LINE公式アカウントでWebhookとチャットが併用できるようになりました
   description: >-

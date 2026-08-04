@@ -6,7 +6,7 @@ description: >-
   the CDN path.
 meta: '{"date":"2020-07-01 04:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-01-published-liff-npm-package
-__hash__: cCQ1muW6HUC0N5_bpIVeswZ3j-HLTZaDPD-0DmeB9pg
+__hash__: cMDJrvao7suGR9yrpxLIz-bIuvWQQMr4k_C2C4yUN7E
 seo:
   title: LIFF SDK released as an npm package
   description: >-

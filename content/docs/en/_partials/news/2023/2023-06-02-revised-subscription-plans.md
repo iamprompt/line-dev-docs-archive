@@ -8,7 +8,7 @@ description: >-
   sent for free has been changed. The revised plans apply to Japan only.
 meta: '{"date":"2023-06-02 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2023/2023-06-02-revised-subscription-plans
-__hash__: 4PXUD0n6aCDp-DcDpRDKwMk3GXHZc1AdiGYPw-RSc-U
+__hash__: CBw1IVskdeUvVixRzbroUExZ9kqm5Q7BPBmBwfsB-bw
 seo:
   title: >-
     LINE Official Account subscription plans have been revised as of June 1,

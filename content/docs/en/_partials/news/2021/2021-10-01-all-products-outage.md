@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-10-01 01:00 UTC","tags":"Outage report, LINE Platform, Messaging
   API, LINE Login, LIFF, LINE MINI App","locale":"en"}
 path: /en/_partials/news/2021/2021-10-01-all-products-outage
-__hash__: ksxNN-Qu33uw3eiDqpupplKLE1lrya-SeYWyTOihXSU
+__hash__: CmWpVJTB2oA3pAyRByfHEZI__49WShkjR5yilOdb9Sc
 seo:
   title: '[Resolved] Notice about service outage for LINE Platform'
   description: >-

@@ -7,7 +7,7 @@ meta: >-
   line-mini-app, line-platform, maintenance, messaging-api,
   options-for-corporate-customers","locale":"en"}
 path: /en/_partials/news/2025/2025-07-09-console-maintenance
-__hash__: sQ6SeQU2Gwzamu1aH2RWuXeoVjf4v_zXGnovQmtSjJc
+__hash__: gyfD3aLgu4ez6qP4-eT28TEltxg0h0PlptxxuZorYdM
 seo:
   title: '[Updated] Maintenance notice for the LINE Developers Console'
   description: ''

@@ -4,7 +4,7 @@ navigation: true
 description: 2024年10月7日にお知らせしたとおり、2025年3月31日をもって、LINE Notifyのサービスを終了しました。
 meta: '{"date":"2025-04-01 00:00 UTC","tags":"end-of-life","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-04-01-line-notify
-__hash__: nqNoKdNJKM7f_ba_4q3eonOL0MiGBBqLNZcjnU232Wc
+__hash__: OjXQSD689YyioF_38BAX78uMw6-a-3hqD6bu5SsyYt8
 seo:
   title: 2025年3月31日をもって、LINE Notifyのサービスを終了しました
   description: 2024年10月7日にお知らせしたとおり、2025年3月31日をもって、LINE Notifyのサービスを終了しました。

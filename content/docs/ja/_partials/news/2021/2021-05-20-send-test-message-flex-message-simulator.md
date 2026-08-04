@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-05-20 00:00 UTC","tags":"Flex Message Simulator, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-05-20-send-test-message-flex-message-simulator
-__hash__: LXVAmUCrj7KX4i2QYFirnDntHV5ONdxsAT-FnVNw_7c
+__hash__: ZG6T8tgmuFk6yuE4rx7vB5mG6acSZ197xdeSh4-XNcQ
 seo:
   title: Flex Message Simulatorからテストメッセージを送信できるようになりました
   description: >-

@@ -10,7 +10,7 @@ meta: >-
   {"date":"2019-06-18 7:00 UTC","tags":"Outage report, Messaging API,
   Console","locale":"en"}
 path: /en/_partials/news/2019/2019-06-18-plan-migration-outage
-__hash__: VYj_uuhBzO0Ci5pv4Q_wajaIzNdvg5YfBan3jL0mGEE
+__hash__: YhXd3NhEQUbUqa0YvUEGs3TQdb4MQplCb4ga6TWW9Tc
 seo:
   title: '[Resolved] Notice of problems with migration of LINE Official Accounts'
   description: >-

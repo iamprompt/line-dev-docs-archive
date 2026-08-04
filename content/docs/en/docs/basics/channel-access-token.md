@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/basics/channel-access-token
-__hash__: '-H-S2ce90yUnY8LTifbidqS95vZ_cBQhlWMdsEvbYgY'
+__hash__: zqThUjdeAP2kiY4dLvjn6VH-QMQP_qOaH0vlxgPtCRg
 seo:
   title: Channel access token
   description: null

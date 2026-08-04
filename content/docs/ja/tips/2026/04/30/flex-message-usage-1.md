@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-04-30 00:00 UTC","tags":"docs, messaging-api,
   flex-message","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/30/flex-message-usage-1
-__hash__: N6_F7TZfy6ejjNerd8E8ieRQmRxrFqGexbGTcYMYoqU
+__hash__: eN0anmVBouopit2mRpufy5pjfZA3swBX8zxA-kn811E
 seo:
   title: Flex Messageを使いこなす パート1
   description: >-

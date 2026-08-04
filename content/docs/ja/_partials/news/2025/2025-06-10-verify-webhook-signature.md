@@ -6,7 +6,7 @@ description: >-
   APIドキュメント』に、「Webhookの署名を検証する」を追加しました。このドキュメントでは、Webhookを受信した際にボットサーバーでやるべき署名検証について解説しています。
 meta: '{"date":"2025-06-10 00:00 UTC","tags":"docs, messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-06-10-verify-webhook-signature
-__hash__: 3B2bqRZ2915BzlgyGqWMO0wuDHL3nDtaqrz9AO2tL1U
+__hash__: hmcMKp9N9C_da0mK7fbnXQGUMZn7NyvW0sBaap645-0
 seo:
   title: 『Messaging APIドキュメント』にWebhookの署名検証に関するドキュメントを追加しました
   description: >-

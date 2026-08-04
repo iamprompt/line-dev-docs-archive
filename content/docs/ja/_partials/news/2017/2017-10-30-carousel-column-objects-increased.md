@@ -6,7 +6,7 @@ meta: >-
   {"date":"2017-10-30 00:00 UTC","tags":"Messaging API, Template
   messages","locale":"ja"}
 path: /ja/_partials/news/2017/2017-10-30-carousel-column-objects-increased
-__hash__: aOs4RJn1SNDGRqvgmuN__HAH7-ctUlCj-fdHpjv2P8Y
+__hash__: PCBUZYMhMH5jBXscLW7NZDiOxAzLGmO_jIh2XNGw5Ts
 seo:
   title: テンプレートメッセージに設定できるカラムオブジェクト数が増えました
   description: カルーセルタイプと画像カルーセルタイプのテンプレートメッセージに含められるカラムオブジェクトの数が、5から10に増えました。

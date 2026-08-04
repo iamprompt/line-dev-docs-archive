@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-02-26 15:00 UTC","tags":"Unity, Android, iOS, LINE
   SDK","locale":"en"}
 path: /en/_partials/news/2019/2019-02-26-unity-sdk-released
-__hash__: oNuftDh9_UgNcr1fOUr6zX1RvRZdd1SnB9zMtuaPx7M
+__hash__: xJO7CAZR00EOYlDTDF_s4XjlQXpNe3UUyFE-21VXtBM
 seo:
   title: LINE SDK 1.0.0 for Unity released
   description: We released the LINE SDK 1.0.0 for Unity.

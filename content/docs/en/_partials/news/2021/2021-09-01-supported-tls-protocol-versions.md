@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-09-01 00:00 UTC","tags":"LINE Platform, SSL,
   end-of-life","locale":"en"}
 path: /en/_partials/news/2021/2021-09-01-supported-tls-protocol-versions
-__hash__: figdD90I-zgHWjzYGdmKJXwJhtTlHzkW6GVIceEDCiA
+__hash__: auBs9z9l8t1PiPCPq94NSkIbQIlNWlxMcJ9s_zHgqQo
 seo:
   title: >-
     TLS 1.0 and TLS 1.1 support for LINE API has been discontinued at the end of

@@ -4,7 +4,7 @@ navigation: true
 description: LIFF SDKにliff.getAccessToken()メソッドが追加されました。
 meta: '{"date":"2019-02-07 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-02-07-liff-get-access-token
-__hash__: p5oSMMoCV8QCKzv1x6aIdnkaBFhAqSLAcK8nIGIedWo
+__hash__: rXQFJJppcKFtpSPry4WCzkQoHDFdeAMm7hr1WT8yOfE
 seo:
   title: LIFF SDKでアクセストークンを取得できるようになりました
   description: LIFF SDKにliff.getAccessToken()メソッドが追加されました。

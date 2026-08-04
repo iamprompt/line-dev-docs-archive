@@ -9,7 +9,7 @@ meta: >-
   Console","locale":"ja"}
 path: >-
   /ja/_partials/news/2021/2021-03-10-line-mini-app-background-setting-unavailable
-__hash__: '-cglM5leX_ceTkyE98cxfzxKJUVYlx1coHwuaFqpzJw'
+__hash__: g2yJIbmE1j2PXNr92wOHLeTO3u0yRdXUl4b5uE0KD38
 seo:
   title: LINE DevelopersコンソールでLINEミニアプリの「ヘッダー背景色」の設定が一時的にできなくなります
   description: >-

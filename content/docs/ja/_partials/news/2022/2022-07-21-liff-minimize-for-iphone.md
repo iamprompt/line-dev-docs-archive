@@ -4,7 +4,7 @@ navigation: true
 description: 2022年6月2日のニュースでお知らせしたLIFFブラウザの最小化の仕様を一部変更します。
 meta: '{"date":"2022-07-21 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-07-21-liff-minimize-for-iphone
-__hash__: DXuohZUy2p8Vgkzg-ItRToEjYsuRKUrP3EqHcxtHrb4
+__hash__: kf6fIRyPhEDK5VnNt2wFoFMvDhFETOIkkKIubDcODC4
 seo:
   title: iOS版LINEバージョン12.12.0以降で、LIFFブラウザの最小化の仕様を一部変更します
   description: 2022年6月2日のニュースでお知らせしたLIFFブラウザの最小化の仕様を一部変更します。

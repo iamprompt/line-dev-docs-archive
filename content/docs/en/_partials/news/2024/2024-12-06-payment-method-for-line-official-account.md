@@ -12,7 +12,7 @@ meta: >-
   {"date":"2024-12-06 00:00 UTC","tags":"line-official-account,
   messaging-api","locale":"en"}
 path: /en/_partials/news/2024/2024-12-06-payment-method-for-line-official-account
-__hash__: WcaO9cVkVhLb7E9aGP8GkfIZbwgCJf-yP0bzknF4cPQ
+__hash__: Lwnr_C_Jp6mh44qTGBk5QQrlarzuUBLxGRdhqISzi8s
 seo:
   title: >-
     LINE Official Account payment method re-registration required by March 31,

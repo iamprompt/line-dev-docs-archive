@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIにおいて、@Allによるグループ全体へのメンションが、Webhookのmentionプロパティに含まれるようになりました。
 meta: '{"date":"2023-03-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-03-08-messaging-api-updated
-__hash__: 34zFJ_27TBfjdfh3DXsK2n64_-DAqqe1uJJ6PowuZl4
+__hash__: DCnrk0KY4n5-rbvRK82Df-WXzRkLxRIqZvTLhubkk6E
 seo:
   title: Messaging APIで@AllがWebhookのmentionプロパティに含まれるようになりました
   description: Messaging APIにおいて、@Allによるグループ全体へのメンションが、Webhookのmentionプロパティに含まれるようになりました。

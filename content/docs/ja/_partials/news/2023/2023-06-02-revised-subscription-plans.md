@@ -5,7 +5,7 @@ description: >-
   2022年10月31日および2023年4月12日にお知らせしたとおり、2023年6月1日にLINE公式アカウントの料金プランを改定しました。この改定において、各プランの料金は変更ありませんが、無料で送ることができるメッセージの通数が変更されています。この料金プラン改定の対象国は日本のみです。
 meta: '{"date":"2023-06-02 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-06-02-revised-subscription-plans
-__hash__: PAwk__pdEwMB95cggTJVNWMv4oIuSU532o1gkVCyRxM
+__hash__: n6Ib4pFee3FhGevqWFTgR7EIrXdACwjwtsmgQ8nshi8
 seo:
   title: 2023年6月1日にLINE公式アカウントの料金プランを改定しました
   description: >-

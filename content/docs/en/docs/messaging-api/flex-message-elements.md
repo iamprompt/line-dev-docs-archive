@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/flex-message-elements
-__hash__: rtCXFDK9L5OhzxPecR_VBvgT0GGrfwB1rAnVUOhZW4I
+__hash__: eCaCfcMf3NPL-BD_4FwPv3i_lMvYeJ15MvrX_TzMgCI
 seo:
   title: Flex Message elements
   description: null

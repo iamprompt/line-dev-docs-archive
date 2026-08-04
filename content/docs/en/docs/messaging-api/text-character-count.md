@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/text-character-count
-__hash__: pVqTVHQs-ht6_RSA5tGbPYAae_j5L88p8kZeCiIWInQ
+__hash__: OGM8KH4sD6TxWb8JzjdDv_RdnCiVKf9dKLGiqXvVUeM
 seo:
   title: Character counting in a text
   description: null

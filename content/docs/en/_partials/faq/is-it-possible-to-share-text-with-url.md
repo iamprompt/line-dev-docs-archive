@@ -10,7 +10,7 @@ meta: >-
   {"date":"2023-11-20 7:21 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"en"}
 path: /en/_partials/faq/is-it-possible-to-share-text-with-url
-__hash__: m75TVBo0SUzXa5puRDCSTT3Rq_FNUTuVV6Jhq8Xqoys
+__hash__: 8RU9e3bhjALL5TTtc2sDwRXk_ffSFM7oaX-4h2X7LBU
 seo:
   title: When using the Share button, is it possible to share text with the URL?
   description: >-

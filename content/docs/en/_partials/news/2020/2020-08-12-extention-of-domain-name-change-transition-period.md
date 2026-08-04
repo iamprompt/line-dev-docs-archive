@@ -10,7 +10,7 @@ description: >-
 meta: '{"date":"2020-08-12 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: >-
   /en/_partials/news/2020/2020-08-12-extention-of-domain-name-change-transition-period
-__hash__: imkHzIXoCwPeN8dv8OxWcOXMtyJ9MccHADyBcm1Ykd4
+__hash__: q_9LzF4Yt5GdvTsiXEBPr-2uMnguE3eQWlMsdZz5lLE
 seo:
   title: >-
     Reminder: Notice of domain name change for certain endpoints (Domain names

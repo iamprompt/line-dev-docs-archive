@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-12-06 00:00 UTC","tags":"line-official-account,
   messaging-api","locale":"ja"}
 path: /ja/_partials/news/2024/2024-12-06-payment-method-for-line-official-account
-__hash__: SDzJBbX5nDtDF0zyWl8bm9K9U3jL8xvSxiogsJIOA5Q
+__hash__: PcgNH20-J79MdKCaAaDGhv7fq2ZjSzlGh-KL68rjCSE
 seo:
   title: 2025年3月31日までにLINE公式アカウントのお支払い方法の再登録が必要です
   description: >-

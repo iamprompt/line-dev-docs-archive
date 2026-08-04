@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-03-26 00:00 UTC","tags":"messaging-api, end-of-life,
   life-cycle","locale":"ja"}
 path: /ja/_partials/news/2025/2025-03-26-cross-targeting-closing
-__hash__: HjPG2bD-Pt86CdUClYfpP-ZgKVwQWOiUC54Yf8qrdNs
+__hash__: CBMmI8XQJHn8STNG3kKUy49AeUsWv5RyDzOievLvecw
 seo:
   title: 【更新】オーディエンスの公開/非公開を設定する機能の提供を終了しました
   description: ''

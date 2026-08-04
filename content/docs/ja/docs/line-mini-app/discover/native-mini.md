@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/native-mini
-__hash__: v_jUPz5ZkjBUH5KT08eJWc6HDjes6lzD9YsIB2gOEJU
+__hash__: U_OpnCnR5liMMokxlxpMoCNDHfQgOFxN5Dw2QsSpBMw
 seo:
   title: ネイティブアプリとLINEミニアプリの違い
   description: null

@@ -4,7 +4,7 @@ navigation: true
 description: 2023年1月10日のニュースでお知らせしたとおり、LINEミニアプリにおいて、サービスメッセージが表示されるトークルームが変更されました。
 meta: '{"date":"2023-01-17 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-01-17-mini-service-messages-updated
-__hash__: 8VA_9UmjcfAncSY6jIruGMO4jv-_35o5Jj-o-jpxw5E
+__hash__: HqMKsgjPH8PWnaOiDlNtn1TyxnvEatFRigIWQazN1QQ
 seo:
   title: LINEミニアプリのサービスメッセージが表示されるトークルームが変更されました
   description: 2023年1月10日のニュースでお知らせしたとおり、LINEミニアプリにおいて、サービスメッセージが表示されるトークルームが変更されました。

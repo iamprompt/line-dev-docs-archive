@@ -6,7 +6,7 @@ description: >-
   that the user is staying in the covered area of the beacon.
 meta: '{"date":"2019-12-06 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-12-06-add-stay-event-for-beacon
-__hash__: pShzpowPoebhP1kOkX-pbZfG1ymlJ0u3Le-tj4FFYL8
+__hash__: MpEfDy8Q9_zZB6JgB6BA1qx7my2cXDE102ysUd1A3xc
 seo:
   title: A stay event was added to beacon event
   description: >-

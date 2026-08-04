@@ -6,7 +6,7 @@ description: >-
   v2.1が有効なウェブアプリでは、従来のメールアドレスとパスワードを入力する方法に加えて、ログイン画面に表示されるQRコードをスマートフォン版のLINEで読み取ってログインできるようになりました。
 meta: '{"date":"2019-02-05 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-02-05-qr-code-login-released
-__hash__: oIKYo8OJrqn3mUkPcOVB3hkEA_dGN-Fu2h1PsiyGpic
+__hash__: Bx5QgFjD_CzQekEzOOpkwIDRZSCsyTKmanrTloW1vOU
 seo:
   title: LINEログイン：QRコードでログインできるようになりました
   description: >-

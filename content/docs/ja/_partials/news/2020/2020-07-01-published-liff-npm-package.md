@@ -4,7 +4,7 @@ navigation: true
 description: これまで、LIFFアプリにLIFF SDKを組み込むには、CDNパスを指定する必要がありました。
 meta: '{"date":"2020-07-01 04:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-01-published-liff-npm-package
-__hash__: DWkaFXqI4itJXOgJ4enHkucuCi580Sgkceb3m2yxg3g
+__hash__: FuCxbNIuK6zxV0xcSJUoY_H6G6oiwmNH1x02YOhaV8U
 seo:
   title: LIFF SDKをnpmパッケージとして公開しました
   description: これまで、LIFFアプリにLIFF SDKを組み込むには、CDNパスを指定する必要がありました。

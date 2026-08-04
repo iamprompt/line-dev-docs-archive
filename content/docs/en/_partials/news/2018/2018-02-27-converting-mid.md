@@ -7,7 +7,7 @@ description: >-
   migrate it to v2 or later, you need to convert MIDs to user IDs.
 meta: '{"date":"2018-02-27 00:00 UTC","tags":"Docs, LINE Login","locale":"en"}'
 path: /en/_partials/news/2018/2018-02-27-converting-mid
-__hash__: hsn5uzpvVYl4s_mK71C92GAV1baUcu2ikdppFJuddog
+__hash__: FQ4RFx5G33rJACxzjRtyI1YLCmvQjk4vSEWvK9Zd-Ms
 seo:
   title: New article on converting an MID to a user ID
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/generate-json-web-token
-__hash__: Wco2udA6VmCkfZRIXXgNq98SHGctxl5Tl93YwnjXVVA
+__hash__: Y1rule6bVfqGJ3JiLK9UdDlEdcsrhZGEPcPp2m20cGQ
 seo:
   title: Issue channel access token v2.1
   description: null

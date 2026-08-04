@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-14 00:00 UTC","tags":"docs,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/05/14/check-doc-updates-on-github
-__hash__: Dvgos2IBiduOHcr4BaYKS4xOBGX74rsXr1syfLBYcBQ
+__hash__: hHZ15kwuutoiZRjVoJABN5E6D5oussQM4eyCixOohuc
 seo:
   title: 「あれ、ドキュメント変わった？」と思ったら、GitHubで確認しよう
   description: こんにちは！LINE Developersサイトのドキュメントを担当している、テクニカルライターの岡島です。

@@ -8,7 +8,7 @@ description: >-
   been changed, input fields have been moved and other changes have been made.
 meta: '{"date":"2022-07-28 00:00 UTC","tags":"console, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-07-28-line-mini-app-tab
-__hash__: N6NxJtFR3kLlaWRUykCTto0OMWmpaiVhao7wewunIY0
+__hash__: MCf-wNIO1yMudbO1IquVRmj3eaoNQ-ZFEpuhciI8cFc
 seo:
   title: >-
     In the LINE Developers Console, we've reorganized the tabs of the LINE MINI

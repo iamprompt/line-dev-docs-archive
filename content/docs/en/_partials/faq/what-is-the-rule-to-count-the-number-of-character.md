@@ -11,7 +11,7 @@ meta: >-
   {"date":"2019-11-25 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/what-is-the-rule-to-count-the-number-of-character
-__hash__: nYGQq0O_WORj0C7IOkfpH4avXI1dewIfsJMUKjGpExA
+__hash__: n_n-SQJ_e8rNQbzIt-e7cwNiepASTj73o7waaqnQNrM
 seo:
   title: >-
     How many full-width characters, emojis, line breaks, and so on, are counted

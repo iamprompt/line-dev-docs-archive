@@ -6,7 +6,7 @@ description: >-
   number of messages sent from your channel.
 meta: '{"date":"2019-01-17 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-01-17-new-message-endpoints
-__hash__: s9mCwmrrxe0vIbrRIj5Jq5WKRnMme1YPW1XKRZ9zUQ0
+__hash__: kzO07mBFR5_8lqkMH9HSHWOl9Gyy5EoL1PxTqclAy9A
 seo:
   title: New endpoints added to Messaging API
   description: >-

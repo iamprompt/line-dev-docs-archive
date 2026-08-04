@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-01-09 00:00 UTC","tags":"line-platform, line-login, liff,
   line-mini-app, messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/what-are-userid-groupid-and-roomid
-__hash__: X5CDD_S6jMh_tD1kj3RYekjWmZxdBZXD5eqr0ZTaJAk
+__hash__: _PHqQX3pW9SKtTETyho5dAmoXMqeZhuyiGWpwy7a5BA
 seo:
   title: What are the user ID, group ID, and room ID values?
   description: >-

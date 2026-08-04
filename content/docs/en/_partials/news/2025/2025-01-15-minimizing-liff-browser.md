@@ -6,7 +6,7 @@ description: >-
   version 15.0.0 or later.
 meta: '{"date":"2025-01-15 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-01-15-minimizing-liff-browser
-__hash__: 4awvf8h9axHaGcsOXGs2ctuR0TuSqduI4ojBa3YvfzQ
+__hash__: NRCCenesnsArW8wBDI6zKu0N3kYr5Q7jgnijlBVKVMk
 seo:
   title: >-
     LIFF browser can now be minimized on LINE for Android version 15.0.0 or

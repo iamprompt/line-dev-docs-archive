@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリのパーマネントリンクを作る方法を説明します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/permanent-links
-__hash__: 6A3AlKBBKqhWEDRAS_SwBR59HZ6bEm4V93XtytvQkgU
+__hash__: D3YPlUU7HTlfCPDvxINAPUSk9MmwX1ZMZ1EL3w2L_34
 seo:
   title: パーマネントリンクを作成する
   description: LINEミニアプリのパーマネントリンクを作る方法を説明します。

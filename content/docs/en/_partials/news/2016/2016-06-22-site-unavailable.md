@@ -6,7 +6,7 @@ description: >-
   the following date and time.
 meta: '{"date":"2016-06-22 00:00 UTC","tags":"Maintenance","local":"en"}'
 path: /en/_partials/news/2016/2016-06-22-site-unavailable
-__hash__: ggNiyNE0cTsAh7N2jZIlf66WOdY6uJpRdM-TNHda3ps
+__hash__: Ydqbd4YWhiX_nKoX7-TSUPTzcjO2c_5-d6PzTSAyzXc
 seo:
   title: LINE Developers site temporarily unavailable on June 23
   description: >-

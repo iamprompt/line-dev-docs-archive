@@ -6,7 +6,7 @@ description: >-
   option, you need to have a LINE Official Account ID.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/install-guide/using-like-buttons
-__hash__: YHrDqHyaFqLH_tkuBlbEvPjpjNM_Jhm3ic2CHJwFqFg
+__hash__: IoCqW8z3s8OIYemtV2Z2GI12wK3rpTw_kgqHnugvPPk
 seo:
   title: Using Like buttons
   description: >-

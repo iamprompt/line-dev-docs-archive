@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/sending-messages
-__hash__: qPYWF2c9AJCzjt3dEKe2KrtIRiQPqZQgyLEUSPK_LXo
+__hash__: YkgRT1vfe7MPp0G9A-yR6MrruJlXODqZUsA1XSTLkhg
 seo:
   title: メッセージを送信する
   description: null

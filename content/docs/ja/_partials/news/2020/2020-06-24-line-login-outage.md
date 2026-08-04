@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-06-24 0:00 UTC","tags":"Outage report, LINE
   Login","locale":"ja"}
 path: /ja/_partials/news/2020/2020-06-24-line-login-outage
-__hash__: nSSDq5aUB4jS5AEOE-mNrrySObsCShG7UivD-cQgjcc
+__hash__: CNdatFHyB8XUU0XBnzOoP7MnFegKIbXVrCVNE7gO_Ms
 seo:
   title: 【復旧済み】LINEログイン障害のお知らせ
   description: LINEログインにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。

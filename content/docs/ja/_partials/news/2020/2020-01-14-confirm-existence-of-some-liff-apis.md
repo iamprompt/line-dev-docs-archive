@@ -4,7 +4,7 @@ navigation: true
 description: 2019年11月29日に告知したとおり、iOS版のLINE 9.19.0以降では、以下のAPIは、技術的な問題があり提供を一時停止しています。
 meta: '{"date":"2020-01-14 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-01-14-confirm-existence-of-some-liff-apis
-__hash__: qptQ0Kc5wArAJfnNjjghnkwhDVjuCIMmEAREsJPNnxA
+__hash__: kKfh2abTLS7CSzC4OMa4uXVn6_YuyUTgyHGpCTkLm5E
 seo:
   title: 提供を一時停止しているLIFF SDKのAPIを使用している場合はコードを修正してください
   description: 2019年11月29日に告知したとおり、iOS版のLINE 9.19.0以降では、以下のAPIは、技術的な問題があり提供を一時停止しています。

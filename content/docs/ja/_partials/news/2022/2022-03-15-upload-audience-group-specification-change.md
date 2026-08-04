@@ -5,7 +5,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-03-15 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-03-15-upload-audience-group-specification-change
-__hash__: VsGH0KM8MF2Jw7Yj5g3bGDO-0aQSPISN4glvtkGcj5I
+__hash__: BKEDS9QFkD8RRMbF32sEOwo1XsDOEVbSVyutVvtktPU
 seo:
   title: >-
     【更新】2022年3月29日より、ユーザーIDアップロード用のオーディエンスに追加できるユーザーは、プライバシーポリシー（2022年3月改定）に同意済みのユーザーのみとなります

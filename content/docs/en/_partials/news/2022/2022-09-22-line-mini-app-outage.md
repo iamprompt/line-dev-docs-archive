@@ -9,7 +9,7 @@ meta: >-
   {"date":"2022-09-22 00:00 UTC","tags":"outage-report,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2022/2022-09-22-line-mini-app-outage
-__hash__: A92vMBrih14YqFhTB0zql63NWVTIz7X21Ii1kBY9pyc
+__hash__: Xk5gJlT7IH8g20a2K8uTqj9V7GLwIaBG_GYLnNKIO7g
 seo:
   title: '[Resolved] Notice about service outage for the LINE MINI App in Taiwan'
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/implement-in-app-purchase
-__hash__: FO0efcjf7-L8Qsc-lOzubgYbCEcPdVPupYyACM17Ebg
+__hash__: WBtxwpN5iLXIrp3iR6Dv6KnNmzqXkZQlRgQVmtua2Ro
 seo:
   title: LINEミニアプリにアプリ内課金を組み込む
   description: null

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-01-21 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"ja"}
 path: /ja/_partials/news/2026/2026-01-21-tracking-tag
-__hash__: 5FKsC8sl0NLmTRy2HwbIgHzJelGutMnCJD2XmMMyQQE
+__hash__: CgefHjSBnxwP7pTeyS4_4QVlKoLIkHDY3TB-P0FiROk
 seo:
   title: Messaging APIにおいて、計測タグを使用したウェブトラフィックオーディエンスを利用できるようになりました
   description: >-

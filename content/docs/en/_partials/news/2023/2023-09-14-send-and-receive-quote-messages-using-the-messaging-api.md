@@ -7,7 +7,7 @@ description: >-
 meta: '{"date":"2023-09-14 00:00 UTC","tags":"messaging-api","locale":"EN"}'
 path: >-
   /en/_partials/news/2023/2023-09-14-send-and-receive-quote-messages-using-the-messaging-api
-__hash__: P9or6uT36TxuXcBIB5E8fWehx-UeFFX3uQaO-kDCO3Y
+__hash__: 3nQSgU7YOeGUpIZmjUdbBx1LrAlf7uS9jJqnPkE084g
 seo:
   title: You can now send and receive quote messages using the Messaging API
   description: >-

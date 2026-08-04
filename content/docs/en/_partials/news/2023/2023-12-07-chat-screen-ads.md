@@ -8,7 +8,7 @@ description: >-
   your LINE Official Account.
 meta: '{"date":"2023-12-07 00:00 UTC","tags":"line-official-account","locale":"en"}'
 path: /en/_partials/news/2023/2023-12-07-chat-screen-ads
-__hash__: oeAMzQsP5QztKc0sYGBFx-XLVe0ZpUhyVET5ZeZt7Zs
+__hash__: AqQ2CmsNjoG1V6X8sPPm_HzY7-wF_k3ArYzDHbo08GQ
 seo:
   title: >-
     We have started offering a chat screen ads feature that allows you to

@@ -8,7 +8,7 @@ description: >-
   available.
 meta: '{"date":"2022-09-08 00:00 UTC","tags":"LINE Ads","locale":"en"}'
 path: /en/_partials/news/2022/2022-09-08-line-ads-api-documentation-site
-__hash__: SRPJR4zClM3w2dF3Wyeoj5uRCcPZqeTwP1OGtwHqqzw
+__hash__: tbWueOlyd1VooushQn-K3ub1E6bbaFWJqLkU9_OBQcM
 seo:
   title: >-
     The documentation and development guidelines for LINE Ads API are now

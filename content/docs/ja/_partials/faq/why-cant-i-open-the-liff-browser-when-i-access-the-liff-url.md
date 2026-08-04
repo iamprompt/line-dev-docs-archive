@@ -9,7 +9,7 @@ meta: >-
   {"date":"2025-04-25 00:00 UTC","tags":"liff, line-mini-app,
   line-app","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/why-cant-i-open-the-liff-browser-when-i-access-the-liff-url
-__hash__: 617_sBL7IZwY2o5cEpPbb7vRzIE__K5W4Exwr0hn4kQ
+__hash__: 4IacTH63RqajKBVxjG6uYiOb2HPxxAUffm3z7qxTipw
 seo:
   title: LIFF URLにアクセスしてもLIFFブラウザが開かないことがあるのはなぜですか？
   description: >-

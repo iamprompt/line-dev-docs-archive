@@ -5,7 +5,7 @@ description: >-
   2021年7月12日にお知らせしたとおり、LINEログインにおいて、自動ログインとシングルサインオン（SSO）によるログインが両方利用できる環境では、自動ログインが優先して動作します。
 meta: '{"date":"2021-09-21 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-09-21-line-login-disable-auto-login
-__hash__: giE7jwkYLqstGyevZGqr4927NM8ksty3Jk4iYyw7MH4
+__hash__: MFt1cxsYcedox0r7CAOJJWfvK5vbKOvWMhyakJHW8PQ
 seo:
   title: LINEログインで自動ログインを無効にするパラメータが追加されました
   description: >-

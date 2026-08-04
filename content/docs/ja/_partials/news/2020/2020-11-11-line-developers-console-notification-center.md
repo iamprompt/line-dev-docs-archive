@@ -4,7 +4,7 @@ navigation: true
 description: 開発者のみなさんがアラートやお知らせを受け取れるように、LINE Developersコンソールに通知センターを追加しました。
 meta: '{"date":"2020-11-11 00:00 UTC","tags":"Console","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-11-line-developers-console-notification-center
-__hash__: P6hLZRpdCBlhOvC_SkWbJctzR24gYwNNCexIEbAEHOM
+__hash__: t_i5FKIg9c1zdCwAOjmklAKjXDZZNPrDHIPsyDKRGSM
 seo:
   title: LINE Developersコンソールに通知センターを追加しました
   description: 開発者のみなさんがアラートやお知らせを受け取れるように、LINE Developersコンソールに通知センターを追加しました。

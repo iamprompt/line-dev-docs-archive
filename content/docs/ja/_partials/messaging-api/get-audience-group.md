@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-audience-group
-__hash__: k0HOzX6OBecMo50QofkxtwIrO8Z-1OayVyc5POq_Ym8
+__hash__: wprZiV2g0g3OLpY_lHWODDpHfqZVf2XHxiNWaGx4g98
 seo:
   description: ''
 ---

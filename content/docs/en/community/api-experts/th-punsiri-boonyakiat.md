@@ -9,7 +9,7 @@ meta: >-
   Learning, AI, Cloud,
   Database","git":"https://github.com/punsiriboo","fb":"https://www.facebook.com/beet.mog","twitter":""}
 path: /en/community/api-experts/th-punsiri-boonyakiat
-__hash__: 5EqND17SzkOMhRvKyYtLRu2921-EfNeZgHm_9dvG2uo
+__hash__: 1GQ5GRjSVm8gAaVnowVIxY6FdRBal55mVCgJHByXEFQ
 seo:
   title: LINE API Expert - Punsiri Boonyakiat
   description: ''

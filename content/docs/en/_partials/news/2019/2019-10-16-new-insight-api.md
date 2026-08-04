@@ -6,7 +6,7 @@ description: >-
   interact with broadcast messages sent from your LINE Official Account.
 meta: '{"date":"2019-10-16 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-10-16-new-insight-api
-__hash__: IqkFUjozoOK9N6WwwnfUaQoXbjrNBQurpW3HGgTglqg
+__hash__: 1XMNMgDIa1kDc1h6jXp7xSu5qeEeMml653v90K78Bd0
 seo:
   title: New Messaging API endpoint for friend statistics
   description: >-

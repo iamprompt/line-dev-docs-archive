@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-03-09 00:00 UTC","tags":"liff, line-mini-app, LINE Login,
   console","locale":"en"}
 path: /en/_partials/news/2022/2022-03-09-permission-consent-screen-will-be-updated
-__hash__: AgmBQY5oVPSc7kMZCdi5IvGcbrPirDOkvrKeDYsleDk
+__hash__: 9opOuobQryRy_L5t83da7hySaVgOwg8ZDuHeEC0hfI0
 seo:
   title: >-
     [Recommended] With the design change of the channel consent screen,

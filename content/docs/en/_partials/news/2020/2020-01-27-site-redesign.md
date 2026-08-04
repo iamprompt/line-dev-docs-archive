@@ -7,7 +7,7 @@ description: >-
   the documentation you need.
 meta: '{"date":"2020-01-27 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-27-site-redesign
-__hash__: I_4IykCIkX7wh0psyLE7k-UzXxpkTwW2rQ-oHAyNTBs
+__hash__: 9fMxnRvcLr-mhuU3UJF0UxHk6EpHhstYfH_I7VvDL-M
 seo:
   title: Introducing the redesigned LINE Developers site
   description: >-

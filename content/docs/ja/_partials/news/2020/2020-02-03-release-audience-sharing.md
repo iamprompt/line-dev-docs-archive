@@ -6,7 +6,7 @@ description: >-
   Managerで利用できるようになりました。
 meta: '{"date":"2020-02-03 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-02-03-release-audience-sharing
-__hash__: O2GxXg8kcl0Lnxwe94ppR72z5VrPZDxeVqNYMneyu8U
+__hash__: 7Skxfpjgybu6MU1fg-fL1HSijJzIJsJUzU1WyDHB4g8
 seo:
   title: オーディエンス共有ができるようになりました
   description: >-

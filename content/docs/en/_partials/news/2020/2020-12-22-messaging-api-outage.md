@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-12-22 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2020/2020-12-22-messaging-api-outage
-__hash__: f-lhPRd9GEKPq7vONtH-4aOuSyUImSZiYeN_VjWK0hY
+__hash__: A81RXUX7ScN3jA7kQvQQDqrd1417HPySL3-8uwAsEp0
 seo:
   title: '[Resolved] Notice about service outage for the Messaging API'
   description: >-

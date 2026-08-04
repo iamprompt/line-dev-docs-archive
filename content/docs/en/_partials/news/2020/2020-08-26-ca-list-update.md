@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-08-26 01:00 UTC","tags":"LINE Platform, Maintenance,
   SSL","locale":"en"}
 path: /en/_partials/news/2020/2020-08-26-ca-list-update
-__hash__: 7PkWbMsABH23KNbn2b-Kn4eOALZ-K455fmeWGT1ZO54
+__hash__: KIgHnyleW8EVUY_0Wa_PeXKWE2IoaTP4tioTxkDN2bg
 seo:
   title: Certificate authority that can be used in the Webhook URL added
   description: >-

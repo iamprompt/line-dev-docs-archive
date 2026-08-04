@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-beacons
-__hash__: YVgah4GvOUsq4JDG5aJd8Rm78cbD89OGldS2i7yuUVI
+__hash__: 8e3HZdMN3Q8MejjpcLGvmkqblm4QGegFuSojRxpR_rc
 seo:
   title: Use beacons with LINE
   description: null

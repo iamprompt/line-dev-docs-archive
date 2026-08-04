@@ -4,7 +4,7 @@ navigation: true
 description: To our valued partner developers,
 meta: '{"date":"2016-03-01 00:00 UTC","tags":"Console, LINE Platform"}'
 path: /ja/_partials/news/2016/2016-03-01-character-limits
-__hash__: KTwqRHk7mR0WzGpPUnwU8ku7_bWSVSH9BSBpPSmc5xA
+__hash__: eydFWCrUbte71VHAvwffjoeruvRbEQPJv9YvYWejXCQ
 seo:
   title: 'Important: Changes to the character limit for Channel names'
   description: To our valued partner developers,

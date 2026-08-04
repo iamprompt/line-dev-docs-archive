@@ -4,7 +4,7 @@ navigation: true
 description: リリースノート
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/resources/release-notes
-__hash__: wH5jV7-cTl4ZBz9Ug1JeGSR6jEq5yqK9Aa5xsYFb1CY
+__hash__: jXoPaTn5DzvRc1Gj6Oq_3B32nlZDyXXXJB-lFCq9WzE
 seo:
   title: リリースノート
   description: リリースノート

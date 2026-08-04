@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/liff/versioning-policy
-__hash__: 1oM3_hjN8nQy2MQ02f3Bk_XneBw6yKt8w0ndfGxzN4c
+__hash__: qQ8kEdYlmdNtD9HdwqguxKrQmwBW4dM9wvmUS5TFeRU
 seo:
   title: バージョニングポリシー
   description: null

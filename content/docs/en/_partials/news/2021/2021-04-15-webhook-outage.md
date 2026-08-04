@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-04-15 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-04-15-webhook-outage
-__hash__: P6oyd8jOb98-YP2FHTofztYdxzlmsWKsQtnWB7mZinY
+__hash__: aqBByhbBhoxfPeooQwEeEsH5xItZMuxNB5fdr-WOY3M
 seo:
   title: '[Resolved] Notice about service outage for sending webhook events'
   description: >-

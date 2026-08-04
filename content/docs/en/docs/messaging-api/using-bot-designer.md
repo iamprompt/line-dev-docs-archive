@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-bot-designer
-__hash__: DWc0N7xqFyRpz8AHZvdLVwdU5_2_eo6LX3W41Js73WE
+__hash__: NDdM_sELRFSjQcCV29BB4nY3kqKC3dfJWCCDHfPpU0k
 seo:
   title: LINE Bot Designer
   description: null

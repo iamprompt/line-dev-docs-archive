@@ -6,7 +6,7 @@ description: >-
   Business』の「オーディエンス」を参照してください。
 meta: '{}'
 path: /ja/_partials/messaging-api/manage-audience-group
-__hash__: DxslJYgO2H-MRIpif1t1Kak1Y0-hR_SlFTFSEKBs4e8
+__hash__: eWuPCKX9ZAXOWAHkETSKCamNOtpHe8323NMl9-pnVuc
 seo:
   description: >-
     なお、オーディエンスは、LINE Official Account Managerでも作成できます。詳しくは、『LINEヤフー for

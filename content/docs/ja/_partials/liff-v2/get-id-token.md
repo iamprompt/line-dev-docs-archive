@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/get-id-token
-__hash__: e-Jq4xaDT5diRti5MWOGMI6rqgCR8NYcNDibIRIEmjA
+__hash__: Ms2qzKzJCyB4RaV57FMT29d7y-obrNSzCd-PYt2i6CU
 seo:
   description: ''
 ---

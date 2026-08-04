@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-1-29 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/do-reply-messages-count-towards-the-message-count
-__hash__: qXg0AwntuuEKELjuVD6qIycfcskEe78r9xAJRiC9td4
+__hash__: 5PHfASnKWfYVP1rRs8Rd9rveHik9oWa3UwCsPtG9-4M
 seo:
   title: Do reply messages count towards the message count?
   description: No, reply messages are not counted towards the message count.

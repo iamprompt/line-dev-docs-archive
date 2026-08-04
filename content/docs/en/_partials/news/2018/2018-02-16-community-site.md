@@ -6,7 +6,7 @@ description: >-
   Developers site.
 meta: '{"date":"2018-02-16 00:00 UTC","tags":null,"locale":"en"}'
 path: /en/_partials/news/2018/2018-02-16-community-site
-__hash__: XKp6wDSdc4I6m2Mmf1eMglX6SFsMa0eO1umy2w0SpSg
+__hash__: KKjCgPN5xXgDKljzSsguwHnXyWMEKJwoNIQ26wxogDY
 seo:
   title: Introducing the Community site for developers
   description: >-

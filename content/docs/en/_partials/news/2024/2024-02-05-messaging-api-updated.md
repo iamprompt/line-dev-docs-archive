@@ -9,7 +9,7 @@ description: >-
   codes and other text.
 meta: '{"date":"2024-02-05 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2024/2024-02-05-messaging-api-updated
-__hash__: VPYx2xcqbo2DKdTLdCceMipYClsWPEERWGuOBo849GM
+__hash__: cLk95WKYIVqN7EyI1CQkrsPyx85OcprsmcNVHdKfrYk
 seo:
   title: >-
     In the Messaging API, the action has been added to allow users to easily

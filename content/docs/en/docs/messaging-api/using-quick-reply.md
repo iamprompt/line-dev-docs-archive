@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/using-quick-reply
-__hash__: 8nws_drpIWAKKXow0TJo0iTVGJ_SvDoNuPTsS5xYb_U
+__hash__: uLtYMEP2H-b5HHOjHAYV_hbQ7q-eErLkt8hk816kG0k
 seo:
   title: Use quick replies
   description: null

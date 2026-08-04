@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-03-02 00:00 UTC","tags":"outage-report, line-platform,
   line-login, liff, line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2023/2023-03-02-line-platform-outage
-__hash__: Iv64d8ddDkxlm8L5sN-2-r2WNNZofmDrrqBMu_G7G54
+__hash__: a0nPhLs_uufjUGwc8X0mV8crhK5HzFObwldr_DDtjCs
 seo:
   title: 【復旧済み】LINEプラットフォーム障害のお知らせ
   description: >-

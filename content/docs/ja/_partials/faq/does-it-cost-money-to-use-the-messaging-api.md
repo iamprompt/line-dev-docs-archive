@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-06-02 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/does-it-cost-money-to-use-the-messaging-api
-__hash__: eRjxRf8rBU0a1qWgvJuwgFaar712euqAFUWsnZMXoBE
+__hash__: D5jcxjrbxKAs-gbt7zlh-SX-m3i3pgjOmw1sGHLe68c
 seo:
   title: Messaging APIを利用するとお金がかかりますか？
   description: Messaging APIの料金について詳しくは、「Messaging APIの料金」を参照してください。

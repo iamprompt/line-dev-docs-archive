@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-12-02 00:00 UTC","tags":"line-developers-site,
   docs","locale":"ja"}
 path: /ja/_partials/news/2025/2025-12-02-md-files-available
-__hash__: XwmjBfMZ5aMVM8GXUSOVAwXLhIRI2VXZWpKAkvU0D9I
+__hash__: EP9uimEZxXhMMS3H4PF-0umdRmWqpbABoYN6_kWqUNo
 seo:
   title: LINE Developersサイトにおいて、ドキュメントのMarkdown形式での提供およびllms.txtの提供を開始しました
   description: >-

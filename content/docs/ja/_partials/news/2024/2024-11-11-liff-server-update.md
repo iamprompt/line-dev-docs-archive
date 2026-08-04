@@ -6,7 +6,7 @@ description: >-
   SDKの特定のバージョンにおいて、LIFFアプリのヘッダーに表示されるアクションボタン内のシェアボタンや、liff.permanentLink.createUrlBy()メソッドで生成されるURLの結果が変わりましたのでお知らせします。
 meta: '{"date":"2024-11-11 01:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-11-11-liff-server-update
-__hash__: 063H8r9Y8-qbYtjRQj0xPjB5vZxcCLvWMCG5Pf7_Yvg
+__hash__: OChPbd5fesoWFP9Spwztm5C0MmRzit0EmK-c3bSTi9A
 seo:
   title: 2024年11月11日に、LINEアプリとLIFF SDKの特定のバージョンにおいて、LIFFの一部機能で生成されるURLの結果が変わりました
   description: >-

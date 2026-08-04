@@ -9,7 +9,7 @@ meta: >-
   {"date":"2024-11-18 00:00 UTC","tags":"Outage report, LINE Login, LIFF, LINE
   MINI App","locale":"en"}
 path: /en/_partials/news/2024/2024-11-18-liff-line-login-outage
-__hash__: OTe6yR11DCRQH_vPLjW8P_pqjw6EUcQf1or_MFp_4eg
+__hash__: 9p5Pf5UxOFqJHYVGK_O0F8Sitms_v6l9tKmbIZUxJg4
 seo:
   title: '[Resolved] Notice about service outage for LINE Login and LIFF/LINE MINI App'
   description: >-

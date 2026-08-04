@@ -9,7 +9,7 @@ meta: >-
   end-of-life","locale":"en"}
 path: >-
   /en/_partials/news/2021/2021-11-30-line-original-unicode-emojis-will-be-discontinued
-__hash__: 8lJ8lAMM_EVi2GrJv3ZfdLJtk95h0EtBfIe_iHnLq7U
+__hash__: fDpN0X_DvaxPQmnONYJezJ7pYQd-0BCSb0buiQbKBxo
 seo:
   title: >-
     "LINE original unicode emojis" of the Messaging API will be discontinued on

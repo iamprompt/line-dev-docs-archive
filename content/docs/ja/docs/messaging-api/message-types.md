@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/message-types
-__hash__: ClWVOfHAg_J_0Ki8tv_ppH_y4shY6qioNEQjSgWdwjg
+__hash__: dZmwMYIOcjaGnppZEWMBlrFHh_BDYni6aPtX3i0b8Ho
 seo:
   title: メッセージタイプ
   description: null

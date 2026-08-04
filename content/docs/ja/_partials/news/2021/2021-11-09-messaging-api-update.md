@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに新たな機能が追加されました。今回のアップデートで追加、更新された機能は以下のとおりです。
 meta: '{"date":"2021-11-09 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-09-messaging-api-update
-__hash__: byLIZMDpObU76hYE_rqc-cRqZSO2dcnoHyDLH1A8pzw
+__hash__: wqFyzF4r_UwRyqUbxi3EHXNflV1Wsq3YlV9PO39IiF4
 seo:
   title: Messaging APIアップデート（2021年11月）
   description: Messaging APIに新たな機能が追加されました。今回のアップデートで追加、更新された機能は以下のとおりです。

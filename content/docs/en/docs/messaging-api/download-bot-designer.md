@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/download-bot-designer
-__hash__: JszV8kruhlLmxVwxnV-coALsU91AbG6K57OpkbAm2v4
+__hash__: 7Y53Q_IA3qxD0U9HUOVOeyN5IhuyiaxJsIn6CVMqAi4
 seo:
   title: Download LINE Bot Designer
   description: null

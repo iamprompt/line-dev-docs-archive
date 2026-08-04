@@ -4,7 +4,7 @@ navigation: true
 description: ノッチがある端末でもLINEミニアプリのすべてを表示するために、CSSを使ってLINEミニアプリがセーフエリアに収まるようにしてください。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/design/landscape
-__hash__: '-pCnRK7XAdjBAzlfcEKJXyJvlIdFx0yVzmxZ6RubWog'
+__hash__: mvdr4YuGlul-LgM-032b2LGOZGvinFM_iQ-S266HB3w
 seo:
   title: LINEミニアプリのセーフエリア
   description: ノッチがある端末でもLINEミニアプリのすべてを表示するために、CSSを使ってLINEミニアプリがセーフエリアに収まるようにしてください。

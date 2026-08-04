@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/demo/smartretail-demo
-__hash__: lTi4Is3QtEZirGU7riKyFyQfbJawOEG86cWz3sTA5Gs
+__hash__: IRmfbv-nVceJIAPNgK0W7D7ZC3JQMsB598ldMBxV13o
 seo:
   title: 購買体験デモ
   description: null

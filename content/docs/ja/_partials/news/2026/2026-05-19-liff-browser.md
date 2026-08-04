@@ -5,7 +5,7 @@ description: >-
   LINEバージョン26.7.0から、LINEミニアプリおよびLIFFアプリの表示に用いられるLIFFブラウザにおいて、ヘッダーの仕様が変更されました。今回の変更では、アクションボタンのアイコンとタップ時の挙動が変更されたほか、従来の最小化ボタンが閉じるボタンへと変更されています。
 meta: '{"date":"2026-05-19 00:00 UTC","tags":"line-mini-app, liff","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-05-19-liff-browser
-__hash__: EmB-8fCXGeimVV2VJp-9cxru4hwRQIEGVWDu1PF28gs
+__hash__: uHze3ZVFcXhCGoio4rejxcAtIdtxqAcKGer8JPG8FzM
 seo:
   title: LINEバージョン26.7.0から、LIFFブラウザのヘッダーの仕様が変更されました
   description: >-

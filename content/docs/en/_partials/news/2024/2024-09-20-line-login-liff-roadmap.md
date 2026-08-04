@@ -9,7 +9,7 @@ meta: >-
   {"date":"2024-09-20 00:00 UTC","tags":"line-login, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2024/2024-09-20-line-login-liff-roadmap
-__hash__: HyZHy6QlIRu0RSWIy9bfJVWwdUaa85DaXuHEXZxBjao
+__hash__: 0N2SU4QRyqHZ1h9uqhKZPLsYPfzMaaARvAgl-3_M_Ek
 seo:
   title: Roadmap for LINE Login and LIFF now available
   description: >-

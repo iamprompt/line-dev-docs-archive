@@ -7,7 +7,7 @@ meta: >-
   {"date":"2023-11-29 00:00 UTC","tags":"line-mini-app,
   end-of-life","locale":"ja"}
 path: /ja/_partials/news/2023/2023-11-29-discontinued-mini-home-pin-feature
-__hash__: 2yk4ECBiCPKIhEVBHWAIQmLJ59u26phdoFcNqf1C3Y0
+__hash__: qUzibtxb8evwZeT46t9l8SQOfob6tTbmx_l9yWOf318
 seo:
   title: LINEミニアプリをLINEアプリのホームタブに固定する機能を廃止しました
   description: >-

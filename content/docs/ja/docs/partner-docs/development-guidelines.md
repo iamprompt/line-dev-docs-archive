@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/development-guidelines
-__hash__: j08MVn4dWbIfbkj4gNffjlF9A1CBIze9gXSzdeH8MvI
+__hash__: AIp8Hl9Xl2bMRu6Q4KHxkxnecE-A3nBJmF0tzhKYVFw
 seo:
   title: 法人ユーザー向け開発ガイドライン
   description: null

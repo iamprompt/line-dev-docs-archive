@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/validate-message-objects-of-multicast-message
-__hash__: bod-iiemnZ6a685APqvxD9h_ZJByZcsJC-h6VNFxO7w
+__hash__: GKcgYdtnvfWrn26IqmzHVj-DzbHLZs5MiVuiPPDv7cQ
 seo:
   description: ''
 ---

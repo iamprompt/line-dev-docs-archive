@@ -6,7 +6,7 @@ description: |-
   再配信オブジェクトを使うと、「過去に配信したナローキャストメッセージを受信したユーザー」を条件にしてメッセージが送れます。
 meta: '{"date":"2020-09-15 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-09-15-messaging-api-narrowcast-requestid
-__hash__: 9YXnBXlKoqKFswVSs3vpTFI2fIeKV50ovnLXMJntLoo
+__hash__: t1VXG1N-vcMtt8KzoGawKds3u1evNxo3ZvIRA3e7uQk
 seo:
   title: ナローキャストメッセージの送信対象を絞り込む条件に再配信オブジェクトが追加されました
   description: |-

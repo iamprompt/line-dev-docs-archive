@@ -8,7 +8,7 @@ description: >-
   within the LINE Developers Console.
 meta: '{"date":"2020-06-15 00:00 UTC","tags":"Console","locale":"en"}'
 path: /en/_partials/news/2020/2020-06-15-linked-oa-relocation
-__hash__: LYVtbQarrP8Ym8F9Ddp_aeZuwV64cgSQwmOnDr6QG4U
+__hash__: RmVk2WF1FVzH4cQzNh5zVTmrylpPVSRyGGA2Av8W67A
 seo:
   title: >-
     The location of the &quot;Linked OA&quot; setting was moved within the LINE

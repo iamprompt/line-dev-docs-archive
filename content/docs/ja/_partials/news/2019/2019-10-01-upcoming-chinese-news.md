@@ -6,7 +6,7 @@ description: >-
   Developersの最新情報を簡単に入手できるようになります。
 meta: '{"date":"2019-10-01 05:00 UTC","tags":"LINE Platform","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-10-01-upcoming-chinese-news
-__hash__: JzFySwN_uCFrWd96bzTNZ19ObIAkJ_JuwB30kqP_w1s
+__hash__: aoLnh1u44NA7g0VW_HuQElnwlynzpwu2oct0NN60vEQ
 seo:
   title: ニュースを中国語でも提供します
   description: >-

@@ -6,7 +6,7 @@ description: >-
   numbers hashed with the SHA256 algorithm.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/technical-specs
-__hash__: PVk62R5SaPCYvvIJ7g9wTlT7iyS_JJAPiQ8wpmjtqN0
+__hash__: 19eOgYzNyV1fhQClyHhYONCYoZygA4Ek30xiVhP3jY0
 seo:
   title: Technical specifications of the LINE notification messages API
   description: >-

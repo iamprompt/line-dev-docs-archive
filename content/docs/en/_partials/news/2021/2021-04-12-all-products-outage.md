@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-04-12 00:00 UTC","tags":"Outage report, LINE
   Platform","locale":"en"}
 path: /en/_partials/news/2021/2021-04-12-all-products-outage
-__hash__: ZOroq0z_iOyQhpqJmKj5hmAP50m8mIUFxsWKITm1mso
+__hash__: y05uTdNLAuuOarNHo1Ji6zPIuW3IuJ9fgipYau2VjL4
 seo:
   title: '[Resolved/Updated] Notice about service outage for LINE Platform'
   description: ''

@@ -4,7 +4,7 @@ navigation: true
 description: 2024年2月14日より一時的に提供を中止しておりました、メンバーシップの情報を取得するためのエンドポイントについて提供を再開いたしました。
 meta: '{"date":"2024-03-28 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-03-28-re-release-endpoints-for-membership
-__hash__: wDLor2LC0bvyTWoIoLw24vvtxLuqwFQ5ReQaOPmGSM4
+__hash__: ykEU-FBPjis2ZIqAkpLDzOia12hSyjM-F3INkyMGKGE
 seo:
   title: Messaging APIでメンバーシップの情報が取得できるエンドポイントの提供を再開しました
   description: 2024年2月14日より一時的に提供を中止しておりました、メンバーシップの情報を取得するためのエンドポイントについて提供を再開いたしました。

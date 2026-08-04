@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App opened its documents and entry point of contact.
 meta: '{"date":"2020-07-02 00:00 UTC","tags":"LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-02-line-min-app-released
-__hash__: Nr2KCkYhTGLxNrDUlcRVgSRA3fhoNIEGTrIcIRK_xWg
+__hash__: kpAXZTCLM8A6ueXysUbbu-PyQ-UzDv2_qjNB97AJSL0
 seo:
   title: LINE MINI App docs and entry point of contact opened
   description: LINE MINI App opened its documents and entry point of contact.

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/try-line-login
-__hash__: 2NaK1OZd9cHGKxHJfWY9GCTH46uDze8EejC5nJSNdpk
+__hash__: 0OB9tou7NcxL4EWVjlnSJODhFQETWpc3fAD_uuYmuBM
 seo:
   title: Trying the starter app
   description: null

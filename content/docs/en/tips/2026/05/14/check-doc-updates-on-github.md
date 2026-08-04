@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-05-14 00:00 UTC","tags":"docs,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/05/14/check-doc-updates-on-github
-__hash__: OQdrnVl8niuTw5H8MRuC-unB-ClI5H65-r03vskXu8o
+__hash__: YI-VTKP0F4GDyL1IiW_Gs8tcNMXE2lqsNx8I-TkldoQ
 seo:
   title: Think the documentation has changed? Check GitHub
   description: >-

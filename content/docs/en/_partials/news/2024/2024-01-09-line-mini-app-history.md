@@ -6,7 +6,7 @@ description: >-
   MINI Apps from the LINE Home tab.
 meta: '{"date":"2024-01-09 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-01-09-line-mini-app-history
-__hash__: ejrui0WeUy_Qj91ROoq118m8oqAaZXxysi1bTzXyq5A
+__hash__: B8wpjYlojuGKVj0d8ZTK6TcNPWuGs4hMlJ-FhjOEG5s
 seo:
   title: Users can now access recently used LINE MINI Apps from the LINE Home tab
   description: >-

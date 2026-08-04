@@ -4,7 +4,7 @@ navigation: true
 description: You can now delete your developer account on the LINE Developers Console.
 meta: '{"date":"2026-06-24 00:00 UTC","tags":"console","locale":"en"}'
 path: /en/_partials/news/2026/2026-06-24-delete-developer-account
-__hash__: u4A_AQpdhRqTnGphLXM55K9IS7ny8uc2KdF6nOXN1BU
+__hash__: 3OXwGxx1MCxMzovNUPfImx9wvofNOG-snOhgt3n_jhw
 seo:
   title: Developer accounts can now be deleted on the LINE Developers Console
   description: You can now delete your developer account on the LINE Developers Console.

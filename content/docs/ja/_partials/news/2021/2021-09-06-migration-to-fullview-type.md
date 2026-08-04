@@ -4,7 +4,7 @@ navigation: true
 description: 2021年9月6日をもって、LINEミニアプリのヘッダーデザインが変更されました。
 meta: '{"date":"2021-09-06 00:00 UTC","tags":"LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-09-06-migration-to-fullview-type
-__hash__: OK4jF8iFLjLWl8OsGlzWO_gjlpiqwja-Q7Chco1JH50
+__hash__: 3Tmnx2q2jJoWdpj0LDA7DyYZskfxHTUg1uZfvf22-Vg
 seo:
   title: LINEミニアプリのヘッダーデザインを変更しました
   description: 2021年9月6日をもって、LINEミニアプリのヘッダーデザインが変更されました。

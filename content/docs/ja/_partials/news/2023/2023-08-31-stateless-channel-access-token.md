@@ -7,7 +7,7 @@ meta: >-
   {"date":"2023-08-31 00:00 UTC","tags":"line-platform, messaging-api, liff,
   line-mini-app, docs","locale":"ja"}
 path: /ja/_partials/news/2023/2023-08-31-stateless-channel-access-token
-__hash__: k5m5G_ooureN2y-0vY99mgZ9oVue6TC4EnKvN5spno0
+__hash__: z_SSGS1Gy8lQ3gYOKorqkGCWrX2zkZLW_esw-LCK5HA
 seo:
   title: ステートレスチャネルアクセストークンをリリースしました
   description: >-

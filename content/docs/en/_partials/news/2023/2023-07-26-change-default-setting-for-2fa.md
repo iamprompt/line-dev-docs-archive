@@ -9,7 +9,7 @@ description: >-
   authentication has been changed to on.
 meta: '{"date":"2023-07-26 00:00 UTC","tags":"line-login, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-07-26-change-default-setting-for-2fa
-__hash__: rrEysXJMt8t4Qom5f1NmIl4mANZIXlW9wjZIiovigHU
+__hash__: j1Tz45ahy38T-BH8W67bxYfNcMB9PRdQT_-uvdI7rGM
 seo:
   title: >-
     Default setting of require two-factor authentication when creating a channel

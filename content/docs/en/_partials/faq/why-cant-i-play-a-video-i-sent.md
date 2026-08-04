@@ -9,7 +9,7 @@ meta: >-
   {"date":"2024-07-31 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/why-cant-i-play-a-video-i-sent
-__hash__: drz_FzPDj1pr6Pk8OjXOKjCGvM05Wn9zkIVCCgeLxsg
+__hash__: NP6MOZEgHfJNtPWIVeH-W-T98ehmHm7eu9gWS6AmHGI
 seo:
   title: Why can't I play a video that I sent as a message?
   description: >-

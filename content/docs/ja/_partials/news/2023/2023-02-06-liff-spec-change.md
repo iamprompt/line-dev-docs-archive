@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-02-06 00:00 UTC","tags":"liff, line-mini-app, line-login,
   end-of-life","locale":"ja"}
 path: /ja/_partials/news/2023/2023-02-06-liff-spec-change
-__hash__: _J67l35zNg8g0xi8dnm9efK1ukv0L-j_yDwte79h9AI
+__hash__: 1YO4ScQL8weWqoGiMKM7Ft_OwiydqkyRql1h7hqueo0
 seo:
   title: 【更新】2023年2月6日をもってLIFFアプリに対するトークルームの内部識別子の提供を廃止しました
   description: ''

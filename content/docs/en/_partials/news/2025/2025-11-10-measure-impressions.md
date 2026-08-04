@@ -10,7 +10,7 @@ description: >-
   the statistics of the Messaging API.
 meta: '{"date":"2025-11-10 00:00 UTC","tags":"docs, messaging-api","locale":"en"}'
 path: /en/_partials/news/2025/2025-11-10-measure-impressions
-__hash__: o6s8_mpD_j5r8o4CoLzKpeh4NVTZchZSKX-bPOloTCg
+__hash__: TB8PhnKWXJogOva4UmOzntmulZHJZK8_lyJKkoJkBNs
 seo:
   title: >-
     We've added documentation about impression measurement to the Messaging API

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-19 00:00 UTC","tags":"outage-report, line-platform,
   line-login, liff, line-mini-app, messaging-api","locale":"ja"}
 path: /ja/_partials/news/2026/2026-03-19-all-products-outage
-__hash__: CQ4KVTIYTXZdSy54U8VcISmBET5wA2Jsd_PYRU_5E-4
+__hash__: kS1i89jlfisj_xRl5CIwTIH1V2r-bQLQ5VCc-OC3AeM
 seo:
   title: 【復旧済み】LINEプラットフォーム障害のお知らせ
   description: >-

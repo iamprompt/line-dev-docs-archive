@@ -4,7 +4,7 @@ navigation: true
 description: LINE開発者契約を更新しました。この更新では、5.7の項目を追加しています。
 meta: '{"date":"2022-03-24 01:00 UTC","tags":"line-platform, console","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-03-24-line-developers-agreement-updated
-__hash__: nFRvZ-Tneb8VSi_Rb_eVVGpC71158QzpSTQauru6uhc
+__hash__: 2EzXuW4fuqLxnAnKjsxhLbk7PztLOQPR03mwMsrfKg8
 seo:
   title: LINE開発者契約を更新しました
   description: LINE開発者契約を更新しました。この更新では、5.7の項目を追加しています。

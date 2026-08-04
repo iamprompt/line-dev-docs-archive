@@ -7,7 +7,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-friend","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-anyone-set-friend-button
-__hash__: aNv36PEH9m8_86RAGZ_qht_ZdksM7eY5ClQqT6PfD9E
+__hash__: '-7fplvDgCXJ7a2uScrlIqp58kQ9tciFlFMCu2gUE4eo'
 seo:
   title: '「友だち追加」ボタンは誰でも設置できますか？ '
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/emoji-list
-__hash__: KfmxuR3MuLYzXYSRiRw5MydheYwJ4hJx1t8LvvneiKU
+__hash__: SPMdWZATwDUAP8lUKRXOChcx_6V_0IGv8nbwq1sExC4
 seo:
   title: LINE emoji
   description: null

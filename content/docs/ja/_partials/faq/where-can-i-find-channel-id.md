@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-06-21 00:00 UTC","tags":"console, line-platform, line-login,
   liff, line-mini-app, messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/where-can-i-find-channel-id
-__hash__: ka_ZF7ZV1SD-x691gFtALMPEJSn6M-_QW8XmXNLcIEE
+__hash__: MUAegDMa90p3r-wEV9JzmgfrvQerMQlxYN_EWMCLh34
 seo:
   title: チャネルIDはどこで確認できますか？
   description: チャネルIDは、LINE Official Account Manager、またはLINE Developersコンソールで確認できます。

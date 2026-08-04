@@ -9,7 +9,7 @@ meta: >-
   template-messages, flex-message","locale":"ja"}
 path: >-
   /ja/_partials/news/2025/2025-05-07-correction-to-documentation-regarding-webhooks
-__hash__: iD1YlYgToM3dAmuz3uPT21J5UsF0MPsJhBqWmwUHua0
+__hash__: nK9wk-QeNL7-CicP0HgA6yU8UaMXMm2nlmQQldXlA4A
 seo:
   title: liff.sendMessages()でメッセージが送信されたときのWebhookに関するドキュメント訂正のお知らせ
   description: >-

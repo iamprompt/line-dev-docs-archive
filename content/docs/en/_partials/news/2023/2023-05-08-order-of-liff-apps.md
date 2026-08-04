@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-05-08 00:00 UTC","tags":"liff, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-05-08-order-of-liff-apps
-__hash__: 6k-fFGs1ob-YhBkt1aXz1kyC0i_ys-JDsQDHcjiXNm8
+__hash__: gUwR5oNaAkvPFci08eNI9urqTqFyW3NbxjNKrd9Zusc
 seo:
   title: >-
     [Updated] The order of the LIFF apps will be changed in LINE Login channels

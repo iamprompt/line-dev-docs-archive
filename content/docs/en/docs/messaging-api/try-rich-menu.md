@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/try-rich-menu
-__hash__: r0PoAcp8D6Nh9mvQ0CzSQvagllCLicaEDqyDGTuOdSU
+__hash__: AZGdOXrOMrRPu8RT4XGk955SnF3XfaH2FoT1R5tvbQc
 seo:
   title: Play with rich menus
   description: null

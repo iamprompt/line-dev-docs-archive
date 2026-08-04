@@ -4,7 +4,7 @@ navigation: true
 description: イメージマップメッセージの仕様変更が予定されています。
 meta: '{"date":"2018-10-24 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-10-24-imagemap-error-handle-changed
-__hash__: E81PAhZ1IYxBJthZdkbE_MzG_tax7lCpNXrqruzUi5k
+__hash__: atesydspWCKVWdoV0-tvEbktdqQGveSAoBEGSuj-TQI
 seo:
   title: イメージマップメッセージの仕様変更が予定されています
   description: イメージマップメッセージの仕様変更が予定されています。

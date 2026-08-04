@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-03-17 00:00 UTC","tags":"Maintenance, Messaging API, Options for
   corporate customers","locale":"en"}
 path: /en/_partials/news/2022/2022-03-17-line-notification-messages-maintenance
-__hash__: gWLOcbnEsK7opM5jPNM_ht9WTiHpemfLNbebe36m3gw
+__hash__: 7ILz-JqgfCF7sqfbvm5M45EBlbmXOvxXD0wB5DfVr78
 seo:
   title: >-
     [Maintenance completed] Emergency maintenance notice of LINE notification

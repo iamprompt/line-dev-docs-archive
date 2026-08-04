@@ -7,7 +7,7 @@ description: >-
   developers to stay up-to-date on LINE development.
 meta: '{"date":"2019-10-01 05:00 UTC","tags":"LINE Platform","locale":"en"}'
 path: /en/_partials/news/2019/2019-10-01-upcoming-chinese-news
-__hash__: jWMKPLoXnwD29xcybTejQRBkZn0WEOTMEADLIJEJLdg
+__hash__: a3UCX_Z-AOx2lVbq9NB6qrfrSxF7FnFoj_NgB4epeCE
 seo:
   title: New Chinese-language news page
   description: >-

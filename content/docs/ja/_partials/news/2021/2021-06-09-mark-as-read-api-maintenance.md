@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-06-09 00:00 UTC","tags":"Maintenance, Options for corporate
   customers, Messaging API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-06-09-mark-as-read-api-maintenance
-__hash__: SXYO-5ncOmveAhRSOvD_TNQhOPmNhgm5XEkWvKWKZCI
+__hash__: HjSerpIvwZyoAH_WIV03xWs1DfkiLASPOydLZQwBwEw
 seo:
   title: Mark-as-Read API メンテナンスのお知らせ
   description: >-

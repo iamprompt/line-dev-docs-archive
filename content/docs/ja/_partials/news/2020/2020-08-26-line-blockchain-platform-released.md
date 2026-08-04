@@ -4,7 +4,7 @@ navigation: true
 description: 以下の3つのコンポーネントで構成される「LINE Blockchain Platform」が利用できるようになりました。
 meta: '{"date":"2020-08-26 00:00 UTC","tags":"LINE Blockchain","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-08-26-line-blockchain-platform-released
-__hash__: i2w2n1OQxXrArG-qZCq1R_esD3smWPFOlhNGulNZLiY
+__hash__: hBSLK-_RBl2TEHH0lCuWgfzDQRX3P1e5veF9aQvRTMA
 seo:
   title: LINE Blockchain Platformが利用できるようになりました
   description: 以下の3つのコンポーネントで構成される「LINE Blockchain Platform」が利用できるようになりました。

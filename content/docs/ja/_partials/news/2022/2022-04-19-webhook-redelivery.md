@@ -4,7 +4,7 @@ navigation: true
 description: 2022年3月7日のニュースでお知らせしたとおり、Messaging APIにWebhookを再送する機能を追加しました。
 meta: '{"date":"2022-04-19 01:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-19-webhook-redelivery
-__hash__: L38BygtErb1CsKDyWD0ELNkgohD0Y84SiNzAoRrrGnI
+__hash__: vdOMcer3k6775mMoiGgvyTE7h5Hj8KFVhZbH3VvtJsg
 seo:
   title: Messaging APIにおいて、受け取りに失敗したWebhookを再送する機能を追加しました
   description: 2022年3月7日のニュースでお知らせしたとおり、Messaging APIにWebhookを再送する機能を追加しました。

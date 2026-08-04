@@ -7,7 +7,7 @@ description: >-
   inconvenience that this may have caused.
 meta: '{"date":"2020-07-13 00:00 UTC","tags":"Outage report, LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-13-liff-outage
-__hash__: U4SkxBCeaak2VPl81zbs2m8ExAu76mSOs0OBRYHxT6s
+__hash__: F8WBgBUADaOMs6BPXqP2NfeU5mF__XDWSHD74slL8j0
 seo:
   title: '[Resolved] Notice about service outage for LINE Front-end Framework'
   description: >-

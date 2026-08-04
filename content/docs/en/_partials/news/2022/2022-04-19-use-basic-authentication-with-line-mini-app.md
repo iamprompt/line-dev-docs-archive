@@ -7,7 +7,7 @@ description: >-
   MINI Apps by using basic authentication.
 meta: '{"date":"2022-04-19 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-19-use-basic-authentication-with-line-mini-app
-__hash__: lgeWt20DudIVVQ7cyl254Jurv__QY9CU0UYHRoDiE7g
+__hash__: c-7SoFNpxNASwOeSAvpG066h6m4yn4MXkWtnpetMsxw
 seo:
   title: Basic authentication is now available for LINE MINI App
   description: >-

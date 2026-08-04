@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-flex-messages
-__hash__: JDrhfbsC_oSzOrrqWtzpEhGjcMfrTyPm9x929sHOI7E
+__hash__: KRtLjx5Gy8ZdrA0pmIfFMLwn1LoBjluuzkmsNnvc-II
 seo:
   title: Send Flex Messages
   description: null

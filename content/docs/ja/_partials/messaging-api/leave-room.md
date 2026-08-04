@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/leave-room
-__hash__: B0pgL7eNksK1em_ppx1EahlJGGr3djnlyqUPFfDOXWU
+__hash__: INFh2nl9VFYQ0y0WoRcHUnoPz7dHRQb5CAoFE5c3gSI
 seo:
   description: ''
 ---

@@ -9,7 +9,7 @@ description: >-
   using the Get friend demographics endpoint:
 meta: '{"date":"2024-09-05 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-09-05-age-percentage-subdivision
-__hash__: mxoSpPMWenK-Ccw0fGRJgvMv6a-3XvN7divcThssr_g
+__hash__: paNgTz9-VUVI0joquoSurkCoRlcEW-g2UYubkqi1YpA
 seo:
   title: >-
     Messaging API now provides statistics on the percentage of friends between

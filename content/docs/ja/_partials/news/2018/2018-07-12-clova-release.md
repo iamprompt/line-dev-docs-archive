@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-07-12 00:00 UTC","tags":"Clova Extensions Kit,
   Clova","locale":"ja"}
 path: /ja/_partials/news/2018/2018-07-12-clova-release
-__hash__: 1NHT0Vj4jlSY_c1PtHlAnrvThqI9iS0bXYmE7ceaRro
+__hash__: _oeM0LHzweOYoIpeN5mJlovbnJOP1ewcUiz3ZJE7FGQ
 seo:
   title: Clova Extensions Kitが公開されました
   description: >-

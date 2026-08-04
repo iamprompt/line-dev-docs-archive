@@ -4,7 +4,7 @@ navigation: true
 description: Android版LINEバージョン15.0.0以降で、トークルーム上で開いたLIFFブラウザを最小化できるようになりました。
 meta: '{"date":"2025-01-15 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-01-15-minimizing-liff-browser
-__hash__: LamujaZph1yj7h8QqP2_M8yxBrShAEMTHuHQKVQ-gyY
+__hash__: Id4Y_AFM5A3FDoPx1uPYtaK9Z8-yGgtnapReG7fS4Hg
 seo:
   title: Android版LINEバージョン15.0.0以降でLIFFブラウザを最小化できるようになりました
   description: Android版LINEバージョン15.0.0以降で、トークルーム上で開いたLIFFブラウザを最小化できるようになりました。

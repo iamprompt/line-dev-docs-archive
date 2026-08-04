@@ -7,7 +7,7 @@ meta: >-
   {"date":"2019-11-25 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/what-is-the-rule-to-count-the-number-of-character
-__hash__: kmVNlQVOWz4syhKBmBUkXMrv7hkk58vnNNtR3u64-DI
+__hash__: g4HCeoRtl6yZQkOf-7_KUMo9bsxPY9R28NIjpoPhd7c
 seo:
   title: テキストの文字数のカウントで、全角文字、改行文字、絵文字などは何文字としてカウントされますか？
   description: >-

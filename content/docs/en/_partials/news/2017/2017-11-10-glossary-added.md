@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-11-10 00:00 UTC","tags":"Docs, Messaging API, LINE
   Login","local":"en"}
 path: /en/_partials/news/2017/2017-11-10-glossary-added
-__hash__: ve8HJsvhfrXy8DIwVqvMJYffRY0xrxSM_Pof7YBgWf4
+__hash__: Afxjsw1WnhlsDKAaMJk2wjX9RT9LIAeJ7sqMVzmMGpw
 seo:
   title: LINE Login and Messaging API glossaries
   description: >-

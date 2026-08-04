@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/iap-product-id
-__hash__: 2PT5TYoZ1NQFPgtqZZdlnywUFFws4Q2gNHc5kTijehc
+__hash__: ThMreIQWnamAKLBgR3MavUR4j1xZMdHds6dOQsnyV20
 seo:
   title: アプリ内課金で購入可能なアイテムのプロダクトID一覧
   description: null

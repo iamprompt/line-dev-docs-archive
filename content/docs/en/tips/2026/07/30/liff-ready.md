@@ -8,7 +8,7 @@ description: >-
   a caveat you should know about when using it.
 meta: '{"date":"2026-07-30 00:00 UTC","tags":"liff","locale":"en","sidebar":false}'
 path: /en/tips/2026/07/30/liff-ready
-__hash__: aXRDoC6-J7TnnJ3VgL_swhxY38HDskwE-gfQkrNXR1g
+__hash__: Xf8dHZHppP-h09YG63cOzuXCBn9xdnEQmYtRtKdr_hg
 seo:
   title: >-
     liff.ready lets you wait for liff.init() completion from anywhere, with one

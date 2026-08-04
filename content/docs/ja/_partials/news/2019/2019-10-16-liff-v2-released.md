@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework（LIFF） v2は、LINEが提供するウェブアプリのプラットフォームです。
 meta: '{"date":"2019-10-16 07:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-10-16-liff-v2-released
-__hash__: mNkelUEGhejNdygVQUW4zFx1uIJu6E5ZyEPu6e_s85I
+__hash__: 09zPIZl75l5WQKJSzWw9A6NT4VYLvUjBrPccJpQRcR4
 seo:
   title: LIFF v2がリリースされました
   description: LINE Front-end Framework（LIFF） v2は、LINEが提供するウェブアプリのプラットフォームです。

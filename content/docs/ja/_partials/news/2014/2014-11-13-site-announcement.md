@@ -4,7 +4,7 @@ navigation: true
 description: We are happy to announce a design update to the LINE Developers site.
 meta: '{"date":"2014-11-13 00:00 UTC","tags":"Docs, LINE Platform","local":"en"}'
 path: /ja/_partials/news/2014/2014-11-13-site-announcement
-__hash__: Cv34ACfC34JyZI_vTWGePsBgOEq4qFIlpIwr-T2ccDQ
+__hash__: 6CMh1JlGo8U5J-0Il4-GK-hZ2MO8lCDzqttKPNtjXIs
 seo:
   title: LINE Developers Site Update
   description: We are happy to announce a design update to the LINE Developers site.

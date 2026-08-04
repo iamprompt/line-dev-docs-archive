@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/pricing
-__hash__: ctSzEH11bipQcT_XatOtNJ1IxABPKpwqadHU_3ryFr8
+__hash__: A_cuU4uNy9UC3CSN786x4lg7ony2N2Y_ifNPdBiSyJk
 seo:
   title: Messaging APIの料金
   description: null

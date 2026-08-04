@@ -7,7 +7,7 @@ meta: >-
   line-login","locale":"en"}
 path: >-
   /en/_partials/news/2021/2021-11-08-liff-and-line-login-are-added-to-line-api-status
-__hash__: _fsT4-GBXjc7noz6mtO1zuhnoepRCRzhMW0GqEDqnW8
+__hash__: biu-BAYVZGKwBKIJ5ZV3jnY68dKyX2hIH9QcJqSvK4g
 seo:
   title: LIFF and LINE Login have been added to services covered by LINE API Status
   description: LIFF and LINE Login have been added to the LINE API Status.

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-06-09 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-send-purchased-or-company-owned-stickers
-__hash__: QvKqibyvH5RCFVEcQx91czg0e2MWSkhEWuiaeqm9ZE4
+__hash__: BDoud1Ll9wWp4M9mfcgerslUV4xSP24Gbzv6FzzNFc4
 seo:
   title: 購入したスタンプや自社のスタンプをMessaging APIで送信できますか？
   description: Messaging APIでは、「スタンプ」に記載されているスタンプのみを送信できます。

@@ -4,7 +4,7 @@ navigation: true
 description: This document contains optional functions for corporate users.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/overview
-__hash__: o58S0BvtOKzRqsJ7oO375ElrVezC0UC32shHHptaHkY
+__hash__: X1oz8j-yK6louCB_mKzmgeju8EHvagxMuLtQ1ofUVA0
 seo:
   title: Overview
   description: This document contains optional functions for corporate users.

@@ -11,7 +11,7 @@ meta: >-
   {"date":"2026-03-30 00:00 UTC","tags":"line-developers-site,
   docs","locale":"en"}
 path: /en/_partials/news/2026/2026-03-30-line-api-use-case-closing
-__hash__: U2-C74_KoovWRY8I2qnzBva1d5U1inTnIfymuMcPSz0
+__hash__: yrTiU8YkyJHeevto3zhVJ5UhmhoeVbTvUqyNPeLHzeI
 seo:
   title: >-
     Partial content from the LINE API Use Case site has been migrated to the

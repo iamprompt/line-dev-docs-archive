@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-10-21 01:00 UTC","tags":"outage-report, messaging-api,
   options-for-corporate-customers","locale":"en"}
 path: /en/_partials/news/2021/2021-10-21-messaging-api-outage
-__hash__: ME4ifQftsRdVqFZDz88ms_8HqKBx4xI_KwsjrdT58CQ
+__hash__: QeYuPqISvOHpUKtiI_vpPSZOL7WZe3SUK74LyW5f8C4
 seo:
   title: '[Resolved] Notice about service outage for the Messaging API'
   description: >-

@@ -7,7 +7,7 @@ meta: >-
   {"date":"2026-05-26 00:00
   UTC","tags":"line-mini-app","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/is-there-any-benefit-to-using-line-mini-apps-with-native-app
-__hash__: hbi5uJVWxgogWi1OfiMMRe0qF-pMZmw7FzZSRK393b0
+__hash__: PITxt2QAnH48RlrZ-8gs-sWjRYYm1p22KLLgTwoGPiU
 seo:
   title: すでにネイティブアプリを運用している場合、LINEミニアプリを併用するメリットはありますか？
   description: >-

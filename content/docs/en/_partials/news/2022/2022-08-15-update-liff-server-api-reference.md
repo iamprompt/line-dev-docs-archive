@@ -4,7 +4,7 @@ navigation: true
 description: 'The following properties are now available in the LIFF server API:'
 meta: '{"date":"2022-08-15 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-08-15-update-liff-server-api-reference
-__hash__: xAtkjAUUv4FN3kX8jSFSnMpAPrsuO-vLYwj_xzwVrhg
+__hash__: xbHnQ8jYnyipb16vT9qOeW095ad7l4y4spyGuemnN6E
 seo:
   title: More properties are available in the LIFF server API
   description: 'The following properties are now available in the LIFF server API:'

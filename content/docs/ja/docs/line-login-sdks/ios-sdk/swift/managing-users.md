@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for iOS Swiftを使って、ログイン後にユーザープロフィールデータとIDトークンを取得します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/managing-users
-__hash__: 3fcdHUjjO_01BmX12ckENMVpGS0iw7EdPUJshkC4X_4
+__hash__: DrfnbEbXHj9l_WEb5M7qmo9K81qM8QrRg4xFzeXlMTE
 seo:
   title: ユーザーを管理する
   description: LINE SDK for iOS Swiftを使って、ログイン後にユーザープロフィールデータとIDトークンを取得します。

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-11-18 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-18-site-navigation-redesign
-__hash__: UC8hh6bD1X9mehmO3GhQOe0lBuLwRKyJ1PUobB-yUJQ
+__hash__: 6SJD8mTS42WSx46chloZxkAetl5VYPQXeIhmuB9JeOU
 seo:
   title: 【更新】LINE Developersサイトのナビゲーションが新しくなりました
   description: ''

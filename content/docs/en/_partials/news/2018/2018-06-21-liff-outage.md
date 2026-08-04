@@ -7,7 +7,7 @@ description: >-
   inconvenience that this may have caused.
 meta: '{"date":"2018-06-21 00:00 UTC","tags":"Outage report, LIFF","locale":"en"}'
 path: /en/_partials/news/2018/2018-06-21-liff-outage
-__hash__: W9KhXoWKe2ZcbBD3rX5rCKLsQ6iQnQQZxgLvcZ1VOY0
+__hash__: P0T3AUN8xt5F6ZC98EPuntVfPV_TOoVf3AuGee7vV9o
 seo:
   title: '[Resolved] Notice about service outage for LINE Front-end Framework'
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-console
-__hash__: JM1sYLroaZ3_JrvMvuS5Ki2jw4drfhKcdZspPb4WnNQ
+__hash__: unZvml1Zbs-_fopYI_LHEAO_MnLqwnnTywiWOD5Sbs4
 seo:
   title: モジュールチャネルの設定を行う
   description: null

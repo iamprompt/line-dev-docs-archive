@@ -8,7 +8,7 @@ meta: >-
   API","skills":"Python, SQL, Chatbot, NLP, Machine Learning, AI, Image
   Processing","git":"","fb":"https://www.facebook.com/BotnoiLittlebot","twitter":""}
 path: /en/community/api-experts/th-winn-voravuthikunchai
-__hash__: k2UN-GCW2klfpgyzSeYhI6-BX94sNsN5JbpnqrUu-xA
+__hash__: AeBXPFG_F_wswyeeUgEqfKYrtxdMim6YDvBMiLqPU9o
 seo:
   title: LINE API Expert - Winn Voravuthikunchai
   description: ''

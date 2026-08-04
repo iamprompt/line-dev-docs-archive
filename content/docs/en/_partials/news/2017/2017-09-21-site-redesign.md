@@ -9,7 +9,7 @@ description: >-
   changes to the site.
 meta: '{"date":"2017-09-21 00:00 UTC","tags":"Docs, Console","local":"en"}'
 path: /en/_partials/news/2017/2017-09-21-site-redesign
-__hash__: teS4LNns0ecsFjKRhi0n_Yp85STpfCS5XvHa6TarxaA
+__hash__: KOH-CBwLg4Nl4pdFBpYOlp4Ck93Zudy6XNDSV24iWDA
 seo:
   title: Introducing the redesigned LINE Developers site
   description: >-

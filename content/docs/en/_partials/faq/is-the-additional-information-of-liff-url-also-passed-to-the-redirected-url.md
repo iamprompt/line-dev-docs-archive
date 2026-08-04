@@ -12,7 +12,7 @@ meta: >-
   line-mini-app","priority":1000,"locale":"en"}
 path: >-
   /en/_partials/faq/is-the-additional-information-of-liff-url-also-passed-to-the-redirected-url
-__hash__: PHYpnEEhZ1RrKxmnAzhkuWADwL9Po9BwdZggNA6BsEA
+__hash__: vgbfUsBgGgPoJfW791ZNTL4nh0hO1dXaeUjHmVFu1mU
 seo:
   title: >-
     Is the additional information (path, query parameters, URL fragments)

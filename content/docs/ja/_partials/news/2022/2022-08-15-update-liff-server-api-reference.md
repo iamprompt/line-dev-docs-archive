@@ -4,7 +4,7 @@ navigation: true
 description: LIFFのサーバーAPIで、以下のプロパティを利用できるようになりました。
 meta: '{"date":"2022-08-15 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-08-15-update-liff-server-api-reference
-__hash__: spRq79MxYyE_l5SA1odT2_L6fTMWDGSZ9jBcnUFbygQ
+__hash__: 1575NSZ6jOzLHn_R9m2QrM_2J_Im4smlh5StW3Zyb4w
 seo:
   title: LIFFのサーバーAPIで利用できるプロパティが増えました
   description: LIFFのサーバーAPIで、以下のプロパティを利用できるようになりました。

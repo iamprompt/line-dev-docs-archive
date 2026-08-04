@@ -4,7 +4,7 @@ navigation: true
 description: 開発者の方々がLIFFアプリの開発をより円滑に行えるよう、新しいLIFFスターターアプリとLIFFプレイグラウンドを公開しました。
 meta: '{"date":"2021-11-02 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-02-new-liff-starter-and-playground
-__hash__: 7AvIcjMe0GgMXz6UCxMAGFQCzTBHgkXEkQzcZw89ENo
+__hash__: Lzui2I71ztNIYKmkyvdbXFWGHEhyxEgDdPDHrJF68_E
 seo:
   title: 新しいLIFFスターターアプリとLIFFプレイグラウンドを公開しました
   description: 開発者の方々がLIFFアプリの開発をより円滑に行えるよう、新しいLIFFスターターアプリとLIFFプレイグラウンドを公開しました。

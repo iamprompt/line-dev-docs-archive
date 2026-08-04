@@ -6,7 +6,7 @@ description: >-
   more, see Audience in LINE for Business.
 meta: '{}'
 path: /en/_partials/messaging-api/manage-audience-group
-__hash__: IdHfPPxzncXZMylEDgousYXtzUtVQVhyr3iJ92lk-WQ
+__hash__: YFrQFC1403NBbjo81vzeTujtnkYruYrWkTNAwzhaTwc
 seo:
   description: >-
     Audiences can also be created using LINE Official Account Manager. To learn

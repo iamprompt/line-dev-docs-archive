@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-membership-plans
-__hash__: yCTxMA2ENEoKz90gS-8RE41wt1YqqHE3Madk8WJ7-co
+__hash__: 3FNlhCXYn6dsvx2BinU2JcNMTmCUiSI5cZIV2eBZ7fo
 seo:
   description: ''
 ---

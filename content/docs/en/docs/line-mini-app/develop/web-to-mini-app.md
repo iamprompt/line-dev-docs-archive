@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/web-to-mini-app
-__hash__: 822CyTPwpQDbzX6Is1zLzEMc1OD95WR_ji06nzAxK5A
+__hash__: YSqRzDNX9yZXaOJLDCC0qUdGCjNB2NX5FY_3wLFP2KQ
 seo:
   title: Implementing web apps in operation as LINE MINI Apps
   description: null

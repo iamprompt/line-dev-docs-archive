@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/technicalcase/grandream
-__hash__: uUD87eBf82PsAvipeneHvTwrrIRb7eGBj5EBBkXF0XQ
+__hash__: U2UL-XDJ1w68Ws7K2DaOcJ53mpliSMDXsyu8yjzRIp4
 seo:
   title: >-
     Technical case study of the GDL platform: achieving both cost-efficiency and

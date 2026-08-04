@@ -6,7 +6,7 @@ description: >-
   Programの情報に関するセクション名と入力項目を以下のように変更しました。
 meta: '{"date":"2023-03-22 00:00 UTC","tags":"console, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-03-22-apple-developer-program
-__hash__: Qb7nFmehvbjaCPvNwzhC7z2agL6Cbw5ndZLpfQNXxDY
+__hash__: h0o_i7iqtaHiehHtu0rCBMkUuRd8uOzc2eVw98dPzQM
 seo:
   title: LINEミニアプリチャネルにおいて、Apple Developer Programの情報の入力項目が少なくなりました
   description: >-

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-02-22 00:00 UTC","tags":"Messaging API, Rich menu, Imagemap
   message","locale":"ja"}
 path: /ja/_partials/news/2018/2018-02-22-actions-label-update
-__hash__: JLc0gwkzTs7eU6ddMxgaIrL0jZ9UYiXo2V6MoQGMAPU
+__hash__: h-SKXBfV18yBb2iM-w-mI3jfe486Y0Wr1sNz-k_ss_Y
 seo:
   title: アクセシビリティのためのプロパティが追加されました
   description: >-

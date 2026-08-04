@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-21 00:00 UTC","tags":"liff,
   line-mini-app","locale":"ja","sidebar":false}
 path: /ja/tips/2026/05/21/line-request-friendship
-__hash__: MOJfI_Yehn74isQw-QhrBLtmZ0l-zxDnK0KDcKYZJcw
+__hash__: w698zxRN8y-vsL-GJ0r--gyoVdyxQLQwf89vm3dpb8Q
 seo:
   title: liff.requestFriendship()メソッドならLINE公式アカウントの友だち追加やブロック解除を自然に促すことができます
   description: こんにちは！テクニカルライターの古木です。

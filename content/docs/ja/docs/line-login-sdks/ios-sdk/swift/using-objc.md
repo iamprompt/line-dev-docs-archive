@@ -7,7 +7,7 @@ description: >-
   SDK for iOS SwiftをObjective-Cのプロジェクトに組み込みましょう。
 meta: '{}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/using-objc
-__hash__: aawgiUPdZl-anMo2PMrfmEH11aHvthQBdgejVzf9TTw
+__hash__: Z3B3g-26RVX6NwCf6RX-Lr0P07ENopRDdtTFz_d9uLQ
 seo:
   title: Objective-CのコードでSDKを使用する
   description: >-

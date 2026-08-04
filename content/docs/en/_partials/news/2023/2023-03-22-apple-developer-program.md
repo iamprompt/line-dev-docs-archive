@@ -9,7 +9,7 @@ description: >-
   Program information have been changed as follows:
 meta: '{"date":"2023-03-22 00:00 UTC","tags":"console, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2023/2023-03-22-apple-developer-program
-__hash__: u2Y5XpufTRCN9d3BVr-RWFpcb7uI-KV5BMezPguztAI
+__hash__: HhM_4DAffOMywYfjX0tFnnnQALJkA7hhOnIHXLm3K0I
 seo:
   title: >-
     In the LINE MINI App channels, the input fields for Apple Developer Program

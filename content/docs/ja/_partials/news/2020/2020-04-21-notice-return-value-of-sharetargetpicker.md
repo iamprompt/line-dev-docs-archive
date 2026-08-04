@@ -6,7 +6,7 @@ description: |-
   現在の仕様のみを想定しているアプリの開発者の方は、実装の変更をお願いします。
 meta: '{"date":"2020-04-21 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-04-21-notice-return-value-of-sharetargetpicker
-__hash__: zLBtFoQoO3-mZYcpneNHvYeVdzHKZhmgxskFlouOe_w
+__hash__: m6xXhdyYgfPFr1vx_WWNx1YYFcRmxDCJVIH8opRZUYE
 seo:
   title: liff.shareTargetPicker()の戻り値に関するお知らせ
   description: |-

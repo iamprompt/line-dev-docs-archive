@@ -7,7 +7,7 @@ description: >-
   Messaging API SDKを記載していきます。現在はC#（.NET）SDKのみですが、さらに多くのリソースを追加していく予定です。
 meta: '{"date":"2018-01-15 00:00 UTC","tags":"Messaging API, Docs","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-01-15-community-sdk
-__hash__: M53X28sIKOV0_CbhbA0N1G7Le3ADB7RlKPQ0O92Jp8c
+__hash__: bygRrmQyermX216lyAjMUoG7YKDZSq8NHwEQQ04u4yA
 seo:
   title: コミュニティSDKのセクションが追加されました
   description: >-

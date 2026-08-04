@@ -4,7 +4,7 @@ navigation: true
 description: LINEバージョン14.3.0において、LINEミニアプリのアクションボタンのオプションに［ホーム画面に追加］が追加されました。
 meta: '{"date":"2024-03-07 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-03-07-add-to-home-screen
-__hash__: HgL0lxfrc4zdL6p9VSVTRU3lv4LgHxTZtFj2b7-ptGI
+__hash__: KUVMb6wTQBVdqGsRrffWngNVoF-_D0xyoyhsskWmbb8
 seo:
   title: LINEバージョン14.3.0よりLINEミニアプリへのショートカットをアクションボタンから追加できるようになりました
   description: LINEバージョン14.3.0において、LINEミニアプリのアクションボタンのオプションに［ホーム画面に追加］が追加されました。

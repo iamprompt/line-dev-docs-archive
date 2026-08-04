@@ -6,7 +6,7 @@ description: >-
   iOS were temporarily suspended due to technical issues.
 meta: '{"date":"2020-01-14 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-14-confirm-existence-of-some-liff-apis
-__hash__: JlTmHxjuNxftsI6mcVNFQhMMtxNeev-jWd-sH5BOW70
+__hash__: w2cPF17hGpIwJRInReZ_VESCIHsbyy2iOMG9X_FavDY
 seo:
   title: Update your code that uses the suspended LIFF SDK API
   description: >-

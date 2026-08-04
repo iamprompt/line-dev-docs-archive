@@ -9,7 +9,7 @@ meta: >-
   console","locale":"ja"}
 path: >-
   /ja/_partials/news/2024/2024-09-04-no-longer-possible-to-create-messaging-api-channels-from-console
-__hash__: WiLwmWP8C5Ev1CBSgtEtoHlkXt8cn5LNsbHxacsVZp4
+__hash__: cTdBaYT59Nsm242il9tNXd2ziMnACcRyC4o_7RTjLOM
 seo:
   title: 2024年9月4日をもってLINE DevelopersコンソールからMessaging APIチャネルを直接作成することはできなくなりました
   description: >-

@@ -8,7 +8,7 @@ description: >-
   later.
 meta: '{"date":"2021-06-14 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2021/2021-06-14-liff-ui-change-on-line-11-10-0
-__hash__: VmPFqswc-ePlXB3w4u1FHpDdGYlgqrWDM5fLnkYtbjo
+__hash__: 1Sm4sNUTw3guCZoEZFeOnp_Pyaur7QfONNO3njOn-7c
 seo:
   title: >-
     Icons in the LIFF app header will be visually enhanced from LINE 11.10.0 or

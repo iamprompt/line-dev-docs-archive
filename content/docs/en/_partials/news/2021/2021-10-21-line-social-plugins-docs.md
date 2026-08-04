@@ -8,7 +8,7 @@ description: >-
   been migrated:
 meta: '{"date":"2021-10-21 00:00 UTC","tags":"social-plugins, docs","locale":"en"}'
 path: /en/_partials/news/2021/2021-10-21-line-social-plugins-docs
-__hash__: SU_EImAbsOtE4k0_ucWY9hxcrnEGpQbSKNDjCIcy6kA
+__hash__: XuOMd4yYF4z4thgC3n_1yUc3CRTxhrsbShdn3XEe9Uw
 seo:
   title: Docs for LINE Social Plugins has been moved to the LINE Developers site
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/custom-path
-__hash__: oIgr0RC8NxGHBVp6FI1J_FIVxl3d30cOnFn0e3sc1TQ
+__hash__: IP0xqX_QsI-Qq62nSTnf4UW1g1LJ_yrTpe_IUEfPZHU
 seo:
   title: Custom Pathを設定する
   description: null

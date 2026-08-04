@@ -5,7 +5,7 @@ description: >-
   ステータスが「開発中」または「審査中」のLINEミニアプリで、ベーシック認証が利用できるようになりました。特定の人のみが公開前のLINEミニアプリにアクセスできるよう、ベーシック認証を用いて制限がかけられます。
 meta: '{"date":"2022-04-19 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-19-use-basic-authentication-with-line-mini-app
-__hash__: xGTINvNKgDOdUNgc5YXkSDTLFVN7eUkTl6vzA5N-w0U
+__hash__: Pwa3jt-GpYP67sAbrJOvAORw6IRiVKPi-FlesDYlYu4
 seo:
   title: LINEミニアプリでベーシック認証が利用できるようになりました
   description: >-

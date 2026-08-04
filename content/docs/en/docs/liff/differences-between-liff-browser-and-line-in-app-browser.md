@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/differences-between-liff-browser-and-line-in-app-browser
-__hash__: 2dIJVKSNOtUZmcuzwFhnBfYUvM-8WXz10OKO6SoInV0
+__hash__: 4bN_VRehCv29uRxj2W07F1eKAZsOlUJYN9wMHki0b8s
 seo:
   title: The differences between LIFF browser and LINE's in-app browser
   description: ''

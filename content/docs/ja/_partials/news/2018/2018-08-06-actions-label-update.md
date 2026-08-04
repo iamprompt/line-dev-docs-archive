@@ -6,7 +6,7 @@ meta: >-
   {"date":"2018-08-06 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"ja"}
 path: /ja/_partials/news/2018/2018-08-06-actions-label-update
-__hash__: GfkJffv9lgIKMueeU7eU3Qkes_JKdmavDIV14IHrWbg
+__hash__: UyngNlMhd0bfmuhZaJ5uWm-94uVeuiJTOxdZjvtbRUI
 seo:
   title: Flex Messageをデスクトップで表示できるようになりました
   description: Flex Messageをデスクトップで表示できるようになりました。

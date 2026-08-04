@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-06-15 00:00 UTC","tags":"LINE Login, Messaging API, LINE
   Platform, end-of-life","locale":"en"}
 path: /en/_partials/news/2021/2021-06-15-dedisco-api-deprecation
-__hash__: xtZz46obLP9SPino49GX4iSsFr-BMFEhON6p7RRIRkk
+__hash__: CkUZPpcuVHHmaXnwtNr_lxS7hY08rZt2u5i00d5RsJw
 seo:
   title: >-
     The APIs for converting MIDs to user IDs will be discontinued at the end of

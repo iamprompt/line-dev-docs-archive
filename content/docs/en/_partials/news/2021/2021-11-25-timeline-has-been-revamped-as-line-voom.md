@@ -7,7 +7,7 @@ description: >-
   Configuration changes due to renewal(Japanese only).
 meta: '{"date":"2021-11-25 00:00 UTC","tags":"line-platform","locale":"en"}'
 path: /en/_partials/news/2021/2021-11-25-timeline-has-been-revamped-as-line-voom
-__hash__: E0fo8ndhzRdFCTJEJjGIVjn_oe4q0582ZiCk6u_G_YY
+__hash__: g05p4r1qMrlRC5XaKvvdEsv6hwyCtZLOU0jq88IZIlc
 seo:
   title: Timeline has been revamped as a video platform called "LINE VOOM"
   description: >-

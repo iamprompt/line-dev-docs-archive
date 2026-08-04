@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-10-02 00:00 UTC","tags":"line-platform,
   line-developers-site","locale":"en"}
 path: /en/_partials/news/2023/2023-10-02-merger-announcement
-__hash__: cTPaNO0mLmacFI6qhxvwlNEih6tfCVsvMJiaoToQ8-o
+__hash__: 2GuICJqSFaguscMP8aUCA9VJ8SwDrVFwkO36367jRBE
 seo:
   title: Due to the intra-group reorganization, we became LY Corporation
   description: >-

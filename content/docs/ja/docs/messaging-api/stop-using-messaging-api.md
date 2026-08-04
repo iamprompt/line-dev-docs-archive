@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/stop-using-messaging-api
-__hash__: dOaQJjHCnunOtcWingPOzObEJBW6lnjYql2JJo9KybY
+__hash__: 9za_7_RvYKHj6hHjxhcYmHm4TojuOqThI3i8cJFOssc
 seo:
   title: Messaging APIの利用を停止する
   description: null

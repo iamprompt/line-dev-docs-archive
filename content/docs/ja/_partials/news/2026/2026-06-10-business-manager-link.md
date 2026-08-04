@@ -4,7 +4,7 @@ navigation: true
 description: 日本の認証済ミニアプリにおいて、LINEミニアプリチャネルをビジネスマネージャーの組織と接続できるようになりました。
 meta: '{"date":"2026-06-10 00:00 UTC","tags":"console, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-06-10-business-manager-link
-__hash__: Vn4OYgcyCdsJwrhaC4a6RflRl3ko0_pGOUGZAgcYMBo
+__hash__: J1VxTg5weTooVIDqrg4DlxIrcxtPDVXuiegkV-0xQiM
 seo:
   title: 日本の認証済ミニアプリにおいて、LINEミニアプリチャネルをビジネスマネージャーの組織と接続できるようになりました
   description: 日本の認証済ミニアプリにおいて、LINEミニアプリチャネルをビジネスマネージャーの組織と接続できるようになりました。

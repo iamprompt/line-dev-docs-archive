@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-1-27 17:40 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/do-reply-messages-count-towards-the-message-count
-__hash__: 3TRvXLBOTX-wsdriBHQvblTfeuqeueCwhXB_evybppQ
+__hash__: tgNqvRB5PyDtrm83Fvcr-OmzUyCkWmItc6pPdsIeTa4
 seo:
   title: 応答メッセージはメッセージ通数にカウントされますか？
   description: いいえ、応答メッセージはメッセージ通数にカウントされません。

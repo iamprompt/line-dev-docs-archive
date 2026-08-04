@@ -5,7 +5,7 @@ description: >-
   台湾で提供されるLINEミニアプリの作成権限を申請するためのお問い合わせ窓口を公開しました。これにより、LINEミニアプリポリシーにおける「本サービスのご利用対象者」であれば、台湾で提供されるLINEミニアプリの作成権限を申請できるようになりました。なお、現時点では応募枠に限りがあるため、申請が承認されない場合があります。あらかじめご了承ください。
 meta: '{"date":"2023-09-28 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-09-28-line-mini-app-tw
-__hash__: VX8pcaY_hzc-0HFuTjlJ6as1YZodWRm5ysmkwWXpgb8
+__hash__: cDFeR8zmLW0DnveHyfGXDVBFeAADbDo2rJ-iZDlLEuw
 seo:
   title: 台湾で提供されるLINEミニアプリの作成権限を申請できるようになりました
   description: >-

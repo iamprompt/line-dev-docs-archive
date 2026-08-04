@@ -8,7 +8,7 @@ description: >-
   programming languages.
 meta: '{}'
 path: /en/_partials/messaging-api/messaging-api-sdk
-__hash__: OlEnHryjz_dsoJgm7I2Km4jMHwdYtOTb-zaR4O5Fr_w
+__hash__: vZNDilkMEQOc00PQPbPB4LxQQt64_IIHiDExEbbgttY
 seo:
   description: >-
     LINE Messaging API SDKs include libraries, tools, and samples to make it

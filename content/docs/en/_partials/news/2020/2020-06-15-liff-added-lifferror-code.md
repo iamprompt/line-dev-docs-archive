@@ -7,7 +7,7 @@ description: >-
   understand.
 meta: '{"date":"2020-06-15 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-06-15-liff-added-lifferror-code
-__hash__: tCU980EF7u2JkQmkLrN7B0E0ltNLGjKwNThclGT3I4o
+__hash__: 5XYNw8hQbvhP5hQjA5uwlbr78k0tW1Q6v1fKZGQ91yE
 seo:
   title: 'LIFF v2.2.0 released: LIFF error codes added'
   description: >-

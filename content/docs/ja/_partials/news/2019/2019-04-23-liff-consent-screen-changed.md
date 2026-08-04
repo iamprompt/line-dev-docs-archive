@@ -6,7 +6,7 @@ description: >-
   Framework（LIFF）で、ユーザーがLIFFアプリを起動したときに表示される同意画面が改善されました。この改善は、すべてのLIFFアプリに自動的に適用されるため、追加の開発作業は不要です。
 meta: '{"date":"2019-04-23 02:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-04-23-liff-consent-screen-changed
-__hash__: TlhjMqKQVpY4FhbTaj3C7qJJgOK7Wh1Lj59eldPUbes
+__hash__: ihPjr_lq4HDcvqhxt2hKVJQRJcUa96LmX8f10hP5XSU
 seo:
   title: LINE Front-end Frameworkの同意画面が改善されました
   description: >-

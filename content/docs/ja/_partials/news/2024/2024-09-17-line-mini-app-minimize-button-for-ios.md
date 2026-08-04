@@ -4,7 +4,7 @@ navigation: true
 description: iOS版LINEバージョン14.15.1以降で、LINEミニアプリをヘッダーから最小化できるようになりました。
 meta: '{"date":"2024-09-17 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-09-17-line-mini-app-minimize-button-for-ios
-__hash__: kQpXKHEOB21J3k5DLk6V_qvaWSonPHS_1Od-CfpejPQ
+__hash__: kt2hC1Hx1WaW1p3wffCu8vxM_SRZanvgvPrEzMXro7I
 seo:
   title: iOS版LINEバージョン14.15.1以降で、LINEミニアプリをヘッダーから最小化できるようになりました
   description: iOS版LINEバージョン14.15.1以降で、LINEミニアプリをヘッダーから最小化できるようになりました。

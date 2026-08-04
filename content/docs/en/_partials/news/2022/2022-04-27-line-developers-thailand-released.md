@@ -6,7 +6,7 @@ description: >-
   development methods and know-how for developers in Thailand.
 meta: '{"date":"2022-04-27 00:00 UTC","tags":"docs, line-platform","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-27-line-developers-thailand-released
-__hash__: cgMnCFatBQpoy6LGxKqHmyZFuXCDrAmdJk4C85BuRuw
+__hash__: Hco2XLRoGc3j98_xPGhsNAnsyF6z5u4llSEzN8RQH4A
 seo:
   title: LINE Developers Thailand is now available
   description: >-

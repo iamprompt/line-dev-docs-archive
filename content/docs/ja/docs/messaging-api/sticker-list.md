@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /ja/docs/messaging-api/sticker-list
-__hash__: 7feVIRqaA7Ji51rR7FTnYY9YD0C6Lm5S55BM4OOKRzY
+__hash__: d2hSha_Np3RfTYqQD71UhHSEeHEfapZDe_y4pgICQyI
 seo:
   title: スタンプ
   description: null

@@ -7,7 +7,7 @@ description: >-
 meta: >-
   {"tags":null,"author":null,"last_updated":null,"source_language":null,"toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/line-login-sdks/android-sdk/release-notes
-__hash__: KWpiKp58d-CqqXeHzs1xojjeCmGqWMHrhknDYI9rc2w
+__hash__: YKc9nJdnxv3siuMdD9zymIsgYUvvTikJnhy1T9nX1z0
 seo:
   title: Release notes for LINE SDK for Android
   description: >-

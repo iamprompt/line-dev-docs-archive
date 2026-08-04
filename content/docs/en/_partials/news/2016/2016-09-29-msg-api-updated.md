@@ -8,7 +8,7 @@ description: >-
   couple of branding changes as well.
 meta: '{"date":"2016-09-29 00:00 UTC","tags":"Messaging API","local":"en"}'
 path: /en/_partials/news/2016/2016-09-29-msg-api-updated
-__hash__: TGOP6w-BzUeJcnNTHRwmSUvIDGEM6HlrsZOBMV4_avk
+__hash__: 9IPiPfcvHC_S23NWys29gJXlpyuPbrzWqkQeVDDRHvk
 seo:
   title: Messaging API released and LINE Developers documentation updated
   description: >-

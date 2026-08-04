@@ -9,7 +9,7 @@ meta: >-
   line-mini-app, line-official-account, messaging-api,
   options-for-corporate-customers","priority":1000,"locale":"en"}
 path: /en/_partials/faq/how-can-get-email-phone-scopes
-__hash__: bRHSf7Dm-nQuKAPjl2vGMD4oPCup5u0qtEqlagMFHq4
+__hash__: h_huEiIaZByhehegmj4JobhR7g3aQ6YM1nJiuimowUs
 seo:
   title: How can I get a user's phone number?
   description: >-

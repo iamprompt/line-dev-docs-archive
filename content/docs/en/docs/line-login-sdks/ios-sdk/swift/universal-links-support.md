@@ -4,7 +4,7 @@ navigation: true
 description: How to set up universal links with LINE SDK for iOS Swift
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/universal-links-support
-__hash__: _oNLezJHZhTar_xMTBcSQg7tQOrghaSk92V63WhIJLw
+__hash__: 0xquxd9a4a7lP5VZkVywc4w-r4tZFS_YnAAKYBf101c
 seo:
   title: Using universal links
   description: How to set up universal links with LINE SDK for iOS Swift

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/rich-menus-overview
-__hash__: MUs7rVEvtv_bTSFyDIW0kKtp1bHOmXxsf1u_Dty1gg4
+__hash__: kbB_g1ksDBoDwMa233rGw-Vll3oIFlSAYSz4DwrZJwQ
 seo:
   title: Rich menus overview
   description: null

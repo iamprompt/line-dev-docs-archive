@@ -9,7 +9,7 @@ description: >-
   for corporate users.
 meta: '{"date":"2020-03-17 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-03-17-icon-nickname-switch
-__hash__: rtiuAKqLc_lYOoObVTx_g7-2TD79KSFo43iRiFyf9QY
+__hash__: aq1tY0gvZLlD1reKO2bWQowDEAat8jY7djMaaHMMvL0
 seo:
   title: You can now change the icon and display name of your LINE Official Account
   description: >-

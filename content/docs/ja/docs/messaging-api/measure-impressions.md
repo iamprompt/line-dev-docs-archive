@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/measure-impressions
-__hash__: 4IRgRZaWxB1fsni8iJ9yp28XbvBcSqqwemVNXPAV3BY
+__hash__: oFMalnj7xTZYUfMnYaPrzsiG8mjytQsg7isZiJ1Pung
 seo:
   title: インプレッションを計測する
   description: null

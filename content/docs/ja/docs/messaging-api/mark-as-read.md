@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/mark-as-read
-__hash__: BRySu9fjpCH2KpV8EMTD8rOPNcOGB2bPl_G-w8oNSqk
+__hash__: lJ9hK6bTZUEPduC-FdIo14G22xI6EQdAEunu-kCi8x8
 seo:
   title: メッセージに既読をつける
   description: null

@@ -6,7 +6,7 @@ description: >-
   guide and API reference:
 meta: '{"date":"2018-11-21 00:00 UTC","tags":"LINE Things","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-21-line-things-released
-__hash__: SRaGkjZIet-8lFAWWZALbKLsPco1SxKxAgS7H_FpzSs
+__hash__: nVBe7aFy1adAE00Ew7n0AKLI7ZcRzozvuyb4qoCKiRo
 seo:
   title: LINE Things Developer Trial released
   description: >-

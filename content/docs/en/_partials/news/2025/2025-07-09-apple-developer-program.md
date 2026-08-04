@@ -8,7 +8,7 @@ description: >-
   Program information in LINE MINI App channels on the LINE Developers Console.
 meta: '{"date":"2025-07-09 01:00 UTC","tags":"console, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-07-09-apple-developer-program
-__hash__: 6-uME_tUUoTeQeu3vGdtbvtOJoBMBeIZcVwuSexoHFw
+__hash__: G1gpIrUi8SnVV4pWxqk6_VgZq8nx5w1jg_XUOBW_JLY
 seo:
   title: >-
     In LINE MINI App channels, you no longer need to enter Apple Developer

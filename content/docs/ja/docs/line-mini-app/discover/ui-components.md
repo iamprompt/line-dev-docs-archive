@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_update":"2020-04-04","source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/ui-components
-__hash__: H07l-OsTgwpsWGoixdUnqIxrm2wHO618olaaFXMSv40
+__hash__: n7J2rtdSkODbK8Id8iZbavNJGzYfB_hWb_lnR0F6-fI
 seo:
   title: LINEミニアプリの構造
   description: null

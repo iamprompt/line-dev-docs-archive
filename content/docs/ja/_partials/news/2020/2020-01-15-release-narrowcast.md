@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIにナローキャストメッセージを送信するエンドポイントが追加されました。
 meta: '{"date":"2020-01-15 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-01-15-release-narrowcast
-__hash__: u3ycrAbc6nc3G2RxxzhZaIaAhW76BMF_pte4jiqyGUU
+__hash__: kQk7VFxevZJR7Lhg-5ysiBdBl6Xd0pW7SBv9kFqVM90
 seo:
   title: Messaging APIにナローキャストメッセージを送信するエンドポイントが追加されました
   description: Messaging APIにナローキャストメッセージを送信するエンドポイントが追加されました。

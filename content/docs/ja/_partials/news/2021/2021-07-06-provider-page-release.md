@@ -6,7 +6,7 @@ description: >-
   API）、LINEミニアプリ、LINEログインのサービスをプロバイダーページに表示できます。
 meta: '{"date":"2021-07-06 01:00 UTC","tags":"Console","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-07-06-provider-page-release
-__hash__: SUvqAmhgiV5egek-TaSz45F20ICNnzRdF715xyaKhRA
+__hash__: sfE_BnXvS7EWC0Feg15IVIVhH4NdXhXmdHwOpc4LPEQ
 seo:
   title: プロバイダーが提供するサービスの一覧を公開できるようになりました
   description: >-

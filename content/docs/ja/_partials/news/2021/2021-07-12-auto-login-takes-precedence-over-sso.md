@@ -5,7 +5,7 @@ description: >-
   2021年7月15日より、LINEログインにおいて、自動ログインとシングルサインオンによるログイン（以降、「SSOによるログイン」と呼びます）が両方利用できる環境では、自動ログインの方が優先して動作するようになります。
 meta: '{"date":"2021-07-12 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-07-12-auto-login-takes-precedence-over-sso
-__hash__: 7tG1VbRZmItJQ_xmTWepELKRqmbD-QuFX-EGtTDsipc
+__hash__: n2rMfp3m2tVPBiPHy5LLBJnda5eeet5U_rqvlQLQpr4
 seo:
   title: LINEログインにおいてSSOによるログインより自動ログインが優先されるようになります
   description: >-

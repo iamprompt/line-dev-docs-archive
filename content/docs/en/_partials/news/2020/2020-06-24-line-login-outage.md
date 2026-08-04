@@ -9,7 +9,7 @@ meta: >-
   {"date":"2020-06-24 0:00 UTC","tags":"Outage report, LINE
   Login","locale":"en"}
 path: /en/_partials/news/2020/2020-06-24-line-login-outage
-__hash__: Ym6bVoRUuB6Orvy0HP2r2p0mn6jk7xSbTSVh9rsPikA
+__hash__: 0TgPEHFQeUmiA-zZGgfkF0JnbvydAb8BuHr5iWamqNw
 seo:
   title: '[Resolved] Notice about service outage for LINE Login'
   description: >-

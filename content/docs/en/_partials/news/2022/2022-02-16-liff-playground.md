@@ -9,7 +9,7 @@ description: >-
   web. The source code for LIFF Playground is now available on GitHub.
 meta: '{"date":"2022-02-16 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-02-16-liff-playground
-__hash__: 5agsrW4wRobWVC71SUx4O0TINRC8gVGXOXuHT1WEcMQ
+__hash__: ceC19TdueCgGpZNCilKnd3bdhaJi4HWD3MQ9_Cx3CWg
 seo:
   title: >-
     Source code for LIFF Playground, a web application for trying LIFF features,

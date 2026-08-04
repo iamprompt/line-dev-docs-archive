@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-01-24 00:00 UTC","tags":"iOS, Android, LINE Login, LINE
   SDK","local":"en"}
 path: /en/_partials/news/2017/2017-01-24-line-login-v2
-__hash__: E_I-Yz3QEdIjL4XQUt1wUV7NAxlC4vW50SKj8y4hNNE
+__hash__: 1f-S7PSrydrOQNMTNlpj_OCXyie3WR70xwyJZIC7tPY
 seo:
   title: New versions of Web Login and the LINE SDK released
   description: >-

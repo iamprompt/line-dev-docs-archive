@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/receiving-messages
-__hash__: v_G2o0RPWpVbu-d8xh8vWCj3qVA0Ka-f6IjwjVJUMNE
+__hash__: nU_a75-1IuNEDVE1H4RBLHAOy7nqh3nFmjl-jkgpGLQ
 seo:
   title: メッセージ（Webhook）を受信する
   description: null

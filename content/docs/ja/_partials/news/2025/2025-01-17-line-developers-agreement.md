@@ -5,7 +5,7 @@ description: >-
   2025年2月3日にLINE開発者契約を改定しますのでお知らせします。本改定は、モジュールチャネルの利用に関する追記であり、モジュールチャネルを利用していない方には影響ありません。
 meta: '{"date":"2025-01-17 00:00 UTC","tags":"line-platform, console","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-01-17-line-developers-agreement
-__hash__: CemrxtH3fPQuQGLtvBAqoLarICAEX-jjTq84liBdi7U
+__hash__: F6gnHzjM0qmADiFyHmTJadHZrkLKiwnWp6CULwP7FNA
 seo:
   title: 2025年2月3日にLINE開発者契約を改定します
   description: >-

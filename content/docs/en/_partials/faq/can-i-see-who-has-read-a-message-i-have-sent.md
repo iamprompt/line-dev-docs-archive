@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-06-07 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-see-who-has-read-a-message-i-have-sent
-__hash__: SLesjiDQNuohxaGNGVabsrIP1pa50ReU3QLz5ZWlZAk
+__hash__: MVbAYLYTiFCAD8L3EGGiunkQ4u9PstRQyCjytIQe1SM
 seo:
   title: Can I see who has read a message I've sent from my LINE Official Account?
   description: >-

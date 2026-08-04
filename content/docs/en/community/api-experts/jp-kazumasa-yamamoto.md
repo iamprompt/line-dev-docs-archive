@@ -8,7 +8,7 @@ meta: >-
   API, LINE Login","skills":"AWS, C/C++, Rust, TypeScript, Ruby, Python, SQL,
   Docker","git":null,"fb":"https://www.facebook.com/kyamamoto9120","twitter":"https://twitter.com/kyamamoto9120","platform-evangelist":true}
 path: /en/community/api-experts/jp-kazumasa-yamamoto
-__hash__: YNAVqAmhch78X56EmTMvPLT4bZM_TABPn1CYc69C3tg
+__hash__: WfTWYO6gFmFntyLFdfvQ6YKiWFK_E1Wq9PKwXF9rWtk
 seo:
   title: LINE API Expert - Kazumasa Yamamoto
   description: ''

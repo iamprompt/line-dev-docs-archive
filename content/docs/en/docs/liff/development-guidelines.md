@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/development-guidelines
-__hash__: 2KEeXSG9GPIHdyd4oZcIWxMVS6llNE8Hf22kk9WwyJA
+__hash__: I8Lewwm5YTu3KioVLDCbb-eMWj28jKzxbQzFGzh1nI0
 seo:
   title: LIFF app development guidelines
   description: null

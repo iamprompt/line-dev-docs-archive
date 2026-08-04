@@ -10,7 +10,7 @@ description: >-
   template file in PSD format.
 meta: '{"date":"2023-04-05 00:00 UTC","tags":"line-mini-app, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-04-05-mini-app-icon
-__hash__: Jkqaoui8yMfrTi3HPeoi2DIgL84fTmwGturRkDFUCq8
+__hash__: ykuKXFJrsmI8XEaKPKhHFSJQ2rWZ3SHq_mpmGBam6CI
 seo:
   title: >-
     In the LINE MINI App channels of the LINE Developers Console, you can now

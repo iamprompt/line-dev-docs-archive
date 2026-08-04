@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインのセキュリティチェックリストを公開しました。
 meta: '{"date":"2022-04-11 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-11-release-security-checklist
-__hash__: 9eruQUAYFjj96wkLpDqw-j-UPjWE76jzuiO_dDtXwgc
+__hash__: 3Hw_-BQdagfeu52x7y1vPw75wlkfcbCIYsKLOeF5_XE
 seo:
   title: LINEログインのセキュリティチェックリストを公開しました
   description: LINEログインのセキュリティチェックリストを公開しました。

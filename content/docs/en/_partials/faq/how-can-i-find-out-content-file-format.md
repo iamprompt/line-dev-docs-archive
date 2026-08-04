@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-03-23 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/how-can-i-find-out-content-file-format
-__hash__: TrNOZaI8MPzfSopFl0Ish9kj2Di7PR727QU-xax8l5Q
+__hash__: 5ek6jU6gwUBCl0q13s3dF8mtMqvOXXycdFnEkO7-sfk
 seo:
   title: How can I find out the file format of the retrieved content?
   description: >-

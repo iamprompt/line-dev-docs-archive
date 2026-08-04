@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/action-object-camera-roll
-__hash__: xhF2Zi5AqWvvTZlfl_tkejJZeWab9uhB5bnC8BXWGEk
+__hash__: GB7kYoNRcrBvGKCOFmGCBTjRMXugH0iTYpZWF2rngCk
 seo:
   description: ''
 ---

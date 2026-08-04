@@ -5,7 +5,7 @@ description: Release notes for the LINE SDK for iOS. See the latest changes and 
 meta: >-
   {"tags":null,"author":null,"last_updated":null,"source_language":null,"toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/line-login-sdks/ios-sdk/release-notes
-__hash__: Qqz8Dz7G8UCUsxuSoTSLktkUvioA3xhTfZLAuOVpuPg
+__hash__: 3O0OCrEI87YC-NN236RzdNPxwrgDoQE1E8bQ2GO8cL8
 seo:
   title: Release notes for LINE SDK for iOS
   description: Release notes for the LINE SDK for iOS. See the latest changes and releases.

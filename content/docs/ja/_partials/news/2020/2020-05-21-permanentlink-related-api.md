@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-21 00:00 UTC","tags":"LIFF","new":"false","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-05-21-permanentlink-related-api
-__hash__: H91B9mDitV41244Yd6kf_o4bNqQiIJctTdOWVtax1QQ
+__hash__: pA_KxqZzm2OejvDgLjMEaC9YmLTDbvcUNYWf05l98FE
 seo:
   title: 【更新】パーマネントリンクを取得するAPIのドキュメントを公開します
   description: ''

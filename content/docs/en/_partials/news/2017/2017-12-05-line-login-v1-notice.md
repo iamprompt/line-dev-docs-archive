@@ -6,7 +6,7 @@ description: >-
   apply if you are using the latest v2.1 or v2 endpoints.
 meta: '{"date":"2017-12-05 00:00 UTC","tags":"LINE Login","local":"en"}'
 path: /en/_partials/news/2017/2017-12-05-line-login-v1-notice
-__hash__: XJZNvhnd7TFg5qyY4hTasJn_o65xOWl3rfio5eKWcQI
+__hash__: 3veA44atKKqHW3zq9tkxQfHGDnUoDphQs2YZ2qrniag
 seo:
   title: LINE Login v1 to be discontinued
   description: >-

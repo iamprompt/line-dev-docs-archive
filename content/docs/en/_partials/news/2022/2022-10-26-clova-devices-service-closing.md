@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-10-26 00:00 UTC","tags":"clova-extensions-kit, console,
   end-of-life, life-cycle","locale":"en"}
 path: /en/_partials/news/2022/2022-10-26-clova-devices-service-closing
-__hash__: iiJZAVA0MJR4ef2A9hROR7NiK2UNFww7l8kQHQdISTY
+__hash__: qObRyi3FOgbZ2Ifpy-wLJjSxu9le0DvgObYjhcObiqw
 seo:
   title: >-
     [Updated] CLOVA assistant service on CLOVA devices will be terminated on

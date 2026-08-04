@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersサイトが新しくなって、より使いやすくなりました。ここでは、サイトの主な変更点についてご説明します。
 meta: '{"date":"2020-01-27 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-01-27-site-redesign
-__hash__: UNBM4d6xHJo6wOYK7eiqi7TW7EAy60aAGwwfY5LGD28
+__hash__: Vx0fe2zFpiebVPjK7SBCh3o2tJ4aeFSPQpwDIKurUgE
 seo:
   title: LINE Developersサイトがより使いやすくなりました
   description: LINE Developersサイトが新しくなって、より使いやすくなりました。ここでは、サイトの主な変更点についてご説明します。

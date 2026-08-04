@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-rich-menus
-__hash__: 8Kh1YwdFLE0PjNeMaZiR8AE-gsfdutEl-QwHdTSItYw
+__hash__: KRl-meXo_AIGmVfSJLz6RLqSwVdtOdOY6xyHGUuiobw
 seo:
   title: Use rich menus
   description: null

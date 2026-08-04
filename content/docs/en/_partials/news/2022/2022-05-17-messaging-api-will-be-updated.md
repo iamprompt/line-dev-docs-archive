@@ -12,7 +12,7 @@ description: >-
   Thai users and the Thai LINE Official Accounts.
 meta: '{"date":"2022-05-17 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2022/2022-05-17-messaging-api-will-be-updated
-__hash__: XTn-gcaO8kCnb-knfu8IR7-jSDZy29ZhXv1FpAaizFY
+__hash__: Px6NJBWbaPWHnUdnfHbd6-qyFrWO2BGPEYjAF-JuEp8
 seo:
   title: >-
     With the enforcement of Thailand’s Personal Data Protection Act, as of late

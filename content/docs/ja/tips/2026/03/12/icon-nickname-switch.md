@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-12 00:00
   UTC","tags":"messaging-api","locale":"ja","sidebar":false}
 path: /ja/tips/2026/03/12/icon-nickname-switch
-__hash__: _d1VLTmFpQ6ITvlzlMLUIaqeXt4jaq02jeeLgSgR6b8
+__hash__: WV6rS-sN7rj8xATIOfYP96u-DlpaXLEZFwhiBiRcVyw
 seo:
   title: Messaging APIでは、メッセージ送信元のアイコンと表示名をメッセージごとに変更して送ることができます
   description: こんにちは。LINE Developersサイトのドキュメントを担当している、テクニカルライターの堀越です。

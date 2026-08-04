@@ -7,7 +7,7 @@ description: >-
 meta: '{"date":"2023-09-21 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: >-
   /ja/_partials/news/2023/2023-09-21-notice-concerning-use-of-information-for-liff
-__hash__: wAh6r2Gi1E5y3jf9aAlOM7bQrvomFysxdpyUiMamXtM
+__hash__: 5ni8MhfY-JKHGEHdLkIWbN_yV3R_D3CTmId8DXly_SM
 seo:
   title: グループ再編に伴う情報利用に関する通知（シェアターゲットピッカー）
   description: >-

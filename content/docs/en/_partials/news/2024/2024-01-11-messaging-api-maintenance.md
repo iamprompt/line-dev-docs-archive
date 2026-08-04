@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-01-11 00:00 UTC","tags":"messaging-api,
   maintenance","locale":"en"}
 path: /en/_partials/news/2024/2024-01-11-messaging-api-maintenance
-__hash__: c6QedvCNKHGBNc6IrN9HsAHRIjJ-kZXCy_aQjL8jQi0
+__hash__: V-RcdeI0RKTQEI7Mhchh3lFG82lJVnEk9qLQsCg42Dc
 seo:
   title: Messaging API maintenance notice
   description: >-

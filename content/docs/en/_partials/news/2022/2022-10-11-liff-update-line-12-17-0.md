@@ -8,7 +8,7 @@ description: >-
   browser's specifications.
 meta: '{"date":"2022-10-11 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-10-11-liff-update-line-12-17-0
-__hash__: SfZ-Vt35TPp-L6oTzV9WVihPtpual8gHHA7ZRfLlZaU
+__hash__: 7-sIr4nDTtESuBSekixKQJBq7Mg8-4XdrmJ0Nq-pRYg
 seo:
   title: >-
     On LINE version 12.17.0 or later, we'll be making changes to some of LIFF

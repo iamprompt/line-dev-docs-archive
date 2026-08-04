@@ -10,7 +10,7 @@ description: >-
   Messaging API channels.
 meta: '{"date":"2019-02-19 17:00 UTC","tags":"Console, Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-02-19-numer-of-friends-removed
-__hash__: nTNOj8qv2FzY87SX-X8odcwZFTlflDARq5rvm_10yBY
+__hash__: 6rCsVJl1KU5El5_dBJAJR1FWvfVW3tCQ5k7ME7J29Yw
 seo:
   title: >-
     LINE Developers Console: We changed how to check the number of your bot's

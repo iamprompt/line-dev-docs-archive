@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2025-10-20 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-10-20-line-mini-app-platform-terms-of-use
-__hash__: II0ysa1Cep3UgLZw5sD2MDN10lXo5yHiiwWQvLV-N9I
+__hash__: 1id0XQPF4pdBI0TC2o26EPV6DN89OGz2dX7t1N6W7vU
 seo:
   title: 【更新】2025年11月20日に日本のLINEミニアプリプラットフォーム規約を改定します
   description: ''

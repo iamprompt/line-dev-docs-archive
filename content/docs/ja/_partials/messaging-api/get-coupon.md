@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-coupon
-__hash__: dkCNz6Qbk8BO1OJLRAAJ9361jKI6KVurgI8GrT9Jo1Q
+__hash__: KdUmtUICEE-WHC9ATf_mlSCuSOurzHTlI41E0BSarwo
 seo:
   description: ''
 ---

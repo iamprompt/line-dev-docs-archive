@@ -7,7 +7,7 @@ description: >-
   LIFF apps to LINE Login channels via the API.
 meta: '{"date":"2022-10-18 01:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-10-18-liff-server-api
-__hash__: '-B1n_vX-cLNZYaRLLVkgGTCREdfVCkhbkqIT36mun2k'
+__hash__: YoxK_w_-VQPcgAZgpzEt-YT2w6TFGICRVCNHYrlaS7M
 seo:
   title: LIFF apps can't be added to Messaging API channels
   description: >-

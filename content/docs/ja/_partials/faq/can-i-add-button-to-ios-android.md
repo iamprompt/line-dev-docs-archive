@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-add-button-to-ios-android
-__hash__: jp3_czMezK6h4ZsCh2B01aRjGy0XTJEVPdGjCRsD8Ho
+__hash__: Pxn83dU5IZ8_jqN_JoDvKj6khMUhE7rKE7wjhxztzfU
 seo:
   title: スマートフォンのiOSやAndroidのネイティブアプリにも、「LINEで送る」ボタンを設置できますか？
   description: >-

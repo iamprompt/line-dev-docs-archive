@@ -12,7 +12,7 @@ meta: >-
   {"date":"2025-07-31 00:00 UTC","tags":"console, end-of-life, messaging-api,
   options-for-corporate-customers","locale":"en"}
 path: /en/_partials/news/2025/2025-07-31-console-statistics
-__hash__: dBplXilisMMdvlFvJz4adKwzJNraF-JLOPKirA8_Xb8
+__hash__: ASNHRgWLxfzy--z9Rsd6MAkZF6TdvkG7Evn-fW5hjD4
 seo:
   title: >-
     As of the end of November 2025, the feature to check the number of sent

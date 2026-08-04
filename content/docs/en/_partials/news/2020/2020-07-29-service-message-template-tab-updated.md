@@ -6,7 +6,7 @@ description: >-
   updated.
 meta: '{"date":"2020-07-29 02:00 UTC","tags":"LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-29-service-message-template-tab-updated
-__hash__: 5EFKh4HhfjhxqMcZ47OuNIc-AvUU9u8TD8UWcjil7H0
+__hash__: 6cYTpQYMDrldVufTJQgzFOwSq-u-FEu_Xh63BMVQIhE
 seo:
   title: Service message template tab of the LINE MINI App channel updated
   description: >-

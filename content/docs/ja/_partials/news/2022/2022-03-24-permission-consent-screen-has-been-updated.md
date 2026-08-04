@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-03-24 02:00 UTC","tags":"liff, line-mini-app, LINE
   Login","locale":"ja"}
 path: /ja/_partials/news/2022/2022-03-24-permission-consent-screen-has-been-updated
-__hash__: RStoImEufVB_u8ViKqB1WXa3WLyy07Uh1bzOD5DJwMk
+__hash__: fcPzU4KiQGIA-S3B5h31XGLnON_5rNBTPF3W7o70feo
 seo:
   title: チャネル権限の同意画面のデザインを変更しました
   description: 2022年3月9日にお知らせしたとおり、チャネル権限の同意画面のデザインを変更しました。

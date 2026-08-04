@@ -6,7 +6,7 @@ description: >-
 meta: '{"date":"2020-06-22 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: >-
   /ja/_partials/news/2020/2020-06-22-new-channel-access-token-endpoint-and-deprecation
-__hash__: BUd0N9y3zlBr5tg1wMxsYJMZUuZzvrqFYTdx2sUk-a4
+__hash__: xpMpNVeYmWZjtV1l5L5yF-HNHf0jpGfKhO2d9up1CpE
 seo:
   title: チャネルアクセストークンを識別するためのキーIDが追加されました
   description: >-

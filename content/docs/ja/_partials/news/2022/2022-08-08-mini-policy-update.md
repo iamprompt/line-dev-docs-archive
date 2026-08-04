@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリにおける、外部サービスへのユーザーの誘導に関するポリシーを変更しました。
 meta: '{"date":"2022-08-08 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-08-08-mini-policy-update
-__hash__: B3-xyhKygNTDXdsUgSa5ISNtcqiq-wAzikoL-am7x4g
+__hash__: LRHkEceH_3xXtpxoklrPyVTUO4dCXWQrLr0JR8MUjn4
 seo:
   title: LINEミニアプリにおいて、外部サービスへのユーザーの誘導に関するポリシーを変更しました
   description: LINEミニアプリにおける、外部サービスへのユーザーの誘導に関するポリシーを変更しました。

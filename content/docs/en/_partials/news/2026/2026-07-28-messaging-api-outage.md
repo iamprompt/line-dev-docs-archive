@@ -7,7 +7,7 @@ meta: >-
   line-login, liff, line-mini-app, messaging-api,
   options-for-corporate-customers, console","locale":"en"}
 path: /en/_partials/news/2026/2026-07-28-messaging-api-outage
-__hash__: P5yE-ElaVd05QrqwnRjXXfKoxjW_gMTdNsn2cbmGWas
+__hash__: '-O_gUIWBHC9lpBsHV4M-iWp4BuqpgRaZfM7o96GuLcQ'
 seo:
   title: '[Resolved/Updated] Notice about service outage for the LINE Platform'
   description: ''

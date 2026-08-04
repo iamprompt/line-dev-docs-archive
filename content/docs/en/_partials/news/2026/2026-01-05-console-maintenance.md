@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-01-05 00:00 UTC","tags":"console, line-mini-app,
   maintenance","locale":"en"}
 path: /en/_partials/news/2026/2026-01-05-console-maintenance
-__hash__: uyGfDBUFqfUkFGO8moOvnHyR62UiNTFTGkSNqWUbuu8
+__hash__: _gy5opS53mUnRV7Ee-CTwT-8bnuw3v8BmLTN3LNhE8E
 seo:
   title: LINE Developers Console maintenance notice
   description: Maintenance is scheduled on the LINE Developers Console.

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-21 00:00 UTC","tags":"LIFF","new":"false","locale":"en"}'
 path: /en/_partials/news/2020/2020-05-21-permanentlink-related-api
-__hash__: d5Re6l7iUAep9YLCzwMQ6pg-jzQbHXd_SOALLOVtZz4
+__hash__: p0KyBLbl2T9oryApye9nBlIrf93J4JMCEpaCtjffBhQ
 seo:
   title: '[Updated] Publish API documentation to get a permanent link'
   description: ''

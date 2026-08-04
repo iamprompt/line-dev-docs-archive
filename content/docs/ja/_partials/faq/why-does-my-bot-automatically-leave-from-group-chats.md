@@ -7,7 +7,7 @@ meta: >-
   {"date":"2023-05-16 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/why-does-my-bot-automatically-leave-from-group-chats
-__hash__: ezUjNuadKulroyPqYIDkHG67kERc4ugnSt4AwPOGulU
+__hash__: RBionHv7vQs8d8-j71sa7sXrSeEBEse9yRxLJEWp_6E
 seo:
   title: 招待したグループトークや複数人トークからLINE公式アカウントが自動的に退出するのはなぜですか？
   description: >-

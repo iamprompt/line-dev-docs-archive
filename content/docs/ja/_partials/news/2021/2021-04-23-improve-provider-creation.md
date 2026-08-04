@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールで、プロバイダーやMessaging APIチャネルの作成手順が一部変わり、より使いやすくなりました。
 meta: '{"date":"2021-04-23 00:00 UTC","tags":"Messaging API, Console","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-23-improve-provider-creation
-__hash__: HWV_HTVAQCt8JWxRvLtuXDI85-7nHTsM8mIRI4gfsxE
+__hash__: lIkbr9rM9hDs2XJMzNkIz3VfLEX0GVuH8YXNu9ku3J0
 seo:
   title: プロバイダーやMessaging APIチャネルの作成手順が変わりました
   description: LINE Developersコンソールで、プロバイダーやMessaging APIチャネルの作成手順が一部変わり、より使いやすくなりました。

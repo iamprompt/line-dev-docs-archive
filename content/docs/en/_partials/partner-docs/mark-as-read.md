@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/partner-docs/mark-as-read
-__hash__: m4JxqN8c2vl_q92iUsX0okvikDjh4fToFQTCndAZHkA
+__hash__: JK5GhrdNFxzVNHITyhQbtBqki8i044fLMaVfG2fd4-o
 seo:
   description: ''
 ---

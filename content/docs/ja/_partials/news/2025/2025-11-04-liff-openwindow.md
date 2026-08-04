@@ -5,7 +5,7 @@ description: >-
   LINEバージョン15.20.0より、liff.openWindow()メソッドでユニバーサルリンクやアプリリンクが有効なURLを開く場合の挙動を変更します。
 meta: '{"date":"2025-11-04 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-11-04-liff-openwindow
-__hash__: B4yiBqZs6wZCVao4ZpoDvyxlYB7_gEY2ezPvExbZITE
+__hash__: kCt5zfATIB56c2D9VavIRuds2oUHnWhHbbWpwEUuVSQ
 seo:
   title: LINEバージョン15.20.0よりliff.openWindow()メソッドの挙動が変更されます
   description: >-

@@ -7,7 +7,7 @@ meta: >-
   end-of-life","locale":"ja"}
 path: >-
   /ja/_partials/news/2022/2022-02-28-line-original-unicode-emojis-will-be-discontinued
-__hash__: bKuS3nRFNo1QjDWLWRQwk7kdgwVUV3s5fu-76J5EGII
+__hash__: oAHt2ctneU8b-tViftVV9czSV3mAAfZTPvxVwpdwFhA
 seo:
   title: 【リマインド】2022年3月31日をもって、Messaging APIの「LINE独自のUnicode絵文字」を廃止します
   description: 2021年11月30日にお知らせしたとおり、「LINE独自のUnicode絵文字」を2022年3月31日に廃止します。

@@ -8,7 +8,7 @@ description: >-
   multicast message endpoint as of April 23, 2025.
 meta: '{"date":"2025-04-23 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2025/2025-04-23-messaging-api-rate-limit
-__hash__: gFwgiY2z9qQBULu8F3GGhzM-obCYF4jt_Os_kTMiqww
+__hash__: UfJXkfsMmaxna6dIIfqiZ4OjqfmHOOLE3LGznPbVuJM
 seo:
   title: >-
     As of April 23, 2025, in the Messaging API, the rate limit for the "Send

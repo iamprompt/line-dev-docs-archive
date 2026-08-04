@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-03-25 00:00 UTC","tags":"LINE Login, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-03-25-line-url-scheme-deprecation
-__hash__: 0rZZ9wCLrmW98D7_-w8xBaqFx01mdWDu6ZcePoGVffE
+__hash__: e5jQYGrqsy_pGppYGOUOMiSq4H6Kx_ZJsvuEsHNtqUA
 seo:
   title: LINE URLスキームの「line://」は非推奨になりました
   description: >-

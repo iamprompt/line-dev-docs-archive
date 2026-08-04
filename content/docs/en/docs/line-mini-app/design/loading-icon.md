@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/design/loading-icon
-__hash__: OMLgFreOyUgbNqJySp6ZkON3BFIBA-S7aEuM8zu9w50
+__hash__: PevR818ZqmdtE16YYAvge2G0savnWOKSMWhgvYOh044
 seo:
   title: Loading icon
   description: null

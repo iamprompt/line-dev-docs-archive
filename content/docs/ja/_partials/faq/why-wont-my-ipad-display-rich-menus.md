@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-12-20 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/why-wont-my-ipad-display-rich-menus
-__hash__: lP-RjAmESR4X3XchxNgX0CgVxAEu8M4VPRHvaWL830o
+__hash__: q_fEgn5SVPraKv3leYjI5BE_JJP1mAPiZ4KloGLS_k4
 seo:
   title: リッチメニューが表示されないiPadがあるのはなぜですか？
   description: LINEアカウントを作成したiPadや、LINEアカウントを引き継いだ先のiPadでは、リッチメニューが表示されます。

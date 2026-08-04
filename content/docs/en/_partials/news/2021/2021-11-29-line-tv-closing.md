@@ -6,7 +6,7 @@ description: >-
   Thailand, on December 31, 2021.
 meta: '{"date":"2021-11-29 01:00 UTC","tags":"line-tv, end-of-life","locale":"en"}'
 path: /en/_partials/news/2021/2021-11-29-line-tv-closing
-__hash__: gQ_GDs-pYYxOGR2wMFO4bTR9j7lw1RFl2YSk9ykU_Q4
+__hash__: F4NMkAmtQVWr46Z6O1ROKbl1D3Z80LpFeCSvN6D4l_k
 seo:
   title: LINE TV will be closed on December 31, 2021
   description: >-

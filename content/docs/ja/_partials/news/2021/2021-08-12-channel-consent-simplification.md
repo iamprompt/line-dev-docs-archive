@@ -4,7 +4,7 @@ navigation: true
 description: ユーザーが、LINEミニアプリに初めてアクセスする際に表示される同意画面をスキップできる「チャネル同意の簡略化」機能がリリースされました。
 meta: '{"date":"2021-08-12 00:00 UTC","tags":"LINE MINI app, console","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-08-12-channel-consent-simplification
-__hash__: 4RsIYc9CB1Lvs8hC2eJj0N0Jqr_whdYnfiPkq3OB9zg
+__hash__: VXChLm010F94BDSWVTIMSVmJnkf2ik19SV2ChbK4-EQ
 seo:
   title: 同意画面をスキップできる「チャネル同意の簡略化」機能をリリースしました
   description: ユーザーが、LINEミニアプリに初めてアクセスする際に表示される同意画面をスキップできる「チャネル同意の簡略化」機能がリリースされました。

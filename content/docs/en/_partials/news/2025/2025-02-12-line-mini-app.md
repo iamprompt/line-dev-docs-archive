@@ -12,7 +12,7 @@ description: >-
   a LINE MINI App.
 meta: '{"date":"2025-02-12 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-02-12-line-mini-app
-__hash__: lJazYuzLriFgBTG_yQyN_LQT5dxpJ2q33R5NLBmfmYU
+__hash__: m7We3flqT8g7-2q4RqVD9af-QLkYyMPxH-hXhgmCcEo
 seo:
   title: >-
     When you create a new LIFF app, we recommend that you create it as a LINE

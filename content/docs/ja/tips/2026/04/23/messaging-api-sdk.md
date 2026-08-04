@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-04-23 00:00 UTC","tags":"messaging-api,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/23/messaging-api-sdk
-__hash__: ubcucHeatCTc-klcEWFKt2kzAs4ChB6uNmQiaEC6Wlo
+__hash__: 23J3pwPmlKKdezRUuyfqwjuAfmGbxYXSJVZ0XiUUwUo
 seo:
   title: Messaging APIの新機能がSDKに反映されるまでのプロセス
   description: こんにちは！テクニカルライターの銭神です。みなさんは、LINEヤフーが提供するMessaging APIのSDKを使っていますか？

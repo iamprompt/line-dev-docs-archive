@@ -4,7 +4,7 @@ navigation: true
 description: 皆様からご意見をお寄せいただき、品質向上に役立てるため、LINE Developersコンソールにフィードバックフォームを追加しました。
 meta: '{"date":"2020-10-22 00:00 UTC","tags":"Console","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-10-22-line-developers-console-feedback-form
-__hash__: Vuzg1QzJHlGsAOeCicShjkc40gVJl6r0i8MDwkmuVuY
+__hash__: BjRR-9mnXg5suYid2xCMAAKxEQ9h5h_pf2cn_5GKnro
 seo:
   title: LINE Developers Console フィードバックフォームのご紹介
   description: 皆様からご意見をお寄せいただき、品質向上に役立てるため、LINE Developersコンソールにフィードバックフォームを追加しました。

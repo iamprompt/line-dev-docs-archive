@@ -5,7 +5,7 @@ description: 法人ユーザー向けのお知らせです。ニュースもあ�
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /ja/docs/partner-docs/notice
-__hash__: h56Zr_q1SOAmXrPYGfuIxd3eRen5Uz0E81uVBctmvEI
+__hash__: 9XqFZGbMuuq8H-Ix0nlYZh_B44EHjirZ2-cOoGdxA24
 seo:
   title: 法人ユーザー向けのお知らせ
   description: 法人ユーザー向けのお知らせです。ニュースもあわせてご参照ください。

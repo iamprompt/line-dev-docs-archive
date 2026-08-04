@@ -4,7 +4,7 @@ navigation: true
 description: いつもLINEミニアプリをご利用いただきありがとうございます。
 meta: '{"date":"2023-09-21 01:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-09-21-mini-terms-update
-__hash__: ItoGaJESuFPewodjzgmwYeTfGszhbYBeoYxbuGLyw8A
+__hash__: 6-44SHsRGZ73YQhB1oNDNMpQXcZj7LO0izdmCO8TS4g
 seo:
   title: グループ再編に伴う情報利用に関する通知（LINEミニアプリ）
   description: いつもLINEミニアプリをご利用いただきありがとうございます。

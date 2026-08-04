@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-mini-app/reserve-purchase
-__hash__: pbz9GgnlHCAXYbMeYDoMZvls2knciAs70F3l-peQe9w
+__hash__: JnyWKwUb1nmoOp068UkikOwnoClZjfLt1pmKolWW5x4
 seo:
   description: ''
 ---

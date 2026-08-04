@@ -8,7 +8,7 @@ description: >-
   bots to provide even better services.
 meta: '{"date":"2018-03-29 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-03-29-account-link
-__hash__: iwJhntQQmX5MvAe2zwVucuHKCEspc9rVhFlfGabcF-k
+__hash__: JxN0mS24QjTRpsWICX1DCryrLbiQ87Da6dOeuViDGoI
 seo:
   title: Account link feature released
   description: >-

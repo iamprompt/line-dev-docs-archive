@@ -10,7 +10,7 @@ description: >-
   for LINE Official Accounts from November 30, 2022.
 meta: '{"date":"2022-12-01 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2022/2022-12-01-use-both-chats-and-webhooks
-__hash__: rr3hnQdeTHXUVyGfTqNVgR2U5UbqiBP2mfpQH558b7E
+__hash__: z0y6iH2aFXNZc_qkwciDXYABZIquTWftUjxrHEE3PQo
 seo:
   title: >-
     You can now use both webhooks and chats together for your LINE Official

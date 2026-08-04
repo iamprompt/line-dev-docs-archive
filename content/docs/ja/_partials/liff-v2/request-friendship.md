@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/request-friendship
-__hash__: MFKy1XSP0t9iRE8fJf52Hwo9pQWVyoWf44gLfSI-ZEk
+__hash__: NsrJk5klDCylO1OLVNsK7-cBVzxW72UTr_bB0QBinI4
 seo:
   description: ''
 ---

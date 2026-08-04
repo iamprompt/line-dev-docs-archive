@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-friend","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-anyone-set-friend-button
-__hash__: TcqXdVf61VyVPfBcVLYEnEAs-9HcTeuaDnycgqpfiog
+__hash__: ojCwiO7JDH_jNAe0PFVsNq-lKhM_oHHo_nvcJOdL6VA
 seo:
   title: Can anyone set the Add friend button?
   description: >-

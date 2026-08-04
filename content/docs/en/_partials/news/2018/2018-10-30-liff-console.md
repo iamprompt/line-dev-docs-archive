@@ -6,7 +6,7 @@ description: >-
   still add LIFF apps with the LIFF server API.
 meta: '{"date":"2018-10-30 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2018/2018-10-30-liff-console
-__hash__: h-AlhyNJt1MJRyCPd7v-647dYHpaWYhb2dmBHkMXphY
+__hash__: IJwQRoq2Xs79Vuwp3tLsU4tFNlXR6Jj8kCNUy-XwA_I
 seo:
   title: LIFF apps can now be added with the LINE Developers Console
   description: >-

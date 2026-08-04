@@ -9,7 +9,7 @@ meta: >-
   {"date":"2023-08-31 00:00 UTC","tags":"line-platform, messaging-api, liff,
   line-mini-app, docs","locale":"en"}
 path: /en/_partials/news/2023/2023-08-31-stateless-channel-access-token
-__hash__: ttYVXNP56yMh6eMFTm4rg-WdqvPJY_80PUDhZ4pqPSA
+__hash__: Uus7JSyQCWFqNJJI5mVr0hMqp4-QHM-kaq077TPJUAc
 seo:
   title: Stateless channel access token released
   description: >-

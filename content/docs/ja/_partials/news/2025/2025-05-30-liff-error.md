@@ -7,7 +7,7 @@ description: >-
   SDKのエラーについて、エラーメッセージ（LiffErrorオブジェクトのmessageプロパティの値）の完全一致で識別している実装が見受けられます。
 meta: '{"date":"2025-05-30 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-05-30-liff-error
-__hash__: BgGoZhanxsHU_hVLnzc67c_Ft70tVxPS_S7Al_HYJw4
+__hash__: TtVZ3cKpPAcKvE-36dvSSJ01O-U7ANIn9M0UcDavqgY
 seo:
   title: LIFF SDKのエラーを識別する際は、エラーコードとエラーメッセージの両方を参照してください
   description: >-

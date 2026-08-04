@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/create-coupon
-__hash__: 7HKPDCSQmS4n5Uiu_q6UV_HS6RZVzNfB4Rt1ub0xC7E
+__hash__: fEoYnZtiDjdBZ-lVA67vaibFbrdqaTozIH4l8Wk0XzA
 seo:
   description: ''
 ---

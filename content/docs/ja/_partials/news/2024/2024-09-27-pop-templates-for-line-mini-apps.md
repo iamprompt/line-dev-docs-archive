@@ -5,7 +5,7 @@ description: >-
   LINEミニアプリのQRコード付きPOPを、簡単に作成できるテンプレート（日本語、英語、中国語）を公開しました。店頭での順番待ち整理券の発券、店内モバイルオーダー、会員証やポイントカード提示などのシーンでご活用ください。
 meta: '{"date":"2024-09-27 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-09-27-pop-templates-for-line-mini-apps
-__hash__: BVXfJPYyb70HxOWY-0nXX3IfO6-YWHjNIA7toIn4vJ8
+__hash__: 1vvSlsbsWZwJiS0yknHj-LoSGb8mazdL3hljfBNRVMM
 seo:
   title: LINEミニアプリの店頭POPテンプレートを公開しました
   description: >-

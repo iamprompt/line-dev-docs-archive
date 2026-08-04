@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-narrowcast-progress-status
-__hash__: WlhHhQm3tVZkEsvEvwsMP3cGpe8fkImY2vp9sIj4ij8
+__hash__: 5ZRwLBrGAoW113PdGzQikWhQm9lQFFc3Vwg8cjf7kCg
 seo:
   description: ''
 ---

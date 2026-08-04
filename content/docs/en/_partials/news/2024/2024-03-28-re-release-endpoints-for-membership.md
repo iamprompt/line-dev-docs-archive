@@ -8,7 +8,7 @@ description: >-
   since February 14, 2024, are now available again.
 meta: '{"date":"2024-03-28 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-03-28-re-release-endpoints-for-membership
-__hash__: KPbYKn3AWgnC9LSgm09w3bZRgdofVZDNuauLK8RQKG0
+__hash__: tvh1JgHFA1hlKnCkrB6aSOqUAo7sTxuxcNz14QmfG8c
 seo:
   title: >-
     In the Messaging API, you can resume using the endpoints for retrieving

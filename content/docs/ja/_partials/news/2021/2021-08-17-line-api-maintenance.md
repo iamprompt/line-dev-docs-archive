@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-08-17 00:00 UTC","tags":"Maintenance, Messaging API, LINE Login,
   LIFF, LINE MINI app, Options for corporate customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-08-17-line-api-maintenance
-__hash__: b_2qgd6STeARRnE1una5FCjIIOVsM7kk7zqnoCtcwoc
+__hash__: sxfejs50RKTItt8GCHPWzaR5ujtpM-nyhpFrwvZe7YI
 seo:
   title: LINE API 緊急メンテナンスのお知らせ
   description: >-

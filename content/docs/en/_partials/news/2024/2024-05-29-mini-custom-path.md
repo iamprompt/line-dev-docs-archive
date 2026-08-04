@@ -7,7 +7,7 @@ description: >-
   follows:
 meta: '{"date":"2024-05-29 00:00 UTC","tags":"console, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-05-29-mini-custom-path
-__hash__: KBOJkFF_umBKW3-5D9ctgc7y_i8U_9zkygwG3pzdxQg
+__hash__: 5LDaI7ZtIoOi_JYSG50l0IZQHjxf43l-yu8wlKE0vc0
 seo:
   title: In the LINE MINI App, you can now set your own string to the LIFF URL
   description: >-

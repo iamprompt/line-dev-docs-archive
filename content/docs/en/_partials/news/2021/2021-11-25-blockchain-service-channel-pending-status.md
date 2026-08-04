@@ -11,7 +11,7 @@ meta: >-
   {"date":"2021-11-25 01:00 UTC","tags":"console,
   line-blockchain","locale":"en"}
 path: /en/_partials/news/2021/2021-11-25-blockchain-service-channel-pending-status
-__hash__: 6traTDAUHXRgfaRTgpYqiC9I_hsxBTR6SU3xCDHhkNI
+__hash__: GD628txOF9Wbpr84b0SAfvHOD9Os_3Mn6J4frHOB06Y
 seo:
   title: >-
     Blockchain Service channels will now have a "Pending" status if the Service

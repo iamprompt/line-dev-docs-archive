@@ -6,7 +6,7 @@ description: >-
   to change its domain name.
 meta: '{"date":"2018-11-09 01:00 UTC","tags":"Maintenance","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-09-devsite-maintenance
-__hash__: BlOE-Z9LVreuHzyd4mArBY85tD7wjnlXAgH_lqH5NRM
+__hash__: yWDuAJW7578_sVI9luvyr2R7zdNCP9ql6FsNSlveFg0
 seo:
   title: Domain name change for the LINE Developers site
   description: >-

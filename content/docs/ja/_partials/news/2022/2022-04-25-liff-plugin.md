@@ -4,7 +4,7 @@ navigation: true
 description: 2022年4月18日にお知らせした、LIFFプラグインのLIFF InspectorとLIFF Mockをリリースしました。
 meta: '{"date":"2022-04-25 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-25-liff-plugin
-__hash__: _KRKiiE9lvKgfvC_de51eqv_gzVauJzdlK9zxyMBJDo
+__hash__: 5EzqCl5YMfs-S6zmJAyFB3CtmS01C4vjpmg3DvWDr2o
 seo:
   title: LIFF InspectorとLIFF Mockをリリースしました
   description: 2022年4月18日にお知らせした、LIFFプラグインのLIFF InspectorとLIFF Mockをリリースしました。

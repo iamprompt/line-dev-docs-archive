@@ -6,7 +6,7 @@ description: >-
   this guideline and prepare acccordingly.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/service-operation
-__hash__: qy5roZMaE1DtMa1zhVbQm85nUh7NmiQD5FyiaERNsoE
+__hash__: uBL1tYiMisCbcYvy3j9BoNKpuelpvN4qXDmOKH9VcnE
 seo:
   title: Running your service
   description: >-

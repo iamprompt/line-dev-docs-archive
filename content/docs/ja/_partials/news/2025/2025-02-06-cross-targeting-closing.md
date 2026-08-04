@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-02-06 00:00 UTC","tags":"messaging-api, end-of-life,
   life-cycle","locale":"ja"}
 path: /ja/_partials/news/2025/2025-02-06-cross-targeting-closing
-__hash__: y9uPjrESq8nGdkGzLDfKGKmsMfjjRIZVz0s_b-4Y_Eo
+__hash__: YEIsAu1Ydfof0GLG9vKI_Gt-VEckrgZpX7IZFprJKRM
 seo:
   title: 2025年3月26日をもってオーディエンスの公開/非公開を設定する機能の提供を終了します
   description: 2025年3月26日をもって、Messaging APIで作成したオーディエンスの公開/非公開を設定、および確認する機能の提供を終了します。
@@ -40,7 +40,7 @@ Messaging APIで作成したオーディエンスを、LINE Official Account Man
 | LINE Official Account Manager | Messaging API                 | 非公開   | ❌           | ✅       |
 | LINE Official Account Manager | Messaging API                 | 公開    | ✅           | ✅       |
 
-Messaging APIで作成したオーディエンスを、LINE Official Account Manager以外のツール（[LINE広告マネージャー](https://admanager.line.biz/){rel="[\"nofollow\"]"}など）で使用するための設定は、[ビジネスマネージャー](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}のオーディエンス共有機能でできます。
+Messaging APIで作成したオーディエンスを、LINE Official Account Manager以外のツール（[LINE広告マネージャー](https://admanager.line.biz/){rel="[\"nofollow\"]"}など）で使用するための設定は、[ビジネスマネージャー](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}のオーディエンス共有機能でできます。
 
 またビジネスマネージャーのオーディエンス共有機能を使うことで、同一プロバイダー配下のMessaging APIチャネル間でオーディエンスを共有できます。ただしビジネスマネージャーでオーディエンス共有を設定できるのは、認証済アカウントと:glossary-tooltip[[プレミアムアカウント](/glossary/#premium-account)]{glossary-id="premium-account"}のみです。
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-04-05 00:00 UTC","tags":"line-platform, outage-report,
   line-login, liff, line-mini-app, messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/where-can-i-check-the-status-of-line-api-outage
-__hash__: 4bIhSFH0EPthu8t_Xiwcn3FGQ-wOaV64umtuLcia_kA
+__hash__: RP4G40SRxoho0sAuqek6oHfr-xpUE8KtS3visDO9POc
 seo:
   title: LINE APIの障害状況やステータスはどこで確認できますか？
   description: LINE APIの障害状況やステータスは、以下で確認できます。

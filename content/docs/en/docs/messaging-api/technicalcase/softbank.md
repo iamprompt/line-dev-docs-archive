@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/softbank
-__hash__: z66EAUse0FoZSBSMuBm7h6TCZ-Ce1boRdGg1yW-m67w
+__hash__: HZhbZ0uqfjs_etsiOkat7ot9fKrDRbf_2l6RwqEE0do
 seo:
   title: >-
     Introducing infrastructure as low code for LINE-based service development

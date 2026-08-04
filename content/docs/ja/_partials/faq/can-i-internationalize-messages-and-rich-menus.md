@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-01-05 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-internationalize-messages-and-rich-menus
-__hash__: TKLdKVqikiegz5tuZ08z_SXk3We7COQXLrtbJJLITY4
+__hash__: RgYIm29KEwxawbkmvB9jlwqYAg4-zn825OXFRS8s2Sc
 seo:
   title: メッセージやリッチメニューを国際化や多言語化できますか？
   description: 現在、ユーザーの言語に応じて、メッセージやリッチメニューの言語を切り替える機能はありません。

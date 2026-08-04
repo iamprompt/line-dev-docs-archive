@@ -6,7 +6,7 @@ description: >-
   APIにおいて、リクエストボディに指定するJSONオブジェクトのプロパティが重複している場合に、リクエストがエラーとなる仕様変更を行う予定です。
 meta: '{"date":"2022-10-31 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-10-31-messaging-api-update
-__hash__: 3djOPhEvH-g-ZOc2UGn4v82FaCllMrixhfnkdTJHk48
+__hash__: 6jKSPWN2_NwKDQixaCs9j2O6zZr9vG7gMcYME_CRrcE
 seo:
   title: 2022年12月5日から、Messaging APIのリクエストにおいて、JSONオブジェクトのプロパティが重複している場合はエラーを返します
   description: >-

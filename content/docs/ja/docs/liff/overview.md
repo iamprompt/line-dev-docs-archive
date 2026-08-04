@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/overview
-__hash__: GA9xRteLplWEhwJZ5UkFW409tuByrFi2xgodgli8wmI
+__hash__: ro8TA-aNTO457m7Tvq-KfW8Q16mpawFMT83t5YSoqpY
 seo:
   title: LIFFの概要
   description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。

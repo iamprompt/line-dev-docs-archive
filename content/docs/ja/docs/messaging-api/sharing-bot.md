@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/sharing-bot
-__hash__: JUoq0KorE-0mcMHQT__z4QpjEDE6ODMY13hLbBDsHbE
+__hash__: uPjrPG9_jAkqPig6ctE6dJzCG8e5QdxM6NdkZJ4yI5c
 seo:
   title: LINE公式アカウントの友だちを増やす
   description: null

@@ -9,7 +9,7 @@ description: >-
   specifications as follows:
 meta: '{"date":"2022-08-04 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-08-04-liff-update-line-12-13-0
-__hash__: NJsItAM89yhKMJGr9uSGLS_AYy-dt2UK6Wc1hRwwHAw
+__hash__: oHrxvAV6tT261JrCn8YTmW1_GjnNSVIZx-dOAEFTRGU
 seo:
   title: >-
     In the LIFF browser on LINE version 12.13.0 or later, we'll change the

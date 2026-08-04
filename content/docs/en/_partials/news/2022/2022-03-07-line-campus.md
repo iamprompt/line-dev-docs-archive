@@ -7,7 +7,7 @@ description: >-
   available. LINE Campus is currently only available in Japanese.
 meta: '{"date":"2022-03-07 01:00 UTC","tags":"messaging-api, line-ads","locale":"en"}'
 path: /en/_partials/news/2022/2022-03-07-line-campus
-__hash__: YmykOWPHw2R4XsOG_H1TkZo3SekRL2rt5QlSD43X10c
+__hash__: Q-rIA-TNnlBvB5shGa8yd5_c_R1S2P0nfCkT0UaaY30
 seo:
   title: Comprehensive learning platform "LINE Campus" is now available
   description: >-

@@ -6,7 +6,7 @@ description: >-
   Developersサイトのドメイン名を変更するメンテナンスが予定されていますが、事情により、メンテナンスの時間を下記のとおり延長させていただきます。
 meta: '{"date":"2018-11-15 00:00 UTC","tags":"Maintenance","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-11-15-devsite-maintenance
-__hash__: '--mCYLozrh7b8QSPBkmnwfdlWZSLaml2eMWqnFqauk4'
+__hash__: oe2nCGzp8MXivx_60hJG4yGS2vrcdOEoSBsAilTn0GU
 seo:
   title: LINE Developersサイトのメンテナンス時間延長のお知らせ
   description: >-

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-10-02 00:00 UTC","tags":"line-platform,
   line-developers-site","locale":"ja"}
 path: /ja/_partials/news/2023/2023-10-02-merger-announcement
-__hash__: _x_GyA0p7fTiAsz2R4uQyFKDPfWQ2UzinJeJipJcG1Y
+__hash__: q8PC-HC2PF9oTu4h8rknOxYrXVBKuectDYL8tq3fYR0
 seo:
   title: グループ内再編に伴いLINEヤフー株式会社になりました
   description: いつもLINEプラットフォームおよびLINE Developersサイトをご利用いただきありがとうございます。

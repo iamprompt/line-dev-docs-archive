@@ -4,7 +4,7 @@ navigation: true
 description: 8月にお知らせした長期間有効なチャネルアクセストークンの廃止について、変更することをお知らせします。
 meta: '{"date":"2018-09-27 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-09-27-long-term-token-updated
-__hash__: 6p5F0EXlnLqa_wgXdJLSYrVUWh6Wz9PC48CahjqfPbA
+__hash__: JkWXVFUBHoirDjCa4byvHRZPrLL_bnc6RLb62onTd9Y
 seo:
   title: '[変更] 長期間有効なチャネルアクセストークンの廃止について'
   description: 8月にお知らせした長期間有効なチャネルアクセストークンの廃止について、変更することをお知らせします。

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-10-17 00:00 UTC","tags":"outage-report, messaging-api,
   options-for-corporate-customers, line-mini-app","locale":"en"}
 path: /en/_partials/news/2022/2022-10-17-line-platform-outage
-__hash__: BsdDIvorKv2qKaOlBK0oNk2BWhcS2xMr_UYg0sBLg5c
+__hash__: J6XQCB1anH0y9aWk-YWF64QM3hmRY_CtwFS8hKVSfwI
 seo:
   title: '[Resolved] Notice about service outage for LINE Platform'
   description: >-

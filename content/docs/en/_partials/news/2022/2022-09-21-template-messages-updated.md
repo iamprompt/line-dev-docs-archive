@@ -8,7 +8,7 @@ meta: >-
   {"date":"2022-09-21 00:00 UTC","tags":"messaging-api,
   template-messages","locale":"en"}
 path: /en/_partials/news/2022/2022-09-21-template-messages-updated
-__hash__: hyPIXD8GbmAHgVzblB7PGtcgx2YjUmpGFEexeFEzNlU
+__hash__: ymsqvZX5_CL2xlZcL8jvmzNoTh_1VAZN5Vxle94-hy4
 seo:
   title: >-
     [Updated] Messaging API template messages are now available for the desktop

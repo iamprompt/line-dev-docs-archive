@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/external-browser
-__hash__: _ePXnRuuVInEAdK-yCFPxkF-v6NT4c7zc8CU_yjhNcY
+__hash__: 5yFi-Deb1RLk-jTjL4EaWzmQBXF324tsuUCEsAZX9PY
 seo:
   title: Open a LINE MINI App in an external browser
   description: null

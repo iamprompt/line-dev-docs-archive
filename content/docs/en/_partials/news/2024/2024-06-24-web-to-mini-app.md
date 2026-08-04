@@ -8,7 +8,7 @@ description: >-
   in the LINE MINI App documentation.
 meta: '{"date":"2024-06-24 00:00 UTC","tags":"line-mini-app, docs","locale":"en"}'
 path: /en/_partials/news/2024/2024-06-24-web-to-mini-app
-__hash__: _zVV6LP8e7jA8yPZhwBWNvw3kA6V2wbFMgSsd4b1phc
+__hash__: GAtwdiRHB16_OStx1EUTkEKX5dPdiOBIx-FuCrdH_Lc
 seo:
   title: >-
     We've published a document for implementing web apps in operation as LINE

@@ -6,7 +6,7 @@ description: >-
   Frameworkにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。
 meta: '{"date":"2018-06-21 00:00 UTC","tags":"Outage report, LIFF","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-06-21-liff-outage
-__hash__: kMa-z8yn_1fVOzoYSMFpnCz2lEV9v0Yl5iNTFpRKnXM
+__hash__: x-yftDJ0QD9ClwvArBaE66mVIF7NhJFXyKmFU_RLoYk
 seo:
   title: 【復旧済み】LINE Front-end Framework障害のお知らせ
   description: >-

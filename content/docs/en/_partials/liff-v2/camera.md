@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/camera
-__hash__: S8p_ytHevXU8Fol1d6P-ZvHn4nVc4O3waScos-yaB0g
+__hash__: b-SmEsRkyqW1cOgs2hNT6vz-kF1Tt3GZ7qkT_Mk8_C4
 seo:
   description: ''
 ---

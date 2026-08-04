@@ -4,7 +4,7 @@ navigation: true
 description: Use a LINE Official Account to promote your LINE MINI App.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/line-mini-app-oa
-__hash__: V6rArrQj2l_Ar5nL7nJrEQ56Sq0a3UU0o8a597FNQGk
+__hash__: 0pDF-C-mmrrHK6Jk6L1LSbzvtj9rvaczsM-wwsO98Qw
 seo:
   title: Use LINE Official Account
   description: Use a LINE Official Account to promote your LINE MINI App.

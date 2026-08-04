@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-05-19 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/why-isnt-the-intended-rich-menu-displayed
-__hash__: S_3RFPixERzrR8q9WJgpsiROmCU4d3E6k1Fm1OZkp0I
+__hash__: WUP7Puq3PW0g-NWR7pBY-VmL-bwntm0ph_66xe4W0xo
 seo:
   title: Why isn't the intended rich menu displayed?
   description: 'There are several reasons why the intended rich menu may not be displayed:'

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/demo/membership-demo
-__hash__: DP6ibAhb0zmD2z2owdsDrdC20ctYxokITegrh2QnoUA
+__hash__: nJaQrtqV3cjeEx72Xnb2-2K-kEZudUuebGLF_pv9jkg
 seo:
   title: 会員証デモ
   description: null

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-05-13 00:00 UTC","tags":"line-things, life-cycle, end-of-life,
   docs","locale":"en"}
 path: /en/_partials/news/2024/2024-05-13-line-things-docs-discontinued
-__hash__: Y7D-0qIzP62zs3Trc6Aq1uM5RgNSo56bL4VGq7NFaio
+__hash__: mo7mAfMQUE5WKkWUp1xOQqDg59_s4yWVxbIQgjhVdOc
 seo:
   title: We've discontinued providing LINE Things documents and references
   description: >-

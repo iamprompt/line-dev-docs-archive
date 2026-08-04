@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-06-02 01:00 UTC","tags":"messaging-api,
   maintenance","locale":"ja"}
 path: /ja/_partials/news/2023/2023-06-02-messaging-api-maintenance
-__hash__: bWjDRJvN4fHamWeQYAqiSUhEMegXvvzlBXLI81w_wj0
+__hash__: FGucuB7TcONOtGRM13ECM2hUYDMI_O1DjucFZ89VJCg
 seo:
   title: Messaging API メンテナンスのお知らせ
   description: >-

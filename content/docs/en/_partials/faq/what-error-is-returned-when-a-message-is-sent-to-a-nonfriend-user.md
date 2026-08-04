@@ -12,7 +12,7 @@ meta: >-
   messaging-api","priority":1000,"locale":"en"}
 path: >-
   /en/_partials/faq/what-error-is-returned-when-a-message-is-sent-to-a-nonfriend-user
-__hash__: bJyV9f4u-v-Di5-Ze5wNKLL-LqGvvu1nl7ZuJgakn1A
+__hash__: oMsDLAEQ9eDenhrjUhx3ctmU_j8DR5Xtkj__CfWwUeA
 seo:
   title: >-
     Do I get an error when I send a message with a user ID that blocks the LINE

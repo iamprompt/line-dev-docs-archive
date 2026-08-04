@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/generate-json-web-token
-__hash__: Ax7dqeZYtJc2olrahVL_8egXNPyG9ZWc-KLMvpAE_eo
+__hash__: vc_iwOlyG1vQ5kTzcrZ8Jqfu-GLrkjNvXAdqNdczEcs
 seo:
   title: チャネルアクセストークンv2.1を発行する
   description: null

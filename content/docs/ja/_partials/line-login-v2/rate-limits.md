@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-login-v2/rate-limits
-__hash__: gQ2syLeD0abuqRr1qaf-kEfOgS8MMx0sWAH5irdjgyY
+__hash__: GpimmkMBxBHqJ5U0G3nJB3NfdR4TqwUwszKbNkpbeOw
 seo:
   description: ''
 ---

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/partner-docs/send-mission-sticker
-__hash__: 6k52xOCwQX0pLE18Y1-iVOx_W3Lmxb_nugf4uV5u13U
+__hash__: j_CV6olsn4dlJyMPsYkTG7jsBpxm3TyoKgIBruACeS8
 seo:
   description: ''
 ---

@@ -13,7 +13,7 @@ meta: >-
   template-messages, flex-message","locale":"en"}
 path: >-
   /en/_partials/news/2025/2025-05-07-correction-to-documentation-regarding-webhooks
-__hash__: 6qj9V6Kb2CC8KPALw4sWAfwiKtKqeVJq6czN8lTqkXE
+__hash__: 3qJpbzFV1eFsvcnJqTGbh5KDKYtZMDqViGErrpKOhBs
 seo:
   title: >-
     Documentation correction announcement regarding webhooks when sending

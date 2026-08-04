@@ -6,7 +6,7 @@ description: >-
   APIの一部のエンドポイントのドメイン名は「api.line.me」から「api-data.line.me」に変更されました。
 meta: '{"date":"2021-01-21 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-01-21-no-longer-provided-with-the-old-domain-name
-__hash__: hJ5eW_GgrdlbpwKdbi7ax4d7qwoCS0bjzKE8OyYnfe4
+__hash__: Mf-KnY70uyxR-lXGLMturVndg_U_pH6ai5xLOJFdhEM
 seo:
   title: 一部エンドポイントにおいて旧ドメイン名でのリクエスト受付を停止しました
   description: >-

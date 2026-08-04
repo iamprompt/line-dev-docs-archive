@@ -4,7 +4,7 @@ navigation: true
 description: 2026年3月9日より、Android版LINEにおいてEdge-to-edgeが適用されます。
 meta: '{"date":"2026-02-12 01:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-02-12-edge-to-edge-support
-__hash__: nJ7D8S3KRThqLZX00l-b6DyFdGkwrXr2i1Eac79kz4c
+__hash__: xtYduz3pAnScHW3z2Lm0SfbM6tQLucVSQ282WAjiRYY
 seo:
   title: 2026年3月9日よりAndroid版LINEにおいてEdge-to-edgeが適用されます
   description: 2026年3月9日より、Android版LINEにおいてEdge-to-edgeが適用されます。

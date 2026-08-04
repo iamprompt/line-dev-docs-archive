@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-10-06 00:00 UTC","tags":"Outage report,
   options-for-corporate-customers","locale":"en"}
 path: /en/_partials/news/2021/2021-10-06-pnp-api-outage
-__hash__: s5b6fMu43KH95H5KCOLIhpDWW_NhzXM4TubhFRx1t8I
+__hash__: _luTMDyDKwigePR1NQDJLfjRDftbCdUclkgc9Q8Ewxw
 seo:
   title: '[Resolved] Notice about service outage for LINE notification messages'
   description: >-

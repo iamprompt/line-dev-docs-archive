@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/messaging-api/linking-accounts
-__hash__: BQO6Xvebr3yWih5R8xQn1EpFI0CJ85LJ0t-HnOAqTMk
+__hash__: 7pz5xrEbYONstBD7Hxa3cWxgait566NK1tw-ssEAVhM
 seo:
   title: User account linking
   description: null
@@ -136,4 +136,3 @@ For example, the Messaging API lets you customize [rich menus](/docs/messaging-a
 ## Learn more
 
 - [Messaging API reference](/reference/messaging-api/)
-- [New customer experiences enabled by ID integration using the LINE API (LINE DATA SOLUTION)](https://data.linebiz.com/contents/column/line_api){rel="[\"nofollow\"]"} (Only available in Japanese)

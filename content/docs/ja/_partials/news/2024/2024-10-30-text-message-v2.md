@@ -6,7 +6,7 @@ description: >-
   APIにおいて、新しいメッセージオブジェクトとしてテキストメッセージ（v2）をリリースしました。テキストメッセージ（v2）を用いることで、ユーザーへのメンションを指定できます。また、従来より提供しているテキストメッセージに比べて、LINE絵文字をより指定しやすくなりました。
 meta: '{"date":"2024-10-30 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-10-30-text-message-v2
-__hash__: 2JePM4qSn3RXrU5Z4LpKIEshlNbDYhehM7HE4WWRHRM
+__hash__: VUFLbkLzSr1dXKgf-HVafrS1nYIEbjqLpjczUUvxISI
 seo:
   title: Messaging APIにおいて、ユーザーへのメンションなどができる「テキストメッセージ（v2）」をリリースしました
   description: >-

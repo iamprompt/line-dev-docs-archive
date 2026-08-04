@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-05 00:00 UTC","tags":"docs, line-developers-site,
   console","locale":"ja","sidebar":false}
 path: /ja/tips/2026/03/05/how-to-get-the-latest-news
-__hash__: 3ljtGpMOraQlss7Wk_zvlthgwKUu6lGuBBmuhpeYQkE
+__hash__: cl7XwYQ1AZgcvX22Ywovo-vUo-VwwVfBezv-DdTt4-0
 seo:
   title: LINE Developersサイトの最新情報をチェックしよう
   description: 「あれ、この機能いつ追加されたんだろう？」

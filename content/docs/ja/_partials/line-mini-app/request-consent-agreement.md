@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/request-consent-agreement
-__hash__: kXzTX34CLLOeVIoN-XAWSll9tVgSjuFpUdqo7bafO8I
+__hash__: JlVG2AnFato2SCFQCu6MWOw-vSTaBBq6oWbF9blHzL4
 seo:
   description: ''
 ---

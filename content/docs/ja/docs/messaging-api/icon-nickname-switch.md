@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/icon-nickname-switch
-__hash__: WYpKGfrGQt6fqXdT4q99Ny7jh5XgQQdNJdMEGxOoCgM
+__hash__: bKS2wJNK7Eou4fop5ssm86KXqNiG6qE9WF-HycE02Mo
 seo:
   title: アイコンと表示名をカスタマイズする
   description: null

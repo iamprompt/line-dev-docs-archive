@@ -6,7 +6,7 @@ description: >-
   APIにおいて、ナローキャストメッセージのデモグラフィックフィルターオブジェクトで送信対象を年齢でフィルタリングする際の条件として、以下の値が追加されました。
 meta: '{"date":"2024-08-26 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-08-26-age-filter-subdivision
-__hash__: noSK8Mq2Ne2f7bqDi4yhj4jCQ8ke-avoDCCHxVvlFwk
+__hash__: luzNunZ1NzQnzMkDlVg3_aQDYHvrIo5dVBIMl1x__PU
 seo:
   title: Messaging APIにおいて、ナローキャストメッセージで50歳から70歳までを詳細にフィルタリングできるようになりました
   description: >-

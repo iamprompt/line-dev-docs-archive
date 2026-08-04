@@ -11,7 +11,7 @@ meta: >-
   {"date":"2023-11-29 00:00 UTC","tags":"line-mini-app,
   end-of-life","locale":"en"}
 path: /en/_partials/news/2023/2023-11-29-discontinued-mini-home-pin-feature
-__hash__: UqoHab9tDispTk1oWPLKfBPSJCnJaPNXVcGRsAihLbU
+__hash__: ifuJqJLLix2Cfnokb9F9jElfS6WczJnddxG4KApR8lk
 seo:
   title: >-
     We've discontinued the feature to pin LINE MINI Apps to the Home tab in the

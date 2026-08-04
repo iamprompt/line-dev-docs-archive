@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/verify-webhook-url
-__hash__: JJM-DVGxLt9AQBS9748xURrp0wLm7nJfvApYB9KVL1g
+__hash__: 8y_9KimuExk-4N_fsMoBB_n0OdUObCMazHBFscjmtkU
 seo:
   title: Webhook URLを検証する
   description: null

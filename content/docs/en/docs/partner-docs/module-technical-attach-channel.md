@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module-technical-attach-channel
-__hash__: ILAJJTqdEyh5Puqvbms50Q24EcO0m1B9YxgrvrPUvpM
+__hash__: M9sbU_kwaT0MfAEoWKqBE-75V2zX3rum-qSL2i3sfiw
 seo:
   title: Attach Module Channel
   description: null

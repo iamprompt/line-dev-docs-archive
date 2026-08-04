@@ -4,7 +4,7 @@ navigation: true
 description: 2026年6月5日にお知らせしたとおり、LINEミニアプリのアプリ内課金機能について、手数料の適用を開始しました。
 meta: '{"date":"2026-07-01 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-07-01-iap-service-fees
-__hash__: BjdcBBIewX4LfNELImzNv7RgnkrwxHxfI3Z_R7nQtFE
+__hash__: dcW581kNgglx91gLLHnkyHucKaJFb89uAW731c9pTwA
 seo:
   title: LINEミニアプリにおけるアプリ内課金の手数料適用開始のお知らせ
   description: 2026年6月5日にお知らせしたとおり、LINEミニアプリのアプリ内課金機能について、手数料の適用を開始しました。

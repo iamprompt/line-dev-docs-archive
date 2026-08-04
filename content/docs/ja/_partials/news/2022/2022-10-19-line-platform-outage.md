@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-10-19 00:00 UTC","tags":"outage-report, messaging-api,
   options-for-corporate-customers, line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2022/2022-10-19-line-platform-outage
-__hash__: xdtI0oJTGrnGEUdDgDsS-KchxmTS3U-Jh9eIjcFNf3Y
+__hash__: lhzzzb7oUYOHWuOBBzBcZIa6SmjtlaUKBJ-GfK2osio
 seo:
   title: 【復旧済み／更新】LINEプラットフォーム障害のお知らせ
   description: ''

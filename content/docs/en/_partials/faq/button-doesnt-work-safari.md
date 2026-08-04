@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-8-17 11:41 UTC","tags":"social-plugins, sp-like,
   sp-friend","priority":1000,"locale":"en"}
 path: /en/_partials/faq/button-doesnt-work-safari
-__hash__: IfhTSwe-MdyNmrXgxkVjO0hiAZjM5D8NhdseSkt-mMg
+__hash__: nKkze-Q07FPPphOBWMuto5hT5OuztaG3S8JkOD6bOlU
 seo:
   title: "The Like button and\_Add friend button don't work on Safari, even if I log in."
   description: >-

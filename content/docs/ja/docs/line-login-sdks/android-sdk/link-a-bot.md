@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /ja/docs/line-login-sdks/android-sdk/link-a-bot
-__hash__: 2FBysKE2DMnHk-UqU_r4os5Vk-P9KzcnYdSLdUuZbIs
+__hash__: tC5VR3XL_VOgZhaH0uPdYx-Q2lHygs3BLVqFNYugwWo
 seo:
   title: SDKで友だち追加オプションを利用する
   description: null

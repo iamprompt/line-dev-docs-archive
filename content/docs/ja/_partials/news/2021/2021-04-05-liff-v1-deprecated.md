@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-04-05 00:00 UTC","tags":"LIFF, Deprecated, Life
   cycle","locale":"ja"}
 path: /ja/_partials/news/2021/2021-04-05-liff-v1-deprecated
-__hash__: S6Xuv6alxlih0WHE4ICnuewjh8DPHhxgIr_FBDjqgPI
+__hash__: 9O6gcrhHgTNk_68nEnnodnRwmPgt8J5uXAxrE6EOlAY
 seo:
   title: LIFF v1が非推奨になりました
   description: 2019年10月16日に告知したとおり、LIFF v1は廃止される予定です。これに伴い、2021年4月1日にLIFF v1は非推奨になりました。

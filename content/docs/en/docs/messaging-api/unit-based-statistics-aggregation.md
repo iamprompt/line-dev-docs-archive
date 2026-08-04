@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/unit-based-statistics-aggregation
-__hash__: iYs6vzy0G31a7K1C6kygFiSDLMR1xerh2k8QsOI5NA0
+__hash__: zV2NFRVNQgW9UqxNVMuHRICjp6ZscQNr3v85q0ubgPE
 seo:
   title: Get statistics of sent messages
   description: null

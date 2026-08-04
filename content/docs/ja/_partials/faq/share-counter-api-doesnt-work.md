@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-8-17 11:41 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/share-counter-api-doesnt-work
-__hash__: 1ppx00eTlSu5KOddwdfQzmcr4gYs_eShPYudyoz2_jI
+__hash__: DnHLHwTUq3LJUZk7nFekLQ8JdUqKMh7a-3f-5gyPieM
 seo:
   title: カスタムアイコンを使用していますが、シェア数を確認できるAPIのドキュメントを参照してボタンを設置しても、エラーが出て動作しません。
   description: >-

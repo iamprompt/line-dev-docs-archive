@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-03-23 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/how-can-i-find-out-content-file-format
-__hash__: x568jppE40J5v99lkYsopFoDag1y-WzdsIbr_a33_KU
+__hash__: FWcV4KCpALqr2SrSVpws5Cyt7H6x0wHWtrD5o9zQlnM
 seo:
   title: 取得したコンテンツのファイル形式はどのように確認できますか？
   description: コンテンツを取得した際に、レスポンスで返されるバイナリデータのファイル形式は、レスポンスのContent-Typeヘッダーで示されます。

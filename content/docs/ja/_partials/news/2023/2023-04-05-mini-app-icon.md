@@ -6,7 +6,7 @@ description: >-
   DevelopersコンソールのLINEミニアプリチャネルにおいて、アイコン用の画像を切り抜いた上で透過する機能を公開しました。これにより、PSD形式のテンプレートファイルを利用しなくても、お手持ちの画像編集ソフトでアイコンを作成可能になりました。
 meta: '{"date":"2023-04-05 00:00 UTC","tags":"line-mini-app, console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-04-05-mini-app-icon
-__hash__: WfreI9DH98eRXFeDEt5_6RISStWO626DckzqzPSJobU
+__hash__: c4vk7uV7I-GkphLAM1714vL5oWUj_gujD1SSoxxRrLM
 seo:
   title: LINE DevelopersコンソールのLINEミニアプリチャネルにおいて、透過されていない画像でもアイコンとして登録できるようになりました
   description: >-

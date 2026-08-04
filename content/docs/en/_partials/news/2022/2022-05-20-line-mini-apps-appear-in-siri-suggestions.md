@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI Apps now appear in "Siri Suggestions" on iPhone.
 meta: '{"date":"2022-05-20 00:00 UTC","tags":"line-mini-app, ios","locale":"en"}'
 path: /en/_partials/news/2022/2022-05-20-line-mini-apps-appear-in-siri-suggestions
-__hash__: q5EOiI3Bz6t1aEw36ddzzv3sCmowxYPUKC_h-WCXvK8
+__hash__: Ur0-UyVgVAhBKGuVgtUcJ0ikmEx9AJb9W-IA24shoAg
 seo:
   title: LINE MINI Apps now appear in "Siri Suggestions"
   description: LINE MINI Apps now appear in "Siri Suggestions" on iPhone.

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/message-types
-__hash__: FWhl9-i6gM3KXb40N-cAcB6VzTxUndAa4ucPrv8P-J0
+__hash__: 7ZyAiRsxxS-7FFtDa8WZojabV9wfznmVt9xF1k_0-LI
 seo:
   title: Message types
   description: null

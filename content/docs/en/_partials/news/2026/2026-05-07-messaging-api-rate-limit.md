@@ -9,7 +9,7 @@ description: >-
   endpoint as of May 26, 2026.
 meta: '{"date":"2026-05-07 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2026/2026-05-07-messaging-api-rate-limit
-__hash__: xwJCcbyCb6unzgaBZ15n23QK80r5e98gFGntBQpXSwI
+__hash__: SH3vvCWVgvCUvN3okd7zfjRvkX_jJ4mBj3ClvVczzGI
 seo:
   title: >-
     As of May 26, 2026, in the Messaging API, the rate limit for the "Get rich

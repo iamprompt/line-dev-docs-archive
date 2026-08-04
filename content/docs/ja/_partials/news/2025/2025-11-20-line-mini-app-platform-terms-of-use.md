@@ -4,7 +4,7 @@ navigation: true
 description: 2025年10月20日にお知らせしたとおり、2025年11月20日に日本のLINEミニアプリプラットフォーム規約を改定しました。
 meta: '{"date":"2025-11-20 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-11-20-line-mini-app-platform-terms-of-use
-__hash__: '-JS3DIOjed7s88FCxoqIXwDjnieUZMb1UFfa7jEakD8'
+__hash__: JZq6R3U7uEmr0rV9NaXgs3YiCCW6tmgFH_SYQRQhG2U
 seo:
   title: 2025年11月20日に日本のLINEミニアプリプラットフォーム規約を改定しました
   description: 2025年10月20日にお知らせしたとおり、2025年11月20日に日本のLINEミニアプリプラットフォーム規約を改定しました。

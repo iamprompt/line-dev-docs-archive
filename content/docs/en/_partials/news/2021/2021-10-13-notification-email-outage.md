@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-10-13 01:00 UTC","tags":"Console,
   options-for-corporate-customers, Outage report","locale":"en"}
 path: /en/_partials/news/2021/2021-10-13-notification-email-outage
-__hash__: Tk_zpd6cZOJC9fLoBLjA3JFUQq8o5QQSYfUWZRgn8kg
+__hash__: zwOIBvpvF9AbxYoSrWiMwNlGS4AJCsKF7xh2igfSwj8
 seo:
   title: >-
     [Resolved] Notice of email transmission outage on the LINE Developers

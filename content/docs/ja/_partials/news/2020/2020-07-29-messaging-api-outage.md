@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-07-29 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-07-29-messaging-api-outage
-__hash__: KGz2yjwUe-XUSV8lstJ1e-q95cVXvT9hEwk47sHopWw
+__hash__: 1VVLK3A72P9LNCz6D49KqLWOL07W-qZI9QVRoaSlgqw
 seo:
   title: 【一部復旧済み】「分析」の一部APIの集計不具合のお知らせ
   description: >-

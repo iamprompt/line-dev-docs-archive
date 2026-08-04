@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/liff/overview
-__hash__: rJvXGA7QP_HZQQ4rcLLAWKcolxMs7KCIYFM6V1swdGg
+__hash__: zZa9x6xgbeWQlVF84CKDYkosHbruiuZY-waVi2KLuAo
 seo:
   title: LIFF overview
   description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.

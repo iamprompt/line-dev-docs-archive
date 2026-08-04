@@ -4,7 +4,7 @@ navigation: true
 description: 開発者の方々がLIFFアプリの開発をより円滑に行えるよう、LIFFアプリの開発環境を構築できるCLIツール「Create LIFF App」を公開しました。
 meta: '{"date":"2022-04-25 01:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-25-create-liff-app-released
-__hash__: QVr36alXZD294nnPdTHXLKzlZRZGR46b9tzGRfNUrv0
+__hash__: LBMQKukw-xGz5Y8wnMdXvmTqMfKtcMvrcPmUE6tJ-10
 seo:
   title: LIFFアプリの開発環境を構築できるCLIツール「Create LIFF App」を公開しました
   description: >-

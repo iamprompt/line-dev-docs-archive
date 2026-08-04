@@ -9,7 +9,7 @@ description: >-
   specified in the request body.
 meta: '{"date":"2022-10-31 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2022/2022-10-31-messaging-api-update
-__hash__: Y4Y3R7Mct83x1gDj2Sv5nUn9pa76dS9_d1rDlb_DOkc
+__hash__: PM0ePmKw_ZYa_uO1ZqqQztga0_GZx9dwDjcaZAjnRtI
 seo:
   title: >-
     As of December 5, 2022, Messaging API requests will return an error if the

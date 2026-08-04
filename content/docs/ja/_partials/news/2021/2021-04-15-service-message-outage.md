@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-04-15 01:00 UTC","tags":"Outage report, LINE MINI
   App","locale":"ja"}
 path: /ja/_partials/news/2021/2021-04-15-service-message-outage
-__hash__: Y15Fx0xLoZUJd2ulVe8YDuQ8Zb8Yncmj-DBYp_gu8qs
+__hash__: bwjT5tHZyvS-6dHHm_oZqO4AUnhDVWrd448q5dAexCA
 seo:
   title: 【復旧済み】LINEミニアプリのサービスメッセージ送信障害のお知らせ
   description: LINEミニアプリにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。

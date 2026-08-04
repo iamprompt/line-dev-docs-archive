@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-03-11 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"ja"}
 path: /ja/_partials/news/2022/2022-03-11-flex-message-update-3-released
-__hash__: fkI793nA4J2gKcyom011cumeTEqfZopV2oU0l90fyns
+__hash__: GXbIKQ2tf4NNoZzlUYg-0g-DDpD1ocXCHJx7O-6l8Os
 seo:
   title: 【更新】Flex Message Update 3をリリースしました
   description: ''

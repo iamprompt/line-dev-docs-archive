@@ -4,7 +4,7 @@ navigation: true
 description: 日本において、LINEミニアプリを公開するまでのプロセスについて、次の2つの変更を行いました。
 meta: '{"date":"2022-06-01 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-06-01-line-mini-app-pre-examination
-__hash__: 10He-sZBgIbXaWBZPY_cOLnf_5wCRtku5D9Q4JlNgvo
+__hash__: tBmtrLsbbGOVpek_QI1rPYFeNmbFzW4n6BXxccvvv8o
 seo:
   title: 日本において、LINEミニアプリの事前審査がなくなり、より開発を始めやすくなりました
   description: 日本において、LINEミニアプリを公開するまでのプロセスについて、次の2つの変更を行いました。

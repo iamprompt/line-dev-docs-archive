@@ -9,7 +9,7 @@ description: >-
   and specifications of LINE MINI Apps.
 meta: '{"date":"2022-12-09 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-12-09-mini-app-review
-__hash__: edVGok1Mi1fZ_aADSjw1T9Wd4fnPkAprMc8Z34v-SOE
+__hash__: 2W9_H__qAiIsXtSM4v4B2NCTXy_NkJslqnI2Z28c-TA
 seo:
   title: >-
     LINE MINI Apps in Japan no longer need to be re-reviewed when making changes

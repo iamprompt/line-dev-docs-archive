@@ -8,7 +8,7 @@ description: >-
   services.
 meta: '{"date":"2022-08-08 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-08-08-mini-policy-update
-__hash__: iaQa7Po6fixWzoDN7WSZWzqE-KAfq8stKngcvbri0Gc
+__hash__: FNi-lVpf9L5KfDWaaGmWsydg6xe_kZyqLe1mb7RmQSo
 seo:
   title: >-
     In the LINE MINI App, we've changed our policy on user inducement to

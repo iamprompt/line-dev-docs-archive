@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/using-rich-menus
-__hash__: E8Kf9TrFeo3oCpm65jyu6WP8BnchjNbnYMotkp_2EOw
+__hash__: _qEU54mMzi3stuU0rlZXGNtBsNLSc5m8bKVwkUmaVNA
 seo:
   title: リッチメニューを使う
   description: null

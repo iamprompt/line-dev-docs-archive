@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login/link-a-bot
-__hash__: mJhAVT35wX0ESAmVZSKRXxcGHP28jkqqzJPzibBPioU
+__hash__: RlNf-wV05HMzn64OanD_4EbycBwVDlaHZVCRlS3czPk
 seo:
   title: LINEログインしたときにLINE公式アカウントを友だち追加する（友だち追加オプション）
   description: null

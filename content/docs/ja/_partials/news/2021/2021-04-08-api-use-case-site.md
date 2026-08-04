@@ -6,7 +6,7 @@ description: >-
   Case」の英語版を公開しました。
 meta: '{"date":"2021-04-08 00:00 UTC","tags":"LINE Platform","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-08-api-use-case-site
-__hash__: tN3bvJW6v8yecqyYU31Tty2Sh8_P_2YnqxdtaPzJ4C0
+__hash__: fvshxLEpy1qZdKSrJ3hVJRXEyEvkRm59TgcQWekIqfs
 seo:
   title: LINE APIのユースケース、デモアプリなどを紹介するサイト「LINE API Use Case」の英語版を公開しました
   description: >-

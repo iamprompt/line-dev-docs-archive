@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIで使用されてきた、長期間有効なチャネルアクセストークンを廃止することになりました。
 meta: '{"date":"2018-08-13 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-08-13-long-term-token-discontinued
-__hash__: g-4oaVLVTSHH5XOKzOGCsuxlYSnl9XimZ4TPo8QedVs
+__hash__: 7bnV8iCXVESAIJHxxOC60QlEF1JHVBFesNqD1UxvVfc
 seo:
   title: 長期間有効なチャネルアクセストークンが廃止されます
   description: Messaging APIで使用されてきた、長期間有効なチャネルアクセストークンを廃止することになりました。

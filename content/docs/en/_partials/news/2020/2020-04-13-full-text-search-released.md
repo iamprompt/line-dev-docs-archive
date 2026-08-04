@@ -7,7 +7,7 @@ description: >-
   full-text search.
 meta: '{"date":"2020-04-13 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-13-full-text-search-released
-__hash__: vKdeuyr25Ney-yMSKYrOu27qomAk-bGSebXxJOHT6pc
+__hash__: BrSqJGj6w3mLMvEEZrx8EXeIamOzD_SYcb6MFlTuKtA
 seo:
   title: Full-text search is back
   description: >-

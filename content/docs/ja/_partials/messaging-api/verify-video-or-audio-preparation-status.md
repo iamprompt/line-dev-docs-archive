@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/verify-video-or-audio-preparation-status
-__hash__: ZKBnHVKmyPyU6c8pgJMXoc9rJmGcYsLYZagEGZ4KwLk
+__hash__: QHtHjtNpJr63gz7rWVDj4JWHVgOJYqLdxFA6xVkD_xE
 seo:
   description: ''
 ---

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-07-21 00:00 UTC","tags":"LINE Platform, Maintenance,
   SSL","locale":"en"}
 path: /en/_partials/news/2020/2020-07-21-change-ssl-root-certificate
-__hash__: s7CHgjPxVzhAZZY4OVn3APzx7YrenqOCIIqnAl_DsmE
+__hash__: Btef7zqvu3Co8QuZ7QqvBOdu1ebpDK5llM-R6gfGfwk
 seo:
   title: LINE API's SSL root certificate authority has been changed
   description: ''

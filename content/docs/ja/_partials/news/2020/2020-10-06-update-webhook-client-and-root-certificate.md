@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-10-06 01:00 UTC","tags":"Messaging API, SSL","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-10-06-update-webhook-client-and-root-certificate
-__hash__: 1Wd83VUgE_lA6AyKFmtbE1bd5sxv6lihlER7x8Zlmq4
+__hash__: k-PssyK7C3kHctDTNB9ELArk8b4wSEh0UvB5BxQAHQ4
 seo:
   title: 【更新】2021年1月末をもってWebhook通知元におけるTLS 1.0、TLS 1.1のサポートを終了します
   description: ''

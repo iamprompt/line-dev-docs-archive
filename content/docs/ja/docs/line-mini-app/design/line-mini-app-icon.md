@@ -5,7 +5,7 @@ description: アイコンの視認性と品質を常に保証するために、�
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"jp"}
 path: /ja/docs/line-mini-app/design/line-mini-app-icon
-__hash__: JqvLCNrn42UID2VGtN19yrdRUv196vCin06V5hoIc3M
+__hash__: 59sgWeoDr5VYXHt5y_GVBvvKJlgwx3sKIQ5PFNLwxXo
 seo:
   title: LINEミニアプリのアイコンの仕様とガイドライン
   description: アイコンの視認性と品質を常に保証するために、シンボルまたはワードマークを単独で使用してください。

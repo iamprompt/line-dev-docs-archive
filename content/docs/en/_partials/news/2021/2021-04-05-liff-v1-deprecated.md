@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-04-05 00:00 UTC","tags":"LIFF, Deprecated, Life
   cycle","locale":"en"}
 path: /en/_partials/news/2021/2021-04-05-liff-v1-deprecated
-__hash__: DN4jfsa5jEQY3KzLEizIYCJ76Is9gR92AOaWkseESEM
+__hash__: 5iBg3jj_oRRr2m83Bwy0lkxvCgjy-oa0OFZwgy6lxh4
 seo:
   title: LIFF v1 is deprecated
   description: >-

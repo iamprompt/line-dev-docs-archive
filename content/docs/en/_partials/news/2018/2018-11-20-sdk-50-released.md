@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-11-20 00:00 UTC","tags":"Android, iOS, LINE Login, LINE
   SDK","locale":"en"}
 path: /en/_partials/news/2018/2018-11-20-sdk-50-released
-__hash__: lPHEOngsXryAQSB9JJlA7YlTdg3VbqZvc1FcKesN3tY
+__hash__: VvXkrSghY-C2RNKgcrS5FdmFzQ-2lZxrc1CKRi-Gysk
 seo:
   title: LINE SDK 5.0.0 released
   description: >-

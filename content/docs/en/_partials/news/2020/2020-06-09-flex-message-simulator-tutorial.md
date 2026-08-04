@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-06-09 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"en"}
 path: /en/_partials/news/2020/2020-06-09-flex-message-simulator-tutorial
-__hash__: gfkW9g0tG5aIwlM8MAt_l05PYN8-8ciVtnw0zfB7CHI
+__hash__: GNcFVKgV8IuSX5D6vWtT2DIKesUoQMBKeBHXOvHoH70
 seo:
   title: Flex Message Simulator tutorial now available
   description: We published our first tutorial about using the Flex Message Simulator.

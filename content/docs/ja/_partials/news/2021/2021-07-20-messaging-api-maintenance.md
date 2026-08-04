@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-07-20 01:00 UTC","tags":"Maintenance, Messaging API, Options for
   corporate customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-07-20-messaging-api-maintenance
-__hash__: 3vA-jkifxmyQZQ_We_tfY_Q9RG8GhF7AJxzCTwxvL8E
+__hash__: 7JBMKGcF9jUahzr-DJjcPjJuInEpwI6jzkdOZaicvY8
 seo:
   title: 【更新】Messaging API メンテナンスのお知らせ
   description: ''

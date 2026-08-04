@@ -8,7 +8,7 @@ description: >-
   apps and in bot apps.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/using-line-url-scheme
-__hash__: UI1itsf5eeTrbNRKvJN2HSTnpuVNqc-nyjD1hdWAhys
+__hash__: Dzp609CZi-8R03AbHN9OPaTjrs71sg-YJDo5J1yjh6I
 seo:
   title: Use LINE features with the LINE URL scheme
   description: >-

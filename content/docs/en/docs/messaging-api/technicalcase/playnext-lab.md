@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/playnext-lab
-__hash__: wl8CqifbxtorOLIMruw7r3A2ieKepaptVI-Ft3On1UE
+__hash__: UbfMeaf4DUMACmafjhpDbbXewN6cA5g5itlyeRXPB-M
 seo:
   title: >-
     Technical case study of Smart Public Lab: LINE utilization strategy

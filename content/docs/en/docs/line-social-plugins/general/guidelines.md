@@ -7,7 +7,7 @@ description: >-
   provided by LY Corporation (hereinafter the Company).
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-social-plugins/general/guidelines
-__hash__: fe0MXnBlUGVC2odnHSAnvBb0NNQbteNinvkjAGkSf2o
+__hash__: qsJiu8DUd79j16P2R_wRcjCCnaqZYheQrhH-IF3zkmk
 seo:
   title: Usage Guidelines for the LINE Social Plugin
   description: >-

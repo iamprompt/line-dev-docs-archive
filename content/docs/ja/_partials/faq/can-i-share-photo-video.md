@@ -7,7 +7,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-share-photo-video
-__hash__: llsHsv9xmQqIdJE-1wO-obAuX4Eb7C1WYQr9V6Fkx_U
+__hash__: Yt3tYIZphBAPt3G7wXhvORb6m1O-rbjtg2l76jXcJDk
 seo:
   title: 「LINEで送る」ボタンから画像や動画もシェアできますか？
   description: >-

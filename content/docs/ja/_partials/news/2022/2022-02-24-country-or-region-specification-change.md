@@ -7,7 +7,7 @@ meta: >-
   {"date":"2022-02-24 00:00 UTC","tags":"messaging-api, LINE Login, console,
   line-blockchain","locale":"ja"}
 path: /ja/_partials/news/2022/2022-02-24-country-or-region-specification-change
-__hash__: VP10iCG43maIUcRHaC6pcCnwEqDUu3_kzHMdYp2Znrw
+__hash__: VVvkMAaUtaK6yMzfY_Mtx7jpS5qr-dbKY4lw54iro1M
 seo:
   title: チャネルに設定する、会社または事業者の所在国・地域に「その他」を設定できなくなりました
   description: >-

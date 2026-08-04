@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2024-02-09 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-02-09-get-membership-plan-information
-__hash__: H8PeVqY8Wyz2zoirbDMQw2v8OWiXf0-m9JdePhbIpco
+__hash__: RPG3hzEFBpvUY4JA3LcfJUZKtAWeDur03-3Z_NFngQc
 seo:
   title: 【更新】Messaging APIでLINE公式アカウントのメンバーシップの情報が取得できるようになりました
   description: ''

@@ -5,7 +5,7 @@ description: >-
   2020年6月30日にお知らせしたとおり、ビーコンイベントのleaveイベントは2020年末をもって廃止されます。ビーコンの電波の受信圏から出たことを検知するには、leaveイベントの代わりにstayイベントを利用するよう、サービスを変更してください。
 meta: '{"date":"2020-11-25 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-25-reminder-deprecate-leave-event-for-beacon
-__hash__: P_v4sxZwNe09uIYU-auWkI1MJmHwtj7KucwldjHtJ5E
+__hash__: cFaaOjEkZEkHZEJCuhQILYg2N5rDV4ZmjQR_0xxyUtY
 seo:
   title: 【リマインド】2020年末にビーコンイベントのleaveイベントを廃止します
   description: >-

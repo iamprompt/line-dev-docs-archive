@@ -6,7 +6,7 @@ description: >-
   token used with the Messaging API.
 meta: '{"date":"2018-08-13 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-08-13-long-term-token-discontinued
-__hash__: 8UeaNzXFgG-NlLPPxdMtPC-ROI8U703dNQpq5Rhoar8
+__hash__: JAvyvhBAT1BcngDK_xlEEkXKIq2noUJiP5uFedTQiEQ
 seo:
   title: Long-term channel access token to be discontinued
   description: >-

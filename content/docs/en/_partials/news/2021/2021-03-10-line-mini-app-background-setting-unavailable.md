@@ -12,7 +12,7 @@ meta: >-
   Console","locale":"en"}
 path: >-
   /en/_partials/news/2021/2021-03-10-line-mini-app-background-setting-unavailable
-__hash__: OgDuubHF3UMxv-JMd_uxwl0CgVCPaxISYFg_Ov1YB6M
+__hash__: azD2QI__FvoStinFsFswLDFT1JnndVOyvZB7UAggui0
 seo:
   title: >-
     The "Header background color" setting for the LINE MINI App will be

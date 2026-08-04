@@ -7,7 +7,7 @@ description: >-
   messages.
 meta: '{"date":"2016-07-07 00:00 UTC","tags":"Messaging API","local":"en"}'
 path: /en/_partials/news/2016/2016-07-07-rich-messages
-__hash__: XWraeZmnnRW7pUvlqUNHMNuYPzFzZoh1ds-QyFYKsdw
+__hash__: fiFhJxQVUcH9LoBYRXS1ZD5VRPbFUr9mo6o9kuV6Rew
 seo:
   title: Sending rich messages section updated
   description: >-

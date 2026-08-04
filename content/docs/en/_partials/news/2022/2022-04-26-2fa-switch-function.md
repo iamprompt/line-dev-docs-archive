@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-04-26 00:00 UTC","tags":"line-login","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-26-2fa-switch-function
-__hash__: oKjnS93S9A3C5MWxpTTQhOfxZFAKl_BxNvzZI29Ogtg
+__hash__: dF4gmpProLm8XH2xvyUrwEywCXtZdxFYRUyDEiOWCYY
 seo:
   title: >-
     [Updated] LINE Login v2.1 is recommended as we'll implement LINE's

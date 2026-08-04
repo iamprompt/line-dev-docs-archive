@@ -6,7 +6,7 @@ description: >-
   Trial. Learn more from these pages:
 meta: '{"date":"2019-05-07 00:00 UTC","tags":"LINE Things","locale":"en"}'
 path: /en/_partials/news/2019/2019-05-07-line-things-updated
-__hash__: KcyH82BnNO8GwYml2i-LRBirJl3fTicN7nPigKXDDLo
+__hash__: wofhywR-iaLqN5-ZwVIELDpRl5OMGaMfmoRdcPT7oTg
 seo:
   title: Automatic communication added to LINE Things Developers Trial
   description: >-

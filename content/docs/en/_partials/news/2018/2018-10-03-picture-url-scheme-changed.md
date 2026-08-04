@@ -9,7 +9,7 @@ description: >-
   property.
 meta: '{"date":"2018-10-03 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2018/2018-10-03-picture-url-scheme-changed
-__hash__: rn48MhuZYKUW6q0-1XLL40D888sjLCj4rILyenYg_9o
+__hash__: MPKrHkMGRvy-ZuM4P5yx_Aot8D9GIlpf39uy5sRoKqg
 seo:
   title: >-
     The scheme of the picture URL returned when getting a user profile has been

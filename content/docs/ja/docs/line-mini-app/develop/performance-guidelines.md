@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/performance-guidelines
-__hash__: z1MyWyLcuYMTE7XAldo5dJh8Xud4LgMr4iLmhfgmGVU
+__hash__: z9qaOzIyc-1HvHbffcS-8NB_uFlrN6YTuPiHoBlhgHU
 seo:
   title: パフォーマンスガイドライン
   description: null

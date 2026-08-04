@@ -4,7 +4,7 @@ navigation: true
 description: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できるようになりました。
 meta: '{"date":"2024-02-01 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-02-01-add-to-home-screen
-__hash__: siXnLx_Yg4001z_i_QILFh7ZTd_QyXi3od6ZZDJUw0Q
+__hash__: Dcw1G1JEeUXqzr02L7E3Hi8sHxqoWrFU_8fzQn2lr08
 seo:
   title: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できるようになりました
   description: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できるようになりました。

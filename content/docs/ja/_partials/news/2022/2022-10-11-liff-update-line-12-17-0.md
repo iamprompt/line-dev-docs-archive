@@ -4,7 +4,7 @@ navigation: true
 description: LINEバージョン12.17.0よりLIFFブラウザの仕様を一部変更します。
 meta: '{"date":"2022-10-11 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-10-11-liff-update-line-12-17-0
-__hash__: '-f_WvPwOEtrge9UQ_XgT2xPmGpGgLjFeWdTs9NcKAq4'
+__hash__: ZS0uCJyjNy06VT5yqdYToZow9xLAIIG3ESyR43mezMA
 seo:
   title: LINEバージョン12.17.0よりLIFFブラウザの仕様を一部変更します
   description: LINEバージョン12.17.0よりLIFFブラウザの仕様を一部変更します。

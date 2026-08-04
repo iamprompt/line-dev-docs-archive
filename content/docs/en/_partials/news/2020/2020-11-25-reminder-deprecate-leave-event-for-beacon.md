@@ -8,7 +8,7 @@ description: >-
   range of Beacon.
 meta: '{"date":"2020-11-25 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-11-25-reminder-deprecate-leave-event-for-beacon
-__hash__: fED1lZ_c9Oy97Z_nXeCZ9-8MBTLdy9xnw_ixcSAbst8
+__hash__: ei7VEM8iwZM3uehPOfmd-05KLcbM5IvhNPw3dnKkmMI
 seo:
   title: 'Reminder: Beacon Leave Event to be deprecated at the end of 2020'
   description: >-

@@ -6,7 +6,7 @@ description: >-
   Framework（LIFF）のサーバーAPIを提供しています。サーバーAPIを利用すると、LINEログインチャネルへのLIFFアプリの追加などの操作をAPI経由で行うことができます。
 meta: '{"date":"2022-10-18 01:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-10-18-liff-server-api
-__hash__: sxrq7YazweO_IaGGs42eFu2UAf3LD5DaVlqDsiwm7j0
+__hash__: FjTL95iZrYVUtfAWGyd6Vig2L_Xc8HLs4k2UGaotMgI
 seo:
   title: LIFFアプリはMessaging APIチャネルには追加できません
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/using-quick-reply
-__hash__: Peqk6DoJ3C8TztRw6IJ265yErMkFD5sQEN7E9F1iBqI
+__hash__: eiUIzxTAEGTn6LtDZTfRqHmw8_JQUH6Ts_g4zF_oFUY
 seo:
   title: クイックリプライを使う
   description: null

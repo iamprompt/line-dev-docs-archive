@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-05-20 00:00 UTC","tags":"Flex Message Simulator, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-05-20-send-test-message-flex-message-simulator
-__hash__: n2-90s9mXNVrFDLW-AnTv0dJrosZpHxP3qVgykTC8po
+__hash__: 7sygxivuY732fW78ZCNM4tZ4foAVkCZEptSrZx71XKY
 seo:
   title: You can now send test messages from Flex Message Simulator
   description: >-

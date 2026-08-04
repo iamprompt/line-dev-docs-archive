@@ -4,7 +4,7 @@ navigation: true
 description: LIFF CLI v0.4において、ローカルの開発サーバーを外部に公開する方法としてngrokを正式にサポートしました。
 meta: '{"date":"2025-06-11 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-06-11-liff-cli-support-ngrok
-__hash__: 2LQkaCarEzJjtwgJH7e8V3qoLDGwzLkC8w6Y8Q_qsWI
+__hash__: nVpXGEEgrgH5BjVL_hIvz_8wz4VTkpjaDeot687mKfk
 seo:
   title: LIFF CLI v0.4でngrokを正式にサポートしました
   description: LIFF CLI v0.4において、ローカルの開発サーバーを外部に公開する方法としてngrokを正式にサポートしました。

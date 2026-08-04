@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIのメッセージオブジェクトが有効かを検証するエンドポイントを追加しました。追加されたエンドポイントは以下のとおりです。
 meta: '{"date":"2022-10-24 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-10-24-validate-message-objects-api
-__hash__: zp3xVmk5LU9Qd6tqEiVI1W9Z-dFA-9hyrk26wVWAQQs
+__hash__: puhabnI9LLBBSF_8wypgUXRZlOLdxsmgxh0ybS-MmbU
 seo:
   title: Messaging APIのメッセージオブジェクトを検証するエンドポイントを追加しました
   description: Messaging APIのメッセージオブジェクトが有効かを検証するエンドポイントを追加しました。追加されたエンドポイントは以下のとおりです。

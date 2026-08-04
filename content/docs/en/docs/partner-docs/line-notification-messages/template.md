@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/docs/partner-docs/line-notification-messages/template
-__hash__: MmtMXxupmv-zcfZ5nugIuU2Sp1O8JxLvPtV7-7qouRM
+__hash__: _WGbum1mYGEPolH0_eK_cAN64qsPS8FMts82_TjsYks
 seo:
   title: LINE notification messages (template)
   description: ''

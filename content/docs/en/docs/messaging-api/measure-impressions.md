@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/measure-impressions
-__hash__: 9FWzzD78ozpvVn1d3ASQzTtWWhLUNxcxmuvNtyzfi4U
+__hash__: Tjwy8Z7KqYClL57oeEXeU100ldPyDdufscPBuqdndW8
 seo:
   title: Measure impressions
   description: null

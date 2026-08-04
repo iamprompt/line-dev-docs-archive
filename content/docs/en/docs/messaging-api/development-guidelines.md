@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/development-guidelines
-__hash__: rPcsTyRS2vN5ryJFyzNTGayMVgHwai-nTwN5Qym_Prw
+__hash__: AxQ25JFgcG49mbDvNuHzsqt_nY81S9EFPmWDHJBDUR0
 seo:
   title: Messaging API development guidelines
   description: null

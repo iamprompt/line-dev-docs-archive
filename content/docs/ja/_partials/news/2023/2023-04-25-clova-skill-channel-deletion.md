@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-04-25 00:00 UTC","tags":"clova-extensions-kit, console,
   end-of-life, life-cycle","locale":"ja"}
 path: /ja/_partials/news/2023/2023-04-25-clova-skill-channel-deletion
-__hash__: eiGGHEwIkwfe1wL70c8z2IhtJYabBYtW5waZCFT8J3s
+__hash__: GZO6YNbftyvJtkrfGUPf1i_6qLp48VF9qNzDnpxEOEE
 seo:
   title: 2023年5月9日にCLOVAスキルチャネルを一括削除します
   description: >-

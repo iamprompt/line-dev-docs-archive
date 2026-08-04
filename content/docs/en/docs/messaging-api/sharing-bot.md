@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/sharing-bot
-__hash__: QoPodMC_1Le5IfqeEVGmOJzPAPp96rsxPF5M9-P6_A0
+__hash__: 13WxqJciDxNFfAlsjb-a2w4qoIDrVYzYsymLVqooz-0
 seo:
   title: Gain friends of your LINE Official Account
   description: null

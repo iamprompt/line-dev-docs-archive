@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"sidebar":false,"feedback_form":false,"search_index":false}'
 path: /ja/terms-and-policies
-__hash__: 4_Rp8Gs_stvH8FrGLgGZc7KlezXJglOxcjc2GyXWxSI
+__hash__: iE1OliRnhTekAaAUgHsg6wVgg-2z2h59mbVhqnmqJR0
 seo:
   title: 規約とポリシー
   description: ''

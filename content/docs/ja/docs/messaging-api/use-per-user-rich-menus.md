@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/use-per-user-rich-menus
-__hash__: ya7w0euKDi8mw5Q2J_6Urr9UssxHZsZm4w_ytR4X2U4
+__hash__: Ua7dFqmBQdaQOxP8oixhtnWvrSs1-Vl9gtYwLuvtRzo
 seo:
   title: ユーザー単位のリッチメニューを使う
   description: null

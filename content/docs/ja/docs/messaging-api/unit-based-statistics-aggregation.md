@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/unit-based-statistics-aggregation
-__hash__: pFzg8OrkpefIk-MNXyf-zx42eGjfRQf9EjJu4ete3kc
+__hash__: ciSbPoG11fMfhfzfN3_iePAte7g5rIE6GY-feDZXxQw
 seo:
   title: 送信したメッセージの統計情報を取得する
   description: null

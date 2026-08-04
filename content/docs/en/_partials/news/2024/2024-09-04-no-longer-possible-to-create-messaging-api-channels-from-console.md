@@ -12,7 +12,7 @@ meta: >-
   console","locale":"en"}
 path: >-
   /en/_partials/news/2024/2024-09-04-no-longer-possible-to-create-messaging-api-channels-from-console
-__hash__: SbXed4LltZOqZVkcTAeOeK7bVBmf3Z4hBFinhLeQ7Ng
+__hash__: Fc3Iuxv7F3vdCGu8DMDuchQQo5xgddUUt98EGaMoWFo
 seo:
   title: >-
     As of September 4, 2024, it's no longer possible to create Messaging API

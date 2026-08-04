@@ -10,7 +10,7 @@ meta: >-
   deprecated","locale":"en"}
 path: >-
   /en/_partials/news/2022/2022-01-18-development-of-line-bot-designer-has-been-finished
-__hash__: 0JQ-GATHJseh-lB45XNgtgP00w1BJ0KF3G7y44w8GnE
+__hash__: gNlCUC1Q5pRdSylGs5KRbgEDyBFlDSBvmFs1s7oP6LM
 seo:
   title: Development of the LINE Bot Designer has been terminated
   description: >-

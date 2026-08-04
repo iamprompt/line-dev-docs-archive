@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/refund-event
-__hash__: G_dnQKAO6vnVdKZHC1zEHHuun_Kig9bcX6IurSTlctQ
+__hash__: skoiZpBZ4BQPmhpoa3eBdozvi0nL1wN9dLQfvzcF7Uc
 seo:
   description: ''
 ---

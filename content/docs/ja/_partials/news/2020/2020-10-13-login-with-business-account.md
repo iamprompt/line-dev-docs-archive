@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールに、ビジネスアカウントでログインできるようになりました。
 meta: '{"date":"2020-10-13 00:00 UTC","tags":"Console","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-10-13-login-with-business-account
-__hash__: i3NcLdleCYVOkTD245EL2FvzGaUnjY2bk20uqTCdSmU
+__hash__: i6B0n8hPPrTnJlDiFQg6xIqfNhl_2G5tmNsMfQiOOQM
 seo:
   title: LINE Developersコンソールにビジネスアカウントでログインできるようになりました
   description: LINE Developersコンソールに、ビジネスアカウントでログインできるようになりました。

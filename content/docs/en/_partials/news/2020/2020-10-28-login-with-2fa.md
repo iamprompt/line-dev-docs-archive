@@ -8,7 +8,7 @@ description: >-
   Developers Console login.
 meta: '{"date":"2020-10-28 00:00 UTC","tags":"Console","locale":"en"}'
 path: /en/_partials/news/2020/2020-10-28-login-with-2fa
-__hash__: 1Bj4bdDyc9do-xWEcvtVvEGYqLdOUcfZt4EZmQADURE
+__hash__: MGOJYd7ohfiT_jsRcFO9bsW5NxGKT7ZqHx39w7hYIdk
 seo:
   title: >-
     Two-factor authentication has been introduced for LINE Developers Console

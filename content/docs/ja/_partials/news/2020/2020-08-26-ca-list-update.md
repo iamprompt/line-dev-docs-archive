@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-08-26 01:00 UTC","tags":"LINE Platform, Maintenance,
   SSL","locale":"ja"}
 path: /ja/_partials/news/2020/2020-08-26-ca-list-update
-__hash__: Fa24ruXrrWuuoBL4uZ1E8B-z6pjTapcQ4NM34KdjprY
+__hash__: 3gQomYC2KxgrouqmX0VPTtr-QKyoVnrb0iSTfqd6-Qw
 seo:
   title: Webhook URLで使用できる認証局を追加しました
   description: Webhook URLにはHTTPSを使用し、LINEが信頼する認証局で発行されたSSL証明書を設定する必要があります。

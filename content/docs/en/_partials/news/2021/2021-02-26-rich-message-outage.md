@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-02-26 02:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-02-26-rich-message-outage
-__hash__: 4BzmTiyGPwRWUQjcbHmvJNezqGGwNH_BW26OiF5YJkQ
+__hash__: hOx3XhfeEBxfiWD-tLNgToohkmFbfZWYJyqkvLfLhF8
 seo:
   title: '[Resolved] Notice about service outage for processing rich menus'
   description: >-

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-04-16 00:00
   UTC","tags":"messaging-api","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/16/bookmark-function-implementation
-__hash__: zq_ujHjBnTh6zfsgqasRKBOP-igWkvJxley4roPuEJI
+__hash__: fF9qj7OajricAB4vuLeMEMXprsygIgcmriNe58X6aSg
 seo:
   title: LINE公式アカウントからの配信内容をあとから確認できるようにするブックマーク機能の作り方
   description: LINE公式アカウントでの情報配信では、その情報をユーザーが「あとで見返したい」というニーズが生まれるようなユースケースもあります。

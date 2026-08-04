@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/mark-as-read
-__hash__: dEhHjqfI2ipNlW0bjZ3wSAvmBQ5X-MOdRYwKafBDWMI
+__hash__: Pwnz9BMVRv91v8SG-5KNtWk8zkWwh3rlO_80vU6UGqc
 seo:
   title: Mark messages as read
   description: null

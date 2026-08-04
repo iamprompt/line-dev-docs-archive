@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-05-26 00:00
   UTC","tags":"line-mini-app","priority":1000,"locale":"en"}
 path: /en/_partials/faq/does-it-cost-money-to-send-notifications-with-line-mini-apps
-__hash__: acEsp8bP5XNv7-i2eq8vdFefXRzADfQWkdMjoJkFeyA
+__hash__: tN3t0FZ8gC8-C10LNm7Uad_rR2rB59gPVDw6ZI1xRZg
 seo:
   title: Does it cost money to send notifications to users from LINE MINI Apps?
   description: >-

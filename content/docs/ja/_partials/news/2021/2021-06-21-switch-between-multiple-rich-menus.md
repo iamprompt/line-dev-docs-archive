@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに、リッチメニューを切り替える機能が追加されました。
 meta: '{"date":"2021-06-21 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-06-21-switch-between-multiple-rich-menus
-__hash__: z_-C-Tf37CPZDP7pEcD_wpD9NRmNnVDwl8xTw9ViXbo
+__hash__: MP9dkovwCatUCjOxAyinWY_F0lBDaAY1qKyErCO8s4E
 seo:
   title: 複数のリッチメニューを簡単に切り替えられるようになりました
   description: Messaging APIに、リッチメニューを切り替える機能が追加されました。

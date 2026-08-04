@@ -6,7 +6,7 @@ description: >-
   Platform.
 meta: '{"date":"2015-08-31 00:00 UTC","tags":"LINE Login"}'
 path: /ja/_partials/news/2015/2015-08-31-spec-change
-__hash__: HOvos6kj_87Z5xmW8dM1oLr9Qi7_A7ISPRUD0F0Nxvg
+__hash__: cns11zuyqQDYcuQl9Ah_-vUjdStS3euyxXGbAQYMch8
 seo:
   title: 'Important: Specification change to API'
   description: >-

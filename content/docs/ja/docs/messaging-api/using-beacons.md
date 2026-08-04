@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/using-beacons
-__hash__: UU4ykqPvJZr9Em3dKjrVm1fQs6cuxgDwS9qk9Jrl9AE
+__hash__: G1JXbwTfJ-JG0aQ3t5bBy_KmY4Zf9Xcm3WWg6WNBqWI
 seo:
   title: LINEでビーコンを使う
   description: null

@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework（LIFF）は、LINE内で動作するウェブアプリのプラットフォームです。
 meta: '{"date":"2018-06-06 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-06-06-liff-released
-__hash__: LPj0BVk0DmKTp_41a_tVx1EsY5hW8LJrslaUk_z4Wlo
+__hash__: mNAuAn5oBMTHnmDo5MbtpFbM6-ytZLX_waaJprX7r-E
 seo:
   title: LINE Front-end Frameworkがリリースされました
   description: LINE Front-end Framework（LIFF）は、LINE内で動作するウェブアプリのプラットフォームです。

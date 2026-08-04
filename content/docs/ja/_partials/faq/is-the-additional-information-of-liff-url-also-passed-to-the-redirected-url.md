@@ -9,7 +9,7 @@ meta: >-
   line-mini-app","priority":1000,"locale":"ja"}
 path: >-
   /ja/_partials/faq/is-the-additional-information-of-liff-url-also-passed-to-the-redirected-url
-__hash__: 53pq4G1-ynp38sfR2YOJMEMPUKGUCfLplfzlVQGPJ-c
+__hash__: VWEoicQCwK6A_dBOVDvVbAR5wuWcP4qvYglwQFTF_pY
 seo:
   title: LIFF URLにアクセスした際に付与されていた追加情報（パス、クエリパラメータ、URLフラグメント）は、リダイレクト先のURLにも付与されますか？
   description: >-

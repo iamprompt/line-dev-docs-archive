@@ -7,7 +7,7 @@ description: >-
   continue to provide the API.
 meta: '{"date":"2020-02-07 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-02-07-liff-server-api-update
-__hash__: yVd3rsSAqlsRkroRBTJDd-FUKr9ML8R363R2uHYkMoU
+__hash__: tEARsgOKHCf2vhz9oTmOCBQajmqNwsiw4t0bFiIXjpo
 seo:
   title: Notice about LIFF v1 APIs and discontinuation schedule change
   description: >-

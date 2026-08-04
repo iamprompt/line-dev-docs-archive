@@ -4,7 +4,7 @@ navigation: true
 description: Now you can set the following properties to your LIFF apps.
 meta: '{"date":"2018-11-16 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-16-patch-api-about-liff
-__hash__: GVoUXiQb-plFBavvWEmVbzpS_Fl0fPtLBsIuyxi7VCk
+__hash__: rbekusScxVm3bXGHmMuaNIhuy8_hBmn5o-f5QX6IIac
 seo:
   title: Renewed LIFF server API
   description: Now you can set the following properties to your LIFF apps.

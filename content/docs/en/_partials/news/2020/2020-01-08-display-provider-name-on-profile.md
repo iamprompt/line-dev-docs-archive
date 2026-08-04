@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-01-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-08-display-provider-name-on-profile
-__hash__: X5OWMB-DktNDJ-TR03ea7bjZwndgzF599Ay3Un3rjwY
+__hash__: XmN-vQgqnpI8P2a8dQx2C_h8Aawdftjr1f3R8I452ag
 seo:
   title: '[Updated] Make sure the provider name is correct'
   description: ''

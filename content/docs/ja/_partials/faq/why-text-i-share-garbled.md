@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/why-text-i-share-garbled
-__hash__: kqqKt4fYJRHWXCTGnadYQBTZ3p6zwsm6mZiVS8xBscg
+__hash__: fHzr6CPIIlvLjkGc8KR8WLxQ0iqqzy78kf9hcxN7xEE
 seo:
   title: '「LINEで送る」ボタンで送信した文字が文字化けする理由は何ですか？ '
   description: 文字コードが間違っている可能性があります。UTF-8の文字コードでパーセントエンコードされた文字列が送信されているかご確認ください。

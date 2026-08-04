@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-04-18 09:30 UTC","tags":"Clova Extensions
   Kit,Clova","locale":"ja"}
 path: /ja/_partials/news/2019/2019-04-18-clova-extensions-kit-tutorial
-__hash__: P1TRR2DR-X2ep-MXD8xM7g8NYjf-LPRXOCMBHfswFSU
+__hash__: DVaullpJEvjhkCAd1HxjtTteLN0WAMKm57s37bIXxqI
 seo:
   title: Clova Extensions Kitのチュートリアルがリリースされました
   description: Clova Extensions Kitのチュートリアルがリリースされました。

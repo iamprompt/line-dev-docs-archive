@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/set-webhook-endpoint-url
-__hash__: BOBDg-hZA1DqKIMYkMwbmLsMeATodteRC0sA8E0q1WU
+__hash__: iTnw1ig-HiVGZ-DgvLFU-OQEP6iPVXRtv-GI9Z66ci8
 seo:
   description: ''
 ---

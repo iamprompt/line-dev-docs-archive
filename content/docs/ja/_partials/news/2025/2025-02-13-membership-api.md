@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-02-13 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"ja"}
 path: /ja/_partials/news/2025/2025-02-13-membership-api
-__hash__: sswsmko0hkoPE1pVO05cu1_xxDYh7brOtD4YDlGvC4E
+__hash__: hJNdIYRgm4ntV1ufMYW7Z1Uxh_dveS8Z8YMPoEhUgAg
 seo:
   title: Messaging APIにおいて、メンバーシップに関するエンドポイントとWebhookイベントの提供を開始しました
   description: >-

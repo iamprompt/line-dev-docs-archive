@@ -7,7 +7,7 @@ meta: >-
   end-of-life, docs","locale":"ja"}
 path: >-
   /ja/_partials/news/2023/2023-10-26-finish-providing-line-sdk-for-ios-objective-c
-__hash__: Cy_okMcixOLTDILafJf0ayYa3QkGok3afXQCA787Xss
+__hash__: PVTH9s3rN1HuFTkFNBtpejKtJAQgJeF3ah2uo7aPS78
 seo:
   title: LINE SDK for iOS Objective-Cの提供を終了しました
   description: 2023年10月26日をもって、LINE SDK for iOS Objective-Cの提供を終了しました。

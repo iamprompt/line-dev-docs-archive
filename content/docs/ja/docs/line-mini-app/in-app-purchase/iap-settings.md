@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/iap-settings
-__hash__: 6jF15nc7gdEO1FmY58QqJS_kYVnOD4eTNrT0slesNYk
+__hash__: ToeAwCKcaJjLHowh2rsLIle9n46y9bIXibAwz9_KMgQ
 seo:
   title: アプリ内課金の設定を行う
   description: null

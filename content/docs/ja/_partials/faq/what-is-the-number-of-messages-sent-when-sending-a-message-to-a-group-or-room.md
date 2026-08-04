@@ -9,7 +9,7 @@ meta: >-
   messaging-api","priority":1000,"locale":"ja"}
 path: >-
   /ja/_partials/faq/what-is-the-number-of-messages-sent-when-sending-a-message-to-a-group-or-room
-__hash__: Wu23qk3mscpWedzvSFjBSbfSPzEuc1aY5MlevDobPBc
+__hash__: DC9iRiAeZRH2oZWnBdnrvbUTe4uVQJySPkxE60K9CB0
 seo:
   title: >-
     メッセージオブジェクトを複数件（例：4件）指定したプッシュメッセージを、複数人数（例：5人）がいるグループトークまたは複数人トークに1回送った場合、カウントされるメッセージ通数は何通ですか？

@@ -10,7 +10,7 @@ meta: >-
   {"date":"2018-03-20 00:00 UTC","tags":"LINE
   Platform,Maintenance","locale":"en"}
 path: /en/_partials/news/2018/2018-03-20-change-ssl-root-certificate
-__hash__: yPciXLr5nWyZhUjrvy0fffO7o4n3ki3YMBZktVGIMII
+__hash__: jqjSExqeK0NKwu_AVYTTKzEtLOtO7LOJuBGEIzYogMc
 seo:
   title: SSL root certificate authority for api.line.me will change
   description: >-

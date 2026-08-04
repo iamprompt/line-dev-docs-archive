@@ -6,7 +6,7 @@ description: >-
   Framework（LIFF）のサーバーAPIを提供しています。サーバーAPIを用いると、LIFFアプリをチャネルに追加するといった管理をAPI経由で行えます。
 meta: '{"date":"2022-03-09 01:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-03-09-liff-server-api
-__hash__: pU55vYY6tWx0LL5kcqiETv1lxu7k6hl5xGvfrok_WWU
+__hash__: afXx2nMxKPP6TIoADLYnDin-KScLBA2esewSuyT_pow
 seo:
   title: LIFFのサーバーAPIへのリクエスト時は正しいエンドポイントを利用してください
   description: >-

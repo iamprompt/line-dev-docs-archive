@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/getting-started
-__hash__: WrpT0CMuRTvoR9RVdjOzHRsTWFkuI1GP3GUhXgNZ-SA
+__hash__: 6ulJ_GVL9HVULyCfHHyjOjINH8u7vM-qqR373U-K2mU
 seo:
   title: Messaging APIを始めよう
   description: null

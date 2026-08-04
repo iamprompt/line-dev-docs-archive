@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/validate-batch-control-rich-menus-request
-__hash__: kj31gT-6eMleeotIzHkIu56_2-gShDJYi6_8lA15ZIc
+__hash__: GVwgGSY7xOvDn5Fnz7KiR3ONEZ-lJT-Dr7MN8IW1Rn8
 seo:
   description: ''
 ---

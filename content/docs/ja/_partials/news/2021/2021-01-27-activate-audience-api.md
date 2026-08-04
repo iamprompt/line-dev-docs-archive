@@ -4,7 +4,7 @@ navigation: true
 description: LINE広告やLINEポイントADで作成、共有されたオーディエンスを、Messaging APIからも利用できるようになりました。
 meta: '{"date":"2021-01-27 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-01-27-activate-audience-api
-__hash__: Tp8FisoMae_W4m26m0-hQNEh8nYATeLJ_xzUtCeaa-4
+__hash__: _WRj--fiMYwysxZrxyTHJL0Em-uchmaU84aYS1maNFo
 seo:
   title: LINE広告やLINEポイントADで作成したオーディエンスをMessaging APIから利用できるようになりました
   description: LINE広告やLINEポイントADで作成、共有されたオーディエンスを、Messaging APIからも利用できるようになりました。

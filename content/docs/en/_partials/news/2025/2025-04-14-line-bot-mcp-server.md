@@ -11,7 +11,7 @@ description: >-
   LINE Official Accounts as friends.
 meta: '{"date":"2025-04-14 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2025/2025-04-14-line-bot-mcp-server
-__hash__: obLd3-VHUMkNZeyQrQmOeJKbcoFpbdwrLZr9sCjaWwg
+__hash__: D9OHzuEC1ycfe1TkNCWnmEVZfqPdB-LekHCsLq2lH30
 seo:
   title: >-
     The MCP server for the Messaging API, "LINE Bot MCP Server" has been

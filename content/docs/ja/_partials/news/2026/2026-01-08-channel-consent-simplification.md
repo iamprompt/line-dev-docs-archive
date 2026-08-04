@@ -5,7 +5,7 @@ description: >-
   2025年10月31日にお知らせしたとおり、日本の新規LINEミニアプリチャネルにおいて、2026年1月8日より「チャネル同意の簡略化」機能の利用が必須になりました。
 meta: '{"date":"2026-01-08 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-01-08-channel-consent-simplification
-__hash__: pwcPk9QFxJpzuFnaBRE4Wm7laosIHcQHbWweA_DbscI
+__hash__: dbAOEtG7jgXgl35dcBzAD49G-5l-y8jtfBjBeCLCz-4
 seo:
   title: 日本の新規LINEミニアプリチャネルにおいて、2026年1月8日より「チャネル同意の簡略化」機能が常に有効になりました
   description: >-

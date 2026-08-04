@@ -4,7 +4,7 @@ navigation: true
 description: The LINE MINI App header design has changed starting September 06, 2021.
 meta: '{"date":"2021-09-06 00:00 UTC","tags":"LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2021/2021-09-06-migration-to-fullview-type
-__hash__: DInWP7Zt_qr3hWIWq6AAyXdLuHbS2KMhp56qLs6rpT0
+__hash__: tIgZZ03WITQYqG0q5Tj7BXplyCcueA2frUbzazb5EpE
 seo:
   title: Header design has changed for the LINE MINI App
   description: The LINE MINI App header design has changed starting September 06, 2021.

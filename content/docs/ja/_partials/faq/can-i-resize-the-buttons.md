@@ -7,7 +7,7 @@ meta: >-
   {"date":"2023-11-20 7:21
   UTC","tags":"social-plugins","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-resize-the-buttons
-__hash__: w-MqbWC1ULVSlrmdGFirD3-Hwlq9dRXSylhpV0rFs9I
+__hash__: j1z4kxfNDdH2e9FUTuCZZ3K9aaRQ52wj7xborHYeDK0
 seo:
   title: ボタンのサイズは変更できますか？
   description: >-

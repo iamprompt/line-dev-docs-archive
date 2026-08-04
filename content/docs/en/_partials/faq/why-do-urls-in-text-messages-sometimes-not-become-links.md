@@ -9,7 +9,7 @@ meta: >-
   {"date":"2024-04-24 00:00 UTC","tags":"line-app, line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/why-do-urls-in-text-messages-sometimes-not-become-links
-__hash__: DWkUlf51bkWmjQUEGX4f7PcfGeCmP1KInr-xLjQAL-4
+__hash__: NO-tzPWiKJc86zP8Px9Y2ws9kOTjSlqLLJNwnkje9po
 seo:
   title: Why do URLs in text messages sometimes not become links?
   description: >-

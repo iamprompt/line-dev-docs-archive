@@ -9,7 +9,7 @@ meta: >-
   {"date":"2020-07-15 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2020/2020-07-15-messaging-api-outage
-__hash__: DEPbmEG-TW8rDAN90cTAvcmHjWse016oqT5Mg0lTHxI
+__hash__: Syemsg2YIxw9UrRwYGbAqPLlS8IO7duLlgdxJGnZvU4
 seo:
   title: '[Resolved] Notice about service outage for sending webhook events'
   description: >-

@@ -6,7 +6,7 @@ description: >-
   APIの「マルチキャストメッセージを送る」エンドポイントのレート制限を変更しましたのでお知らせします。
 meta: '{"date":"2025-04-23 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-04-23-messaging-api-rate-limit
-__hash__: QF-b4F_JW453CffeIEDpuMo45zcJhytwyOiZrdP1rxc
+__hash__: 52swUYJdgX4jE9BR7rNN-1kKnd7JO-F8Yvq7K6Qe9gQ
 seo:
   title: 2025年4月23日にMessaging APIの「マルチキャストメッセージを送る」エンドポイントのレート制限を変更しました
   description: >-

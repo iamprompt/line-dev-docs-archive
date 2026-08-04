@@ -5,7 +5,7 @@ description: >-
   以下のエンドポイントは、タイ（TH）のユーザーが作成したLINE公式アカウントでは統計情報を取得できない制限がありました。本日から、この制限が解除されたことをお知らせします。
 meta: '{"date":"2019-10-30 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-10-30-new-insight-api
-__hash__: Vy1k9RGhuXGSbB3PXniAJtX2ks3bRTpIzhlwf-iG-2s
+__hash__: JXGuUkGKN2-srErpSSBcDFxIiCkt2Z2bqG25mAanl3s
 seo:
   title: 統計情報を取得するエンドポイントがタイ（TH）でも使えるようになりました
   description: >-

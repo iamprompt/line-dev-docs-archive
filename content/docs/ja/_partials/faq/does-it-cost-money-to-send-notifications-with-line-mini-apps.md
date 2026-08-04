@@ -7,7 +7,7 @@ meta: >-
   {"date":"2026-05-26 00:00
   UTC","tags":"line-mini-app","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/does-it-cost-money-to-send-notifications-with-line-mini-apps
-__hash__: ci11iYvJCEqzAivuiTDhEdJMcQ_fyXUDxVAzcHWbzUw
+__hash__: wkKPxo7jQxwomKnAR4yLynedAriry1-1_HqDedrsgDE
 seo:
   title: LINEミニアプリでユーザーに通知を送る場合、料金はかかりますか？
   description: >-

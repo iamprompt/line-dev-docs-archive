@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/technicalcase/classmethod
-__hash__: mwEkrkX3OboLYSMCAb0S3c6MzHtznZnrzXl5KSQqoME
+__hash__: ybPgxWiG5s_6tWYLfR61_bSqZOwp0Z2xOsYKahjuyks
 seo:
   title: A case study of mobile order system CX ORDER
   description: ''

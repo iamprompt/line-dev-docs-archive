@@ -11,7 +11,7 @@ meta: >-
   {"date":"2023-11-16 00:00 UTC","tags":"line-mini-app, android,
   ios","locale":"en"}
 path: /en/_partials/news/2023/2023-11-16-mini-push-notification
-__hash__: 7ZiB5nc9kAD41Z3WRPe1xnmTy4Qparwh8WO5refLXlQ
+__hash__: t3FUyi8W2hDR9UyO8hs6RWysd_dZsXaW6NRPWtdu_O4
 seo:
   title: >-
     In LINE MINI Apps, the channel name is now displayed in push notifications

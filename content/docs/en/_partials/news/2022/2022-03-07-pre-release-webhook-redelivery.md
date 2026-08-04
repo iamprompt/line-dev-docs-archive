@@ -7,7 +7,7 @@ description: >-
   are planning to add a feature to redeliver it.
 meta: '{"date":"2022-03-07 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2022/2022-03-07-pre-release-webhook-redelivery
-__hash__: cU6nUbVLuAamAp1Dna6a3V3vIrhnx9SafcXe2GFPCJk
+__hash__: QMzlTIOZCJ7kHdPFAxejsJ-r8kipdr_VsfB_amTIcAA
 seo:
   title: >-
     Webhook redelivery feature will be added to Messaging API in early April

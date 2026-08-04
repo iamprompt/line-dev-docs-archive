@@ -10,7 +10,7 @@ meta: >-
   {"date":"2022-02-10 00:00 UTC","tags":"messaging-api, liff, line-mini-app,
   LINE Login, console, line-blockchain","locale":"en"}
 path: /en/_partials/news/2022/2022-02-10-country-or-region-setting-request
-__hash__: 2Ev_malSV94fM0uSloY5R1bO4y5F0Eii4Rtdx68s_N0
+__hash__: wHXDCSoI1i3moJS6MOkh9FM7yUGqNYrXrfzr2Gk93tg
 seo:
   title: >-
     [Updated] With the enforcement of the Amended Act on the Protection of

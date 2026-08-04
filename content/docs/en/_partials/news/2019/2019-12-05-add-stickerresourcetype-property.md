@@ -6,7 +6,7 @@ description: >-
   you when a sticker message is sent.
 meta: '{"date":"2019-12-05 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-12-05-add-stickerresourcetype-property
-__hash__: VkYPblUYEQx7hpyEJT_y47m5g5UjeJ-6abWI0K0MgFc
+__hash__: dwcBoU402tiyHyssSUwJNnmpxrTiwpPndIH0T7pjDwc
 seo:
   title: New property added to "sticker message" webhook event
   description: >-

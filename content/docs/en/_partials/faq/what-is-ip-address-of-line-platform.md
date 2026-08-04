@@ -11,7 +11,7 @@ meta: >-
   {"date":"2024-04-04 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/what-is-ip-address-of-line-platform
-__hash__: ZFgyJSNXyniivkQUZM5ay_8RwjX1-6ehmj1g1IFwj-g
+__hash__: WZU1lq_SmsX1C-W_4lZNKJ8_3_G1KBgC6k9H8VhuXRw
 seo:
   title: >-
     I want to restrict access to the bot server from non-LINE Platform. Is the

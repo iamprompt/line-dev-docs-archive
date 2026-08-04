@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-07-04 00:00 UTC","tags":"Messaging API, Rich
   menu","locale":"ja"}
 path: /ja/_partials/news/2023/2023-07-04-messaging-api-updated
-__hash__: QI3Qh8a52k_tsrKcSkwVceK9oxRMU-sC4vG_e5l15bw
+__hash__: BDae1pS5OE2J91gy7s2q7RIkB7gW_a9tuA3BlRBExfI
 seo:
   title: Messaging APIにおいて、ユーザーにリンク済みのリッチメニューを一括で置き換えたり、解除したりできるようになりました
   description: Messaging APIにおいて、ユーザーにリンク済みのリッチメニューを一括で置き換え・解除するエンドポイントを追加しました。

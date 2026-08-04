@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-06-28 00:00 UTC","tags":"line-login, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-06-28-require-2fa-on-channels
-__hash__: IcReqmbNw3ppYyGVr5zxNfgE9YMCW7U49luzwzRPHE0
+__hash__: tDwlB7m4v03KS0cvJL5uCzbvBv1B8tEeJ3jiH7OdVHQ
 seo:
   title: >-
     [Updated] Service providers can now require two-factor authentication for

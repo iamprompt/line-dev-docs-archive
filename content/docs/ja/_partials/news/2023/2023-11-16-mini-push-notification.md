@@ -7,7 +7,7 @@ meta: >-
   {"date":"2023-11-16 00:00 UTC","tags":"line-mini-app, android,
   ios","locale":"ja"}
 path: /ja/_partials/news/2023/2023-11-16-mini-push-notification
-__hash__: rcLBg7bMzdCOHF2VjS-bykTu3sx1QaYZM0M_6wHo3CI
+__hash__: 1H_wNFBrJPIiLqbsERMe-ncFN_TmRFuPHOZkabQccRs
 seo:
   title: LINEミニアプリにおいて、サービスメッセージのプッシュ通知にチャネル名が表示されるようになりました
   description: >-

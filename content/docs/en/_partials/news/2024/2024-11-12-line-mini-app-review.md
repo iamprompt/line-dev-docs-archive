@@ -11,7 +11,7 @@ description: >-
   inconvenience that this may cause and thank you for your understanding.
 meta: '{"date":"2024-11-12 00:00 UTC","tags":"line-mini-app, console","locale":"en"}'
 path: /en/_partials/news/2024/2024-11-12-line-mini-app-review
-__hash__: _UbBDUoPsbL5nNmc4OBJVp8mbQMEcEN9oYSY_vFtWqY
+__hash__: BUYve5ejR2_l-kxafml0vZX5mTzgaLpZ3Mpw6y1ItcI
 seo:
   title: >-
     Notice of temporary suspension of LINE MINI App review due to addition of

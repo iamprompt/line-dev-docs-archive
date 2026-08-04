@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIのWebhookイベントにmodeプロパティが追加されました。
 meta: '{"date":"2019-12-17 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-12-17-mode-property-for-webhook
-__hash__: 54xZFEvZeDiFmjAzTJYIJTCttkVnKPtnMQOL7vfbF24
+__hash__: vO3RDCwRGQXuTZ7F6apAAWlzNxX2DxWGWxsBYm_5PmY
 seo:
   title: Webhookイベントにmodeプロパティが追加されました
   description: Messaging APIのWebhookイベントにmodeプロパティが追加されました。

@@ -9,7 +9,7 @@ description: >-
   MINI Apps.
 meta: '{"date":"2021-08-12 00:00 UTC","tags":"LINE MINI app, console","locale":"en"}'
 path: /en/_partials/news/2021/2021-08-12-channel-consent-simplification
-__hash__: tQiXBHONqAedpL-wWBf8Y1LEL0TU3T0yEe-_tlrzxB0
+__hash__: lHhib7LsaPMUe8u3nxW4T15VLN6CrmtgSWPUTih0S_E
 seo:
   title: >-
     Skip the consent screen with the newly-released "Channel consent

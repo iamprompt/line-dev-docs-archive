@@ -6,7 +6,7 @@ description: >-
   users can no longer add LIFF apps to Messaging API channels.
 meta: '{"date":"2020-02-05 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-02-05-liff-channel-type
-__hash__: 9LqEzXxgB1IlYbiNYwCqV39SvfN12e2M9rrXQYjRQec
+__hash__: fJqIelLxpJ_pxDMpk978p9PLH2O2OVP90kVgMERjuys
 seo:
   title: Users can no longer add LIFF apps to Messaging API channels
   description: >-

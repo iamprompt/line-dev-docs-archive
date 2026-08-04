@@ -9,7 +9,7 @@ meta: >-
   {"date":"2018-03-29 00:00 UTC","tags":"Outage report, LINE
   Platform","locale":"en"}
 path: /en/_partials/news/2018/2018-03-29-server-outage
-__hash__: QT1PmUYhEe5Io2eyEqXaGNmMm0p-N63Vku0O9SRyJfs
+__hash__: 4hsmi6T8TacR_cTEfC8k_-7rZszNR27_w2jC3a2L-YA
 seo:
   title: '[Resolved] Notice about service outage for Messaging API'
   description: >-

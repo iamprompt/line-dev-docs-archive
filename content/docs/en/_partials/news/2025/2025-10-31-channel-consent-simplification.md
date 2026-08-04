@@ -7,7 +7,7 @@ navigation: true
 description: ''
 meta: '{"date":"2025-10-31 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-10-31-channel-consent-simplification
-__hash__: Xd3t726tY8jbL8iOovfyhhd_a5uYxZDhEaUtdYJSHF0
+__hash__: Jksq0tEbKlYbZTWrI3H43awGy9CKoOf_xVH5UPtUJjA
 seo:
   title: >-
     [Updated] For new LINE MINI App channels in Japan, the use of the

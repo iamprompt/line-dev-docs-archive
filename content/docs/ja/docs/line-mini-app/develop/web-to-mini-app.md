@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/web-to-mini-app
-__hash__: uX5HO36BhH5wndpuxABgsrlMkOB0cZICMOIC-Ukcg5Q
+__hash__: HoCUAV03TirjFQ9onVlHmjJlk4suPPvId_aeEf02ixc
 seo:
   title: 運用中のウェブアプリをLINEミニアプリ化する
   description: null

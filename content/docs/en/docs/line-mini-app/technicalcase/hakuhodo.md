@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/technicalcase/hakuhodo
-__hash__: H88sj82h2EF6QDJOnXTb88ubsJDN5DQt350Da-rlAIE
+__hash__: fKyHLLesjZgBsfwJtb61EkRduEQaAGTqQB_zOVG2zHs
 seo:
   title: >-
     A development case study of “PoHUNT,” a digital revitalization initiative

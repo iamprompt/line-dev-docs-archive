@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-10-18 00:00 UTC","tags":"outage-report,
   messaging-api","locale":"ja"}
 path: /ja/_partials/news/2024/2024-10-18-messaging-api-outage
-__hash__: ZfGvE9bwCrfnLhuPAZrITOGUwuEzRBoV5rs7Kex5ZRw
+__hash__: rBh1cc6wij1O5c0zc_KH_Zw5uKzW00QGjo3I0bBBT9g
 seo:
   title: 【復旧済み／更新】Messaging API障害のお知らせ
   description: ''

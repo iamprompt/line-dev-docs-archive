@@ -6,7 +6,7 @@ description: >-
   Console.
 meta: '{"date":"2018-11-15 03:00 UTC","tags":"Maintenance","locale":"en"}'
 path: /en/_partials/news/2018/2018-11-15-login-method-added
-__hash__: zNTJ1cGNsnAeBDQb93uaI9Is1Or4vpB_Eiloq8HMZZY
+__hash__: PN-z5fS_V6LNTXIR7WQ1TfD8pinS2PRsDtO8Xl2-1ns
 seo:
   title: A new login method has been added
   description: >-

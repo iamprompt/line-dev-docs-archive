@@ -6,7 +6,7 @@ description: >-
   Account Manager and LINE Ads.
 meta: '{"date":"2020-02-03 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-02-03-release-audience-sharing
-__hash__: PBWmSKnR_zDA5Szj8PoIRYXIs27Pu1EsvHD-yoI8fWI
+__hash__: HgHf-A6WtCblF0tvnv9FaL-npXoFKvmqYyGN-pt-vOE
 seo:
   title: Audience sharing now available
   description: >-

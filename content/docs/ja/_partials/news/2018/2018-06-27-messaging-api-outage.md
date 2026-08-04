@@ -6,7 +6,7 @@ meta: >-
   {"date":"2018-06-27 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2018/2018-06-27-messaging-api-outage
-__hash__: AFkgqxN7mi8WH2aT-1KhD7vUMZ9ZnAI9Kk_SNMqDkAQ
+__hash__: 2X7DI2YyJbyQ9ONxcOrnJEY9PPaPCJXbzlXtNryFL3Y
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: >-

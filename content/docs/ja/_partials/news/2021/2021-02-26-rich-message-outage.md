@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-02-26 02:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-02-26-rich-message-outage
-__hash__: IGpexzqK3YziyQ4Mj54kwOPSbEknVnqmFBIYhw77h_8
+__hash__: Fr0mt_IuIs0sxpwSFqTJry52UY6jZEefH_APF4sUrIY
 seo:
   title: 【復旧済み】リッチメニューの処理障害のお知らせ
   description: >-

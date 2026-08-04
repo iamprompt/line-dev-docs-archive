@@ -5,7 +5,7 @@ description: LINEミニアプリを認証済ミニアプリにするために、
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /ja/docs/line-mini-app/submit/submission-guide
-__hash__: eHF23XNWvHGPB5I6WL811c2X5wN3VhB8oC0QY86aMPo
+__hash__: qEqFc4F9Bl9bnM8WL0xergMfQiWmHk2S07l_fPFp0NI
 seo:
   title: 審査を依頼する
   description: LINEミニアプリを認証済ミニアプリにするために、LINEヤフー株式会社による審査を受けます。

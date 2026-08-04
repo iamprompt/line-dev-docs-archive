@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-05-13 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-05-13-richmenu-keyboard
-__hash__: 30WpNlQCAyEHdugGGilNj2SXV09v8jSbwSgGO14X-u4
+__hash__: jdY_q6zeXFkAVsySy3tvhUb9fBkXTX8UR8KK80I9bEY
 seo:
   title: 【更新】リッチメニューをタップしたときに、リッチメニューを自動で開閉する機能などを追加しました
   description: ''

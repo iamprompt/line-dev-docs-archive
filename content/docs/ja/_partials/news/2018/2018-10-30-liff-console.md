@@ -6,7 +6,7 @@ description: >-
   Developersコンソールで追加できるようになりました。今までと同様に、LIFFサーバーAPIでもLIFFアプリを追加できます。
 meta: '{"date":"2018-10-30 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-10-30-liff-console
-__hash__: jmAHvjYrrfWdRzs7TtJ6Vb3wQfZ108iBM1P7yRr-2jA
+__hash__: _JzxSXJQcJ98Ibtoe14nyJcuT2-ITcVwW5EXpbdQoco
 seo:
   title: LIFFアプリをLINE Developersコンソールで追加できるようになりました
   description: >-

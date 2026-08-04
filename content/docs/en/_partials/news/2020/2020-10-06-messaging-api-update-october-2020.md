@@ -4,7 +4,7 @@ navigation: true
 description: We added new endpoints to the Messaging API.
 meta: '{"date":"2020-10-06 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-10-06-messaging-api-update-october-2020
-__hash__: mknYXBfejNAhtKjAuU-nJAE9iXujzOMFFGkCJWC_Ryo
+__hash__: IjaCx6CskAKkxWW0uRl-UKfr6z-pG12cJA9aFhP3nmA
 seo:
   title: Messaging API update for October 2020
   description: We added new endpoints to the Messaging API.

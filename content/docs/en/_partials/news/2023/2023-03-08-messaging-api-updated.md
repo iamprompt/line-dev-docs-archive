@@ -6,7 +6,7 @@ description: >-
   included in the mention property of the webhooks.
 meta: '{"date":"2023-03-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2023/2023-03-08-messaging-api-updated
-__hash__: ZOHXoIkr_stvSST4J2pCzb3apO5JReY5qzOHq1BQhEM
+__hash__: pyL6QhWvR3smhTNwB0crxB5Ud4oInVIcM2x3LwV_5wk
 seo:
   title: Messaging API now includes @All in the mention property of the webhooks
   description: >-

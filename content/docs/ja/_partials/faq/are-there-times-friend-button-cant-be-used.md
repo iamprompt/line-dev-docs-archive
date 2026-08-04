@@ -7,7 +7,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-friend","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/are-there-times-friend-button-cant-be-used
-__hash__: FYzNm3tmD3uYoHZlHOL8FvURA5SeFSvUVL0Fj_AIL4Y
+__hash__: VTmjo9hUzRTDMKWKo1qLrOvlbLsTq2F4HNTZ8IgvyCo
 seo:
   title: '設置した「友だち追加」ボタンから友だち追加ができないケースはありますか？ '
   description: >-

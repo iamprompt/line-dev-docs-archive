@@ -11,7 +11,7 @@ meta: >-
   {"date":"2026-01-22 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/why-do-i-get-429-error-during-message-delivery
-__hash__: f8lrk9Hv6lMJUGj7wsbMY4YqeYBFFzNGrO6GGXjhskc
+__hash__: qEIvx3lzCOLDrOrZwRPf8vWCTKdwUAMQFUgh2Q36Hmg
 seo:
   title: >-
     当月に配信できるメッセージ数はまだ残っているのに、メッセージ送信時に429 Too Many Requests（You have reached

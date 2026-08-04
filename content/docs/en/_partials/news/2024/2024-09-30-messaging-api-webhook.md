@@ -11,7 +11,7 @@ description: >-
   Messaging API.
 meta: '{"date":"2024-09-30 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-09-30-messaging-api-webhook
-__hash__: pI-Rs_Of2u0SzLLDVY6CgqC_jCJd1K06prpji-PYJAg
+__hash__: zkK4Lpl18I36RB4zaGR28aFyAQcQl4t6Ac4Uof3KVOM
 seo:
   title: >-
     As of late October 2024, in the Messaging API, it will be possible to

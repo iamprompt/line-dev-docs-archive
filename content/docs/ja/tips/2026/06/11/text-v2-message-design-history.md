@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-06-11 00:00
   UTC","tags":"messaging-api","locale":"ja","sidebar":false}
 path: /ja/tips/2026/06/11/text-v2-message-design-history
-__hash__: iKUclHoZJGQmxR-o0D93xAd9oJChwwdl3Sd6E4ElEUY
+__hash__: ITUBLX0XQfht4jb_WJJ5hIMgA2dfBP_EFpOLkhJE9A4
 seo:
   title: Messaging APIのテキストメッセージ（v2）のシンタックスが決まるまで
   description: こんにちは。Messaging APIの開発を担当しているエンジニアの羽原です。

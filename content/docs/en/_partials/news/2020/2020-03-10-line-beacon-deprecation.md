@@ -4,7 +4,7 @@ navigation: true
 description: 'LINE Beacon will no longer be supported on the following LINE versions:'
 meta: '{"date":"2020-03-10 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-03-10-line-beacon-deprecation
-__hash__: sSDqV_4JcUXF3cmKBNSVXIJ9__gHB9istjy7p9fbV3Y
+__hash__: VvPc6nw8MoTZg19maPrvVTmcPORabrsRRM_EspUiEB8
 seo:
   title: LINE Beacon no longer supported on several LINE versions from March 25, 2020
   description: 'LINE Beacon will no longer be supported on the following LINE versions:'

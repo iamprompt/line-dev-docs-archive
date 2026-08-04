@@ -9,7 +9,7 @@ description: >-
 meta: '{"date":"2024-02-06 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: >-
   /en/_partials/news/2024/2024-02-06-add-friends-and-unblock-friends-can-now-be-determined-by-webhook
-__hash__: 7ZK5tL4auoKPeH9br2g4HRWjouzc9B4OJ3DVeUzSz_U
+__hash__: eb8cRHYUt6iWAgK7psy1Oc0_x3kZKjr3GFjhla9sscs
 seo:
   title: >-
     In the Messaging API, you can now determine whether a user has added your

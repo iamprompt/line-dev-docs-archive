@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-10-30 00:00 UTC","tags":"Messaging API, Template
   messages","locale":"en"}
 path: /en/_partials/news/2017/2017-10-30-carousel-column-objects-increased
-__hash__: 9n3MWXRrqSoTvo-h1h_MBcCuKPO5IkfYTf-Wd7wWkk8
+__hash__: vPHWX2etntWv-CQxzZJUWvj9qNBEePtHfCRlIENz0ss
 seo:
   title: Column objects for template messages increased
   description: >-

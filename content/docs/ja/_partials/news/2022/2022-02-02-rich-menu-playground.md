@@ -7,7 +7,7 @@ meta: >-
   {"date":"2022-02-02 00:00 UTC","tags":"messaging-api,
   rich-menu","locale":"ja"}
 path: /ja/_partials/news/2022/2022-02-02-rich-menu-playground
-__hash__: EY2W-H4XvMCwYnlXZ_PAKatADJ7t9CrUKnLbAQIKZnk
+__hash__: u_5oa0eh3nRAzXHLU7ElJAsoJry5VYGUWLcoDf3TldM
 seo:
   title: リッチメニュープレイグラウンドを公開しました
   description: >-

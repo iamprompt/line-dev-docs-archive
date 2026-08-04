@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/link-a-bot
-__hash__: HS0JzFS4vKy-73_2PaP80UbZbmYFRlb2srZiGb1V2Vo
+__hash__: DCQWc_kkLsaf-Bcmj7kGUtlNygSNN5QuYcQSRQoo6dM
 seo:
   title: Enabling the add friend option with the SDK
   description: null

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-09-16 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-09-16-messaging-api-outage
-__hash__: 909VsqjBcSozfwyiU0YeLiTMe6H7nxuTlXoTtjT38Hk
+__hash__: SaKHFJlVD4RQsWk6SJvp7x1IsoyiNQsl9c16vkzTLs0
 seo:
   title: '[Resolved] Notice about service outage for the Messaging API'
   description: >-

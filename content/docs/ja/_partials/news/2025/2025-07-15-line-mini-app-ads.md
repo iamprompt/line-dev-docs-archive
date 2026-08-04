@@ -5,7 +5,7 @@ description: >-
   LINEミニアプリにYahoo!広告を掲載できるようになりましたのでお知らせします。LINEミニアプリに広告を掲載することで、LINEミニアプリを収益化できるようになります。
 meta: '{"date":"2025-07-15 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-07-15-line-mini-app-ads
-__hash__: p_ZZZqdvGxwwn_XpQWGdRuJYL3ZAzyLL8nUJ-rBs7NA
+__hash__: CODUyuoWAS5NPLCKgKFrQyUUsAv7t05k2S5KHdMyjQE
 seo:
   title: LINEミニアプリにYahoo!広告を掲載できるようになりました
   description: >-

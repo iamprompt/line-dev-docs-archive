@@ -10,7 +10,7 @@ description: >-
   narrowcast message.
 meta: '{"date":"2020-09-15 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-09-15-messaging-api-narrowcast-requestid
-__hash__: IZYd-DmTytDhXezKbTmxecNFwRA3DiXrBkOeQKxFfJo
+__hash__: NHsoTcISw1b3iYONzVoCIx85W-DJsGzqRxQlI1w_afo
 seo:
   title: >-
     Redelivery object has been added to the criteria for narrowing down the

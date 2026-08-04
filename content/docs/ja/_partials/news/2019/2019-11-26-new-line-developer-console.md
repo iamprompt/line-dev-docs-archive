@@ -4,7 +4,7 @@ navigation: true
 description: 以前お知らせしたとおり、本日、LINE Developersコンソールの新しいバージョンがリリースされました。
 meta: '{"date":"2019-11-26 00:00 UTC","tags":"Docs, Console","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-11-26-new-line-developer-console
-__hash__: gNRV03RSVa9uRNW8oLdpulfQjtwPcHSwsHrANmvMon0
+__hash__: YfVQcXDqsFdk9MPnM2Aj7zQr6gJb92INc7MLyXLhlGo
 seo:
   title: 新しいLINE Developersコンソールがリリースされました
   description: 以前お知らせしたとおり、本日、LINE Developersコンソールの新しいバージョンがリリースされました。

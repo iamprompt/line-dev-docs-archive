@@ -4,7 +4,7 @@ navigation: true
 description: We've updated LINE Developers Agreement. In this update we've added 5.7.
 meta: '{"date":"2022-03-24 01:00 UTC","tags":"line-platform, console","locale":"en"}'
 path: /en/_partials/news/2022/2022-03-24-line-developers-agreement-updated
-__hash__: c1mhGIcZKCu-1lTr6wshTysSvxRRjchAGnLYfa6_Cpg
+__hash__: sc2cVPL8d04gzWwyl38ZNJaE27SC5phmrLVKCkAW5oI
 seo:
   title: LINE Developers Agreement updated
   description: We've updated LINE Developers Agreement. In this update we've added 5.7.

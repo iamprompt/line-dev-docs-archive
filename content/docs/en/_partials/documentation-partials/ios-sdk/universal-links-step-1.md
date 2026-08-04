@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/documentation-partials/ios-sdk/universal-links-step-1
-__hash__: xoUE78XIhShxQbeHUpoK3RXImRRlBNT3L4MtHQbOfRA
+__hash__: AMxYTqNUdBlmMJzpN5OFZFCdESwAQxbCDvqzwx6EvQQ
 seo:
   description: ''
 ---

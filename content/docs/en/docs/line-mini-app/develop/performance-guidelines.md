@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/performance-guidelines
-__hash__: rLzmi4OztDz8QF9puGvlJNkpxOEKjdF8_aI1t-RsNFU
+__hash__: P1YuApIG3c-bM2H2_TkAQFOCnkQkWfGruYZnqM_pqI4
 seo:
   title: Performance guidelines
   description: null

@@ -8,7 +8,7 @@ description: >-
   revised on July 27, 2026.
 meta: '{"date":"2026-07-17 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-07-17-line-mini-app-iap
-__hash__: S9FrFbohE1UkSf5iGjsc7vLrndou55kTnNKsm1_Sdps
+__hash__: FnfUS8Dcg-aHL0Mt6SWg2-2NwWrwiBQ6gE8k9f4tgOY
 seo:
   title: >-
     The LINE In-App Purchase Terms of Use (for LINE MINI App Provider) will be

@@ -7,7 +7,7 @@ description: >-
 meta: '{"date":"2022-09-01 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: >-
   /en/_partials/news/2022/2022-09-01-differences-between-liff-browser-and-external-browser
-__hash__: Z-bXh557SqCatLCwpMhUcRNpRJbMIUCwPJqIk4ieQ_I
+__hash__: BKPSmOQFRWqBjmXpPBJ14qtki7IDl0tQeJgG-7m7CyQ
 seo:
   title: We've published "The differences between LIFF browser and external browser"
   description: >-

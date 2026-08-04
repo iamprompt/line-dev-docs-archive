@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-09-12 4:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2019/2019-09-12-messaging-api-outage
-__hash__: 2YgRe9sn1q1ZceaKWTbiPFoQSYkhh-xU38lmmSggM2c
+__hash__: 1uY6ELgOxqfKQ36rJJMwG2lNY9lx3vqbwxzxRrdUWa0
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: >-

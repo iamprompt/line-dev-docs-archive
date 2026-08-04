@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for iOS Swiftをプロジェクトに組み込む方法
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/setting-up-project
-__hash__: hag9ESv82qReIyiyFqGFUcxhAN0SZDnvAOYshRwdpq8
+__hash__: rK0SeYj2-cSwDX_8GR3kS_CtXnxWPu-hNNTazFZZ8Yw
 seo:
   title: プロジェクトを設定する
   description: LINE SDK for iOS Swiftをプロジェクトに組み込む方法

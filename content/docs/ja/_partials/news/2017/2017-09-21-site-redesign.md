@@ -7,7 +7,7 @@ description: >-
   APIなどのサービスを導入し、必要なドキュメントを参照していただけるようになりました。ここでは、サイトの主な変更点についてご説明します。
 meta: '{"date":"2017-09-21 00:00 UTC","tags":"Docs, Console","locale":"ja"}'
 path: /ja/_partials/news/2017/2017-09-21-site-redesign
-__hash__: O4qa-lTvX2ZcNqpVYJKPybeQ4LAsDfbzr1fLwr8UQuY
+__hash__: '-WLnxtkPex308eq4b9nboOI6D-UUqD882nDtIJE3pIc'
 seo:
   title: LINE Developersサイトのデザインが新しくなりました
   description: >-

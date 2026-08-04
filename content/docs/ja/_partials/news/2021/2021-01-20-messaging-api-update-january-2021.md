@@ -6,7 +6,7 @@ description: >-
   APIのナローキャストメッセージの進行状況を取得するエンドポイント、およびメッセージWebhookイベントオブジェクトのテキストメッセージタイプに、プロパティが追加されました。
 meta: '{"date":"2021-01-20 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-01-20-messaging-api-update-january-2021
-__hash__: wtebyNmYjKEGV0sXyBz2UhGj21A4ucQhXgFO4NvK_AE
+__hash__: Cz7NGuoK5cUVn9yRx3lm0OsCaeCNDKP8aLrOEB2RrSM
 seo:
   title: Messaging APIアップデート（2021年1月）
   description: >-

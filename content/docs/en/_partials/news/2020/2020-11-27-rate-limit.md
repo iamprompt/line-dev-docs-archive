@@ -6,7 +6,7 @@ navigation: true
 description: In the Messaging API, each endpoint has a rate limit.
 meta: '{"date":"2020-11-27 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-11-27-rate-limit
-__hash__: fZcKIMDBloHINHY6htAhMY0sb7TH9zrSIY2gBKE0ENw
+__hash__: gh0IrlUurBl65ULg2W6_sUnHtSLv5PcUZ9gYjt4KGEw
 seo:
   title: >-
     As of December 2020, the rate limit will change for some endpoints in the

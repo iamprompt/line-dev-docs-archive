@@ -8,7 +8,7 @@ description: >-
   tapped, as well as replacing the minimize button with the close button.
 meta: '{"date":"2026-05-19 00:00 UTC","tags":"line-mini-app, liff","locale":"en"}'
 path: /en/_partials/news/2026/2026-05-19-liff-browser
-__hash__: DFEsl94zWJN6xx-nD7k9NeF0we5trdKwITacsaobZ00
+__hash__: kkeDL7iMJzyk3VmYz28JT3Q2h0dlRDjLJxu4kuLPvjg
 seo:
   title: Changes to LIFF browser header specifications from LINE version 26.7.0
   description: >-

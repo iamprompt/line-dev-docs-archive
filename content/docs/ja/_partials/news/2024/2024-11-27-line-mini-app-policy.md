@@ -4,7 +4,7 @@ navigation: true
 description: 2024年11月20日にお知らせしたとおり、2024年11月27日にLINEミニアプリポリシーを改定しました。
 meta: '{"date":"2024-11-27 03:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-11-27-line-mini-app-policy
-__hash__: bMuXjNE3LjJFnARXUbOM8r1ccuFPQowpOzLy1ioAZcc
+__hash__: MDBQuUPZMmUTalcPonXepeIhSKCo3TqcuF2VsX6up88
 seo:
   title: 2024年11月27日にLINEミニアプリポリシーを改定しました
   description: 2024年11月20日にお知らせしたとおり、2024年11月27日にLINEミニアプリポリシーを改定しました。

@@ -6,7 +6,7 @@ description: >-
   and call APIs to test your application.
 meta: '{"date":"2015-07-08 00:00 UTC","tags":"Console","local":"en"}'
 path: /ja/_partials/news/2015/2015-07-08-issue-token
-__hash__: 4xzpqWzkHlAG9JMMq4bBpQ6KgOV5zZ_VEUEZbSPBRvQ
+__hash__: 1UF5gBeovI7pIcuJSReJ0ONGimaNmnZjVrwol7y93pA
 seo:
   title: New feature which issues access tokens for testing released
   description: >-

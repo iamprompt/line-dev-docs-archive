@@ -6,7 +6,7 @@ description: |-
   あわせて、開発者の方々がLIFFのバージョンアップに対して適切な準備を行えるようにするために、メジャーバージョンごとのライフサイクルも公開しました。
 meta: '{"date":"2020-05-08 00:00 UTC","tags":"LIFF","new":"false","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-05-08-liff-versioning-policy
-__hash__: zOilkvFBJa_IvYnE0BSqOOkpCsIohGXju107z54hXh4
+__hash__: ivAC6H96lCeEMOq7kUt8-KXb9lCAEEELXLHr9nUWJtg
 seo:
   title: LIFFのバージョニングポリシーおよびライフサイクルを公開しました
   description: |-

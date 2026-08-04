@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for Unityを試す前にUnityプロジェクト設定と開発環境を設定します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /ja/docs/line-login-sdks/unity-sdk/project-setup
-__hash__: TwjqA4MeIryRKz8AepNwlGGCubcc4P6aXOb2bumJ0II
+__hash__: ZmtIoI_pJMRkzrFweOswNNnfKpm2TTorqASu5JhKD0A
 seo:
   title: プロジェクトを設定する
   description: LINE SDK for Unityを試す前にUnityプロジェクト設定と開発環境を設定します。

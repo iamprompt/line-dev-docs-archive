@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"pageClass":"api-reference-page"}'
 path: /ja/reference/liff
-__hash__: p6h4ogKKmKQmZcFDEVedojg8ATfnLHTRDWcKXAI1fmw
+__hash__: SMIx-0FZ3uJ7EiklLiK8GjzYX93Zj23mMZlEFRx7i6k
 seo:
   title: LIFF APIリファレンス
   description: ''

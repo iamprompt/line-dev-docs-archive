@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-11-25 01:00 UTC","tags":"console,
   line-blockchain","locale":"ja"}
 path: /ja/_partials/news/2021/2021-11-25-blockchain-service-channel-pending-status
-__hash__: hvOq9yvtZrGVLEIsTOeis0PbPKxFL05vua0Z_dUmt1I
+__hash__: HY5uor5uc1ytJ78ekmWQn8xM5Pm4oVA_NK7bCs4ABj0
 seo:
   title: >-
     LINE Blockchain

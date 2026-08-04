@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/discover/builtin-features
-__hash__: juk9f2_izl1Vu71x6EVhAKwb1w2b8ukMh4cj1e-H6hU
+__hash__: ymnBmzycVlEomjvboGHkHWZzx4uZ928m0sPgFTW-oCg
 seo:
   title: Built-in features
   description: null

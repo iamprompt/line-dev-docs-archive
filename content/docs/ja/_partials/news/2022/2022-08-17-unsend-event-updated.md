@@ -4,7 +4,7 @@ navigation: true
 description: ユーザーとLINE公式アカウントの1対1のトークにおいて、ユーザー（タイ、台湾のユーザーを除く）がメッセージの送信を取り消せるようになりました。
 meta: '{"date":"2022-08-17 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-08-17-unsend-event-updated
-__hash__: EI57lMmwVJn9rtK9hCub78Qk_Wo9DxZ4fpbc-_16yxQ
+__hash__: x-O6ZbWBBant_RQZSOwmKkVNX7fnMCdwNEGmb0K0OlY
 seo:
   title: LINE公式アカウントとの1対1のトークでユーザーがメッセージの送信を取り消せるようになりました
   description: ユーザーとLINE公式アカウントの1対1のトークにおいて、ユーザー（タイ、台湾のユーザーを除く）がメッセージの送信を取り消せるようになりました。

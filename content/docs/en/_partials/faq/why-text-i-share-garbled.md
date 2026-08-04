@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"en"}
 path: /en/_partials/faq/why-text-i-share-garbled
-__hash__: P66NyJh6K_CJ2OwXwWcS6scq68U7WoJrHWbxTW940Kk
+__hash__: uwQ8E6kDyPCAIhi2E9Ci63CNuqPCo-bYyak6tN4naXY
 seo:
   title: Why does text that I shared with the LINE Share button appear garbled?
   description: >-

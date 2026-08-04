@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-06-09 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-send-purchased-or-company-owned-stickers
-__hash__: bOM8ocOdQ2V95jl_hZKuAEKbcT387eTVX-dsdGCr9PE
+__hash__: 5u-bUofhbB7qVhVMLFazKb4b-aEZai_5RzabwzfogAA
 seo:
   title: Can I send purchased or company-owned stickers using the Messaging API?
   description: >-

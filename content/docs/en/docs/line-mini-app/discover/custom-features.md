@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/custom-features
-__hash__: DjLHwSSAmOsb-YB-q9ZCKVnaSnx-j2h0D_8RwCvA9Fo
+__hash__: A4Bm8mqdI2vxWke7UObSIFxp6_ZIj-56H6mtILyyQHg
 seo:
   title: Custom features
   description: null

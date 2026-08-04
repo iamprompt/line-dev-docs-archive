@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに、新しいエンドポイントが追加されました。これらのエンドポイントを使って、チャネルから送信されたメッセージの数を取得できます。
 meta: '{"date":"2019-01-17 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-01-17-new-message-endpoints
-__hash__: jXdIq2npOWU_ii1uRlu-y2RnWQSzveJCca0UDR5mIuM
+__hash__: Qf_pDg6Qb9NdqgKFngitpDg030Gjp0VLOWpEZkVZ47M
 seo:
   title: Messaging APIに新しいエンドポイントが追加されました
   description: Messaging APIに、新しいエンドポイントが追加されました。これらのエンドポイントを使って、チャネルから送信されたメッセージの数を取得できます。

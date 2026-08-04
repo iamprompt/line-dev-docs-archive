@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-shared-audience
-__hash__: nyxc9jwt0eZGtAspVHEWaHZzgtL2NmCZQIay9Kf6_ao
+__hash__: Ihl4_4-oGqoNatsXMi0N2IW8AXJoVWhlAUJKRFzDJQY
 seo:
   description: ''
 ---
@@ -13,12 +13,12 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/audienceGroup/shared/{audienceGroupId}"}::reference-with-code
   :::reference-content
-  Gets a shared audience in [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"} (only available in Japanese).
+  Gets a shared audience in [Business Manager](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"} (only available in Japanese).
 
     ::::admonition{title="About Business Manager" type="tip"}
     Business Manager allows you to share specific audiences across multiple services. By sharing audiences in Business Manager, you can better communicate with your end users.
 
-    For more information, see [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"} (only available in Japanese) in LINE DATA SOLUTION.
+    For more information, see [Business Manager](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"} (only available in Japanese) in LY for Business.
     ::::
   :::
 
@@ -104,7 +104,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       - `MESSAGING_API`: Audience created with Messaging API
       - `POINT_AD`: Audience created with [LINE Points Ads](https://www.lycbiz.com/jp/service/line-point-ad/){rel="[\"nofollow\"]"} (only available in Japanese)
       - `AD_MANAGER`: Audience created with [LINE Ads](https://admanager.line.biz/){rel="[\"nofollow\"]"}
-      - `BUSINESS_MANAGER`: Audience created with [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}
+      - `BUSINESS_MANAGER`: Audience created with [Business Manager](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}
       - `YAHOO_DISPLAY_ADS`: Audience created with [LY Ads Display Ads](https://www.lycbiz.jp/en/#advertising){rel="[\"nofollow\"]"}
       :::::
 
@@ -547,7 +547,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
 
       - `OA_MANAGER`: Audience created with [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}
       - `AD_MANAGER`: Audience created with [LINE Ads](https://admanager.line.biz/){rel="[\"nofollow\"]"}
-      - `BUSINESS_MANAGER`: Audience created with [Business Manager](https://data.linebiz.com/solutions/business-manager){rel="[\"nofollow\"]"}
+      - `BUSINESS_MANAGER`: Audience created with [Business Manager](https://www.lycbiz.com/jp/service/business-manager/){rel="[\"nofollow\"]"}
       :::::
 
       :::::parameter-table-entry

@@ -6,7 +6,7 @@ description: >-
   exposing your local development server.
 meta: '{"date":"2025-06-11 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-06-11-liff-cli-support-ngrok
-__hash__: 1BMttcDghU0by_Cn2qUQVRYfdavDbmhPkOaUTW6cV6o
+__hash__: gdYC0KcDPqBSXUWzAR2XNgBA7u94OZuX6cDldKvkul8
 seo:
   title: The LIFF CLI v0.4 now officially supports ngrok
   description: >-

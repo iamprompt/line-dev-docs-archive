@@ -9,7 +9,7 @@ description: >-
   implementation.
 meta: '{"date":"2020-04-21 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-21-notice-return-value-of-sharetargetpicker
-__hash__: 5b7Hi2U4iFz1_wSWdr35CAFRXhcwbb1pIz6y4pHeL-o
+__hash__: c-Mx33pnIXnB53Aj0nJdccO294m0UN_jEyLrzJx7PHA
 seo:
   title: Notice about the return value of liff.shareTargetPicker()
   description: >-

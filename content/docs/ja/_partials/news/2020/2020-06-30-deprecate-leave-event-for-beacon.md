@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-06-30 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-06-30-deprecate-leave-event-for-beacon
-__hash__: ITy-I_PzhZWKtLjuYZGY5f9XTZ0Ini9f212PJL4RHgQ
+__hash__: QUksNE9VybWTKc-TCV2gRfNOUr4IuJqs-qYlyWkGZ0g
 seo:
   title: 2020年末にビーコンイベントのleaveイベントを廃止します
   description: ''

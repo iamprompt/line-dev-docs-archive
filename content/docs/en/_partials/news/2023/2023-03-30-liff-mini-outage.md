@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-03-30 00:00 UTC","tags":"Outage report, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2023/2023-03-30-liff-mini-outage
-__hash__: UyBQRE7ZR3SYzxoJ4rZKaR-sWWyMN27qg7h51nb1ajk
+__hash__: Q4XKh8A-zNL8uOIGuw1dtZF4n1fElW9zAhYjmoZgORs
 seo:
   title: >-
     [Updated] Notice about service outage for the LIFF browser and the LINE's

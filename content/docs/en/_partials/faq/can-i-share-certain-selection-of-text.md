@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-8-17 11:41 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-share-certain-selection-of-text
-__hash__: yCecUS2Th0to2nOA3hI6bQ0PpyBlDVxbDmR3ZfYObkc
+__hash__: Wb3Cwe8Ls9Fz7J65vjGx3RER7ccramNMbQPWLErR6f8
 seo:
   title: Can I share just a certain selection of text with the LINE Share button?
   description: >-

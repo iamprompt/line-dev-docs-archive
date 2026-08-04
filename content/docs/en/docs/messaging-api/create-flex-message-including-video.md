@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/create-flex-message-including-video
-__hash__: G7ukiv6zaYI0fbtxb1PgRiLsEBsB7TKZFp7eXyowLwY
+__hash__: nX3Q9wna6Rlda7ozqtftLfrqGrlYDr71n-yXvLWuPLE
 seo:
   title: Create a Flex Message including a video
   description: null

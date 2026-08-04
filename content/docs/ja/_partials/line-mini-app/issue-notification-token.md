@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/issue-notification-token
-__hash__: 6SXNAAseCqhqZ7pzmPoVTIiPjT-KqUv8PLd_MFxQA_Q
+__hash__: Ib9Bh809xOb0-0_k6tjnGmPI2o6qLUhEY44fmfKklRw
 seo:
   description: ''
 ---

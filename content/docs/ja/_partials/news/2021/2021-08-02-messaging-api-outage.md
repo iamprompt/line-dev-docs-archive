@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-08-02 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-08-02-messaging-api-outage
-__hash__: 46l43nOfk61bKoH2-I7XvuZPwnI4ZhxpHYaSkHWUSwA
+__hash__: FW1_MlTySxgwuWoEG2nsoVmI3hdyjqsGt9kvs7HPPOc
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: >-

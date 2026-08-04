@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに新たな機能が追加されました。
 meta: '{"date":"2020-09-01 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-09-01-messaging-api-update-september-2020
-__hash__: 0UudQGatCnpd4XCLoGvnyW_BjJW1DDR0g0oVX4pa_9U
+__hash__: GkYmHR8w_ZVXckrlmpb6edRRiZcjOn66uVwn1dWRsNc
 seo:
   title: Messaging APIアップデート（2020年9月）
   description: Messaging APIに新たな機能が追加されました。

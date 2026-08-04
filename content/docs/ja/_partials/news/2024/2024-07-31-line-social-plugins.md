@@ -4,7 +4,7 @@ navigation: true
 description: LINE Social Pluginsにおいて、パソコンで「LINEで送る」ボタンをクリックすると、送信先を選択するポップアップが表示されます。
 meta: '{"date":"2024-07-31 00:00 UTC","tags":"social-plugins","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-07-31-line-social-plugins
-__hash__: Bye8DfYyJgcmFwkfyFgc73kdcNNFNSC_WuJXroFArp4
+__hash__: kv6qhuxqyP1hZ1FEFjXtXmyFp71EDZr3lBe5GqifIJk
 seo:
   title: LINE Social Pluginsにおいて、パソコンで「LINEで送る」ボタンをクリックした際の送信先をKeepからKeepメモに変更しました
   description: LINE Social Pluginsにおいて、パソコンで「LINEで送る」ボタンをクリックすると、送信先を選択するポップアップが表示されます。

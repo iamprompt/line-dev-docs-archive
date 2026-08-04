@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-ads-api/development-guidelines
-__hash__: Cq5dGXaT_p_o795fSP5dgNCQU5gLoRCHVZGovj1Sk_M
+__hash__: 0u919MrvgizuhBT_1mFaQWL4cyRydurAf0OIGUQo7rw
 seo:
   title: LINE Ads API development guidelines
   description: null

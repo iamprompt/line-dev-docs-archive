@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-11-20 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-20-discontinue-replace-mode-announcement
-__hash__: 8vZJPMXiiKmt9-E3BF3dHCgV2pQsrzO32wP4PUQDWes
+__hash__: J-OKAOwV2HXNqkXxgE7k4svLfjuBZ5A3Piw87U9TRzE
 seo:
   title: 【更新】2021年3月1日にLIFFアプリおよびLINEミニアプリのパーマネントリンクのリダイレクト設定から「置換（後方互換性モード）」が廃止されます
   description: ''

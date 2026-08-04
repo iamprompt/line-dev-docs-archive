@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/differences-between-liff-browser-and-external-browser
-__hash__: uR2pbq-j5_tQPwUUfOOK6OjESgx0fAMAkf_x68Yws4s
+__hash__: Kud4UUoDGB_Q1KhzjhU_TCZ3M4aLTSMpNcfSQqGpRS4
 seo:
   title: The differences between the LIFF browser and external browser
   description: ''

@@ -8,7 +8,7 @@ description: >-
   webhook:
 meta: '{"date":"2021-09-07 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-09-07-image-set-has-been-added-to-webhook
-__hash__: tNIlnsdiTMoZR5i-L33N2sKXfmnP7Taej0ytQhbMz3s
+__hash__: F017ZRvI-A1PhbooWvXPgVujUKgzN_2KErewp1RtYKw
 seo:
   title: >-
     You can now confirm the number of images sent simultaneously through

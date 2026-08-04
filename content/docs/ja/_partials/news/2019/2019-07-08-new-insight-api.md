@@ -6,7 +6,7 @@ description: >-
   APIに3つのエンドポイントが追加されました。これらのエンドポイントを使って、LINE公式アカウントの友だち数に関する情報を取得できます。
 meta: '{"date":"2019-07-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-07-08-new-insight-api
-__hash__: Sb7rRYL2CBlEduyjqmvmiJSeMPwHQjPehXXPO4mkbWY
+__hash__: dh_OYfeTRCqKo6rPhj-JXzVXt9aQ1iJLPkUVEqfk55s
 seo:
   title: Messaging APIに統計情報を取得するエンドポイントが追加されました
   description: >-

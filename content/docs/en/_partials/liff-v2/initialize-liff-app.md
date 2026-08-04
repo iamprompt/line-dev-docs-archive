@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/initialize-liff-app
-__hash__: VUDIrZfQsmL948a8Aa5XJDjEsXiSLebyo1HiaZzkJiA
+__hash__: szipyEcWCoSxghRTXRU3AaHUzlHAtq-MSE1QCl6ai2w
 seo:
   description: ''
 ---

@@ -6,7 +6,7 @@ description: >-
   Developersサイトのメンテナンスを行います。ご利用のユーザー様にはご不便をおかけいたしますが、何卒ご理解いただきますようお願い申し上げます。
 meta: '{"date":"2019-11-19 00:00 UTC","tags":"Docs, Console","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-11-19-line-developer-console-will-be-updated
-__hash__: dedwbL34MUbBA0WhsWH8XmcW994xNkU4VAF5tks8jqk
+__hash__: c4sbPoSdLkgIUJVt1-sk7YvYIx7MtHRoymISWGxUd2A
 seo:
   title: メンテナンスのお知らせ：LINE Developersコンソールのデザインが新しくなります
   description: >-

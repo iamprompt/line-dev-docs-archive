@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/sending-messages
-__hash__: Qg2WQsSNj4oAV3CIQFXMxJih8-dtBhmCHI1zNyjuly8
+__hash__: RhPdrdxEh9JP-k8jDqvr0uTAhvbFbc9ptcWiO-fLT2k
 seo:
   title: Send messages
   description: null

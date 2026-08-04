@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-04-22 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2020/2020-04-22-stop-using-impression-audiences
-__hash__: Qz_ZxPoLpRHSa7wYmXux0J91X6TJ_rMkpCsusvZbK1Y
+__hash__: fJxGHnYI-7XcwpURyxtV1INrddFroFUVLD9uXlYRcSw
 seo:
   title: >-
     [Recovered/Updated] Notice about service outage in the aggregation of some

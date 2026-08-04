@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/technicalcase/kirifuda-morikaranotegami
-__hash__: 03LUMRUm6dRBUznm2tdxyL3EykS6GLyMD5Dly82ineg
+__hash__: cmDuLAzuIPcVi7F2rgEenK7E29GvDTn8De02nEDBFuc
 seo:
   title: 遊びながら自然保全をする「もりからの手紙」の技術事例
   description: ''
@@ -79,4 +79,4 @@ LINEミニアプリとNFTが融合した本サービスは、環境貢献に限�
 
 ## Related links
 
-- [キリフダ株式会社](https://kirifuda.io/){rel="[\"nofollow\"]"}
+- [キリフダ株式会社](https://www.kirifuda.io/){rel="[\"nofollow\"]"}

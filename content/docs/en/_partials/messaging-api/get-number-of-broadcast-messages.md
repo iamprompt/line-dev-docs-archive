@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-number-of-broadcast-messages
-__hash__: M1DHdy5Yji10x22qyTIMDjD7VYkm6HfP7ovsJAkjwmY
+__hash__: CXjTlCVuHllRut7IfCtQgU6hU2IVGi_v_m0zQpVM2Ps
 seo:
   description: ''
 ---

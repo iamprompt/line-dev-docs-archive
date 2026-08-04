@@ -6,7 +6,7 @@ meta: >-
   {"date":"2018-02-08 00:00 UTC","tags":"Messaging API, Template
   messages","locale":"en"}
 path: /en/_partials/news/2018/2018-02-08-new-properties-added
-__hash__: QNmmk2GEa3rCB4q5CZvBHu6vKF8brk3KRIGwenNHgSo
+__hash__: zuht0yas8lJYAOBBNHC1VFTvOoT5aPEv3oe-seApj_0
 seo:
   title: New properties for template messages and postback actions released
   description: ''

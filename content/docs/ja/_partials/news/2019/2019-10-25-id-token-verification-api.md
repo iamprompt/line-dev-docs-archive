@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-10-25 00:00 UTC","tags":"LINE Login, Social API, LINE SDK, iOS,
   Android","locale":"ja"}
 path: /ja/_partials/news/2019/2019-10-25-id-token-verification-api
-__hash__: 3c37HVhjL_91gi7KI7Wx-8vYXsdTMFBkLtmaGsCff_w
+__hash__: 7LE_hApit-YDw7N4MB378AJS42wXAxi8akRYIuGuCkQ
 seo:
   title: IDトークンを検証するエンドポイントが公開されました
   description: >-

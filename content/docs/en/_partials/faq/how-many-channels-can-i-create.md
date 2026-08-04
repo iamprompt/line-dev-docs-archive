@@ -9,7 +9,7 @@ meta: >-
   liff, line-mini-app, line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/how-many-channels-can-i-create
-__hash__: CBC7yFQPjaTnRZbJLYVvgkiyLoIgTpcM1vT6P7PHHqQ
+__hash__: UqzLEV8WLnQf_DT8PyHandldkJ7IMf6RfeQctDMJGIQ
 seo:
   title: How many channels can I create?
   description: >-

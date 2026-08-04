@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/configure-console
-__hash__: 0jnLb_ocB0ga10a1XVR13MsqXuAiVKcF_pFJRP870fg
+__hash__: 79oxw4rUmNU1jMY_HytpLxeefd7__HPuspt5atK1jAE
 seo:
   title: Settings displayed to LINE MINI App users
   description: null

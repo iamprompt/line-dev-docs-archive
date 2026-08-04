@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-11-05 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"ja"}
 path: /ja/_partials/news/2025/2025-11-05-mark-as-read
-__hash__: qBVJ_Ji9QvRyGRJfMSOS1ZfnkdmCaJJ97xw25wSSrbs
+__hash__: WKDvEtgEyisHeXJb3VaU2fgJAR9btKm7krIp-aqh4as
 seo:
   title: Messaging APIでユーザーからのメッセージに既読をつけられるようになりました
   description: >-

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-08-28 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"en"}
 path: /en/_partials/news/2019/2019-08-28-flex-message-update-1-released
-__hash__: CM9Qd1YJGXIQE1XEw2jYw7QeGEPI3YsdgBD9HnHqlLM
+__hash__: _2io2VWQmIjKlOECRv4Mmy9hi_IchELxHIv-NwqXKRg
 seo:
   title: Flex Message Update 1 released
   description: >-

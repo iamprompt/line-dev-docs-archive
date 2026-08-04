@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-06-22 00:00 UTC","tags":"Maintenance, Options for corporate
   customers, Messaging API","locale":"en"}
 path: /en/_partials/news/2021/2021-06-22-reminder-mark-as-read-api-maintenance
-__hash__: wj4wobMmpjk5vlLqgmxsXiBsm2V7cZGpVMcxNrHW-xo
+__hash__: Vvc1ZtpbDdAgD0xpYuNY7vPFHf_z6hEGn2_XUSfvhTo
 seo:
   title: 'Reminder: Mark-as-Read API maintenance notice'
   description: >-

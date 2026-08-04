@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"pageClass":"api-reference-page"}'
 path: /en/reference/line-mini-app
-__hash__: jjzbi5-K5qCcLmRm5687NmKm2PyhaxerkjdlXMdmDMg
+__hash__: j-F8Sgfsgk_IMAZYCLMaSmpGQMWVOLETBLqX8z5S5t8
 seo:
   title: LINE MINI App API reference
   description: ''

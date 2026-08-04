@@ -8,7 +8,7 @@ description: >-
   according to your preferences.
 meta: '{"date":"2023-05-17 00:00 UTC","tags":"docs, line-platform","locale":"en"}'
 path: /en/_partials/news/2023/2023-05-17-site-renewal
-__hash__: 8JZLKVapungARru-l1bHhjCzfX8STwn8_oazNGV1dHs
+__hash__: SANYQdgq8ECV6WnFh9O2hIy6zNugV07dECMkVkkNVwc
 seo:
   title: The LINE Developers site design has been renewed
   description: >-

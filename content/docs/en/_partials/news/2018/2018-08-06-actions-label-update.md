@@ -6,7 +6,7 @@ meta: >-
   {"date":"2018-08-06 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"en"}
 path: /en/_partials/news/2018/2018-08-06-actions-label-update
-__hash__: 4g9nvmHg3HkVlRvJYImoQQ5j6I8QC8Gkgg99FE6K9w4
+__hash__: 6RbCnPEYmXu3y9zpwoyEYXc9NkMsdFRyXr7GBhAvCdE
 seo:
   title: Flex Message is now available on your desktop
   description: Flex Message is now available on your desktop.

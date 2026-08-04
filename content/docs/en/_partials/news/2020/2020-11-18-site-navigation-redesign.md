@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-11-18 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-11-18-site-navigation-redesign
-__hash__: yX-VC96inrw5gxW5QwZtXUSf2dbo8YxcHflByQjOM-E
+__hash__: ebNMNO89ZVUEIM9cyVdK6aUO8SwCP462COSS0A0c_aM
 seo:
   title: '[Updated] Introducing the new LINE Developers site navigation'
   description: ''

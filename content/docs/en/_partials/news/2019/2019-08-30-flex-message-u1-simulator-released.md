@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-08-30 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"en"}
 path: /en/_partials/news/2019/2019-08-30-flex-message-u1-simulator-released
-__hash__: k2CL3ixvlF9VFkVGgzX9Qw5SaHlohNxWBLLYZSDDQ0g
+__hash__: JaQdGkxu6VjJxAYlqLkVnxbFvFyi17Ex4b30gVnmgko
 seo:
   title: Flex Message Simulator Update 1 (β) released
   description: >-

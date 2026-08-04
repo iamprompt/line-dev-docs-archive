@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/icon-nickname-switch
-__hash__: sOmp4NaGjCtxG_RHjBEnl9P0JSg3p5GXUNVSq-KFMj4
+__hash__: SOgbGGu6UD0YSNmuMGE5uIY6CgoTTk_qwchY3dMoZSw
 seo:
   title: Customize icon and display name
   description: null

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/validate-message-objects-of-narrowcast-message
-__hash__: 0yMVn98RRdg_8Qkwl6_9rdk7t-fuEvPOrZrwF9wS7_U
+__hash__: GufwWvc8li-IOzzL0EfNeiOlHT4pdQxapMciOilipG4
 seo:
   description: ''
 ---

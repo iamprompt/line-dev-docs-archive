@@ -6,7 +6,7 @@ description: >-
   Path機能を用いると、以下のように、LIFF URLに独自の文字列を設定できます。
 meta: '{"date":"2024-05-29 00:00 UTC","tags":"console, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-05-29-mini-custom-path
-__hash__: Q10E1flQw0118PEKl8QR1-VYRQbujodvQ2dUxFTjiFI
+__hash__: _f-OpXFTl26pxApxC504ICJSKkwU7ZR2yVylVmLSRv4
 seo:
   title: LINEミニアプリにおいて、LIFF URLに独自の文字列を設定できるようになりました
   description: >-

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-08-11 00:00 UTC","tags":"Outage report, LINE MINI App,
   line-login","locale":"ja"}
 path: /ja/_partials/news/2021/2021-08-11-service-message-outage
-__hash__: h12ckjcXEfwD1Lz3qxC5ud5Q_DuVfazPWtnXYXO5rbM
+__hash__: rAAa9o68pKcb7T-xDcDdQaZ7VTWR5Xw2gpComF77JUg
 seo:
   title: 【復旧済み／更新】LINEミニアプリおよびLINEログイン障害のお知らせ
   description: ''

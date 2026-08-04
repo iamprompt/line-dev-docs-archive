@@ -6,7 +6,7 @@ description: >-
   APIの統計情報のひとつであるインプレッションについて、計測ロジックや注意点を詳しく説明しています。
 meta: '{"date":"2025-11-10 00:00 UTC","tags":"docs, messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-11-10-measure-impressions
-__hash__: 6dQEhtKJeijKMfD0HEhk2VocSVYJ7o9q8LQlFb3HHmE
+__hash__: MRFU9Q5uPJI7WZhT2QjEAfzFvK7IjAP0VlaIOW2onhE
 seo:
   title: 『Messaging APIドキュメント』にインプレッションの計測に関するドキュメントを追加しました
   description: >-

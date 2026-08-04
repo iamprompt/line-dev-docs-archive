@@ -9,7 +9,7 @@ meta: >-
   {"date":"2018-02-22 00:00 UTC","tags":"Messaging API, Rich menu, Imagemap
   message","locale":"en"}
 path: /en/_partials/news/2018/2018-02-22-actions-label-update
-__hash__: Sme5nOWxiBhKx7Su9OPppZQrhGgvRWbNcJugueh2AV4
+__hash__: igLEnOINlAUdpPdlbcmYAYQNVEBN9LfdIfRJ_1FbVLY
 seo:
   title: Property for accessibility released
   description: >-

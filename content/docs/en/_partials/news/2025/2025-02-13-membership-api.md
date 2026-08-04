@@ -11,7 +11,7 @@ meta: >-
   {"date":"2025-02-13 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2025/2025-02-13-membership-api
-__hash__: pnCKxqFXGY3vCHP5duFZmvOq7VV1JqeRs72r8iX4dQ8
+__hash__: aLxnDscNEq6Yo3mOSCrOEXm5vzm9IS8S1jXvQhV-gr8
 seo:
   title: >-
     In the Messaging API, we've started to provide an endpoint and a webhook

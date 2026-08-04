@@ -15,7 +15,7 @@ meta: >-
   messaging-api","priority":1000,"locale":"en"}
 path: >-
   /en/_partials/faq/what-is-the-number-of-messages-sent-when-sending-a-message-to-a-group-or-room
-__hash__: mYn0GfdBOJSHP4fSYLXgzO04qvCQQi8UgC1vdLA5bSg
+__hash__: FWSYlid9cqZazPJit_tT91iKkiBAW_UdqZVLjKoTzqw
 seo:
   title: >-
     If I send a push message with multiple message objects (for example, 4) in a

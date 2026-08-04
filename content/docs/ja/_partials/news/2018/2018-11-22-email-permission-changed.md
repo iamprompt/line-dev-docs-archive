@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインでユーザーのメールアドレスの取得権限を要求する場合、ログイン時にユーザーに表示される、アプリへの権限付与に同意する画面の動作が変わりました。
 meta: '{"date":"2018-11-22 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-11-22-email-permission-changed
-__hash__: WFX3_n6mBYKZegkVZGuThvjq14FOVUZAAUadEtgeH4k
+__hash__: eqRupE47Fabh8coupIWa1gaTJQXIj823wC95LrgSxag
 seo:
   title: LINEログインの権限付与への同意画面の動作が変わりました
   description: >-

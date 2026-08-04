@@ -9,7 +9,7 @@ description: >-
   MINI App to the user's favorites.
 meta: '{"date":"2025-11-04 01:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-11-04-line-mini-app-favorites
-__hash__: 2a8E9HTBhC9lrfjwy-z2FmyCElykFcpWPDO5TgrZEYc
+__hash__: OKaC3y-SuzFvrrNft7m4KbdQAoL567y23S0KoqiQOwc
 seo:
   title: >-
     In LINE version 15.18.0 or later, users in Japan can now add verified MINI

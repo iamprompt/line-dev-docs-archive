@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-02-25 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2019/2019-02-25-messaging-api-outage
-__hash__: 5KtpfdVoyl7Vp5hTl_ghN43HCdZbc2nrzLg7WNG5zmw
+__hash__: 5tb8WRDskf7CqhhWggZebPk_p3YashgR5O4alEjRdmw
 seo:
   title: '[Resolved] Notice about service outage for the Messaging API'
   description: >-

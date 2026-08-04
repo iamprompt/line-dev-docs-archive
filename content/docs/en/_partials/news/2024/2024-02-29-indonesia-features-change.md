@@ -11,7 +11,7 @@ meta: >-
   {"date":"2024-02-29 00:00 UTC","tags":"line-official-account, messaging-api,
   options-for-corporate-customers, end-of-life","locale":"en"}
 path: /en/_partials/news/2024/2024-02-29-indonesia-features-change
-__hash__: o5l_Em3rzmd8az4-DLfgG6HPbG6DqSns_dsBrpa8IqY
+__hash__: pl6gApi9pvIIt2PCM6LGykO3jE9arcQAj5d_aohwxDc
 seo:
   title: >-
     In Indonesia, some features of the Messaging API will be discontinued on

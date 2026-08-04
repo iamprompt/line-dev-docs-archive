@@ -9,7 +9,7 @@ description: >-
   can make appropriate preparations for the version upgrade of LIFF.
 meta: '{"date":"2020-05-08 00:00 UTC","tags":"LIFF","new":"false","locale":"en"}'
 path: /en/_partials/news/2020/2020-05-08-liff-versioning-policy
-__hash__: XlpVLzX-giJkzR9RgqTTve4nGgSwE3gis4h7dXzcaBQ
+__hash__: Ph3GX5422VIKHB5NUrNahDtAGn9ZdMVui_hV9RwJ7Ak
 seo:
   title: LIFF Versioning policy and life cycle have been released
   description: >-

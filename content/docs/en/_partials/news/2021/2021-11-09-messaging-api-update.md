@@ -6,7 +6,7 @@ description: >-
   have been newly added or updated.
 meta: '{"date":"2021-11-09 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-11-09-messaging-api-update
-__hash__: e_KQUyqBK8Vv4_iHl6gQlVtnhOFqjCkFx4vaKRkHWQg
+__hash__: HwzJrtbIl8Grvd1aLtlzsVtVMZJTrLN5p-a5UttZ0mU
 seo:
   title: Messaging API Update (November 2021)
   description: >-

@@ -11,7 +11,7 @@ meta: >-
   {"date":"2017-11-30 00:00 UTC","tags":"Messaging API, Template
   messages","local":"en"}
 path: /en/_partials/news/2017/2017-11-30-template-message-images-update
-__hash__: _fBH9ruV7g9cO69qMWlRBu2wK2_V__GaDrueUcSeWwg
+__hash__: Drd-2KatFEhJRXjIOKTIdkVpjUKn5aFO6_CxN6AbEnw
 seo:
   title: New options for template message images
   description: >-

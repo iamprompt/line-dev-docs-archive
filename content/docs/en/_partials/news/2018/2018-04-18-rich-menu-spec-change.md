@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-04-18 00:00 UTC","tags":"Messaging API, Rich
   menu","locale":"en"}
 path: /en/_partials/news/2018/2018-04-18-rich-menu-spec-change
-__hash__: yVKZZ9kSmKzVaaQPhkgvYzKJMvv_nrfHHDqwoh0-RYo
+__hash__: fatXQKcPXCuHP3GvhmO25VCzQjEBtNJX9D96WE4tcSI
 seo:
   title: The maximum number of rich menus has been increased
   description: >-

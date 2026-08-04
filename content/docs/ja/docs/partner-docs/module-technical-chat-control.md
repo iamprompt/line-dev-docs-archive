@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-chat-control
-__hash__: Cw9hE_yfUdN0jGLDSoTJmx6lR_4CvEqVXs-12D2yxlw
+__hash__: rPsekXvLCqLQzkWhYGQgAsbLxH4y6666KKd6x2fp5aY
 seo:
   title: チャットの主導権を制御する（Chat Control）
   description: ''

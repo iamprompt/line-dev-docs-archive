@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-12-20 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/why-wont-my-ipad-display-rich-menus
-__hash__: 3QKZIQ1vkzjr63ZxjEhtOE_MV1hUdc3Em2NqTWSkpqE
+__hash__: 1g9q31MIY4DGJifcDfq4EbQ5LrWMmsiuZxhzm8J_ILI
 seo:
   title: Why won't my iPad display rich menus?
   description: >-

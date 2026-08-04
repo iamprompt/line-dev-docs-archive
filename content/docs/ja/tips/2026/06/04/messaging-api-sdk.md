@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-06-04 00:00 UTC","tags":"messaging-api,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/06/04/messaging-api-sdk
-__hash__: VTRxk9zrXsd9CV8Hz2Vn9AcFie28mWlgdFY6_c8kl6I
+__hash__: kw7r041-F5KIBZ2TYAS14U3ZiMQcV44aU3IQvLdL6jg
 seo:
   title: Messaging API SDKのサンプルコードを活用しよう
   description: >-

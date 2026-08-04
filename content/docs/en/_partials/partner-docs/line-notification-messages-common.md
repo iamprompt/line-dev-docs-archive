@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/partner-docs/line-notification-messages-common
-__hash__: IYwkJAAJ2WHArWKjHVbmBe-wy3PYKiBmYuPVn8TQAls
+__hash__: Nt8n1kPZYlMy7BAnfgZIPR692YMTOHzJT-3z8txWCAg
 seo:
   description: ''
 ---

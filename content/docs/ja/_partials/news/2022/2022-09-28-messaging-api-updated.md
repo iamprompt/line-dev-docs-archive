@@ -6,7 +6,7 @@ description: >-
   APIの機能となり、どなたでも利用できるようになりました。
 meta: '{"date":"2022-09-28 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-09-28-messaging-api-updated
-__hash__: Yt8mbtdTpdis_FR-Nwl6MV5vYFN2TKjoSxMFnu7IOKY
+__hash__: zMXE1dnB5gVFrE9U4ViCT9OvEQidKnfVGsPBpaBszR4
 seo:
   title: Messaging APIで「任意の集計単位で統計情報を取得する機能」が利用できるようになりました
   description: >-

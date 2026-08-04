@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-10-28 01:00 UTC","tags":"docs, line-platform, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2021/2021-10-28-line-developer-day-2021
-__hash__: yj2vt8nWO7ekbS83m52qwH6_XiBpI8N5vVV0rAl0BYQ
+__hash__: wj5S6-tpu6iXXR2pngKMKILPHxNmRU9rQTYofShbGZs
 seo:
   title: LINE DEVELOPER DAY 2021 will be held on November 10 and 11
   description: >-

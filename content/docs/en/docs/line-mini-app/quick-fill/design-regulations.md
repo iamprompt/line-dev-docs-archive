@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/quick-fill/design-regulations
-__hash__: ap1dRLFxvNPg1C06R7HH2jKcpZekN8erG9f8Sf8Y2aw
+__hash__: kBkfXPgRWwlqdZfA3ROftqcOcUzJZFCi0XSyPcSCfkE
 seo:
   title: Common Profile Quick-fill design regulations
   description: null

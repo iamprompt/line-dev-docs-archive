@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/quick-fill/design-regulations
-__hash__: JDPbIUPp1_DGLoW9NTBKD4ZB0WBhKHdgepttPvOXDjU
+__hash__: PlAxJg9dUveLAr00pKVjthJj4qkCz7uMcEnD51NngG0
 seo:
   title: 共通プロフィールのクイック入力のデザインレギュレーション
   description: null

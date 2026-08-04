@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールのログイン方法に、LINEビジネスIDが追加されました。
 meta: '{"date":"2018-11-15 03:00 UTC","tags":"Maintenance","locale":"ja"}'
 path: /ja/_partials/news/2018/2018-11-15-login-method-added
-__hash__: bAKUQIDbHbm7L3NbaihoOZeGGL7nNVKuYA7BDnOOJiA
+__hash__: wS8TH9OG6WVEaHiN1gtwmh_kQnLjCCzgO5BUBZBJgBA
 seo:
   title: ログイン方法が追加されました
   description: LINE Developersコンソールのログイン方法に、LINEビジネスIDが追加されました。

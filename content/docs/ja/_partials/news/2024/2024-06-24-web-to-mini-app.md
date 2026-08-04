@@ -4,7 +4,7 @@ navigation: true
 description: 『LINEミニアプリドキュメント』において、「運用中のウェブアプリをLINEミニアプリ化する」というページを公開しました。
 meta: '{"date":"2024-06-24 00:00 UTC","tags":"line-mini-app, docs","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-06-24-web-to-mini-app
-__hash__: CXJjkrsC0iDbjrwwCf9HehUz0gvbNaO_q1qioWU7W4s
+__hash__: FLlP6uRSOraK0SGukkJWS3bPVNIGAJ0JNhF769f5dok
 seo:
   title: 運用中のウェブアプリをLINEミニアプリ化するためのドキュメントを公開しました
   description: 『LINEミニアプリドキュメント』において、「運用中のウェブアプリをLINEミニアプリ化する」というページを公開しました。

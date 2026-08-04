@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-quota
-__hash__: mm8WKmzgYKZh7gFGBT-BZBzKoI71FEtOw5AxDpsuQxY
+__hash__: 7UxoD6ePiEFjJTWTeqjXzgc52sZg1mK69KmH8H7pzxg
 seo:
   description: ''
 ---

@@ -6,7 +6,7 @@ description: >-
   available.
 meta: '{"date":"2020-08-26 00:00 UTC","tags":"LINE Blockchain","locale":"en"}'
 path: /en/_partials/news/2020/2020-08-26-line-blockchain-platform-released
-__hash__: pgSIjqeVg7fHPXb3Y7JDmWilnlVQLz6NoZU1TmosAN0
+__hash__: oGlAkxdVWkpBmJkR_GjieYuIak1g0ifqrAS_9fDBLWk
 seo:
   title: LINE Blockchain Platform is now available
   description: >-

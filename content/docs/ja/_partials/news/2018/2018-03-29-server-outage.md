@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-03-29 00:00 UTC","tags":"Outage report, LINE
   Platform","locale":"ja"}
 path: /ja/_partials/news/2018/2018-03-29-server-outage
-__hash__: 4S4Dx7I51czmzRT3NUJSp_C4Zo51uvTtqDXh6myuzH4
+__hash__: pAprfVPDPjS_wi9PLvhccgI9v3Ax-W3kWo2WHPS_4sY
 seo:
   title: 【復旧済み】Messaging API（ボット） 障害のお知らせ
   description: >-

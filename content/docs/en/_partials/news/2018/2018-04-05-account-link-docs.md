@@ -6,7 +6,7 @@ description: >-
   available in English.
 meta: '{"date":"2018-04-05 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2018/2018-04-05-account-link-docs
-__hash__: tdHnSYaQnj1JMnB67072INJFnmmPleuooq9Rn3x-TPE
+__hash__: YRmbJHcE497AUvHn5ALNkFwtA_hiLw425i-Sfus7ChY
 seo:
   title: English documentation for the Account link feature released
   description: >-

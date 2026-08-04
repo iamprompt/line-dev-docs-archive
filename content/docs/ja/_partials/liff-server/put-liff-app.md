@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-server/put-liff-app
-__hash__: jwFcqjuDtHERscXB1SttvCPi86dqA3SqMjEpFhRoklY
+__hash__: h2PJYN1C_CYBJc-UXnFAOlzw7u3OS3yTKi8EeWKxsI8
 seo:
   description: ''
 ---

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-10-01 00:00 UTC","tags":"LIFF, LINE MINI app,
   end-of-life","locale":"ja"}
 path: /ja/_partials/news/2021/2021-10-01-liff-v1-discontinued
-__hash__: NVTczXkmpxI1lt0FLyOULNXpqSO1onVXwgBs7CO_nb8
+__hash__: 6bS7NRgyb_xpjRpOv08n-64B0OEACQH2Ly1go32ALWY
 seo:
   title: 2021年10月1日をもってLIFF v1を廃止しました
   description: 2021年9月17日にお知らせしたとおり、LIFF v1を2021年10月1日に廃止いたしました。

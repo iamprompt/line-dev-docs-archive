@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-07-28 00:00 UTC","tags":"LINE Login, Deprecated, Life
   cycle","locale":"en"}
 path: /en/_partials/news/2021/2021-07-28-line-login-v2-0-is-deprecated
-__hash__: eForzGLsptSQorhWHcphWvljuIImo30iJCiKO0mZB2U
+__hash__: MJcD00thQ993TLn8Ly56OiacPdaZApweQedxYnzQQls
 seo:
   title: LINE Login v2.0 is deprecated
   description: LINE Login v2.0 is deprecated.

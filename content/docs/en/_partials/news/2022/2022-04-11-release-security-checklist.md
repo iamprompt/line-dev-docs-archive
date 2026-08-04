@@ -4,7 +4,7 @@ navigation: true
 description: We've released LINE Login security checklist.
 meta: '{"date":"2022-04-11 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-11-release-security-checklist
-__hash__: YksKIpzohY4pi-pQmf4do5M1fPExZS0WRSyeAlRVPRc
+__hash__: 0bybc18HyHs7vfnPB2SdGDUaDiEUayQlPaLPANDQzNw
 seo:
   title: LINE Login security checklist released
   description: We've released LINE Login security checklist.

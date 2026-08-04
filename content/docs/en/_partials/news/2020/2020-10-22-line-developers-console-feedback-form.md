@@ -6,7 +6,7 @@ description: >-
   we've added a feedback form to the LINE Developers Console.
 meta: '{"date":"2020-10-22 00:00 UTC","tags":"Console","locale":"en"}'
 path: /en/_partials/news/2020/2020-10-22-line-developers-console-feedback-form
-__hash__: 2pPJfou7rjwf9ZhApF77NMwkiYWDrcCEhgyz_48LXqs
+__hash__: _qatqrMLk3Hw3ytu_ThXvN8Zi-72m6J9wMK2nhlfkU8
 seo:
   title: Introducing the LINE Developers Console feedback form
   description: >-

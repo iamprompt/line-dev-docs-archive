@@ -4,7 +4,7 @@ navigation: true
 description: LIFF v2に、liff.shareTargetPicker()およびliff.readyが追加されました。
 meta: '{"date":"2020-03-03 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-03-03-add-share-target-picker-and-ready
-__hash__: K6VetVG6pLFD9RlfNH2sVr413YylNFyLqJQh7gerOmw
+__hash__: DUv16e9c5V7NdZqPsZ3Gv_UWrk-qhFfqUnyL2QRBF4M
 seo:
   title: LIFF v2にliff.shareTargetPicker()およびliff.readyが追加されました
   description: LIFF v2に、liff.shareTargetPicker()およびliff.readyが追加されました。

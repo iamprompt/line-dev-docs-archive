@@ -6,7 +6,7 @@ description: >-
   announced on August 31.
 meta: '{"date":"2015-09-14 00:00 UTC","tags":"LINE Login","local":"en"}'
 path: /en/_partials/news/2015/2015-09-14-spec-change
-__hash__: 8_j5gmWLBNtFHkGiuwbH95nbMR92nSqc7fIcjd1Epi0
+__hash__: a_0YIJgKRhnT7vsWs24-svUiceM5e8LidwI9x7ud6ZQ
 seo:
   title: Specification change to API completed
   description: >-

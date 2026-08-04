@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-03-28 00:00 UTC","tags":"Messaging API, Rich
   menu","locale":"ja"}
 path: /ja/_partials/news/2019/2019-03-28-bulk-link-rich-menu
-__hash__: 9JTFQemnC7xnaPFhBHTexeABIrQ20m416FIuBXcSboI
+__hash__: JQGi9blmyLEO7nWh-Sif9TlG1cUzqVFbb0NLHnKV1E8
 seo:
   title: Messaging API：複数のユーザーのリッチメニューを一度に設定できるようになりました
   description: リッチメニューについて、以下の操作を実行できるようになりました。

@@ -7,7 +7,7 @@ meta: >-
   {"date":"2022-10-03 00:00 UTC","tags":"messaging-api, line-blockchain,
   console","locale":"ja"}
 path: /ja/_partials/news/2022/2022-10-03-provide-information-to-zhd
-__hash__: 6-4pRI5vO4_hV3oumQa9dd2lD9FqfAis-X5IEyq9Vew
+__hash__: CqevcPQp_4j2zaR_kRN_bea4f-xA2q-IFNLFhtoZm6E
 seo:
   title: 「ZHDグループへの情報提供に関する個別規約」の制定予定日を2023年3月8日に延期します
   description: >-

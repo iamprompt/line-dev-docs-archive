@@ -9,7 +9,7 @@ description: >-
 meta: '{"date":"2024-08-14 00:00 UTC","tags":"messaging-api, console","locale":"en"}'
 path: >-
   /en/_partials/news/2024/2024-08-14-no-longer-possible-to-create-messaging-api-channels-from-console
-__hash__: s3OhNaLBcVJ-lpyKqZGvXoy7v9WZ-JOuMXyVEHCVbpI
+__hash__: '-JxDV5MZRT4KYaE0A2ZS5ylKVVxHH9wKRgM7JLKRdlU'
 seo:
   title: >-
     As of September 4, 2024, it will no longer be possible to create Messaging

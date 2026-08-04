@@ -5,7 +5,7 @@ description: >-
   LINE通知メッセージは、ユーザーのユーザーIDを知らなくても、ユーザーの電話番号を指定してメッセージを送信できるサービスです。ユーザーがLINE公式アカウントを友だち追加していなくても、LINE公式アカウントからメッセージを送信できます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/line-notification-messages/overview
-__hash__: qyC7_9INFFdiDhOlrBO8Lqph6KKnhex7MIL0lmocLgc
+__hash__: yZrutTwM1AG95_FrlSRInKrimhtgUD-lDR40nGaDWFo
 seo:
   title: LINE通知メッセージの概要
   description: >-

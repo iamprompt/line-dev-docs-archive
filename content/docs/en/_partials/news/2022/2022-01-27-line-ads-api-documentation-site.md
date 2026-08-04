@@ -6,7 +6,7 @@ description: >-
   LINE Ads Reporting API.
 meta: '{"date":"2022-01-27 00:00 UTC","tags":"LINE Ads","locale":"en"}'
 path: /en/_partials/news/2022/2022-01-27-line-ads-api-documentation-site
-__hash__: LCGnlSFIiVBxY1LsnrTe5bHs5dBjSr6URKYbCz-aWqg
+__hash__: HylQ-VLI9V4TcyBMLAsuVcMLBl5E7Hkxu-N0xHmPotE
 seo:
   title: LINE Ads Reporting API documentation site is now available
   description: >-

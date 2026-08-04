@@ -6,7 +6,7 @@ description: >-
   placed the "Documentation" and "API Reference" categories under Guides.
 meta: '{"date":"2020-12-11 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-12-11-rename-guides-to-documentation
-__hash__: 2bIsk91BwEtegN4hTPkWjdNS-_L4rvxUgDbnWsgUViw
+__hash__: 0wtszktqtPBDKdWa2KEE-bd3aRACW6Ateu7u7DWKStk
 seo:
   title: We changed "Guides" to "Documentation" on the LINE Developers site
   description: >-

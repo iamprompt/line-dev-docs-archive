@@ -10,7 +10,7 @@ description: >-
 meta: '{"date":"2020-10-09 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: >-
   /en/_partials/news/2020/2020-10-09-reminder-for-domain-name-change-transition-period
-__hash__: va4nNVt5TN1yCcJTPVImPXdG4tA-Ori2ZvuS6u9uprY
+__hash__: RC1xgOxJA-MkqEw0kVVIqwF4XxsW6DCT52osRoGgRo4
 seo:
   title: >-
     Reminder: Notice of domain name change for certain endpoints (Domain names

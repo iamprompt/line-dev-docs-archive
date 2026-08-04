@@ -6,7 +6,7 @@ meta: >-
   {"date":"2024-11-26 00:00 UTC","tags":"line-official-account,
   messaging-api","locale":"ja"}
 path: /ja/_partials/news/2024/2024-11-26-api-terms-of-use
-__hash__: FpX4Pyg9SoXVUwCdSxtV3uzOUWGM_f5uDqVk4zIuBPs
+__hash__: Dq6bHJdUs_wDgcpj6xbmhSMzTZgecssqFUhOoUpQlsY
 seo:
   title: 2024年11月26日にLINE公式アカウントAPI利用規約を改定しました
   description: 2024年11月11日にお知らせしたとおり、2024年11月26日に、一部の国と地域における「LINE公式アカウントAPI利用規約」を改定しました。

@@ -7,7 +7,7 @@ description: >-
   14.1.2で修正されました。
 meta: '{"date":"2021-09-08 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-09-08-resolve-liff-workaround-for-webkit-bug
-__hash__: rI_1GTrkc6Ky0hQeSU2KOckPuu_3ixwAwQCYwPJ8Brw
+__hash__: XZVzGwZfvdpDCPoOcfK1J076jTNfddklBmYMzV5EBlQ
 seo:
   title: LIFF間遷移前のLIFFアプリに戻る際にコンテンツが正しく表示されなくなる不具合が修正されました
   description: >-

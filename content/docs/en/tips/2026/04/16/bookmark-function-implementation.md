@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-04-16 00:00
   UTC","tags":"messaging-api","locale":"en","sidebar":false}
 path: /en/tips/2026/04/16/bookmark-function-implementation
-__hash__: gSZglgp2XglaiFa-TZ8ts1ot_K7uPUwt7o5fvBc8vaE
+__hash__: TXgfyZeOxcfvVbDMz8wJnVMIxXAlugE4nb1Ib4AtcME
 seo:
   title: >-
     How to build a bookmark feature to revisit messages from LINE Official

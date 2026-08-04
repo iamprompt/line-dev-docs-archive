@@ -9,7 +9,7 @@ description: >-
   message endpoint as of April 23, 2025.
 meta: '{"date":"2025-03-31 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2025/2025-03-31-messaging-api-rate-limit
-__hash__: 6aVgev7RhjDbL6mcrvttfvnQR-Xr0dIfsP3kf-RvK8U
+__hash__: od87pMnGJ3GeH5NqSWTQ13Kb3drePWGk0SGUVKzvNeg
 seo:
   title: >-
     As of April 23, 2025, in the Messaging API, the rate limit for the "Send

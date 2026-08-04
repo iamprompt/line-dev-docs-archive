@@ -9,7 +9,7 @@ description: >-
   narrowcast messages:
 meta: '{"date":"2024-08-26 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-08-26-age-filter-subdivision
-__hash__: Gw7VS46r3rVx8CbuBWDSks6aZ8G_In9gjkqqsiIkXtY
+__hash__: 4UVqNuC8i4M56JeFBmaVrO15ILteJHbTkeauDlPRYQs
 seo:
   title: >-
     In the Messaging API, you can now use narrowcast messages to filter the

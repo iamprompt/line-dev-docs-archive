@@ -11,7 +11,7 @@ description: >-
 meta: '{"date":"2021-01-28 00:00 UTC","tags":"Messaging API, SSL","locale":"en"}'
 path: >-
   /en/_partials/news/2021/2021-01-28-reminder-update-webhook-client-and-root-certificate
-__hash__: cqTWHwcAwV3XT7NCvUN7dN2vzGs6vNKU3gv1C6ncapc
+__hash__: ttz5zKAxfhd_3iAaOIQ1yu-0Y1xbkzrn5wQQ9Zh1qm0
 seo:
   title: >-
     Reminder: TLS 1.0 and TLS 1.1 support by the webhook notification source

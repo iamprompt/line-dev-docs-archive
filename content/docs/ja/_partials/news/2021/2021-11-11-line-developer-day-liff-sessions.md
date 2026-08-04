@@ -4,7 +4,7 @@ navigation: true
 description: LINE DEVELOPER DAY 2021にて、LIFFに関する2つのセッションが行われました。
 meta: '{"date":"2021-11-11 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-11-line-developer-day-liff-sessions
-__hash__: QVbRRLOxlGSbZOFHLpohJunhR2WHGTLMye8-4sAuNWM
+__hash__: RQbVz1hbcQIPU7o6jpswVsv47sdZAylAA6Ajymcg-2w
 seo:
   title: LINE DEVELOPER DAY 2021のLIFFのセッション内で共有されたLIFFの機能を紹介します
   description: LINE DEVELOPER DAY 2021にて、LIFFに関する2つのセッションが行われました。

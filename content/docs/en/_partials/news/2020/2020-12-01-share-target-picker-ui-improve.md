@@ -4,7 +4,7 @@ navigation: true
 description: We've improved the share target picker UI.
 meta: '{"date":"2020-12-01 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2020/2020-12-01-share-target-picker-ui-improve
-__hash__: ThJzKBdjgydupOg3Y_i_IOZ-7NV6Rd_k8DOG38oehIU
+__hash__: GAUtbMHEjeu89pMX3XmXQOLRbfwz7RpfwM_naccXJdY
 seo:
   title: Share target picker UI has been improved
   description: We've improved the share target picker UI.

@@ -7,7 +7,7 @@ description: >-
   C# (.NET) SDK and are looking to add more resources.
 meta: '{"date":"2018-01-15 00:00 UTC","tags":"Messaging API, Docs","locale":"en"}'
 path: /en/_partials/news/2018/2018-01-15-community-sdk
-__hash__: 48Ov_SQ5LDaRz9vAjiBm_ijH8Z9pzFg_jvSE8xAycXk
+__hash__: cXtau4ioyhA2LPk4nnnn8xNy0riMHrOeqZr3dueVjG4
 seo:
   title: Community SDK section released
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/development-guidelines
-__hash__: sHG1AKrywiLcnxeNxcRYqmqfcHcsLhYQxCNeKz4SlLo
+__hash__: lQewijMCcdJthImXzueyeBlzaK2DjU7OIc4xo3DeIIk
 seo:
   title: LINE MINI App development guidelines
   description: null

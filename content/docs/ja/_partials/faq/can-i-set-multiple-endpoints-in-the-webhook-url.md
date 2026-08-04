@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-3-28 00:00
   UTC","tags":"messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/can-i-set-multiple-endpoints-in-the-webhook-url
-__hash__: 7GN2ZweBdCYFH5t167KdO2iq_UdTaqb6AVUOFJ0bJjI
+__hash__: OgYTTS1XM0bzNgRWQE4pht2UGpP2prMkjsikq0vW0tA
 seo:
   title: Webhook URLに複数のボットサーバーのエンドポイントを設定できますか？
   description: >-

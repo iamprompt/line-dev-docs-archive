@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/send-coupons-to-users
-__hash__: euVVxLqq0xknzOFkagy7SIBjnhPz5o02rFdUdoGiXHc
+__hash__: Q3DWl-z5Icn5Wu0Sn4Eoiw0NoD8RmhB52d0i3qCQfug
 seo:
   title: クーポンを作成してユーザーに送る
   description: null

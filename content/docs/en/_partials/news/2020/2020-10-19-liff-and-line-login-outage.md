@@ -11,7 +11,7 @@ meta: >-
   {"date":"2020-10-19 00:00 UTC","tags":"Outage report, LINE Login,
   LIFF","locale":"en"}
 path: /en/_partials/news/2020/2020-10-19-liff-and-line-login-outage
-__hash__: MIQu4iDBMaV28M6NK6_vcrH4CuVcYEpJXQTnaFhkwOs
+__hash__: VD-0DNAPvN7U63YBUyvfrR8umriGsWjYTCngCUjFnxk
 seo:
   title: >-
     [Resolved] Notice about service outage for LINE Login and LINE Front-end

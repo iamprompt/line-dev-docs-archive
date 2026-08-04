@@ -6,7 +6,7 @@ description: >-
   LINE SDK for Unity.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login-sdks/unity-sdk/project-setup
-__hash__: YuKmxbXDsg9OnBN7EeXx84ggFUNryHXYWee3VK-u4Ns
+__hash__: NXi_3hX1gzO1w5yegY8ha1N0OiJkIXG6eS5UUbzsyoQ
 seo:
   title: Setting up your project
   description: >-

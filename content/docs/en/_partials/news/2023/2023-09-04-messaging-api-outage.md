@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-09-04 00:00 UTC","tags":"outage-report,
   messaging-api","locale":"en"}
 path: /en/_partials/news/2023/2023-09-04-messaging-api-outage
-__hash__: m10mGsjHWFTJEZ99GDWmEX139dGbuB3MdjnYS-K5jeI
+__hash__: JLdzWFYkXrFf0NPzyfq_6jHIRY_XkVrrkN0as8IyoDQ
 seo:
   title: '[Resolved] Notice of failure in some of the insight''s APIs'
   description: ''

@@ -10,7 +10,7 @@ description: >-
   transition.
 meta: '{"date":"2023-11-30 01:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2023/2023-11-30-liff-update-line-13-20-0
-__hash__: KNvBPARATd00jecsiCsCngTfqscg7ppneenqnuuNI7M
+__hash__: p9pllnI7kSErl47PU98xH7ZaDeg5uYdU0_VAVTLpZKM
 seo:
   title: >-
     We've fixed a bug in LINE version 12.13.0 or later where liff.referrer

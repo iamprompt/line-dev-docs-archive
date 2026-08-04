@@ -6,7 +6,7 @@ description: >-
   api.line.me to api-data.line.me. There is no maintenance associated with this.
 meta: '{"date":"2019-11-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2019/2019-11-08-domain-name-change
-__hash__: i2F3iQ5Z5pYXX-Da8JMNAyN3GhT7kiUoZchLLv8G7lU
+__hash__: S-N875Xf7ogeUeqaa8J8uQ5dJJc6HEuV-Z6I4SmNA7E
 seo:
   title: Notice of domain name change for certain endpoints
   description: >-

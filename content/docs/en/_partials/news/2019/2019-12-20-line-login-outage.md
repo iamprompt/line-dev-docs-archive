@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-12-20 0:00 UTC","tags":"Outage report, LINE
   Login","locale":"en"}
 path: /en/_partials/news/2019/2019-12-20-line-login-outage
-__hash__: A5dDv_lUVBciu7QZ38vT904X7YItzCUY21LZCbKWD08
+__hash__: _h8RWEng8rO4DLUKa_6RNucro5_0XqXIQpW97ESjY9Q
 seo:
   title: '[Resolved] Notice about service outage for LINE Login'
   description: >-

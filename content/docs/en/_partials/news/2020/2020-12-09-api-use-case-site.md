@@ -8,7 +8,7 @@ description: >-
   information about LINE APIs, use cases, client cases, demo apps, and more.
 meta: '{"date":"2020-12-09 00:00 UTC","tags":"LINE Platform","locale":"en"}'
 path: /en/_partials/news/2020/2020-12-09-api-use-case-site
-__hash__: KO13bWj6LNXRKbdthtvsae_PM8e6Em5KXUm9nliYxt0
+__hash__: C8KEnYFSQaji6ZsnFdmn8T02wipCjQtbU6qTRhhGHrs
 seo:
   title: >-
     We've launched the LINE API Use Case site, which introduces LINE API use

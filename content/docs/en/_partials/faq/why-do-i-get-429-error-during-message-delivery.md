@@ -13,7 +13,7 @@ meta: >-
   {"date":"2026-01-22 00:00 UTC","tags":"line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/why-do-i-get-429-error-during-message-delivery
-__hash__: e7GE4sLdyfLrp6a8N6k8LUmd5tV79P0mtIjYXQH4Z8k
+__hash__: sLNZ4fT59UrmBN4f9qYg8V3eRvAucPfe1OgdxzmQ2so
 seo:
   title: >-
     Why do I get a 429 Too Many Requests error (You have reached your monthly

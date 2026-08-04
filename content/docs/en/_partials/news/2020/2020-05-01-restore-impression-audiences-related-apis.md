@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-05-01 00:01 UTC","tags":"Messaging
   API","new":"false","locale":"en"}
 path: /en/_partials/news/2020/2020-05-01-restore-impression-audiences-related-apis
-__hash__: OsAAvH0qeCSUpSoi3Hl0JdHDaHTR7jpxaLgd48J8Z3Q
+__hash__: HE5IeLla457BFh1NPd3ZWOyc9oCNFqgl8sSrhTJf6Lc
 seo:
   title: >-
     Notice about resumption of service for some APIs for 'Audience' and

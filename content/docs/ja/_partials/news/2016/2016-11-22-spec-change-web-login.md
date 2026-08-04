@@ -6,7 +6,7 @@ description: >-
   the error response of LINE Login authentication.
 meta: '{"date":"2016-11-22 00:00 UTC","tags":"LINE Login","local":"en"}'
 path: /ja/_partials/news/2016/2016-11-22-spec-change-web-login
-__hash__: 89AdYq7hkRqOmvxzUNxDYEc3gipv7s5BgB1ttQ7ChWY
+__hash__: Qa21WMTD55EowToX_0rB0tCP-Ll_bjBOZOtA4jtmhSc
 seo:
   title: 'Important: Specification change to API'
   description: >-

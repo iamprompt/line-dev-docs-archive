@@ -6,7 +6,7 @@ description: >-
   notch, use CSS to contain LINE MINI App in safe area.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/design/landscape
-__hash__: w8eeKnWwr8XOPeQeJwz-XyFnW1SlVA4p7JibpDnheec
+__hash__: SHLUeJdrnDHjlAGSkrnHUFcQ2SWRwnoMMO9QlUIiEVo
 seo:
   title: Safe area of LINE MINI App
   description: >-

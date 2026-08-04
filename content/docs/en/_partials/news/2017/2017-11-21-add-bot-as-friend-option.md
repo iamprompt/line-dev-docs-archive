@@ -11,7 +11,7 @@ meta: >-
   {"date":"2017-11-21 00:00 UTC","tags":"Docs, Messaging API, LINE Login, Social
   API","local":"en"}
 path: /en/_partials/news/2017/2017-11-21-add-bot-as-friend-option
-__hash__: 5CTV4wC9wKltUFUkpdB0aOiPuLbJHcuPQggDqj-2SdU
+__hash__: MWquO35XEntAXbZADVA7ialUlz_5byrzgXDyv4D_1iU
 seo:
   title: Link your bot to your LINE Login channel
   description: >-

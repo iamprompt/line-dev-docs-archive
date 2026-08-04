@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-10-13 01:00 UTC","tags":"Console,
   options-for-corporate-customers, Outage report","locale":"ja"}
 path: /ja/_partials/news/2021/2021-10-13-notification-email-outage
-__hash__: vNyDNI2kv7j1sSeKa-1BzCe95u8OSboVHFzWdzAG8NQ
+__hash__: fi1D1bCufPz7o-thLkmYOZqJuQ6E6yB7dJMDlKeb9FI
 seo:
   title: 【復旧済み】LINE Developersコンソール メール送信障害のお知らせ
   description: LINE Developersコンソールの各種メール送信処理において、以下の障害が発生しておりましたが、すべて復旧いたしました。

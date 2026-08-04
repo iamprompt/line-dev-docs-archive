@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/in-app-purchase/overview
-__hash__: q9eqn2BsFzty8B3f3RblPpuWAIDMt52hEDG7JgEorK0
+__hash__: zqvyrKk9s55-vlf6Ub6Fslc9vJwvfVIRgpNE5_-TYMA
 seo:
   title: アプリ内課金の概要
   description: null

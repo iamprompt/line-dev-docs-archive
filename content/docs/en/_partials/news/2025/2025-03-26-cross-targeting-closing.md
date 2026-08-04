@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-03-26 00:00 UTC","tags":"messaging-api, end-of-life,
   life-cycle","locale":"en"}
 path: /en/_partials/news/2025/2025-03-26-cross-targeting-closing
-__hash__: tuj0USdIx28JVDRn1WwYE7TgeQTI8isDjTqOPnvdgQs
+__hash__: Qy7R1V3xWD7Z2lCFOplE8ifqm7DKKUFIj5ur6i5FytE
 seo:
   title: >-
     [Updated] We've ended the provision of the feature to change the authority

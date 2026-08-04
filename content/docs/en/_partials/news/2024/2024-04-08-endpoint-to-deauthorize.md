@@ -10,7 +10,7 @@ meta: >-
   {"date":"2024-04-08 00:00 UTC","tags":"line-login, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2024/2024-04-08-endpoint-to-deauthorize
-__hash__: Yw-DumW1wIFBwgERal80HE4XqD2STv-3suH5Rv-OCjs
+__hash__: JWHei_tMWlkrMHXSG67f9X-Dt_hvNYpCsGf_Um03hAM
 seo:
   title: >-
     In accordance with the LINE Login development guidelines, deauthorize your

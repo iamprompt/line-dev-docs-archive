@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/technicalcase/hakuhodo
-__hash__: p6AuWilZyIXMWUsJw9wfoRfMr44tonilSfh0Yl1zGNY
+__hash__: uDsFhw96Wjr-lCuCvZG_JgSeh-7Iu-h_DNVHonBFUFU
 seo:
   title: 富山県朝日町の移動＆健康活性化デジタル町おこし施策「ポHUNT」の開発事例
   description: ''

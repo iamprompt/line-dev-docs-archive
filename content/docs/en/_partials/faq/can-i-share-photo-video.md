@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-7-17 8:29 UTC","tags":"social-plugins,
   sp-share","priority":1000,"locale":"en"}
 path: /en/_partials/faq/can-i-share-photo-video
-__hash__: hPeCvuCbQen8SrzQQRY5Hg6bi6_vmjG5dAuMxUYFCOQ
+__hash__: tIPuLgE4tJ7F73trLfGPjwcnV3TWPPS_8hYku-4UnZg
 seo:
   title: Can I share photos and videos with the LINE Share button?
   description: >-

@@ -4,7 +4,7 @@ navigation: true
 description: これまでSocial APIと呼ばれていた機能は、これからはLINEログインの一部の機能として扱われることになりました。
 meta: '{"date":"2020-11-12 00:00 UTC","tags":"LINE Login, Social API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-12-social-api-is-now-part-of-line-login
-__hash__: 3JzYBpRTq36nTK8wLbwnnJqrRCuTS74JsfaV3wcxPm4
+__hash__: DoUBvA90KuRN2Fng8PZoJ1sOGNRUipAgsg-uxCIo0Jo
 seo:
   title: Social APIがLINEログインの一部になりました
   description: これまでSocial APIと呼ばれていた機能は、これからはLINEログインの一部の機能として扱われることになりました。

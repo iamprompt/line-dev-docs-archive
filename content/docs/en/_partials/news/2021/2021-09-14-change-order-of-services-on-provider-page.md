@@ -8,7 +8,7 @@ description: >-
   page.
 meta: '{"date":"2021-09-14 00:00 UTC","tags":"Console","locale":"en"}'
 path: /en/_partials/news/2021/2021-09-14-change-order-of-services-on-provider-page
-__hash__: WkEPZKx0GlOnH2NlL3JbmMsSz3QQOzv9yZGXbHwLqM0
+__hash__: CcWuTouXCfYPLWp42U-TcuOeuZxoGlT5SfzljK55uKY
 seo:
   title: >-
     You can now change the order in which services are displayed on the provider

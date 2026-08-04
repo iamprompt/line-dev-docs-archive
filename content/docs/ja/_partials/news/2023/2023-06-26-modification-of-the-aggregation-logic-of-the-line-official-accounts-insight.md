@@ -7,7 +7,7 @@ meta: >-
   line-official-account","locale":"ja"}
 path: >-
   /ja/_partials/news/2023/2023-06-26-modification-of-the-aggregation-logic-of-the-line-official-accounts-insight
-__hash__: UqSx327ZBoc62DA00SSlN_j2I7DjFPl_HlPM-4iIMK4
+__hash__: 12dVe-qamL7XZmlVeUAO9PZN13hgeuTVgorcNIGRMCI
 seo:
   title: LINE公式アカウントの「分析」の集計ロジックを修正します
   description: LINE公式アカウントの分析の集計ロジックを修正します。この修正により、Messaging APIの分析のエンドポイントで取得できる値に影響があります。

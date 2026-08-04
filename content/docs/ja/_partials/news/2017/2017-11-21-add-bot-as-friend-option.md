@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-11-21 00:00 UTC","tags":"Docs, Messaging API, LINE Login, Social
   API","locale":"ja"}
 path: /ja/_partials/news/2017/2017-11-21-add-bot-as-friend-option
-__hash__: 6znck_bQXoI59J332o240tvO1Ua47iUxQLk7p8Av1QY
+__hash__: hIPs97obKU2NQYdlgC5PaJ5Z-w6EAiev3m8CgbD4JZs
 seo:
   title: LINEログインチャネルにボットをリンクできるようになりました
   description: >-

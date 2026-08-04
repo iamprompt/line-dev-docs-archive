@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/delete-rich-menu
-__hash__: 4UNjRBedqCmruCRMqaAbQLPq7KeEgixrykOJsyFgPrg
+__hash__: 1reSSQe0IdOhPSml6rfBQMlLVb37ofbCpRfGrcmjhfY
 seo:
   description: ''
 ---

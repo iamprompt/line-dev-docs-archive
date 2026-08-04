@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/demo/mixwayapi-demo
-__hash__: '-StKvQnp3hjLrmyi5Olt4-TiM9twS6NFZwlNbxeYDa8'
+__hash__: celZkz-Y1KoihkE2T0MxvHAXR1yDs6TE7lsHrvLEFtk
 seo:
   title: Event experience demo
   description: null

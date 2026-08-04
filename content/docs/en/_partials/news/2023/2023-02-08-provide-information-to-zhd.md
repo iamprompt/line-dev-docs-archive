@@ -15,7 +15,7 @@ meta: >-
   {"date":"2023-02-08 00:00 UTC","tags":"messaging-api, line-blockchain,
   console","locale":"en"}
 path: /en/_partials/news/2023/2023-02-08-provide-information-to-zhd
-__hash__: QQ5CAYckGCTk_DIm_IY8TTBBse0Wwu9RgXUcJkvDwys
+__hash__: NHFi1Mtouja3ohkv4hgAaHLO2Mq1wSk89OxhHW4x254
 seo:
   title: >-
     Establishment of "Individual Terms and Conditions for Provision of

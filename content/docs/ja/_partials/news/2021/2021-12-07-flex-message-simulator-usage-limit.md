@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-12-07 00:00 UTC","tags":"flex-message-simulator,
   console","locale":"ja"}
 path: /ja/_partials/news/2021/2021-12-07-flex-message-simulator-usage-limit
-__hash__: LfwXqv12Ff40qN-B3EPc9MYXDF5o0In-bOkYBQWLsR4
+__hash__: 36Axlmge_kEG4vsr-RryHqkSrA54p3I_-kBaxw9LCUs
 seo:
   title: Flex Message Simulatorの使用がLINE Developersコンソールの開発者アカウントに限定されます
   description: Flex Message Simulatorは、LINE Developersコンソールで作成した開発者アカウントでのみ利用可能となります。

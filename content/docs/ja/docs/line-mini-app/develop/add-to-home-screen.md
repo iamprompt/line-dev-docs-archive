@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/add-to-home-screen
-__hash__: QIoXGbJ1QO9-SZ7NZYR9kuKUAiEwDm6tC0PG1P-E1fo
+__hash__: Z21gUj3YQ2wNT3KJhiiLgqA6zYD8VgpOFAtZPYv_9k4
 seo:
   title: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する
   description: null

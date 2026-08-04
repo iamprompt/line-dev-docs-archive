@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-04-25 00:00 UTC","tags":"clova-extensions-kit, console,
   end-of-life, life-cycle","locale":"en"}
 path: /en/_partials/news/2023/2023-04-25-clova-skill-channel-deletion
-__hash__: Sd0ii-Z9PTGVCEPygHfcYnawIEVeWkh8I-bPGMOJ8ac
+__hash__: DtC7-qPmYj6RTf0ljqBa9AR5RXbctWvdLt2zfUeAQtQ
 seo:
   title: We'll perform a bulk deletion of CLOVA skill channels on May 9, 2023
   description: >-

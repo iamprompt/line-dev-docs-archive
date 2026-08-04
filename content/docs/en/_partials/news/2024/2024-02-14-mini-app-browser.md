@@ -10,7 +10,7 @@ description: >-
   a web browser without having to install the LINE app.
 meta: '{"date":"2024-02-14 00:00 UTC","tags":"line-mini-app, console","locale":"en"}'
 path: /en/_partials/news/2024/2024-02-14-mini-app-browser
-__hash__: EpV4hr5RCEGwtozcrlmMyem7O_gJ6L5cUuxDuibx6IQ
+__hash__: sWZGcEhkHoAGKqxJiuUFPG9leVH0zGZnUGRvRFD6wAI
 seo:
   title: >-
     LINE MINI Apps can now be used by non-LINE users outside of Japan, Thailand
