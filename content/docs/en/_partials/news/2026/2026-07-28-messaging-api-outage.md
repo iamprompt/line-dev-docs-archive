@@ -7,7 +7,7 @@ meta: >-
   line-login, liff, line-mini-app, messaging-api,
   options-for-corporate-customers, console","locale":"en"}
 path: /en/_partials/news/2026/2026-07-28-messaging-api-outage
-__hash__: ZRVcXUCPqa5unIrmfU36Ndog0UVBfqS9QCpLeyqU4rQ
+__hash__: P5yE-ElaVd05QrqwnRjXXfKoxjW_gMTdNsn2cbmGWas
 seo:
   title: '[Resolved/Updated] Notice about service outage for the LINE Platform'
   description: ''
@@ -73,7 +73,7 @@ There were instances where adding a LINE Official Account as a friend or unblock
 
 There were instances where channel settings couldn't be changed properly.
 
-### LINE notification messages
+#### LINE notification messages
 
 - There were instances where sending webhook events ([delivery completion events](/docs/partner-docs/line-notification-messages/message-sending-complete-webhook-event/)) was delayed or didn't work properly.
 - Some requests weren't processed properly, resulting in errors with status code 5xx.

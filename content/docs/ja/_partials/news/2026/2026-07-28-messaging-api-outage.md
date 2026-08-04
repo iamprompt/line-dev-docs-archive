@@ -7,7 +7,7 @@ meta: >-
   line-login, liff, line-mini-app, messaging-api,
   options-for-corporate-customers, console","locale":"ja"}
 path: /ja/_partials/news/2026/2026-07-28-messaging-api-outage
-__hash__: IKPqUoaMKlCiHlnwA1PY1wBM3DVDjemIjv7xjQBXDC4
+__hash__: XKqD5wLKcXJrFksPI497k-AA9WWK7Pg-mgl9dSeQ02o
 seo:
   title: 【復旧済み／更新】LINEプラットフォーム障害のお知らせ
   description: ''
@@ -73,7 +73,7 @@ LINEプラットフォームにおいて以下の障害が発生しておりま�
 
 各チャネルの設定変更が正常に行われない場合がありました。
 
-### LINE通知メッセージ
+#### LINE通知メッセージ
 
 - Webhookイベント（[配信完了イベント](/docs/partner-docs/line-notification-messages/message-sending-complete-webhook-event/)）の送信が遅延、もしくは正常に行われない場合がありました。
 - 一部のリクエストを正常に処理できず、ステータスコード500番台のエラーが発生していました。
