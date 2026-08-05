@@ -7,11 +7,15 @@ meta: >-
   line-login, liff, line-mini-app, messaging-api,
   options-for-corporate-customers, console","locale":"ja"}
 path: /ja/_partials/news/2026/2026-07-28-messaging-api-outage
-__hash__: m5NB9fr_APNsxoqozYweG6d4GDfkTif1eFX_BCWaGfc
+__hash__: WKbAiVbZtGp77oyt-Wnh-NWdOrcJQFfMT57n9PEo_jc
 seo:
   title: 【復旧済み／更新】LINEプラットフォーム障害のお知らせ
   description: ''
 ---
+
+::admonition{title="2026年8月5日追記" type="note"}
+「[原因](#messaging-api-outage-cause-20260728)」を更新しました。
+::
 
 ::admonition{title="2026年8月3日追記" type="note"}
 「[影響範囲](#messaging-api-outage-impact-20260728)」および「[状況](#messaging-api-outage-details-20260728)」にLINE通知メッセージに関する情報を追記しました。
@@ -33,9 +37,7 @@ LINEプラットフォームにおいて以下の障害が発生しておりま�
 
 ### 原因
 
-調査中
-
-原因については、調査が完了し次第、情報を更新します。
+サーバー障害
 
 ### 影響範囲
 

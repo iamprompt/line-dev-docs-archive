@@ -7,11 +7,15 @@ meta: >-
   line-login, liff, line-mini-app, messaging-api,
   options-for-corporate-customers, console","locale":"en"}
 path: /en/_partials/news/2026/2026-07-28-messaging-api-outage
-__hash__: '-O_gUIWBHC9lpBsHV4M-iWp4BuqpgRaZfM7o96GuLcQ'
+__hash__: c1v18KwzG3rVdlo9w0Bxh1Zpma-1HzMcmFkrbH5BLrk
 seo:
   title: '[Resolved/Updated] Notice about service outage for the LINE Platform'
   description: ''
 ---
+
+::admonition{title="Updated on August 5, 2026" type="note"}
+We've updated the [Cause of the outage](#messaging-api-outage-cause-20260728).
+::
 
 ::admonition{title="Updated on August 3, 2026" type="note"}
 We've added information regarding LINE notification messages to the [Impact](#messaging-api-outage-impact-20260728) and [Details](#messaging-api-outage-details-20260728).
@@ -33,9 +37,7 @@ July 28, 2026 around 16:46 - around 21:11 (UTC+9)
 
 ### Cause of the outage
 
-Under investigation
-
-We'll provide an update on the cause of the outage once the investigation is complete.
+Server failure
 
 ### Impact
 
