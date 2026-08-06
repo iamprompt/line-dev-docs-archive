@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/02/19/markdown-notebooklm
-__hash__: JkOl9QAGpDN0fw2fyh40x8NaiboHJc7VlLdHOlawu6k
+__hash__: iVFN7bSsHXVEyzBtqH2hCHev2l7ca6re8bdMoC83HQI
 seo:
   title: >-
     Let AI read the documentation on the LINE Developers site: How to use the
@@ -128,7 +128,7 @@ Beyond this example, you can also use NotebookLM’s Audio Overview and Video Ov
 We encourage you to try the Markdown display feature on the LINE Developers site and explore new ways to make the most of the documentation.
 
   :::style
-  html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}
+  html pre.shiki code .sZEs4, html code.shiki .sZEs4{--shiki-default:#E6EDF3}html pre.shiki code .sp6Gy, html code.shiki .sp6Gy{--shiki-default:#79C0FF;--shiki-default-font-weight:bold}html pre.shiki code .sQhOw, html code.shiki .sQhOw{--shiki-default:#FFA657}html pre.shiki code .s6XMU, html code.shiki .s6XMU{--shiki-default:#E6EDF3;--shiki-default-font-weight:bold}html pre.shiki code .sJYU1, html code.shiki .sJYU1{--shiki-default:#E6EDF3;--shiki-default-font-style:italic}html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}
   :::
 
   :::tags{tags="docs, line-developers-site" lang="en" section="tips"}

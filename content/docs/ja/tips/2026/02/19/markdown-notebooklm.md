@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/02/19/markdown-notebooklm
-__hash__: l0FWgPZv6WURuXcPm3A2l1nR-8GkJ5RQW9qR573BkEE
+__hash__: v94lF8qGb-0hQFveKAGbozdRIzd8o4EeA8lyGoSJZvw
 seo:
   title: AIにLINE Developersサイトのドキュメントを読ませる：Markdown表示機能の活用方法
   description: こんにちは！LINE Developersサイトのドキュメントを担当している、テクニカルライターの岡島です。
@@ -130,7 +130,7 @@ LINEミニアプリ（特に認証済ミニアプリ）には、通常のLIFFア
 ぜひ、LINE DevelopersサイトのMarkdown表示機能を使って、ドキュメントの新しい活用方法を試してみてください。
 
   :::style
-  html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}
+  html pre.shiki code .sZEs4, html code.shiki .sZEs4{--shiki-default:#E6EDF3}html pre.shiki code .sp6Gy, html code.shiki .sp6Gy{--shiki-default:#79C0FF;--shiki-default-font-weight:bold}html pre.shiki code .sQhOw, html code.shiki .sQhOw{--shiki-default:#FFA657}html pre.shiki code .s6XMU, html code.shiki .s6XMU{--shiki-default:#E6EDF3;--shiki-default-font-weight:bold}html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}
   :::
 
   :::tags{tags="docs, line-developers-site" lang="en" section="tips"}
