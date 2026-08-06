@@ -8,7 +8,7 @@ description: >-
   I’ll be introducing the LIFF execution environment.
 meta: '{"date":"2026-08-06 00:00 UTC","tags":"liff","locale":"en","sidebar":false}'
 path: /en/tips/2026/08/06/between-liff-browser-and-external-browser
-__hash__: V2ItAaCxWfpmCtotIgLLVtimFg51UEaZ9XYVmLXGaOs
+__hash__: traGKzCnMszAfmkeBqlIcG9BYGynH-cQCPVyab1Jl0U
 seo:
   title: >-
     Where do LIFF apps run? Understanding behavioral differences across
@@ -48,11 +48,11 @@ People often assume that because an app opens within the LINE app, the environme
 
 You can determine whether the current execution environment is the LIFF browser by using [`liff.isInClient()`](/reference/liff/#is-in-client).
 
-```js
+```javascript
 if (liff.isInClient()) {
-// Running in the LIFF browser
+  // Running in the LIFF browser
 } else {
-// Running in other than the LIFF browser
+  // Running in other than the LIFF browser
 }
 ```
 
@@ -64,20 +64,20 @@ Let's use the `liff.isInClient()` method introduced earlier as a starting point 
 
 In the LIFF browser, users open the LIFF app while already logged into LINE, so no explicit login process is required. On the other hand, in environments other than the LIFF browser, a login process via [`liff.login()`](/reference/liff/#login) is required.
 
-```js
+```javascript
 await liff.init({ liffId: "1234567890-abcdefgh" });
 
 if (!liff.isInClient() && !liff.isLoggedIn()) {
-liff.login()
+  liff.login();
 }
 ```
 
 Alternatively, by specifying the `withLoginOnExternalBrowser: true` option in [`liff.init()`](/reference/liff/#initialize-liff-app) as shown below, `liff.login()` is executed automatically during initialization in environments other than the LIFF browser.
 
-```js
+```javascript
 await liff.init({
-liffId: "1234567890-abcdefgh",
-withLoginOnExternalBrowser: true,
+  liffId: "1234567890-abcdefgh",
+  withLoginOnExternalBrowser: true,
 });
 ```
 
@@ -87,11 +87,11 @@ Note that behavior is not guaranteed if an authorization request is made directl
 
 While implementing a "Close" button to exit the LIFF app is common practice, the behavior of [`liff.closeWindow()`](/reference/liff/#close-window) is not guaranteed outside the LIFF browser. For screens that might be displayed in environments other than the LIFF browser, consider providing an alternative navigation path.
 
-```js
+```javascript
 if (liff.isInClient()) {
-liff.closeWindow();
+  liff.closeWindow();
 } else {
-// Alternative path for other than the LIFF browser (e.g., return to the top page)
+  // Alternative path for other than the LIFF browser (e.g., return to the top page)
 }
 ```
 
@@ -113,7 +113,7 @@ In addition to these points, the available execution environments, operating sys
 Issues where an app works in a test environment but fails on an actual device are often caused by differences in the execution environment. Understand the characteristics of each browser to build LIFF apps that run smoothly in any environment.
 
   :::style
-  html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}
+  html pre.shiki code .suJrU, html code.shiki .suJrU{--shiki-default:#FF7B72}html pre.shiki code .sZEs4, html code.shiki .sZEs4{--shiki-default:#E6EDF3}html pre.shiki code .sc3cj, html code.shiki .sc3cj{--shiki-default:#D2A8FF}html pre.shiki code .sH3jZ, html code.shiki .sH3jZ{--shiki-default:#8B949E}html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html pre.shiki code .s9uIt, html code.shiki .s9uIt{--shiki-default:#A5D6FF}html pre.shiki code .sFSAA, html code.shiki .sFSAA{--shiki-default:#79C0FF}
   :::
 
   :::tags{tags="liff" lang="en" section="tips"}

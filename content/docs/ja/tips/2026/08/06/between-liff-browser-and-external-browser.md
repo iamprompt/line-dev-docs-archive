@@ -4,7 +4,7 @@ navigation: true
 description: こんにちは！テクニカルサポートを担当している岡です。今回のTipsでは、LIFFの実行環境についてご紹介します。
 meta: '{"date":"2026-08-06 00:00 UTC","tags":"liff","locale":"ja","sidebar":false}'
 path: /ja/tips/2026/08/06/between-liff-browser-and-external-browser
-__hash__: S6slVzD8DUfxTKXeIENc03CLWcqHiU4fMyvmkqO3J4k
+__hash__: oywRqqktwyO1qslffzrxjFs_5Ay4beeyxu1YnSmuH6I
 seo:
   title: LIFFアプリはどこで動く？実行環境ごとの挙動の違いを整理する
   description: こんにちは！テクニカルサポートを担当している岡です。今回のTipsでは、LIFFの実行環境についてご紹介します。
@@ -40,11 +40,11 @@ LIFFアプリの実行環境は、大きく次の2つに分けられます。
 
 現在の実行環境がLIFFブラウザかどうかは、[`liff.isInClient()`](/reference/liff/#is-in-client)で判定できます。
 
-```js
+```javascript
 if (liff.isInClient()) {
-    // LIFFブラウザで動作している
+  // LIFFブラウザで動作している
 } else {
-    // LIFFブラウザ以外で動作している
+  // LIFFブラウザ以外で動作している
 }
 ```
 
@@ -58,20 +58,20 @@ LIFFブラウザでは、ユーザーはすでにLINEにログインした状態
 
 一方、LIFFブラウザ以外の場合では、[`liff.login()`](/reference/liff/#login)によるログイン処理が必要です。
 
-```js
+```javascript
 await liff.init({ liffId: "1234567890-abcdefgh" });
 
 if (!liff.isInClient() && !liff.isLoggedIn()) {
-    liff.login()
+  liff.login();
 }
 ```
 
 なお、`liff.init()`のオプション`withLoginOnExternalBrowser: true`を以下のように指定すると、LIFFブラウザ以外の環境での初期化時に`liff.login()`を自動で実行できます。
 
-```js
+```javascript
 await liff.init({
-    liffId: "1234567890-abcdefgh",
-    withLogintOnExternalBrowser: true,
+  liffId: "1234567890-abcdefgh",
+  withLogintOnExternalBrowser: true,
 });
 ```
 
@@ -81,11 +81,11 @@ await liff.init({
 
 「閉じる」ボタンでLIFFアプリを閉じる実装は定番ですが、[`liff.closeWindow()`](/reference/liff/#close-window)は、LIFFブラウザ以外での動作は保証対象外です。LIFFブラウザ以外でも表示される可能性のある画面では、別の動線を確保することを検討しましょう。
 
-```js
+```javascript
 if (liff.isInClient()) {
-    liff.closeWindow();
+  liff.closeWindow();
 } else {
-    // LIFFブラウザ以外向けの代替動線（例:トップページへ戻る）
+  // LIFFブラウザ以外向けの代替動線（例:トップページへ戻る）
 }
 ```
 
@@ -107,7 +107,7 @@ if (liff.isInClient()) {
 「検証環境では動くのに実機では動かない」という事象は、実行環境の違いが原因であることが少なくありません。ブラウザごとの特徴を押さえて、どの環境でも快適に動作するLIFFアプリを作りましょう。
 
   :::style
-  html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}
+  html pre.shiki code .suJrU, html code.shiki .suJrU{--shiki-default:#FF7B72}html pre.shiki code .sZEs4, html code.shiki .sZEs4{--shiki-default:#E6EDF3}html pre.shiki code .sc3cj, html code.shiki .sc3cj{--shiki-default:#D2A8FF}html pre.shiki code .sH3jZ, html code.shiki .sH3jZ{--shiki-default:#8B949E}html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html pre.shiki code .s9uIt, html code.shiki .s9uIt{--shiki-default:#A5D6FF}html pre.shiki code .sFSAA, html code.shiki .sFSAA{--shiki-default:#79C0FF}
   :::
 
   :::tags{tags="liff" lang="en" section="tips"}
