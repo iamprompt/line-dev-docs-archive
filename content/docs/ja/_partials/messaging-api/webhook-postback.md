@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/webhook-postback
-__hash__: reFW-4Q6YOOxa87CFT8uZKyzXUO_oVzNCYVz4l-6_tg
+__hash__: aOxUEBOvfj24n-XzPjsTm2PhmySWz16qjVCcLJGGPzI
 seo:
   description: ''
 ---
@@ -144,7 +144,7 @@ seo:
 
 ::reference-with-code
   :::reference-content
-  [日時選択アクション](#datetime-picker-action)を介してユーザーが選択した日時を含むオブジェクトです。`full-date`、`time-hour`、および`time-minute`の形式は、[RFC3339プロトコル](https://www.ietf.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}で定義されています。
+  [日時選択アクション](#datetime-picker-action)を介してユーザーが選択した日時を含むオブジェクトです。`full-date`、`time-hour`、および`time-minute`の形式は、[RFC3339プロトコル](https://www.rfc-editor.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}で定義されています。
 
   | プロパティ    | 形式                                      | 説明                                       |
   | -------- | --------------------------------------- | ---------------------------------------- |

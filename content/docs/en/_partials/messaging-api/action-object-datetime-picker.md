@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/action-object-datetime-picker
-__hash__: beC4io40-Kf83FrM374vKPmSQHDmgt-h_I5t0p4P0sU
+__hash__: M-B9Him2_kfp7_eWG7cOVivKsuiYz8CXioy214pLAUs
 seo:
   description: ''
 ---
@@ -116,7 +116,7 @@ seo:
 
 #### Date and time format
 
-The date and time formats for the `initial`, `max`, and `min` values are shown below. The `full-date`, `time-hour`, and `time-minute` formats follow the [RFC3339](https://www.ietf.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"} protocol.
+The date and time formats for the `initial`, `max`, and `min` values are shown below. The `full-date`, `time-hour`, and `time-minute` formats follow the [RFC3339](https://www.rfc-editor.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"} protocol.
 
 | Mode     | Format                                                                                                                         | Example                             |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------- |

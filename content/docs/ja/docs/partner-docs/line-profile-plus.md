@@ -4,7 +4,7 @@ navigation: true
 description: LINE Profile+
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/line-profile-plus
-__hash__: F6vLA5DCKyScTw7AFhey9u6TJHzrFOKxPAKZClHZSU4
+__hash__: 9GXpH1UCYHZrAuTJ6aJxf_70xmOgabMsUmFGT_Ydy-k
 seo:
   title: LINE Profile+
   description: LINE Profile+
@@ -190,17 +190,17 @@ LIFFアプリおよびLINEミニアプリやLINEログインで取得したIDト
 
 LINE Profile+を利用しているときは、IDトークンに以下のプロパティが追加されます。
 
-| プロパティ                       | タイプ    | 説明                                                                                           | 認可が必要なスコープ  |
-| --------------------------- | ------ | -------------------------------------------------------------------------------------------- | ----------- |
-| `given_name`                | String | 氏名の「名」                                                                                       | `real_name` |
-| `given_name_pronunciation`  | String | 氏名の「名」のカナ。カタカナです。                                                                            | `real_name` |
-| `middle_name`               | String | ミドルネーム                                                                                       | `real_name` |
-| `family_name`               | String | 氏名の「姓」                                                                                       | `real_name` |
-| `family_name_pronunciation` | String | 氏名の「姓」のカナ。カタカナです。                                                                            | `real_name` |
-| `gender`                    | String | "male"、"female"、もしくはユーザーが独自に入力した値                                                            | `gender`    |
-| `birthdate`                 | String | 誕生日。形式は、[RFC3339プロトコル](https://www.ietf.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}で定義されています。 | `birthdate` |
-| `phone_number`              | String | 電話番号。形式は、:glossary-tooltip[[E.164](/glossary/#e164)]{glossary-id="e164"}で定義されています。           | `phone`     |
-| `address`                   | Object | [住所オブジェクト](#address-object)                                                                  | `address`   |
+| プロパティ                       | タイプ    | 説明                                                                                                 | 認可が必要なスコープ  |
+| --------------------------- | ------ | -------------------------------------------------------------------------------------------------- | ----------- |
+| `given_name`                | String | 氏名の「名」                                                                                             | `real_name` |
+| `given_name_pronunciation`  | String | 氏名の「名」のカナ。カタカナです。                                                                                  | `real_name` |
+| `middle_name`               | String | ミドルネーム                                                                                             | `real_name` |
+| `family_name`               | String | 氏名の「姓」                                                                                             | `real_name` |
+| `family_name_pronunciation` | String | 氏名の「姓」のカナ。カタカナです。                                                                                  | `real_name` |
+| `gender`                    | String | "male"、"female"、もしくはユーザーが独自に入力した値                                                                  | `gender`    |
+| `birthdate`                 | String | 誕生日。形式は、[RFC3339プロトコル](https://www.rfc-editor.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}で定義されています。 | `birthdate` |
+| `phone_number`              | String | 電話番号。形式は、:glossary-tooltip[[E.164](/glossary/#e164)]{glossary-id="e164"}で定義されています。                 | `phone`     |
+| `address`                   | Object | [住所オブジェクト](#address-object)                                                                        | `address`   |
 
 ##### 住所オブジェクト
 

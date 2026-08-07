@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/webhook-postback
-__hash__: mFavccO_utM8qgUR6VWVsVm_hEoSzr6Nj1sxa9R4nx8
+__hash__: tYo0QYOyeHl1Zt9JzO_Sf1Em48u6Pi1jO6V_305mJkY
 seo:
   description: ''
 ---
@@ -144,7 +144,7 @@ seo:
 
 ::reference-with-code
   :::reference-content
-  Object with the date and time selected by a user through a [datetime picker action](#datetime-picker-action). The `full-date`, `time-hour`, and `time-minute` formats follow the [RFC3339 protocol](https://www.ietf.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}.
+  Object with the date and time selected by a user through a [datetime picker action](#datetime-picker-action). The `full-date`, `time-hour`, and `time-minute` formats follow the [RFC3339 protocol](https://www.rfc-editor.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}.
 
   | Property | Format                                  | Description                                                               |
   | -------- | --------------------------------------- | ------------------------------------------------------------------------- |

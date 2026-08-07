@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/action-object-datetime-picker
-__hash__: iORxRthV9LKO5DhzlHeWnrp7QFDnHOgobaHK50HncgA
+__hash__: t3OWPxnF-1AweV7YX1vglWDPVlwIO6kzRfInBoGEi1g
 seo:
   description: ''
 ---
@@ -116,7 +116,7 @@ seo:
 
 #### 日付と日時の形式
 
-`initial`、`max`、および`min`の値の日付と日時の形式は以下のとおりです。`full-date`、`time-hour`、および`time-minute`の形式は、[RFC3339](https://www.ietf.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}プロトコルで定義されています。
+`initial`、`max`、および`min`の値の日付と日時の形式は以下のとおりです。`full-date`、`time-hour`、および`time-minute`の形式は、[RFC3339](https://www.rfc-editor.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}プロトコルで定義されています。
 
 | モード      | 形式                                                                                                                          | 例                                   |
 | -------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |

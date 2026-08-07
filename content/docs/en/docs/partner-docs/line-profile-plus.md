@@ -4,7 +4,7 @@ navigation: true
 description: LINE Profile+
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-profile-plus
-__hash__: 3Y7gbwDEKWiUP57gxSYNfcs76ITz1N8PKlHWChv48z4
+__hash__: xEgtIcn8BcfgXRklWb_-vcZpBz4RiN-9rAJibeItghU
 seo:
   title: LINE Profile+
   description: LINE Profile+
@@ -194,17 +194,17 @@ The payload of the ID token you acquired through either the LIFF App or LINE MIN
 
 When using LINE Profile+, the following properties are added to the ID token.
 
-| Properties                  | Type   | Description                                                                                                       | Scope that requires authorization |
-| --------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| `given_name`                | String | First name                                                                                                        | `real_name`                       |
-| `given_name_pronunciation`  | String | Kana of first name                                                                                                | `real_name`                       |
-| `middle_name`               | String | Middle name                                                                                                       | `real_name`                       |
-| `family_name`               | String | Last name                                                                                                         | `real_name`                       |
-| `family_name_pronunciation` | String | Kana of last name. It is katakana.                                                                                | `real_name`                       |
-| `gender`                    | String | "male", "female", or a value entered by users                                                                     | `gender`                          |
-| `birthdate`                 | String | Birthdate. The format follows the [RFC3339 protocol](https://www.ietf.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}. | `birthdate`                       |
-| `phone_number`              | String | Phone number. The format follows the :glossary-tooltip[[E.164](/glossary/#e164)]{glossary-id="e164"}.             | `phone`                           |
-| `address`                   | Object | [Address object](#address-object)                                                                                 | `address`                         |
+| Properties                  | Type   | Description                                                                                                             | Scope that requires authorization |
+| --------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| `given_name`                | String | First name                                                                                                              | `real_name`                       |
+| `given_name_pronunciation`  | String | Kana of first name                                                                                                      | `real_name`                       |
+| `middle_name`               | String | Middle name                                                                                                             | `real_name`                       |
+| `family_name`               | String | Last name                                                                                                               | `real_name`                       |
+| `family_name_pronunciation` | String | Kana of last name. It is katakana.                                                                                      | `real_name`                       |
+| `gender`                    | String | "male", "female", or a value entered by users                                                                           | `gender`                          |
+| `birthdate`                 | String | Birthdate. The format follows the [RFC3339 protocol](https://www.rfc-editor.org/rfc/rfc3339.txt){rel="[\"nofollow\"]"}. | `birthdate`                       |
+| `phone_number`              | String | Phone number. The format follows the :glossary-tooltip[[E.164](/glossary/#e164)]{glossary-id="e164"}.                   | `phone`                           |
+| `address`                   | Object | [Address object](#address-object)                                                                                       | `address`                         |
 
 ##### Address object
 
