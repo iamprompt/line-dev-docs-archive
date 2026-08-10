@@ -9,7 +9,7 @@ description: >-
   API.
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /en/about
-__hash__: 2iyfAEP8228M6JNLCY9u_RaPRaPXS6HIq-N3oLA2W30
+__hash__: bNTs8yRHEKS3DY2n_fQJoGSfTs2H1FaoIE0D5TB3ZFw
 seo:
   title: About LINE Developers site
   description: >-
@@ -31,6 +31,7 @@ For example, suppose a developer wants to add a "LINE Login" button to an EC sit
 | [News](/news/)                                                   | Notifies you of the LINE Platform updates and outage information.                                                                                                                     |
 | [Products](/services/)                                           | Briefly introduces the characteristics and overview of each service.                                                                                                                  |
 | [Documentation](/docs/)                                          | Documents and API references that describe development procedures and specifications for each service.                                                                                |
+| [Tips for Developers](/tips/)                                    | Regularly published short articles about helpful features to each service, best practices, and more.                                                                                  |
 | [FAQ](/faq/)                                                     | Answers to frequently asked questions about LINE API.                                                                                                                                 |
 | ::glossary-tooltip{glossary-id=""}   [Glossary](/glossary/)   :: | Glossary of terms related to LINE API.                                                                                                                                                |
 | [LINE Developers Console](/console/)                             | Management screen for developers. For more information, see [LINE Developers Console overview](/docs/line-developers-console/overview/) in the LINE Developers Console documentation. |

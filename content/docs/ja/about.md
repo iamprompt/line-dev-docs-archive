@@ -7,7 +7,7 @@ description: >-
   APIの仕様や、開発手順を解説したドキュメントを開発者向けに提供しています。
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /ja/about
-__hash__: 8krEhfKSdPGY9yGl3iUr6a30bE51P863xKPS70wsw3E
+__hash__: eZu__2KWPIbibELVORmtr-2YZug1ACNq18FZJX2WHiI
 seo:
   title: LINE Developersサイトとは
   description: >-
@@ -28,6 +28,7 @@ LINEヤフー株式会社では、外部の企業や開発者に向けて、LINE
 | [ニュース](/news/)                                              | LINEプラットフォームの更新情報、障害情報をお知らせします。                                                                                               |
 | [プロダクト](/services/)                                         | 各サービスの特徴や概要を簡単に紹介しています。                                                                                                       |
 | [ドキュメント](/docs/)                                            | 各サービスの開発手順や仕様を解説しているドキュメントとAPIリファレンスです。                                                                                       |
+| [Tips for Developers](/tips/)                               | 各サービスの便利な機能、ベストプラクティスなどを、短い記事で定期的に紹介しています。                                                                                    |
 | [FAQ](/faq/)                                                | LINE APIに関するよくある質問と回答です。                                                                                                      |
 | ::glossary-tooltip{glossary-id=""}   [用語集](/glossary/)   :: | LINE APIに関する用語集です。                                                                                                            |
 | [LINE Developersコンソール](/console/)                           | 開発者向けの管理画面です。詳しくは、『LINE Developersコンソールドキュメント』の「[LINE Developersコンソールの概要](/docs/line-developers-console/overview/)」を参照してください。 |
