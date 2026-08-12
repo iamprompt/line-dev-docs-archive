@@ -4,7 +4,7 @@ navigation: true
 description: LINE Profile+
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/line-profile-plus
-__hash__: 9GXpH1UCYHZrAuTJ6aJxf_70xmOgabMsUmFGT_Ydy-k
+__hash__: 3mLOlz6TcGZ9rTFQtw6j-S6xTBYd_ygPOJu7pfmHU3o
 seo:
   title: LINE Profile+
   description: LINE Profile+
@@ -170,7 +170,7 @@ IDトークンに含まれるLINE Profile+の情報について詳しくは、�
 
 ## LINE Profile+のスコープの種類
 
-LINE Profile+で取得できる情報のスコープの種類は以下のとおりです。
+LINE Profile+で取得できる情報のスコープの種類は以下のとおりです。利用するスコープは、あらかじめ申請していただく必要があります。
 
 - `real_name`：ユーザーが登録した「氏名」を取得する権限
 - `gender`：ユーザーが登録した「性別」を取得する権限
@@ -178,8 +178,10 @@ LINE Profile+で取得できる情報のスコープの種類は以下のとお�
 - `phone`：ユーザーが登録した「電話番号」を取得する権限
 - `address`：ユーザーが登録した「住所」を取得する権限
 
-::admonition{title="注意" type="note"}
-利用するスコープは、あらかじめ申請していただく必要があります。
+::admonition{title="phoneスコープを要求した場合の同意画面の再表示" type="note"}
+ユーザーが一度同意したあとでも、`phone`スコープを要求していて、前回の同意から一定の期間が経過しているか、ユーザーの電話番号が変更されると、同意画面が再表示されます。
+
+その他の同意画面の再表示条件について詳しくは、『LINEログインドキュメント』の「[同意画面が再表示される条件](/docs/line-login/integrate-line-login/#conditions-for-consent-screen-to-be-redisplayed)」を参照してください。
 ::
 
 ## IDトークンに含まれるLINE Profile+の情報

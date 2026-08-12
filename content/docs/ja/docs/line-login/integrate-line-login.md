@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/integrate-line-login
-__hash__: RAWrT55SulD-AFC4gWMUhFeVR9tSOUJvZU5d3jUvfW4
+__hash__: 2-HHjqD2BRY8-uCz0Zzeduauz8EoY7Z3TFAvuxTpQiI
 seo:
   title: ウェブアプリにLINEログインを組み込む
   description: null
@@ -219,10 +219,16 @@ LINEログインを組み込むウェブアプリ側で、認可の機能を実�
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | ![同意画面](/media/line-login/integrate-login-web/consent-screen-ja.png){className="[\"border\",\"w-fix-240\"]"} | - `profile`：メインプロフィール情報 (必須) - `openid`：あなたの内部識別子 (必須) - `email`：メールアドレス |
 
-::admonition{title="同意画面が表示されない場合があります" type="note"}
-- `scope`パラメータで指定した権限が`profile`または`openid`の場合は、ユーザーが既に権限を付与していると同意画面は表示されません。
-- 権限に`email`が含まれる場合は、メールアドレスが変わらない限り、ユーザーが同意してから一定の期間は同意画面が表示されません。
-::
+#### 同意画面が再表示される条件
+
+以下のいずれかに該当する場合、ユーザーが一度同意したあとであっても、LINEログイン時に同意画面が再表示されます。
+
+- 前回のLINEログイン時にユーザーが同意していない権限を、`scope`パラメータで要求した場合
+- ユーザーが[連動アプリの同意を取り消した](/docs/line-login/managing-authorized-apps/)あとに、LINEログインした場合
+- `prompt`パラメータに`consent`を指定した場合
+- `scope`パラメータに`email`が含まれており、かつ前回の同意から一定の期間が経過しているかユーザーのメールアドレスが変更された場合
+
+なお、上記のいずれにも該当しない場合、ユーザーの認証が完了すると、同意画面は表示されずそのままウェブアプリへリダイレクトされます。
 
 ## ウェブアプリで認可レスポンスまたはエラーレスポンスを受け取る
 

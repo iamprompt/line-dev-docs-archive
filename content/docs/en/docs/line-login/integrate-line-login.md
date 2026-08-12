@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login/integrate-line-login
-__hash__: 0tTjP6_Xa0Nq4L3vTX-ERuQe1FLpnB1V8qmLyhn_Y6c
+__hash__: yhW7xvRfrIG784DuTD0KoWYQP6DWt6hPzXpo6g1kelY
 seo:
   title: Integrating LINE Login with your web app
   description: null
@@ -231,10 +231,16 @@ Note that users may access your web app without granting it some or all of the r
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | ![Consent screen](/media/line-login/integrate-login-web/consent-screen-en.png){className="[\"border\",\"w-fix-240\"]"} | - `profile`: Main profile info (Required) - `openid`: Your internal identifier (Required) - `email`: Email address |
 
-::admonition{title="The consent screen may not always be shown" type="note"}
-- If the permissions specified in the `scope` parameter are `profile` and/or `openid` and the user has already granted all the permissions, the consent screen is not displayed.
-- If the permissions include `email`, a consent screen is not displayed for a certain period unless the user's email address changes.
-::
+#### Conditions for redisplaying the consent screen
+
+Even after a user consents once, the consent screen is redisplayed when logging in with LINE Login if any of the following conditions apply:
+
+- The `scope` parameter requests a permission that wasn't granted when the user last consented.
+- The user logs in with LINE Login after [revoking consent for the authorized app](/docs/line-login/managing-authorized-apps/).
+- The `prompt` parameter is set to `consent`.
+- The `scope` parameter includes `email`, and either a certain period of time has passed since the user last consented or the user's email address has changed.
+
+If none of the conditions above apply, the user is redirected directly to your web app without the consent screen being displayed after user authentication is complete.
 
 ## Receiving the authorization response or error response with a web app
 

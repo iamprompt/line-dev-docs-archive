@@ -4,7 +4,7 @@ navigation: true
 description: LINE Profile+
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-profile-plus
-__hash__: xEgtIcn8BcfgXRklWb_-vcZpBz4RiN-9rAJibeItghU
+__hash__: C4kxynw0_PY3v6AjpBVn-LsvZMEdsHWnbJSOWvb9ytw
 seo:
   title: LINE Profile+
   description: LINE Profile+
@@ -174,7 +174,7 @@ For more information on LINE Profile+ information included in ID token, see [LIN
 
 ## LINE Profile+ scopes
 
-These are the scopes of information you can obtain via LINE Profile+:
+These are the scopes of information you can obtain via LINE Profile+. You need to apply in advance for the scopes you will use.
 
 - `real_name`: Authority to obtain the "name" registered by the user
 - `gender`: Authority to obtain the "gender" registered by the user
@@ -182,8 +182,14 @@ These are the scopes of information you can obtain via LINE Profile+:
 - `phone`: Authority to obtain the "phone number" registered by the user
 - `address`: Authority to obtain the "address" registered by the user
 
-::admonition{title="Note" type="note"}
-It is necessary to apply for the scope to be used in advance.
+::admonition
+---
+title: Redisplaying the consent screen when requesting the phone scope
+type: note
+---
+Even after a user consents once, if you request the `phone` scope, the consent screen is redisplayed if a certain period has passed since the user last consented or their phone number has changed.
+
+For more information about other conditions for redisplaying the consent screen, see [Conditions for redisplaying the consent screen](/docs/line-login/integrate-line-login/#conditions-for-consent-screen-to-be-redisplayed) in the LINE Login documentation.
 ::
 
 ## LINE Profile+ information included in ID token
