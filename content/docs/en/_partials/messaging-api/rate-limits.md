@@ -4,14 +4,14 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/rate-limits
-__hash__: iuGX_5ytErv0772CMmmv9qe2cqfWVRQWQIwfAkOQrkg
+__hash__: nM8ae-kKMpymPRMr-mM12vbBRKLhEgwHKMjRBKyeyC8
 seo:
   description: ''
 ---
 
 ### Rate limits
 
-The Messaging API applies the following rate limits for each API function (endpoint) on a per-channel. For more information about the scope of rate limits apply, see [Scope of rate limits](#rate-limits-scope).
+The Messaging API applies the following rate limits to each API function (endpoint) on a per-channel basis. For more information about the scope to which rate limits apply, see [Scope of rate limits](#rate-limits-scope).
 
 ::admonition
 ---
@@ -46,7 +46,7 @@ If requests continue to consume tokens faster than tokens are refilled, the buck
 
 #### Scope of rate limits
 
-The Messaging API applies rate limits for each API function (endpoint) on a per-channel. Note also the following points about the scope of rate limits:
+The Messaging API applies rate limits to each API function (endpoint) on a per-channel basis. Note also the following points about the scope of rate limits:
 
 - Even if the endpoint URL is the same, it is a different endpoint if the HTTP method is different.
 - We apply rate limits without distinguishing between the value of parameters in the URL or the contents of the request body.
