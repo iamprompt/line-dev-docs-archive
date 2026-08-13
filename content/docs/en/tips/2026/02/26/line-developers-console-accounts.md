@@ -4,11 +4,9 @@ navigation: true
 description: >-
   Using the LINE Developers Console requires several types of accounts, such as
   a developer account.
-meta: >-
-  {"date":"2026-02-26 00:00 UTC","tags":"docs,
-  console","locale":"en","sidebar":false}
+meta: '{"date":"2026-02-26 00:00 UTC","tags":"console","locale":"en","sidebar":false}'
 path: /en/tips/2026/02/26/line-developers-console-accounts
-__hash__: Dt8XgMlpl8NQtwC5hwGYXQug2wIrIfHQ6WfCroBrCy8
+__hash__: Fv96LlWgbPOxcKtRCq9gKSOy2Et_umZDPAw_JA_VlWE
 seo:
   title: >-
     LINE Developers Console account management: 3 important points to keep in
@@ -102,7 +100,7 @@ When developing using the LINE Developers Console, you need to properly manage t
 
 Furuki (Technical Writer): In charge of documentation for the [LINE Developers site](/). Organizes the technical writing community [Technical Writing Meetup](https://tw-meetup.connpass.com/event/383558/){rel="[\"nofollow\"]"}.
 
-  :::tags{tags="docs, console" lang="en" section="tips"}
+  :::tags{tags="console" lang="en" section="tips"}
 
   :::
 ::

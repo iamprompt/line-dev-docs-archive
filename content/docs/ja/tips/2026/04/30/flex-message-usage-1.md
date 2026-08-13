@@ -3,21 +3,19 @@ title: Flex Messageを使いこなす パート1
 navigation: true
 description: >-
   Flex Messageでは、CSS Flexible Box（CSS
-  Flexbox）の仕様に基づいて、非常に自由度が高く高度なメッセージを作成することができます。
-
-  Flex Messageでは、従来のメッセージタイプでは表現が難しかったメッセージを、画像に頼ることなく送信できます。
+  Flexbox）の仕様に基づいて、非常に自由度が高く高度なメッセージを作成することができます。Flex
+  Messageでは、従来のメッセージタイプでは表現が難しかったメッセージを、画像に頼ることなく送信できます。
 meta: >-
-  {"date":"2026-04-30 00:00 UTC","tags":"docs, messaging-api,
+  {"date":"2026-04-30 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/30/flex-message-usage-1
-__hash__: eN0anmVBouopit2mRpufy5pjfZA3swBX8zxA-kn811E
+__hash__: VgkaFZNN3LW9OUCW7pww0sKLS-pNGKLAC6wuRvusIS8
 seo:
   title: Flex Messageを使いこなす パート1
   description: >-
     Flex Messageでは、CSS Flexible Box（CSS
-    Flexbox）の仕様に基づいて、非常に自由度が高く高度なメッセージを作成することができます。
-
-    Flex Messageでは、従来のメッセージタイプでは表現が難しかったメッセージを、画像に頼ることなく送信できます。
+    Flexbox）の仕様に基づいて、非常に自由度が高く高度なメッセージを作成することができます。Flex
+    Messageでは、従来のメッセージタイプでは表現が難しかったメッセージを、画像に頼ることなく送信できます。
 ---
 
 ::Tips
@@ -27,8 +25,7 @@ seo:
 
   :::
 
-Flex Messageでは、[CSS Flexible Box（CSS Flexbox）](https://www.w3.org/TR/css-flexbox-1/){rel="[\"nofollow\"]"}の仕様に基づいて、非常に自由度が高く高度なメッセージを作成することができます。
-Flex Messageでは、従来のメッセージタイプでは表現が難しかったメッセージを、画像に頼ることなく送信できます。
+Flex Messageでは、[CSS Flexible Box（CSS Flexbox）](https://www.w3.org/TR/css-flexbox-1/){rel="[\"nofollow\"]"}の仕様に基づいて、非常に自由度が高く高度なメッセージを作成することができます。Flex Messageでは、従来のメッセージタイプでは表現が難しかったメッセージを、画像に頼ることなく送信できます。
 
 ![](/media/tips/2026/flex-message-example-ja.png){className="[\"border\"]"}
 
@@ -1689,11 +1686,7 @@ Flex MessageのBOXコンポーネントを[cornerRadius](/reference/messaging-ap
   html pre.shiki code .sZEs4, html code.shiki .sZEs4{--shiki-default:#E6EDF3}html pre.shiki code .sPWt5, html code.shiki .sPWt5{--shiki-default:#7EE787}html pre.shiki code .s9uIt, html code.shiki .s9uIt{--shiki-default:#A5D6FF}html pre.shiki code .sFSAA, html code.shiki .sFSAA{--shiki-default:#79C0FF}html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}
   :::
 
-  :::tags
-  ---
-  tags: docs, messaging-api, flex-message
-  lang: en
-  section: tips
-  ---
+  :::tags{tags="messaging-api, flex-message" lang="en" section="tips"}
+
   :::
 ::

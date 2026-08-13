@@ -2,11 +2,9 @@
 title: LINE Developersコンソールのアカウント管理：押さえるべき3つの注意点
 navigation: true
 description: LINE Developersコンソールの利用には開発者アカウントなど、さまざまなアカウントが必要になります。
-meta: >-
-  {"date":"2026-02-26 00:00 UTC","tags":"docs,
-  console","locale":"ja","sidebar":false}
+meta: '{"date":"2026-02-26 00:00 UTC","tags":"console","locale":"ja","sidebar":false}'
 path: /ja/tips/2026/02/26/line-developers-console-accounts
-__hash__: lU3gYenzP0tweKEk9kgb6VT_cNQ00HTGZ3B1-O3_An0
+__hash__: vu2Me9kElcCW2qzbeGAZaYmOKgL8zLKgpwemJm7PIkE
 seo:
   title: LINE Developersコンソールのアカウント管理：押さえるべき3つの注意点
   description: LINE Developersコンソールの利用には開発者アカウントなど、さまざまなアカウントが必要になります。
@@ -92,7 +90,7 @@ LINE Developersコンソールを使った開発では、開発者アカウン�
 
 ふるき（テクニカルライター）：[LINE Developersサイト](/)のドキュメントを担当。テクニカルライティングに関するコミュニティ「[Technical Writing Meetup](https://tw-meetup.connpass.com/event/383558/){rel="[\"nofollow\"]"}」を主催。
 
-  :::tags{tags="docs, console" lang="en" section="tips"}
+  :::tags{tags="console" lang="en" section="tips"}
 
   :::
 ::

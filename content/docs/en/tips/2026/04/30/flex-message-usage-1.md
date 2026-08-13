@@ -3,23 +3,21 @@ title: Mastering Flex Messages, part 1
 navigation: true
 description: >-
   With Flex Messages, you can create flexible and advanced messages based on the
-  CSS Flexible Box (CSS Flexbox) specification.
-
-  Flex Messages let you send message designs that are difficult to express with
-  traditional message types, without relying on images.
+  CSS Flexible Box (CSS Flexbox) specification. Flex Messages let you send
+  message designs that are difficult to express with traditional message types,
+  without relying on images.
 meta: >-
-  {"date":"2026-04-30 00:00 UTC","tags":"docs, messaging-api,
+  {"date":"2026-04-30 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"en","sidebar":false}
 path: /en/tips/2026/04/30/flex-message-usage-1
-__hash__: haxDKMEG7ZHIDuOZaaxxm1xcPDh9gBg0u2ck5Mqp_W8
+__hash__: 0OD4Q8U7JAf0MM8LaV_x_r6XL8QLUtsi-SgFWdk9m8M
 seo:
   title: Mastering Flex Messages, part 1
   description: >-
     With Flex Messages, you can create flexible and advanced messages based on
-    the CSS Flexible Box (CSS Flexbox) specification.
-
-    Flex Messages let you send message designs that are difficult to express
-    with traditional message types, without relying on images.
+    the CSS Flexible Box (CSS Flexbox) specification. Flex Messages let you send
+    message designs that are difficult to express with traditional message
+    types, without relying on images.
 ---
 
 ::Tips
@@ -29,8 +27,7 @@ seo:
 
   :::
 
-With Flex Messages, you can create flexible and advanced messages based on the [CSS Flexible Box (CSS Flexbox)](https://www.w3.org/TR/css-flexbox-1/){rel="[\"nofollow\"]"} specification.
-Flex Messages let you send message designs that are difficult to express with traditional message types, without relying on images.
+With Flex Messages, you can create flexible and advanced messages based on the [CSS Flexible Box (CSS Flexbox)](https://www.w3.org/TR/css-flexbox-1/){rel="[\"nofollow\"]"} specification. Flex Messages let you send message designs that are difficult to express with traditional message types, without relying on images.
 
 ![](/media/tips/2026/flex-message-example-en.png){className="[\"border\"]"}
 
@@ -1697,11 +1694,7 @@ You can create a heatmap-style layout by placing multiple box components side by
   html pre.shiki code .sZEs4, html code.shiki .sZEs4{--shiki-default:#E6EDF3}html pre.shiki code .sPWt5, html code.shiki .sPWt5{--shiki-default:#7EE787}html pre.shiki code .s9uIt, html code.shiki .s9uIt{--shiki-default:#A5D6FF}html pre.shiki code .sFSAA, html code.shiki .sFSAA{--shiki-default:#79C0FF}html .default .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}html .shiki span {color: var(--shiki-default);background: var(--shiki-default-bg);font-style: var(--shiki-default-font-style);font-weight: var(--shiki-default-font-weight);text-decoration: var(--shiki-default-text-decoration);}
   :::
 
-  :::tags
-  ---
-  tags: docs, messaging-api, flex-message
-  lang: en
-  section: tips
-  ---
+  :::tags{tags="messaging-api, flex-message" lang="en" section="tips"}
+
   :::
 ::
