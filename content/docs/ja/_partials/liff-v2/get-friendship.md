@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/get-friendship
-__hash__: PxdEojwbsw7sdELartuXZHLJkax1W5qQ1oVfaMB0QhU
+__hash__: _a2gukypecDbrW7E3DkAeqfJYptC_STrzhj6XEQye6U
 seo:
   description: ''
 ---
@@ -42,12 +42,40 @@ seo:
 #### 構文
 
 ```javascript
-liff.getFriendship();
+liff.getFriendship(params);
 ```
 
 #### 引数
 
-なし
+::admonition
+---
+title: 友だち追加オプションで複数アカウントを使用する機能は2026年9月の提供を予定しています
+type: note
+---
+引数は、LIFF SDKのバージョンがv2.30.0以上、かつLINEミニアプリチャネルの［**複数アカウントを使用**］がオンの場合のみ利用できます。［**複数アカウントを使用**］は、日本のLINEミニアプリ向けに、2026年9月の提供を予定しています。
+::
+
+::parameter-table
+  :::parameter-table-entry{optional=""}
+  #undefined
+  params
+
+  #undefined
+  Object
+
+  パラメータオブジェクト。省略すると、デフォルトのLINE公式アカウントの友だち関係を取得します。
+  :::
+
+  :::parameter-table-entry{required="true"}
+  #undefined
+  params.officialAccountId
+
+  #undefined
+  String
+
+  友だち関係を取得するLINE公式アカウントのID。ベーシックIDまたは:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}で指定します。
+  :::
+::
 
 #### 戻り値
 
@@ -69,10 +97,6 @@ liff.getFriendship();
       - `false`：それ以外の場合。
       :::::
     ::::
-
-  ##### エラーレスポンス
-
-  `Promise`がrejectされたときは、[`LiffError`](#liff-errors)が渡されます。
   :::
 
   :::reference-code
@@ -89,3 +113,14 @@ liff.getFriendship();
     ::::
   :::
 ::
+
+#### エラーレスポンス
+
+`Promise`がrejectされたときは、[`LiffError`](#liff-errors)が渡されます。`liff.getFriendship()`メソッドに特有のエラーは次のとおりです。
+
+| エラーコード             | エラーメッセージ                                                     | 説明                                                                                                                                                                                                                       |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `400`              | `Bot not found`                                              | 友だち関係を取得するLINE公式アカウントが見つからない。次のような原因が考えられます。  - `officialAccountId`プロパティで指定したLINE公式アカウントが存在しない。 - `officialAccountId`プロパティで指定したLINE公式アカウントが許可リストに登録されていない。 - `officialAccountId`プロパティで指定したLINE公式アカウントが一時停止されているか削除されている。 |
+| `400`              | `There is no login bot linked to this channel.`              | 友だち関係を取得するLINE公式アカウントが存在しない。次のような原因が考えられます。  - LINEログインチャネルの［:b[リンクされたLINE公式アカウント]］を設定していない。 - LINEミニアプリチャネルの［:b[デフォルトのLINE公式アカウント]］を設定していない、かつ`officialAccountId`プロパティを指定していない。                                         |
+| `403`              | `LOGIN_MULTI_LINKED_BOT_PROMPT feature license is required.` | `officialAccountId`プロパティを指定しているが、LINEミニアプリチャネルの［:b[複数アカウントを使用]］がオフになっている。                                                                                                                                                |
+| `INVALID_ARGUMENT` | `officialAccountId must start with "@".`                     | `officialAccountId`プロパティの値が`@`から始まっていない。                                                                                                                                                                                 |

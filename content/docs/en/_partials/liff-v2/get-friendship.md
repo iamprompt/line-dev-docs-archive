@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/get-friendship
-__hash__: PWhMZSBh0_N40w0TPSZXqtls5zJEyRCljrd7-tJSTfU
+__hash__: uRvykRg7NgMz_MsKiz0KphvkH94xMRzCxk9DGdrOCiA
 seo:
   description: ''
 ---
@@ -42,12 +42,42 @@ seo:
 #### Syntax
 
 ```javascript
-liff.getFriendship();
+liff.getFriendship(params);
 ```
 
 #### Arguments
 
-None
+::admonition
+---
+title: >-
+  The feature to use multiple accounts using the add friend option is scheduled
+  to be available in September 2026
+type: note
+---
+The arguments are available only when you're using LIFF SDK v2.30.0 or later and **Use multiple accounts** is enabled for the LINE MINI App channel. **Use multiple accounts** is scheduled to be available for LINE MINI Apps in Japan in September 2026.
+::
+
+::parameter-table
+  :::parameter-table-entry{optional=""}
+  #undefined
+  params
+
+  #undefined
+  Object
+
+  Parameter object. If omitted, the friendship status with the default LINE Official Account is retrieved.
+  :::
+
+  :::parameter-table-entry{required="true"}
+  #undefined
+  params.officialAccountId
+
+  #undefined
+  String
+
+  The ID of the LINE Official Account whose friendship status you want to retrieve. Specify the basic ID or :glossary-tooltip[[premium ID](/glossary/#premium-id)]{glossary-id="premium-id"}.
+  :::
+::
 
 #### Return value
 
@@ -69,10 +99,6 @@ None
       - Otherwise, `false`.
       :::::
     ::::
-
-  ##### Error response
-
-  When the `Promise` is rejected, [`LiffError`](#liff-errors) is passed.
   :::
 
   :::reference-code
@@ -89,3 +115,14 @@ None
     ::::
   :::
 ::
+
+#### Error response
+
+When the `Promise` is rejected, a [`LiffError`](#liff-errors) is passed. The following errors are specific to the `liff.getFriendship()` method:
+
+| Error code         | Error message                                                | Description                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `400`              | `Bot not found`                                              | The LINE Official Account whose friendship status is being retrieved can't be found. Possible causes include:  - The LINE Official Account specified in the `officialAccountId` property doesn't exist. - The LINE Official Account specified in the `officialAccountId` property isn't registered in the allowlist. - The LINE Official Account specified in the `officialAccountId` property is suspended or deleted. |
+| `400`              | `There is no login bot linked to this channel.`              | The LINE Official Account whose friendship status is being retrieved doesn't exist. Possible causes include:  - :b[Linked LINE Official Account] isn't configured for the LINE Login channel. - :b[Default LINE Official Account] isn't configured for the LINE MINI App channel, and the `officialAccountId` property isn't specified.                                                                                 |
+| `403`              | `LOGIN_MULTI_LINKED_BOT_PROMPT feature license is required.` | The `officialAccountId` property is specified, but **Use multiple accounts** is disabled for the LINE MINI App channel.                                                                                                                                                                                                                                                                                                 |
+| `INVALID_ARGUMENT` | `officialAccountId must start with "@".`                     | The value of the `officialAccountId` property doesn't start with `@`.                                                                                                                                                                                                                                                                                                                                                   |

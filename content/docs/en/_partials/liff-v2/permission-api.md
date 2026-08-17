@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/permission-api
-__hash__: rws5t4bxnL8-vZgtcls81My7lE24k6gA7Wcr8I8lTt8
+__hash__: EKb9skaETAQLiBUB0DQsJkL4axqg1WT4H36-d8iBUGE
 seo:
   description: ''
 ---
@@ -187,17 +187,76 @@ Displays the "Verification screen" for the permissions requested by LINE MINI Ap
 #### Syntax
 
 ```javascript
-liff.permission.requestAll();
+liff.permission.requestAll(params);
 ```
 
 #### Arguments
 
-None
+::admonition
+---
+title: >-
+  The feature to use multiple accounts using the add friend option is scheduled
+  to be available in September 2026
+type: note
+---
+The arguments are available only when you're using LIFF SDK v2.30.0 or later and **Use multiple accounts** is enabled for the LINE MINI App channel. **Use multiple accounts** is scheduled to be available for LINE MINI Apps in Japan in September 2026.
+::
+
+::parameter-table
+  :::parameter-table-entry{optional=""}
+  #undefined
+  params
+
+  #undefined
+  Object
+
+  Parameter object
+  :::
+
+  :::parameter-table-entry{optional=""}
+  #undefined
+  params.officialAccount
+
+  #undefined
+  Object
+
+  Object used to specify the LINE Official Account that users are prompted to add as a friend or unblock through the add friend option. If omitted, the default LINE Official Account is displayed.
+  :::
+
+  :::parameter-table-entry{required="true"}
+  #undefined
+  officialAccount.id
+
+  #undefined
+  String
+
+  The ID of the LINE Official Account that users are prompted to add as a friend or unblock through the add friend option. Specify the basic ID or :glossary-tooltip[[premium ID](/glossary/#premium-id)]{glossary-id="premium-id"}.
+  :::
+
+  :::parameter-table-entry{optional=""}
+  #undefined
+  officialAccount.fallback
+
+  #undefined
+  Boolean
+
+  Whether to display the default LINE Official Account if the LINE Official Account specified in the `officialAccount.id` property doesn't exist, isn't registered in the allowlist, or can't be used for another reason. The default value is `true`.
+
+  - `true`: Display the default LINE Official Account.
+  - `false`: Don't display any LINE Official Account.
+  :::
+::
 
 #### Return value
 
 Returns a `Promise` object.
 
-##### Error response
+#### Error response
 
-If **Channel consent simplification** isn't turned on, and the user has already consented to all the permissions, `Promise` will be rejected and [`LiffError`](/reference/liff/#liff-errors) will be returned.
+When the `Promise` is rejected, a [`LiffError`](#liff-errors) is passed. The following errors are specific to the `liff.permission.requestAll()` method:
+
+| Error code         | Error message                                   | Description                                                            |
+| ------------------ | ----------------------------------------------- | ---------------------------------------------------------------------- |
+| `FORBIDDEN`        | `All permissions have already been approved.`   | The user has already consented to all the permissions.                 |
+| `FORBIDDEN`        | `SkipChannelVerificationScreen is unavailable.` | **Channel consent simplification** is disabled.                        |
+| `INVALID_ARGUMENT` | `officialAccount.id must start with "@".`       | The value of the `officialAccount.id` property doesn't start with `@`. |

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/permission-api
-__hash__: fxisxYcMXdG4ISsT0gOnNHXCd9Cgi_FfSz8OKOaky34
+__hash__: ZQQKjbflOOPfu3nh-Yo7up1kO_MdCSVj0EZZ8QMafgE
 seo:
   description: ''
 ---
@@ -177,17 +177,74 @@ LINEミニアプリが要求する権限の「アクセス許可要求画面」�
 #### 構文
 
 ```javascript
-liff.permission.requestAll();
+liff.permission.requestAll(params);
 ```
 
 #### 引数
 
-なし
+::admonition
+---
+title: 友だち追加オプションで複数アカウントを使用する機能は2026年9月の提供を予定しています
+type: note
+---
+引数は、LIFF SDKのバージョンがv2.30.0以上、かつLINEミニアプリチャネルの［**複数アカウントを使用**］がオンの場合のみ利用できます。［**複数アカウントを使用**］は、日本のLINEミニアプリ向けに、2026年9月の提供を予定しています。
+::
+
+::parameter-table
+  :::parameter-table-entry{optional=""}
+  #undefined
+  params
+
+  #undefined
+  Object
+
+  パラメータオブジェクト
+  :::
+
+  :::parameter-table-entry{optional=""}
+  #undefined
+  params.officialAccount
+
+  #undefined
+  Object
+
+  友だち追加オプションによる友だち追加、またはブロック解除を促すLINE公式アカウントを指定するためのオブジェクト。省略すると、デフォルトのLINE公式アカウントが表示されます。
+  :::
+
+  :::parameter-table-entry{required="true"}
+  #undefined
+  officialAccount.id
+
+  #undefined
+  String
+
+  友だち追加オプションによる友だち追加、またはブロック解除を促すLINE公式アカウントのID。ベーシックIDまたは:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}で指定します。
+  :::
+
+  :::parameter-table-entry{optional=""}
+  #undefined
+  officialAccount.fallback
+
+  #undefined
+  Boolean
+
+  `officialAccount.id`プロパティで指定したLINE公式アカウントが存在しない場合や、許可リストに登録されていない場合などに、デフォルトのLINE公式アカウントを表示するかどうか。デフォルト値は`true`です。
+
+  - `true`：デフォルトのLINE公式アカウントを表示する。
+  - `false`：LINE公式アカウントを表示しない。
+  :::
+::
 
 #### 戻り値
 
 `Promise`オブジェクトが返されます。
 
-##### エラーレスポンス
+#### エラーレスポンス
 
-［**チャネル同意の簡略化**］がオンになっていない場合や、権限付与にユーザーがすべて同意済みの場合は、`Promise`がrejectされ、[`LiffError`](#liff-errors)が渡されます。
+`Promise`がrejectされたときは、[`LiffError`](#liff-errors)が渡されます。`liff.permission.requestAll()`メソッドに特有のエラーは次のとおりです。
+
+| エラーコード             | エラーメッセージ                                        | 説明                                        |
+| ------------------ | ----------------------------------------------- | ----------------------------------------- |
+| `FORBIDDEN`        | `All permissions have already been approved.`   | ユーザーがすべての権限の付与に既に同意している。                  |
+| `FORBIDDEN`        | `SkipChannelVerificationScreen is unavailable.` | ［**チャネル同意の簡略化**］がオフになっている。                |
+| `INVALID_ARGUMENT` | `officialAccount.id must start with "@".`       | `officialAccount.id`プロパティの値が`@`から始まっていない。 |
