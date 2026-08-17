@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/common-others
-__hash__: GzXwEsDedgFx8j7YL8oUET61I7TMnDYNzSM0piimSzc
+__hash__: TS08baEqoTp3G5Qg7cYqHJ68V2ukpvVWFrIS1LcIcek
 seo:
   description: ''
 ---
@@ -20,3 +20,15 @@ seo:
 | スキーム  | ドメイン名       | パス    | クエリパラメータ | フラグメント |
 | ----- | ----------- | ----- | -------- | ------ |
 | https | example.com | /path | q=おはよう   | こんにちは  |
+
+#### エンドポイントのパスは正確に指定してください
+
+Messaging APIのエンドポイントにリクエストを送信する際は、Messaging APIリファレンスに記載された正しいエンドポイントを指定してください。エンドポイントのパスの末尾に不要なスラッシュ（`/`）を付与するなど、正しいエンドポイントを指定していない場合の動作は保証されません。
+
+| ✅️ 正しいエンドポイントの例                           | ❌️ 誤ったエンドポイントの例                            |
+| ----------------------------------------- | ------------------------------------------ |
+| `https://api.line.me/v2/bot/message/push` | `https://api.line.me/v2/bot/message/push/` |
+
+::admonition{title="Messaging APIの公式SDKを使いましょう" type="tip"}
+Messaging APIの[公式SDK](/docs/messaging-api/line-bot-sdk/#official-sdks)を使って実装すると、エンドポイントのURLやパスを意識することなく、常に正しいエンドポイントを利用できます。
+::
