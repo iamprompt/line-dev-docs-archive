@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/evolany-ai
-__hash__: 1OR4uQ-MIN2jGrYWW6p29-Tqr1elD_LIuxp8UIXPtVU
+__hash__: kBGN5BwNZ2oV0tbbqTocs2jIENSddSnp1CiDtGt2B24
 seo:
   title: >-
     Technical case study of anybot for ChatGPT: achieving smoother communication
@@ -84,5 +84,5 @@ We believe that generative AI services are on the brink of a new era. While the 
 ## Related links
 
 - [Evolany Co., Ltd.](https://evolany.com/en/){rel="[\"nofollow\"]"}
-- [anybot](https://anybot.me/campaign){rel="[\"nofollow\"]"}
+- [anybot](https://www.anybot.me/special/campaign/){rel="[\"nofollow\"]"}
 - [anybot for ChatGPT](https://chatgpt.anybot.me/){rel="[\"nofollow\"]"}

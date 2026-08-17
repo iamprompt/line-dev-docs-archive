@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/evolany-ai
-__hash__: NX75zT4VCIcyr-PtQbErvGf3dsxmnuc7aCCaDmm5Pcs
+__hash__: 9BUCCnV_qtczc86aR2om1w-i6TKKQm0rZmfiy3xHaT4
 seo:
   title: コミュニケーションの円滑化を実現する「anybot for ChatGPT」の技術事例
   description: ''
@@ -82,5 +82,5 @@ AI関連サービスは習得難易度が⾼いサービスが多いですが、
 ## 関連リンク
 
 - [エボラニ株式会社](https://evolany.com/){rel="[\"nofollow\"]"}
-- [anybot](https://anybot.me/campaign){rel="[\"nofollow\"]"}
+- [anybot](https://www.anybot.me/special/campaign/){rel="[\"nofollow\"]"}
 - [anybot for ChatGPT](https://chatgpt.anybot.me/){rel="[\"nofollow\"]"}

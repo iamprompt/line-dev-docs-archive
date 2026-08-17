@@ -6,7 +6,7 @@ description: >-
   will be stricter.
 meta: '{"date":"2021-01-21 00:00 UTC","tags":"LIFF","locale":"en"}'
 path: /en/_partials/news/2021/2021-01-21-about-liff-safe-area
-__hash__: p5Tbm-xp-kptbCJxAvYwl18sBeATg8WIL-chA6F8_PA
+__hash__: yhvWOuq4P_0NHOi0QIHwwlGqBEp8q0Zyoom0tRe0SHY
 seo:
   title: >-
     The handling of "Safe Areas" for LIFF apps and LINE MINI Apps will be
@@ -23,7 +23,10 @@ From now on, to display LIFF apps and LINE MINI Apps with the [screen size](/doc
 **"viewport-fit=cover" specification example**
 
 ```html
-<meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover">
+<meta
+  name="viewport"
+  content="width=device-width,initial-scale=1.0,viewport-fit=cover"
+/>
 ```
 
 However, due to a bug caused by the current version of iOS and iPadOS, the safe area won't be disabled in LINE v11.0.0 even if `viewport-fit=cover` is specified in the `<meta>` tag. We're planning to fix this issue in a future version of LINE.
@@ -36,7 +39,9 @@ type: tip
 If you want to lay out the entire display in LINE v11.0.0, you can disable the Safe Area by specifying `viewport-fit=cover` and then specifying `height: 100vh` in the `<html>` tag in CSS.
 
 ```css
-html { height: 100vh; }
+html {
+  height: 100vh;
+}
 ```
 ::
 
@@ -45,5 +50,5 @@ html { height: 100vh; }
 
 ![safe area](/media/news/safe-area_en.png){className="[\"w-fix-600\"]"}
 
-For more information about safe areas, see [Layout Guides and Safe Area](https://developer.apple.com/design/human-interface-guidelines/foundations/layout/){rel="[\"nofollow\"]"} on the Apple Developer site.
+For more information about safe areas, see [Layout](https://developer.apple.com/design/human-interface-guidelines/layout){rel="[\"nofollow\"]"} on the Apple Developer site. ::
 ::

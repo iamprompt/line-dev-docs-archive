@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/technicalcase/kirifuda-morikaranotegami
-__hash__: Frp_8iQErOKGV_aJli-JwD6bx82BuZDBrRXOwQnGJMs
+__hash__: 8QMElcEO9MjQN1rgP2xhZ7BN29uPiGsLUWbop9wKHlU
 seo:
   title: >-
     Nature conservation through play: A technical case study of Letters from the
@@ -85,4 +85,4 @@ Finally, for developers and planners, the greatest advantage of leveraging the L
 
 ## Related links
 
-- [KIRIFUDA Inc.](https://www.kirifuda.io/){rel="[\"nofollow\"]"}
+- [KIRIFUDA Inc.](https://kirifuda.io/){rel="[\"nofollow\"]"}
