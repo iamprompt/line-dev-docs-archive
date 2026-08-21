@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/getting-started
-__hash__: '-a2xX0Be9H8gnFyccDISQexYGXTlmg-NnjssiHpuF5U'
+__hash__: 6UE5WAmq7gp3VqYuoHnqhnkYnX4l5RBZlRl-O5FADj4
 seo:
   title: LINEログインを始めよう
   description: null
@@ -16,7 +16,7 @@ seo:
 
 このページの操作をすべて行うと、LINEログインの仕組みや、LINEログインをウェブアプリに組み込む方法について、よく理解できます。
 
-::admonition{title="LINE SDK fo iOS/Android/Unityのスターターアプリ" type="tip"}
+::admonition{title="LINE SDK for iOS/Android/Unityのスターターアプリ" type="tip"}
 プラットフォームごとにLINEログインのスターターアプリを試すことができます：
 
 - [スターターアプリを試してみる - LINE SDK for iOS Swift](/docs/line-login-sdks/ios-sdk/swift/try-line-login/)
