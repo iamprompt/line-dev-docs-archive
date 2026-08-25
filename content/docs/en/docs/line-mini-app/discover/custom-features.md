@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/custom-features
-__hash__: A4Bm8mqdI2vxWke7UObSIFxp6_ZIj-56H6mtILyyQHg
+__hash__: F0CPutRB6oRfr01r6uoKQZl6wGSaL7bQgFKlqh7lEps
 seo:
   title: Custom features
   description: null
@@ -61,7 +61,7 @@ For example, by setting a unique name as a Custom Path, users will be able to id
 
 The user can add a shortcut to your LINE MINI App to the home screen of the user's device. This allows the user to access your LINE MINI App directly from the home screen of the user's device.
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-en.png){className="[\"w-fix-240\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-en.webp){className="[\"w-fix-240\",\"inline-block\"]"}
 
 Using this feature for services that users frequently use, such as membership cards and mobile ordering, can improve the user experience.
 

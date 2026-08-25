@@ -4,7 +4,7 @@ navigation: true
 description: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できるようになりました。
 meta: '{"date":"2024-02-01 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-02-01-add-to-home-screen
-__hash__: Dcw1G1JEeUXqzr02L7E3Hi8sHxqoWrFU_8fzQn2lr08
+__hash__: 5h-Z672J2tX5th7ADoPy20dfs01wbQLSSn5pVK5jl9Y
 seo:
   title: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できるようになりました
   description: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できるようになりました。
@@ -14,7 +14,7 @@ seo:
 
 [`liff.createShortcutOnHomeScreen()`](/reference/liff/#create-shortcut-on-home-screen)メソッドを使うと、ショートカット追加画面が表示されます。ユーザーは、画面上の指示に従うことで、端末のホーム画面にLINEミニアプリへのショートカットを追加できます。これにより、ユーザー端末のホーム画面からLINEミニアプリに直接アクセスできるようになります。
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-ja.png){className="[\"w-fix-240\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-ja.webp){className="[\"w-fix-240\",\"inline-block\"]"}
 
 会員証やモバイルオーダーなど、ユーザーの利用頻度の高いサービスでこの機能を活用することで、ユーザー体験を向上させることができます。
 

@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/skillbox
-__hash__: ACGaaqi37LeRQpNblxRWyrXxMWhLrwTroeeQQcd3Lq0
+__hash__: vm96XxY-GolpnvyqEmYbrL6uxglJcgqC5nka7e9FYGQ
 seo:
   title: >-
     SkillBox technical case study: LINE notifications greatly increased usage
@@ -41,7 +41,7 @@ Through SkillBox, we aim to address the challenge of early turnover among young 
 
 ### Image
 
-![service-image](/media/messaging-api/technicalcase/skillbox/en/skillbox-ui-img.png)
+![service-image](/media/messaging-api/technicalcase/skillbox/en/skillbox-ui-img.webp)
 
 ---
 

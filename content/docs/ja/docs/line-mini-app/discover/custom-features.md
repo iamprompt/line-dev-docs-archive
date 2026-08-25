@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/custom-features
-__hash__: g1-fu-JDn84WjnEUqOcCdtU1UHvFmHvrFEReHKq9TrQ
+__hash__: jkl93gdXzMI1-IePsR2sc30x93Xl5XbUePmGqp8W4Vs
 seo:
   title: カスタム機能
   description: null
@@ -61,7 +61,7 @@ Custom Pathとは、本番用のLIFF URLに設定する独自の文字列のこ�
 
 ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加できます。この機能を使うと、ユーザーは端末のホーム画面からLINEミニアプリに直接アクセスできるようになります。
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-ja.png){className="[\"w-fix-240\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-ja.webp){className="[\"w-fix-240\",\"inline-block\"]"}
 
 会員証やモバイルオーダーなど、ユーザーの利用頻度の高いサービスでこの機能を活用することで、ユーザー体験を向上させることができます。
 

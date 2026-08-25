@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/minimizing-liff-browser
-__hash__: nZ4TjdtV-w4v-zkk30Q5Oto9XgTP82ZZP1A13zOGYNY
+__hash__: wn3bW_4kHgCyw6Utj7baSU2Tr0I2LxI_qfcxMjs5Oug
 seo:
   title: LIFFブラウザを最小化する
   description: ''
@@ -107,7 +107,7 @@ LINEバージョン15.20.0未満の場合、最小化したLIFFブラウザを�
 
 最小化したLIFFブラウザをドラッグすると、画面下に閉じるアイコンが表示されます。閉じるアイコンに最小化したLIFFブラウザをドラッグし、指を離します。
 
-![最小化したLIFFブラウザを閉じる](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ios-12-12-0-or-later-ja.png)
+![最小化したLIFFブラウザを閉じる](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ios-12-12-0-or-later-ja.webp)
 
 ## 最小化したLIFFブラウザを閉じる（LINEバージョン15.20.0以降の場合）
 

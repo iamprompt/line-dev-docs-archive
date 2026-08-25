@@ -8,7 +8,7 @@ description: >-
   as announced in the news from June 2, 2022.
 meta: '{"date":"2022-07-21 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-07-21-liff-minimize-for-iphone
-__hash__: MUE2s0-MrZ3C41cRGHbplKlkMPfKXLEL_7SkZ92CaEg
+__hash__: ST56sKr-ofZf7wpErXZ-ArAmioLgceJjitE9J_-A9iM
 seo:
   title: >-
     On LINE for iOS version 12.12.0 or later, we'll be making changes to some of
@@ -33,7 +33,7 @@ LINE for iOS version 12.12.0 or later
 
 In addition to [the current way of swiping a LIFF browser off the screen](/docs/liff/minimizing-liff-browser/#close-minimized-liff-browser-1), you can also close a LIFF browser in the following way:
 
-![Closing a minimized LIFF browser](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ios-12-12-0-or-later-en.png)
+![Closing a minimized LIFF browser](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ios-12-12-0-or-later-en.webp)
 
 Dragging a minimized LIFF browser shows the close icon at the bottom of the screen. Drag the minimized LIFF browser to the close icon and release your finger.
 

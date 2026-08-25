@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/resortbaito-dive
-__hash__: o6pyhk9rHTYESOwUz2UrZjJuhFAAYqtjyczo9f89ybE
+__hash__: 0a6bm8hjgtTHJogcEtiS0rSRacA4Vr4vrrJd8mK4F7I
 seo:
   title: 派遣スタッフの満足度を高める「リゾートバイトダイブ」の開発事例
   description: ''
@@ -29,7 +29,7 @@ seo:
 
 ### スクリーンショット
 
-![service-image](/media/messaging-api/technicalcase/resortbaito-dive/ja/resortbaito-dive-ui-img.png)
+![service-image](/media/messaging-api/technicalcase/resortbaito-dive/ja/resortbaito-dive-ui-img.webp)
 
 ![service-cms-image](/media/messaging-api/technicalcase/resortbaito-dive/ja/resortbaito-dive-ui-img-2.png)
 

@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/skillbox
-__hash__: BwL7tEbN7s6MWaJH1BtYZzYTNUCSQ9pYX8pWMjUAn1Y
+__hash__: td0U3Whxf7T2yphlqy_Bx2fjlXhCrycHW_CnYPUXg3M
 seo:
   title: 褒めるメンター制度システム「SkillBox」の技術事例
   description: ''
@@ -37,7 +37,7 @@ SkillBoxは、エンゲージメント向上を手間なく実現する「褒め
 
 ### スクリーンショット
 
-![サービスイメージ](/media/messaging-api/technicalcase/skillbox/ja/skillbox-ui-img.png)
+![サービスイメージ](/media/messaging-api/technicalcase/skillbox/ja/skillbox-ui-img.webp)
 
 ---
 

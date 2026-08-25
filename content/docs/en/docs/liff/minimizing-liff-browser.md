@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/minimizing-liff-browser
-__hash__: 3EaHHltrO5lF42Agtipi8nqsIaX19UQQzphC3SeweZI
+__hash__: '-AdCmGnO0aQ2vY3fsTD1tkBPo-fJUziMQJy-ucjB8wo'
 seo:
   title: Minimizing LIFF browser
   description: ''
@@ -111,7 +111,7 @@ Swipe the minimized LIFF browser off the screen.
 
 Dragging a minimized LIFF browser shows the close icon at the bottom of the screen. Drag the minimized LIFF browser to the close icon and release your finger.
 
-![Closing a minimized LIFF browser](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ios-12-12-0-or-later-en.png)
+![Closing a minimized LIFF browser](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ios-12-12-0-or-later-en.webp)
 
 ## Closing a minimized LIFF browser (LINE version 15.20.0 or later)
 

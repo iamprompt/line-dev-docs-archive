@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-14 00:00 UTC","tags":"docs,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/05/14/check-doc-updates-on-github
-__hash__: hHZ15kwuutoiZRjVoJABN5E6D5oussQM4eyCixOohuc
+__hash__: J-ER7f47Px8Wy1trl2fVaDBM7xcZUJnEJA0dB_5V-jU
 seo:
   title: 「あれ、ドキュメント変わった？」と思ったら、GitHubで確認しよう
   description: こんにちは！LINE Developersサイトのドキュメントを担当している、テクニカルライターの岡島です。
@@ -65,7 +65,7 @@ LINE DevelopersサイトのドキュメントのMarkdownファイルは、[`docs
 
 LINE Developersサイトのドキュメントの変更履歴を確認するには、対応するMarkdownファイルをGitHub上で表示し、［**History**］ボタンを押します。GitHubでは、2026年3月30日以降の変更履歴を確認できます。
 
-![](/media/tips/2026/channel-access-token-on-github-ja.png){className="[\"border\"]"}
+![](/media/tips/2026/channel-access-token-on-github-ja.webp){className="[\"border\"]"}
 
 なお、LINE Developersサイトの各ページのタイトル下にある［**GitHubで表示**］ボタンを押すことで、そのページのMarkdownファイルを直接開くこともできます。
 

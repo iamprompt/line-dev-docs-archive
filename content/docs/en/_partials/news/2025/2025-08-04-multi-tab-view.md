@@ -8,7 +8,7 @@ description: >-
   specifications of the action button in the LIFF browser.
 meta: '{"date":"2025-08-04 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-08-04-multi-tab-view
-__hash__: kpRaPJFhAYfcp8JmxBg-2AkVcqnlLgCSISmxIFYIKJs
+__hash__: gbAi8oQYAtMMix7l6KIX-9ooRxAPqksl57ces5t3Wm0
 seo:
   title: >-
     On LINE version 15.12.0 or later, users can use multiple LIFF apps at the
@@ -22,10 +22,10 @@ On LINE version 15.12.0 or later, we've made changes to the UI and specification
 
 After the specification change, tapping the action button displays the [multi-tab view](/docs/liff/overview/#multi-tab-view). The multi-tab view displays options for the LIFF app currently in use and recently used services.
 
-| LINE version earlier than 15.12.0                                                              | LINE version 15.12.0 or later                                                                 |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![](/media/news/2025/liff-action-button-before.png){className="[\"w-fix-320\",\"border\"]"}    | ![](/media/news/2025/liff-action-button-after.png){className="[\"w-fix-320\",\"border\"]"}    |
-| ![](/media/news/2025/liff-action-button-option-en.png){className="[\"w-fix-320\",\"border\"]"} | ![](/media/news/2025/liff-multi-tab-view-news-en.png){className="[\"w-fix-320\",\"border\"]"} |
+| LINE version earlier than 15.12.0                                                               | LINE version 15.12.0 or later                                                                  |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![](/media/news/2025/liff-action-button-before.png){className="[\"w-fix-320\",\"border\"]"}     | ![](/media/news/2025/liff-action-button-after.png){className="[\"w-fix-320\",\"border\"]"}     |
+| ![](/media/news/2025/liff-action-button-option-en.webp){className="[\"w-fix-320\",\"border\"]"} | ![](/media/news/2025/liff-multi-tab-view-news-en.webp){className="[\"w-fix-320\",\"border\"]"} |
 
 Users can resume LIFF apps that they left off from the "recently used services" section in the multi-tab view. This allows users to use multiple LIFF apps at the same time and easily switch or move between different LIFF apps.
 

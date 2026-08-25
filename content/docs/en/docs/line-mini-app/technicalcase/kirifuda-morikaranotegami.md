@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/technicalcase/kirifuda-morikaranotegami
-__hash__: 8QMElcEO9MjQN1rgP2xhZ7BN29uPiGsLUWbop9wKHlU
+__hash__: 2XOzxchBUyqND8CJD_302iIncgJVbHE_ikBA4kXj5ps
 seo:
   title: >-
     Nature conservation through play: A technical case study of Letters from the
@@ -35,7 +35,7 @@ Tokyu Land Corporation has made company-wide efforts to invest in decarbonizatio
 
 ### Image
 
-![service-image](/media/line-mini-app/technicalcase/kirifuda-morikaranotegami/en/kirifuda-morikaranotegami-ui-img.gif)
+![service-image](/media/line-mini-app/technicalcase/kirifuda-morikaranotegami/en/kirifuda-morikaranotegami-ui-img.webp)
 
 ---
 

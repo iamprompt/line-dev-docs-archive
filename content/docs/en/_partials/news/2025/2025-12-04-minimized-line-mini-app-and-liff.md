@@ -11,7 +11,7 @@ description: >-
   after they are minimized has also been changed.
 meta: '{"date":"2025-12-04 00:00 UTC","tags":"line-mini-app, liff","locale":"en"}'
 path: /en/_partials/news/2025/2025-12-04-minimized-line-mini-app-and-liff
-__hash__: dT5Y38xtNV4BRxkVtIZ4ZVPEHcsCHwC7clm8cHCS0QY
+__hash__: 4rRabNV00wOK3JJ5_UOMOYkZmRN6zM0EnoJrQRDzEzw
 seo:
   title: >-
     In LINE version 15.20.0 or later, the behavior when minimizing the LINE MINI
@@ -70,7 +70,7 @@ Starting from LINE version 15.20.0, the default display position has been change
 
 In LINE version 15.20.0 or later, when a minimized LINE MINI App or LIFF app is moved on the screen, its position is saved. The next time it's minimized, the icon appears at the saved position. Furthermore, if another LINE MINI App or LIFF app is opened and minimized within the same LINE app, it will also be displayed at the same position.
 
-![](/media/news/2025/icon-position.png){className="[\"w-fix-720\"]"}
+![](/media/news/2025/icon-position.webp){className="[\"w-fix-720\"]"}
 
 #### Closing method of minimized LINE MINI App/LIFF app
 

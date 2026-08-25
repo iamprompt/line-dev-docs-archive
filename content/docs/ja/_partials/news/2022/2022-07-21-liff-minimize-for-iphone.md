@@ -4,7 +4,7 @@ navigation: true
 description: 2022年6月2日のニュースでお知らせしたLIFFブラウザの最小化の仕様を一部変更します。
 meta: '{"date":"2022-07-21 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-07-21-liff-minimize-for-iphone
-__hash__: kf6fIRyPhEDK5VnNt2wFoFMvDhFETOIkkKIubDcODC4
+__hash__: DaEE92Ehzoh6NVV-1SLH7h48BJJmm-JbfGdrvudxVyw
 seo:
   title: iOS版LINEバージョン12.12.0以降で、LIFFブラウザの最小化の仕様を一部変更します
   description: 2022年6月2日のニュースでお知らせしたLIFFブラウザの最小化の仕様を一部変更します。
@@ -25,7 +25,7 @@ iOS版LINEバージョン12.12.0以降
 
 従来の[LIFFブラウザを画面外にスワイプする](/docs/liff/minimizing-liff-browser/#close-minimized-liff-browser-1)方法に加えて、以下の方法でもLIFFブラウザを閉じることができるようになります。
 
-![最小化したLIFFブラウザを閉じる](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ios-12-12-0-or-later-ja.png)
+![最小化したLIFFブラウザを閉じる](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ios-12-12-0-or-later-ja.webp)
 
 最小化したLIFFブラウザをドラッグすると、画面下に閉じるアイコンが表示されます。閉じるアイコンに最小化したLIFFブラウザをドラッグし、指を離します。
 

@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/resortbaito-dive
-__hash__: F62KRtWlIKLXGEkibGuLDV47F1yCuCBb_3dh2nExf7A
+__hash__: svhmvKgYB-FehwLlaMz-01vtmsDYPRkHCCsgKvF3Yos
 seo:
   title: >-
     A case study on the development of "Resort Baito Dive" to enhance temporary
@@ -33,7 +33,7 @@ At Dive Inc., our resort part-time resort staffing service, “Resort Baito Dive
 
 ### Image
 
-![service-image](/media/messaging-api/technicalcase/resortbaito-dive/en/resortbaito-dive-ui-img.png)
+![service-image](/media/messaging-api/technicalcase/resortbaito-dive/en/resortbaito-dive-ui-img.webp)
 
 ![service-cms-image](/media/messaging-api/technicalcase/resortbaito-dive/en/resortbaito-dive-ui-img-2.png)
 

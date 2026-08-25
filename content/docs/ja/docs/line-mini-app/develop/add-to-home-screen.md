@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/add-to-home-screen
-__hash__: Z21gUj3YQ2wNT3KJhiiLgqA6zYD8VgpOFAtZPYv_9k4
+__hash__: tasQNmZLBwg7YSH60Vvw4TIoQ7I-_4hosSq1WJE9Pkw
 seo:
   title: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する
   description: null
@@ -26,11 +26,11 @@ seo:
 一部のAndroid端末において、ユーザーがLINEアプリの［**設定**］>［**アプリアイコン**］からアイコンを変更すると、追加済みのショートカットが削除される場合があります。詳しくは、『LINEヘルプセンター』の「[【Android】LINEアプリアイコン変更後、LINEのショートカットに問題が発生した場合](https://help.line.me/line/smartphone/pc?lang=ja&contentId=200000315){rel="[\"nofollow\"]"}」を参照してください。
 ::
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-android-ja.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-android.png){className="[\"w-fix-240\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-android-ja.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-android.webp){className="[\"w-fix-240\",\"inline-block\"]"}
 
 **iOS端末での表示**
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"h-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-ja.png){className="[\"h-fix-400\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"h-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-ja.webp){className="[\"h-fix-400\",\"inline-block\"]"}
 
 会員証やモバイルオーダーなど、ユーザーの利用頻度の高いサービスでこの機能を活用することで、ユーザー体験を向上させることができます。
 

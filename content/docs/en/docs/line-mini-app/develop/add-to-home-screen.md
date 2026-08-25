@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/add-to-home-screen
-__hash__: dp6BzDJ_3s5pCDU73YNKunjnxT0ijxV-ZMK9MMJL5pI
+__hash__: SI2cl9Fn3U5SVEXtWK3j-f7VZs2ZFIjQ9plOTxrdubU
 seo:
   title: Add a shortcut to your LINE MINI App to the home screen of the user's device
   description: null
@@ -34,11 +34,11 @@ type: note
 On some Android devices, if a user changes the icon from **Settings** > **App icon** of the LINE app, the existing shortcuts may be removed. For more information, see [[Android] If you have problems with the LINE shortcut after changing the LINE app icon](https://help.line.me/line/smartphone/pc?lang=ja&contentId=200000315){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE Help Center.
 ::
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-android-en.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-android.png){className="[\"w-fix-240\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-android-en.png){className="[\"border\",\"w-fix-240\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-android.webp){className="[\"w-fix-240\",\"inline-block\"]"}
 
 **Display on iOS device**
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.png){className="[\"border\",\"h-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-en.png){className="[\"h-fix-400\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.png){className="[\"border\",\"h-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-en.webp){className="[\"h-fix-400\",\"inline-block\"]"}
 
 Using this feature for services that users frequently use, such as membership cards and mobile ordering, can improve the user experience.
 

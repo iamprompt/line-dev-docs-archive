@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/technicalcase/kirifuda-morikaranotegami
-__hash__: 7-oKAVhVVFzNaSYzWn5c8JEhADpmfoMGFLCPZTP2ZVg
+__hash__: pzsvuunSDYqgMPKY0pMunMvPq39r1MUYdY-PunraYsA
 seo:
   title: 遊びながら自然保全をする「もりからの手紙」の技術事例
   description: ''
@@ -31,7 +31,7 @@ seo:
 
 ### スクリーンショット
 
-![service-image](/media/line-mini-app/technicalcase/kirifuda-morikaranotegami/ja/kirifuda-morikaranotegami-ui-img.gif)
+![service-image](/media/line-mini-app/technicalcase/kirifuda-morikaranotegami/ja/kirifuda-morikaranotegami-ui-img.webp)
 
 ---
 
