@@ -7,7 +7,7 @@ description: >-
   LINE contents from rich menus with the action to open the LINE URL scheme.
 meta: '{}'
 path: /en/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: QQedIDqAan6pP3I_iQPx7wH3b7sEC1MMHChhwmbZSIU
+__hash__: wC9PhUjY6oktzLMlLm6_xWUNI_rvBvoGCCFpj3kqYbc
 seo:
   description: >-
     You can open Sticker Shop, LIFF app or camera with the LINE URL scheme. The
@@ -67,7 +67,7 @@ Things you can do with LINE URL schemes are as follows. The LINE URL schemes tha
 - [Opening the camera and camera roll](#opening-the-camera-and-camera-roll)
 - [Sending location information](#sending-the-location-screen)
 - [Sharing a LINE Official Account](#sharing-line-official-account)
-- [Opening the LINE Official Account's LINE VOOM and business profile](#opening-line-voom-and-profile)
+- [Opening the LINE Official Account's business profile](#opening-profile)
 - [Opening a chat screen with a LINE Official Account](#opening-chat-screen)
 - [Sending text messages](#sending-text-messages)
 - [Opening profile information](#opening-profile-information)
@@ -158,24 +158,20 @@ When users open `https://line.me/R/ti/p/{Percent-encoded LINE ID}` from a PC, th
 If both conditions are met, users see the public URL of your LINE Official Account, with a QR code. If not, the user sees only the QR code for your LINE Official Account. You can adjust settings on [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"} to change an unverified account to a verified account, or to use the public URL of your profile.
 ::
 
-### Opening the LINE Official Account's LINE VOOM and business profile
+### Opening the LINE Official Account's business profile
 
-With the LINE URL scheme, you can let users open LINE VOOM and the business profile page of your LINE Official Account.
+With the LINE URL scheme, you can let users open the business profile page of your LINE Official Account.
 
-![](/media/messaging-api/using-line-url-scheme/bot-line-voom.png){className="[\"border\",\"w-fix-240\"]"}
-
-| LINE URL scheme                                                                 | Description                                                                                                                                                            |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| https://[line.me/R/home/public/main?id=`{LINE ID without @}`]                   | Opens the LINE Official Account's LINE VOOM.                                                                                                                           |
-| https://[line.me/R/home/public/profile?id=`{LINE ID without @}`]                | Opens the LINE Official Account's business profile.                                                                                                                    |
-| https://[line.me/R/home/public/post?id=`{LINE ID without @}`&postId=`{postId}`] | Opens the LINE Official Account's LINE VOOM post. Find the post ID of individual posts in the [LINE VOOM Studio](https://voom-studio.line.biz/){rel="[\"nofollow\"]"}. |
+| LINE URL scheme                                                  | Description                                         |
+| ---------------------------------------------------------------- | --------------------------------------------------- |
+| https://[line.me/R/home/public/profile?id=`{LINE ID without @}`] | Opens the LINE Official Account's business profile. |
 
 ::admonition
 ---
 title: Exclude the at-sign (@) prefix in the URL scheme
 type: note
 ---
-Replace `{LINE ID without @}` in the URL scheme with the LINE ID of your LINE Official Account. You can specify either a basic ID or a :glossary-tooltip[[premium ID](/glossary/#premium-id)]{glossary-id="premium-id"}. Exclude the at-sign (`@`) prefix from the LINE ID of your LINE Official Account. For example, if the LINE ID is `@linedevelopers`, use `https://line.me/R/home/public/main?id=linedevelopers`.
+Replace `{LINE ID without @}` in the URL scheme with the LINE ID of your LINE Official Account. You can specify either a basic ID or a :glossary-tooltip[[premium ID](/glossary/#premium-id)]{glossary-id="premium-id"}. Exclude the at-sign (`@`) prefix from the LINE ID of your LINE Official Account. For example, if the LINE ID is `@linedevelopers`, use `https://line.me/R/home/public/profile?id=linedevelopers`.
 ::
 
 ::admonition
@@ -186,12 +182,8 @@ type: tip
 Find the LINE ID of your LINE Official Account in [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}. For more information, see [Share the LINE ID of your LINE Official Account](/docs/messaging-api/sharing-bot/#share-the-line-id-of-your-line-official-account).
 ::
 
-::admonition
----
-title: Posting on LINE VOOM & customizing business profile
-type: tip
----
-To post on LINE VOOM or customize the business profile for your LINE Official Account, use the [LINE VOOM Studio](https://voom-studio.line.biz/){rel="[\"nofollow\"]"} or the [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}.
+::admonition{title="Customizing the business profile" type="tip"}
+To customize the business profile for your LINE Official Account, use the [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}.
 ::
 
 ### Opening a chat screen with a LINE Official Account
@@ -225,9 +217,9 @@ Find the LINE ID of your LINE Official Account in [LINE Official Account Manager
 
 With the LINE URL scheme, you can set a text message for a user to send to their friends or to LINE Official Accounts.
 
-| LINE URL scheme                                 | Description                                                                                                                                                                                                               |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| https://[line.me/R/share?text=`{text_message}`] | Opens the "Share with" screen. Users can select friends, group chats, or multi-person chats to send a text message specified with `{text_message}`. Users can send the text also to Keep Memo, LINE VOOM, and other apps. |
+| LINE URL scheme                                 | Description                                                                                                                                                                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| https://[line.me/R/share?text=`{text_message}`] | Opens the "Share with" screen. Users can select friends, group chats, or multi-person chats to send a text message specified with `{text_message}`. Users can send the text also to Keep Memo and other apps. |
 
 ::admonition{title=""text_message" must be percent encoded" type="note"}
 Make sure `{text_message}` is [percent encoded](https://developer.mozilla.org/en-US/docs/Glossary/Percent-encoding){rel="[\"nofollow\"]"} in UTF-8. For example, if you are sending a text message "Hi there!", use `https://line.me/R/share?text=Hi%20there%21`.
@@ -257,7 +249,6 @@ With the LINE URL scheme, you can let users open different LINE screens, includi
 | `https://line.me/R/nv/wallet`           | Opens the Wallet tab or the MINI Apps tab. The MINI Apps tab is only available to users in Japan. |
 | `https://line.me/R/nv/addFriends`       | Opens the "Add friends" screen.                                                                   |
 | `https://line.me/R/nv/officialAccounts` | Opens the "LINE Official Accounts" screen.                                                        |
-| `https://line.me/R/nv/timeline`         | Opens the LINE VOOM "Following" screen.                                                           |
 
 ### Opening LINE settings
 
@@ -281,7 +272,6 @@ With the LINE URL scheme, you can open different settings menu.
 | `https://line.me/R/nv/suggestSettings`                                                                   | Opens Chats > Display suggestions.                                                                            |
 | `https://line.me/R/nv/settings/callSettings`                                                             | Opens Calls settings.                                                                                         |
 | `https://line.me/R/nv/settings/addressBookSync`                                                          | Opens Friends settings.                                                                                       |
-| `https://line.me/R/nv/settings/timelineSettings`                                                         | Opens LINE VOOM settings.                                                                                     |
 
 ### Opening Sticker Shop
 

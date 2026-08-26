@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/building-bot
-__hash__: '-CKbTPXAL1kngKvfV_Alq8oGSy1Z5zWaF1ry47jwJO4'
+__hash__: djIPF9PH2Rc1uIc8WrDQr77rUdRzp1tTK5K1KDwyLAw
 seo:
   title: ボットを作成する
   description: null
@@ -82,7 +82,7 @@ IPアドレスを登録するには、[LINE Developersコンソール](/console/
 
 ## LINE Official Account Managerでの設定
 
-[LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}は、LINE公式アカウントを管理するためのツールです。Messaging APIが提供する機能を利用できるほか、[ビジネスプロフィールをカスタマイズ](#customize-profile)してユーザー体験を向上させたり、LINE VOOMの投稿を作成したりなど、さまざまな機能を利用できます。
+[LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}は、LINE公式アカウントを管理するためのツールです。Messaging APIが提供する機能を利用できるほか、[ビジネスプロフィールをカスタマイズ](#customize-profile)してユーザー体験を向上させるなど、さまざまな機能を利用できます。
 
 LINE公式アカウントのすべての機能については、『[LINEヤフー for Business](https://www.lycbiz.com/jp/){rel="[\"nofollow\"]"}』を参照してください。
 

@@ -7,7 +7,7 @@ description: >-
   URLスキームを開くアクションを設定しておくことで、メニューをタップしたユーザーに対してLINE内のコンテンツを表示できます。
 meta: '{}'
 path: /ja/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: TfvQuBiUrXIdBW2MHYK788UekAuuIwuaTMevWA5ndQg
+__hash__: YfmXfo6LZVW5XgWMJmDyR-2-Ax-mRw8AL-hCIpaW6Ik
 seo:
   description: >-
     LINE URLスキームを使うと、スタンプショップやLIFFアプリを開いたり、カメラを起動したりできます。LINE
@@ -65,7 +65,7 @@ LINEで利用できるURLスキームは以下のとおりです。なお、指�
 - [カメラとカメラロールを開く](#opening-the-camera-and-camera-roll)
 - [位置情報を送る](#sending-the-location-screen)
 - [LINE公式アカウントをシェアする](#sharing-line-official-account)
-- [LINE公式アカウントのLINE VOOMやビジネスプロフィールを開く](#opening-line-voom-and-profile)
+- [LINE公式アカウントのビジネスプロフィールを開く](#opening-profile)
 - [LINE公式アカウントとのトーク画面を開く](#opening-chat-screen)
 - [テキストメッセージを送る](#sending-text-messages)
 - [プロフィール情報を開く](#opening-profile-information)
@@ -140,28 +140,24 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 どちらの条件も満たしている場合、LINE公式アカウントのWeb版プロフィールがQRコード付きで表示されます。条件を満たしていない場合は、LINE公式アカウントのQRコードのみが表示されます。利用中の未認証アカウントを認証済アカウントに変更したり、Web版プロフィールを利用したりするための設定は、[LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}から行うことができます。
 ::
 
-### LINE公式アカウントのLINE VOOMやビジネスプロフィールを開く
+### LINE公式アカウントのビジネスプロフィールを開く
 
-このLINE URLスキームを使うと、LINE公式アカウントのLINE VOOMやビジネスプロフィールを開くことができます。
+このLINE URLスキームを使うと、LINE公式アカウントのビジネスプロフィールを開くことができます。
 
-![](/media/messaging-api/using-line-url-scheme/bot-line-voom.png){className="[\"border\",\"w-fix-240\"]"}
-
-| LINE URLスキーム                                                                    | 説明                                                                                                                           |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| https://[line.me/R/home/public/main?id=`{LINE ID without @}`]                   | 指定したLINE公式アカウントのLINE VOOMを開きます。                                                                                              |
-| https://[line.me/R/home/public/profile?id=`{LINE ID without @}`]                | 指定したLINE公式アカウントのビジネスプロフィールを開きます。                                                                                             |
-| https://[line.me/R/home/public/post?id=`{LINE ID without @}`&postId=`{postId}`] | 指定したLINE公式アカウントの特定のLINE VOOMの投稿を開きます。各投稿のIDは、[LINE VOOM Studio](https://voom-studio.line.biz/){rel="[\"nofollow\"]"}で確認できます。 |
+| LINE URLスキーム                                                     | 説明                               |
+| ---------------------------------------------------------------- | -------------------------------- |
+| https://[line.me/R/home/public/profile?id=`{LINE ID without @}`] | 指定したLINE公式アカウントのビジネスプロフィールを開きます。 |
 
 ::admonition{title="このURLスキームではLINE IDの先頭の@を含めないでください" type="note"}
-`{LINE ID without @}`は、LINE公式アカウントのLINE IDに置き換えてください。ベーシックIDと:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}のどちらも指定できます。なお、LINE IDの先頭の`@`を含めないでください。たとえば、LINE IDが`@linedevelopers`の場合は、`https://line.me/R/home/public/main?id=linedevelopers`のようにします。
+`{LINE ID without @}`は、LINE公式アカウントのLINE IDに置き換えてください。ベーシックIDと:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}のどちらも指定できます。なお、LINE IDの先頭の`@`を含めないでください。たとえば、LINE IDが`@linedevelopers`の場合は、`https://line.me/R/home/public/profile?id=linedevelopers`のようにします。
 ::
 
 ::admonition{title="LINE公式アカウントのLINE IDを確認するには？" type="tip"}
 LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}で確認できます。詳しくは、「[LINE公式アカウントのLINE IDをシェアする](/docs/messaging-api/sharing-bot/#share-the-line-id-of-your-line-official-account)」を参照してください。
 ::
 
-::admonition{title="LINE VOOMへの投稿とビジネスプロフィールのカスタマイズ" type="tip"}
-あなたが管理しているLINE公式アカウントのLINE VOOMに投稿したり、ビジネスプロフィールをカスタマイズしたりするには、[LINE VOOM Studio](https://voom-studio.line.biz/){rel="[\"nofollow\"]"}や[LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}を使います。
+::admonition{title="ビジネスプロフィールのカスタマイズ" type="tip"}
+あなたが管理しているLINE公式アカウントのビジネスプロフィールをカスタマイズするには、[LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}を使います。
 ::
 
 ### LINE公式アカウントとのトーク画面を開く
@@ -191,9 +187,9 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 
 このLINE URLスキームを使うと、ユーザーの友だちまたはLINE公式アカウントに送信するテキストメッセージを設定できます。
 
-| LINE URLスキーム                                    | 説明                                                                                                                           |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| https://[line.me/R/share?text=`{text_message}`] | 「送信先を選択」画面を開きます。ユーザーは、友だち、グループトーク、または複数人トークを選択して、`{text_message}`に設定されたテキストメッセージを送信できます。テキストはKeepメモやLINE VOOM、他のアプリにも送信できます。 |
+| LINE URLスキーム                                    | 説明                                                                                                                 |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| https://[line.me/R/share?text=`{text_message}`] | 「送信先を選択」画面を開きます。ユーザーは、友だち、グループトーク、または複数人トークを選択して、`{text_message}`に設定されたテキストメッセージを送信できます。テキストはKeepメモや他のアプリにも送信できます。 |
 
 ::admonition{title="「text_message」はパーセントエンコードしてください" type="note"}
 `{text_message}`はUTF-8を用いて[パーセントエンコード](https://developer.mozilla.org/ja/docs/Glossary/Percent-encoding){rel="[\"nofollow\"]"}してください。たとえば、`こんにちは`というテキストメッセージを指定する場合は、`https://line.me/R/share?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF`のようにします。
@@ -223,7 +219,6 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 | `https://line.me/R/nv/wallet`           | ウォレットタブまたはミニアプリタブを開きます。なお、ミニアプリタブは日本のユーザーのみ利用できます。 |
 | `https://line.me/R/nv/addFriends`       | 「友だち追加」画面を開きます。                                    |
 | `https://line.me/R/nv/officialAccounts` | 「LINE公式アカウント」画面を開きます。                              |
-| `https://line.me/R/nv/timeline`         | LINE VOOMの「フォロー中」画面を開きます。                          |
 
 ### 「設定」画面を開く
 
@@ -247,7 +242,6 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 | `https://line.me/R/nv/suggestSettings`                                                                | 「トーク」 > 「サジェスト表示」設定画面を開きます。                                                 |
 | `https://line.me/R/nv/settings/callSettings`                                                          | 「通話」設定画面を開きます。                                                              |
 | `https://line.me/R/nv/settings/addressBookSync`                                                       | 「友だち」設定画面を開きます。                                                             |
-| `https://line.me/R/nv/settings/timelineSettings`                                                      | 「LINE VOOM」設定画面を開きます。                                                       |
 
 ### スタンプショップを開く
 

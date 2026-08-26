@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/building-bot
-__hash__: u9TSTfV5R7RBJ97KBxFkWmreBQHkja8p_RlfifBNzXQ
+__hash__: 3mihRh7LHnq4xaV2LEjIFrIml9bnXK9k42E7f-sLrdM
 seo:
   title: Build a bot
   description: null
@@ -82,7 +82,7 @@ If you got a similar log, your bot server did receive a webhook event from the L
 
 ## Settings on LINE Official Account Manager
 
-The [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"} is a tool to manage your LINE Official Account. In addition to using the features provided by the Messaging API, you can improve the user experience by [customizing your business profile](#customize-profile), create LINE VOOM posts, and much more.
+The [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"} is a tool to manage your LINE Official Account. In addition to using the features provided by the Messaging API, you can improve the user experience by [customizing your business profile](#customize-profile) and much more.
 
 For a complete list of features available to LINE Official Accounts, see [LY for Business](https://www.lycbiz.jp/en/){rel="[\"nofollow\"]"}.
 
