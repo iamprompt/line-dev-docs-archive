@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/discover/builtin-features
-__hash__: 8UiZB_exZ1Pw_iuBK5iHSpXTkhWQ3kPNWU5qcgJc2ho
+__hash__: 08EjHXI5_QJfr_CHiNVDdXIW2E2OJRMKLx8sLpc9tlI
 seo:
   title: ビルトイン機能
   description: null
@@ -69,6 +69,6 @@ LINEバージョン26.7.0以降では、アクションボタンをタップす�
 
 LIFFアプリがユーザーの情報を取得したり、ユーザーにメッセージを送信したりするには、ユーザーがLIFFアプリに初めてアクセスする際に、「チャネル同意画面」において、対応する権限に同意する必要があります。
 
-LINEミニアプリでは、「チャネル同意の簡略化」機能によって、ユーザーが簡略化に対する同意を初回のみ行うだけで、別のLINEミニアプリに初めてアクセスする際に「チャネル同意画面」をスキップし、すぐにLINEミニアプリの利用を開始できるようになります。
+LINEミニアプリでは、「チャネル同意の簡略化」機能によって、ユーザーがLINEミニアプリに初めてアクセスする際に、「チャネル同意画面」をスキップし、すぐにLINEミニアプリの利用を開始できるようになります。
 
 詳しくは、「[LINEミニアプリの認可フロー](/docs/line-mini-app/develop/channel-consent-simplification/)」を参照してください。
