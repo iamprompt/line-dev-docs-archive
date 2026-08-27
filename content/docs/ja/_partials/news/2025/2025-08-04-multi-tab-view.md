@@ -4,7 +4,7 @@ navigation: true
 description: LINEバージョン15.12.0よりLIFFブラウザのアクションボタンのUIおよび仕様を変更します。
 meta: '{"date":"2025-08-04 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-08-04-multi-tab-view
-__hash__: f5bLchkkgdJDrx4_dsyUraRc3hxKWGA-d3ykQFJuyWg
+__hash__: WJzqpYiNcHKOA4nYQ_L2lOPaMpdyft2npOPmU-uWlwY
 seo:
   title: LINEバージョン15.12.0より複数のLIFFアプリを同時利用できるようになり、LIFFアプリ間の切り替えがよりスムーズになりました
   description: LINEバージョン15.12.0よりLIFFブラウザのアクションボタンのUIおよび仕様を変更します。
@@ -14,10 +14,10 @@ LINEバージョン15.12.0より:glossary-tooltip[[LIFFブラウザ](/glossary/#
 
 変更後は、アクションボタンを押すと、[マルチタブビュー](/docs/liff/overview/#multi-tab-view)が表示されます。マルチタブビューには、使用中のLIFFアプリのオプションと最近使用したサービスが表示されます。
 
-| LINEバージョン15.12.0未満                                                                             | LINEバージョン15.12.0以降                                                                             |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![](/media/news/2025/liff-action-button-before.png){className="[\"w-fix-320\",\"border\"]"}    | ![](/media/news/2025/liff-action-button-after.png){className="[\"w-fix-320\",\"border\"]"}     |
-| ![](/media/news/2025/liff-action-button-option-ja.png){className="[\"w-fix-320\",\"border\"]"} | ![](/media/news/2025/liff-multi-tab-view-news-ja.webp){className="[\"w-fix-320\",\"border\"]"} |
+| LINEバージョン15.12.0未満                                                                              | LINEバージョン15.12.0以降                                                                             |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![](/media/news/2025/liff-action-button-before.png){className="[\"w-fix-320\",\"border\"]"}     | ![](/media/news/2025/liff-action-button-after.png){className="[\"w-fix-320\",\"border\"]"}     |
+| ![](/media/news/2025/liff-action-button-option-ja.webp){className="[\"w-fix-320\",\"border\"]"} | ![](/media/news/2025/liff-multi-tab-view-news-ja.webp){className="[\"w-fix-320\",\"border\"]"} |
 
 マルチタブビューの「最近使用したサービス」から、使用を中断したLIFFアプリを再開できます。これによりユーザーは、複数のLIFFアプリを同時に使用できるようになり、異なるLIFFアプリ間を簡単に切り替えたり移動したりできます。
 

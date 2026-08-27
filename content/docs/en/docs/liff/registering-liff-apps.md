@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/registering-liff-apps
-__hash__: kq1a44xgcXH-LU4lD-vgFP1LXdB4vBKOmGSRv1vzSgg
+__hash__: 6SkWn1p6vW0NUyOJGZtVw1LiVs_vf6e3SvKx3SxdIsQ
 seo:
   title: Adding a LIFF app to your channel
   description: ''
@@ -68,7 +68,7 @@ On the **LIFF** tab of LINE Login channels, the LIFF apps will be displayed in t
 1. The LIFF apps added to the LINE Login channel on or after May 23, 2023 will be displayed in descending order of the date added
 2. The LIFF apps added to the LINE Login channel before May 23, 2023 will be displayed in no particular order
 
-![Examples of LIFF apps displayed on the LIFF tab](/media/liff/order-of-liff-apps-en.png){className="[\"border\"]"}
+![Examples of LIFF apps displayed on the LIFF tab](/media/liff/order-of-liff-apps-en.webp){className="[\"border\"]"}
 
 ## Other operations
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/getting-user-ids
-__hash__: qndPl16F0IlrqHhGVeM3M4NvuoTHKqg1KCBlmGAprbw
+__hash__: cUTf86h-zBIl3UQGSrNYQ-xRNivJuLqW0z_CK8kgq50
 seo:
   title: ユーザーIDを取得する
   description: null
@@ -18,7 +18,7 @@ seo:
 
 ユーザーIDとは、ユーザーの一意な識別子です。ユーザーIDは、LINEで登録されているユーザーの表示名や、LINEでの友だち検索に利用するLINE IDとは異なります。ユーザーIDはLINEプラットフォームが発行する値で、`U8189cf6745fc0d808977bdb0b9f22995`のように、`U[0-9a-f]{32}`の正規表現にマッチする文字列です。
 
-![](/media/messaging-api/getting-user-ids/display-name-and-id-and-user-id-ja.png){className="[\"w-fix-960\",\"bg-border\"]"}
+![](/media/messaging-api/getting-user-ids/display-name-and-id-and-user-id-ja.webp){className="[\"w-fix-960\",\"bg-border\"]"}
 
 ### ユーザーIDが発行される単位
 

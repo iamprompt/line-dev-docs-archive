@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-05-14 00:00 UTC","tags":"docs,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/05/14/check-doc-updates-on-github
-__hash__: YI-VTKP0F4GDyL1IiW_Gs8tcNMXE2lqsNx8I-TkldoQ
+__hash__: IQooeLVkD3shtoPvbZHoZmTcj_MCFyhtTPQntsUg_mA
 seo:
   title: Think the documentation has changed? Check GitHub
   description: >-
@@ -69,7 +69,7 @@ For example, the structure of the [`docs/en`](https://github.com/line/line-devel
 
 To check the change history of the LINE Developers site documentation, open the corresponding Markdown file on GitHub and click the **History** button. You can view changes made since March 30, 2026.
 
-![](/media/tips/2026/channel-access-token-on-github-en.png){className="[\"border\"]"}
+![](/media/tips/2026/channel-access-token-on-github-en.webp){className="[\"border\"]"}
 
 You can also open the Markdown file for any page directly by clicking the **View on GitHub** button under the page title on the LINE Developers site.
 

@@ -7,7 +7,7 @@ meta: >-
   {"date":"2022-02-02 00:00 UTC","tags":"messaging-api,
   rich-menu","locale":"ja"}
 path: /ja/_partials/news/2022/2022-02-02-rich-menu-playground
-__hash__: u_5oa0eh3nRAzXHLU7ElJAsoJry5VYGUWLcoDf3TldM
+__hash__: XNr7FtTTxt14_qOVkCvZmxUE1jBlTDB9rtCpTVNu4Mo
 seo:
   title: リッチメニュープレイグラウンドを公開しました
   description: >-
@@ -18,7 +18,7 @@ seo:
 
 [日時選択アクション](/reference/messaging-api/#datetime-picker-action)を用いてユーザーに日時を選択させる機能や、[リッチメニューエイリアス](/docs/messaging-api/switch-rich-menus/)で複数のリッチメニューを切り替える機能など、リッチメニューのさまざまな機能を試せます。
 
-![リッチメニュープレイグラウンドメイン画面](/media/messaging-api/rich-menu-playground/richmenu-playground-bot-overview.png){className="[\"border\",\"w-fix-240\"]"}
+![リッチメニュープレイグラウンドメイン画面](/media/messaging-api/rich-menu-playground/richmenu-playground-bot-overview.webp){className="[\"border\",\"w-fix-240\"]"}
 
 詳しくは、『Messaging APIドキュメント』の「[リッチメニュープレイグラウンドでリッチメニューを試す](/docs/messaging-api/try-rich-menu/)」を参照してください。
 

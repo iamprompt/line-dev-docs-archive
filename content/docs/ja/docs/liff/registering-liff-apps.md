@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/registering-liff-apps
-__hash__: D_qA5Pg6WBcxOiNuitXew2A9_jtsE6u6et8n0NKCYLA
+__hash__: 737svKX1n6RGSSsYje09lyKjUjmB5fkUUtt54sRcBks
 seo:
   title: LIFFアプリをチャネルに追加する
   description: ''
@@ -67,7 +67,7 @@ LINEログインチャネルの［**LIFF**］タブにおいて、LIFFアプリ�
 1. 2023年5月23日以降にLINEログインチャネルへ追加されたLIFFアプリが、追加日の降順で表示される
 2. 2023年5月23日より前にLINEログインチャネルへ追加されたLIFFアプリが、順不同で表示される
 
-![LIFFタブで表示されるLIFFアプリの例](/media/liff/order-of-liff-apps-ja.png){className="[\"border\"]"}
+![LIFFタブで表示されるLIFFアプリの例](/media/liff/order-of-liff-apps-ja.webp){className="[\"border\"]"}
 
 ## その他の操作
 

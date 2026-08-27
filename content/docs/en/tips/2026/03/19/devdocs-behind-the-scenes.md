@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-03-19 00:00
   UTC","tags":"line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/03/19/devdocs-behind-the-scenes
-__hash__: ZeRWnuDOChqwQ4tGJRaYiUs2K-BnzWIV-2ygWRIKMX0
+__hash__: SJvHG_2A9eUqJ7VzS56OXVIZHC7-9vTL-YRxWknAC4w
 seo:
   title: LINE Developers site - behind the scenes
   description: >-
@@ -67,7 +67,7 @@ Pro tip: if you want to share your search with somebody else, you can still do s
 
 Example: [https://developers.line.biz/en/?kw=test](https://developers.line.biz/en/?kw=test){rel="[\"nofollow\"]"}
 
-![Screenshot of search modal](/media/tips/2026/search-share-url-en.png)
+![Screenshot of search modal](/media/tips/2026/search-share-url-en.webp)
 
 Another change is the discontinuation of Chinese content. Since it was no longer being updated, we stopped providing it to avoid offering outdated information.
 

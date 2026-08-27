@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App is a web application that runs on LINE.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/introduction
-__hash__: SwOwN0TcBHXg0R1fbuh1Th9TSOEfzYQEYFsvnoJKhEU
+__hash__: GIQUyNjm4O7zaD1KtxEbLiPzokJtABFtlTwna_Vf-WM
 seo:
   title: Introducing LINE MINI App
   description: LINE MINI App is a web application that runs on LINE.
@@ -110,7 +110,7 @@ Users can access recently used LINE MINI Apps from **Services** on the **Home** 
 
 The Home tab display policy varies by region to provide the service.
 
-![](/media/line-mini-app/mini-access-home-tab-en.png){className="[\"border\",\"w-fix-280\"]"}
+![](/media/line-mini-app/mini-access-home-tab-en.webp){className="[\"border\",\"w-fix-280\"]"}
 
 ### Searching on LINE
 

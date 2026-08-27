@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/configure-console
-__hash__: 79oxw4rUmNU1jMY_HytpLxeefd7__HPuspt5atK1jAE
+__hash__: v0pC44FHWAY2iuzzVOB6kM6OFgfO-a-lmq9oWBFjYVI
 seo:
   title: Settings displayed to LINE MINI App users
   description: null
@@ -60,7 +60,7 @@ When a user shares a LINE MINI App page from the [action button](/docs/line-mini
 
 When a user taps the [action button](/docs/line-mini-app/discover/builtin-features/#action-button), the following information registered on the [LINE Developers Console](/console/) is displayed in the [multi-tab view](/docs/line-mini-app/discover/builtin-features/#multi-tab-view).
 
-![](/media/line-mini-app/discover/mini-multi-tab-view-en.png){className="[\"border\",\"w-fix-320\",\"border\"]"}
+![](/media/line-mini-app/discover/mini-multi-tab-view-en.webp){className="[\"border\",\"w-fix-320\",\"border\"]"}
 
 | Information        | Settings                                  |
 | ------------------ | ----------------------------------------- |

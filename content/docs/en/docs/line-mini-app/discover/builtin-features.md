@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/discover/builtin-features
-__hash__: _WyI_odp12TVDcDpCrkSzjMevdMMaqJ5Y7YkMYv2bdw
+__hash__: fJV1VE6N4AvcYWG8343TqL19buPfBslhNcc0x5iM_tg
 seo:
   title: Built-in features
   description: null
@@ -63,7 +63,7 @@ The multi-tab view displays your recently used services. The recently used servi
 
 For more information, see [Multi-tab view](/docs/liff/overview/#multi-tab-view) in the LIFF documentation.
 
-![](/media/line-mini-app/discover/mini-multi-tab-view-en.png){className="[\"border\",\"w-fix-320\",\"border\"]"}
+![](/media/line-mini-app/discover/mini-multi-tab-view-en.webp){className="[\"border\",\"w-fix-320\",\"border\"]"}
 
 ## Channel consent simplification
 

@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/introduction
-__hash__: 6KIZgpUB6Cg33WXhVtOiStvL6AEyYTJkuzPiFrjjHlo
+__hash__: nB9r5eshzRe6qDPj15OaYx4QICsYtjlDLz20iFmpN9s
 seo:
   title: LINEミニアプリとは
   description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
@@ -104,7 +104,7 @@ LINEの［**ホーム**］タブの［**サービス**］から、最近利用�
 
 ホームタブの表示ポリシーは、サービスを提供する地域によって異なります。
 
-![](/media/line-mini-app/mini-access-home-tab-ja.png){className="[\"border\",\"w-fix-280\"]"}
+![](/media/line-mini-app/mini-access-home-tab-ja.webp){className="[\"border\",\"w-fix-280\"]"}
 
 ### LINEで探す
 

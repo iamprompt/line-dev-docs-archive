@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-04-30 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"en","sidebar":false}
 path: /en/tips/2026/04/30/flex-message-usage-1
-__hash__: 0OD4Q8U7JAf0MM8LaV_x_r6XL8QLUtsi-SgFWdk9m8M
+__hash__: k2mFnLZxT2tEA4wDi5cLOBPi1V2unMCUaEt5OFjgvBI
 seo:
   title: Mastering Flex Messages, part 1
   description: >-
@@ -29,7 +29,7 @@ seo:
 
 With Flex Messages, you can create flexible and advanced messages based on the [CSS Flexible Box (CSS Flexbox)](https://www.w3.org/TR/css-flexbox-1/){rel="[\"nofollow\"]"} specification. Flex Messages let you send message designs that are difficult to express with traditional message types, without relying on images.
 
-![](/media/tips/2026/flex-message-example-en.png){className="[\"border\"]"}
+![](/media/tips/2026/flex-message-example-en.webp){className="[\"border\"]"}
 
 This article introduces examples of messages you can create using Flex Messages.
 

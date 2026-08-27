@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/link-a-bot
-__hash__: f61ehkfpXqrimM7jwfBa86W1kZPPATvs-bzeWowyyrs
+__hash__: Z6_zP5eVDbEQ-kanKgdLJN5Eyprxg2mtivaxkU3UWk4
 seo:
   title: Add a LINE Official Account as a friend when logged in (add friend option)
   description: null
@@ -61,7 +61,7 @@ These options are displayed depending on the `bot_prompt` query parameter.
 | `normal`     | Display the option to add a LINE Official Account as a friend in the consent screen.                     |
 | `aggressive` | Opens a new screen with an option to add the LINE Official Account as a friend after the consent screen. |
 
-![Screen to be displayed](/media/line-login/link-a-bot/bot-prompt-en.png){className="[\"w-fix-840\"]"}
+![Screen to be displayed](/media/line-login/link-a-bot/bot-prompt-en.webp){className="[\"w-fix-840\"]"}
 
 ::admonition{title="Tip" type="tip"}
 For more information on query parameters other than `bot_prompt`, see [Making an authorization request](/docs/line-login/integrate-line-login/#making-an-authorization-request).

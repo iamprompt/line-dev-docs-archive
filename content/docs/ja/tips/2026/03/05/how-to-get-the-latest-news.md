@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-05 00:00 UTC","tags":"docs, line-developers-site,
   console","locale":"ja","sidebar":false}
 path: /ja/tips/2026/03/05/how-to-get-the-latest-news
-__hash__: cl7XwYQ1AZgcvX22Ywovo-vUo-VwwVfBezv-DdTt4-0
+__hash__: E-ZHWX9oaXlyr0zIUH5xZf83Kb8jwQLiZMdVucWUmng
 seo:
   title: LINE Developersサイトの最新情報をチェックしよう
   description: 「あれ、この機能いつ追加されたんだろう？」
@@ -33,7 +33,7 @@ seo:
 
 まずは、LINE Developersサイトのホームページを見てみましょう。ヘッダーメニューにある［**ニュース**］の右上に緑色の点が付く場合があることにお気づきでしょうか？
 
-![](/media/tips/2026/dot-on-the-header-ja.png){className="[\"border\"]"}
+![](/media/tips/2026/dot-on-the-header-ja.webp){className="[\"border\"]"}
 
 この点は、[ニュース](/news/)ページの最新8件の中に、まだ読んでいない記事があることを意味しています。未読の記事をすべて開くと、ヘッダーメニューの点は消えます。
 

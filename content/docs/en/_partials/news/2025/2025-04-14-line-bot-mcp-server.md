@@ -11,7 +11,7 @@ description: >-
   LINE Official Accounts as friends.
 meta: '{"date":"2025-04-14 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2025/2025-04-14-line-bot-mcp-server
-__hash__: D9OHzuEC1ycfe1TkNCWnmEVZfqPdB-LekHCsLq2lH30
+__hash__: cJKFOv8od89_gmNHhqZzNvGJ_94eyVs-HYXzQf-btFU
 seo:
   title: >-
     The MCP server for the Messaging API, "LINE Bot MCP Server" has been
@@ -26,7 +26,7 @@ seo:
 
 The [LINE Bot MCP Server](https://github.com/line/line-bot-mcp-server){rel="[\"nofollow\"]"}, which is the MCP server for the Messaging API, has been published on GitHub. By using the LINE Bot MCP Server from AI agents such as [Claude](https://claude.ai/){rel="[\"nofollow\"]"}, you can send messages to users from LINE Official Accounts in a dialogue format, and you can also use the information of users who have added LINE Official Accounts as friends.
 
-![](/media/news/2025/line-bot-mcp-server-claude-en.png){className="[\"w-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/news/2025/line-bot-mcp-server-chat-screen-en.jpeg){className="[\"w-fix-280\",\"inline-block\"]"}
+![](/media/news/2025/line-bot-mcp-server-claude-en.png){className="[\"w-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/news/2025/line-bot-mcp-server-chat-screen-en.webp){className="[\"w-fix-280\",\"inline-block\"]"}
 
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server){rel="[\"nofollow\"]"}
 

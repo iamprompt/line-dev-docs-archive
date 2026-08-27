@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/sharing-bot
-__hash__: RWPksOtfRXS0QY9KQ1dukLxhGrdgZ-t3sOH7gjXSFsw
+__hash__: C3kIM_JnLA9Ph3jqHvZjJL39qaBkVy-vVGCglwFeLUs
 seo:
   title: LINE公式アカウントの友だちを増やす
   description: null
@@ -30,7 +30,7 @@ LINE Developersコンソールでは、チャネル設定の［**Messaging API�
 
 LINE Official Account Managerでは、［**ホーム**］>［**友だちを増やす**］>［**友だち追加ガイド**］>［**友だち追加QRコードを作成**］をクリックします。HTMLスニペットをコピーして、ご自身のサイトに貼り付けるとQRコードが表示されます。
 
-![](/media/messaging-api/sharing-bot/qr-code-oa-manager-ja.png){className="[\"border\",\"w-fix-720\"]"}
+![](/media/messaging-api/sharing-bot/qr-code-oa-manager-ja.webp){className="[\"border\",\"w-fix-720\"]"}
 
 ## LINE公式アカウントのLINE IDをシェアする
 
@@ -60,7 +60,7 @@ LINE Social Pluginsが生成する［**友だち追加**］ボタンを利用す
 
 [LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}で［**友だち追加**］用のコードを生成します。［**ホーム**］ > ［**友だちを増やす**］ > ［**友だち追加ガイド**］>［**ボタンを作成**］をクリックします。HTMLコードをウェブサイトにコピー＆ペーストすると、ボタンが表示されます。
 
-![](/media/messaging-api/sharing-bot/add-friend-button-oa-manager-ja.png)
+![](/media/messaging-api/sharing-bot/add-friend-button-oa-manager-ja.webp)
 
 ### プロフィールページを開くLINE URLスキーム
 
@@ -88,7 +88,7 @@ LINE Social Pluginsが生成する［**友だち追加**］ボタンを利用す
 
 LINE公式アカウントをLINEログインチャネルにリンクする方法について詳しくは、『LINEログインドキュメント』の「[LINEログインしたときにLINE公式アカウントを友だち追加する（友だち追加オプション）](/docs/line-login/link-a-bot/)」を参照してください。
 
-![bot_prompt=normalの場合は、同意画面に友だち追加するためのオプションが表示されます。bot_prompt=aggressiveの場合は、ユーザーが同意した後で友だち追加するためのオプションが表示されます。](/media/line-login/link-a-bot/bot-prompt-ja.png){className="[\"w-fix-840\"]"}
+![bot_prompt=normalの場合は、同意画面に友だち追加するためのオプションが表示されます。bot_prompt=aggressiveの場合は、ユーザーが同意した後で友だち追加するためのオプションが表示されます。](/media/line-login/link-a-bot/bot-prompt-ja.webp){className="[\"w-fix-840\"]"}
 
 ## 関連ページ
 

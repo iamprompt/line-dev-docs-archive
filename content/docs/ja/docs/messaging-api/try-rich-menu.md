@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/try-rich-menu
-__hash__: ZrS5dqVLb9N1jUQPYMt2ittTLCH894bgQzIj7702PWI
+__hash__: dI-FmzWbgEjG-LXLdGqvxJruNVr2YGthL-iNS3P92-4
 seo:
   title: リッチメニューを試す
   description: null
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsリッチメニュープレイグラウンドは、リッチメニューの機能を試すことができるLINE公式アカウントです。本アカウントは、日本語のみに対応しています。[日時選択アクション](/reference/messaging-api/#datetime-picker-action)による日付選択、[リッチメニューエイリアス](/docs/messaging-api/switch-rich-menus/)によるリッチメニューの切り替えなど、リッチメニューのさまざまな機能を試すことができます。
 
-![リッチメニュープレイグラウンドメイン画面](/media/messaging-api/rich-menu-playground/richmenu-playground-bot-overview.png){className="[\"border\",\"w-fix-240\"]"}
+![リッチメニュープレイグラウンドメイン画面](/media/messaging-api/rich-menu-playground/richmenu-playground-bot-overview.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## リッチメニュープレイグラウンドを友だちとして追加する
 

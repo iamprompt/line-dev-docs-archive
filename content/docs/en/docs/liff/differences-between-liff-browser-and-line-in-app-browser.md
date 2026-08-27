@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/differences-between-liff-browser-and-line-in-app-browser
-__hash__: 4bN_VRehCv29uRxj2W07F1eKAZsOlUJYN9wMHki0b8s
+__hash__: dnzaE7LeV-vrTfXgfNqfz_1kpBNvFZJl7sDWhyjBbXA
 seo:
   title: The differences between LIFF browser and LINE's in-app browser
   description: ''
@@ -46,9 +46,9 @@ There are two ways to identify whether the browser running a LIFF app is the LIF
 
 The interface of headers and footers differs between the LIFF browser and LINE's in-app browser. Therefore, you can identify whether a browser is the LIFF browser or LINE's in-app browser by checking the user interface of the browser where a LIFF app is open.
 
-| LIFF browser                                                                                                                                                                                                                                         | LINE's in-app browser                                                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](/media/liff/differences-between-liff-browser-and-line-in-app-browser/liff-browser.png){className="[\"border\",\"w-fix-360\"]"}- Header   - Minimizing button is :b[not present]   - Action button is :b[present] (*) - Footer is :b[not present] | ![](/media/liff/differences-between-liff-browser-and-line-in-app-browser/line-in-app-browser.png){className="[\"border\",\"w-fix-360\"]"}- Header   - Minimizing button is :b[present]   - Action button is :b[not present] - Footer is :b[present] |
+| LIFF browser                                                                                                                                                                                                                                         | LINE's in-app browser                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](/media/liff/differences-between-liff-browser-and-line-in-app-browser/liff-browser.png){className="[\"border\",\"w-fix-360\"]"}- Header   - Minimizing button is :b[not present]   - Action button is :b[present] (*) - Footer is :b[not present] | ![](/media/liff/differences-between-liff-browser-and-line-in-app-browser/line-in-app-browser.webp){className="[\"border\",\"w-fix-360\"]"}- Header   - Minimizing button is :b[present]   - Action button is :b[not present] - Footer is :b[present] |
 
 * The action button isn't displayed in module mode. For more information, see [Adding the LIFF app to your channel](/docs/liff/registering-liff-apps/#registering-liff-app).
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/stop-using-line-official-account
-__hash__: GLp63ft_Ze29SeAkr_6gUSz6jUHDIZ0ayi8T2N2buNY
+__hash__: CyxhbndteuDnkjPj-FtEnCBxhffXcho75C_UrQDPkc0
 seo:
   title: LINE公式アカウントの利用を停止する
   description: null
@@ -29,7 +29,7 @@ Messaging APIチャネルと紐づいているLINE公式アカウントの利用
 
 1. LINE Official Account Managerが別タブで開かれ、「LINE公式アカウントを削除」画面が表示されます。以降の手順は、LINE Official Account Manager上で操作します。［**上記の注意事項を理解して、このLINE公式アカウントの削除に同意します。**］にチェックし、［**アカウントを削除**］をクリックします。
 
-![](/media/messaging-api/stop-using-line-official-account/delete-account-ja.png){className="[\"border\",\"w-fix-720\"]"}
+![](/media/messaging-api/stop-using-line-official-account/delete-account-ja.webp){className="[\"border\",\"w-fix-720\"]"}
 
 ::admonition
 ---

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/using-bot-designer
-__hash__: cyJR6sx7MlxkzM-j3nMuL_eVnNkF8ORf9IxwLs9SelU
+__hash__: eNMns2ca53lsP9FonnkBGE3tJpH2xzkywCzpfu57z-M
 seo:
   title: LINE Bot Designerを使う
   description: null
@@ -18,7 +18,7 @@ seo:
 
 LINE Bot Designerは、LINE Botのプロトタイプを簡単に素早く作成できるツールです。このツールを使うのにプログラミングの知識は必要ありません。
 
-![LINE Bot Designer](/media/messaging-api/using-bot-designer/bot-designer.png){className="[\"w-fix-600\"]"}
+![LINE Bot Designer](/media/messaging-api/using-bot-designer/bot-designer.webp){className="[\"w-fix-600\"]"}
 
 ## LINE Bot Designerをダウンロードする
 

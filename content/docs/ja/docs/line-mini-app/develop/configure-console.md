@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/configure-console
-__hash__: VSKo2wbGTdDattrQoLalVABPk633gU6In3ai4-5AmZ0
+__hash__: 9xdtv96rFnrSXmH1mJnMY-tNXDsVsIJslWEMhb3OECY
 seo:
   title: LINEミニアプリのユーザーに表示される設定一覧
   description: null
@@ -60,7 +60,7 @@ LINEミニアプリチャネルの設定のうち、ユーザーに表示され�
 
 ユーザーが[アクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)を押したときに、[LINE Developersコンソール](/console/)に登録した以下の情報が、[マルチタブビュー](/docs/line-mini-app/discover/builtin-features/#multi-tab-view)に表示されます。
 
-![](/media/line-mini-app/discover/mini-multi-tab-view-ja.png){className="[\"border\",\"w-fix-320\",\"border\"]"}
+![](/media/line-mini-app/discover/mini-multi-tab-view-ja.webp){className="[\"border\",\"w-fix-320\",\"border\"]"}
 
 | 情報             | 設定                                |
 | -------------- | --------------------------------- |

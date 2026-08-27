@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-05-08 00:00 UTC","tags":"liff, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-05-08-order-of-liff-apps
-__hash__: gUwR5oNaAkvPFci08eNI9urqTqFyW3NbxjNKrd9Zusc
+__hash__: 0OLpH0m86q2_gs-YRrguWqwMqL9I7EGa1O6mMTHEGXg
 seo:
   title: >-
     [Updated] The order of the LIFF apps will be changed in LINE Login channels
@@ -45,4 +45,4 @@ The LIFF apps already added to the LINE Login channel aren't subject to this cha
 1. The LIFF apps added to the LINE Login channel on or after May 23, 2023 will be displayed in descending order of the date added
 2. The LIFF apps added to the LINE Login channel before May 23, 2023 will be displayed in no particular order
 
-![Examples of LIFF apps displayed on the LIFF tab](/media/liff/order-of-liff-apps-en.png){className="[\"border\"]"}
+![Examples of LIFF apps displayed on the LIFF tab](/media/liff/order-of-liff-apps-en.webp){className="[\"border\"]"}

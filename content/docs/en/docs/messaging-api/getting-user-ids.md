@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/getting-user-ids
-__hash__: 8djGlvoWFd0hIjDryDp_A7w5xsEyAfCkH9-8xeH1FAk
+__hash__: eTJ0fDwXv7TCYzUo401RHHqmKuHi-mZBKanFTNnaZWo
 seo:
   title: Get user IDs
   description: null
@@ -18,7 +18,7 @@ seo:
 
 User IDs are unique identifiers for users and are different from display names or the LINE ID users register to become searchable by friends. The LINE Platform issues a user ID as a string, formatted as `U[0-9a-f]{32}` (regular expression). An example of a user ID is `U8189cf6745fc0d808977bdb0b9f22995`.
 
-![](/media/messaging-api/getting-user-ids/display-name-and-id-and-user-id-en.png){className="[\"w-fix-960\",\"bg-border\"]"}
+![](/media/messaging-api/getting-user-ids/display-name-and-id-and-user-id-en.webp){className="[\"w-fix-960\",\"bg-border\"]"}
 
 ### Unit for issuing user IDs
 

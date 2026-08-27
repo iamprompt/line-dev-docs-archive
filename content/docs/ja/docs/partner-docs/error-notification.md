@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/partner-docs/error-notification
-__hash__: _TY5jqlsrR2-pPF3-AHDUcoiuRJYLj5TmDzwG0HMofc
+__hash__: rbIAHmDNotBT2c6y9XzbbLvjWamZ8TKbsSXEZWsBVVU
 seo:
   title: エラー通知
   description: null
@@ -72,7 +72,7 @@ Webhookの再送について詳しくは、[受け取りに失敗したWebhook�
 
 ### 通知メールの例
 
-![通知メールの例](/media/partner-docs/error-notification-email-sample.png){className="[\"border\"]"}
+![通知メールの例](/media/partner-docs/error-notification-email-sample.webp){className="[\"border\"]"}
 
 ### メール本文
 

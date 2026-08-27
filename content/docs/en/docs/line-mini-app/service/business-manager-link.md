@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/business-manager-link
-__hash__: xtEismKrjq_O0CRo_AAb5AdeK7O2v9fJyGyMVi4t6WI
+__hash__: Fo_9XHi76Tk9QHzSY1h216Hqi0UuqD5fcGphetIGs6o
 seo:
   title: Link a LINE MINI App channel to a Business Manager organization
   description: ''
@@ -73,7 +73,7 @@ Ask the organization administrator for the organization ID of the Business Manag
 
 After [sending a link request](#send-link-request), a link request URL is displayed on the **Business Manager link** tab.
 
-![](/media/line-mini-app/service/send-link-request-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/send-link-request-en.webp){className="[\"border\"]"}
 
 The link request URL is a Business Manager URL. When the Business Manager organization administrator opens the URL and approves the request, the LINE MINI App channel is linked to the Business Manager organization.
 
@@ -132,11 +132,11 @@ You can check the account linking review status in either the LINE Developers Co
 
 In the LINE Developers Console, you can check the status in the "Business Manager link" section on the **Business Manager link** tab of the LINE MINI App channel.
 
-![](/media/line-mini-app/service/account-linking-review-status-in-console-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/account-linking-review-status-in-console-en.webp){className="[\"border\"]"}
 
 In the Business Manager, you can check the status in "Account linking review status" on the "Accounts & channels" screen.
 
-![](/media/line-mini-app/service/account-linking-review-status-in-bm-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/account-linking-review-status-in-bm-en.webp){className="[\"border\"]"}
 
 ### If the account linking review is rejected
 
@@ -190,11 +190,11 @@ To start an account linking review resubmission, the Business Manager organizati
 An account linking review resubmission must be requested by the Business Manager organization administrator. The process is as follows:
 
 1. In the Business Manager menu, click **Accounts & channels** to open the "Accounts & channels" screen.  
-![](/media/line-mini-app/service/account-channel-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/account-channel-en.webp){className="[\"border\"]"}
 2. Click **Details** for the LINE MINI App channel for which you want to request an account linking review resubmission.  
-![](/media/line-mini-app/service/rejected-details-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/rejected-details-en.webp){className="[\"border\"]"}
 3. Click **Resubmit request**.  
-![](/media/line-mini-app/service/link-review-results-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/link-review-results-en.webp){className="[\"border\"]"}
 
 When you request a resubmission, the account linking review starts again.
 
@@ -235,7 +235,7 @@ In the following steps, you'll use the Business Manager. These steps must be per
 
 First, select the LINE Official Account to link. In the Business Manager menu, click **LINE official account linking** to open the "LINE Official account linking" screen.
 
-![](/media/line-mini-app/service/line-official-account-linking-menu-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/line-official-account-linking-menu-en.webp){className="[\"border\"]"}
 
 ::admonition
 ---
@@ -249,21 +249,21 @@ If the developer is also the Business Manager organization administrator, they c
 
 Click the name of the LINE Official Account that you want to link.
 
-![](/media/line-mini-app/service/line-official-account-linking-oa-name-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/line-official-account-linking-oa-name-en.webp){className="[\"border\"]"}
 
 #### 2. Select the LINE MINI App channel to link
 
 Next, select the LINE MINI App channel to link to the selected LINE Official Account. Click **Select target for linking**.
 
-![](/media/line-mini-app/service/select-target-for-linking-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/select-target-for-linking-en.webp){className="[\"border\"]"}
 
 A list of accounts and channels linked to the same organization as the selected LINE Official Account is displayed. Click **Select** for the LINE MINI App channel that you want to link.
 
-![](/media/line-mini-app/service/select-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/select-en.webp){className="[\"border\"]"}
 
 A confirmation screen is displayed. Confirm that the LINE Official Account and the LINE MINI App channel are correct, review the precautions, and then click **Link**.
 
-![](/media/line-mini-app/service/link-channel-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/link-channel-en.webp){className="[\"border\"]"}
 
 ## Related pages (only available in Japanese)
 

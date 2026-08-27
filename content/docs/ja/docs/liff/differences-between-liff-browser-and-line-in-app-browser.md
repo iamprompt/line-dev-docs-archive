@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/differences-between-liff-browser-and-line-in-app-browser
-__hash__: hP9NXSPHjbSjdiz9cWGInU1yt-8MqUVJrzZXnFo0XOI
+__hash__: NkwJSYzHjKEiVeC1cJoDoP9-xi9_LjcRFLoN1JoTyOA
 seo:
   title: LIFFブラウザとLINE内ブラウザの違い
   description: ''
@@ -46,9 +46,9 @@ LIFFアプリが開かれたブラウザがLIFFブラウザかLINE内ブラウ�
 
 LIFFブラウザとLINE内ブラウザでは、ヘッダーやフッターのユーザーインターフェースが異なります。そのため、LIFFアプリを開いているブラウザのユーザインターフェースを確認することで、LIFFブラウザかLINE内ブラウザかを判別できます。
 
-| LIFFブラウザ                                                                                                                                                                                        | LINE内ブラウザ                                                                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](/media/liff/differences-between-liff-browser-and-line-in-app-browser/liff-browser.png){className="[\"border\",\"w-fix-360\"]"}- ヘッダー   - 最小化ボタンが:b[ない]   - アクションボタンが:b[ある]（※） - フッターが:b[ない] | ![](/media/liff/differences-between-liff-browser-and-line-in-app-browser/line-in-app-browser.png){className="[\"border\",\"w-fix-360\"]"}- ヘッダー   - 最小化ボタンが:b[ある]   - アクションボタンが:b[ない] - フッターが:b[ある] |
+| LIFFブラウザ                                                                                                                                                                                        | LINE内ブラウザ                                                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](/media/liff/differences-between-liff-browser-and-line-in-app-browser/liff-browser.png){className="[\"border\",\"w-fix-360\"]"}- ヘッダー   - 最小化ボタンが:b[ない]   - アクションボタンが:b[ある]（※） - フッターが:b[ない] | ![](/media/liff/differences-between-liff-browser-and-line-in-app-browser/line-in-app-browser.webp){className="[\"border\",\"w-fix-360\"]"}- ヘッダー   - 最小化ボタンが:b[ある]   - アクションボタンが:b[ない] - フッターが:b[ある] |
 
 ※ モジュールモードでは非表示になります。詳しくは、「[LIFFアプリをチャネルに追加する](/docs/liff/registering-liff-apps/#registering-liff-app)」を参照してください。
 

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-03-19 00:00
   UTC","tags":"line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/03/19/devdocs-behind-the-scenes
-__hash__: kHWaXuJcm79lnQJ_QqP__mMnJcBDhVAGZs5XHjUXlTY
+__hash__: qVlMXxdJefn2evt-F5XF8JJQ7zaKW6wFJ38hrVS59ZE
 seo:
   title: LINE Developersサイトの舞台裏
   description: >-
@@ -65,7 +65,7 @@ Nuxtを選んだことで多くのメリットがありました。まず、前�
 
 例：[https://developers.line.biz/ja/?kw=テスト](https://developers.line.biz/ja/?kw=%E3%83%86%E3%82%B9%E3%83%88){rel="[\"nofollow\"]"}
 
-![検索モーダルのスクリーンショット](/media/tips/2026/search-share-url-ja.png)
+![検索モーダルのスクリーンショット](/media/tips/2026/search-share-url-ja.webp)
 
 もう一つの変更点は、中国語コンテンツの提供終了です。更新停止が続いていたため、古い情報になることを防ぐ目的で掲載を終了しました。
 

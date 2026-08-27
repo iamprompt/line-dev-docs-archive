@@ -7,7 +7,7 @@ description: >-
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/design/line-mini-app-icon
-__hash__: m6CerXZODPCfFzmW0vR_m2RHzxLMRuH9jjwzZu_qIxA
+__hash__: qnrKbc0oMu6NEfS1SN1i_6jpSCN8Wq2R-5ezHrZrZKk
 seo:
   title: LINE MINI App icon specifications and guidelines
   description: >-
@@ -32,7 +32,7 @@ The main locations for the LINE MINI App icon are as follows:
 - [LINE messages](/docs/line-mini-app/discover/introduction/#line-message)
 - [Service messages](/docs/line-mini-app/develop/service-messages/)
 
-![](/media/line-mini-app/line-mini-app-icon/channel-consent-screen-en.png){className="[\"border\",\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/home-tab-en.png){className="[\"border\",\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/line-message-en.png){className="[\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/service-messages-en.png){className="[\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}
+![](/media/line-mini-app/line-mini-app-icon/channel-consent-screen-en.png){className="[\"border\",\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/home-tab-en.webp){className="[\"border\",\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/line-message-en.webp){className="[\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/service-messages-en.png){className="[\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}
 
 ## Guidelines
 

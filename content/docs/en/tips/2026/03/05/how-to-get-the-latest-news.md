@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-05 00:00 UTC","tags":"docs, line-developers-site,
   console","locale":"en","sidebar":false}
 path: /en/tips/2026/03/05/how-to-get-the-latest-news
-__hash__: taxB-NXXhNPrsh0SWz79LGBe05KFm5stJhEs1Su_0zY
+__hash__: Cm98d12QqREz0_yc1d1Z-cHK_OWYCv1EUaz7tXeJBqI
 seo:
   title: Let's check out the latest news from the LINE Developers site
   description: '"Wait, when was this feature added?"'
@@ -33,7 +33,7 @@ So this time, we'll introduce how to catch up on the latest information about th
 
 First, let's take a look at the LINE Developers site homepage. Have you noticed that a green dot sometimes appears at the top right of **News** in the header menu?
 
-![](/media/tips/2026/dot-on-the-header-en.png){className="[\"border\"]"}
+![](/media/tips/2026/dot-on-the-header-en.webp){className="[\"border\"]"}
 
 This dot indicates that there are unread articles among the latest 8 posts on the [News](/news/) page. Once you open all unread articles, the dot in the header menu will disappear.
 

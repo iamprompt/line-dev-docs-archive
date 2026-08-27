@@ -5,7 +5,7 @@ description: アイコンの視認性と品質を常に保証するために、�
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"jp"}
 path: /ja/docs/line-mini-app/design/line-mini-app-icon
-__hash__: 59sgWeoDr5VYXHt5y_GVBvvKJlgwx3sKIQ5PFNLwxXo
+__hash__: 1DWrxENXDEVeYRt7fNG0sFt5X-nIYDo4-gxTUq2M6U4
 seo:
   title: LINEミニアプリのアイコンの仕様とガイドライン
   description: アイコンの視認性と品質を常に保証するために、シンボルまたはワードマークを単独で使用してください。
@@ -28,7 +28,7 @@ LINEミニアプリのアイコンの主な掲載場所は以下のとおりで�
 - [LINEメッセージ](/docs/line-mini-app/discover/introduction/#line-message)
 - [サービスメッセージ](/docs/line-mini-app/develop/service-messages/)
 
-![](/media/line-mini-app/line-mini-app-icon/channel-consent-screen-ja.png){className="[\"border\",\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/home-tab-ja.png){className="[\"border\",\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/line-message-ja.png){className="[\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/service-messages-ja.png){className="[\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}
+![](/media/line-mini-app/line-mini-app-icon/channel-consent-screen-ja.png){className="[\"border\",\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/home-tab-ja.webp){className="[\"border\",\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/line-message-ja.webp){className="[\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}![](/media/line-mini-app/line-mini-app-icon/service-messages-ja.png){className="[\"w-fix-160\",\"inline-block\",\"mb-7\",\"mr-1\"]"}
 
 ## ガイドライン
 

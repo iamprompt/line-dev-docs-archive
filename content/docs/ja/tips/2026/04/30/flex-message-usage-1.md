@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-04-30 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/30/flex-message-usage-1
-__hash__: VgkaFZNN3LW9OUCW7pww0sKLS-pNGKLAC6wuRvusIS8
+__hash__: 7-DKWtjX2OY7pNtAbAsUj58iAIwYSldlj7e01Z44pcA
 seo:
   title: Flex Messageを使いこなす パート1
   description: >-
@@ -27,7 +27,7 @@ seo:
 
 Flex Messageでは、[CSS Flexible Box（CSS Flexbox）](https://www.w3.org/TR/css-flexbox-1/){rel="[\"nofollow\"]"}の仕様に基づいて、非常に自由度が高く高度なメッセージを作成することができます。Flex Messageでは、従来のメッセージタイプでは表現が難しかったメッセージを、画像に頼ることなく送信できます。
 
-![](/media/tips/2026/flex-message-example-ja.png){className="[\"border\"]"}
+![](/media/tips/2026/flex-message-example-ja.webp){className="[\"border\"]"}
 
 この記事では、現在Flex Messageで送信可能なメッセージの例をいくつか紹介します。
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/error-notification
-__hash__: eXa0_jPrK_KgPogixn4OA_381K5B3e_eQ9cOnhWBr2g
+__hash__: '-afBFBJb3-D_O0uSvz4VzX1rgWf6EtnHbtce44Ey88M'
 seo:
   title: Error notification
   description: null
@@ -80,7 +80,7 @@ For more information about the webhook redelivery, see [Redeliver a webhook that
 
 ### Notification email sample
 
-![sample mail](/media/partner-docs/error-notification-email-sample.png){className="[\"border\"]"}
+![sample mail](/media/partner-docs/error-notification-email-sample.webp){className="[\"border\"]"}
 
 ### Email content
 

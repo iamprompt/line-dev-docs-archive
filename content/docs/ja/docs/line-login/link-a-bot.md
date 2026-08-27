@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login/link-a-bot
-__hash__: RlNf-wV05HMzn64OanD_4EbycBwVDlaHZVCRlS3czPk
+__hash__: 8wyKWJY8xJX8GnUBPrParYzukVtEPPpFvQXPxqgGcMk
 seo:
   title: LINEログインしたときにLINE公式アカウントを友だち追加する（友だち追加オプション）
   description: null
@@ -61,7 +61,7 @@ https://access.line.me/oauth2/v2.1/authorize?response_type=code&client_id={CHANN
 | `normal`     | LINEログインの同意画面に、LINE公式アカウントを友だち追加するオプションを表示します。        |
 | `aggressive` | LINEログインの同意画面の後に、LINE公式アカウントを友だち追加するかどうか確認する画面を表示します。 |
 
-![表示される画面](/media/line-login/link-a-bot/bot-prompt-ja.png){className="[\"w-fix-840\"]"}
+![表示される画面](/media/line-login/link-a-bot/bot-prompt-ja.webp){className="[\"w-fix-840\"]"}
 
 ::admonition{title="ヒント" type="tip"}
 `bot_prompt`以外のクエリパラメータについて詳しくは、「[認可を要求する](/docs/line-login/integrate-line-login/#making-an-authorization-request)」を参照してください。

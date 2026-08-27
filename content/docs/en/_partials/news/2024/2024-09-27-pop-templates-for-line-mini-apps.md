@@ -8,7 +8,7 @@ description: >-
   ordering in stores, presenting membership and loyalty cards, etc.
 meta: '{"date":"2024-09-27 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2024/2024-09-27-pop-templates-for-line-mini-apps
-__hash__: Czs1o2fdbYQAcM4b7RsnshZo0JEUxP-wwOrJrrfTvfY
+__hash__: HEjv9Pzh9ZDE0rwJLycFxQisHv9lL488RDpRxgLWB-8
 seo:
   title: In-store POP templates for LINE MINI Apps are now available
   description: >-
@@ -20,7 +20,7 @@ seo:
 
 We've released POP templates (Japanese, English, Chinese) that allow you to easily create POP with QR codes for LINE MINI Apps. You can use them for scenes such as issuing waiting list numbered tickets in stores, mobile ordering in stores, presenting membership and loyalty cards, etc.
 
-![QR Code for mobile order demo app](/media/news/2024/pop-templates-for-line-mini-app.png)
+![QR Code for mobile order demo app](/media/news/2024/pop-templates-for-line-mini-app.webp)
 
 You can download the POP templates from [In-store POP templates for LINE MINI Apps are now available!](https://creativelab-tips.line.me/ja/line-miniapp/creative/){rel="[\"nofollow\"]"} (only available in Japanese) in LINE Creative Inspiration.
 

@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/discover/builtin-features
-__hash__: 08EjHXI5_QJfr_CHiNVDdXIW2E2OJRMKLx8sLpc9tlI
+__hash__: qTtxtHw1FnxFPhhukeLJhquqfBGz61-9n5qhKw5uxi8
 seo:
   title: ビルトイン機能
   description: null
@@ -63,7 +63,7 @@ LINEバージョン26.7.0以降では、アクションボタンをタップす�
 
 詳しくは、『LIFFドキュメント』の「[マルチタブビュー](/docs/liff/overview/#multi-tab-view)」を参照してください。
 
-![](/media/line-mini-app/discover/mini-multi-tab-view-ja.png){className="[\"border\",\"w-fix-320\",\"border\"]"}
+![](/media/line-mini-app/discover/mini-multi-tab-view-ja.webp){className="[\"border\",\"w-fix-320\",\"border\"]"}
 
 ## チャネル同意の簡略化
 

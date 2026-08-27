@@ -6,7 +6,7 @@ description: >-
   numbers hashed with the SHA256 algorithm.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/technical-specs
-__hash__: 19eOgYzNyV1fhQClyHhYONCYoZygA4Ek30xiVhP3jY0
+__hash__: 2EU-cvkiDL4QTD_odajC2jCI7GB7LJW9sQ3X9TvZ_Qk
 seo:
   title: Technical specifications of the LINE notification messages API
   description: >-
@@ -122,7 +122,7 @@ Additionally, LINE notification messages sent while the user had blocked the LIN
 
 When a LINE notification message is sent to users, they can consent (or refuse) to get LINE notification messages. Users can also consent (or refuse) at any time from the LINE app by going to **Settings** > **Privacy** > **Provide usage data** > **LINE notification messages**, even when no LINE notification message has been sent.
 
-![Agree to receive LINE notification messages](/media/line-notification-message/consent-line-notification-message-en.png){className="[\"border\",\"w-fix-280\"]"}
+![Agree to receive LINE notification messages](/media/line-notification-message/consent-line-notification-message-en.webp){className="[\"border\",\"w-fix-280\"]"}
 
 #### States of reception settings
 
