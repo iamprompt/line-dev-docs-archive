@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/add-friend-option
-__hash__: xuMcuAlrfx4lktT_ZplbtCUdIFzrfYXpysqcwQWzb3U
+__hash__: TVmyM5NG2oSj5_iwxe9fAM47lGp1NFjT5j05x5HTkds
 seo:
   title: LINEミニアプリ上でLINE公式アカウントを友だち追加する（友だち追加オプション）
   description: ''
@@ -69,12 +69,7 @@ LINEミニアプリチャネルが[認証プロバイダー](/docs/line-develope
 
 ### 複数のLINE公式アカウントを使用する機能の利用条件
 
-友だち追加オプションで複数のLINE公式アカウントを使用するには、「[友だち追加オプションの利用条件](#requirements)」に加えて、次の条件をすべて満たす必要があります。
-
-- LINEミニアプリが[認証済ミニアプリ](/docs/line-mini-app/discover/introduction/#verified-mini-app)である（※）。
-- LINEミニアプリチャネルの［**サービスを提供する地域**］が「日本」である。
-
-※ :glossary-tooltip[[未認証ミニアプリ](/glossary/#unverified-mini-app)]{glossary-id="unverified-mini-app"}では、開発用と審査用のLINEミニアプリでのみ動作します。
+友だち追加オプションで複数のLINE公式アカウントを使用するには、「[友だち追加オプションの利用条件](#requirements)」に加えて、LINEミニアプリチャネルの［**サービスを提供する地域**］が「日本」である必要があります。
 
 ### 複数のLINE公式アカウントを使用する方法
 

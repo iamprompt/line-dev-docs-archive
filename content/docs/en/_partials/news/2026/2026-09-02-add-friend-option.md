@@ -1,22 +1,26 @@
 ---
 title: >-
-  You can now use multiple LINE Official Accounts with the add friend option in
-  LINE MINI Apps
+  [Updated] You can now use multiple LINE Official Accounts with the add friend
+  option in LINE MINI Apps
 navigation: true
-description: >-
-  You can now use multiple LINE Official Accounts with the add friend option in
-  LINE MINI Apps.
+description: ''
 meta: '{"date":"2026-09-02 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-09-02-add-friend-option
-__hash__: dQetnphO7p5PgN-8r7W--pvPHgv3UUX4RfNx_TPR4Uc
+__hash__: bdOui3qPpRR-wHIRAz46F8bryxqpB9-EMWhQHxOmMq0
 seo:
   title: >-
-    You can now use multiple LINE Official Accounts with the add friend option
-    in LINE MINI Apps
-  description: >-
-    You can now use multiple LINE Official Accounts with the add friend option
-    in LINE MINI Apps.
+    [Updated] You can now use multiple LINE Official Accounts with the add
+    friend option in LINE MINI Apps
+  description: ''
 ---
+
+::admonition{title="Added on September 2, 2026" type="note"}
+There was an error in the [requirements for using multiple LINE Official Accounts](#use-multiple-accounts-requirements-20260902). We apologize for the error and have corrected it.
+
+| Incorrect                                                                                                                                                                                       | Correct                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| - The LINE MINI App is a [verified MINI App](/docs/line-mini-app/discover/introduction/#verified-mini-app) - **Region to provide the service** for the LINE MINI App channel is set to "Japan". | - **Region to provide the service** for the LINE MINI App channel is set to "Japan". |
+::
 
 You can now use multiple LINE Official Accounts with the [add friend option](/docs/line-mini-app/service/add-friend-option/) in LINE MINI Apps.
 
@@ -26,12 +30,7 @@ With this feature, you can display an appropriate LINE Official Account to add a
 
 ### Requirements for using multiple LINE Official Accounts
 
-To use multiple LINE Official Accounts with the add friend option, all of the following conditions must be met in addition to the [requirements for the add friend option](/docs/line-mini-app/service/add-friend-option/#requirements):
-
-- The LINE MINI App is a [verified MINI App](/docs/line-mini-app/discover/introduction/#verified-mini-app) (*).
-- **Region to provide the service** for the LINE MINI App channel is set to "Japan".
-
-* For :glossary-tooltip[[unverified MINI Apps](/glossary/#unverified-mini-app)]{glossary-id="unverified-mini-app"}, this feature works only in the LINE MINI App for Developing and for Review.
+To use multiple LINE Official Accounts with the add friend option, in addition to the [requirements for the add friend option](/docs/line-mini-app/service/add-friend-option/#requirements), **Region to provide the service** for the LINE MINI App channel must be set to "Japan".
 
 ### How to use multiple LINE Official Accounts
 

@@ -1,14 +1,22 @@
 ---
-title: LINEミニアプリの友だち追加オプションで複数のLINE公式アカウントを使用できるようになりました
+title: 【更新】LINEミニアプリの友だち追加オプションで複数のLINE公式アカウントを使用できるようになりました
 navigation: true
-description: LINEミニアプリの友だち追加オプションで複数のLINE公式アカウントを使用できるようになりました。
+description: ''
 meta: '{"date":"2026-09-02 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-09-02-add-friend-option
-__hash__: yeXac1mlI4Oe5PA4Ou4u8THo9MGsc7byx5ws2gzF4Hg
+__hash__: muYGxbQjGfpJDzoVz-MFq_vjY-MC3keYdndGmOK19lw
 seo:
-  title: LINEミニアプリの友だち追加オプションで複数のLINE公式アカウントを使用できるようになりました
-  description: LINEミニアプリの友だち追加オプションで複数のLINE公式アカウントを使用できるようになりました。
+  title: 【更新】LINEミニアプリの友だち追加オプションで複数のLINE公式アカウントを使用できるようになりました
+  description: ''
 ---
+
+::admonition{title="2026年9月2日更新" type="note"}
+[複数アカウントを使用する機能の利用条件](#use-multiple-accounts-requirements-20260902)に誤りがありました。お詫びして訂正いたします。
+
+| 誤                                                                                                                                   | 正                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| - LINEミニアプリが[認証済ミニアプリ](/docs/line-mini-app/discover/introduction/#verified-mini-app)である。 - LINEミニアプリチャネルの［**サービスを提供する地域**］が「日本」である。 | - LINEミニアプリチャネルの［**サービスを提供する地域**］が「日本」である。 |
+::
 
 LINEミニアプリの[友だち追加オプション](/docs/line-mini-app/service/add-friend-option/)で複数のLINE公式アカウントを使用できるようになりました。
 
@@ -18,12 +26,7 @@ LINEミニアプリの[友だち追加オプション](/docs/line-mini-app/servi
 
 ### 複数アカウントを使用する機能の利用条件
 
-友だち追加オプションで複数のLINE公式アカウントを使用するには、「[友だち追加オプションの利用条件](/docs/line-mini-app/service/add-friend-option/#requirements)」に加えて、次の条件をすべて満たす必要があります。
-
-- LINEミニアプリが[認証済ミニアプリ](/docs/line-mini-app/discover/introduction/#verified-mini-app)である（※）。
-- LINEミニアプリチャネルの［**サービスを提供する地域**］が「日本」である。
-
-※ :glossary-tooltip[[未認証ミニアプリ](/glossary/#unverified-mini-app)]{glossary-id="unverified-mini-app"}では、開発用と審査用のLINEミニアプリでのみ動作します。
+友だち追加オプションで複数のLINE公式アカウントを使用するには、「[友だち追加オプションの利用条件](/docs/line-mini-app/service/add-friend-option/#requirements)」に加えて、LINEミニアプリチャネルの［**サービスを提供する地域**］が「日本」である必要があります。
 
 ### 複数のLINE公式アカウントを使用する方法
 
