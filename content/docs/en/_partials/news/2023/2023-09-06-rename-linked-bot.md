@@ -8,7 +8,7 @@ meta: >-
   {"date":"2023-09-06 00:00 UTC","tags":"line-login, liff, line-mini-app,
   console, line-blockchain","locale":"en"}
 path: /en/_partials/news/2023/2023-09-06-rename-linked-bot
-__hash__: w-HrvOfEyYfHzhndxsaSC8s5UxkaAIyTOztyYaxWCEo
+__hash__: bushoyAXyyIhCoiYdsv919pEyMDoiRnQPIR9trR0TFw
 seo:
   title: >-
     The names of "Bot link feature" and "Linked OA" have been changed in the
@@ -39,4 +39,4 @@ For more information about the add friend option, see the following documentatio
 
 - [Add a LINE Official Account as a friend when logged in (add friend option)](/docs/line-login/link-a-bot/)
 - [Adding the LIFF app to your channel](/docs/liff/registering-liff-apps/#registering-liff-app)
-- [Add the LINE Official Account as a friend when you first open the LINE MINI App (add friend option)](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel)
+- [Add a LINE Official Account as a friend in a LINE MINI App (add friend option)](/docs/line-mini-app/service/add-friend-option/)

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/permission-api
-__hash__: ZQQKjbflOOPfu3nh-Yo7up1kO_MdCSVj0EZZ8QMafgE
+__hash__: gSyOT-cO1brhyTlo8ZDdBavaqmgZriPl95-s9Mx2yGk
 seo:
   description: ''
 ---
@@ -168,6 +168,18 @@ LINEミニアプリが要求する権限の「アクセス許可要求画面」�
           liff.permission.requestAll();
         }
       });
+
+      // LINEミニアプリチャネルの［複数アカウントを使用］がオンの場合
+      liff.permission.query("profile").then((permissionStatus) => {
+        if (permissionStatus.state === "prompt") {
+          liff.permission.requestAll({
+            officialAccount: {
+              id: "@819...",
+              fallback: true,
+            },
+          });
+        }
+      });
       ```
       :::::
     ::::
@@ -182,13 +194,7 @@ liff.permission.requestAll(params);
 
 #### 引数
 
-::admonition
----
-title: 友だち追加オプションで複数アカウントを使用する機能は2026年9月の提供を予定しています
-type: note
----
-引数は、LIFF SDKのバージョンがv2.30.0以上、かつLINEミニアプリチャネルの［**複数アカウントを使用**］がオンの場合のみ利用できます。［**複数アカウントを使用**］は、日本のLINEミニアプリ向けに、2026年9月の提供を予定しています。
-::
+引数は、LINEミニアプリでのみ利用できます。また、LIFF SDKがv2.30.0以上、かつLINEミニアプリチャネルの［**複数アカウントを使用**］をオンにする必要があります。詳しくは、『LINEミニアプリドキュメント』の「[LINEミニアプリ上でLINE公式アカウントを友だち追加する（友だち追加オプション）](/docs/line-mini-app/service/add-friend-option/)」を参照してください。
 
 ::parameter-table
   :::parameter-table-entry{optional=""}

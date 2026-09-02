@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/channel-consent-simplification
-__hash__: 49iBbQNTczkIkFJDbAYKtBAQJ7MhT8UpKALLMXUd4Eo
+__hash__: TxC29MIudHunSeQVXzER8KYWkHR4SQXVz2_0CT4_te0
 seo:
   title: LINEミニアプリの認可フロー
   description: null
@@ -105,7 +105,7 @@ liff.permission.query("profile").then((permissionStatus) => {
 
 ### 「チャネル同意の簡略化」機能と友だち追加オプションを併用する際の注意点
 
-LINEミニアプリでは、[友だち追加オプション](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel)を使って、アクセス許可要求画面、もしくはチャネル同意画面からLINE公式アカウントの友だち追加への誘導ができます。
+LINEミニアプリでは、[友だち追加オプション](/docs/line-mini-app/service/add-friend-option/)を使って、アクセス許可要求画面、もしくはチャネル同意画面からLINE公式アカウントの友だち追加への誘導ができます。
 
 ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-verification-screen-ja.png){className="[\"border\",\"w-fix-320\",\"inline-block\",\"mb-0-important\"]"} ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-channel-consent-screen-ja.png){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
 

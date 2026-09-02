@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/custom-features
-__hash__: c1amWZt3vX5jEHBIzTJbD5iNiY17Zyalce-Z4wAM3b4
+__hash__: Tp_Fx22mte0ut3h2xwovTyoNUlJvwezjYegyIX0kbNM
 seo:
   title: カスタム機能
   description: null
@@ -87,7 +87,7 @@ LINEミニアプリにクイック入力を導入すると、住所や電話番�
 
 LINEミニアプリでは、友だち追加オプションを使って、[アクセス許可要求画面](/docs/line-mini-app/develop/configure-console/#verification-screen)、もしくは[チャネル同意画面](/docs/line-mini-app/develop/configure-console/#consent-screen-settings)からLINE公式アカウントの友だち追加への誘導ができます。
 
-詳しくは、 「[友だち追加オプション](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel)」を参照してください。
+詳しくは、「[LINEミニアプリ上でLINE公式アカウントを友だち追加する（友だち追加オプション）](/docs/line-mini-app/service/add-friend-option/)」を参照してください。
 
 ![bot link feature 1](/media/line-mini-app/miniguide-incremental-01-ja.png){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![bot link feature 2](/media/line-mini-app/miniguide-incremental-02-ja.webp){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
 

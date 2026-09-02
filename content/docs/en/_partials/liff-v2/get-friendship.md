@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/get-friendship
-__hash__: uRvykRg7NgMz_MsKiz0KphvkH94xMRzCxk9DGdrOCiA
+__hash__: 6BzkIPQKHspIU6732-t_T1iocfKWIrB6LWHCpoW0CPo
 seo:
   description: ''
 ---
@@ -33,6 +33,17 @@ seo:
           // something you want to do
         }
       });
+
+      // When Use multiple accounts is enabled for the LINE MINI App channel
+      liff
+        .getFriendship({
+          officialAccountId: "@819...",
+        })
+        .then((data) => {
+          if (data.friendFlag) {
+            // something you want to do
+          }
+        });
       ```
       :::::
     ::::
@@ -47,15 +58,7 @@ liff.getFriendship(params);
 
 #### Arguments
 
-::admonition
----
-title: >-
-  The feature to use multiple accounts using the add friend option is scheduled
-  to be available in September 2026
-type: note
----
-The arguments are available only when you're using LIFF SDK v2.30.0 or later and **Use multiple accounts** is enabled for the LINE MINI App channel. **Use multiple accounts** is scheduled to be available for LINE MINI Apps in Japan in September 2026.
-::
+The arguments are available only in LINE MINI Apps. LIFF SDK v2.30.0 or later is required, and **Use multiple accounts** must be enabled for the LINE MINI App channel. For more information, see [Add a LINE Official Account as a friend in a LINE MINI App (add friend option)](/docs/line-mini-app/service/add-friend-option/) in the LINE MINI App documentation.
 
 ::parameter-table
   :::parameter-table-entry{optional=""}

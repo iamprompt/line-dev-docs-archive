@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/request-friendship
-__hash__: Na0qxJ1j6jL79FYjD7VIqJX6u_CskLOQ_Vg24Q-z9DE
+__hash__: jGBPuh5Ic-MXEaJtXTXBnYdOHERnWpgoaRQ9I2Di-BM
 seo:
   description: ''
 ---
@@ -34,6 +34,19 @@ seo:
       ```javascript
       try {
         await liff.requestFriendship({
+          template: { id: "coupon" },
+        });
+      } catch (error) {
+        console.log(error);
+      }
+
+      // When Use multiple accounts is enabled for the LINE MINI App channel
+      try {
+        await liff.requestFriendship({
+          officialAccount: {
+            id: "@819...",
+            fallback: true,
+          },
           template: { id: "coupon" },
         });
       } catch (error) {
@@ -73,15 +86,7 @@ liff.requestFriendship(params);
 
   Object used to specify the LINE Official Account that users are prompted to add as a friend or unblock. If omitted, the default LINE Official Account is displayed.
 
-    ::::admonition
-    ---
-    title: >-
-      The feature to use multiple accounts using the add friend option is scheduled
-      to be available in September 2026
-    type: note
-    ---
-    Available only when you're using LIFF SDK v2.30.0 or later and **Use multiple accounts** is enabled for the LINE MINI App channel. **Use multiple accounts** is scheduled to be available for LINE MINI Apps in Japan in September 2026.
-    ::::
+  The `officialAccount` property is available only in LINE MINI Apps. LIFF SDK v2.30.0 or later is required, and **Use multiple accounts** must be enabled for the LINE MINI App channel. For more information, see [Add a LINE Official Account as a friend in a LINE MINI App (add friend option)](/docs/line-mini-app/service/add-friend-option/) in the LINE MINI App documentation.
   :::
 
   :::parameter-table-entry{required="true"}

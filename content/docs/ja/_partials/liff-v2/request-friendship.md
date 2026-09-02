@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/request-friendship
-__hash__: '-XOX_5czfDjZZeREl1RtN-1jDVdj_p50hfIvWdfK0XM'
+__hash__: _yNrcZhBMx4Q7UXXeJEn2Gbhz_glDChdH7mfrGf7J4k
 seo:
   description: ''
 ---
@@ -34,6 +34,19 @@ seo:
       ```javascript
       try {
         await liff.requestFriendship({
+          template: { id: "coupon" },
+        });
+      } catch (error) {
+        console.log(error);
+      }
+
+      // LINEミニアプリチャネルの［複数アカウントを使用］がオンの場合
+      try {
+        await liff.requestFriendship({
+          officialAccount: {
+            id: "@819...",
+            fallback: true,
+          },
           template: { id: "coupon" },
         });
       } catch (error) {
@@ -73,13 +86,7 @@ liff.requestFriendship(params);
 
   友だち追加、またはブロック解除を促すLINE公式アカウントを指定するためのオブジェクト。省略すると、デフォルトのLINE公式アカウントが表示されます。
 
-    ::::admonition
-    ---
-    title: 友だち追加オプションで複数アカウントを使用する機能は2026年9月の提供を予定しています
-    type: note
-    ---
-    LIFF SDKのバージョンがv2.30.0以上、かつLINEミニアプリチャネルの［**複数アカウントを使用**］がオンの場合のみ利用できます。［**複数アカウントを使用**］は、日本のLINEミニアプリ向けに、2026年9月の提供を予定しています。
-    ::::
+  `officialAccount`プロパティは、LINEミニアプリでのみ利用できます。また、LIFF SDKがv2.30.0以上、かつLINEミニアプリチャネルの［**複数アカウントを使用**］をオンにする必要があります。詳しくは、『LINEミニアプリドキュメント』の「[LINEミニアプリ上でLINE公式アカウントを友だち追加する（友だち追加オプション）](/docs/line-mini-app/service/add-friend-option/)」を参照してください。
   :::
 
   :::parameter-table-entry{required="true"}

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2025-10-31 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-10-31-channel-consent-simplification
-__hash__: 02P3wwLp_9tG6nrjT4ZHTlQ35zh88y9wQiuWSP7xPsY
+__hash__: Is6TyDFVoVJlZXFzPNWSxqAclTwX6JkgkZBU49cr12A
 seo:
   title: 【更新】日本の新規LINEミニアプリチャネルにおいて、2026年1月8日に「チャネル同意の簡略化」機能の利用が必須になります
   description: ''
@@ -41,7 +41,7 @@ seo:
 
 ### 友だち追加オプションへの影響
 
-LINEミニアプリでは、[友だち追加オプション](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel)を使って、[チャネル同意画面](/docs/line-mini-app/develop/configure-console/#consent-screen-settings)、もしくは[アクセス許可要求画面](/docs/line-mini-app/develop/channel-consent-simplification/#detailed-workflow)からLINE公式アカウントの友だち追加への誘導ができます。
+LINEミニアプリでは、[友だち追加オプション](/docs/line-mini-app/service/add-friend-option/)を使って、[チャネル同意画面](/docs/line-mini-app/develop/configure-console/#consent-screen-settings)、もしくは[アクセス許可要求画面](/docs/line-mini-app/develop/channel-consent-simplification/#detailed-workflow)からLINE公式アカウントの友だち追加への誘導ができます。
 
 ![](/media/news/2025/line-mini-app-playground-channel-consent-screen-ja.webp){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/news/2025/line-mini-app-playground-verification-screen-ja.webp){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
 

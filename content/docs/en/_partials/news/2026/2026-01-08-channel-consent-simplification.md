@@ -9,7 +9,7 @@ description: >-
   January 8, 2026.
 meta: '{"date":"2026-01-08 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-01-08-channel-consent-simplification
-__hash__: UKRkAzedJ9jp09rteBZwnwFGg0OvIAlpHJ8mYXxLnKY
+__hash__: 6RD6pfrurIDX1DDPI-CEDws1wLgSiHFz2KCEhIJxlZs
 seo:
   title: >-
     For new LINE MINI App channels in Japan, the &quot;Channel consent
@@ -47,7 +47,7 @@ The above changes also apply to unverified MINI Apps if the LINE MINI App channe
 
 ### Impact on the add friend option
 
-In the LINE MINI App, you can use the [add friend option](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel) to prompt users to add your LINE Official Account from the [verification screen](/docs/line-mini-app/develop/configure-console/#verification-screen) or the [channel consent screen](/docs/line-mini-app/develop/configure-console/#consent-screen-settings).
+In the LINE MINI App, you can use the [add friend option](/docs/line-mini-app/service/add-friend-option/) to prompt users to add your LINE Official Account from the [verification screen](/docs/line-mini-app/develop/configure-console/#verification-screen) or the [channel consent screen](/docs/line-mini-app/develop/configure-console/#consent-screen-settings).
 
 ![](/media/news/2025/line-mini-app-playground-verification-screen-en.webp){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/news/2025/line-mini-app-playground-channel-consent-screen-en.webp){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
 

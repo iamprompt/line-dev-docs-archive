@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-09-06 00:00 UTC","tags":"line-login, liff, line-mini-app,
   console, line-blockchain","locale":"ja"}
 path: /ja/_partials/news/2023/2023-09-06-rename-linked-bot
-__hash__: ciY3viuf2NqmCgJvqMzr1HzNhdg2aCFY1CqpOdEU-EE
+__hash__: mDk8mFySCF-ThilKTVPt_qLj3voGxtVSZBc0Vbn4904
 seo:
   title: LINE Developersコンソールにおいて「ボットリンク機能」および「リンクされたボット」の名称を変更しました
   description: LINE Developersコンソールにおいて、機能の名称を変更しました。
@@ -35,4 +35,4 @@ seo:
 
 - [LINEログインしたときにLINE公式アカウントを友だち追加する（友だち追加オプション）](/docs/line-login/link-a-bot/)
 - [LIFFアプリをチャネルに追加する](/docs/liff/registering-liff-apps/#registering-liff-app)
-- [LINEミニアプリをはじめて開いたときにLINE公式アカウントを友だち追加する（友だち追加オプション）](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel)
+- [LINEミニアプリ上でLINE公式アカウントを友だち追加する（友だち追加オプション）](/docs/line-mini-app/service/add-friend-option/)

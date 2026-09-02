@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/custom-features
-__hash__: jpYL8FrXv1zUFS0VDSw-ix9zlWPGhLbb3QaZYBGvXR8
+__hash__: T_OGCBBW1kgINBssfadteiSopVw8txGYZLwcyy_ItIc
 seo:
   title: Custom features
   description: null
@@ -87,7 +87,7 @@ For more information, see [Header](/docs/line-mini-app/discover/ui-components/#h
 
 With LINE MINI App, you can induce users to add your Official Account as a friend from the [verification screen](/docs/line-mini-app/develop/configure-console/#verification-screen) or the [channel consent screen](/docs/line-mini-app/develop/configure-console/#consent-screen-settings), using the add friend option.
 
-For more information, see [Add friend option](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel).
+For more information, see [Add a LINE Official Account as a friend in a LINE MINI App (add friend option)](/docs/line-mini-app/service/add-friend-option/).
 
 ![bot link feature 1](/media/line-mini-app/miniguide-incremental-01-en.png){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![bot link feature 2](/media/line-mini-app/miniguide-incremental-02-en.webp){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
 

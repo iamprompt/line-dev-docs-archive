@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/channel-consent-simplification
-__hash__: ZcPc_5j0UxD-TgyCV5yA_bdRjIm1oEDbIQHKS3fZkXI
+__hash__: ueNNOttbdh9d99kztP_BzHqzoZEbi-ifP-KKNOB2ITo
 seo:
   title: LINE MINI App authorization flow
   description: null
@@ -109,7 +109,7 @@ Therefore, if you've designed your LINE MINI App so that immediately after it's 
 
 ### Important points about using the "Channel consent simplification" feature together with the add friend option
 
-In the LINE MINI App, you can use the [add friend option](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel) to prompt users to add your LINE Official Account from the verification screen or the channel consent screen.
+In the LINE MINI App, you can use the [add friend option](/docs/line-mini-app/service/add-friend-option/) to prompt users to add your LINE Official Account from the verification screen or the channel consent screen.
 
 ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-verification-screen-en.png){className="[\"border\",\"w-fix-320\",\"inline-block\",\"mb-0-important\"]"} ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-channel-consent-screen-en.png){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
 
