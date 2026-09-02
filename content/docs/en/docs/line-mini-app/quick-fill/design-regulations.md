@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/quick-fill/design-regulations
-__hash__: kBkfXPgRWwlqdZfA3ROftqcOcUzJZFCi0XSyPcSCfkE
+__hash__: u0orqu-tp9dUoPfC_4HfzGIwArSBY-coNh9-PS2yz6Y
 seo:
   title: Common Profile Quick-fill design regulations
   description: null
@@ -40,25 +40,25 @@ When integrating Quick-fill into your LINE MINI App, we recommend the following 
 
 When the user moves to the registration screen, display a modal immediately by calling the [`liff.$commonProfile.get()`](/reference/line-mini-app/#get-common-profile) method. In this case, place an Auto-fill button on the member registration screen so that the user can display the modal again even if the user close it once.
 
-![](/media/line-mini-app/quick-fill/recommended-screen-transition-02.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/recommended-screen-transition-02.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 #### Display a modal when the user selects an input form
 
 Display a modal by calling the [`liff.$commonProfile.get()`](/reference/line-mini-app/#get-common-profile) method when the user selects an input form on the registration screen.
 
-![](/media/line-mini-app/quick-fill/recommended-screen-transition-04.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/recommended-screen-transition-04.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 #### Display a modal after the user taps the Auto-fill button
 
 Display a modal by calling the [`liff.$commonProfile.get()`](/reference/line-mini-app/#get-common-profile) method when the user taps the Auto-fill button on the member registration screen.
 
-![](/media/line-mini-app/quick-fill/recommended-screen-transition-01.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/recommended-screen-transition-01.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 #### Display a modal at the destination after the user agrees on the channel consent screen
 
 When the user taps **Allow** on the [channel consent screen](/docs/line-mini-app/develop/configure-console/#consent-screen-settings) of the LINE MINI App, transition the user directly to the registration screen. After transitioning to the registration screen, display a modal immediately by calling the [`liff.$commonProfile.get()`](/reference/line-mini-app/#get-common-profile) method. In this case, place an Auto-fill button on the member registration screen so that the user can display the modal again even if the user close it once.
 
-![](/media/line-mini-app/quick-fill/recommended-screen-transition-03.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/recommended-screen-transition-03.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 ### Prohibited screen transitions
 
@@ -84,7 +84,7 @@ It is prohibited to get items that don't exist on the form. For example, you mus
 
 It is prohibited to immediately move to the screen without auto-filling the form after the user taps the **Auto-fill** button in the modal. For example, you must not move to the registration confirmation screen without auto-filling the form, or register without displaying the acquired profile information and move to the registration completion screen.
 
-![](/media/line-mini-app/quick-fill/prohibited-screen-transition-03.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/prohibited-screen-transition-03.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 ## Auto-fill button guidelines
 

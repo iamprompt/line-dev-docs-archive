@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login/integrate-line-login
-__hash__: yhW7xvRfrIG784DuTD0KoWYQP6DWt6hPzXpo6g1kelY
+__hash__: ylwmGkgomDf25M6hpHX_b0PdSGLzYfamJCPYb8ZIEJw
 seo:
   title: Integrating LINE Login with your web app
   description: null
@@ -227,9 +227,9 @@ Developers specify the information they'd like to access in the `scope` paramete
 
 Note that users may access your web app without granting it some or all of the requested permissions. When building your web app, you should account for the possibility that the user may not grant the permissions you specified in the authorization URL.
 
-| Consent screen                                                                                                         | `scope` parameter and displayed items                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| ![Consent screen](/media/line-login/integrate-login-web/consent-screen-en.png){className="[\"border\",\"w-fix-240\"]"} | - `profile`: Main profile info (Required) - `openid`: Your internal identifier (Required) - `email`: Email address |
+| Consent screen                                                                                                          | `scope` parameter and displayed items                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![Consent screen](/media/line-login/integrate-login-web/consent-screen-en.webp){className="[\"border\",\"w-fix-240\"]"} | - `profile`: Main profile info (Required) - `openid`: Your internal identifier (Required) - `email`: Email address |
 
 #### Conditions for redisplaying the consent screen
 

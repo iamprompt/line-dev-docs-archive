@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/playnext-lab
-__hash__: gm4NvrB_-6Wg21X2Lydvbu00aJzHX-3lkNt8GS1uZiY
+__hash__: hufng3EDxr-RFpw6n1XHMAZXmPiI2CbnEXu_zajdoV8
 seo:
   title: 行政DXを支えるLINE活用スマート公共ラボの技術事例
   description: ''
@@ -31,7 +31,7 @@ seo:
 
 ### スクリーンショット
 
-![サービスイメージ](/media/messaging-api/technicalcase/playnext-lab/ja/playnext-lab-ui-img.png)
+![サービスイメージ](/media/messaging-api/technicalcase/playnext-lab/ja/playnext-lab-ui-img.webp)
 
 ---
 
@@ -57,7 +57,7 @@ seo:
 
 ## システムの解説
 
-![システム構成図](/media/messaging-api/technicalcase/playnext-lab/ja/playnext-lab-system-diagram.png)
+![システム構成図](/media/messaging-api/technicalcase/playnext-lab/ja/playnext-lab-system-diagram.webp)
 
 ### 取得したデータで行政サービスを改善
 

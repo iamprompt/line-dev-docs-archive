@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Kuan-Hung
-  Kuo","img":"tw-kuan-hung-kuo.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Kuo","img":"tw-kuan-hung-kuo.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Node.js, JavaScript, Python, Java, ChatBot, Android, Website,
   Cloud, SaaS,
   NLP/NLU","git":"https://github.com/godgunman","fb":"https://www.facebook.com/godgunman","twitter":"https://twitter.com/godgunman"}
 path: /en/community/api-experts/tw-kuan-hung-kuo
-__hash__: MEOpmto1m8MQZjdDiYzl3A4q3TLMu68S2mFVfOXpaC8
+__hash__: kccJn9z1YM1vABStmctxvCMYurmiWKwrP-IBszlfk38
 seo:
   title: LINE API Expert - Kuan-Hung Kuo
   description: ''

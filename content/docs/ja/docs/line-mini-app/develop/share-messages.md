@@ -5,7 +5,7 @@ description: LINEミニアプリでカスタムアクションボタンを実装
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/develop/share-messages
-__hash__: 2CA6Jl6dA2gjfsPf3qN1GzoKWoILGCy3Xxr-FCurh-w
+__hash__: ushaKowqUCdSj9EB-dKTCRJn-ZH446HIaLOx74UrGdw
 seo:
   title: カスタムアクションボタンを実装する
   description: LINEミニアプリでカスタムアクションボタンを実装する方法を説明します。
@@ -47,7 +47,7 @@ seo:
 
 また、カスタムシェアメッセージには、[標準タイプ](#standard)と[画像リストタイプ](#image-list)があり、それぞれ以下のA～Fのセクションに分かれています。
 
-![](/media/line-mini-app/mini_design_flex_msg_common.png){className="[\"w-fix-640\"]"}
+![](/media/line-mini-app/mini_design_flex_msg_common.webp){className="[\"w-fix-640\"]"}
 
 | ラベル | セクション  | 必須  | 説明                                                                                                                                                                                                                                |
 | --- | ------ | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,7 +71,7 @@ JSONファイルの例は、「[ガイドラインに従ったJSONファイル�
 - ここで説明されていないプロパティは変更してはいけません。
 ::
 
-![](/media/line-mini-app/mini_design_flex_msg_standard.png){className="[\"w-fix-640\"]"}
+![](/media/line-mini-app/mini_design_flex_msg_standard.webp){className="[\"w-fix-640\"]"}
 
 ##### 標準タイプ - 画像（A）
 
@@ -422,7 +422,7 @@ JSONファイルの例は、「[ガイドラインに従ったJSONファイル�
 - ここで説明されていないプロパティは変更してはいけません。
 ::
 
-![](/media/line-mini-app/mini_design_flex_msg_list.png){className="[\"w-fix-640\"]"}
+![](/media/line-mini-app/mini_design_flex_msg_list.webp){className="[\"w-fix-640\"]"}
 
 ##### 画像リストタイプ - 画像（A）
 

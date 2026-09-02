@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールの基本的な仕組みと注意事項
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/console-guide
-__hash__: xBmFTdkz3F0ofC8-dRhFn2PsKnYxK8KNM22gglpk5sk
+__hash__: So_HRUc9ewY3T-0Y4wcGm9rcOSETWvH-ar9Wnl8cwQ8
 seo:
   title: LINEミニアプリ用LINE Developersコンソールガイド
   description: LINE Developersコンソールの基本的な仕組みと注意事項
@@ -106,7 +106,7 @@ LINEミニアプリの開発では、[ステートレスチャネルアクセス
 
 LINEミニアプリチャネル作成時に、［**LINEミニアプリを提供する地域と、サービス事業主の所在国・地域が同一であることを表明し、保証します。**］チェックボックスの内容への同意が必要です。所在国・地域の名前はチャネル同意画面でエンドユーザーに表示されます。
 
-![LINEミニアプリを提供する地域と、サービス事業主の所在国・地域が同一であることを表明し、保証します。](/media/line-mini-app/configuring-country-or-region-ja.png){className="[\"border\",\"w-fix-800\"]"}
+![LINEミニアプリを提供する地域と、サービス事業主の所在国・地域が同一であることを表明し、保証します。](/media/line-mini-app/configuring-country-or-region-ja.webp){className="[\"border\",\"w-fix-800\"]"}
 
 ::admonition
 ---

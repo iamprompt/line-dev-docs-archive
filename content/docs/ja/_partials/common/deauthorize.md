@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/common/deauthorize
-__hash__: 9EtYe2xhRedZ2w8fODZuH2o30Z2oJhoMR00dEtd78cs
+__hash__: cEMHO77GC_M9qBvRfMpRNvfUJtD0xHaI0qDCwD49SVA
 seo:
   description: ''
 ---
@@ -17,7 +17,7 @@ seo:
 
 次のようなユースケースにおいて、権限の取消が必要となります。
 
-![アカウントを連携してから解除するまでの流れ](/media/line-login/development-guidelines/deauthorize-your-app-ja.png)
+![アカウントを連携してから解除するまでの流れ](/media/line-login/development-guidelines/deauthorize-your-app-ja.webp)
 
 ユーザーがLINEログインを組み込んだアプリにLINEアカウントでログインし、チャネル同意画面で[認可を行う](/docs/line-login/integrate-line-login/#authorization-process)と、LINEアプリの［**設定**］ > ［**アカウント**］ > ［**連動アプリ**］に対象アプリが表示されるようになります。ユーザーが連動アプリを退会した後も、認可した権限がそのままにならないよう、権限の取消を行ってください。
 

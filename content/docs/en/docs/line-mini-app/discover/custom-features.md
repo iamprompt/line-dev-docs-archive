@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/custom-features
-__hash__: F0CPutRB6oRfr01r6uoKQZl6wGSaL7bQgFKlqh7lEps
+__hash__: jpYL8FrXv1zUFS0VDSw-ix9zlWPGhLbb3QaZYBGvXR8
 seo:
   title: Custom features
   description: null
@@ -36,10 +36,10 @@ Service messages is a feature whereby LINE MINI App notifies the user of informa
 
 Service messages sent from LINE MINI Apps are displayed in chat rooms determined for each region that provides the LINE MINI App, regardless of the type of LINE MINI App.
 
-| Japan                                                                                                        | Thailand                                                                                                           | Taiwan                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| LINEミニアプリ お知らせ                                                                                               | LINE MINI App Notice                                                                                               | LINE MINI App 通知                                                                                               |
-| ![LINEミニアプリ お知らせ](/media/line-mini-app/mini_service_notifier_jp.png){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App Notice](/media/line-mini-app/mini_service_notifier_th.png){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App 通知](/media/line-mini-app/mini_service_notifier_tw.png){className="[\"border\",\"w-fix-280\"]"} |
+| Japan                                                                                                         | Thailand                                                                                                            | Taiwan                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| LINEミニアプリ お知らせ                                                                                                | LINE MINI App Notice                                                                                                | LINE MINI App 通知                                                                                                |
+| ![LINEミニアプリ お知らせ](/media/line-mini-app/mini_service_notifier_jp.webp){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App Notice](/media/line-mini-app/mini_service_notifier_th.webp){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App 通知](/media/line-mini-app/mini_service_notifier_tw.webp){className="[\"border\",\"w-fix-280\"]"} |
 
 To send a service message, use the service message API. For details, see [Sending service messages](/docs/line-mini-app/develop/service-messages/).
 
@@ -71,7 +71,7 @@ For more information, see [Add a shortcut to your LINE MINI App to the home scre
 
 Quick-fill is a feature that automatically fills in the necessary profile information when you tap **Auto-fill** in LINE MINI Apps. The information from the Common Profile set up in the Account Center can be easily used in LINE MINI Apps. For more information, see [Overview of Common Profile Quick-fill](/docs/line-mini-app/quick-fill/overview/).
 
-![](/media/line-mini-app/quick-fill/quick-fill-3-steps.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/quick-fill-3-steps.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 By implementing Quick-fill in LINE MINI Apps, users can automatically fill in required information such as addresses and phone numbers with a single tap of a button. This eliminates the need for manual input, making it more convenient for users when making reservations at stores or placing orders on online stores.
 
@@ -89,7 +89,7 @@ With LINE MINI App, you can induce users to add your Official Account as a frien
 
 For more information, see [Add friend option](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel).
 
-![bot link feature 1](/media/line-mini-app/miniguide-incremental-01-en.png){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![bot link feature 2](/media/line-mini-app/miniguide-incremental-02-en.png){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
+![bot link feature 1](/media/line-mini-app/miniguide-incremental-01-en.png){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![bot link feature 2](/media/line-mini-app/miniguide-incremental-02-en.webp){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
 
 You can also use the [`liff.requestFriendship()`](/reference/liff/#request-friendship) method to display a subwindow at any time, prompting users to add your LINE Official Account as a friend or unblock it.
 

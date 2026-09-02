@@ -6,7 +6,7 @@ description: >-
   numbers hashed with the SHA256 algorithm.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/technical-specs
-__hash__: 2EU-cvkiDL4QTD_odajC2jCI7GB7LJW9sQ3X9TvZ_Qk
+__hash__: J7dEVikxOYQ3iSujyMovMiaol71WPWd0uGajxFYF69s
 seo:
   title: Technical specifications of the LINE notification messages API
   description: >-
@@ -110,7 +110,7 @@ For more information on setting up LINE notification messages in the LINE app, s
 
 When sending a LINE notification message, the following message will be sent from the LINE Official Account (system account) named "LINE". This message is always sent each time a LINE notification message is sent. The sender of a LINE notification message can't prevent this message from being sent or reduce the number of times it's sent.
 
-![Message received notification](/media/line-notification-message/type1-pnpflow-3-ja.png){className="[\"border\",\"w-fix-280\"]"}
+![Message received notification](/media/line-notification-message/type1-pnpflow-3-ja.webp){className="[\"border\",\"w-fix-280\"]"}
 
 ::admonition{title="Behavior when blocking" type="note"}
 If the user designated by the LINE notification messages API as the receiver of a notification message has blocked the LINE Official Account from which the message was sent, the notification message and the "LINE notification message received" message from the "LINE" system account won't be sent.

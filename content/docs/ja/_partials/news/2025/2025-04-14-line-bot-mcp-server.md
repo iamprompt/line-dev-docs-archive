@@ -6,7 +6,7 @@ description: >-
   ServerをClaudeなどのAIエージェントから利用することで、対話形式でLINE公式アカウントからユーザーにメッセージを送信したり、LINE公式アカウントを友だち追加したユーザーの情報を活用したりできます。
 meta: '{"date":"2025-04-14 00:00 UTC","tags":"messaging-api","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-04-14-line-bot-mcp-server
-__hash__: AaFT6UnusxDmjFGSt0hMHFCVu1iHwMKHQa5UHXJ2IAw
+__hash__: SIOF0JgLAvlgHkiKTQyWudRdMvas47eUzEBaD9hju8U
 seo:
   title: Messaging APIのMCPサーバー「LINE Bot MCP Server」をGitHubで公開しました
   description: >-
@@ -16,7 +16,7 @@ seo:
 
 Messaging APIのMCPサーバーである[LINE Bot MCP Server](https://github.com/line/line-bot-mcp-server){rel="[\"nofollow\"]"}をGitHubで公開しました。LINE Bot MCP Serverを[Claude](https://claude.ai/){rel="[\"nofollow\"]"}などのAIエージェントから利用することで、対話形式でLINE公式アカウントからユーザーにメッセージを送信したり、LINE公式アカウントを友だち追加したユーザーの情報を活用したりできます。
 
-![](/media/news/2025/line-bot-mcp-server-claude-ja.png){className="[\"w-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/news/2025/line-bot-mcp-server-chat-screen-ja.webp){className="[\"w-fix-280\",\"inline-block\"]"}
+![](/media/news/2025/line-bot-mcp-server-claude-ja.webp){className="[\"w-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/news/2025/line-bot-mcp-server-chat-screen-ja.webp){className="[\"w-fix-280\",\"inline-block\"]"}
 
 - [line/line-bot-mcp-server](https://github.com/line/line-bot-mcp-server){rel="[\"nofollow\"]"}
 

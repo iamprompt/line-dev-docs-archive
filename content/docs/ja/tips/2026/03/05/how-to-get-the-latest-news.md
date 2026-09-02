@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-05 00:00 UTC","tags":"docs, line-developers-site,
   console","locale":"ja","sidebar":false}
 path: /ja/tips/2026/03/05/how-to-get-the-latest-news
-__hash__: E-ZHWX9oaXlyr0zIUH5xZf83Kb8jwQLiZMdVucWUmng
+__hash__: hUGu81lkz5cMc1w9-J7Ik6F9teMC92b9haFU6qD-OzI
 seo:
   title: LINE Developersサイトの最新情報をチェックしよう
   description: 「あれ、この機能いつ追加されたんだろう？」
@@ -39,9 +39,9 @@ seo:
 
 そして、ホームページを下にスクロールしていくと、「ニュース」と「Tips for Developers」のコーナーがあります。
 
-![](/media/tips/2026/news-excerpts-ja.png){className="[\"border\"]"}
+![](/media/tips/2026/news-excerpts-ja.webp){className="[\"border\"]"}
 
-![](/media/tips/2026/tips-excerpts-ja.png){className="[\"border\"]"}
+![](/media/tips/2026/tips-excerpts-ja.webp){className="[\"border\"]"}
 
 どちらのコーナーも、最新3件の記事について、タイトルと冒頭の抜粋が表示されます。そのため、わざわざページを開かなくても、興味のある記事があるかどうか、ひと目で確認できるのです。
 

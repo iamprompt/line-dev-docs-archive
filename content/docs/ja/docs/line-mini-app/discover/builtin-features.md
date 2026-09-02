@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/discover/builtin-features
-__hash__: qTtxtHw1FnxFPhhukeLJhquqfBGz61-9n5qhKw5uxi8
+__hash__: OVK79wDruUEPfVSSSxgzEE7aEx_5j8_Z2ktK-QrJb1M
 seo:
   title: ビルトイン機能
   description: null
@@ -39,7 +39,7 @@ LINEミニアプリのすべてのページに表示される[ヘッダー](/doc
 
 LINEバージョン26.7.0以降では、アクションボタンをタップすると、以下のドロップダウンメニューが表示されます。
 
-![](/media/line-mini-app/discover/mini-header-action-button-tap-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![](/media/line-mini-app/discover/mini-header-action-button-tap-ja.webp){className="[\"border\",\"w-fix-300\"]"}
 
 | 項目             | 説明                                                                                                                                                                                                                                                                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

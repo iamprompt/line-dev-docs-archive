@@ -8,7 +8,7 @@ meta: >-
   {"date":"2025-08-06 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"en"}
 path: /en/_partials/news/2025/2025-08-06-coupon-api
-__hash__: YYLP-jl5nh_qxQciWZjN4VCU0hZXQ2-wirI79B0Mn3I
+__hash__: TKCJmIt-mMVzcJLol5dn1bos9_QdzikxOe43o0PKx2Y
 seo:
   title: You can now create coupons using the Messaging API and send them as messages
   description: >-
@@ -18,7 +18,7 @@ seo:
 
 You can now create coupons using the Messaging API and send them to users as messages from your LINE Official Account.
 
-![](/media/messaging-api/coupon/several-coupons.jpg)
+![](/media/messaging-api/coupon/several-coupons.webp)
 
 ### Added Features
 

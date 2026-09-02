@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/web-to-mini-app
-__hash__: YSqRzDNX9yZXaOJLDCC0qUdGCjNB2NX5FY_3wLFP2KQ
+__hash__: 1NT-iiQNaccby-LiBk-b4FYK3U9YaOFKKBVRXHClcm0
 seo:
   title: Implementing web apps in operation as LINE MINI Apps
   description: null
@@ -20,7 +20,7 @@ First, the LINE MINI App is a web app that can be used within the LINE App and i
 
 In addition, the [service messages](/docs/line-mini-app/develop/service-messages/) feature allows the LINE MINI App to send notifications to the user in response to user actions on the LINE MINI App. Almost all HTML5 specifications are also supported, for example, the [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API){rel="[\"nofollow\"]"} can be used to obtain the user's location information.
 
-![](/media/line-mini-app/develop/product-image.png){className="[\"w-fix-400\",\"bg-border\"]"}
+![](/media/line-mini-app/develop/product-image.webp){className="[\"w-fix-400\",\"bg-border\"]"}
 
 As described above, by implementing the web app as a LINE MINI App, you can prevent users from leaving the app due to inconvenient logins and profile entries, etc. In addition, the use of the LINE MINI App can also be started immediately from the LINE app, and all operations can be performed in the LINE app, so this can improve the user experience.
 

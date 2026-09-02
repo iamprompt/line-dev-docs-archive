@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/check-webhook-error-statistics
-__hash__: kyfLDheK9uU9YLDUm3I85QuhQiucl-p38HFDtj9AmCc
+__hash__: Hu_00V9dFZQtiu_eKC_GzLCH0qxxK5B_q7U9LqSo9jI
 seo:
   title: Check webhook error causes and statistics
   description: null
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsThe Messaging API provides a feature to check error causes and statistics when sending webhooks. This is useful for understanding the status of sending webhooks when a webhook wasn't received due to a problem on the bot server, etc.
 
-![Display of error statistics when an error is returned from the bot server](/media/messaging-api/receiving-messages/webhook-error-en.jpg){className="[\"w-fix-680\"]"}
+![Display of error statistics when an error is returned from the bot server](/media/messaging-api/receiving-messages/webhook-error-en.webp){className="[\"w-fix-680\"]"}
 
 ## Enable error statistics
 

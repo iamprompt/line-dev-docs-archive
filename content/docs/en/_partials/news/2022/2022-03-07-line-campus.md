@@ -7,7 +7,7 @@ description: >-
   available. LINE Campus is currently only available in Japanese.
 meta: '{"date":"2022-03-07 01:00 UTC","tags":"messaging-api, line-ads","locale":"en"}'
 path: /en/_partials/news/2022/2022-03-07-line-campus
-__hash__: Q-rIA-TNnlBvB5shGa8yd5_c_R1S2P0nfCkT0UaaY30
+__hash__: 08ly05WjExKNe__g_N2BlnCgFPO1mHm6eiacANiTWh0
 seo:
   title: Comprehensive learning platform "LINE Campus" is now available
   description: >-
@@ -20,7 +20,7 @@ seo:
 "[LINE Campus](https://campus.line.biz/){rel="[\"nofollow\"]"}", a comprehensive learning platform that enables users to acquire the knowledge and skills of LINE Official Accounts and LINE Ads online, is now available. LINE Campus is currently only available in Japanese.
 
 - **LINE Campus** ([https://campus.line.biz/](https://campus.line.biz/){rel="[\"nofollow\"]"})
-![LINE Campus](/media/news/2022/line-campus.png){className="[\"border\",\"w-fix-640\"]"}
+![LINE Campus](/media/news/2022/line-campus.webp){className="[\"border\",\"w-fix-640\"]"}
 
 LINE Campus offers study courses and certification courses, all of which are free of charge. From beginners to experienced users, you can choose from a total of 27 courses and over 90 lessons, subdivided according to your skill level and objectives.
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/getting-started
-__hash__: 6UE5WAmq7gp3VqYuoHnqhnkYnX4l5RBZlRl-O5FADj4
+__hash__: ibnBS8j_2Jbxc5p4xVannB3njm1h679XepuGHM0XRXc
 seo:
   title: LINEログインを始めよう
   description: null
@@ -30,7 +30,7 @@ LINEログインのスターターアプリを利用するには、以下の要�
 
 | 項目            | 説明                                                                                                                                                                                                                                                                                                                                                                                     |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| LINEアカウント     | LINEを利用するためのアカウントです。LINEアカウントは、スターターアプリを試すために必要です。LINEアカウントを作成するには、iOS版LINEまたはAndroid版LINEを[ダウンロード](https://line.me/){rel="[\"nofollow\"]"}して、新規登録をしてください。登録方法について詳しくは、『LINEみんなの使い方ガイド』の「[新規登録をする](https://guide.line.me/ja/signup-and-migration/line-signup.html){rel="[\"nofollow\"]"}」を参照してください。                                                                                    |
+| LINEアカウント     | LINEを利用するためのアカウントです。LINEアカウントは、スターターアプリを試すために必要です。LINEアカウントを作成するには、iOS版LINEまたはAndroid版LINEを[ダウンロード](https://line.me/){rel="[\"nofollow\"]"}して、新規登録をしてください。登録方法について詳しくは、『LINEみんなの使い方ガイド』の「[新規登録をする](https://guide.line.me/ja/signup/line-signup.html){rel="[\"nofollow\"]"}」を参照してください。                                                                                                  |
 | プロバイダー        | プロバイダーは、アプリを提供する個人または組織を表す概念です。プロバイダーは、[LINE Developersコンソール](/console/)で作成します。1人のLINEユーザーは、プロバイダーごとに異なるユーザーIDを持ちます。                                                                                                                                                                                                                                                                   |
 | LINEログインのチャネル | チャネルは、アプリとLINEプラットフォームを接続するための通信路です。プロバイダーの中に作成します。アプリごとに、チャネルを作成する必要があります。LINEログインのチャネルは、[LINE Developersコンソール](/console/register/line-login/channel/)で作成します。   注：- LINE Developersコンソールを利用したことがない場合は、開発者として登録してからチャネルを作成します。   - チャネルの作成手順は[Step 1: LINEログインのチャネルを作成する](#step-1-create-channel)で説明しています。 - スターターアプリを利用するためにLINEログインのチャネルを作成する際は、［**アプリタイプ**］で、［**ウェブアプリ**］を選択してください。 |
 | Herokuアカウント   | [Heroku](https://www.heroku.com/){rel="[\"nofollow\"]"}は、ウェブアプリをホストできるサービスです。スターターアプリをHerokuにデプロイするため、Heroku以外のサーバーを用意する必要がありません。                                                                                                                                                                                                                                                      |

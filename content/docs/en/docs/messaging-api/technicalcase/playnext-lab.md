@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/playnext-lab
-__hash__: UbfMeaf4DUMACmafjhpDbbXewN6cA5g5itlyeRXPB-M
+__hash__: j0deVHpPb_6RlE_S68Kf53DNVMXKnLOIppEG58jstPs
 seo:
   title: >-
     Technical case study of Smart Public Lab: LINE utilization strategy
@@ -37,7 +37,7 @@ Based on the users’ current location or selected area, the service can display
 
 ### Image
 
-![service-image](/media/messaging-api/technicalcase/playnext-lab/en/playnext-lab-ui-img.png)
+![service-image](/media/messaging-api/technicalcase/playnext-lab/en/playnext-lab-ui-img.webp)
 
 ---
 
@@ -63,7 +63,7 @@ The number of service implementations has now exceeded 100, and we believe that 
 
 ## System Overview
 
-![System architecture diagram](/media/messaging-api/technicalcase/playnext-lab/en/playnext-lab-system-diagram.png)
+![System architecture diagram](/media/messaging-api/technicalcase/playnext-lab/en/playnext-lab-system-diagram.webp)
 
 ### Improving administrative services using acquired data
 

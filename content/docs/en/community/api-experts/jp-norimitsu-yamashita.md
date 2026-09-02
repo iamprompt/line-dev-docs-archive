@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Norimitsu
-  Yamashita","img":"jp-norimitsu-yamashita.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Yamashita","img":"jp-norimitsu-yamashita.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login ,LINEミニアプリ","skills":"Node.js, JavaScript, SQL, Chatbot, EC,
   Cloud, UI/UX, Web Application, AWS CDK, Kubernetes 
   ","git":"https://github.com/nori3tsu","fb":"https://www.facebook.com/norimitsu.yamashita","twitter":"https://twitter.com/nori3tsu"}
 path: /en/community/api-experts/jp-norimitsu-yamashita
-__hash__: SwWHKLS3mgfcG0CeRPMrnX305f36ybdvMn4sXl9Iezc
+__hash__: IsolibP0nHFmzxniNW5xAiNgXmnaPR8lb4Z3mph-Gy8
 seo:
   title: LINE API Expert - Norimitsu Yamashita
   description: ''

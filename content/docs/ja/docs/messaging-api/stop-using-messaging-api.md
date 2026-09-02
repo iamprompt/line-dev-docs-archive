@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/stop-using-messaging-api
-__hash__: 9za_7_RvYKHj6hHjxhcYmHm4TojuOqThI3i8cJFOssc
+__hash__: CsWtOhDY8cwStFATLamNcCt735y0cn5vZuEdXZSsIVQ
 seo:
   title: Messaging APIの利用を停止する
   description: null
@@ -24,7 +24,7 @@ Messaging APIチャネルに紐づいているLINE公式アカウントの利用
 2. ［**Messaging API設定**］タブをクリックします。
 3. ［**Webhook設定**］セクションの［**Webhookの利用**］を無効にします。
 
-![［Webhook設定］セクションの［Webhookの利用］](/media/messaging-api/stop-using-messaging-api/disable-use-webhook-ja.png){className="[\"border\",\"w-fix-720\"]"}
+![［Webhook設定］セクションの［Webhookの利用］](/media/messaging-api/stop-using-messaging-api/disable-use-webhook-ja.webp){className="[\"border\",\"w-fix-720\"]"}
 
 ## チャネルアクセストークンを取り消す
 

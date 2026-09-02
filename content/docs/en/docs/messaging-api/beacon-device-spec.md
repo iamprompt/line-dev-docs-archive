@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/messaging-api/beacon-device-spec
-__hash__: A1VIm3xH4EwaCf0_NeTTT0BZIzt-_FtoOSVA8Z_svJQ
+__hash__: 8XUnwkrmatTMkqRhIasHsR6YuiYSiL_Kh_gyFqV1W2o
 seo:
   title: LINE Beacon device specification
   description: null
@@ -68,7 +68,7 @@ LINE requests you to send a secure message to prevent tampering of LINE Beacon p
 
 To generate a secure message, perform XOR (exclusive OR) operation three times on a hash value computed with SHA-256, by the flow illustrated below. For more information about the required parameters, see [Required parameters for secure messages](#parameters).
 
-![Generation algorithm of the secure message](/media/messaging-api/beacon-device-spec/secureMessageAlgorithm.png){className="[\"border\"]"}
+![Generation algorithm of the secure message](/media/messaging-api/beacon-device-spec/secureMessageAlgorithm.webp){className="[\"border\"]"}
 
 Generate a secure message by the instructions below.
 

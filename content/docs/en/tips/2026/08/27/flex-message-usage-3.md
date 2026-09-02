@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-08-27 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"en","sidebar":false}
 path: /en/tips/2026/08/27/flex-message-usage-3
-__hash__: 2sWZU1sPq65YTNHc2s3FL9IVuSpoyqGMXKFzocRkzS4
+__hash__: 7cs86nPv6oSV-xe9d0KT3B5LxWBoKX9keGgAJS1CLak
 seo:
   title: Mastering Flex Messages, part 3
   description: >-
@@ -39,7 +39,7 @@ Include `altText` in every Flex Message object.
 Set `altText` to text that describes what the Flex Message communicates. `altText` appears when the Flex Message layout isn't displayed, such as in device notifications, the LINE app's talk list, and quote messages.
 
   :::admonition{title="Screen readers read altText" type="tip"}
-  Screen readers such as [VoiceOver on iOS](https://support.apple.com/guide/iphone/iph3e2e415f/ios){rel="[\"nofollow\"]"} and [TalkBack on Android](https://support.google.com/accessibility/android/answer/6283677?hl=en){rel="[\"nofollow\"]"} read `altText` in device notifications and the LINE app's talk list. To help users who use screen readers understand the message, describe what you want the Flex Message to convey in `altText`.
+  Screen readers such as [VoiceOver on iOS](https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios){rel="[\"nofollow\"]"} and [TalkBack on Android](https://support.google.com/accessibility/android/answer/6283677?hl=en){rel="[\"nofollow\"]"} read `altText` in device notifications and the LINE app's talk list. To help users who use screen readers understand the message, describe what you want the Flex Message to convey in `altText`.
   :::
 
 Set `altText` as follows for a delivery update.
@@ -96,7 +96,7 @@ Include both the target and the action in each `label`:
 When you place multiple buttons together, word the labels so users can distinguish the primary action from secondary actions. For example, use "Confirm reservation" for the primary action and "Change date and time" for a secondary action. This helps users choose the action that fits their goal.
 
   :::admonition{title="Screen readers read labels" type="tip"}
-  Screen readers such as [VoiceOver on iOS](https://support.apple.com/guide/iphone/iph3e2e415f/ios){rel="[\"nofollow\"]"} and [TalkBack on Android](https://support.google.com/accessibility/android/answer/6283677?hl=en){rel="[\"nofollow\"]"} read an action's `label`. Use a specific `label` that describes the result of a tap. This makes the action clear when a screen reader reads it.
+  Screen readers such as [VoiceOver on iOS](https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios){rel="[\"nofollow\"]"} and [TalkBack on Android](https://support.google.com/accessibility/android/answer/6283677?hl=en){rel="[\"nofollow\"]"} read an action's `label`. Use a specific `label` that describes the result of a tap. This makes the action clear when a screen reader reads it.
   :::
 
 Good example:

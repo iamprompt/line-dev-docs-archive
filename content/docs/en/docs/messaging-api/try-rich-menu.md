@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/try-rich-menu
-__hash__: cTDnJAWyCeFCqKA35di2aFn8RvB87_Juvi_XPDPHR5o
+__hash__: GyZdTOdSWZzImyo59NvOnIQlTeR1ESB8WRXVSKQAirk
 seo:
   title: Play with rich menus
   description: null
@@ -49,7 +49,7 @@ The rich menus of Rich Menu Playground have four main components:
 
 When you trigger an action, Rich Menu Playground does the action and then shows you the detail of the action you triggered. This helps you to know that the action was triggered, especially when the action doesn't render any visual result. The action detail includes the description of the action, action settings (parameters) and the webhook events the LINE Platform sent to the bot server.
 
-![Message after the action is executed](/media/messaging-api/rich-menu-playground/message.png){className="[\"w-fix-640\"]"}
+![Message after the action is executed](/media/messaging-api/rich-menu-playground/message.webp){className="[\"w-fix-640\"]"}
 
 ## Actions available on Rich Menu Playground
 
@@ -142,7 +142,7 @@ The `openInAppBrowser` parameter opens LINE's in-app browser only in LINE for An
 
 In this tab, you can trigger a [datetime picker action](/reference/messaging-api/#datetime-picker-action) from the rich menu. When you trigger this action, the date and time selection dialog is displayed. Once you select a date, the LINE Platform sends your bot server a [postback event](/reference/messaging-api/#postback-event) with selected date and time.
 
-![Try Datetime Picker Action](/media/messaging-api/rich-menu-playground/04-datetime-picker-action-ja.png){className="[\"w-fix-320\"]"}
+![Try Datetime Picker Action](/media/messaging-api/rich-menu-playground/04-datetime-picker-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | Button label                                               | Action                                                                                 | Action object                                                                                                                             |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -156,7 +156,7 @@ In this tab, you can trigger a [datetime picker action](/reference/messaging-api
 
 In this tab, you can trigger a [rich menu switch action](/reference/messaging-api/#richmenu-switch-action) from the rich menu. When you trigger this action, the rich menu is switched to the menu defined in [rich menu aliases](/docs/messaging-api/switch-rich-menus/). When the rich menu is switched, the LINE Platform sends your bot server a [postback event](/reference/messaging-api/#postback-event). This event has values you specify for the `data` property and `postback.params` object in the postback action object.
 
-![Try Rich Menu Switching Action](/media/messaging-api/rich-menu-playground/05-rich-menu-switch-action-ja.png){className="[\"w-fix-320\"]"}
+![Try Rich Menu Switching Action](/media/messaging-api/rich-menu-playground/05-rich-menu-switch-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | Button label                       | Action                                                                                                              | Action object                                                                                                                 |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |

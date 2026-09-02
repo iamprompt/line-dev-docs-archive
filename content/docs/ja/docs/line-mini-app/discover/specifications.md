@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/specifications
-__hash__: kk-zwqMg9xkty4KmTRdBMd9piNOJWVnWjNe6HCYdZP0
+__hash__: XeDdI9G8Q8gTqncHrH_aDElUXOgWxdbUH6oRL4PRWKQ
 seo:
   title: LINEミニアプリの仕様
   description: null
@@ -18,7 +18,7 @@ seo:
 
 LINEミニアプリを開発する場合は、[HTML5](https://html.spec.whatwg.org/){rel="[\"nofollow\"]"}のほとんどの仕様を使用できます。たとえば、[Geolocation API](https://www.w3.org/TR/geolocation/){rel="[\"nofollow\"]"}を使用して、ユーザーの位置情報を取得し、近くの店舗の情報をユーザーに提供できます。Google Maps APIなど、HTML5と互換性のあるほとんどのMap APIも使用できます。
 
-![](/media/line-mini-app/mini_map_api.png){className="[\"w-fix-280\"]"}
+![](/media/line-mini-app/mini_map_api.webp){className="[\"w-fix-280\"]"}
 
 ### 対応メディア形式
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/service-messages
-__hash__: rwiis0ioLYfIPgPw30wbhU1zWySbhjIqIAKRUwSgFYE
+__hash__: xuoIWyGInk41f60VfVM5IE737zV8Zc7Dgecn1xN6LOU
 seo:
   title: Sending service messages
   description: null
@@ -32,10 +32,10 @@ You are allowed to send service messages only as a confirmation or response to a
 
 Service messages sent from LINE MINI Apps are displayed in chat rooms determined for each region that provides the LINE MINI App, regardless of the type of LINE MINI App.
 
-| Japan                                                                                                        | Thailand                                                                                                           | Taiwan                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| LINEミニアプリ お知らせ                                                                                               | LINE MINI App Notice                                                                                               | LINE MINI App 通知                                                                                               |
-| ![LINEミニアプリ お知らせ](/media/line-mini-app/mini_service_notifier_jp.png){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App Notice](/media/line-mini-app/mini_service_notifier_th.png){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App 通知](/media/line-mini-app/mini_service_notifier_tw.png){className="[\"border\",\"w-fix-280\"]"} |
+| Japan                                                                                                         | Thailand                                                                                                            | Taiwan                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| LINEミニアプリ お知らせ                                                                                                | LINE MINI App Notice                                                                                                | LINE MINI App 通知                                                                                                |
+| ![LINEミニアプリ お知らせ](/media/line-mini-app/mini_service_notifier_jp.webp){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App Notice](/media/line-mini-app/mini_service_notifier_th.webp){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App 通知](/media/line-mini-app/mini_service_notifier_tw.webp){className="[\"border\",\"w-fix-280\"]"} |
 
 ## Types of service messages that can be sent
 

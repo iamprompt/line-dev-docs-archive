@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/resortbaito-dive
-__hash__: svhmvKgYB-FehwLlaMz-01vtmsDYPRkHCCsgKvF3Yos
+__hash__: URfWMAz1mFpuF1msjq2YHWLhRNSD4-LFIf6BvHDM0ro
 seo:
   title: >-
     A case study on the development of "Resort Baito Dive" to enhance temporary
@@ -35,7 +35,7 @@ At Dive Inc., our resort part-time resort staffing service, “Resort Baito Dive
 
 ![service-image](/media/messaging-api/technicalcase/resortbaito-dive/en/resortbaito-dive-ui-img.webp)
 
-![service-cms-image](/media/messaging-api/technicalcase/resortbaito-dive/en/resortbaito-dive-ui-img-2.png)
+![service-cms-image](/media/messaging-api/technicalcase/resortbaito-dive/en/resortbaito-dive-ui-img-2.webp)
 
 ---
 
@@ -59,7 +59,7 @@ By connecting our CRM data with LINE IDs, we were able to display CRM informatio
 
 ## System Overview
 
-![System architecture diagram](/media/messaging-api/technicalcase/resortbaito-dive/en/resortbaito-dive-system.png)
+![System architecture diagram](/media/messaging-api/technicalcase/resortbaito-dive/en/resortbaito-dive-system.webp)
 
 ### Technologies that support Resort Baito Dive and their impacts
 

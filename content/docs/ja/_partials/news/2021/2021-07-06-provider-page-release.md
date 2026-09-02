@@ -6,7 +6,7 @@ description: >-
   API）、LINEミニアプリ、LINEログインのサービスをプロバイダーページに表示できます。
 meta: '{"date":"2021-07-06 01:00 UTC","tags":"Console","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-07-06-provider-page-release
-__hash__: sfE_BnXvS7EWC0Feg15IVIVhH4NdXhXmdHwOpc4LPEQ
+__hash__: TGCnASMlLV7N26q_bqSPIzW5Cc-ldZ4G4A5HCU9Buf8
 seo:
   title: プロバイダーが提供するサービスの一覧を公開できるようになりました
   description: >-
@@ -16,7 +16,7 @@ seo:
 
 プロバイダーページとは、:glossary-tooltip[[プロバイダー](/glossary/#provider)]{glossary-id="provider"}がLINEプラットフォーム上で提供している各種サービスの一覧ページです。プロバイダーが提供しているLINE公式アカウント（Messaging API）、LINEミニアプリ、LINEログインのサービスをプロバイダーページに表示できます。
 
-![プロバイダーページの例](/media/partner-docs/provider-page-ja.png){className="[\"border\",\"w-fix-360\"]"}
+![プロバイダーページの例](/media/partner-docs/provider-page-ja.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ::admonition{title="認証プロバイダーのみ設定、公開できます" type="tip"}
 プロバイダーページは認証プロバイダーのみ設定、公開できます。認証プロバイダーについて詳しくは、「[認証プロバイダーについて](/docs/line-developers-console/overview/#certified-provider)」を参照してください。

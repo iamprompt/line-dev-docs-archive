@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/service-messages
-__hash__: kE6B0Bs9UkkgMsyOBycHWZQhZjTk4FZ32umC3-ihPLc
+__hash__: n0NejTgAeh6Qa7YXpYu3b3Ls_SpkKizfvp-5sbP6anE
 seo:
   title: サービスメッセージを送信する
   description: null
@@ -18,7 +18,7 @@ seo:
 
 サービスメッセージは、LINEミニアプリ上でのユーザーの操作（アクション）に対する確認や応答として、ユーザーが知っておくべき情報をLINEミニアプリから通知する機能です。たとえば、ユーザーがLINEミニアプリ上でレストランや宿泊施設を予約した場合、「予約」という1つの操作に対して、予約完了や前日のリマインドといったサービスメッセージを最大5回まで送信できます。
 
-![LINEミニアプリ お知らせ](/media/line-mini-app/mini-service-messages-ja.png){className="[\"border\",\"w-fix-280\"]"}
+![LINEミニアプリ お知らせ](/media/line-mini-app/mini-service-messages-ja.webp){className="[\"border\",\"w-fix-280\"]"}
 
 ::admonition{title="サービスメッセージの送信条件" type="note"}
 サービスメッセージは、LINEミニアプリ上でのユーザーの操作（アクション）に対する確認や応答としてのみ送信できます。値下げ、ショッピング特典、新商品、割引クーポン、プロモーションなどの情報を含む広告やイベントの通知は禁止されています。サービスメッセージの条件について詳しくは、「[サービスメッセージの条件](/docs/line-mini-app/service/service-operation/#conditions-for-service-messages)」を参照してください。
@@ -28,10 +28,10 @@ seo:
 
 LINEミニアプリから送られたサービスメッセージは、LINEミニアプリの種類にかかわらず、LINEミニアプリを提供する地域ごとに決められたトークルームに表示されます。
 
-| 日本                                                                                                           | タイ                                                                                                                 | 台湾                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| LINEミニアプリ お知らせ                                                                                               | LINE MINI App Notice                                                                                               | LINE MINI App 通知                                                                                               |
-| ![LINEミニアプリ お知らせ](/media/line-mini-app/mini_service_notifier_jp.png){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App Notice](/media/line-mini-app/mini_service_notifier_th.png){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App 通知](/media/line-mini-app/mini_service_notifier_tw.png){className="[\"border\",\"w-fix-280\"]"} |
+| 日本                                                                                                            | タイ                                                                                                                  | 台湾                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| LINEミニアプリ お知らせ                                                                                                | LINE MINI App Notice                                                                                                | LINE MINI App 通知                                                                                                |
+| ![LINEミニアプリ お知らせ](/media/line-mini-app/mini_service_notifier_jp.webp){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App Notice](/media/line-mini-app/mini_service_notifier_th.webp){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App 通知](/media/line-mini-app/mini_service_notifier_tw.webp){className="[\"border\",\"w-fix-280\"]"} |
 
 ## 送信できるサービスメッセージの種類
 

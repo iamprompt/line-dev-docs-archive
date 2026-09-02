@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/actions
-__hash__: vig-mFY83fbRClkGYePSoubXuwoLdJYcYGxCFUblN-k
+__hash__: qj5zEO5CdDTvj3nqqewqSuuLs1itrfS2n1rKYf8BMfI
 seo:
   title: Actions
   description: null
@@ -47,7 +47,7 @@ The message action returns you a text as a user's message. For more information,
 
 The URI action opens a URL in LINE's in-app browser. You can also use the [LINE URL scheme](/docs/messaging-api/using-line-url-scheme/) in the URI action to launch a call app with a given number or open the screen to share any LINE Official Account.
 
-![URI action](/media/messaging-api/actions/quick-reply-uri-action-en.png){className="[\"border\",\"w-fix-240\"]"}
+![URI action](/media/messaging-api/actions/quick-reply-uri-action-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 This is a request body set with URI actions for the quick reply buttons shown in the example above. For more information, see [URI action](/reference/messaging-api/#uri-action) in the Messaging API reference.
 

@@ -7,7 +7,7 @@ description: >-
   LINE contents from rich menus with the action to open the LINE URL scheme.
 meta: '{}'
 path: /en/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: wC9PhUjY6oktzLMlLm6_xWUNI_rvBvoGCCFpj3kqYbc
+__hash__: iW7vghK5vYLf-hke_4MKqPrURUKUxuY5O_2drAIKj4A
 seo:
   description: >-
     You can open Sticker Shop, LIFF app or camera with the LINE URL scheme. The
@@ -90,7 +90,7 @@ type: note
 You can open the camera or camera roll with the URL scheme only from LINE chats, including LINE OpenChat. These URL schemes aren't supported in LINE features other than chatting, LIFF apps or apps other than LINE.
 ::
 
-![](/media/messaging-api/using-line-url-scheme/camera-screen.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/camera-screen.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ![](/media/messaging-api/using-line-url-scheme/camera-roll.png){className="[\"border\",\"w-fix-240\"]"}
 
@@ -240,7 +240,7 @@ With the LINE URL scheme, you can let users open their "My profile" screen. On t
 
 With the LINE URL scheme, you can let users open different LINE screens, including the Chats tab.
 
-![](/media/messaging-api/using-line-url-scheme/shopping-tab-en.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/shopping-tab-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URL scheme                         | Description                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------- |

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-follower-ids
-__hash__: X58AKsiBz8ypKXhf78pIN6DoWn-7SsXqxiApjnMZJ6A
+__hash__: ObPuxKMvCRm5iFGOZ2mOJ4J-HPMXa9yGqJrAKOz9Ux4
 seo:
   description: ''
 ---
@@ -35,7 +35,7 @@ seo:
     このエンドポイントで取得したユーザーIDに対してメッセージを送信しても、ユーザーの操作が原因でメッセージが送信できない場合があります。主な原因は以下のとおりです。
 
     - ユーザーIDを取得してからメッセージを送信するまでの間に、ユーザーが対象のLINE公式アカウントをブロックした。
-    - ユーザーが対象のLINE公式アカウントを友だち追加した後に、[LINEアカウントを削除](https://guide.line.me/ja/account-and-settings/account-and-profile/line-account-delete.html){rel="[\"nofollow\"]"}した。
+    - ユーザーが対象のLINE公式アカウントを友だち追加した後に、[LINEアカウントを削除](https://guide.line.me/ja/account-and-settings/line-account-delete.html){rel="[\"nofollow\"]"}した。
     ::::
   :::
 

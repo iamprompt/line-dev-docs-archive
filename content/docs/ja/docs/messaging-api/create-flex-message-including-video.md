@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/create-flex-message-including-video
-__hash__: ZeY7_CLikhE83R9LO92MA4re9RfkdWCZ99zFVqu-w_o
+__hash__: pgZhradze-zxVy3kdFThg1knUr5XXT19dy9mT3Z2QwQ
 seo:
   title: 動画を含むFlex Messageを作成する
   description: null
@@ -40,7 +40,7 @@ seo:
 - [動画プレーヤー（動画再生時）](#video-player-screen1)
 - [動画プレーヤー（動画再生終了時）](#video-player-screen2)
 
-![動画再生終了時のトークルーム](/media/messaging-api/create-flex-message-including-video/label-in-chat-room-ja.png){className="[\"h-fix-400\"]"}![動画再生時の動画プレーヤー](/media/messaging-api/create-flex-message-including-video/label-in-video-player1-ja.png){className="[\"h-fix-400\",\"bg-border\"]"}![動画終了時の動画プレーヤー](/media/messaging-api/create-flex-message-including-video/label-in-video-player2-ja.png){className="[\"h-fix-400\",\"bg-border\"]"}
+![動画再生終了時のトークルーム](/media/messaging-api/create-flex-message-including-video/label-in-chat-room-ja.webp){className="[\"h-fix-400\"]"}![動画再生時の動画プレーヤー](/media/messaging-api/create-flex-message-including-video/label-in-video-player1-ja.webp){className="[\"h-fix-400\",\"bg-border\"]"}![動画終了時の動画プレーヤー](/media/messaging-api/create-flex-message-including-video/label-in-video-player2-ja.webp){className="[\"h-fix-400\",\"bg-border\"]"}
 
 ## 動画を含むFlex Messageの定義
 

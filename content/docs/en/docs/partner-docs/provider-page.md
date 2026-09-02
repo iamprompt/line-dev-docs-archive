@@ -6,7 +6,7 @@ description: >-
   the LINE Platform.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/provider-page
-__hash__: iUmVC-yHH7886fY9KUaWEmxj--lFkv7fsp7TYqWBPfU
+__hash__: FQQGIiY4ilANQb8eVXq0E4s_yjxE1e7Yp1CwFVHKvto
 seo:
   title: Provider page
   description: >-
@@ -28,7 +28,7 @@ Only corporate users who have submitted the required applications can use the fu
 
 A provider page is a list of the various services offered by the :glossary-tooltip[[Provider](/glossary/#provider)]{glossary-id="provider"} on the LINE Platform. Providers can display the services they offer, such as LINE Official Account (Messaging API), LINE MINI App and LINE Login , on the provider page.
 
-![provider page sample](/media/partner-docs/provider-page-en.png){className="[\"border\",\"w-fix-360\"]"}
+![provider page sample](/media/partner-docs/provider-page-en.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ## Provider page settings
 

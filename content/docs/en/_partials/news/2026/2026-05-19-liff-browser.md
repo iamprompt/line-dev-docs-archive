@@ -8,7 +8,7 @@ description: >-
   tapped, as well as replacing the minimize button with the close button.
 meta: '{"date":"2026-05-19 00:00 UTC","tags":"line-mini-app, liff","locale":"en"}'
 path: /en/_partials/news/2026/2026-05-19-liff-browser
-__hash__: kkeDL7iMJzyk3VmYz28JT3Q2h0dlRDjLJxu4kuLPvjg
+__hash__: 2qGVEglYJNGavXEgLwr4IC3c7fX-c5d06cHUXWvSjD0
 seo:
   title: Changes to LIFF browser header specifications from LINE version 26.7.0
   description: >-
@@ -44,9 +44,9 @@ Previously, the action button used an icon representing the multi-tab view. From
 
 Previously, tapping the action button opened the multi-tab view. From LINE version 26.7.0 or later, tapping the action button now opens a dropdown menu.
 
-| Before change                                                                               | LINE version 26.7.0 or later                                                                |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| ![](/media/news/2026/action-button-tap-asis-en.png){className="[\"border\",\"w-fix-300\"]"} | ![](/media/news/2026/action-button-tap-tobe-en.png){className="[\"border\",\"w-fix-300\"]"} |
+| Before change                                                                                | LINE version 26.7.0 or later                                                                 |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ![](/media/news/2026/action-button-tap-asis-en.webp){className="[\"border\",\"w-fix-300\"]"} | ![](/media/news/2026/action-button-tap-tobe-en.webp){className="[\"border\",\"w-fix-300\"]"} |
 
 The dropdown menu contains the following items:
 

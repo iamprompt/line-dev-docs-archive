@@ -6,7 +6,7 @@ description: >-
   version 12.8.0 or later.
 meta: '{"date":"2022-06-02 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-06-02-liff-minimize-for-iphone
-__hash__: 2Gt7ID1FG7aFY-k5wpwDwXwuB7PKj_qeTEPLL7p_l-Q
+__hash__: tgepXQTsNQeWe5XrNdrNsDJ_4eoMqTw5cbQnc8-qQAg
 seo:
   title: LIFF browser can now be minimized on LINE for iOS version 12.8.0 or later
   description: >-
@@ -16,7 +16,7 @@ seo:
 
 A :glossary-tooltip[[LIFF browser](/glossary/#liff-browser)]{glossary-id="liff-browser"} opened in a chat room can now be minimized on LINE for iOS version 12.8.0 or later.
 
-![LIFF browser minimization](/media/liff/minimizing-liff-app/liff-minimize-en.png)
+![LIFF browser minimization](/media/liff/minimizing-liff-app/liff-minimize-en.webp)
 
 Previously, when viewing a LIFF browser in a chat room, the user had to close the LIFF browser to perform another action, such as sending a message to the chat room. To return to the LIFF browser after performing the action, the user had to reopen the LIFF browser.
 

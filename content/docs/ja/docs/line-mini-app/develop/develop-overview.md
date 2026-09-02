@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/develop-overview
-__hash__: Db1MrXHx6R49EJsm5c-OmA_ApuHB48bGzZfh5hYT-Vw
+__hash__: lKr5bRt5pndT53NT31TCJShecXYWg_7oudIqWJLxDIw
 seo:
   title: 開発を始めよう
   description: null
@@ -134,7 +134,7 @@ LINEミニアプリ用として提供されるAPIは、LIFF APIと[サービス�
 
 [LINE Developersコンソール](/console/)の［**ウェブアプリ設定**］タブで［**開発用**］または［**審査用**］の［**エンドポイントURL**］にベーシック認証のかかったURLを指定します。そして、LINEミニアプリを:glossary-tooltip[[LIFFブラウザ](/glossary/#liff-browser)]{glossary-id="liff-browser"}で開くと、ユーザー名とパスワードの入力を促すダイアログが表示されます。
 
-![ベーシック認証画面](/media/line-mini-app/basic-auth.png){className="[\"border\",\"w-fix-240\"]"}
+![ベーシック認証画面](/media/line-mini-app/basic-auth.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### ベーシック認証が利用できる条件
 

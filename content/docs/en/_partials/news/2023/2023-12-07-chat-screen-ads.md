@@ -8,7 +8,7 @@ description: >-
   your LINE Official Account.
 meta: '{"date":"2023-12-07 00:00 UTC","tags":"line-official-account","locale":"en"}'
 path: /en/_partials/news/2023/2023-12-07-chat-screen-ads
-__hash__: AqQ2CmsNjoG1V6X8sPPm_HzY7-wF_k3ArYzDHbo08GQ
+__hash__: wLfgBiLd7nK4UKd9B5eBRaQpG9su5RrhPHY023vh3Lg
 seo:
   title: >-
     We have started offering a chat screen ads feature that allows you to
@@ -22,6 +22,6 @@ We have started offering a chat screen ads feature that allows you to monetize y
 
 By using the chat screen ads feature, you can show ads in the chat rooms of the LINE Official Accounts that you provide, and earn a portion of the ad revenue generated based on ad impressions.
 
-![Ads are displayed at the top of the chat screen](/media/news/2023/chat-screen-ads-en.png){className="[\"border\",\"w-fix-240\"]"}
+![Ads are displayed at the top of the chat screen](/media/news/2023/chat-screen-ads-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 For more information about how to use chat screen ads feature, see [Chat screen ads](https://www.lycbiz.com/jp/manual/OfficialAccountManager/chatscreenads/){rel="[\"nofollow\"]"} (only available in Japanese) in LINE for Business.

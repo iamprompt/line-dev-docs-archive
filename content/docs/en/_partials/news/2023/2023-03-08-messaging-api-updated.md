@@ -6,7 +6,7 @@ description: >-
   included in the mention property of the webhooks.
 meta: '{"date":"2023-03-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2023/2023-03-08-messaging-api-updated
-__hash__: pyL6QhWvR3smhTNwB0crxB5Ud4oInVIcM2x3LwV_5wk
+__hash__: n5Cohi7QotAQEIbtN0-LF6JmH0_tCLIQfaEqhxgEejQ
 seo:
   title: Messaging API now includes @All in the mention property of the webhooks
   description: >-
@@ -61,4 +61,4 @@ The following is an example of a webhook sent to the bot server when a user send
 
 For more information about `mention` property, see the [Text](/reference/messaging-api/#wh-text) section of [Message event](/reference/messaging-api/#message-event) in the Messaging API reference.
 
-For more information on the All Mentions function that specifies the entire group, see [How to use the Chat Mentions function](https://guide.line.me/ja/chats-calls-notifications/chats/chat-mention.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
+For more information on the All Mentions function that specifies the entire group, see [How to use the Chat Mentions function](https://guide.line.me/ja/communication/chat-mention.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.

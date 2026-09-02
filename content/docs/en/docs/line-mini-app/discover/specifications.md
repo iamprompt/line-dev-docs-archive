@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/specifications
-__hash__: SwuYNfsK7okhTXDnCPEZYLDD-EXQO272B_JYRYQ4lH4
+__hash__: 1BLH8WuMycQlWa7gSzYsO2z-hOypskMBoS6PXZJ-Ywg
 seo:
   title: LINE MINI App specifications
   description: null
@@ -18,7 +18,7 @@ seo:
 
 When developing a LINE MINI App, you can use almost any [HTML5](https://html.spec.whatwg.org/){rel="[\"nofollow\"]"} specification. For example, you can use [Geolocation API](https://www.w3.org/TR/geolocation/){rel="[\"nofollow\"]"} to acquire information regarding the user's location, and provide users with information on nearby shops. Most Map APIs that are compatible with HTML5 can be used, including the Google Maps API.
 
-![](/media/line-mini-app/mini_map_api.png){className="[\"w-fix-280\"]"}
+![](/media/line-mini-app/mini_map_api.webp){className="[\"w-fix-280\"]"}
 
 ### Support Media Formats
 

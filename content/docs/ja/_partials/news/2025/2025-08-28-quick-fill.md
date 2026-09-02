@@ -7,7 +7,7 @@ meta: >-
   {"date":"2025-08-28 00:00 UTC","tags":"line-mini-app, liff,
   options-for-corporate-customers","locale":"ja"}
 path: /ja/_partials/news/2025/2025-08-28-quick-fill
-__hash__: Bw7PNGM4hdb4bAqTH50y40NK0PSdsUlaOpjZRWTua4E
+__hash__: mKuG823uOtpBmJ6qqUquCDW4CFNr9mXdqx75luDOCuM
 seo:
   title: LINEミニアプリにおいて共通プロフィールのクイック入力機能を正式にリリースしました
   description: >-
@@ -16,7 +16,7 @@ seo:
 
 LINEミニアプリにおいて、共通プロフィールのクイック入力機能を正式にリリースしました。クイック入力とは、ユーザーがアカウントセンターで設定した共通プロフィールの情報を、LINEミニアプリで利用するための機能です。ユーザーがLINEミニアプリ上で［**自動入力**］をタップすると、必要なプロフィール情報が自動で入力されます。
 
-![](/media/line-mini-app/quick-fill/quick-fill-3-steps.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/quick-fill-3-steps.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 このクイック入力は、これまで特定の法人ユーザーに限定して提供していました。今回のリリースにより、[クイック入力の利用申請](/docs/line-mini-app/quick-fill/overview/#step-one-quick-fill-application)を行うことで、認証済ミニアプリでクイック入力を利用できるようになりました。
 

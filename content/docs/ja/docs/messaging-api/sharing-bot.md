@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/sharing-bot
-__hash__: C3kIM_JnLA9Ph3jqHvZjJL39qaBkVy-vVGCglwFeLUs
+__hash__: E00QkxCilXQQs6ylPrngofjhGINBeuo-50T30W7kBJw
 seo:
   title: LINE公式アカウントの友だちを増やす
   description: null
@@ -80,7 +80,7 @@ LINE Social Pluginsが生成する［**友だち追加**］ボタンを利用す
 
 たとえば、[リッチメニュー](/docs/messaging-api/using-rich-menus/)または[テンプレートメッセージ](/docs/messaging-api/message-types/#template-messages)の[URIアクションオブジェクト](/reference/messaging-api/#uri-action)にこのURLスキームを指定します。このLINE URLスキームついて詳しくは、「[LINE公式アカウントをシェアする](/docs/messaging-api/using-line-url-scheme/#sharing-line-official-account)」を参照してください。
 
-![](/media/messaging-api/sharing-bot/recommend-line-developers-rich-menu.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/sharing-bot/recommend-line-developers-rich-menu.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## LINEログイン時にLINE公式アカウントの友だち追加を促す
 

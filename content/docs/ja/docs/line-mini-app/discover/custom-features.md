@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/custom-features
-__hash__: jkl93gdXzMI1-IePsR2sc30x93Xl5XbUePmGqp8W4Vs
+__hash__: c1amWZt3vX5jEHBIzTJbD5iNiY17Zyalce-Z4wAM3b4
 seo:
   title: カスタム機能
   description: null
@@ -36,10 +36,10 @@ seo:
 
 LINEミニアプリから送られたサービスメッセージは、LINEミニアプリの種類にかかわらず、LINEミニアプリを提供する地域ごとに決められたトークルームに表示されます。
 
-| 日本                                                                                                           | タイ                                                                                                                 | 台湾                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| LINEミニアプリ お知らせ                                                                                               | LINE MINI App Notice                                                                                               | LINE MINI App 通知                                                                                               |
-| ![LINEミニアプリ お知らせ](/media/line-mini-app/mini_service_notifier_jp.png){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App Notice](/media/line-mini-app/mini_service_notifier_th.png){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App 通知](/media/line-mini-app/mini_service_notifier_tw.png){className="[\"border\",\"w-fix-280\"]"} |
+| 日本                                                                                                            | タイ                                                                                                                  | 台湾                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| LINEミニアプリ お知らせ                                                                                                | LINE MINI App Notice                                                                                                | LINE MINI App 通知                                                                                                |
+| ![LINEミニアプリ お知らせ](/media/line-mini-app/mini_service_notifier_jp.webp){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App Notice](/media/line-mini-app/mini_service_notifier_th.webp){className="[\"border\",\"w-fix-280\"]"} | ![LINE MINI App 通知](/media/line-mini-app/mini_service_notifier_tw.webp){className="[\"border\",\"w-fix-280\"]"} |
 
 サービスメッセージを送信するには、サービスメッセージAPIを使用します。詳しくは、「[サービスメッセージを送信する](/docs/line-mini-app/develop/service-messages/)」を参照してください。
 
@@ -71,7 +71,7 @@ Custom Pathとは、本番用のLIFF URLに設定する独自の文字列のこ�
 
 クイック入力とは、LINEミニアプリ上で［**自動入力**］をタップすることで、必要なプロフィール情報が自動で入力される機能です。ユーザーがアカウントセンターで設定した共通プロフィールの情報が、LINEミニアプリで簡単に利用できます。詳しくは、[共通プロフィールのクイック入力の概要](/docs/line-mini-app/quick-fill/overview/)を参照してください。
 
-![](/media/line-mini-app/quick-fill/quick-fill-3-steps.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/quick-fill-3-steps.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 LINEミニアプリにクイック入力を導入すると、住所や電話番号の登録が必要な場面で、ボタンをタップするだけで必要な情報が自動で入力されます。これにより、たとえば店舗の予約やオンラインストアでの注文時に、ユーザーは面倒な手入力の手間を省くことができます。
 
@@ -89,7 +89,7 @@ LINEミニアプリでは、友だち追加オプションを使って、[アク
 
 詳しくは、 「[友だち追加オプション](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel)」を参照してください。
 
-![bot link feature 1](/media/line-mini-app/miniguide-incremental-01-ja.png){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![bot link feature 2](/media/line-mini-app/miniguide-incremental-02-ja.png){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
+![bot link feature 1](/media/line-mini-app/miniguide-incremental-01-ja.png){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![bot link feature 2](/media/line-mini-app/miniguide-incremental-02-ja.webp){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
 
 また、[`liff.requestFriendship()`](/reference/liff/#request-friendship)メソッドを用いて、任意のタイミングでLINE公式アカウントの友だち追加、またはブロック解除を促すサブウィンドウを表示することも可能です。
 

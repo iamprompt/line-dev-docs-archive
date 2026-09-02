@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/send-coupons-to-users
-__hash__: Q3DWl-z5Icn5Wu0Sn4Eoiw0NoD8RmhB52d0i3qCQfug
+__hash__: Lkam_MGDo_1WivvwtPLa-cb6kRmcapMT00-KUlR0_6Y
 seo:
   title: クーポンを作成してユーザーに送る
   description: null
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsMessaging APIでクーポンを作成して、LINE公式アカウントからユーザーにメッセージとして送信できます。
 
-![](/media/messaging-api/coupon/several-coupons.jpg)
+![](/media/messaging-api/coupon/several-coupons.webp)
 
 :toc## Messaging APIでクーポンを送る手順
 

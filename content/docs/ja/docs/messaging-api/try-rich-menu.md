@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/try-rich-menu
-__hash__: dI-FmzWbgEjG-LXLdGqvxJruNVr2YGthL-iNS3P92-4
+__hash__: 6x9LWzz6XJtq8XrJxEHqfw0-SI4Ry_mYNZwCeFceABU
 seo:
   title: リッチメニューを試す
   description: null
@@ -49,7 +49,7 @@ seo:
 
 アクションを試すと、リッチメニュープレイグラウンドはそのアクションを実行し、実行されたアクションの詳細を表示します。これは、特にアクションが視覚的な結果を表示しない場合に、アクションが実行されたことを確認するのに役立ちます。アクションの詳細には、アクションの説明、アクションの設定（パラメータ）、LINEプラットフォームがボットサーバーに送信したWebhookイベントなどが含まれます。
 
-![アクション実行後のメッセージ](/media/messaging-api/rich-menu-playground/message.png){className="[\"w-fix-640\"]"}
+![アクション実行後のメッセージ](/media/messaging-api/rich-menu-playground/message.webp){className="[\"w-fix-640\"]"}
 
 ## リッチメニュープレイグラウンドで試せるアクション
 
@@ -142,7 +142,7 @@ LINE公式アカウントとのトークで、ユーザーがリッチメニュ�
 
 このタブでは、リッチメニューから[日時選択アクション](/reference/messaging-api/#datetime-picker-action)を実行することができます。このアクションを実行すると、日付と時刻の選択ダイアログが表示されます。日付を選択すると、LINEプラットフォームは選択した日付と時刻の[ポストバックイベント](/reference/messaging-api/#postback-event)をボットサーバーに送信します。
 
-![日時選択アクションを試す](/media/messaging-api/rich-menu-playground/04-datetime-picker-action-ja.png){className="[\"w-fix-320\"]"}
+![日時選択アクションを試す](/media/messaging-api/rich-menu-playground/04-datetime-picker-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | ボタン                        | 説明                                           | 設定値（アクションオブジェクトの値）                                                                                                                        |
 | -------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -156,7 +156,7 @@ LINE公式アカウントとのトークで、ユーザーがリッチメニュ�
 
 このタブでは、リッチメニューから[リッチメニュー切替アクション](/reference/messaging-api/#richmenu-switch-action)を実行することができます。このアクションを実行すると、リッチメニューは[リッチメニューエイリアス](/docs/messaging-api/switch-rich-menus/)で定義されたメニューに切り替わります。リッチメニューが切り替わると、LINEプラットフォームはボットサーバーに[ポストバックイベント](/reference/messaging-api/#postback-event)を送信します。このイベントには、ポストバックアクションオブジェクトの`data`プロパティと`postback.params`オブジェクトに指定した値が含まれます。
 
-![リッチメニュー切替アクションを試す](/media/messaging-api/rich-menu-playground/05-rich-menu-switch-action-ja.png){className="[\"w-fix-320\"]"}
+![リッチメニュー切替アクションを試す](/media/messaging-api/rich-menu-playground/05-rich-menu-switch-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | ボタン                  | 説明                                                                            | 設定値（アクションオブジェクトの値）                                                                                                            |
 | -------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |

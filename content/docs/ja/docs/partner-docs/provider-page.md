@@ -4,7 +4,7 @@ navigation: true
 description: プロバイダーページとは、プロバイダーがLINEプラットフォーム上で提供している各種サービスの一覧ページです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/provider-page
-__hash__: hN8F50evRrdg8mPIW2h3X7sKfjJXKQkxFdnBYI5FxK4
+__hash__: irMRor7uHe0ypqp_k0I-eU2b-SATkHTkxwmWuydb6UM
 seo:
   title: プロバイダーページ
   description: プロバイダーページとは、プロバイダーがLINEプラットフォーム上で提供している各種サービスの一覧ページです。
@@ -20,7 +20,7 @@ seo:
 
 プロバイダーページとは、:glossary-tooltip[[プロバイダー](/glossary/#provider)]{glossary-id="provider"}がLINEプラットフォーム上で提供している各種サービスの一覧ページです。プロバイダーが提供しているLINE公式アカウント（Messaging API）、LINEミニアプリ、LINEログインのサービスをプロバイダーページに表示できます。
 
-![プロバイダーページの例](/media/partner-docs/provider-page-ja.png){className="[\"border\",\"w-fix-360\"]"}
+![プロバイダーページの例](/media/partner-docs/provider-page-ja.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ## プロバイダーページを設定する
 

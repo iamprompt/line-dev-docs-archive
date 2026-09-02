@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに新たな機能が追加されました。今回のアップデートで追加された機能は以下のとおりです。
 meta: '{"date":"2021-03-10 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-03-10-messaging-api-update-march-2021
-__hash__: OKjkUHl14-b6YMYtyN45KA2gUJyyTTZhz_8ddgeanyo
+__hash__: OyGYw1UXD5ddh0YqE_4MXJ_T1MVJSRCG409IHIuPZao
 seo:
   title: Messaging APIアップデート（2021年3月）
   description: Messaging APIに新たな機能が追加されました。今回のアップデートで追加された機能は以下のとおりです。
@@ -19,7 +19,7 @@ Messaging APIに新たな機能が追加されました。今回のアップデ�
 
 クイックリプライでURIアクションが使えるようになりました。LINE公式アカウントから、クイックリプライボタンを設定したメッセージを送ると、トーク画面の下部にボタンが表示されます。
 
-![URIアクションの例](/media/messaging-api/actions/quick-reply-uri-action-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![URIアクションの例](/media/messaging-api/actions/quick-reply-uri-action-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 クイックリプライでURIアクションを設定すると、ユーザーがボタンをタップしたときに、次のようなことができます。
 

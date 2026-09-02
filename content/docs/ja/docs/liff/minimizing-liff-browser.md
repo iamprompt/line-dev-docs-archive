@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/minimizing-liff-browser
-__hash__: wn3bW_4kHgCyw6Utj7baSU2Tr0I2LxI_qfcxMjs5Oug
+__hash__: OkMSykPpquHmxNuK16Ujmafq3yFBFmDmUgzStZKvmmM
 seo:
   title: LIFFブラウザを最小化する
   description: ''
@@ -22,10 +22,10 @@ seo:
 
 LIFFブラウザは、最小化するとアイコンで表示されます。
 
-![LIFFブラウザの最小化](/media/liff/minimizing-liff-app/liff-minimize-ja.png){className="[\"w-fix-960\"]"}
+![LIFFブラウザの最小化](/media/liff/minimizing-liff-app/liff-minimize-ja.webp){className="[\"w-fix-960\"]"}
 
 ::admonition{title="LINE内ブラウザを最小化する" type="tip"}
-LIFFブラウザと同様に、:glossary-tooltip[[LINE内ブラウザ](/glossary/#line-iab)]{glossary-id="line-iab"}も最小化に対応しています。詳しくは、『LINEみんなの使い方ガイド』の「[閲覧中のWEBページを最小化する](https://guide.line.me/ja/chats-calls-notifications/chats/minimizebrowser.html){rel="[\"nofollow\"]"}」を参照してください。
+LIFFブラウザと同様に、:glossary-tooltip[[LINE内ブラウザ](/glossary/#line-iab)]{glossary-id="line-iab"}も最小化に対応しています。詳しくは、『LINEみんなの使い方ガイド』の「[閲覧中のWEBページを最小化する](https://guide.line.me/ja/services/minimizebrowser.html){rel="[\"nofollow\"]"}」を参照してください。
 ::
 
 ## LIFFブラウザの最小化の使用条件
@@ -64,13 +64,13 @@ LIFFブラウザを最小化するには、以下の3つの方法があります
 
 アプリ内通知をタップします。
 
-![LIFFブラウザの最小化（アプリ内通知をタップする）](/media/liff/minimizing-liff-app/tap-in-app-alert.png){className="[\"w-fix-600\"]"}
+![LIFFブラウザの最小化（アプリ内通知をタップする）](/media/liff/minimizing-liff-app/tap-in-app-alert.webp){className="[\"w-fix-600\"]"}
 
 ### LIFFブラウザをスワイプする
 
 LIFFブラウザを下方向へスワイプします。
 
-![LIFFブラウザの最小化（LIFFブラウザをスワイプする）](/media/liff/minimizing-liff-app/swipe-liff-browser-ja.png){className="[\"w-fix-600\"]"}
+![LIFFブラウザの最小化（LIFFブラウザをスワイプする）](/media/liff/minimizing-liff-app/swipe-liff-browser-ja.webp){className="[\"w-fix-600\"]"}
 
 ### アクションボタンからオプションをタップする（LINEバージョン26.7.0未満の場合）
 
@@ -82,13 +82,13 @@ LIFFブラウザを下方向へスワイプします。
 
 LIFFブラウザを最大化するには、最小化したLIFFブラウザをタップします。
 
-![LIFFブラウザの最大化](/media/liff/minimizing-liff-app/maximize-liff-browser-ja.png){className="[\"w-fix-600\"]"}
+![LIFFブラウザの最大化](/media/liff/minimizing-liff-app/maximize-liff-browser-ja.webp){className="[\"w-fix-600\"]"}
 
 ## 最小化したLIFFブラウザを移動する
 
 最小化したLIFFブラウザを移動するには、ドラッグします。
 
-![最小化したLIFFブラウザの移動](/media/liff/minimizing-liff-app/move-minimized-liff-browser-ja.png){className="[\"w-fix-600\"]"}
+![最小化したLIFFブラウザの移動](/media/liff/minimizing-liff-app/move-minimized-liff-browser-ja.webp){className="[\"w-fix-600\"]"}
 
 ## 最小化したLIFFブラウザを閉じる（LINEバージョン15.20.0未満の場合）
 
@@ -101,7 +101,7 @@ LINEバージョン15.20.0未満の場合、最小化したLIFFブラウザを�
 
 最小化したLIFFブラウザを、画面外にスワイプします。
 
-![最小化したLIFFブラウザを閉じる](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ja.png){className="[\"w-fix-600\"]"}
+![最小化したLIFFブラウザを閉じる](/media/liff/minimizing-liff-app/close-minimized-liff-browser-ja.webp){className="[\"w-fix-600\"]"}
 
 ### LIFFブラウザを閉じるアイコンにドラッグする
 

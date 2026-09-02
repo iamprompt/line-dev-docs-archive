@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/send-coupons-to-users
-__hash__: 8eAIw_bA-oG0f_8klPveBqwILbHwytnM1Fhx5ZoO_js
+__hash__: x_JJwEkWt3wFigT3hM6CYPbvmW2hj-7nrijtEiqOl6Y
 seo:
   title: Create coupons and send them to users
   description: null
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsYou can create coupons using the Messaging API and send them to users as messages from your LINE Official Account.
 
-![](/media/messaging-api/coupon/several-coupons.jpg)
+![](/media/messaging-api/coupon/several-coupons.webp)
 
 :toc## Steps to send coupons using the Messaging API
 

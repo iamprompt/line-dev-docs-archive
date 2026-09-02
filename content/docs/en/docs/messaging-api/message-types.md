@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/message-types
-__hash__: 7ZyAiRsxxS-7FFtDa8WZojabV9wfznmVt9xF1k_0-LI
+__hash__: Wssoxx3RaKkw0e8UqGpB5oMH0nNQhQ7Wwnvku_L3p84
 seo:
   title: Message types
   description: null
@@ -52,7 +52,7 @@ You can continue to use text messages that we've been providing up until now. Ho
 
 Stickers help you to make your bot more appealing and enjoyable to users. To send a sticker with the Messaging API, specify the sticker's package ID and sticker ID in the [message object](/reference/messaging-api/#message-objects). Check a list of available [stickers](/docs/messaging-api/sticker-list/) you can send. For more information, see the [Sticker message](/reference/messaging-api/#sticker-message) in the Messaging API reference.
 
-![Sticker message](/media/messaging-api/messages/sticker.png){className="[\"border\",\"w-fix-240\"]"}
+![Sticker message](/media/messaging-api/messages/sticker.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Image message
 
@@ -88,7 +88,7 @@ Location messages deliver location information to users. Specify in the [message
 
 Coupon messages deliver coupons to users by specifying a coupon ID.
 
-![](/media/messaging-api/coupon/several-coupons.jpg)
+![](/media/messaging-api/coupon/several-coupons.webp)
 
 For more information, see [Coupon message](/reference/messaging-api/#coupon-message) in the Messaging API reference.
 
@@ -115,7 +115,7 @@ For more information about template messages, see [Template messages](/reference
 
 Buttons templates contain slots for an image, title, text and [action](/docs/messaging-api/actions/) buttons. In addition to buttons, you can set an action also on image, title, or text area. An action is triggered when a user taps the entity set with an action. For more information, see [Buttons template](/reference/messaging-api/#buttons) in the Messaging API reference.
 
-![Buttons template message](/media/messaging-api/messages/buttons.png){className="[\"border\",\"w-fix-240\"]"}
+![Buttons template message](/media/messaging-api/messages/buttons.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### Confirm template
 
@@ -129,13 +129,13 @@ Carousel templates contain multiple columns that users can cycle through. In add
 
 An action is triggered when a user taps anywhere in the image, title, or text area of a column object. For more information, see [Carousel template](/reference/messaging-api/#carousel) in the Messaging API reference.
 
-![Carousel template message](/media/messaging-api/messages/carousel.png){className="[\"border\",\"w-fix-240\"]"}
+![Carousel template message](/media/messaging-api/messages/carousel.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### Image carousel template
 
 Image carousel templates contain multiple images that users can cycle through. For more information, see [Image carousel template](/reference/messaging-api/#image-carousel) in the Messaging API reference.
 
-![Image carousel template message](/media/messaging-api/messages/image-carousel.png){className="[\"border\",\"w-fix-240\"]"}
+![Image carousel template message](/media/messaging-api/messages/image-carousel.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Flex Message
 

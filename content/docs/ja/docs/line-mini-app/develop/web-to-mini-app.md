@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/web-to-mini-app
-__hash__: HoCUAV03TirjFQ9onVlHmjJlk4suPPvId_aeEf02ixc
+__hash__: N9LnHE6yyFGh3HWnzXWF95ubAmxkppR6HzvO5DNYHcY
 seo:
   title: 運用中のウェブアプリをLINEミニアプリ化する
   description: null
@@ -20,7 +20,7 @@ seo:
 
 また、[サービスメッセージ](/docs/line-mini-app/develop/service-messages/)という機能により、LINEミニアプリ上でのユーザーの操作に対する応答として、LINEミニアプリからユーザーに通知を送ることができます。HTML5のほぼすべての仕様もサポートしており、たとえば[位置情報API](https://developer.mozilla.org/ja/docs/Web/API/Geolocation_API){rel="[\"nofollow\"]"}を用いることで、ユーザーの位置情報を取得できます。
 
-![](/media/line-mini-app/develop/product-image.png){className="[\"w-fix-400\",\"bg-border\"]"}
+![](/media/line-mini-app/develop/product-image.webp){className="[\"w-fix-400\",\"bg-border\"]"}
 
 このように、ウェブアプリをLINEミニアプリにすることで、面倒なログインやプロフィールの入力などによるユーザーの離脱を防げます。LINEミニアプリの利用もLINEアプリからすぐに開始でき、またLINEアプリ上ですべての操作が完結するため、ユーザー体験を向上させることができます。
 

@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-06-28 00:00 UTC","tags":"line-login, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-06-28-require-2fa-on-channels
-__hash__: tDwlB7m4v03KS0cvJL5uCzbvBv1B8tEeJ3jiH7OdVHQ
+__hash__: pd22NsuTp5CG-McLpkxHGjD-H62WAQr4acMkUMmgrzE
 seo:
   title: >-
     [Updated] Service providers can now require two-factor authentication for
@@ -52,7 +52,7 @@ If the user logs in to the service for the first time, or if the device or brows
 
 If the IP address changes, the user is not prompted to enter the verification code.
 
-![The flow of two-factor authentication](/media/news/2023/login-flow-with-2fa-en.png){className="[\"w-fix-760\"]"}
+![The flow of two-factor authentication](/media/news/2023/login-flow-with-2fa-en.webp){className="[\"w-fix-760\"]"}
 
 Unless the user switch accounts or delete browser's cookies, they'll remain trusted for 365 days and they won't be asked to enter a verification code.
 

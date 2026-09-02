@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/develop-overview
-__hash__: kS7IpWq6WL63cFqmrf8YrfccvimIc5vtkuAC5pA7wFs
+__hash__: xnoq54wTLK3ZbRO58EoK43WzQiySBIdu-82Z-_Zh1Fw
 seo:
   title: Getting started
   description: null
@@ -146,7 +146,7 @@ Basic authentication is available for LINE MINI Apps with the status "Not yet re
 
 In the **Web app settings** tab on the [LINE Developers Console](/console/), specify the URL with basic authentication in the **Endpoint URL** for **Developing** or **Review**. Then open the LINE MINI App in the :glossary-tooltip[[LIFF browser](/glossary/#liff-browser)]{glossary-id="liff-browser"} and a dialog box will appear prompting you to enter your username and password.
 
-![Basic authentication screen](/media/line-mini-app/basic-auth.png){className="[\"border\",\"w-fix-240\"]"}
+![Basic authentication screen](/media/line-mini-app/basic-auth.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### Conditions for basic authentication
 

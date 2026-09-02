@@ -6,7 +6,7 @@ description: >-
   APIを利用した高度な機能を簡単に追加することができます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module
-__hash__: 00Kf623V4yp3Fbv04HyS_wAd_4ijnjGGYsjbQJvj6go
+__hash__: KUMaNB_KmplADXinenWDkAtaD0kwFhT0dJbLFP3qquM
 seo:
   title: モジュール
   description: >-
@@ -24,7 +24,7 @@ seo:
 
 モジュールは、LINE公式アカウントに連携（アタッチ）することで、LINE公式アカウントにMessaging APIを利用した機能を追加できる仕組みです。モジュールは、[チャネルの1種（モジュールチャネル）](/docs/line-developers-console/overview/#channel)として提供されます。LINE公式アカウントがMessaging APIチャネルを作成していなくても、モジュールチャネルからMessaging APIを呼び出し、ユーザーにメッセージを送信したり、リッチメニューを設定することができます。
 
-![module channel](/media/partner-docs/module/module-channel.png){className="[\"border\",\"w-fix-1040\"]"}
+![module channel](/media/partner-docs/module/module-channel.webp){className="[\"border\",\"w-fix-1040\"]"}
 
 ### モジュールチャネルとLINE公式アカウントの関係性
 
@@ -50,7 +50,7 @@ LINE公式アカウントの応答設定で[Webhookの利用を無効](/referenc
 受信したWebhookイベントの内容に応じて、モジュールチャネルからユーザーに対してメッセージを送信するといった実装が可能です。
 ::
 
-![サンプル](/media/partner-docs/module/module-sample.png){className="[\"border\",\"w-fix-240\"]"}
+![サンプル](/media/partner-docs/module/module-sample.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | 番号  | 説明                                                                 |
 | --- | ------------------------------------------------------------------ |

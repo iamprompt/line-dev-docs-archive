@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-beacons
-__hash__: 8e3HZdMN3Q8MejjpcLGvmkqblm4QGegFuSojRxpR_rc
+__hash__: hE4BFHN-wF567XRr2ijAjsGmxOFpmv1MS5NndQLL_X4
 seo:
   title: Use beacons with LINE
   description: null
@@ -94,4 +94,4 @@ When the users tap the beacon banner, the web page specified by the LINE Officia
 The beacon banner is available only to corporate users. To use the beacon banner, contact your LINE representative or make an inquiry through the [LY for Business](https://www.lycbiz.jp/en/){rel="[\"nofollow\"]"} website.
 ::
 
-![](/media/messaging-api/using-beacons/beacon-banner_en.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/messaging-api/using-beacons/beacon-banner_en.webp){className="[\"border\",\"w-fix-320\"]"}

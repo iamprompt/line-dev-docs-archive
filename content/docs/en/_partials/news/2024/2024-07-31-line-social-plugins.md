@@ -8,7 +8,7 @@ description: >-
   a pop-up will appear to select the destination.
 meta: '{"date":"2024-07-31 00:00 UTC","tags":"social-plugins","locale":"en"}'
 path: /en/_partials/news/2024/2024-07-31-line-social-plugins
-__hash__: vOEVvv_hpjYUk_HcYV6yEoXbLZVCUjbsAfNpaV-vq8Y
+__hash__: qCaBGr4kqqrUiIktcrGrc8avMcBPNzznZytUm8UAGPk
 seo:
   title: >-
     In the LINE Social Plugins, we've changed the destination when clicking the
@@ -22,7 +22,7 @@ In the [LINE Social Plugins](/docs/line-social-plugins/general/overview/), when 
 
 Previously, you could choose either "Chat" or "Keep" as your destination, but since the Keep service will be discontinued on August 28, 2024, we've changed "Keep" to "Keep Memo".
 
-![](/media/news/2024/share-button-keep-memo-en.png){className="[\"w-fix-480\"]"}
+![](/media/news/2024/share-button-keep-memo-en.webp){className="[\"w-fix-480\"]"}
 
 For more information about the end of the Keep service, see [About the end of the Keep service](https://help.line.me/line/smartphone/?contentId=20027624&lang=en){rel="[\"nofollow\"]"} in the Help Center.
 

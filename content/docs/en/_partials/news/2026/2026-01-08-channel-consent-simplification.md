@@ -9,7 +9,7 @@ description: >-
   January 8, 2026.
 meta: '{"date":"2026-01-08 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-01-08-channel-consent-simplification
-__hash__: D4o5yY68EiVL4yxE4QvFTFU6pOMPSVLfmTedflTV_yo
+__hash__: UKRkAzedJ9jp09rteBZwnwFGg0OvIAlpHJ8mYXxLnKY
 seo:
   title: >-
     For new LINE MINI App channels in Japan, the &quot;Channel consent
@@ -49,7 +49,7 @@ The above changes also apply to unverified MINI Apps if the LINE MINI App channe
 
 In the LINE MINI App, you can use the [add friend option](/docs/line-mini-app/service/line-mini-app-oa/#link-a-line-official-account-with-your-channel) to prompt users to add your LINE Official Account from the [verification screen](/docs/line-mini-app/develop/configure-console/#verification-screen) or the [channel consent screen](/docs/line-mini-app/develop/configure-console/#consent-screen-settings).
 
-![](/media/news/2025/line-mini-app-playground-verification-screen-en.png){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/news/2025/line-mini-app-playground-channel-consent-screen-en.png){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
+![](/media/news/2025/line-mini-app-playground-verification-screen-en.webp){className="[\"border\",\"w-fix-280\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/news/2025/line-mini-app-playground-channel-consent-screen-en.webp){className="[\"border\",\"w-fix-280\",\"inline-block\"]"}
 
 However, if only `openid` is specified in the "Scope" section of the **Web app settings** tab in your LINE MINI App channel, enabling the "Channel consent simplification" feature will prevent the verification screen and the channel consent screen from appearing. As a result, you can't prompt users to add friends using the add friend option.
 

@@ -5,7 +5,7 @@ description: >-
   ステータスが「開発中」または「審査中」のLINEミニアプリで、ベーシック認証が利用できるようになりました。特定の人のみが公開前のLINEミニアプリにアクセスできるよう、ベーシック認証を用いて制限がかけられます。
 meta: '{"date":"2022-04-19 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-19-use-basic-authentication-with-line-mini-app
-__hash__: Pwa3jt-GpYP67sAbrJOvAORw6IRiVKPi-FlesDYlYu4
+__hash__: iDmYEseYLBEOgPUkVZUoSAdsgomIdAZvntR60ESK1lA
 seo:
   title: LINEミニアプリでベーシック認証が利用できるようになりました
   description: >-
@@ -18,7 +18,7 @@ seo:
 
 [LINE Developersコンソール](/console/)の［**LIFF**］タブで［**開発用**］または［**審査用**］の［**エンドポイントURL**］にベーシック認証のかかったURLを指定します。そして、LINEミニアプリを:glossary-tooltip[[LIFFブラウザ](/glossary/#liff-browser)]{glossary-id="liff-browser"}で開くと、ユーザー名とパスワードの入力を促すダイアログが表示されます。
 
-![ベーシック認証画面](/media/line-mini-app/basic-auth.png){className="[\"border\",\"w-fix-240\"]"}
+![ベーシック認証画面](/media/line-mini-app/basic-auth.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### ベーシック認証が利用できる条件
 

@@ -7,7 +7,7 @@ description: >-
   URLスキームを開くアクションを設定しておくことで、メニューをタップしたユーザーに対してLINE内のコンテンツを表示できます。
 meta: '{}'
 path: /ja/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: YfmXfo6LZVW5XgWMJmDyR-2-Ax-mRw8AL-hCIpaW6Ik
+__hash__: vtZqlLpt6SmX0lhZafcAVNf0Kej5qKzQ3rDlQJ7rrJY
 seo:
   description: >-
     LINE URLスキームを使うと、スタンプショップやLIFFアプリを開いたり、カメラを起動したりできます。LINE
@@ -84,7 +84,7 @@ LINEで利用できるURLスキームは以下のとおりです。なお、指�
 このURLスキームは、LINEのトーク（オープンチャットを含む）でのみサポートされます。トーク以外の機能や、LINE以外のアプリ、LIFFアプリではサポートされません。
 ::
 
-![](/media/messaging-api/using-line-url-scheme/camera-screen.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/camera-screen.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ![](/media/messaging-api/using-line-url-scheme/camera-roll.png){className="[\"border\",\"w-fix-240\"]"}
 
@@ -210,7 +210,7 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 
 このLINE URLスキームを使うと、トークタブを含むLINEのさまざまな画面を開きます。
 
-![](/media/messaging-api/using-line-url-scheme/shopping-tab-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/shopping-tab-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URLスキーム                            | 説明                                                 |
 | --------------------------------------- | -------------------------------------------------- |

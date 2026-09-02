@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/messaging-api/technicalcase/skillbox
-__hash__: td0U3Whxf7T2yphlqy_Bx2fjlXhCrycHW_CnYPUXg3M
+__hash__: eHTQkXLQH-pvSB6YkR__kMvbCYLjQg-ZB2TKe2b9K3s
 seo:
   title: 褒めるメンター制度システム「SkillBox」の技術事例
   description: ''
@@ -61,7 +61,7 @@ LINEでの通知に関しては、特段セグメントで切り分けての配�
 
 ## システムの解説
 
-![システム構成図](/media/messaging-api/technicalcase/skillbox/ja/skillbox-system.png)
+![システム構成図](/media/messaging-api/technicalcase/skillbox/ja/skillbox-system.webp)
 
 ### AWSを基盤としたプロジェクトの技術構成
 

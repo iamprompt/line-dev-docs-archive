@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/create-flex-message-including-video
-__hash__: nX3Q9wna6Rlda7ozqtftLfrqGrlYDr71n-yXvLWuPLE
+__hash__: sLo2GOH6syMCJ8OfbF8caxDA15lvtu332VAMvdSAO68
 seo:
   title: Create a Flex Message including a video
   description: null
@@ -40,7 +40,7 @@ Using the `action` property, you can specify a [URI action](/reference/messaging
 - [Video player (during video playback)](#video-player-screen1)
 - [Video player (after video playback)](#video-player-screen2)
 
-![A chat room when a video finishes playing](/media/messaging-api/create-flex-message-including-video/label-in-chat-room-en.png){className="[\"h-fix-400\"]"}![A video player while a video is playing](/media/messaging-api/create-flex-message-including-video/label-in-video-player1-en.png){className="[\"h-fix-400\",\"bg-border\"]"}![A video player when a video finishes playing](/media/messaging-api/create-flex-message-including-video/label-in-video-player2-en.png){className="[\"h-fix-400\",\"bg-border\"]"}
+![A chat room when a video finishes playing](/media/messaging-api/create-flex-message-including-video/label-in-chat-room-en.webp){className="[\"h-fix-400\"]"}![A video player while a video is playing](/media/messaging-api/create-flex-message-including-video/label-in-video-player1-en.webp){className="[\"h-fix-400\",\"bg-border\"]"}![A video player when a video finishes playing](/media/messaging-api/create-flex-message-including-video/label-in-video-player2-en.webp){className="[\"h-fix-400\",\"bg-border\"]"}
 
 ## Define a Flex Message with a video
 

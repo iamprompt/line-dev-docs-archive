@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/check-webhook-error-statistics
-__hash__: JtOE92-Zx12hjkm4fpo_8H7929eza25PqQUEXILp2Ic
+__hash__: GIfPr-_LXBz3soCmW_zG79S7DRkgUvxCEsRf9AsYNnU
 seo:
   title: Webhookのエラーの原因と統計情報を確認する
   description: null
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsMessaging APIでは、Webhookの送信におけるエラーの原因と統計情報を確認できる機能を提供しています。ボットサーバー側の不具合などによりWebhookを受け取ることができなかった場合において、Webhookの送信状況を把握するときなどに役立ちます。
 
-![ボットサーバーからエラーが返ってくるとエラーの統計情報で表示されます](/media/messaging-api/receiving-messages/webhook-error-ja.jpg){className="[\"w-fix-680\"]"}
+![ボットサーバーからエラーが返ってくるとエラーの統計情報で表示されます](/media/messaging-api/receiving-messages/webhook-error-ja.webp){className="[\"w-fix-680\"]"}
 
 ## エラーの統計情報を有効にする
 
@@ -27,7 +27,7 @@ seo:
 
 ［**エラーの統計情報**］をオンにした後、統計情報を確認するには、［**Webhookエラー**］タブをクリックしてください。なおエラーは、［**エラーの統計情報**］をオンにしている期間だけ集計されるため、オフだった期間の分はさかのぼって表示されません。表示されるエラーの、日付や時刻の基準となるタイムゾーンはUTC+9です。また［**TSVファイルをダウンロード**］をクリックして、過去に発生したエラーの情報をTSV形式でダウンロードできます。
 
-![エラーの統計情報](/media/messaging-api/receiving-messages/error-statistics-ja.png){className="[\"border\"]"}
+![エラーの統計情報](/media/messaging-api/receiving-messages/error-statistics-ja.webp){className="[\"border\"]"}
 
 エラーの統計情報には、次の項目が表示されます。
 

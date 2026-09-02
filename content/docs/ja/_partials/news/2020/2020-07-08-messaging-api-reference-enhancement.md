@@ -8,7 +8,7 @@ description: >-
   そのため開発者の皆さんからは、「スクロールしているうちに、どこを見ていたのか分からなくなってしまう」「ページが長すぎて見にくい」といったお声をいただいていました。
 meta: '{"date":"2020-07-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-08-messaging-api-reference-enhancement
-__hash__: '-iXp7MfYwkS_CjzWH8pBgHFz4wT6V_ld0hYzL_iaW2U'
+__hash__: snxluE7xtkJxqpIpBhB-4nr-L6OTSKyf3RjQQeC9V18
 seo:
   title: Messaging APIリファレンスとサイドメニューを改善しました
   description: >-
@@ -35,7 +35,7 @@ LINE Developersサイトの[Messaging APIリファレンス](/reference/messagin
 ページをスクロールすると、自動的にサイドメニューの目次も動いて、「いま見ている場所」を緑色に強調表示するようになりました。
 たとえばページをスクロールしてWebhookの「レスポンス」を見ると、サイドメニューの目次もWebhookの「レスポンス」が強調表示されます。
 
-![Webhookの「レスポンス」を見ているときは、サイドメニューでもWebhookの「レスポンス」が緑色になっている](/media/news/messaging-api-response.png){className="[\"border\",\"w-fix-480\"]"}
+![Webhookの「レスポンス」を見ているときは、サイドメニューでもWebhookの「レスポンス」が緑色になっている](/media/news/messaging-api-response.webp){className="[\"border\",\"w-fix-480\"]"}
 
 「いまはページのどこを見ているんだ？」と思ったら、サイドメニューを見て、いま自分が見ている場所を確認できます。
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/error-notification
-__hash__: '-afBFBJb3-D_O0uSvz4VzX1rgWf6EtnHbtce44Ey88M'
+__hash__: PnmtHPk6K1XoAdw4jJjSugOPObfLXm_GhPPCx2BYmCs
 seo:
   title: Error notification
   description: null
@@ -26,7 +26,7 @@ If the user adds your LINE Official Account as a friend or sends a message to yo
 
 If the bot server doesn't respond or returns a response other than status code `2xx` to this webhook event request, the channel administrator will receive a notification email informing them of the occurrence of the error. This option is called the "error notification" function.
 
-![You will receive a notification email when an error is returned from the bot server](/media/partner-docs/normal-error-notification-en.jpg){className="[\"w-fix-680\"]"}
+![You will receive a notification email when an error is returned from the bot server](/media/partner-docs/normal-error-notification-en.webp){className="[\"w-fix-680\"]"}
 
 ## Notification email
 

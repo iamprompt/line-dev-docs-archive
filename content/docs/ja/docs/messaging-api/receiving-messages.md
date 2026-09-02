@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/receiving-messages
-__hash__: nU_a75-1IuNEDVE1H4RBLHAOy7nqh3nFmjl-jkgpGLQ
+__hash__: YNbLhhY2sxgRKgxO6GtdElgoJYtZcaWPgjjRMnKrCks
 seo:
   title: メッセージ（Webhook）を受信する
   description: null
@@ -100,7 +100,7 @@ Webhookイベントオブジェクトに含まれるデータに基づいて、�
 
 `quotedMessageId`プロパティについて詳しくは、『Messaging APIリファレンス』の「[メッセージイベント](/reference/messaging-api/#message-event)」の「[テキスト](/reference/messaging-api/#wh-text)」および「[スタンプ](/reference/messaging-api/#wh-sticker)」を参照してください。
 
-ユーザーが引用メッセージを送る方法について詳しくは、『LINEみんなの使い方ガイド』の「[トークのリプライ機能を利用する](https://guide.line.me/ja/chats-calls-notifications/chats/chat-reply.html){rel="[\"nofollow\"]"}」を参照してください。
+ユーザーが引用メッセージを送る方法について詳しくは、『LINEみんなの使い方ガイド』の「[トークのリプライ機能を利用する](https://guide.line.me/ja/communication/chat-reply.html){rel="[\"nofollow\"]"}」を参照してください。
 
 #### ボットへのメンションを含むメッセージが送信されたときのWebhook
 
@@ -154,7 +154,7 @@ Webhookイベントは、以下のようにビーコンやアカウント連携�
 - 独自の管理画面などで表示している対象のメッセージの表示を取り消す
 - データベースなどに保存している対象のメッセージを削除する
 
-LINEアプリでのメッセージの送信取消について詳しくは、『LINEみんなの使い方ガイド』の「[トークの送信取消機能を利用する](https://guide.line.me/ja/chats-calls-notifications/chats/chat-delete.html){rel="[\"nofollow\"]"}」を参照してください。
+LINEアプリでのメッセージの送信取消について詳しくは、『LINEみんなの使い方ガイド』の「[トークの送信取消機能を利用する](https://guide.line.me/ja/communication/chat-delete.html){rel="[\"nofollow\"]"}」を参照してください。
 
 ## 受け取りに失敗したWebhookを再送する
 

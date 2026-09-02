@@ -5,7 +5,7 @@ description: Learn how to implement your custom action button on LINE MINI App.
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/develop/share-messages
-__hash__: DWw5HhRc27PeHoHIt-qdBCOgVYLMN8SBaXtSihAobEM
+__hash__: bYnH9OElDVZ-S9s2b0UfDuOADClHxRaEDHRck2F_w8g
 seo:
   title: Implementing a custom action button
   description: Learn how to implement your custom action button on LINE MINI App.
@@ -51,7 +51,7 @@ Use a [Bubble](/docs/messaging-api/flex-message-elements/#bubble) container of t
 
 The custom share message includes [standard type](#standard) and [image list type](#image-list), both of which are then respectively divided into sections A to F below:
 
-![](/media/line-mini-app/mini_design_flex_msg_common.png){className="[\"w-fix-640\"]"}
+![](/media/line-mini-app/mini_design_flex_msg_common.webp){className="[\"w-fix-640\"]"}
 
 | Label | Section  | Required | Description                                                                                                                                                                                                                                                                                              |
 | ----- | -------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +75,7 @@ For an example JSON file, see [Example JSON file following guidelines](/docs/lin
 - Don't change any properties not described here.
 ::
 
-![](/media/line-mini-app/mini_design_flex_msg_standard.png){className="[\"w-fix-640\"]"}
+![](/media/line-mini-app/mini_design_flex_msg_standard.webp){className="[\"w-fix-640\"]"}
 
 ##### Standard type - Image (A)
 
@@ -426,7 +426,7 @@ For an example JSON file, see [Example JSON file following guidelines](/docs/lin
 - Don't change any properties not described herein.
 ::
 
-![](/media/line-mini-app/mini_design_flex_msg_list.png){className="[\"w-fix-640\"]"}
+![](/media/line-mini-app/mini_design_flex_msg_list.webp){className="[\"w-fix-640\"]"}
 
 ##### Image list type - Image (A)
 

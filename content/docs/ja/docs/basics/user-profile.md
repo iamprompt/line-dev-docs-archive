@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/basics/user-profile
-__hash__: G16UjNYc1e7AMGvqcyv5RX7VRwa9Rd7R2Vzn_ydzVOQ
+__hash__: PW_99GAa3a2dRdxmtdehs09Rq1G5csQ53dEZasAhYFA
 seo:
   title: ユーザーのプロフィール情報を取得する
   description: null
@@ -35,7 +35,7 @@ seo:
 
 ![ユーザーはアカウントセンターで共通プロフィールを設定できます](/media/basics/quick-fill-ja.png){className="[\"w-fix-320\"]"}
 
-共通プロフィールについて詳しくは、『LINEみんなの使い方ガイド』の「[共通プロフィールを設定してクイック入力を利用する](https://guide.line.me/ja/services/quick-fill.html){rel="[\"nofollow\"]"}」を参照してください。
+共通プロフィールについて詳しくは、『LINEみんなの使い方ガイド』の「[共通プロフィールを設定してクイック入力を利用する](https://guide.line.me/ja/account-and-settings/quick-fill.html){rel="[\"nofollow\"]"}」を参照してください。
 
 ### LINE Profile+
 

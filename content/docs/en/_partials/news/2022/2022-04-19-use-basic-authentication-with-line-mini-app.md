@@ -7,7 +7,7 @@ description: >-
   MINI Apps by using basic authentication.
 meta: '{"date":"2022-04-19 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-19-use-basic-authentication-with-line-mini-app
-__hash__: c-7SoFNpxNASwOeSAvpG066h6m4yn4MXkWtnpetMsxw
+__hash__: 1nS3o4FJCFlmR7_haFZixuWPK9yVHLLjkKGC9AaotPw
 seo:
   title: Basic authentication is now available for LINE MINI App
   description: >-
@@ -22,7 +22,7 @@ Basic authentication is now available for LINE MINI Apps with the status "Develo
 
 In the **LIFF** tab on the [LINE Developers Console](/console/), specify the URL with basic authentication in the **Endpoint URL** for **Developing** or **Review**. Then open the LINE MINI App in the :glossary-tooltip[[LIFF browser](/glossary/#liff-browser)]{glossary-id="liff-browser"} and a dialog box will appear prompting you to enter your username and password.
 
-![Basic authentication screen](/media/line-mini-app/basic-auth.png){className="[\"border\",\"w-fix-240\"]"}
+![Basic authentication screen](/media/line-mini-app/basic-auth.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### Conditions for basic authentication
 

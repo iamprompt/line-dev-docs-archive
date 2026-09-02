@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/quick-fill/design-regulations
-__hash__: PlAxJg9dUveLAr00pKVjthJj4qkCz7uMcEnD51NngG0
+__hash__: EwrIa9V4ePHVEnHIdCBV0i2XUYcjcLHEUdM2oEphCvk
 seo:
   title: 共通プロフィールのクイック入力のデザインレギュレーション
   description: null
@@ -40,25 +40,25 @@ LINEミニアプリにクイック入力を組み込む際は、以下の画面�
 
 会員登録画面に遷移したら、すぐに[`liff.$commonProfile.get()`](/reference/line-mini-app/#get-common-profile)メソッドを呼び出してモーダルを表示します。このとき、ユーザーがモーダルを一度閉じても再び表示できるよう、会員登録画面に自動入力ボタンを設置します。
 
-![](/media/line-mini-app/quick-fill/recommended-screen-transition-02.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/recommended-screen-transition-02.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 #### 入力フォームを選択したらモーダルを表示する
 
 会員登録画面でユーザーが入力フォームを選択したら、[`liff.$commonProfile.get()`](/reference/line-mini-app/#get-common-profile)メソッドを呼び出してモーダルを表示します。
 
-![](/media/line-mini-app/quick-fill/recommended-screen-transition-04.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/recommended-screen-transition-04.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 #### 自動入力ボタンをタップしたらモーダルを表示する
 
 会員登録画面でユーザーが自動入力ボタンをタップしたら、[`liff.$commonProfile.get()`](/reference/line-mini-app/#get-common-profile)メソッドを呼び出してモーダルを表示します。
 
-![](/media/line-mini-app/quick-fill/recommended-screen-transition-01.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/recommended-screen-transition-01.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 #### チャネル同意画面で同意したら遷移先でモーダルを表示する
 
 LINEミニアプリの[チャネル同意画面](/docs/line-mini-app/develop/configure-console/#consent-screen-settings)でユーザーが［**許可する**］をタップしたら、そのまま会員登録画面へ遷移させます。会員登録画面へ遷移したら[`liff.$commonProfile.get()`](/reference/line-mini-app/#get-common-profile)メソッドを呼び出してモーダルを表示します。このとき、ユーザーがモーダルを一度閉じても再び表示できるよう、会員登録画面に自動入力ボタンを設置します。
 
-![](/media/line-mini-app/quick-fill/recommended-screen-transition-03.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/recommended-screen-transition-03.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 ### 禁止する画面遷移
 
@@ -84,7 +84,7 @@ LINEミニアプリにクイック入力を組み込む際は、以下のよう�
 
 ユーザーがモーダルで［**自動で入力する**］ボタンをタップした後、フォームへの自動入力を飛ばして登録確認画面へ遷移したり、取得したプロフィール情報をそのまま登録して登録完了画面へ遷移したりすることは禁止です。
 
-![](/media/line-mini-app/quick-fill/prohibited-screen-transition-03.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/prohibited-screen-transition-03.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 ## 自動入力ボタンガイドライン
 

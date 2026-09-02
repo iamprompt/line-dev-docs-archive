@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/message-types
-__hash__: dZmwMYIOcjaGnppZEWMBlrFHh_BDYni6aPtX3i0b8Ho
+__hash__: Uk1xzh1vNHLkWsRVfTh_dfMFWytd_a892MK4Rp4lnGQ
 seo:
   title: メッセージタイプ
   description: null
@@ -52,7 +52,7 @@ seo:
 
 スタンプを利用することで、ボットをより魅力的で楽しいものにできます。Messaging APIでスタンプを送信するには、[メッセージオブジェクト](/reference/messaging-api/#message-objects)にスタンプのパッケージIDとスタンプIDを指定します。送信できるスタンプについては、「[スタンプ](/docs/messaging-api/sticker-list/)」を参照してください。詳しくは、『Messaging APIリファレンス』の「[スタンプメッセージ](/reference/messaging-api/#sticker-message)」を参照してください。
 
-![スタンプメッセージ](/media/messaging-api/messages/sticker.png){className="[\"border\",\"w-fix-240\"]"}
+![スタンプメッセージ](/media/messaging-api/messages/sticker.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## 画像メッセージ
 
@@ -88,7 +88,7 @@ URLのプロトコルがHTTPS（TLS 1.2以降）であることを確認して�
 
 クーポンメッセージは、クーポンIDを指定してユーザーにクーポンを送信するメッセージです。
 
-![](/media/messaging-api/coupon/several-coupons.jpg)
+![](/media/messaging-api/coupon/several-coupons.webp)
 
 詳しくは、『Messaging APIリファレンス』の「[クーポンメッセージ](/reference/messaging-api/#coupon-message)」を参照してください。
 
@@ -115,7 +115,7 @@ URLのプロトコルがHTTPS（TLS 1.2以降）であることを確認して�
 
 ボタンテンプレートには、画像やタイトル、テキスト、[アクション](/docs/messaging-api/actions/)ボタンが含まれます。ボタンに加えて、画像、タイトル、テキストにもアクションを設定できます。アクションを設定した領域をユーザーがタップすると、アクションがトリガーされます。詳しくは、『Messaging APIリファレンス』の「[ボタンテンプレート](/reference/messaging-api/#buttons)」を参照してください。
 
-![ボタンテンプレートメッセージ](/media/messaging-api/messages/buttons.png){className="[\"border\",\"w-fix-240\"]"}
+![ボタンテンプレートメッセージ](/media/messaging-api/messages/buttons.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### 確認テンプレート
 
@@ -129,13 +129,13 @@ URLのプロトコルがHTTPS（TLS 1.2以降）であることを確認して�
 
 アクションは、ユーザーがカラムオブジェクトの画像やタイトル、テキストエリアのどこかをタップしたときにトリガーされます。詳しくは、『Messaging APIリファレンス』の「[カルーセルテンプレート](/reference/messaging-api/#carousel)」を参照してください。
 
-![カルーセルテンプレートメッセージ](/media/messaging-api/messages/carousel.png){className="[\"border\",\"w-fix-240\"]"}
+![カルーセルテンプレートメッセージ](/media/messaging-api/messages/carousel.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### 画像カルーセルテンプレート
 
 画像カルーセルテンプレートは、ユーザーがスクロールできる複数の画像を含んでいます。詳しくは、『Messaging APIリファレンス』の「[画像カルーセルテンプレート](/reference/messaging-api/#image-carousel)」を参照してください。
 
-![画像カルーセルテンプレートメッセージ](/media/messaging-api/messages/image-carousel.png){className="[\"border\",\"w-fix-240\"]"}
+![画像カルーセルテンプレートメッセージ](/media/messaging-api/messages/image-carousel.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Flex Message
 

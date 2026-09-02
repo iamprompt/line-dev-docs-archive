@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/sharing-bot
-__hash__: SxuE6ti--UncVfgxRavDCczWxOw3JsAT3WrCQVt-HBU
+__hash__: kVGqRM6MyFeK49JAiXWi5tXqzOK7GnmJC1cpcDnEiaQ
 seo:
   title: Gain friends of your LINE Official Account
   description: null
@@ -80,7 +80,7 @@ If users have already added your LINE Official Account as a friend, you can enco
 
 For example, specify this LINE URL scheme in the [URI action object](/reference/messaging-api/#uri-action) in a [rich menu](/docs/messaging-api/using-rich-menus/) or in [template messages](/docs/messaging-api/message-types/#template-messages). For more information on this LINE URL scheme, see [Sharing a LINE Official Account](/docs/messaging-api/using-line-url-scheme/#sharing-line-official-account).
 
-![](/media/messaging-api/sharing-bot/recommend-line-developers-rich-menu.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/sharing-bot/recommend-line-developers-rich-menu.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Prompt users to add your LINE Official Account as a friend at LINE Login
 

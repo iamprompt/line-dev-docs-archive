@@ -4,7 +4,7 @@ navigation: true
 description: LINEバージョン12.17.0よりLIFFブラウザの仕様を一部変更します。
 meta: '{"date":"2022-10-11 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-10-11-liff-update-line-12-17-0
-__hash__: ZS0uCJyjNy06VT5yqdYToZow9xLAIIG3ESyR43mezMA
+__hash__: 3XbUlPyQBWv4wTLf3yCUWlDVDgS9kTm7LlFEXjQvWZU
 seo:
   title: LINEバージョン12.17.0よりLIFFブラウザの仕様を一部変更します
   description: LINEバージョン12.17.0よりLIFFブラウザの仕様を一部変更します。
@@ -41,7 +41,7 @@ LINEバージョン12.17.0以降
 
 これらのうち、[LIFFブラウザをドラッグする](/docs/liff/minimizing-liff-browser/#drag-liff-browser)方法を、[LIFFブラウザをスワイプする](/docs/liff/minimizing-liff-browser/#swipe-liff-browser)方法に変更します。LIFFブラウザを下方向へスワイプすると、LIFFブラウザが最小化されます。
 
-![LIFFブラウザの最小化（LIFFブラウザをスワイプする）](/media/liff/minimizing-liff-app/swipe-liff-browser-ja.png){className="[\"w-fix-600\"]"}
+![LIFFブラウザの最小化（LIFFブラウザをスワイプする）](/media/liff/minimizing-liff-app/swipe-liff-browser-ja.webp){className="[\"w-fix-600\"]"}
 
 ::admonition{title="LIFFブラウザとLINE内ブラウザの挙動の違い" type="note"}
 LIFFブラウザと:glossary-tooltip[[LINE内ブラウザ](/glossary/#line-iab)]{glossary-id="line-iab"}では、下方向へスワイプした際の挙動が異なります。LINE内ブラウザを下方向へスワイプすると、LINE内ブラウザが閉じられます。

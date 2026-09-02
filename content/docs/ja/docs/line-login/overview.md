@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインをウェブアプリやネイティブアプリに組み込むと、ユーザーがLINEログインを使用できるようになります。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login/overview
-__hash__: AVxKNBic5hS7K2Uortvb7WM6KNEMgl8jmnQtM358Kio
+__hash__: TnC7xafu6JgOQT3Nddi6QfHQzYs56zK_JEqdO1RVzrk
 seo:
   title: LINEログインの概要
   description: LINEログインをウェブアプリやネイティブアプリに組み込むと、ユーザーがLINEログインを使用できるようになります。
@@ -70,7 +70,7 @@ LINE SDKを使用してLINEログインをアプリに組み込めば、LINEで�
 
 たとえば、LINEレンジャーゲームにはLINEログインが組み込まれており、ユーザーは自分のLINEアカウントで簡単にゲームのアカウントを作成することができます。
 
-![LINE Rangers 1](/media/line-login/overview/line-login-rangers-1.png){className="[\"border\"]"}![LINE Rangers 3](/media/line-login/overview/line-login-rangers-3.png){className="[\"border\"]"}
+![LINE Rangers 1](/media/line-login/overview/line-login-rangers-1.webp){className="[\"border\"]"}![LINE Rangers 3](/media/line-login/overview/line-login-rangers-3.png){className="[\"border\"]"}
 
 ## LINEログインの認証方法
 
@@ -121,7 +121,7 @@ LINEログインでは、LINEアカウントによるパスワード認証と、
 
 ユーザーがサービスに最初にログインする際や、端末やブラウザが変わった場合は、パスワードを入力後に認証番号の入力を求められます。
 
-![](/media/news/2023/login-flow-with-2fa-ja.png){className="[\"w-fix-760\"]"}
+![](/media/news/2023/login-flow-with-2fa-ja.webp){className="[\"w-fix-760\"]"}
 
 アカウントの切り替えを行ったり、ブラウザのcookieを削除したりしない限り、365日間は信頼済み状態が継続し、認証番号の入力を求められることはありません。
 

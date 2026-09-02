@@ -6,7 +6,7 @@ description: >-
   this update:
 meta: '{"date":"2021-03-10 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-03-10-messaging-api-update-march-2021
-__hash__: sDFH_dF4hpzOJ9TWmbrDdVR-OEYj_g1jyMHKnQ-5878
+__hash__: _LnjqFtXruPNXWw3U_07bkqRSUQGSTW7eWroJOSVkHY
 seo:
   title: Messaging API update for March 2021
   description: >-
@@ -23,7 +23,7 @@ We've added new features to the Messaging API. These are the features added in t
 
 URI action can be used with quick reply. When you send a message with a quick reply button configured from your LINE Official Account, the following is displayed at the bottom of the chat screen.
 
-![Example of URI action](/media/messaging-api/actions/quick-reply-uri-action-en.png){className="[\"border\",\"w-fix-240\"]"}
+![Example of URI action](/media/messaging-api/actions/quick-reply-uri-action-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 When you configure URI action with quick reply, users can do the following when they tap the button:
 

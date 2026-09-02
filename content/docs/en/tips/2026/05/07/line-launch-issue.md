@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-05-07 00:00 UTC","tags":"line-login,
   liff","locale":"en","sidebar":false}
 path: /en/tips/2026/05/07/line-launch-issue
-__hash__: tCciwFFdNKBwsdznsMOIR3_aaoUzc-rbPg4K3JhEXek
+__hash__: hehNRQCB8WiHJuCz7hdW5gvGJw9omSjucf8zDcSp0yo
 seo:
   title: >-
     What to know when "Open in LINE" or "Log in with LINE" doesn't work as
@@ -142,9 +142,9 @@ For example, when trying to open LINE, users may see a confirmation such as "Ope
 
 In such cases, users may be able to launch LINE successfully by long-pressing **Log in with LINE app** at the bottom of the screen and selecting [**Open in LINE**] from the context menu that appears.
 
-| 1                                                                                      | 2                                                                                              | 3                                                                                              |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![](/media/tips/2026/line-login-failed-en.png){className="[\"border\",\"w-fix-240\"]"} | ![](/media/tips/2026/line-login-failed-retry-1-en.png){className="[\"border\",\"w-fix-240\"]"} | ![](/media/tips/2026/line-login-failed-retry-2-en.png){className="[\"border\",\"w-fix-240\"]"} |
+| 1                                                                                       | 2                                                                                               | 3                                                                                               |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![](/media/tips/2026/line-login-failed-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![](/media/tips/2026/line-login-failed-retry-1-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![](/media/tips/2026/line-login-failed-retry-2-en.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 If, for some reason, users need to log in through the login screen, knowing about this behavior may help when supporting users.
 

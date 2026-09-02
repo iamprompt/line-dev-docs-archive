@@ -5,7 +5,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/technicalcase/kirifuda-morikaranotegami
-__hash__: pzsvuunSDYqgMPKY0pMunMvPq39r1MUYdY-PunraYsA
+__hash__: RPiM84wBQzq239EpVRLx7kwYE-xps7J-igqy5eujji4
 seo:
   title: 遊びながら自然保全をする「もりからの手紙」の技術事例
   description: ''
@@ -49,7 +49,7 @@ NFTを受け取るためには通常、専用ウォレットのインストー�
 
 ## システムの解説
 
-![システム構成図](/media/line-mini-app/technicalcase/kirifuda-morikaranotegami/ja/kirifuda-morikaranotegami-system.png)
+![システム構成図](/media/line-mini-app/technicalcase/kirifuda-morikaranotegami/ja/kirifuda-morikaranotegami-system.webp)
 
 ### 「もりからの手紙」の技術構成：LIFFとブロックチェーン技術のシームレス連携
 

@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"messaging-api","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/messaging-api/technicalcase/skillbox
-__hash__: vm96XxY-GolpnvyqEmYbrL6uxglJcgqC5nka7e9FYGQ
+__hash__: _uzxa5P3rv46n5zvzKwdgIWZ-R7SWRybLJPW-PNCQn8
 seo:
   title: >-
     SkillBox technical case study: LINE notifications greatly increased usage
@@ -65,7 +65,7 @@ As we do not perform segmented distribution for LINE notifications, we do not co
 
 ## System overview
 
-![System architecture diagram](/media/messaging-api/technicalcase/skillbox/en/skillbox-system.png)
+![System architecture diagram](/media/messaging-api/technicalcase/skillbox/en/skillbox-system.webp)
 
 ### Technical architecture of AWS-based projects
 

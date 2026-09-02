@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/basics/user-profile
-__hash__: mPp7XbuWF3WUjDS-m3jn6JsuztFzULG7Y8Q9gu5Sd30
+__hash__: 3lCF3OYfdojB7fDvpNg-Lvxvpy0x_f-ml-g3FsfgnvU
 seo:
   title: Get user profile information
   description: null
@@ -35,7 +35,7 @@ Common Profile is a profile that users create by combining the profile informati
 
 ![Users can set their Common Profile in the Account Center](/media/basics/quick-fill-ja.png){className="[\"w-fix-320\"]"}
 
-For information about the Common Profile, see [Set Common Profile to use Quick-fill](https://guide.line.me/ja/services/quick-fill.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
+For information about the Common Profile, see [Set Common Profile to use Quick-fill](https://guide.line.me/ja/account-and-settings/quick-fill.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
 
 ### LINE Profile+
 

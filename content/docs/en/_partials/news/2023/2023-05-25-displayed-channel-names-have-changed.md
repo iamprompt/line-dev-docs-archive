@@ -9,7 +9,7 @@ description: >-
   channel name displayed in this footer has changed.
 meta: '{"date":"2023-05-25 00:00 UTC","tags":"line-mini-app, console","locale":"en"}'
 path: /en/_partials/news/2023/2023-05-25-displayed-channel-names-have-changed
-__hash__: 6x2q2Jb02KqyN7_a06Bsu2hn0N6W5APbhE9nJbaKl8I
+__hash__: c-lN6wA06uqMQjzkHWwBJAT92R6C_KPU_6XHFHZj9HM
 seo:
   title: >-
     The referent of the channel name displayed in the footer in the LINE MINI
@@ -22,7 +22,7 @@ seo:
 
 In the footer of service messages sent from the LINE MINI App, the **channel name** of the LINE MINI App channel is displayed. The reference source of the channel name displayed in this footer has changed.
 
-![LINE MINI App Notice](/media/news/2023/mini-service-message-footer-en.png){className="[\"border\",\"w-fix-280\"]"}
+![LINE MINI App Notice](/media/news/2023/mini-service-message-footer-en.webp){className="[\"border\",\"w-fix-280\"]"}
 
 ### Specification change date
 

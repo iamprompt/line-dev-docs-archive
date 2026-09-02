@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/actions
-__hash__: IKO1LrhsCu37Oz7hxS_J6FZp2ZjrrdYW3YF0JV8Hros
+__hash__: '-GFxClwSZrtilGVLAXRQMwf3-uFJuYyjXpPj0eHjR_0'
 seo:
   title: アクション
   description: null
@@ -47,7 +47,7 @@ seo:
 
 LINE内ブラウザで指定のURLを開くアクションです。URIアクションで[LINE URLスキーム](/docs/messaging-api/using-line-url-scheme/)を使うと、通話アプリで指定の電話番号を開いたり、任意のLINE公式アカウントをシェアする画面を開いたりすることもできます。
 
-![URIアクション](/media/messaging-api/actions/quick-reply-uri-action-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![URIアクション](/media/messaging-api/actions/quick-reply-uri-action-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 上記の例で示した、クイックリプライボタンにURIアクションを設定したリクエストボディは以下のようになります。詳しくは、『Messaging APIリファレンス』の「[URIアクション](/reference/messaging-api/#uri-action)」を参照してください。
 

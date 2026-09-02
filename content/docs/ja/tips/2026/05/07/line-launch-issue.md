@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-07 00:00 UTC","tags":"line-login,
   liff","locale":"ja","sidebar":false}
 path: /ja/tips/2026/05/07/line-launch-issue
-__hash__: INOzHnUVyFE0r53Mzr63eM0T7lMc40JRAEcJFMpAMVI
+__hash__: vhEryR_w4_Ix2UWn9l4cMuEodRcsDkG2tn1jPSov3WE
 seo:
   title: 「LINEで開く」や「LINEでログイン」がうまく動かないときに知っておきたいこと
   description: みなさんはLINEミニアプリを利用した際に「LINEで開く」ボタンを押してもLINEが起動しなかった、といった経験はありませんか？
@@ -123,9 +123,9 @@ iOSでは、たとえSafariであっても[LINEログインの自動ログイン
 
 このような場合は、画面の下にある「LINEアプリでログイン」を長押しし、表示されたコンテキストメニューから［**LINEで開く**］を選ぶと、正常に起動することがあります。
 
-| 1                                                                                      | 2                                                                                              | 3                                                                                              |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![](/media/tips/2026/line-login-failed-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![](/media/tips/2026/line-login-failed-retry-1-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![](/media/tips/2026/line-login-failed-retry-2-ja.png){className="[\"border\",\"w-fix-240\"]"} |
+| 1                                                                                       | 2                                                                                               | 3                                                                                               |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![](/media/tips/2026/line-login-failed-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![](/media/tips/2026/line-login-failed-retry-1-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![](/media/tips/2026/line-login-failed-retry-2-ja.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 何らかの理由でログイン画面を経由したログインが必要なケースでは、この挙動を知っておくと、ユーザーサポートの際に役立つかもしれません。
 

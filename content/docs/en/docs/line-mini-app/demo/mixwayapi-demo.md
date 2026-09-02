@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/demo/mixwayapi-demo
-__hash__: 0OiGrbi0z-5_rmivIUZyTHC6AzyU-x5UQWpb7MOrwLQ
+__hash__: rCfbkScaLNiQWcHcmwBKcYpSkALYYRreDebAi-lFruo
 seo:
   title: Event experience demo
   description: null
@@ -32,10 +32,10 @@ Before using the demo app, please note that the app will access your LINE accoun
 
 * The screen design may vary depending on your version.
 
-| dummy                                                                                                    | dummy                                                                                                    | dummy                                                                                                   | dummy                                                                                                   |
-| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| ![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-image1-en.webp){className="[\"w-fix-200\"]"} | ![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-image2-en.webp){className="[\"w-fix-200\"]"} | ![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-image3-en.png){className="[\"w-fix-200\"]"} | ![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-image4-en.png){className="[\"w-fix-200\"]"} |
-| 1.Initialize App                                                                                         | 2.Event Ticket Purchase Process                                                                          | 3.Search & Select Route                                                                                 | 4.Send Notifications                                                                                    |
+| dummy                                                                                                    | dummy                                                                                                    | dummy                                                                                                   | dummy                                                                                                    |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-image1-en.webp){className="[\"w-fix-200\"]"} | ![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-image2-en.webp){className="[\"w-fix-200\"]"} | ![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-image3-en.png){className="[\"w-fix-200\"]"} | ![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-image4-en.webp){className="[\"w-fix-200\"]"} |
+| 1.Initialize App                                                                                         | 2.Event Ticket Purchase Process                                                                          | 3.Search & Select Route                                                                                 | 4.Send Notifications                                                                                     |
 
 ::admonition{title="Point" type="tip"}
 1. Completes all necessary event participation processes within LINE.
@@ -84,25 +84,25 @@ This figure shows how the demo app uses the LINE API.
 
 **System diagram**
 
-![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-system-diagram-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-system-diagram-en.webp){className="[\"border\"]"}
 
 - System diagram for using the other services
 
   - :file-link[
-  System diagram using AWS]{file="/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-system-diagram-aws-en.png"}
+  System diagram using AWS]{file="/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-system-diagram-aws-en.webp"}
   - :file-link[
-  System diagram using Azure]{file="/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-system-diagram-azure-en.png"}
+  System diagram using Azure]{file="/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-system-diagram-azure-en.webp"}
 
 **Sequence diagram**
 
-![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-sequence-diagram-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-sequence-diagram-en.webp){className="[\"border\"]"}
 
 - Sequence diagram for using the other services
 
   - :file-link[
-  Sequence diagram using AWS]{file="/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-sequence-diagram-aws-en.png"}
+  Sequence diagram using AWS]{file="/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-sequence-diagram-aws-en.webp"}
   - :file-link[
-  Sequence diagram using Azure]{file="/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-sequence-diagram-azure-en.png"}
+  Sequence diagram using Azure]{file="/media/line-mini-app/demo/mixwayapi-demo/maas-mixwayapi-sequence-diagram-azure-en.webp"}
 
 ## Related links
 

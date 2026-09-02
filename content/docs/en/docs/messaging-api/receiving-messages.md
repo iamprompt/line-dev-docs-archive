@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/receiving-messages
-__hash__: 7xdAl4cbgwJ6gIMJTQNEtgUn_J7pfs-xx4YaSOZ0fuk
+__hash__: Mh1YX8UclAtBx22JFWz6ua5R1hD4CxuaBShEVSJ5Qog
 seo:
   title: Receive messages (webhook)
   description: null
@@ -104,7 +104,7 @@ Here is an example of a webhook that arrives at your bot server when a user send
 
 For more information about the `quotedMessageId` property, see [text](/reference/messaging-api/#wh-text) and [sticker](/reference/messaging-api/#wh-sticker) of the [Message event](/reference/messaging-api/#message-event) in the Messaging API reference.
 
-For more information about how users can send quote messages, see [Using the chat reply feature](https://guide.line.me/ja/friends-and-groups/create-groups.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
+For more information about how users can send quote messages, see [Using the chat reply feature](https://guide.line.me/ja/communication/chat-reply.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
 
 #### Webhook when a message including a mention to a bot is sent
 
@@ -158,7 +158,7 @@ For example, you should handle a message that a user has unsent as follows:
 - Cancel the target message displayed on your own management screen, etc.
 - Delete the target message stored in a database or other storage device.
 
-For more information about how to unsend a sent message in the LINE app, see [Using the unsend message function](https://guide.line.me/ja/chats-calls-notifications/chats/chat-delete.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
+For more information about how to unsend a sent message in the LINE app, see [Using the unsend message function](https://guide.line.me/ja/communication/chat-delete.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
 
 ## Redeliver a webhook that failed to be received
 

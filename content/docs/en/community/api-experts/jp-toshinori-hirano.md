@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Toshinori
-  Hirano","img":"jp-toshinori-hirano.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Hirano","img":"jp-toshinori-hirano.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Chatbot, IoT,
   GAS","git":"","fb":"","twitter":"","platform-evangelist":true}
 path: /en/community/api-experts/jp-toshinori-hirano
-__hash__: eMTDon49xvGgKwK3Q1bUq4Nebk_mvXdEiudQ3_zw9uA
+__hash__: xev1Or6tX4lcK30rlnQDucA7SXxuv0I8KAWQdIu8ybM
 seo:
   title: LINE API Expert - Toshinori Hirano
   description: ''

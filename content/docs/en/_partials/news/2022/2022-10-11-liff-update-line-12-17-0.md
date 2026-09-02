@@ -8,7 +8,7 @@ description: >-
   browser's specifications.
 meta: '{"date":"2022-10-11 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-10-11-liff-update-line-12-17-0
-__hash__: 7-sIr4nDTtESuBSekixKQJBq7Mg8-4XdrmJ0Nq-pRYg
+__hash__: MBjVia65rDl-Y9j9cIL6LfFgg9Y7ZGanQTeKmCJfaIk
 seo:
   title: >-
     On LINE version 12.17.0 or later, we'll be making changes to some of LIFF
@@ -49,7 +49,7 @@ Previously, there were three ways to minimize a LIFF browser.
 
 Of these, [dragging a LIFF browser](/docs/liff/minimizing-liff-browser/#drag-liff-browser) will be changed to [swiping a LIFF browser](/docs/liff/minimizing-liff-browser/#swipe-liff-browser). Swiping a LIFF browser down will minimize the LIFF browser.
 
-![LIFF browser minimization (swiping a LIFF browser)](/media/liff/minimizing-liff-app/swipe-liff-browser-en.png){className="[\"w-fix-600\"]"}
+![LIFF browser minimization (swiping a LIFF browser)](/media/liff/minimizing-liff-app/swipe-liff-browser-en.webp){className="[\"w-fix-600\"]"}
 
 ::admonition
 ---

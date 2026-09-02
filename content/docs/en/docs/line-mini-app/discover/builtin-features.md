@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/discover/builtin-features
-__hash__: fJV1VE6N4AvcYWG8343TqL19buPfBslhNcc0x5iM_tg
+__hash__: ZrjXAupy6snSIvOSHo90NZpOCMdAuxDdNYYAXIWy0SI
 seo:
   title: Built-in features
   description: null
@@ -39,7 +39,7 @@ When you tap the action button, the features shown below will appear, depending 
 
 In LINE version 26.7.0 or later, tapping the action button displays the following dropdown menu.
 
-![](/media/line-mini-app/discover/mini-header-action-button-tap-en.png){className="[\"border\",\"w-fix-300\"]"}
+![](/media/line-mini-app/discover/mini-header-action-button-tap-en.webp){className="[\"border\",\"w-fix-300\"]"}
 
 | Item                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

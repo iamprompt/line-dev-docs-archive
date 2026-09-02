@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-06-28 00:00 UTC","tags":"line-login, console","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-06-28-require-2fa-on-channels
-__hash__: '-pNGUKDmD_6THpIiE8TPmyK8nVDGBTFupHay_qTDbZg'
+__hash__: kjdkqf34lolAx2gzuW7WbIqQwmNyPVH2fOUi-ZdMaEI
 seo:
   title: 【更新】LINEログインでサービス提供者が2要素認証を必須化できるようになりました
   description: ''
@@ -44,7 +44,7 @@ LINEログインでは、LINEアカウントによるパスワード認証と、
 
 なお、IPアドレスが変わった場合は、ユーザーは認証番号の入力は求められません。
 
-![2要素認証の流れ](/media/news/2023/login-flow-with-2fa-ja.png){className="[\"w-fix-760\"]"}
+![2要素認証の流れ](/media/news/2023/login-flow-with-2fa-ja.webp){className="[\"w-fix-760\"]"}
 
 アカウントの切り替えを行ったり、ブラウザのcookieを削除したりしない限り、365日間は信頼済み状態が継続し、認証番号の入力を求められることはありません。
 

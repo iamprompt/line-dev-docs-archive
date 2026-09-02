@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/minimizing-liff-browser
-__hash__: '-AdCmGnO0aQ2vY3fsTD1tkBPo-fJUziMQJy-ucjB8wo'
+__hash__: _RgdmdiTBQV4GNIrDXO6OeONcvmbHgwpM-iZ-Jno5iA
 seo:
   title: Minimizing LIFF browser
   description: ''
@@ -22,10 +22,10 @@ When viewing a LIFF browser in a chat room, the user may want to perform another
 
 The LIFF browser will be displayed as an icon when minimized.
 
-![LIFF browser minimization](/media/liff/minimizing-liff-app/liff-minimize-en.png){className="[\"w-fix-960\"]"}
+![LIFF browser minimization](/media/liff/minimizing-liff-app/liff-minimize-en.webp){className="[\"w-fix-960\"]"}
 
 ::admonition{title="Minimizing LINE's in-app browser" type="tip"}
-Like LIFF browser, :glossary-tooltip[[LINE's in-app browser](/glossary/#line-iab)]{glossary-id="line-iab"} also supports minimization. For more information, see [Minimizing the browsing web page](https://guide.line.me/ja/chats-calls-notifications/chats/minimizebrowser.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
+Like LIFF browser, :glossary-tooltip[[LINE's in-app browser](/glossary/#line-iab)]{glossary-id="line-iab"} also supports minimization. For more information, see [Minimizing the browsing web page](https://guide.line.me/ja/services/minimizebrowser.html){rel="[\"nofollow\"]"} (only available in Japanese) in the LINE user's guide.
 ::
 
 ## Conditions of use for LIFF browser minimization
@@ -68,13 +68,13 @@ Tap the **Minimize browser** option after opening the dropdown menu from the [ac
 
 Tap an in-app alert.
 
-![LIFF browser minimization (tapping an in-app alert)](/media/liff/minimizing-liff-app/tap-in-app-alert.png){className="[\"w-fix-600\"]"}
+![LIFF browser minimization (tapping an in-app alert)](/media/liff/minimizing-liff-app/tap-in-app-alert.webp){className="[\"w-fix-600\"]"}
 
 ### Swiping a LIFF browser
 
 Swipe a LIFF browser down.
 
-![LIFF browser minimization (swiping a LIFF browser)](/media/liff/minimizing-liff-app/swipe-liff-browser-en.png){className="[\"w-fix-600\"]"}
+![LIFF browser minimization (swiping a LIFF browser)](/media/liff/minimizing-liff-app/swipe-liff-browser-en.webp){className="[\"w-fix-600\"]"}
 
 ### Tapping the option from the action button (LINE version earlier than 26.7.0)
 
@@ -86,13 +86,13 @@ Tap the **Minimize browser** option after opening the [multi-tab view](/docs/lif
 
 To maximize a LIFF browser, tap the minimized LIFF browser.
 
-![LIFF browser maximization](/media/liff/minimizing-liff-app/maximize-liff-browser-en.png){className="[\"w-fix-600\"]"}
+![LIFF browser maximization](/media/liff/minimizing-liff-app/maximize-liff-browser-en.webp){className="[\"w-fix-600\"]"}
 
 ## Moving a minimized LIFF browser
 
 To move a minimized LIFF browser, drag the LIFF browser.
 
-![Moving a minimized LIFF browser](/media/liff/minimizing-liff-app/move-minimized-liff-browser-en.png){className="[\"w-fix-600\"]"}
+![Moving a minimized LIFF browser](/media/liff/minimizing-liff-app/move-minimized-liff-browser-en.webp){className="[\"w-fix-600\"]"}
 
 ## Closing a minimized LIFF browser (LINE version earlier than 15.20.0)
 
@@ -105,7 +105,7 @@ In LINE version earlier than 15.20.0, there are two ways to close a minimized LI
 
 Swipe the minimized LIFF browser off the screen.
 
-![Closing a minimized LIFF browser](/media/liff/minimizing-liff-app/close-minimized-liff-browser-en.png){className="[\"w-fix-600\"]"}
+![Closing a minimized LIFF browser](/media/liff/minimizing-liff-app/close-minimized-liff-browser-en.webp){className="[\"w-fix-600\"]"}
 
 ### Drag a minimized LIFF browser to the close icon
 

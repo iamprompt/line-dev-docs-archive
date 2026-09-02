@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/demo/traisare-demo
-__hash__: ONXCpg4-7QD5OGndsAsTx6XXSMADWUJIZwsV3KyE1co
+__hash__: GOx2bSiW6XspYdu3R-3fOVOWnKSFgcVqNWu_K8IbGtk
 seo:
   title: Mobile experience demo
   description: null
@@ -62,11 +62,11 @@ This figure shows how the demo app uses the LINE API.
 
 **System diagram**
 
-![](/media/line-mini-app/demo/traisare-demo/traisare-system-diagram-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/demo/traisare-demo/traisare-system-diagram-en.webp){className="[\"border\"]"}
 
 **Sequence diagram**
 
-![](/media/line-mini-app/demo/traisare-demo/traisare-sequence-diagram-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/demo/traisare-demo/traisare-sequence-diagram-en.webp){className="[\"border\"]"}
 
 ## Related links
 

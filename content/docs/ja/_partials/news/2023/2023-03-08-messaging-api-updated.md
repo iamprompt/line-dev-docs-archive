@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIにおいて、@Allによるグループ全体へのメンションが、Webhookのmentionプロパティに含まれるようになりました。
 meta: '{"date":"2023-03-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-03-08-messaging-api-updated
-__hash__: DCnrk0KY4n5-rbvRK82Df-WXzRkLxRIqZvTLhubkk6E
+__hash__: Jj6JU-0h92CvnCYOGTQzL12r7JJi_vjXA1nNjk97Ono
 seo:
   title: Messaging APIで@AllがWebhookのmentionプロパティに含まれるようになりました
   description: Messaging APIにおいて、@Allによるグループ全体へのメンションが、Webhookのmentionプロパティに含まれるようになりました。
@@ -57,4 +57,4 @@ LINE公式アカウントが参加しているグループトークや複数人�
 
 `mention`プロパティについて詳しくは、『Messaging APIリファレンス』の「[メッセージイベント](/reference/messaging-api/#message-event)」の「[テキスト](/reference/messaging-api/#wh-text)」を参照してください。
 
-グループ全体を指定するAllメンション機能について詳しくは、『LINEみんなの使い方ガイド』の「[トークのメンション機能を利用する](https://guide.line.me/ja/chats-calls-notifications/chats/chat-mention.html){rel="[\"nofollow\"]"}」を参照してください。
+グループ全体を指定するAllメンション機能について詳しくは、『LINEみんなの使い方ガイド』の「[トークのメンション機能を利用する](https://guide.line.me/ja/communication/chat-mention.html){rel="[\"nofollow\"]"}」を参照してください。

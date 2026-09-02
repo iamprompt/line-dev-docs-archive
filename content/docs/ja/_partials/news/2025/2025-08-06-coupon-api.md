@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-08-06 00:00 UTC","tags":"messaging-api,
   line-official-account","locale":"ja"}
 path: /ja/_partials/news/2025/2025-08-06-coupon-api
-__hash__: pxC1zEBbtfbnOUolWXToZYeraA6lMvI-J481aRT8vW8
+__hash__: teittHom7TQkl3qHIMUws2hi-LI26eHquxnKOo1EbbI
 seo:
   title: Messaging APIでクーポンを作成してメッセージとして送信できるようになりました
   description: Messaging APIでクーポンを作成して、LINE公式アカウントからユーザーにメッセージとして送信できるようになりました。
@@ -14,7 +14,7 @@ seo:
 
 Messaging APIでクーポンを作成して、LINE公式アカウントからユーザーにメッセージとして送信できるようになりました。
 
-![](/media/messaging-api/coupon/several-coupons.jpg)
+![](/media/messaging-api/coupon/several-coupons.webp)
 
 ### 追加された機能
 

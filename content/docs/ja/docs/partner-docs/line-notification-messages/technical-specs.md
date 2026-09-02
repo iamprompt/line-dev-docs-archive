@@ -4,7 +4,7 @@ navigation: true
 description: LINE通知メッセージAPIはSHA256アルゴリズムでハッシュ化した電話番号を元にユーザーにメッセージを送信します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/line-notification-messages/technical-specs
-__hash__: vQv8CxQ9vwMW1W_vF5UH9CG5_wiLd-9MCzpoa0B9Gn4
+__hash__: S_4-8R3qBuNcHPgn_lxjC5YNfop1jagcms54GyulQlo
 seo:
   title: LINE通知メッセージAPIの技術仕様
   description: LINE通知メッセージAPIはSHA256アルゴリズムでハッシュ化した電話番号を元にユーザーにメッセージを送信します。
@@ -102,7 +102,7 @@ LINEアプリでのLINE通知メッセージの設定について詳しくは、
 
 LINE通知メッセージの送信時に「LINE」という名前のLINE公式アカウント（システムアカウント）から以下のメッセージが送信されます。このメッセージは、LINE通知メッセージ送信するたびに、必ず送信されるメッセージです。LINE通知メッセージの送信者は、このメッセージが送信されないようにしたり、送信される回数を減らしたりする制御を行うことはできません。
 
-![LINE通知メッセージが届きました](/media/line-notification-message/type1-pnpflow-3-ja.png){className="[\"border\",\"w-fix-280\"]"}
+![LINE通知メッセージが届きました](/media/line-notification-message/type1-pnpflow-3-ja.webp){className="[\"border\",\"w-fix-280\"]"}
 
 ::admonition{title="ブロック時の動作" type="note"}
 LINE通知メッセージAPIで送信対象として指定したユーザーが、LINE通知メッセージの送信元であるLINE公式アカウントをブロックしていた場合は、LINE通知メッセージは送信されず、「LINE」システムアカウントからの「LINE通知メッセージが届きました」メッセージについても送信されません。
@@ -114,7 +114,7 @@ LINE通知メッセージAPIで送信対象として指定したユーザーが�
 
 LINE通知メッセージが送られてきた際に、ユーザーはLINE通知メッセージの受信に同意（もしくは拒否）できます。また、LINE通知メッセージが送られたとき以外にも、任意のタイミングでLINEアプリの［**設定**］>［**プライバシー管理**］>［**情報の提供**］>［**LINE通知メッセージ**］からLINE通知メッセージの受信に同意（もしくは拒否）できます。
 
-![LINE通知メッセージの受信同意](/media/line-notification-message/consent-line-notification-message-ja.png){className="[\"border\",\"w-fix-280\"]"}
+![LINE通知メッセージの受信同意](/media/line-notification-message/consent-line-notification-message-ja.webp){className="[\"border\",\"w-fix-280\"]"}
 
 #### 受信設定の状態
 

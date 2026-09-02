@@ -5,7 +5,7 @@ description: 法人ユーザー向けのお知らせです。ニュースもあ�
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /ja/docs/partner-docs/notice
-__hash__: 9XqFZGbMuuq8H-Ix0nlYZh_B44EHjirZ2-cOoGdxA24
+__hash__: js3qsVRevZTPcL2I6Jz2ZN7D3EQ-IWdbPxmgubSnc5s
 seo:
   title: 法人ユーザー向けのお知らせ
   description: 法人ユーザー向けのお知らせです。ニュースもあわせてご参照ください。
@@ -114,7 +114,7 @@ LINEヤフー株式会社は、今後もお客様への一層のサービス向�
 
 クイック入力とは、LINEミニアプリ上で［**自動入力**］をタップすることで、必要なプロフィール情報が自動で入力される機能です。ユーザーがアカウントセンターで設定した共通プロフィールの情報が、LINEミニアプリで簡単に利用できます。
 
-![](/media/line-mini-app/quick-fill/quick-fill-3-steps.png){className="[\"bg-border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/quick-fill-3-steps.webp){className="[\"bg-border\",\"w-fix-680\"]"}
 
 LINEミニアプリにクイック入力を導入すると、住所や電話番号の登録が必要な場面で、ボタンをタップするだけで必要な情報が自動で入力されます。これにより、たとえばお店の予約やオンラインストアでの注文時に、ユーザーは面倒な手入力の手間を省くことができます。
 

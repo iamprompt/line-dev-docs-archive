@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/integrate-line-login
-__hash__: 2-HHjqD2BRY8-uCz0Zzeduauz8EoY7Z3TFAvuxTpQiI
+__hash__: Tr5SsigCD4U32XFYalhb-nAkku8inV7GbEw6DxU-HE0
 seo:
   title: ウェブアプリにLINEログインを組み込む
   description: null
@@ -215,9 +215,9 @@ LINEログインを組み込むウェブアプリ側で、認可の機能を実�
 
 なお、ユーザーは権限の付与に同意せずにウェブアプリにアクセスする場合があります。認可URLで指定した権限の付与を、ユーザーに拒否される可能性も考慮してウェブアプリを開発してください。
 
-| 同意画面                                                                                                         | `scope`パラメータと表示項目                                                        |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![同意画面](/media/line-login/integrate-login-web/consent-screen-ja.png){className="[\"border\",\"w-fix-240\"]"} | - `profile`：メインプロフィール情報 (必須) - `openid`：あなたの内部識別子 (必須) - `email`：メールアドレス |
+| 同意画面                                                                                                          | `scope`パラメータと表示項目                                                        |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| ![同意画面](/media/line-login/integrate-login-web/consent-screen-ja.webp){className="[\"border\",\"w-fix-240\"]"} | - `profile`：メインプロフィール情報 (必須) - `openid`：あなたの内部識別子 (必須) - `email`：メールアドレス |
 
 #### 同意画面が再表示される条件
 

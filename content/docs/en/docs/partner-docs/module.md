@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module
-__hash__: RlojEP-IgSCCHn057NwfLYy7AHbqPVWhzS0jbiS5CmE
+__hash__: KI2m4kic9AOaLILlhYwqwpETzsZMpUtXnveL4cpKRMo
 seo:
   title: Module
   description: null
@@ -50,7 +50,7 @@ If the [webhook use is disabled](/reference/messaging-api/#get-webhook-endpoint-
 Depending on the content of the webhook event you get, the module channel can be implemented to send a message to the user.
 ::
 
-![Sample](/media/partner-docs/module/module-sample.png){className="[\"border\",\"w-fix-240\"]"}
+![Sample](/media/partner-docs/module/module-sample.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | Number | Description                                                                                       |
 | ------ | ------------------------------------------------------------------------------------------------- |

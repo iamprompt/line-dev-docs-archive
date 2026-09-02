@@ -7,7 +7,7 @@ description: >-
   Android, or web app.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/overview
-__hash__: MFdbtOAt7eHFz8JvHjlVXCSOH7Bz9S50NTt9w3xvY0s
+__hash__: Lkf741Nwy_-dBfmmFW4KoHR3aRBzHrTW5lDlxB8f3I0
 seo:
   title: LINE Login overview
   description: >-
@@ -76,7 +76,7 @@ Use our SDKs to add LINE Login to your app and let LINE handle user authenticati
 
 The LINE Rangers game, for example, uses LINE Login to let users easily create an account for the game with their LINE accounts.
 
-![LINE Rangers 1](/media/line-login/overview/line-login-rangers-1.png){className="[\"border\"]"}![LINE Rangers 3](/media/line-login/overview/line-login-rangers-3.png){className="[\"border\"]"}
+![LINE Rangers 1](/media/line-login/overview/line-login-rangers-1.webp){className="[\"border\"]"}![LINE Rangers 3](/media/line-login/overview/line-login-rangers-3.png){className="[\"border\"]"}
 
 ## LINE Login authentication methods
 
@@ -127,7 +127,7 @@ LINE Login performs two-factor authentication by password authentication for the
 
 If the user logs in to the service for the first time, or if the device or browser changes, the user is prompted to enter the verification code after entering the password.
 
-![](/media/news/2023/login-flow-with-2fa-en.png){className="[\"w-fix-760\"]"}
+![](/media/news/2023/login-flow-with-2fa-en.webp){className="[\"w-fix-760\"]"}
 
 Unless the user switch accounts or delete browser's cookies, they'll remain trusted for 365 days and they won't be asked to enter a verification code.
 

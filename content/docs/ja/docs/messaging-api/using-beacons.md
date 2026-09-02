@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/using-beacons
-__hash__: G1JXbwTfJ-JG0aQ3t5bBy_KmY4Zf9Xcm3WWg6WNBqWI
+__hash__: U3ZnUAIzKgLuR5u7wcGmqzKzYm7N2ce_XcUcGH3Yy18
 seo:
   title: LINEでビーコンを使う
   description: null
@@ -94,4 +94,4 @@ Webhookのビーコンイベントを発生させるには、以下の手順に�
 ビーコンバナーは法人ユーザー向けの機能です。詳しくは、担当営業までご連絡いただくか、[LINEヤフー for Business](https://www.lycbiz.com/jp/){rel="[\"nofollow\"]"}ウェブサイトからお問い合わせください。
 ::
 
-![](/media/messaging-api/using-beacons/beacon-banner_ja.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/messaging-api/using-beacons/beacon-banner_ja.webp){className="[\"border\",\"w-fix-320\"]"}

@@ -6,7 +6,7 @@ description: >-
   App.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/console-guide
-__hash__: _3JBmfKd246k_9OipbucifFL1mffnMUcGgT62i1EtqQ
+__hash__: 56MVrgLUOjxWVl6cQU_t9QqYeWQrw7IdiJpBDRh2YAk
 seo:
   title: LINE Developers Console Guide for LINE MINI App
   description: >-
@@ -132,7 +132,7 @@ When developing LINE MINI Apps, either [stateless channel access tokens](/docs/b
 
 When creating a LINE MINI App channel, you must agree to the content of the **I represent and warrant that the region to provide the LINE MINI App and service company's country or region are the same.** checkbox. The country or region will be displayed to the end user in the channel consent screen.
 
-![I represent and warrant that the region to provide the LINE MINI App and service company's country or region are the same.](/media/line-mini-app/configuring-country-or-region-en.png){className="[\"border\",\"w-fix-800\"]"}
+![I represent and warrant that the region to provide the LINE MINI App and service company's country or region are the same.](/media/line-mini-app/configuring-country-or-region-en.webp){className="[\"border\",\"w-fix-800\"]"}
 
 ::admonition
 ---

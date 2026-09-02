@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/business-manager-link
-__hash__: Fo_9XHi76Tk9QHzSY1h216Hqi0UuqD5fcGphetIGs6o
+__hash__: dydAlQrfRObsYM6NLLBNbLqgaVwzAcbvQAcT3utEzW0
 seo:
   title: Link a LINE MINI App channel to a Business Manager organization
   description: ''
@@ -59,7 +59,7 @@ In the following steps, you'll use both the LINE Developers Console and the Busi
 
 Open the **Business Manager link** tab of the LINE MINI App channel.
 
-![](/media/line-mini-app/service/business-manager-tab-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/business-manager-tab-en.webp){className="[\"border\"]"}
 
 Enter the organization ID of the organization you want to link to (BM followed by 11 digits) in **Organization ID**, and then click **Send a link request**.
 
