@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-03-07 00:00 UTC","tags":"outage-report,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2023/2023-03-07-home-tab-outage
-__hash__: I7wIK-qEvKHzR2z6hF0fdwFNBs85E9V5d0KEBR4YKhU
+__hash__: RH9dRMKWPNR1Exg1IcrYYwYvb2tfhM9xFpvWkyZZgcA
 seo:
   title: 【解消済み】LINEアプリのホームタブに関する障害のお知らせ
   description: LINEアプリのホームタブにおいて以下の障害が発生しておりましたが、すべて解消しております。お客様には多大なご迷惑をお掛けし、誠に申し訳ございません。
@@ -16,7 +16,7 @@ LINEアプリのホームタブにおいて以下の障害が発生しており�
 
 ### 発生期間
 
-2023年2月13日 ～ 2023年2月20日
+2023年2月13日 〜 2023年2月20日
 
 ### 原因
 

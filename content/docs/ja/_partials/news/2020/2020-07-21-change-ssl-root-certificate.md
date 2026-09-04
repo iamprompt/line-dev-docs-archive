@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-07-21 00:00 UTC","tags":"LINE Platform, Maintenance,
   SSL","locale":"ja"}
 path: /ja/_partials/news/2020/2020-07-21-change-ssl-root-certificate
-__hash__: olMYHgRfB8zfsd1a7rsZKKVJvQSR37VgRBC7CFJUGjo
+__hash__: gPLW2pjH9F8ML2-sfyZfsPOzx2aGBadSr27yUqcUPrI
 seo:
   title: LINEのAPIでSSLルート認証局が変更されました
   description: ''
@@ -28,8 +28,8 @@ LINEのAPIサーバーで使用しているSSL証明書を変更しました。
 
 ### 変更日時
 
-- 日本：2020年7月10日 17:17 ～ 17:54（UTC+9）
-- 日本国外：2020年8月4日 12:00 ～ 16:00（UTC+9）
+- 日本：2020年7月10日 17:17 〜 17:54（UTC+9）
+- 日本国外：2020年8月4日 12:00 〜 16:00（UTC+9）
 
 ### 影響
 

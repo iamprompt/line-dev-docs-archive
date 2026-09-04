@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/liff/versioning-policy
-__hash__: qQ8kEdYlmdNtD9HdwqguxKrQmwBW4dM9wvmUS5TFeRU
+__hash__: lpR97dROgVgy2iKblibdcsSBsJq0NdRAMW36qg5hB9Q
 seo:
   title: バージョニングポリシー
   description: null
@@ -32,7 +32,7 @@ LIFF SDKのアップデートに伴い、LIFFアプリに組み込んだLIFF SDK
 | LIFFバージョン   （リリース日）     | ステータス   （現ステータスの最終日）     | 利用可否および説明                                           |
 | ----------------------- | ------------------------ | --------------------------------------------------- |
 | LIFF v1   （2018年6月6日）   | 廃止   （2021年10月1日）        | ❌ 予告なくCDNエッジパスおよびCDN固定パスがすべて無効になり、LIFFアプリが開けなくなります。 |
-| LIFF v2   （2019年10月16日） | アクティブ   （～LIFF v3のリリース日） | ✅ 現行バージョンです。新規機能の追加や既存機能の改善が頻繁に行われます。               |
+| LIFF v2   （2019年10月16日） | アクティブ   （〜LIFF v3のリリース日） | ✅ 現行バージョンです。新規機能の追加や既存機能の改善が頻繁に行われます。               |
 | LIFF v3   （未定）          |                          |                                                     |
 
 ## LIFFのバージョニングポリシー
@@ -104,8 +104,8 @@ LIFF SDKのメジャーバージョンのライフサイクルをよく理解し
 
 | LIFFバージョン   （リリース日）     | アクティブ期間                       | メンテナンス期間                  | 非推奨期間                      | 廃止日                      |
 | ----------------------- | ----------------------------- | ------------------------- | -------------------------- | ------------------------ |
-| LIFF v1   （2018年6月6日）   | ～ 2019年10月15日   `✅ LIFF v1`   | ～ 2021年4月1日   `✅ LIFF v1` | ～ 2021年9月30日   `✅ LIFF v1` | 2021年10月1日   `❌ LIFF v1` |
-| LIFF v2   （2019年10月16日） | ～ LIFF v3のリリース日   `✅ LIFF v2` | ～未定   `✅ LIFF v2`         | ～未定   `✅ LIFF v2`          | 未定   `❌ LIFF v2`         |
+| LIFF v1   （2018年6月6日）   | 〜 2019年10月15日   `✅ LIFF v1`   | 〜 2021年4月1日   `✅ LIFF v1` | 〜 2021年9月30日   `✅ LIFF v1` | 2021年10月1日   `❌ LIFF v1` |
+| LIFF v2   （2019年10月16日） | 〜 LIFF v3のリリース日   `✅ LIFF v2` | 〜未定   `✅ LIFF v2`         | 〜未定   `✅ LIFF v2`          | 未定   `❌ LIFF v2`         |
 | LIFF v3   （未定）          |                               |                           |                            |                          |
 
 `✅ LIFF v1`/`❌ LIFF v1`：https://**d.line-scdn.net/liff/1.0**/sdk.js の利用可否

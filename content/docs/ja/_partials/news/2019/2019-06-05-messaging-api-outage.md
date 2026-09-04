@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-06-05 7:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2019/2019-06-05-messaging-api-outage
-__hash__: vd6o6o-Aj71GbfxA3CdEXKzat_n5DABGA5hB9un4M6U
+__hash__: d88HBjgWFcQUo2rG0jMwuieZO-Cazj5N-raMGF76i9E
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: >-
@@ -18,7 +18,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2019年6月5日 14:41 ～ 15:05（UTC+9）
+2019年6月5日 14:41 〜 15:05（UTC+9）
 
 ※主な影響範囲は、14:55 までとなります。
 

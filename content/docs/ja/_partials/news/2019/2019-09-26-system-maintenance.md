@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-09-26 02:00 UTC","tags":"Maintenance, LINE Login, Social API,
   Messaging API, LIFF","locale":"ja"}
 path: /ja/_partials/news/2019/2019-09-26-system-maintenance
-__hash__: ysXWV3SmDH8SgH-WYzUziEe3C3sNwDVWcnKGQWE_YWs
+__hash__: 4nv0JICqlwtfrx7D2UPIDhYEJ7t5Dmj1M_YIJMkytIg
 seo:
   title: システムメンテナンスのお知らせ
   description: 下記の日時において、システムメンテナンスを行います。ご利用のユーザー様にはご不便をおかけいたしますが、何卒ご理解いただきますようお願い申し上げます。
@@ -16,7 +16,7 @@ seo:
 
 #### メンテナンス予定日時
 
-2019年9月26日 16:20 ～ 16:50（UTC+9）の間の数秒程度
+2019年9月26日 16:20 〜 16:50（UTC+9）の間の数秒程度
 
 ※開始時間と終了時間は、前後する場合があります。
 

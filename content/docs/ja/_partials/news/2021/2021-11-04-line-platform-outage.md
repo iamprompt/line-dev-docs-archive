@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-11-04 01:00 UTC","tags":"outage-report, messaging-api,
   options-for-corporate-customers, line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2021/2021-11-04-line-platform-outage
-__hash__: S3xukiaV8l5dKVRfgpfhz9YSwGYZEiIsTbrnIlIDhug
+__hash__: 4LU-aEwInX7wt15aQYmFI9a1vdaVzykyr3uXBDpyh6k
 seo:
   title: 【復旧済み】LINEプラットフォーム障害のお知らせ
   description: LINEプラットフォームにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。
@@ -18,7 +18,7 @@ LINEプラットフォームにおいて以下の障害が発生しておりま�
 
 ### 発生日時
 
-2021年11月3日 16:55頃 ～ 17:05頃（UTC+9）
+2021年11月3日 16:55頃 〜 17:05頃（UTC+9）
 
 ### 原因
 

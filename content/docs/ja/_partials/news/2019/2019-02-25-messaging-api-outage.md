@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-02-25 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2019/2019-02-25-messaging-api-outage
-__hash__: TwAszlDte8ZrEKyi3p8qwA2Usve95H4LGO_Sxc8zUYo
+__hash__: vkFkz2w3w-fpFNkQA3J7BzmpG8WPSLCCuMNSI7_9zSo
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: >-
@@ -18,8 +18,8 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-- 2019年2月20日 18:45頃 ～ 19:02頃（UTC+9）
-- 2019年2月20日 19:10頃 ～ 19:26頃（UTC+9）
+- 2019年2月20日 18:45頃 〜 19:02頃（UTC+9）
+- 2019年2月20日 19:10頃 〜 19:26頃（UTC+9）
 
 ### 原因
 

@@ -6,7 +6,7 @@ description: >-
   APIの一部のエンドポイントのドメイン名は「api.line.me」から「api-data.line.me」に変更されました。
 meta: '{"date":"2020-03-19 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-03-19-remind-domain-name-change
-__hash__: Yi95N7KN6b_fvkZshWp_-RILiUZA3jFxNRy2HE6R4Fk
+__hash__: DeD1LSStiGI0678ZfnlLJs_-kDD4lmvM6g26uL6-xns
 seo:
   title: 【リマインド】一部のエンドポイントのドメイン名変更のお知らせ（移行期限：2020年4月30日）
   description: >-
@@ -32,4 +32,4 @@ seo:
 
 ### 移行期間
 
-2019年11月8日 ～ 2020年4月30日
+2019年11月8日 〜 2020年4月30日

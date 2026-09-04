@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/message-object-coupon
-__hash__: PGWZEzR2de96mXRdyFJb5xL0KvIT2eyY79O7RnNhdgg
+__hash__: _c-sQA0dauHR5mD2hquavMNTnsxgs1RMkMm1ZFHE-6E
 seo:
   description: ''
 ---
@@ -49,7 +49,7 @@ seo:
 
       最大文字数：30  
 
-      使用可能文字種：半角英数字（`a`〜`z`、`A`～`Z`、`0`～`9`）、アンダースコア（`_`）
+      使用可能文字種：半角英数字（`a`〜`z`、`A`〜`Z`、`0`〜`9`）、アンダースコア（`_`）
 
       `deliveryTag`を指定しない場合、経路は`不明`になります。詳しくは、『LINEヤフー for Business』の「[分析 - クーポン](https://www.lycbiz.com/jp/manual/OfficialAccountManager/insight_coupon/){rel="[\"nofollow\"]"}」を参照してください。
       :::::

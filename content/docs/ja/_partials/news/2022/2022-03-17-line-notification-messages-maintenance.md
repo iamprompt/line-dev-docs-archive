@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-03-17 00:00 UTC","tags":"Maintenance, Messaging API, Options for
   corporate customers","locale":"ja"}
 path: /ja/_partials/news/2022/2022-03-17-line-notification-messages-maintenance
-__hash__: tL1417olHWyn-H5rZgRU6d4Areeg8qeoaqluEVdzNBM
+__hash__: 9IXcZtKEr0ONxatAaeASK1Ji2ED0VWtfm2vM_0WON9E
 seo:
   title: 【メンテナンス終了】LINE通知メッセージ緊急メンテナンスのお知らせ
   description: ''
@@ -26,7 +26,7 @@ LINE通知メッセージは、所定の申請等を行った法人ユーザー�
 
 ### メンテナンス日時
 
-2022年3月17日 18:23～2022年3月18日 17:47（UTC+9）
+2022年3月17日 18:23〜2022年3月18日 17:47（UTC+9）
 
 ### 影響範囲
 

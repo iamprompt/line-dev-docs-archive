@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/send-multicast
-__hash__: zepmm6TV272cy9X8GZ5uQNN5hlaIOZqOVpTNxp9ln_w
+__hash__: UDydOnyU7ZQU3-fy6Z63rQ8azB9ky3SpJLaFYIimf2Q
 seo:
   description: ''
 ---
@@ -144,12 +144,12 @@ seo:
 
   最大文字数：30  
 
-  使用可能文字種：半角英数字（`a`〜`z`、`A`～`Z`、`0`～`9`）、アンダースコア（`_`）
+  使用可能文字種：半角英数字（`a`〜`z`、`A`〜`Z`、`0`〜`9`）、アンダースコア（`_`）
 
   ユニット名の付与について詳しくは、『Messaging APIドキュメント』の「[ユニット名を付与する](/docs/messaging-api/unit-based-statistics-aggregation/#assign-names-to-units-when-sending-messages)」を参照してください。
 
     ::::admonition{title="ユニット名が付与されないことがあります" type="note"}
-    ユニット名は、当月中（その月の1日～末日）に最大で1,000種類まで付与できます。1,001種類目以降のユニット名を付与してメッセージを送ろうとした場合、メッセージは送信されますがユニット名はメッセージに付与されません。
+    ユニット名は、当月中（その月の1日〜末日）に最大で1,000種類まで付与できます。1,001種類目以降のユニット名を付与してメッセージを送ろうとした場合、メッセージは送信されますがユニット名はメッセージに付与されません。
 
     ユニット名の種類が多い場合は、以下のいずれかの方法でユニット名が付与できる、あるいは付与できたことを確認してください。
 

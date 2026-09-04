@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-01-22 00:00 UTC","tags":"Outage report, Flex Message
   Simulator","locale":"ja"}
 path: /ja/_partials/news/2020/2020-01-22-flex-simulator-outage
-__hash__: btJErPsQ1YojhIpP9HqXGRcl4J4Z3CLRt5ZtlDBAw7c
+__hash__: x8g48odC-4Sx0LUneXMac9rP3YviZz4CGOwQMej-edY
 seo:
   title: 【復旧済み】Flex Message Simulator障害のお知らせ
   description: >-
@@ -20,7 +20,7 @@ Flex Message Simulatorにおいて以下の障害が発生しておりました�
 
 ### 発生日時
 
-2020年1月21日 13:03（UTC+9） ～ 2020年1月22日 11:59（UTC+9）
+2020年1月21日 13:03（UTC+9） 〜 2020年1月22日 11:59（UTC+9）
 
 ### 原因
 

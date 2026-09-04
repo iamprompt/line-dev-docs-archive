@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-06-22 00:00 UTC","tags":"Maintenance, Options for corporate
   customers, Messaging API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-06-22-reminder-mark-as-read-api-maintenance
-__hash__: cpOQSIcMrKFaGycmDoa6CfAWwcmrobNUaapkaogrDUA
+__hash__: ZyGYvYPAFZzmWW3haJcQmZzmZHL7Oe229KOQwsFw8Dg
 seo:
   title: 【リマインド】Mark-as-Read API メンテナンスのお知らせ
   description: >-
@@ -24,7 +24,7 @@ Mark-as-Read APIは、所定の申請等を行った法人ユーザーのみが�
 
 ### メンテナンス予定日時
 
-2021年6月24日 0:00 ～ 7:00（UTC+9）
+2021年6月24日 0:00 〜 7:00（UTC+9）
 
 なお、メンテナンス終了時刻は予告なく前後する可能性があります。
 

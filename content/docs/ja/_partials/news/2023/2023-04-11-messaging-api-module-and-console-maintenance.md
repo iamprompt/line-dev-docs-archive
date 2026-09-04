@@ -7,7 +7,7 @@ meta: >-
   corporate customers, console","locale":"ja"}
 path: >-
   /ja/_partials/news/2023/2023-04-11-messaging-api-module-and-console-maintenance
-__hash__: tYCa2rFc-qoXTt78KTxUUFizU6HvyLBlSnwN92RWxpg
+__hash__: S4SjH0fnCwfrwmI2SZMdiZe_WhHGWCZQ5Y-YwXfcwUY
 seo:
   title: Messaging API、モジュール、およびLINE Developersコンソール メンテナンスのお知らせ
   description: Messaging API、モジュール、およびLINE Developersコンソールにおいて、以下のメンテナンスを行います。
@@ -17,7 +17,7 @@ Messaging API、モジュール、およびLINE Developersコンソールにお�
 
 ### メンテナンス予定日時
 
-2023年5月11日 2:00頃 ～ 3:00頃（UTC+9）
+2023年5月11日 2:00頃 〜 3:00頃（UTC+9）
 
 なお、メンテナンス終了時刻は予告なく前後する可能性があります。
 

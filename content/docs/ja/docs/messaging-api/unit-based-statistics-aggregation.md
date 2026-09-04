@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/unit-based-statistics-aggregation
-__hash__: ciSbPoG11fMfhfzfN3_iePAte7g5rIE6GY-feDZXxQw
+__hash__: GsviRzbOmiWXkOWEwI79zdNtMuMJXWBFJ7mhBawoGWI
 seo:
   title: 送信したメッセージの統計情報を取得する
   description: null
@@ -75,7 +75,7 @@ curl -v -X POST https://api.line.me/v2/bot/message/push \
 
 ### ユニット名の種類数の上限
 
-当月中（その月の1日～末日）に、最大で1,000種類のユニット名を付与してメッセージを送信できます。
+当月中（その月の1日〜末日）に、最大で1,000種類のユニット名を付与してメッセージを送信できます。
 
 たとえば3月に`promotion_0001`から`promotion_1000`まで1,000種類のユニット名を付与してメッセージを送信したとします。その場合、翌月（4月）に同じ`promotion_0001`から`promotion_1000`までの1,000種類のユニット名を付与してメッセージを送信することも可能ですし、新しいユニット名である`promotion_1001`から`promotion_2000`までの1,000種類を付与してメッセージを送信することも可能です。
 

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2023-03-01 00:00 UTC","tags":"console, outage-report","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-03-01-line-developers-console-outage
-__hash__: X_bGLFK_zwld3zmPfKgvKoq4oS1K0fYEeWlWvGzF14E
+__hash__: k1DawCRsw9aaCGE2JfwO8ihqZ2eE64D9ZfO-IFJLIDs
 seo:
   title: 【復旧済み／更新】LINE Developersコンソール障害のお知らせ
   description: ''
@@ -18,7 +18,7 @@ LINE Developersコンソールにおいて以下の障害が発生しており�
 
 ### 発生日時
 
-2022年11月16日 11:16頃 ～ 2023年2月28日 19:37頃（UTC+9）
+2022年11月16日 11:16頃 〜 2023年2月28日 19:37頃（UTC+9）
 
 ### 原因
 

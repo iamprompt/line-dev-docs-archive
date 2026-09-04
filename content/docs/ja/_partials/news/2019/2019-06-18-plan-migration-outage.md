@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-06-18 7:00 UTC","tags":"Outage report, Messaging API,
   Console","locale":"ja"}
 path: /ja/_partials/news/2019/2019-06-18-plan-migration-outage
-__hash__: ZdwB0S9PbOh_t3cn2Nu6JAU25sRE3DT-1rLC8U6CLT0
+__hash__: cuNMrSLZilhluP3u0iAmCSNEFdsTWhEE1NDSJn8mg4k
 seo:
   title: 【復旧済み】LINE公式アカウントへの統合に伴う問題のお知らせ
   description: >-
@@ -20,7 +20,7 @@ seo:
 
 ### 発生日時
 
-2019年6月11日 ～ 2019年6月18日 14:33（UTC+9）
+2019年6月11日 〜 2019年6月18日 14:33（UTC+9）
 
 ### 原因
 

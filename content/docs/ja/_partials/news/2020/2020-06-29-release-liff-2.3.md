@@ -6,7 +6,7 @@ description: |-
   LIFF v2.3.0における変更点は以下のとおりです。
 meta: '{"date":"2020-06-29 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-06-29-release-liff-2.3
-__hash__: DWxtgdKN6hb1uOayYWmApbkoHVyxVVRh4qbKhZuqj5k
+__hash__: aCDwMXOakNa85yI_TrYP-zkVwVazjcEz-AAdXuo4Yno
 seo:
   title: LIFF v2.3.0をリリースしました
   description: |-
@@ -65,7 +65,7 @@ catch (err) {
 
 ::admonition{title="注意" type="note"}
 - この仕様変更により、`liff.shareTargetPicker()`の戻り値に変更があります。
-- ユーザーがLINE 10.3.0～LINE 10.10.0を使用している場合は、この仕様変更の影響を受けません。
+- ユーザーがLINE 10.3.0〜LINE 10.10.0を使用している場合は、この仕様変更の影響を受けません。
 ::
 
 #### 仕様変更に対応するサンプルコード

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-06-17 5:00 UTC","tags":"Outage report, LINE
   Login","locale":"ja"}
 path: /ja/_partials/news/2019/2019-06-17-line-login-outage
-__hash__: XcMVg2rZ1j_OqnLadJen7cnIpnIwKTM6VTSQjcSOpjU
+__hash__: RwykR83CNUqHDN3KuBHPTzId4jg7quzo0M-t88jhwB0
 seo:
   title: 【復旧済み】LINEログイン障害のお知らせ
   description: LINEログインにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。
@@ -16,7 +16,7 @@ LINEログインにおいて以下の障害が発生しておりましたが、�
 
 ### 発生日時
 
-2019年6月17日 11:41 ～ 13:01（UTC+9）
+2019年6月17日 11:41 〜 13:01（UTC+9）
 
 ### 原因
 

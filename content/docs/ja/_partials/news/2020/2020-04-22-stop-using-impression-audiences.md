@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-04-22 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-04-22-stop-using-impression-audiences
-__hash__: LmypDyUb3KEmEDSDwqxAOa7MA9APaAhV2hfbUG4xluY
+__hash__: Bdr4O0tKk_mboZJg-VsBXfKJOQRK34vqcA2sRu52UIA
 seo:
   title: 【復旧済み／更新】「オーディエンス」と「分析」の一部APIの集計不具合のお知らせ
   description: ''
@@ -29,7 +29,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2020年4月13日 15:30頃 ～ 2020年5月1日 14:30頃（UTC+9）
+2020年4月13日 15:30頃 〜 2020年5月1日 14:30頃（UTC+9）
 
 ### 状況
 
@@ -39,6 +39,6 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 - [インプレッションリターゲティング用のオーディエンスを作成する](/reference/messaging-api/#create-imp-audience-group)APIの停止（解除済み）
 - [ユーザーの操作に基づく統計情報を取得する](/reference/messaging-api/#get-message-event)APIの停止（解除済み）
-- 2020年3月30日 00:00 ～ 2020年4月22日 21:30に配信されたメッセージをもとに作成したインプレッションリターゲティング用のオーディエンスの無効化（無効化済み）
+- 2020年3月30日 00:00 〜 2020年4月22日 21:30に配信されたメッセージをもとに作成したインプレッションリターゲティング用のオーディエンスの無効化（無効化済み）
 
 LINEは今後もお客様への一層のサービス向上に取組んでまいります。何卒ご理解を賜りますよう、よろしくお願い申し上げます。

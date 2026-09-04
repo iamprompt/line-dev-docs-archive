@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-04-22 00:00 UTC","tags":"Outage report, Options for corporate
   customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-04-22-mark-as-read-outage
-__hash__: 9OSrgoOeCpruu-btc2aX_C5m2tRpUiqpxiDRfYDvsrM
+__hash__: 2LZ4XRp_3VOXeyzPu_keXvvbClXZHfINvoWEdG0WhKs
 seo:
   title: 【復旧済み】Mark-as-Read API障害のお知らせ
   description: ''
@@ -24,7 +24,7 @@ Mark-as-Read APIは、所定の申請等を行った法人ユーザーのみが�
 
 ### 発生日時
 
-2021年4月22日 17:01頃 ～ 18:34頃（UTC+9）
+2021年4月22日 17:01頃 〜 18:34頃（UTC+9）
 
 ### 原因
 

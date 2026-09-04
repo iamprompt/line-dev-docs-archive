@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-04-27 01:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-04-27-messaging-api-outage
-__hash__: WkAII1cd37Gp32nBQPpMxySIw2u3cfMxX2-k3won2xA
+__hash__: 0KfjHzcBqYVFaMAElfTGzOWXGvybmBL1apJgJYx9KUc
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: Messaging APIにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。
@@ -18,7 +18,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2021年4月27日 16:56頃 ～ 17:25頃（UTC+9）
+2021年4月27日 16:56頃 〜 17:25頃（UTC+9）
 
 ### 原因
 

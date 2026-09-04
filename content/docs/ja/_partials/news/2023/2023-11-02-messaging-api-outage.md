@@ -6,7 +6,7 @@ meta: >-
   {"date":"2023-11-02 01:00 UTC","tags":"outage-report,
   messaging-api","locale":"ja"}
 path: /ja/_partials/news/2023/2023-11-02-messaging-api-outage
-__hash__: nt4QcD-3WoXZP0EYIW6MXgVVSDrQduAoSiwE8GTRKn0
+__hash__: Ah-ob-2ZtU-vPon94yLiXP_5gJgK5FBITKWWtZznpSc
 seo:
   title: 【復旧済み／更新】「分析」の一部APIにおける集計遅延のお知らせ
   description: ''
@@ -26,7 +26,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2023年11月2日 ～ 2023年11月8日
+2023年11月2日 〜 2023年11月8日
 
 ### 原因
 

@@ -6,7 +6,7 @@ description: >-
   Developersコンソールにおいて、Memberユーザーがチャネルシークレットを取得できる不具合が見つかり、修正いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。
 meta: '{"date":"2019-07-26 2:00 UTC","tags":"Outage report, Console","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-07-26-channel-secret-leak
-__hash__: WmWLxTHc8XbpOSeqAu953TcGCzdX7hbZcU4lygz8zjA
+__hash__: xO3UAl7zUij6N4rNg28BWFduTx0wBAeZnIQCsSynq-w
 seo:
   title: 【修正済み】Memberユーザーがチャネルシークレットを取得できる不具合のお知らせ
   description: >-
@@ -20,7 +20,7 @@ LINE Developersコンソールにおいて、Memberユーザーがチャネル�
 
 #### 発生期間
 
-2017年9月21日 ～ 2019年7月17日
+2017年9月21日 〜 2019年7月17日
 
 #### 状況
 

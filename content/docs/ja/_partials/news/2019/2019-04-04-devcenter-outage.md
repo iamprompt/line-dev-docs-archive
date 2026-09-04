@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-04-04 06:00 UTC","tags":"Outage report, LINE
   Platform","locale":"ja"}
 path: /ja/_partials/news/2019/2019-04-04-devcenter-outage
-__hash__: w2-FZ5QAeGfaUx5qigXkAsKrjcFF5KF_19klfOtO2Oc
+__hash__: eE26WWmuDJfhB1xDIyfpPuFnW3n7EF1SjdPNL4mQevo
 seo:
   title: 【復旧済み】LINE Developersサイト 障害のお知らせ
   description: >-
@@ -20,7 +20,7 @@ LINE Developersサイトにおいて以下の障害が発生しておりまし�
 
 ### 発生日時
 
-2019年4月4日 14:00頃 ～ 15:00頃（UTC+9）
+2019年4月4日 14:00頃 〜 15:00頃（UTC+9）
 
 ### 原因
 

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-08-28 09:00 UTC","tags":"Outage report, LINE
   Platform","locale":"ja"}
 path: /ja/_partials/news/2019/2019-08-28-devcenter-outage
-__hash__: 2pc_KEf2dJrbj6LsOch-uCrPAWFgkmqZXJ0fsLlInoM
+__hash__: 3tRHwkq4ej5x1ENcT51dmvTaiJkY0gptTy_sPesMlPk
 seo:
   title: 【復旧済み】LINE Developersサイト 障害のお知らせ
   description: >-
@@ -20,7 +20,7 @@ LINE Developersサイトにおいて以下の障害が発生しておりまし�
 
 ### 発生日時
 
-2019年8月28日 18:15頃 ～ 18:40頃（UTC+9）
+2019年8月28日 18:15頃 〜 18:40頃（UTC+9）
 
 ### 原因
 

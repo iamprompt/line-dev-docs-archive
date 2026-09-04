@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-using-messaging-api
-__hash__: ihJeR9-keeupccHt4a7O1Ozk5RUpTUNRU45jR-umvPw
+__hash__: nghwvusMyJ3LUQsSAjHgOnFhkdOI-6x_JwqYg3DfxgI
 seo:
   title: モジュールチャネルからMessaging APIを利用する
   description: null
@@ -132,7 +132,7 @@ curl -v -X POST https://api.line.me/v2/bot/message/push \
 
 たとえば、あるモジュールチャネルにおいて、ユニット名の「ユニットA」を付与したメッセージを、LINE公式アカウントAとLINE公式アカウントBから送信したとします。このとき、それぞれのLINE公式アカウントごとにユニット単位の統計情報が集計されます。
 
-また、当月中（その月の1日～末日）に付与したユニット名の種類数も同様に、LINE公式アカウントのボットとユニット名の組み合わせで集計されます。
+また、当月中（その月の1日〜末日）に付与したユニット名の種類数も同様に、LINE公式アカウントのボットとユニット名の組み合わせで集計されます。
 
 詳しくは、『Messaging APIドキュメント』の「[送信したメッセージの統計情報を取得する](/docs/messaging-api/unit-based-statistics-aggregation/)」を参照してください。
 

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-07-29 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-07-29-messaging-api-outage
-__hash__: 1VVLK3A72P9LNCz6D49KqLWOL07W-qZI9QVRoaSlgqw
+__hash__: k93M69Gp5p5pqH2XNLd-EowaYaLypLYl4RO3nD6v1T0
 seo:
   title: 【一部復旧済み】「分析」の一部APIの集計不具合のお知らせ
   description: >-
@@ -20,7 +20,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、一�
 
 ### 発生日時
 
-現象1：2020年7月21日 7時頃 ～ 17時頃（UTC+9）
+現象1：2020年7月21日 7時頃 〜 17時頃（UTC+9）
 
 現象2：2020年7月16日以降（UTC+9）
 
@@ -34,7 +34,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、一�
 
 #### 【制限】現象2
 
-一部（全体の0.5%未満）のLINE公式アカウントにおいて、[友だち数を取得するAPI](/reference/messaging-api/#get-number-of-followers)を使って、2020年7月16日～2020年7月20日の友だち数を取得した場合、`followers`、`targetedReaches`、および`blocks`で誤った数値が返される可能性があります。
+一部（全体の0.5%未満）のLINE公式アカウントにおいて、[友だち数を取得するAPI](/reference/messaging-api/#get-number-of-followers)を使って、2020年7月16日〜2020年7月20日の友だち数を取得した場合、`followers`、`targetedReaches`、および`blocks`で誤った数値が返される可能性があります。
 
 現象2に該当していたLINE公式アカウントでは、具体的には以下のような影響が発生している可能性があります。
 

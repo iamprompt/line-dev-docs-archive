@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-12-20 0:00 UTC","tags":"Outage report, LINE
   Login","locale":"ja"}
 path: /ja/_partials/news/2019/2019-12-20-line-login-outage
-__hash__: cwgJooV-rJN0ttAnc2joE9Utfw5e7qwenvgUt3XwLo4
+__hash__: ocCGPBGiii5KkHWwfjexylnGTEOusU3sQyQuKo91Z-U
 seo:
   title: 【復旧済み】LINEログイン障害のお知らせ
   description: LINEログインにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。
@@ -16,7 +16,7 @@ LINEログインにおいて以下の障害が発生しておりましたが、�
 
 ### 発生日時
 
-2019年12月19日 19:10 ～ 19:32頃（UTC+9）
+2019年12月19日 19:10 〜 19:32頃（UTC+9）
 
 ### 原因
 

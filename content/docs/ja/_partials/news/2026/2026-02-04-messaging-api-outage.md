@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-02-04 00:00 UTC","tags":"outage-report,
   messaging-api","locale":"ja"}
 path: /ja/_partials/news/2026/2026-02-04-messaging-api-outage
-__hash__: 3ZQrnb2-JwGZ0kj2z9mnrzc7dFCwPFjlpasrj2II5yw
+__hash__: rol0JdcMWBJ01R4rcIjc2OzsxPFTnFLstWoOdpbQmMs
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: Messaging APIにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。
@@ -18,7 +18,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2026年2月3日 14:13頃 ～ 15:44頃（UTC+9）
+2026年2月3日 14:13頃 〜 15:44頃（UTC+9）
 
 ### 原因
 

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-03-20 00:00 UTC","tags":"LINE
   Platform,Maintenance","locale":"ja"}
 path: /ja/_partials/news/2018/2018-03-20-change-ssl-root-certificate
-__hash__: tEkpxLptmePadFZxMRwBJIk-aYp-MDD6LBTRTAn5ohA
+__hash__: k1y-JFVfPHSvZ-hq2H5HIHXHSt14MORDDvutWxlLJKk
 seo:
   title: api.line.meのSSLルート認証局を変更します
   description: >-
@@ -20,6 +20,6 @@ seo:
 
 ### 予定日時
 
-2018年3月22日 14:00 ～ 17:30（UTC+9）
+2018年3月22日 14:00 〜 17:30（UTC+9）
 
 LINEは今後もお客様への一層のサービス向上に取組んでまいります。何卒ご理解を賜りますよう、よろしくお願い申し上げます。

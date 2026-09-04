@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-12-22 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-12-22-messaging-api-outage
-__hash__: dIFMasc8eGKdpaf6Q5vc8a20bhMAbRN7kLduz-JeDoA
+__hash__: HFl9zoKhe6Eax1Tvm5qy10m_iMD_XiAdtt5Oef9-0j4
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: Messaging APIにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。
@@ -18,7 +18,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2020年12月22日 12:16頃 ～ 13:31頃（UTC+9）
+2020年12月22日 12:16頃 〜 13:31頃（UTC+9）
 
 ### 原因
 

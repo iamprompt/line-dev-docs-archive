@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-07-26 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-07-26-messaging-api-outage
-__hash__: kuLr3vGTQF7w7eJscEMJlxIWL9cKAl9OyWZYYT-z5-k
+__hash__: U9CC9uF3FNl5Fe5XRT4hAbfWH_XOWQI4s1j--IHMpXU
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: >-
@@ -18,7 +18,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2021年7月26日 13:22頃 ～ 15:12頃（UTC+9）
+2021年7月26日 13:22頃 〜 15:12頃（UTC+9）
 
 ### 原因
 

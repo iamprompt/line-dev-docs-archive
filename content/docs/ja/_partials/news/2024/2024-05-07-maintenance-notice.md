@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-05-07 00:00 UTC","tags":"maintenance, messaging-api,
   options-for-corporate-customers, console","locale":"ja"}
 path: /ja/_partials/news/2024/2024-05-07-maintenance-notice
-__hash__: NjDh9Sto_LZW3oLf0rIf_1-A_QXwx1JCg2S6JXXYVB0
+__hash__: ViaKO-1WDQB0LokPM4s7JmoVVcII-gvaKpvAzNH8Dzo
 seo:
   title: Messaging API、モジュール、およびLINE Developersコンソール メンテナンスのお知らせ
   description: >-
@@ -20,7 +20,7 @@ Messaging API、モジュール、およびLINE Developersコンソールにお�
 
 ### メンテナンス予定日時
 
-2024年6月5日 2:00頃 ～ 3:00頃（UTC+9）
+2024年6月5日 2:00頃 〜 3:00頃（UTC+9）
 
 なお、メンテナンス日時は予告なく変更される可能性があります。
 

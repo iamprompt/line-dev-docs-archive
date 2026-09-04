@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-03-01 00:00 UTC","tags":"Outage report, Social API, LINE
   Login","locale":"ja"}
 path: /ja/_partials/news/2019/2019-03-01-social-api-outage
-__hash__: D_Lazwv8jtwYIvE_lYvpy53APapZKNBCzdpdtuWuWKk
+__hash__: laELiwKhvc-uix_AYMsvpaFA4UP8zXLCNnz9LDy6aEQ
 seo:
   title: 【復旧済み】LINEログインとSocial APIの障害のお知らせ
   description: >-
@@ -20,7 +20,7 @@ LINEログインとSocial APIにおいて以下の障害が発生しておりま
 
 ### 発生日時
 
-2019年2月26日 6:46 ～ 7:16（UTC+9）
+2019年2月26日 6:46 〜 7:16（UTC+9）
 
 ### 原因
 

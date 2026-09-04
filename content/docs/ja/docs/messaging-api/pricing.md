@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/pricing
-__hash__: A_cuU4uNy9UC3CSN786x4lg7ony2N2Y_ifNPdBiSyJk
+__hash__: j6LPN1BvbBKUnrCgWCE6b4UWo9Jp4U-ubYv4IlPLSfg
 seo:
   title: Messaging APIの料金
   description: null
@@ -41,7 +41,7 @@ LINE公式アカウントには、無料のプランと、月額固定費がか�
 | -------------------------------------------------------------------------------------------------------------------------- | ------------ | ------ | -------------------------------------------------------------------------------------------------------------------- |
 | 月額固定費 :sup[[1](#user-content-fn-1){ariaDescribedBy="[\"footnote-label\"]" dataFootnoteRef="" #user-content-fnref-1}]       | 0円           | 5,000円 | 15,000円                                                                                                              |
 | 無料メッセージ通数 （月）                                                                                                              | 200通         | 5,000通 | 30,000通                                                                                                              |
-| 追加メッセージ料金 :sup[[1](#user-content-fn-1){ariaDescribedBy="[\"footnote-label\"]" dataFootnoteRef="" #user-content-fnref-1-2}] | 不可           | 不可     | ～3円/通 :sup[[2](#user-content-fn-2){ariaDescribedBy="[\"footnote-label\"]" dataFootnoteRef="" #user-content-fnref-2}] |
+| 追加メッセージ料金 :sup[[1](#user-content-fn-1){ariaDescribedBy="[\"footnote-label\"]" dataFootnoteRef="" #user-content-fnref-1-2}] | 不可           | 不可     | 〜3円/通 :sup[[2](#user-content-fn-2){ariaDescribedBy="[\"footnote-label\"]" dataFootnoteRef="" #user-content-fnref-2}] |
 
 たとえば、月に1,000通のメッセージを送信したい場合は、無料メッセージ通数が5,000通のライトプランを選択します。
 

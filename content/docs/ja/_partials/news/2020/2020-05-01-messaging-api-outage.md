@@ -8,7 +8,7 @@ meta: >-
   {"date":"2020-05-01 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-05-01-messaging-api-outage
-__hash__: KzhqTnasLKEpIPDVrieHw8mjnBz0FdpOHEDIPpQ0gQk
+__hash__: 0dqVi0PglZvX7HxxBQwA309qxaxSJGMNHY6uC5fEP54
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: |-
@@ -25,7 +25,7 @@ Messaging APIで提供するすべての機能に影響が発生していた可�
 
 ### 発生日時
 
-2019年4月24日 14:41 ～ 17:46（UTC+9）
+2019年4月24日 14:41 〜 17:46（UTC+9）
 
 ### 原因
 

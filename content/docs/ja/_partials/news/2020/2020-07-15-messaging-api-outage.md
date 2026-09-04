@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-07-15 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-07-15-messaging-api-outage
-__hash__: ZGG2JcTDtvjGIHcS-K3Y9ThkPjEO0OZhkOd88dvem34
+__hash__: BNM2FcsaycOSjjv1BSTXfi6lSqqx1I1GPh8Tf5OpE9I
 seo:
   title: 【復旧済み】Webhookイベント送信障害のお知らせ
   description: >-
@@ -18,7 +18,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2020年6月29日 13:20 ～ 2020年7月14日 17:42（UTC+9）
+2020年6月29日 13:20 〜 2020年7月14日 17:42（UTC+9）
 
 ### 原因
 

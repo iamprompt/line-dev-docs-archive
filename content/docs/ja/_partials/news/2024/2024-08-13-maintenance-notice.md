@@ -8,7 +8,7 @@ meta: >-
   messaging-api, line-login, liff, line-mini-app,
   options-for-corporate-customers, console","locale":"ja"}
 path: /ja/_partials/news/2024/2024-08-13-maintenance-notice
-__hash__: 25K36LHNFMSjGrvOlFvW_hrx5j2ZWav5Idk42lpzmH8
+__hash__: u-cz7mkiKBKM7rL-LsKgq_7rJ5t4XCQWa1UssVNTG_c
 seo:
   title: LINEプラットフォーム メンテナンスのお知らせ
   description: >-
@@ -19,7 +19,7 @@ LINEプラットフォームにおいて、以下のメンテナンスを予定�
 
 ### メンテナンス予定日時
 
-2024年8月28日 5:00頃 ～ 6:00頃（UTC+9）
+2024年8月28日 5:00頃 〜 6:00頃（UTC+9）
 
 なお、メンテナンス日時は予告なく変更される可能性があります。
 

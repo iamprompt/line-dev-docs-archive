@@ -8,7 +8,7 @@ meta: >-
   {"date":"2017-12-15 00:00 UTC","tags":"Outage report, LINE
   Platform","locale":"ja"}
 path: /ja/_partials/news/2017/2017-12-15-server-outage
-__hash__: d543iJXMH-AmCDkeuiyofwB1AgdQCqZtc1pPQOBLGJc
+__hash__: _z_z3TuQlJN8yPyEfyRgwjotK2CHoR1dom_K-V9djxk
 seo:
   title: 【復旧済み】Messaging API（ボット）とLINEログイン 障害のお知らせ
   description: >-
@@ -20,7 +20,7 @@ Messaging API（ボット）とLINEログインにおいて以下の障害が発
 
 ### 発生日時
 
-2017年12月14日 16:40 ～ 17:08（UTC+9）
+2017年12月14日 16:40 〜 17:08（UTC+9）
 
 ### 原因
 

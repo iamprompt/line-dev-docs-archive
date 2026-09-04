@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-10-04 05:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2019/2019-10-04-messaging-api-outage
-__hash__: dhBXl_N_RU31jyn3QRM-JQVE1sXZ4SX2s6AjUVIIAsc
+__hash__: y6GosjHDUh9Gjde5dqYDwjLRiq4BSwcBs4_149M6Z_E
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: >-
@@ -20,13 +20,13 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 2019年10月4日
 
-9:01頃 ～ 9:02頃（UTC+9）
+9:01頃 〜 9:02頃（UTC+9）
 
 10:04頃（UTC+9）
 
-11:00頃 ～ 11:08頃（UTC+9）
+11:00頃 〜 11:08頃（UTC+9）
 
-12:02頃 ～ 12:08頃（UTC+9）
+12:02頃 〜 12:08頃（UTC+9）
 
 ### 原因
 

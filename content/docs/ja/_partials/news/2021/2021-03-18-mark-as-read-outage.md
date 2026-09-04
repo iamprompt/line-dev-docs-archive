@@ -8,7 +8,7 @@ meta: >-
   {"date":"2021-03-18 01:00 UTC","tags":"Outage report, Options for corporate
   customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-03-18-mark-as-read-outage
-__hash__: U8kPulfjz8PObrBO9ouVnTAMOncuf7rrhZm2m-BbGzU
+__hash__: C60YCyZKTG4k1ymY3m0xZqMW5JRJtli9c-JhiqJhxn0
 seo:
   title: 【復旧済み】Mark-as-Read API障害のお知らせ
   description: >-
@@ -24,7 +24,7 @@ Mark-as-Read APIは、所定の申請等を行った法人ユーザーのみが�
 
 ### 発生日時
 
-2021年3月17日 4:51頃 ～ 7:35頃（UTC+9）
+2021年3月17日 4:51頃 〜 7:35頃（UTC+9）
 
 ### 原因
 

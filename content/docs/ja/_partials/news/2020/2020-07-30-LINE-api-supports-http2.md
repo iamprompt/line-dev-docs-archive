@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-07-30 00:00 UTC","tags":"LINE Platform, Maintenance,
   SSL","locale":"ja"}
 path: /ja/_partials/news/2020/2020-07-30-line-api-supports-http2
-__hash__: w8wYHjcCQ4-NvI_IxbyRYD9v0y_DdbHyDWzEtOM1eMc
+__hash__: QY2Z_QnaoDRDOQUhmVSf4s3s0HVj7IPfmWcDQT4oZns
 seo:
   title: LINEのAPIがHTTP/2に対応します
   description: LINEのAPIが、新たにHTTP/2に対応します。
@@ -32,7 +32,7 @@ LINEのAPIが、新たにHTTP/2に対応します。
 
 ### 変更予定日時
 
-2020年8月4日 12:00 ～ 16:00（UTC+9）
+2020年8月4日 12:00 〜 16:00（UTC+9）
 
 ### 影響
 

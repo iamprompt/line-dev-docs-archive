@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-10-17 00:00 UTC","tags":"outage-report, messaging-api,
   options-for-corporate-customers, line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2022/2022-10-17-line-platform-outage
-__hash__: _U8qRnY42Uul-7hwMYbhoihLQaSLeRfKnQfARpDPqWo
+__hash__: slOwQHyWUA-alhGgYEJyURE6ZKvmEF7NrHB4FgeplO8
 seo:
   title: 【復旧済み】LINEプラットフォーム障害のお知らせ
   description: LINEプラットフォームにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。
@@ -18,7 +18,7 @@ LINEプラットフォームにおいて以下の障害が発生しておりま�
 
 ### 発生日時
 
-2022年10月16日 17:47頃 ～ 18:07頃（UTC+9）
+2022年10月16日 17:47頃 〜 18:07頃（UTC+9）
 
 ### 原因
 

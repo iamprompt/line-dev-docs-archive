@@ -8,7 +8,7 @@ meta: >-
   {"date":"2024-01-11 00:00 UTC","tags":"messaging-api,
   maintenance","locale":"ja"}
 path: /ja/_partials/news/2024/2024-01-11-messaging-api-maintenance
-__hash__: 4zqNK6GYfOUKbL91aWXRMME0iIiQMCsypq2xRWEdKd8
+__hash__: TkLVyMx1C-7dPibojDFjMGSIuM9Z3U5lITAHE5jrI5Q
 seo:
   title: Messaging API メンテナンスのお知らせ
   description: >-
@@ -20,7 +20,7 @@ Messaging APIにおいて、以下のメンテナンスを行います。ご利�
 
 ### メンテナンス予定日時
 
-2024年1月23日 21:00頃 ～ 2024年1月24日 0:00頃（UTC+9）
+2024年1月23日 21:00頃 〜 2024年1月24日 0:00頃（UTC+9）
 
 なお、メンテナンス終了時刻は予告なく前後する可能性があります。
 

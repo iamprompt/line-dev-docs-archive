@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-02-16 00:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-02-16-messaging-api-outage
-__hash__: HSskuAWQVHAj2YWmBiizHQ2UwfhOIsX8bgy-z0epQW8
+__hash__: gXx6fDDjJMHzAte4bKJtM6cbKL_-EZjtYYlwR96HSkY
 seo:
   title: 【復旧済み】Webhookイベント送信障害のお知らせ
   description: >-
@@ -18,7 +18,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2021年2月4日 12:37 ～ 2021年2月16日 17:59（UTC+9）
+2021年2月4日 12:37 〜 2021年2月16日 17:59（UTC+9）
 
 ### 原因
 

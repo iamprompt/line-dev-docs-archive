@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/demo/tableorder-demo
-__hash__: I1NLMM119WGs02Y-O16Xmb4AhrFGBpaCplIwcEaeM78
+__hash__: M7TRKQ0UZu10Ts6EWj4DVlwr33axkMT3zoFQkTdslN4
 seo:
   title: モバイルオーダーデモ
   description: null
@@ -12,7 +12,7 @@ seo:
 
 # :page-title
 
-:markdown-controls:partial{content="documentation-partials/api-use-case/announcement-of-page/"}飲食店内外でLINEミニアプリ上から商品の事前注文～決済（＋デリバリー）ができます。
+:markdown-controls:partial{content="documentation-partials/api-use-case/announcement-of-page/"}飲食店内外でLINEミニアプリ上から商品の事前注文〜決済（＋デリバリー）ができます。
 
 LINEミニアプリとLINE公式アカウントとの連携により、サービスを利用する中でスムーズにLINE公式アカウントの友だちを獲得することが可能になり、LINEミニアプリを通じて取得したユーザーデータを活用し、より効率的な販促活動を実現することができます。（※同じプロバイダー内で提供する場合のみ）
 

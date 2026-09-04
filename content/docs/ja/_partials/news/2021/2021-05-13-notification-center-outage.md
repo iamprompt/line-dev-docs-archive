@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールの通知センターにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。
 meta: '{"date":"2021-05-13 01:00 UTC","tags":"Console, Outage report","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-05-13-notification-center-outage
-__hash__: '-LQaEtCDyMAfusli8BCLiYwyT8kyk4N2QRQsfj3W1mI'
+__hash__: 8atlz09K0T3xnclcCgni2N0FG9oISKgZ3tQ_FhwuypY
 seo:
   title: 【復旧済み】LINE Developersコンソール通知センター障害のお知らせ
   description: LINE Developersコンソールの通知センターにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。
@@ -16,7 +16,7 @@ LINE Developersコンソールの通知センターにおいて以下の障害�
 
 ### 発生日時
 
-2021年4月16日頃 ～ 2021年5月12日 17:17頃（UTC+9）
+2021年4月16日頃 〜 2021年5月12日 17:17頃（UTC+9）
 
 ### 原因
 

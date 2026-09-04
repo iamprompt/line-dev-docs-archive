@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/integrate-pkce
-__hash__: vmcUWdIE5yHP77QZGsjsIA1C4ayFzkK20hnBb_bIsVg
+__hash__: HFJgaMO4WqgOFDx3nWtW-oA_9GwsWIPQ0HfKrJ1fxqQ
 seo:
   title: LINEログインをPKCE対応する
   description: null
@@ -61,7 +61,7 @@ PKCE対応のために、LINEログインの「認可URL」および「アクセ
 
 | パラメータ                                       | 仕様                                                                                       | 例                                           |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------- |
-| `code_verifier`{style="word-break: normal"} | **使用可能文字種**：半角英数字（`a`〜`z`、`A`～`Z`、`0`～`9`）および記号（`-._~`）からなるランダムな文字列   **文字数**：43文字〜128文字 | wJKN8qz5t8SSI9lMFhBB6qwNkQBkuPZoCxzRhwLRUo1 |
+| `code_verifier`{style="word-break: normal"} | **使用可能文字種**：半角英数字（`a`〜`z`、`A`〜`Z`、`0`〜`9`）および記号（`-._~`）からなるランダムな文字列   **文字数**：43文字〜128文字 | wJKN8qz5t8SSI9lMFhBB6qwNkQBkuPZoCxzRhwLRUo1 |
 
 **サンプルコード**
 

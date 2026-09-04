@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/using-flex-messages
-__hash__: McdnAnIBERRAozVdwNQHd6MRH2BnfccCQr7VTfzS1Kk
+__hash__: cEyrLhlK5RjgkOojL3bLSLX0UY6oYxW8l76i9Hly2Do
 seo:
   title: Flex Messageを送信する
   description: null
@@ -83,7 +83,7 @@ Messaging APIを呼び出してFlex Messageを送信する前に、Flex Message�
 }
 ```
 
-1～6の説明は以下のとおりです。
+1〜6の説明は以下のとおりです。
 
 | dummy | dummy                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------- |

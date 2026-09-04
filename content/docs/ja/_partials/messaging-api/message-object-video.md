@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/message-object-video
-__hash__: zL1Kr8d_RVcaZO0ShbVn_yW-NSE06Mb2RsuMs3xSEtE
+__hash__: jADkWzvEPI2GD1agGjKW4_0UVGdzr8JUw5CaDPcrPco
 seo:
   description: ''
 ---
@@ -83,7 +83,7 @@ seo:
       複数のメッセージで同じIDを使用することができます。
 
       - 最大文字数：100
-      - 使用可能文字種：半角英数字（`a`〜`z`、`A`～`Z`、`0`～`9`）、記号（`-.=,+*()%$&;:@{}!?<>[]`）
+      - 使用可能文字種：半角英数字（`a`〜`z`、`A`〜`Z`、`0`〜`9`）、記号（`-.=,+*()%$&;:@{}!?<>[]`）
 
         ::::::admonition{title="注意" type="note"}
         `trackingId`プロパティは、グループトークや複数人トーク宛てのメッセージでは使用できません。

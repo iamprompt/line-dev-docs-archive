@@ -7,7 +7,7 @@ description: >-
 meta: '{"date":"2020-10-09 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: >-
   /ja/_partials/news/2020/2020-10-09-reminder-for-domain-name-change-transition-period
-__hash__: e0gWMv6wtYAUrF6Bf2PxLvCm7uxVQzappWbRP0kzekM
+__hash__: byFJWou9Xiovdo4ui3gjxhKfVmjIX9ZgLD0goESO7_w
 seo:
   title: 【リマインド】一部のエンドポイントのドメイン名変更のお知らせ（移行期限：2020年10月30日）
   description: >-
@@ -35,4 +35,4 @@ seo:
 
 ### 移行期間
 
-2019年11月8日 ～ 2020年10月30日 14:00
+2019年11月8日 〜 2020年10月30日 14:00

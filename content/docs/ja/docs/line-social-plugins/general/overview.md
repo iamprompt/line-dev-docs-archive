@@ -6,7 +6,7 @@ description: >-
   Pluginsは、ユーザーがLINEでコンテンツを簡単に共有したり、コンテンツにリアクションしたりできるように、ウェブサイトとLINEを連携させるためのプラグインを提供します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-social-plugins/general/overview
-__hash__: UDiRDQHEAuyDltezdbwvI_IFchVkI56vyNJdkoxt9fU
+__hash__: 6tgz9zcqz17_iQRQ49bFScAKJzR2Kus8tRCzdQhUREs
 seo:
   title: LINE Social Pluginsの概要
   description: >-
@@ -38,7 +38,7 @@ LINE Social Pluginsは、ユーザーがLINEでコンテンツを簡単に共有
 
 1. ユーザーがLINE Social Pluginsボタンが設置されたウェブページにアクセスします。
 
-2～3. 各ボタンのコードがLINE Social Plugins SDKを介してウェブサイトに動的に読み込まれ、ボタンがウェブサイトに表示されます。
+2〜3. 各ボタンのコードがLINE Social Plugins SDKを介してウェブサイトに動的に読み込まれ、ボタンがウェブサイトに表示されます。
 
 1. ウェブページにアクセスしたユーザーが「LINEで送る」ボタンをクリックすると、LINE Social Pluginsのページに移動します。ユーザーはそこでLINEにログインする必要があります。
 2. ユーザーはLINEにログインして、ウェブページの情報を友だちにシェアします。

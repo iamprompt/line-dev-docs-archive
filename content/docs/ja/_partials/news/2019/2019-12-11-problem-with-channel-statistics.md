@@ -6,7 +6,7 @@ description: >-
   APIチャネルの統計情報タブに問題がありました。システムがタイムゾーンを処理する方法に一貫性がないため、TSVファイルをダウンロードをクリックして生成されるTSVファイルと、統計情報タブに表示される情報に差異がありました。
 meta: '{"date":"2019-12-11 00:00 UTC","tags":"Messaging API, Console","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-12-11-problem-with-channel-statistics
-__hash__: MCIprki3NJbMyyR5La5nCBmmmhhNKOGVrb4IUlAJobI
+__hash__: Jj7QGis2AccXeRLei8ce9ryyPDLaw2DFQvs-kIKZhDQ
 seo:
   title: 【復旧済み】チャネルの統計情報に関する問題のお知らせ
   description: >-
@@ -20,7 +20,7 @@ LINE DevelopersコンソールのMessaging APIチャネルの**統計情報**タ
 
 ### 発生期間
 
-2019年11月26日 ～ 2019年12月18日
+2019年11月26日 〜 2019年12月18日
 
 この問題は解決されたため、現在はすべてのデータを通常どおり取得および表示できます。お客様には多大なご迷惑をお掛けし、誠に申し訳ございませんでした。
 

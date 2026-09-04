@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-04-01 01:00 UTC","tags":"outage-report,
   messaging-api","locale":"ja"}
 path: /ja/_partials/news/2022/2022-04-01-messaging-api-outage
-__hash__: fAMrDEuYFgJiQXVANLGAAneazjRXehqg_0UIQVZ5Ha0
+__hash__: B22JOb1pJETnwY-7A82uQXn6_gKMRpahS-d8ujfwvPg
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: Messaging APIにおいて以下の障害が発生しておりましたが、すべて復旧いたしました。お客様には多大なご迷惑をお掛けし、誠に申し訳ございません。
@@ -16,7 +16,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2022年3月30日 14:47頃 ～ 20:51頃（UTC+9）
+2022年3月30日 14:47頃 〜 20:51頃（UTC+9）
 
 ### 原因
 

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-03-29 00:00 UTC","tags":"Outage report, LINE
   Platform","locale":"ja"}
 path: /ja/_partials/news/2018/2018-03-29-server-outage
-__hash__: pAprfVPDPjS_wi9PLvhccgI9v3Ax-W3kWo2WHPS_4sY
+__hash__: oxCaUwGcISChsLIEpfDbN6i8vyRkEIl3Z1n13XeES_g
 seo:
   title: 【復旧済み】Messaging API（ボット） 障害のお知らせ
   description: >-
@@ -20,7 +20,7 @@ Messaging API（ボット）において以下の障害が発生しておりま�
 
 ### 発生日時
 
-2018年3月27日 21:40 ～ 23:50（UTC+9）
+2018年3月27日 21:40 〜 23:50（UTC+9）
 
 ### 原因
 

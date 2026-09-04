@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/create-rich-menu-alias
-__hash__: wrfRsTSivakyGJwYDHJSVsJH9H5DI3zVihhyUzeKC-E
+__hash__: veK8tiixDF_bEnoP4sptpdC3-eTFUjYXxNlW_usWazE
 seo:
   description: ''
 ---
@@ -91,7 +91,7 @@ seo:
   リッチメニューエイリアスのID。チャネルごとに一意の、任意のIDを指定できます。
 
   - 最大文字数：32
-  - 使用可能文字種：半角英数字（`a`〜`z`、`0`～`9`）、アンダースコア（`_`）、ハイフン（`-`）
+  - 使用可能文字種：半角英数字（`a`〜`z`、`0`〜`9`）、アンダースコア（`_`）、ハイフン（`-`）
   :::
 
   :::parameter-table-entry{required="true"}

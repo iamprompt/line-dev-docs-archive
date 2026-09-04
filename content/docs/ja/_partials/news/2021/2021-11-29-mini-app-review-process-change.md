@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2021-11-29 00:00 UTC","tags":"LINE MINI App","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-29-mini-app-review-process-change
-__hash__: '-pPGrIh7-zISg6CVZxjePWkoO6eDAmMNGx6TTqYT0Vs'
+__hash__: VcjxnZQo8CJEEvvAbSNsn5ZyI3EoN6Cf6mzaI6HyJ7M
 seo:
   title: LINEミニアプリの審査プロセスが変更されました
   description: ''
@@ -43,7 +43,7 @@ LINEミニアプリが承認されると、チャネルのステータスが「�
 たとえば、8月1日にLINEミニアプリのステータスが「承認済み」になった場合、8月31日の午前9:00（JST）に新しい変更が自動的に公開されます。
 
 ::admonition{title="ステータス変更に若干の遅れが生じる場合があります" type="note"}
-31日目の午前9:00（JST）に自動的にステータス変更の処理が開始されますが、完了までには1～2時間の遅れが生じる場合があります。
+31日目の午前9:00（JST）に自動的にステータス変更の処理が開始されますが、完了までには1〜2時間の遅れが生じる場合があります。
 これは、最初に公開する場合と、すでに公開中のLINEミニアプリの場合の両方に適用されます。
 ::
 

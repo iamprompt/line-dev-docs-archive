@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-09-11 07:00 UTC","tags":"Outage report, LINE
   Platform","locale":"ja"}
 path: /ja/_partials/news/2019/2019-09-11-devcenter-outage
-__hash__: l6slQOJQ6mObqbl6KsF-DKtj3sJ5Lxx2RufahrPyij8
+__hash__: MhQObnUU0XycB9hhygbjp1fUqxu2iP_pIK4GWrkNKGk
 seo:
   title: 【復旧済み】LINE Developersサイト 障害のお知らせ
   description: >-
@@ -20,7 +20,7 @@ LINE Developersサイトにおいて以下の障害が発生しておりまし�
 
 ### 発生日時
 
-2019年9月11日 13:46頃 ～ 15:58頃（UTC+9）
+2019年9月11日 13:46頃 〜 15:58頃（UTC+9）
 
 ### 原因
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2019-09-12 4:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2019/2019-09-12-messaging-api-outage
-__hash__: 1uY6ELgOxqfKQ36rJJMwG2lNY9lx3vqbwxzxRrdUWa0
+__hash__: ExfKwjte1Bs2_AphvJmUtrjUL8VJcW8dsXaHABBgHWQ
 seo:
   title: 【復旧済み】Messaging API障害のお知らせ
   description: >-
@@ -18,9 +18,9 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 ### 発生日時
 
-2019年9月11日 17:00頃 ～ 18:30頃（UTC+9）
+2019年9月11日 17:00頃 〜 18:30頃（UTC+9）
 
-2019年9月12日 13:30頃 ～ 14:00頃（UTC+9）
+2019年9月12日 13:30頃 〜 14:00頃（UTC+9）
 
 ### 原因
 

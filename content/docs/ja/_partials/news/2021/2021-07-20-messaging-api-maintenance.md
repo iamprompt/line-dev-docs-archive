@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-07-20 01:00 UTC","tags":"Maintenance, Messaging API, Options for
   corporate customers","locale":"ja"}
 path: /ja/_partials/news/2021/2021-07-20-messaging-api-maintenance
-__hash__: 7JBMKGcF9jUahzr-DJjcPjJuInEpwI6jzkdOZaicvY8
+__hash__: 60MSuH853ry8KEohf5ehxpTF2-Cu35DcUnFVQr-rCb0
 seo:
   title: 【更新】Messaging API メンテナンスのお知らせ
   description: ''
@@ -20,7 +20,7 @@ Messaging APIにおいて、以下のメンテナンスを行います。ご利�
 
 ### メンテナンス予定日時
 
-2021年8月5日 1:00 ～ 3:00（UTC+9）
+2021年8月5日 1:00 〜 3:00（UTC+9）
 
 なお、メンテナンス終了時刻は予告なく前後する可能性があります。
 
