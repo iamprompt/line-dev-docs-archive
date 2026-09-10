@@ -6,7 +6,7 @@ description: >-
   App.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/console-guide
-__hash__: 56MVrgLUOjxWVl6cQU_t9QqYeWQrw7IdiJpBDRh2YAk
+__hash__: Rd_e0Q6qb4mUC9QeaDrm6DLgjdsmfL0Xv82ZGUs75iw
 seo:
   title: LINE Developers Console Guide for LINE MINI App
   description: >-
@@ -162,10 +162,11 @@ In the case of verified MINI Apps, the following table shows when the settings c
 
 ### Channel description
 
-The **Channel description** on the **Basic settings** tab is used for two purposes. For these purposes, provide the correct service description:
+The **Channel description** on the **Basic settings** tab is used for these purposes. For these purposes, provide the correct service description:
 
-- To help users understand the contents of the LINE MINI App service.
-- To understand the service contents of the LINE MINI App at the time of screening by LY Corporation.
+- To help users understand the contents of the LINE MINI App service
+- To understand the service contents of the LINE MINI App at the time of screening by LY Corporation
+- To be used as a source of information when assigning a category and generating a description of a LINE MINI App using AI for those displayed in the "Daily top trends" section of the Apps tab in LINE (Japan only)
 
 ![Channel description](/media/line-mini-app/line-mini-app-channel-description-en.png){className="[\"border\",\"w-fix-640\"]"}
 

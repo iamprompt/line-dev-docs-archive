@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールの基本的な仕組みと注意事項
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/console-guide
-__hash__: So_HRUc9ewY3T-0Y4wcGm9rcOSETWvH-ar9Wnl8cwQ8
+__hash__: 9ISo-s4Q6VO8F0Vw_5nFT4oQu8lYChnXeZi1IjubZIA
 seo:
   title: LINEミニアプリ用LINE Developersコンソールガイド
   description: LINE Developersコンソールの基本的な仕組みと注意事項
@@ -134,10 +134,11 @@ LINEミニアプリが認証済ミニアプリの場合、チャネル名やLIFF
 
 ### チャネル説明の入力について
 
-［**チャネル基本設定**］タブの［**チャネル説明**］は、以下の2つの目的で使用されます。このため、正しいサービス内容を記載してください。
+［**チャネル基本設定**］タブの［**チャネル説明**］は、以下の目的で使用されます。このため、正しいサービス内容を記載してください。
 
 - ユーザーがLINEミニアプリのサービス内容を把握するため
 - LINEヤフー株式会社による審査時に、LINEミニアプリのサービス内容を把握するため
+- LINEの「アプリ」タブ内にある「今日の人気ランキング」コーナーにおいて、AIでLINEミニアプリのカテゴリを設定し、説明文を自動生成する際の情報源として使用するため（日本のみ）
 
 ![チャネル説明](/media/line-mini-app/line-mini-app-channel-description-ja.png){className="[\"border\",\"w-fix-640\"]"}
 
