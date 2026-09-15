@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/building-bot
-__hash__: 3mihRh7LHnq4xaV2LEjIFrIml9bnXK9k42E7f-sLrdM
+__hash__: lj8scODCU476JTUo-5Cyly7B-Z-s4YmyBBQkr8BaK8Q
 seo:
   title: Build a bot
   description: null
@@ -62,7 +62,7 @@ To register IP addresses, visit the [LINE Developers Console](/console/), open t
 
 We recommend that you use a [Channel access token with a user-specified expiration (Channel access token v2.1)](/docs/basics/channel-access-token/#user-specified-expiration) in the Messaging API.
 
-![](/media/messaging-api/build-bot/security-settings-input-en.png){className="[\"border\",\"w-fix-640\"]"}
+![](/media/messaging-api/build-bot/security-settings-input-en.webp){className="[\"border\",\"w-fix-640\"]"}
 
 ## Verify that webhook works
 

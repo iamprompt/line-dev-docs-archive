@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/create-flex-message-including-video
-__hash__: sLo2GOH6syMCJ8OfbF8caxDA15lvtu332VAMvdSAO68
+__hash__: 1duXnLcbkg8CNsERyzwUMQ2edidxz4SbNJbY8CZR19Q
 seo:
   title: Create a Flex Message including a video
   description: null
@@ -275,7 +275,7 @@ While a video is playing, you can have up to two buttons displayed at the top of
 
 The second button is **More information** that shows the label for a URI action you specify in the video component. You can change the text. If you don't specify a URI action for the video component, only **Done** is displayed. For more information, see [URI actions for videos](#uri-action).
 
-![Screen while a video is playing](/media/messaging-api/create-flex-message-including-video/video-player-en.png){className="[\"w-fix-280\",\"bg-border\"]"}
+![Screen while a video is playing](/media/messaging-api/create-flex-message-including-video/video-player-en.webp){className="[\"w-fix-280\",\"bg-border\"]"}
 
 #### Screen when playback is complete
 
@@ -283,7 +283,7 @@ When video playback finishes, you can have up to two buttons displayed over the 
 
 The second button is **More information** that shows the label for a URI action you specify in the video component. You can change the text. If you don't specify a URI action for the video component, only **Replay** is displayed. For more information, see [URI actions for videos](#uri-action).
 
-![Screen when a video finishes playing](/media/messaging-api/create-flex-message-including-video/video-player-finished-en.png){className="[\"w-fix-280\",\"bg-border\"]"}
+![Screen when a video finishes playing](/media/messaging-api/create-flex-message-including-video/video-player-finished-en.webp){className="[\"w-fix-280\",\"bg-border\"]"}
 
 ## Display on version of LINE that doesn't support the video component
 

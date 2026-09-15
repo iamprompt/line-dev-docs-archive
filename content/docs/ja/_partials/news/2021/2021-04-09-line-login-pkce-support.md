@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインがPKCE対応されました。PKCEを導入することで、LINEログイン v2.1の認可フローをよりセキュアにすることができます。
 meta: '{"date":"2021-04-09 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-09-line-login-pkce-support
-__hash__: ER9s_wc4HhkmXB4RTansdzutyP7Y8lvJB8_SLLi16KA
+__hash__: INbmf2n-7SkFkU7FeoAAB7fGfzMKdzMmIbbe-53f_Gc
 seo:
   title: LINEログインがPKCE対応されました
   description: LINEログインがPKCE対応されました。PKCEを導入することで、LINEログイン v2.1の認可フローをよりセキュアにすることができます。
@@ -29,7 +29,7 @@ LINEログインを組み込んだウェブアプリに、PKCEを実装した場
 ::admonition{title="PKCEを導入するもう1つのメリット" type="tip"}
 PKCE実装済みのLINEログインを組み込んだウェブアプリに、[**Yahoo! JAPANアプリ**](https://promo-mobile.yahoo.co.jp/yjapp/){rel="[\"nofollow\"]"}からアクセスすると、メールアドレスとパスワードによるログインの工程をスキップできる[自動ログイン](/docs/line-login/integrate-line-login/#line-auto-login)機能が有効になります。
 
-![Yahoo! JAPANアプリからの自動ログイン](/media/line-login/yja-to-line-login-ja.png){className="[\"w-fix-680\"]"}
+![Yahoo! JAPANアプリからの自動ログイン](/media/line-login/yja-to-line-login-ja.webp){className="[\"w-fix-680\"]"}
 ::
 
 PKCEの実装方法について詳しくは、『LINEログインドキュメント』の「[LINEログインにPKCEを実装する](/docs/line-login/integrate-pkce/#how-to-integrate-pkce)」を参照してください。

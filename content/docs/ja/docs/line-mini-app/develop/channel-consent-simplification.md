@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/channel-consent-simplification
-__hash__: TxC29MIudHunSeQVXzER8KYWkHR4SQXVz2_0CT4_te0
+__hash__: qjx5dp1bbSjXh-CxX13KaqPbrHHATzs9yK2ZTg-uw7o
 seo:
   title: LINEミニアプリの認可フロー
   description: null
@@ -45,7 +45,7 @@ LIFF SDKで取得した:glossary-tooltip[[アクセストークン](/glossary/#a
 
 2026年1月8日より前に作成されたLINEミニアプリチャネルの場合、「チャネル同意の簡略化」機能を有効化するには、[LINE Developersコンソール](/console/)のLINEミニアプリチャネルで、［**ウェブアプリ設定**］タブの「チャネル同意の簡略化」セクションのトグルをオン（右）にします。
 
-![](/media/line-mini-app/simplification-feature-setup-ja.png){className="[\"border\",\"w-fix-760\"]"}
+![](/media/line-mini-app/simplification-feature-setup-ja.webp){className="[\"border\",\"w-fix-760\"]"}
 
 なお、「チャネル同意の簡略化」機能はユーザーID（`openid`スコープ）の取得権限への同意を簡略化するため、有効化すると「Scope」セクションの`openid`も自動的に有効になります。
 
@@ -75,7 +75,7 @@ LIFF SDKで取得した:glossary-tooltip[[アクセストークン](/glossary/#a
 
 [`liff.getProfile()`](/reference/liff/#get-profile)メソッドや[`liff.sendMessages()`](/reference/liff/#send-messages)メソッドなど、`openid`スコープ以外の権限を必要とするメソッドを実行すると、「アクセス許可要求画面」が表示されます。「アクセス許可要求画面」では、LINEミニアプリが要求する追加の権限を表示し、権限を許可するかどうかをユーザーに確認します。
 
-![](/media/line-mini-app/line-mini-app-playground-verification-screen-ja.png){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
+![](/media/line-mini-app/line-mini-app-playground-verification-screen-ja.webp){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
 
 `openid`スコープ以外の権限を必要とするメソッドは次のとおりです。
 
@@ -107,7 +107,7 @@ liff.permission.query("profile").then((permissionStatus) => {
 
 LINEミニアプリでは、[友だち追加オプション](/docs/line-mini-app/service/add-friend-option/)を使って、アクセス許可要求画面、もしくはチャネル同意画面からLINE公式アカウントの友だち追加への誘導ができます。
 
-![](/media/line-mini-app/channel-consent-simplification/add-friend-option-verification-screen-ja.png){className="[\"border\",\"w-fix-320\",\"inline-block\",\"mb-0-important\"]"} ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-channel-consent-screen-ja.png){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
+![](/media/line-mini-app/channel-consent-simplification/add-friend-option-verification-screen-ja.webp){className="[\"border\",\"w-fix-320\",\"inline-block\",\"mb-0-important\"]"} ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-channel-consent-screen-ja.webp){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
 
 しかし、LINEミニアプリチャネルの［**ウェブアプリ設定**］タブの「Scope」セクションで`openid`のみを指定している場合、「チャネル同意の簡略化」機能が有効になると、「アクセス許可要求画面」および「チャネル同意画面」が表示されなくなります。このため、友だち追加オプションによる友だち追加を誘導できなくなります。
 
@@ -121,4 +121,4 @@ LINEミニアプリでは、[友だち追加オプション](/docs/line-mini-app
 
 ［**許可する**］をタップすると、そのLINEミニアプリを利用できるようになります。
 
-![](/media/line-mini-app/channel-consent-simplification/line-mini-app-playground-channel-consent-screen-ja.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/line-mini-app/channel-consent-simplification/line-mini-app-playground-channel-consent-screen-ja.webp){className="[\"border\",\"w-fix-320\"]"}

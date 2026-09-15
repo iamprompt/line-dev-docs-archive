@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-statistics-per-unit
-__hash__: _p91PBojFAMUzd8vtanJX4eGrDxQhrXrrvPHCYts6Pk
+__hash__: X9NvGQtcCPh8dBrPSdilGjsRIAswBCMMneLrwOfZXqM
 seo:
   description: ''
 ---
@@ -17,7 +17,7 @@ seo:
 
   統計情報はユニットごとに、1メッセージ（message）単位、および1吹き出し（bubble）単位で取得できます。
 
-  ![message and bubbles](/media/messaging-api/get-message-event.png){className="[\"border\"]"}
+  ![message and bubbles](/media/messaging-api/get-message-event.webp){className="[\"border\"]"}
 
   なお、ユニット名が同じメッセージを複数送った場合、メッセージの内容や吹き出し数、吹き出しの順番が異なっていても、統計情報はユニットごとにまとめて集計されます。
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/demo/traisare-demo
-__hash__: GOx2bSiW6XspYdu3R-3fOVOWnKSFgcVqNWu_K8IbGtk
+__hash__: xrdXHhge8Jel-0YAL_QXdmhZ1lUxu20Xxnck3m3y2qA
 seo:
   title: Mobile experience demo
   description: null
@@ -12,7 +12,7 @@ seo:
 
 # :page-title
 
-:markdown-controls:partial{content="documentation-partials/api-use-case/announcement-of-page/"}Personalized mobility experiences can be delivered by combining MaaS Tech Japan’s integrated mobility data platform, [TraISARE](https://traisare.maas.co.jp/){rel="[\"nofollow\"]"} (only available in Japanese), with LINE.
+:markdown-controls:partial{content="documentation-partials/api-use-case/announcement-of-page/"}Personalized mobility experiences can be delivered by combining MaaS Tech Japan’s integrated mobility data platform, TraISARE, with LINE.
 
 From the end user perspective, this enables the purchase of excursion tickets, transit updates, and access to personalized recommendations and coupons based on usage history—all conveniently available on LINE, an app users already use daily.
 

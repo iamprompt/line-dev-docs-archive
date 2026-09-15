@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/using-flex-messages
-__hash__: KRtLjx5Gy8ZdrA0pmIfFMLwn1LoBjluuzkmsNnvc-II
+__hash__: 4oqwR_yGou9f-XVNkYqa8uKhrck00rBesE2uC044ny0
 seo:
   title: Send Flex Messages
   description: null
@@ -22,7 +22,7 @@ Flex Messages let you set the direction of the text, left-to-right or right-to-l
 The same Flex Message may be rendered differently depending on the environment of the recipient device. Rendering may be affected by the device OS, LINE version, device resolution, language settings, and font.
 ::
 
-![Flex Message examples](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.png)
+![Flex Message examples](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.webp)
 
 Like other message types, you define Flex Messages in JSON. For more information on Flex Messages, see:
 
@@ -49,7 +49,7 @@ Flex Messages are supported in all LINE versions. The features listed below aren
 
 With the [Flex Message Simulator](/flex-simulator/), you can check the layout of Flex Messages without sending messages to see the rendered version.
 
-![Flex Message Simulator](/media/messaging-api/using-flex-messages/flex-message-simulator-en.png){className="[\"border\"]"}
+![Flex Message Simulator](/media/messaging-api/using-flex-messages/flex-message-simulator-en.webp){className="[\"border\"]"}
 
 For more information on Flex Message Simulator, see [Tutorial - Create a digital business card with Flex Message Simulator](/docs/messaging-api/using-flex-message-simulator/).
 

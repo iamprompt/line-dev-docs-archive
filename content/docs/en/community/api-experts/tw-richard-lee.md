@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Richard
-  Lee","img":"tw-richard-lee.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Lee","img":"tw-richard-lee.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"Ruby, Objective-C, EC, Android App, iOS App, Cloud,
   Machine Learning, Growth, SEO,
   DevOps","git":"https://github.com/dlackty","fb":"https://www.facebook.com/dlackty","twitter":"https://twitter.com/dlackty"}
 path: /en/community/api-experts/tw-richard-lee
-__hash__: I75_40zMn3mumK4TZ2mhCvgqHzR0f_wenFo8F7fb2KQ
+__hash__: nm_3Dc1okv-NGZpuwBLF43qDJqDPC45rzka0-Wpt_oo
 seo:
   title: LINE API Expert - Richard Lee
   description: ''

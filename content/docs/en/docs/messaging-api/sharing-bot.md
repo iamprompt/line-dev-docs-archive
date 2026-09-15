@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/sharing-bot
-__hash__: kVGqRM6MyFeK49JAiXWi5tXqzOK7GnmJC1cpcDnEiaQ
+__hash__: yHJ53r42v-2YIAuSX30psp1vMkW157L-jRjZMcrQQqY
 seo:
   title: Gain friends of your LINE Official Account
   description: null
@@ -70,7 +70,7 @@ From your web app or native app, prompt users to add your LINE Official Account 
 
 For example, [`https://line.me/R/ti/p/%40linedevelopers`](https://line.me/R/ti/p/%40linedevelopers){rel="[\"nofollow\"]"} displays the business profile page of LINE Developers' LINE Official Account. For more information on the LINE URL scheme, see [Sharing a LINE Official Account](/docs/messaging-api/using-line-url-scheme/#sharing-line-official-account).
 
-![](/media/messaging-api/sharing-bot/add-line-developers-oa-en.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/sharing-bot/add-line-developers-oa-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Encourage users to recommend your LINE Official Account to friends on LINE
 

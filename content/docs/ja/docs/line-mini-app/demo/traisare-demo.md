@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/demo/traisare-demo
-__hash__: 911Xz0ku6F8CQNLzRqPUNv2ynT_ZPsueBRDlrr99AiA
+__hash__: O3eyaKd-kNIpUoXC4nmZKCB1ursmo5NvHdWt0dKo96g
 seo:
   title: 移動体験デモ
   description: null
@@ -12,7 +12,7 @@ seo:
 
 # :page-title
 
-:markdown-controls:partial{content="documentation-partials/api-use-case/announcement-of-page/"}MaaS Tech Japanの移動情報統合データ基盤「[TraISARE（トレイザー）](https://traisare.maas.co.jp/){rel="[\"nofollow\"]"}」とLINEを組み合わせることで、一人ひとりに合わせた移動体験を提供することができます。
+:markdown-controls:partial{content="documentation-partials/api-use-case/announcement-of-page/"}MaaS Tech Japanの移動情報統合データ基盤「TraISARE（トレイザー）」とLINEを組み合わせることで、一人ひとりに合わせた移動体験を提供することができます。
 
 エンドユーザー視点では、周遊チケットの購入や交通機関の運行情報の確認に加え、利用履歴に応じたおすすめ情報やお得なクーポンなど一人ひとりに合わせた情報を、日常的に使っているLINEに集約することができます。
 

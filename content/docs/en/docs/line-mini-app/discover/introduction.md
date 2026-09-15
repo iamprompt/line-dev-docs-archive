@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App is a web application that runs on LINE.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/discover/introduction
-__hash__: GIQUyNjm4O7zaD1KtxEbLiPzokJtABFtlTwna_Vf-WM
+__hash__: fODiTQikcHF-yjp0DzLSafjvGtMx_g_OdHr-LEwPC7k
 seo:
   title: Introducing LINE MINI App
   description: LINE MINI App is a web application that runs on LINE.
@@ -73,7 +73,7 @@ As described above, by making your LINE MINI App a verified MINI App, you can en
 
 LINE MINI App page consists of (A) Header (B) Body. For details, see [LINE MINI App UI components](/docs/line-mini-app/discover/ui-components/).
 
-![LINE MINI App structure](/media/line-mini-app/mini_concept.png){className="[\"w-fix-280\"]"}
+![LINE MINI App structure](/media/line-mini-app/mini_concept.webp){className="[\"w-fix-280\"]"}
 
 ## Ways in which users can access LINE MINI Apps
 
@@ -92,7 +92,7 @@ In addition, by [adding a shortcut to the LINE MINI App to the home screen of th
 
 Users can also access LINE MINI Apps from the LINE Official Account. For example, a link to the LINE MINI App will be added to the rich message that you send to friends on the LINE Official Account and to the rich menu displayed on the talk screen. For details, see [Use LINE Official Account](/docs/line-mini-app/service/line-mini-app-oa/).
 
-![You can promote your LINE MINI App on the LINE Official Account](/media/line-mini-app/mini_with_oa.png){className="[\"w-fix-280\"]"}
+![You can promote your LINE MINI App on the LINE Official Account](/media/line-mini-app/mini_with_oa.webp){className="[\"w-fix-280\"]"}
 
 ### Home Tab
 
@@ -122,7 +122,7 @@ You can also access LINE MINI Apps from the LINE search feature. This feature is
 
 Users can easily share LINE MINI Apps with their friends. The [built-in action button](/docs/line-mini-app/discover/builtin-features/#action-button) is provided to enable users to easily share LINE MINI Apps among friends, but there's also the option of [implementing a custom action button](/docs/line-mini-app/develop/share-messages/).
 
-![Share message](/media/line-mini-app/mini_access_share.png){className="[\"w-fix-280\"]"}
+![Share message](/media/line-mini-app/mini_access_share.webp){className="[\"w-fix-280\"]"}
 
 ## Features available on LIFF apps but not on LINE MINI Apps
 

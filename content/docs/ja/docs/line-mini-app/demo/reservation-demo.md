@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"jp"}'
 path: /ja/docs/line-mini-app/demo/reservation-demo
-__hash__: eetcHDiJjEcqo7wtxVc_hQmWLODZyixwbLhQOVH8BiU
+__hash__: 0eBD9KQCr2bfwJLO3kdN82KZAOB4qmzfHhyk7qdqjt4
 seo:
   title: 店舗予約デモ
   description: null
@@ -22,7 +22,7 @@ seo:
 
 お使いのスマートフォンでLINEを起動し、以下のQRコードを読み込むとデモを見ることができます。
 
-![](/media/line-mini-app/demo/reservation-demo/reserve-qr-code.png){className="[\"w-fix-800\"]"}
+![](/media/line-mini-app/demo/reservation-demo/reserve-qr-code.webp){className="[\"w-fix-800\"]"}
 
 ::admonition{title="デモアプリで取得するデータについて" type="note"}
 デモアプリでは、皆さまのLINEアカウントの「プロフィール情報（ユーザーID）」を取得します。ユーザーIDはサーバーに保存しますが、保存したデータは毎日削除されます。以上をご理解のうえ、ご利用ください。

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/add-to-home-screen
-__hash__: SI2cl9Fn3U5SVEXtWK3j-f7VZs2ZFIjQ9plOTxrdubU
+__hash__: _Kpj5EleTwjAaT3_JDcqPUB9PvnuKNkWtA5ExXFNJFs
 seo:
   title: Add a shortcut to your LINE MINI App to the home screen of the user's device
   description: null
@@ -38,7 +38,7 @@ On some Android devices, if a user changes the icon from **Settings** > **App ic
 
 **Display on iOS device**
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.png){className="[\"border\",\"h-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-en.webp){className="[\"h-fix-400\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.webp){className="[\"border\",\"h-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-en.webp){className="[\"h-fix-400\",\"inline-block\"]"}
 
 Using this feature for services that users frequently use, such as membership cards and mobile ordering, can improve the user experience.
 

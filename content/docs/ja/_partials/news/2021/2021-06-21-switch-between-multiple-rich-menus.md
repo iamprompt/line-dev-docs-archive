@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに、リッチメニューを切り替える機能が追加されました。
 meta: '{"date":"2021-06-21 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-06-21-switch-between-multiple-rich-menus
-__hash__: MP9dkovwCatUCjOxAyinWY_F0lBDaAY1qKyErCO8s4E
+__hash__: yLmPoRpwdgDw5Q9Hkyfi83rJFBSeBHCmlZBEjU_mGMI
 seo:
   title: 複数のリッチメニューを簡単に切り替えられるようになりました
   description: Messaging APIに、リッチメニューを切り替える機能が追加されました。
@@ -14,7 +14,7 @@ Messaging APIに、リッチメニューを切り替える機能が追加され�
 
 :glossary-tooltip[[リッチメニューエイリアス](/glossary/#rich-menu-alias)]{glossary-id="rich-menu-alias"}を使うと、タブ切替のように、複数のリッチメニューを簡単に切り替えられます。詳しくは、『Messaging APIドキュメント』の「[複数のリッチメニューを切り替える](/docs/messaging-api/switch-rich-menus/)」を参照してください。
 
-![タブ切替のように、複数のリッチメニューを簡単に切り替えられます](/media/messaging-api/rich-menu/switching-richmenu-ja.png){className="[\"w-fix-640\"]"}
+![タブ切替のように、複数のリッチメニューを簡単に切り替えられます](/media/messaging-api/rich-menu/switching-richmenu-ja.webp){className="[\"w-fix-640\"]"}
 
 この機能追加に伴い、新たに追加されたエンドポイント、アクション、オブジェクトは以下のとおりです。
 

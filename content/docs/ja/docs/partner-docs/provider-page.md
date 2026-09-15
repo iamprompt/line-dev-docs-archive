@@ -4,7 +4,7 @@ navigation: true
 description: プロバイダーページとは、プロバイダーがLINEプラットフォーム上で提供している各種サービスの一覧ページです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/provider-page
-__hash__: irMRor7uHe0ypqp_k0I-eU2b-SATkHTkxwmWuydb6UM
+__hash__: Y8iE16r1dutfM5NLyyKa07oMdbnx_Ar5zOsBzwuHpek
 seo:
   title: プロバイダーページ
   description: プロバイダーページとは、プロバイダーがLINEプラットフォーム上で提供している各種サービスの一覧ページです。
@@ -34,7 +34,7 @@ seo:
 プロバイダーページに追加できるLINE公式アカウントは、認証済アカウントと:glossary-tooltip[[プレミアムアカウント](/glossary/#premium-account)]{glossary-id="premium-account"}のみです。未認証アカウントはプロバイダーページには追加できません。アカウント種別について詳しくは、『LINEヤフー for Business』の「[LINE公式アカウント アカウント種別](https://www.lycbiz.com/jp/service/line-official-account/account-type/){rel="[\"nofollow\"]"}」を参照してください。
 ::
 
-![プロバイダーページの設定画面](/media/partner-docs/provider-page-settings-ja.png){className="[\"border\",\"w-fix-480\"]"}
+![プロバイダーページの設定画面](/media/partner-docs/provider-page-settings-ja.webp){className="[\"border\",\"w-fix-480\"]"}
 
 ### プロバイダーページでのサービスの表示順を設定する
 

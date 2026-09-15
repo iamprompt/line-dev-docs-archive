@@ -7,7 +7,7 @@ description: >-
   Android, or web app.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/overview
-__hash__: Lkf741Nwy_-dBfmmFW4KoHR3aRBzHrTW5lDlxB8f3I0
+__hash__: kEDEhH3fy3bpI6w7BKwzO7cVdfpDbBLFJllqw2VI_T8
 seo:
   title: LINE Login overview
   description: >-
@@ -40,14 +40,14 @@ LINE Login not only works with native iOS and Android apps but also with web app
 ::admonition{title="Example of a website with LINE Login" type="tip"}
 For example, the e-book store [BOOK WALKER](https://bookwalker.jp/top/){rel="[\"nofollow\"]"} (Japanese site) integrates various social logins, including LINE Login, so that users can easily register the membership and continue using the site.
 
-![E-bookstore login screen](/media/line-login/overview/line-login-bookwalker-01-ja.png){className="[\"border\",\"w-fix-560\"]"}
+![E-bookstore login screen](/media/line-login/overview/line-login-bookwalker-01-ja.webp){className="[\"border\",\"w-fix-560\"]"}
 ::
 
 ## Experience LINE Login on the demo site
 
 Try using the demo to experience LINE Login for yourself. You can view the demo on your smartphone by scanning the QR code to access the demo site.
 
-![](/media/line-login/demo/login-demo-qr-code-en.png){className="[\"border\",\"w-fix-560\"]"}
+![](/media/line-login/demo/login-demo-qr-code-en.webp){className="[\"border\",\"w-fix-560\"]"}
 
 ::admonition{title="Data the demo site retrieves" type="note"}
 Before using, please note that the LINE Login demo app will retrieve the profile information (display name, profile image URL, and user ID) from the LINE accounts of users who use the demo. Of the retrieved information, only the user ID is stored on the server, and the stored data is deleted daily.
@@ -76,7 +76,7 @@ Use our SDKs to add LINE Login to your app and let LINE handle user authenticati
 
 The LINE Rangers game, for example, uses LINE Login to let users easily create an account for the game with their LINE accounts.
 
-![LINE Rangers 1](/media/line-login/overview/line-login-rangers-1.webp){className="[\"border\"]"}![LINE Rangers 3](/media/line-login/overview/line-login-rangers-3.png){className="[\"border\"]"}
+![LINE Rangers 1](/media/line-login/overview/line-login-rangers-1.webp){className="[\"border\"]"}![LINE Rangers 3](/media/line-login/overview/line-login-rangers-3.webp){className="[\"border\"]"}
 
 ## LINE Login authentication methods
 

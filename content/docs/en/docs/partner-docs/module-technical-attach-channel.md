@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module-technical-attach-channel
-__hash__: M9sbU_kwaT0MfAEoWKqBE-75V2zX3rum-qSL2i3sfiw
+__hash__: 6iJiUgUlB4B1lgRHCYgJY2wyMKoxafAijQviGIS7krQ
 seo:
   title: Attach Module Channel
   description: null
@@ -30,7 +30,7 @@ Following the flow of the OAuth 2.0 authorization mechanism, you can attach the 
 
 The first screen and the fifth screen should be prepared by the company in charge of developing the module channel.
 
-![Flow of attaching module channels using the OAuth 2.0 auth mechanism](/media/partner-docs/module-technical/flow-en.png){className="[\"border\"]"}
+![Flow of attaching module channels using the OAuth 2.0 auth mechanism](/media/partner-docs/module-technical/flow-en.webp){className="[\"border\"]"}
 
 ::admonition
 ---
@@ -205,7 +205,7 @@ You can specify the following scopes with the `scope` parameter. To specify mult
 
 When the admin of the LINE Official Account accesses the URL for authentication and authorization, the LINE Official Account Manager linkage screen will be displayed. The linkage screen shows what you applied for when creating a module channel. You can check the settings in the [LINE Developers Console](/console/).
 
-![Linkage screen](/media/partner-docs/attach-disp-en.png){className="[\"bg-border\"]"}
+![Linkage screen](/media/partner-docs/attach-disp-en.webp){className="[\"bg-border\"]"}
 
 ### 3. Receive the authorization code or error response
 

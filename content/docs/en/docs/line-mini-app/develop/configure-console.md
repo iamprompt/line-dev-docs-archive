@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/configure-console
-__hash__: v0pC44FHWAY2iuzzVOB6kM6OFgfO-a-lmq9oWBFjYVI
+__hash__: FHKN5sbg2jF5rO5W5TEtVxOHXipGYw6mG17IdzOH5aE
 seo:
   title: Settings displayed to LINE MINI App users
   description: null
@@ -49,7 +49,7 @@ The following information on the LINE MINI App channel settings is displayed to 
 
 When a user shares a LINE MINI App page from the [action button](/docs/line-mini-app/discover/builtin-features/#action-button), the following information registered on the [LINE Developers Console](/console/) is displayed in the chat room to which the page is shared.
 
-![Action button](/media/line-mini-app/mini_share_builtin_share.png){className="[\"w-fix-320\"]"}
+![Action button](/media/line-mini-app/mini_share_builtin_share.webp){className="[\"w-fix-320\"]"}
 
 | Information        | Settings                                  |
 | ------------------ | ----------------------------------------- |
@@ -71,7 +71,7 @@ When a user taps the [action button](/docs/line-mini-app/discover/builtin-featur
 
 The following information registered on the [LINE Developers Console](/console/) is displayed on the [verification screen](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid).
 
-![](/media/line-mini-app/line-mini-app-playground-verification-screen-en.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/line-mini-app/line-mini-app-playground-verification-screen-en.webp){className="[\"border\",\"w-fix-320\"]"}
 
 | Information           | Settings                                                                                        |
 | --------------------- | ----------------------------------------------------------------------------------------------- |
@@ -85,7 +85,7 @@ The following information registered on the [LINE Developers Console](/console/)
 
 The following information registered on the [LINE Developers Console](/console/) is displayed on the [channel consent screen](/docs/line-mini-app/develop/channel-consent-simplification/#authorization-flow-disabled).
 
-![Channel consent screen](/media/line-mini-app/mini-permission-request-en.png){className="[\"border\",\"w-fix-320\"]"}
+![Channel consent screen](/media/line-mini-app/mini-permission-request-en.webp){className="[\"border\",\"w-fix-320\"]"}
 
 | Information           | Settings                                                                                        |
 | --------------------- | ----------------------------------------------------------------------------------------------- |
@@ -116,7 +116,7 @@ The LINE MINI App name and description on the Channel consent screen are display
 
 From the footer section of the service message, the following information registered on the [LINE Developers Console](/console/) is used. For more information on service messages, see [Sending service messages](/docs/line-mini-app/develop/service-messages/).
 
-![Service messages](/media/line-mini-app/mini_service_notifier.png){className="[\"border\",\"w-fix-320\"]"}
+![Service messages](/media/line-mini-app/mini_service_notifier.webp){className="[\"border\",\"w-fix-320\"]"}
 
 | Information        | Settings                                  |
 | ------------------ | ----------------------------------------- |
@@ -127,7 +127,7 @@ From the footer section of the service message, the following information regist
 
 The following information registered on the [LINE Developers Console](/console/) is displayed on the Add Shortcut screen. For more information about the Add Shortcut screen, see [Add a shortcut to your LINE MINI App to the home screen of the user's device](/docs/line-mini-app/develop/add-to-home-screen/).
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.webp){className="[\"border\",\"w-fix-320\"]"}
 
 | Information                | Settings                                    |
 | -------------------------- | ------------------------------------------- |

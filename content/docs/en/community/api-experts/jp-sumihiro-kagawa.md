@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Sumihiro
-  Kagawa","img":"jp-sumihiro-kagawa.png","region":"Japan","location":null,"expert-since":null,"line-api":"LINE
+  Kagawa","img":"jp-sumihiro-kagawa.webp","region":"Japan","location":null,"expert-since":null,"line-api":"LINE
   Front-end Framework, LINE MINI App, LINE Messaging API","skills":"JavaScript,
   TypeScript, Python, IoT, Cloud (AWS,
   GCP)","git":"https://github.com/sumihiro3","fb":"https://www.facebook.com/sumihiro.kagawa","twitter":"https://twitter.com/sumihiro3"}
 path: /en/community/api-experts/jp-sumihiro-kagawa
-__hash__: 3dhXjemWNd716oqMsxXBjlIWj2c-O__Kxqpmtnc5eWs
+__hash__: IkgCBHU4NdCtrujxswCG7dy3dFOgx0skN-aYy0XRe6Q
 seo:
   title: LINE API Expert - Sumihiro Kagawa
   description: ''

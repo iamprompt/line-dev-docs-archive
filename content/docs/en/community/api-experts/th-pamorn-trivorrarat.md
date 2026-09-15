@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Pamorn
-  Trivorrarat","img":"th-pamorn-trivorrarat.png","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
+  Trivorrarat","img":"th-pamorn-trivorrarat.webp","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
   API, LIFF","skills":"Vue.js, Python, Go, Node.js, JavaScript, TypeScript,
   PHP","git":"https://github.com/PamornT","fb":"https://www.facebook.com/pamornt","twitter":""}
 path: /en/community/api-experts/th-pamorn-trivorrarat
-__hash__: b5ytSMDoiHQP8-N9Y9Zp1UxNCX63Mwfy3l8MLddfRFc
+__hash__: OuaopvpQRLaKnLghW8Z1ZdHshK6DaGxZNlAguub9GhM
 seo:
   title: LINE API Expert - Pamorn Trivorrarat
   description: ''

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/verify-webhook-signature
-__hash__: 0IFR1SRVIiihECbWMcGkw5uAGHM4BFBiHb-Wa0wOSfk
+__hash__: Kj-Jwohg0U--0s8nXCa9Sll-5Lu3ClJ87Epga_Sy5YA
 seo:
   title: Webhookの署名を検証する
   description: null
@@ -48,7 +48,7 @@ LINEプラットフォームが、開発者に断りなくチャネルシーク�
 
 ここでの署名の検証とは、Webhookの送信者（LINEプラットフォーム）と受信者（開発者が運営するボットサーバー）の双方が、同じハッシュ鍵を用いて計算を行い、計算結果である署名の一致をもってそのWebhookの正当性を確認することを指します。
 
-![](/media/messaging-api/verify-webhook-signature/webhook-validation-flow.png)
+![](/media/messaging-api/verify-webhook-signature/webhook-validation-flow.webp)
 
 署名検証の仕組みを順を追って説明します。
 
@@ -64,7 +64,7 @@ LINEプラットフォームは、Webhookを送信する際に、以下の手順
 2. 生成した署名を`x-line-signature`ヘッダーにセットします。
 3. Webhookイベントと署名（`x-line-signature`）を、ボットサーバーに送信します。
 
-![](/media/messaging-api/verify-webhook-signature/line-platform-sends-webhook-request.png)
+![](/media/messaging-api/verify-webhook-signature/line-platform-sends-webhook-request.webp)
 
 ### ボットサーバーがWebhookを受信する
 
@@ -85,7 +85,7 @@ LINEプラットフォームは、Webhookを送信する際に、以下の手順
 3. 署名が一致した場合、受信したWebhookはLINEプラットフォームから送信され、改ざんされることなくボットサーバーに到達したものであることが保証されます。
 4. 署名が一致した場合は、Webhookイベントの内容に応じた処理を行ってください。
 
-![](/media/messaging-api/verify-webhook-signature/signature-validation.png)
+![](/media/messaging-api/verify-webhook-signature/signature-validation.webp)
 
 2つの署名が不一致だった場合や、Webhookのリクエストヘッダーに署名が含まれていなかった場合は、Webhookイベントの内容に応じた処理は行わず、エラーとして終了してください。署名が不一致だった場合は、以下の理由が考えられます。
 

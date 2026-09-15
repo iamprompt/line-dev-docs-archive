@@ -6,7 +6,7 @@ description: >-
   Framework（LIFF）で、ユーザーがLIFFアプリを起動したときに表示される同意画面が改善されました。この改善は、すべてのLIFFアプリに自動的に適用されるため、追加の開発作業は不要です。
 meta: '{"date":"2019-04-23 02:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-04-23-liff-consent-screen-changed
-__hash__: ihPjr_lq4HDcvqhxt2hKVJQRJcUa96LmX8f10hP5XSU
+__hash__: XUS9jBTWO0p6OA55S-FrL5VQF55nhHuG0QC9TiHX5G8
 seo:
   title: LINE Front-end Frameworkの同意画面が改善されました
   description: >-
@@ -18,6 +18,6 @@ LINE Front-end Framework（LIFF）で、ユーザーがLIFFアプリを起動し
 
 新画面（イメージ）
 
-![New consent screen](/media/news/liff-consent-screen-changed-01.png){className="[\"border\"]"}
+![New consent screen](/media/news/liff-consent-screen-changed-01.webp){className="[\"border\"]"}
 
 なお、ユーザーに「トークへのメッセージ送信」の認可を求めるLIFFアプリでは、同意画面でユーザーが許可しない場合があります。この場合は、次にユーザーがLIFFアプリを起動したときに同意画面が再表示されます。

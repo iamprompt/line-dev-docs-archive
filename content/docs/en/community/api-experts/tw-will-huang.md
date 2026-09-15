@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Will
-  Huang","img":"tw-will-huang.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Huang","img":"tw-will-huang.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"C#, Node.js, Perl, JavaScript, SQL, Chatbot, Website, EC,
   Cloud,
   Database","git":"https://github.com/doggy8088","fb":"https://www.facebook.com/will.fans","twitter":"https://twitter.com/Will_Huang"}
 path: /en/community/api-experts/tw-will-huang
-__hash__: C_77v1rlMET6_4u2LSkm4VSWePLlEWKImNMrMkSk_Bk
+__hash__: PHI6AicuWrr1M1bcFmd8-ydDkAppDdNHCccQH70eImk
 seo:
   title: LINE API Expert - Will Huang
   description: ''

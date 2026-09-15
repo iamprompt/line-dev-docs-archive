@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/getting-started
-__hash__: 6ulJ_GVL9HVULyCfHHyjOjINH8u7vM-qqR373U-K2mU
+__hash__: tdlfEDBFoTPkZV41wfnwZLOBnicJx2uPqAZ9bRIApPk
 seo:
   title: Messaging APIを始めよう
   description: null
@@ -45,13 +45,13 @@ LINE公式アカウントを作成するには、[ビジネスID](https://accoun
 
 ビジネスIDへの登録が完了すると、LINE公式アカウントの[作成フォーム](https://entry.line.biz/form/entry/unverified){rel="[\"nofollow\"]"}が表示されます。このフォームに必要事項を記入します。記入が完了すると、LINE公式アカウントが作成されます。
 
-![](/media/messaging-api/getting-started/oa-entry-form-ja.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/messaging-api/getting-started/oa-entry-form-ja.webp){className="[\"border\",\"w-fix-480\"]"}
 
 ### 1-3. LINE公式アカウントを確認する
 
 以上の手順により、LINE公式アカウントが作成されます。作成されたLINE公式アカウントは、[LINE Official Account Manager](https://manager.line.biz/){rel="[\"nofollow\"]"}で確認できます。
 
-![](/media/messaging-api/getting-started/oa-manager-list-ja.png){className="[\"border\",\"w-fix-640\"]"}
+![](/media/messaging-api/getting-started/oa-manager-list-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 LINE公式アカウントが作成されたことを確認したら、手順2に進んでください。
 
@@ -98,7 +98,7 @@ LINE公式アカウントが作成されたことを確認したら、手順2に
 
 [手順2-1](#step-one-enable-use-of-messaging-api)で選択したプロバイダーを選択し、チャネルが作成されたことを確認します。
 
-![](/media/messaging-api/getting-started/console-home-ja.png){className="[\"border\",\"w-fix-520\"]"}
+![](/media/messaging-api/getting-started/console-home-ja.webp){className="[\"border\",\"w-fix-520\"]"}
 
 ## 【廃止】LINE Developersコンソールでチャネルを作成する
 

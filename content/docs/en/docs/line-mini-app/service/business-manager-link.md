@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/business-manager-link
-__hash__: dydAlQrfRObsYM6NLLBNbLqgaVwzAcbvQAcT3utEzW0
+__hash__: 66_vPShTALCR5rKMZMsX4boDHCIGkVlk7HLp5r4aRmM
 seo:
   title: Link a LINE MINI App channel to a Business Manager organization
   description: ''
@@ -87,7 +87,7 @@ The link request URL is valid for 7 days (168 hours) after it is issued. If the 
 
 When the Business Manager organization administrator opens the link request URL, the request approval screen is displayed.
 
-![](/media/line-mini-app/service/approve-send-link-request-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/approve-send-link-request-en.webp){className="[\"border\"]"}
 
 Confirm that the LINE MINI App channel and organization are correct, review the precautions, and then click **Approve**.
 
@@ -244,7 +244,7 @@ type: tip
 ---
 If the developer is also the Business Manager organization administrator, they can open the "LINE Official account linking" screen in the Business Manager from the "LINE Official Account link" section on the **Business Manager link** tab of the LINE MINI App channel.
 
-![](/media/line-mini-app/service/line-official-account-linking-from-line-mini-app-channel-en.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/line-official-account-linking-from-line-mini-app-channel-en.webp){className="[\"border\"]"}
 ::
 
 Click the name of the LINE Official Account that you want to link.

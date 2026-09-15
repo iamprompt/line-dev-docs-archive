@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-05-07 00:00 UTC","tags":"line-login,
   liff","locale":"en","sidebar":false}
 path: /en/tips/2026/05/07/line-launch-issue
-__hash__: hehNRQCB8WiHJuCz7hdW5gvGJw9omSjucf8zDcSp0yo
+__hash__: wLI6m86gWh7VyXXD2dZRbJy4kPRK21ekQlqWsfaU0aY
 seo:
   title: >-
     What to know when "Open in LINE" or "Log in with LINE" doesn't work as
@@ -29,7 +29,7 @@ seo:
 
 Have you ever used a LINE MINI App, tapped the **Open in LINE** button, and found that LINE didn't launch?
 
-![](/media/tips/2026/line-launch-issue_landingpage-en.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/tips/2026/line-launch-issue_landingpage-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 If you're a LINE MINI App developer, you may also have received questions such as, "I can't open the MINI App from Facebook."
 

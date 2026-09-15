@@ -5,7 +5,7 @@ description: LINEミニアプリでカスタムアクションボタンを実装
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/develop/share-messages
-__hash__: etHcebX0v-g5OlMTCHKgnFPbuw67l-nsoYc8xSjjQjs
+__hash__: t4qqwzmHnkdubrr9y0i1bxGrUFPavK-9VWtZEFYXUHk
 seo:
   title: カスタムアクションボタンを実装する
   description: LINEミニアプリでカスタムアクションボタンを実装する方法を説明します。
@@ -17,7 +17,7 @@ seo:
 
 一方、（B）ボディにカスタムアクションボタンを実装すると、メッセージの内容をカスタマイズしてLINEミニアプリをシェアできます。
 
-![](/media/line-mini-app/mini_concept.png){className="[\"w-fix-280\"]"}
+![](/media/line-mini-app/mini_concept.webp){className="[\"w-fix-280\"]"}
 
 ## ガイドライン
 

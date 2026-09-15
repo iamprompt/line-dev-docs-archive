@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/common/deauthorize
-__hash__: ZjIf2AN-sEvqk5g0M82ILSxnTDvbV9a5W4ltN9rhtP4
+__hash__: HJycEiCn3TSa90hGg_90FtXld6Cg6o68vU0gNVNYDqs
 seo:
   description: ''
 ---
@@ -17,7 +17,7 @@ seo:
 
 The following use cases require deauthorization.
 
-![Steps from linking your account to deauthorize app](/media/line-login/development-guidelines/deauthorize-your-app-en.png)
+![Steps from linking your account to deauthorize app](/media/line-login/development-guidelines/deauthorize-your-app-en.webp)
 
 When a user logs in to the app that integrates LINE Login with their LINE account and [authorize the app](/docs/line-login/integrate-line-login/#authorization-process) on the channel consent screen, the target app will appear in **Settings** > **Account** > **Authorized apps** in the LINE app. Deauthorize the app so that the permissions don't remain authorized after the user unregisters from your app.
 

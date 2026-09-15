@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/payment
-__hash__: HJQOLZrKoSMUh7xARvIbpoJMm3PTL16HNY-lHdXLsSY
+__hash__: ncopOyFgOG2_9Sua1nGw0PoM6IpNa_vf51ofY_5QQcY
 seo:
   title: 決済システムを利用する
   description: null
@@ -45,7 +45,7 @@ LINEミニアプリが表示する画面：
 ![](/media/line-mini-app/mini_linepay_flow01.png){className="[\"w-fix-240\"]"}
 2. ユーザーがLINE Payで決済内容を確認して、LINE Payの認証情報を入力します。  
 LINE Payが表示する画面：  
-![](/media/line-mini-app/mini_linepay_flow02.png){className="[\"w-fix-480\"]"}
+![](/media/line-mini-app/mini_linepay_flow02.webp){className="[\"w-fix-480\"]"}
 3. 注文の確認ページを表示します。  
 LINEミニアプリが表示する画面：  
 ![](/media/line-mini-app/mini_linepay_flow03.png){className="[\"w-fix-240\"]"}

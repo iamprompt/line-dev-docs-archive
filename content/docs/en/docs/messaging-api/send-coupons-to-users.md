@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/send-coupons-to-users
-__hash__: x_JJwEkWt3wFigT3hM6CYPbvmW2hj-7nrijtEiqOl6Y
+__hash__: wRuX5bNGsC1kVcaatTzZX51eT_3iX8H2Uv5_7ClcJi0
 seo:
   title: Create coupons and send them to users
   description: null
@@ -112,7 +112,7 @@ Coupon messages can be sent as any of the following types of messages. You can a
 
 Users can open and get the delivered coupon and use it within the validity period.
 
-![](/media/messaging-api/coupon/coupon-message-ja.jpg){className="[\"w-fix-360\"]"}
+![](/media/messaging-api/coupon/coupon-message-ja.webp){className="[\"w-fix-360\"]"}
 
 ## Discontinue a coupon
 
@@ -211,7 +211,7 @@ You can check the number of times sent coupons were viewed and used in [LINE Off
 
 Coupon images can be displayed by specifying the image URL in `imageUrl` when creating the coupon. If you specify a square image, the aspect ratio will be 1.51:1 (width:height) in the chat screen, so the top and bottom of the image will be partially cut off.
 
-![](/media/messaging-api/coupon/how-images-look.jpg)
+![](/media/messaging-api/coupon/how-images-look.webp)
 
 ::admonition{title="How do I create coupon images" type="tip"}
 You can use the coupon images provided from [Free template image collection](https://lymcampus.jp/line-official-account/courses/template/lessons/6-1-1){rel="[\"nofollow\"]"} (only available in Japanese) in LINE Marketing Campus or the templates available at [LINE Creative Lab](https://creativelab.line.biz/){rel="[\"nofollow\"]"} (only available in Japanese).

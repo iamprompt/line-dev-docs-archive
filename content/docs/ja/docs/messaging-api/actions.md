@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/actions
-__hash__: '-GFxClwSZrtilGVLAXRQMwf3-uFJuYyjXpPj0eHjR_0'
+__hash__: r2FlSn5S1lgGw--JxQO5ArHtfUC7TIYSP3-MhHitaUE
 seo:
   title: アクション
   description: null
@@ -116,7 +116,7 @@ LINEの位置情報画面を開くアクションです。このアクション�
 
 クリップボードにテキストをコピーするためのアクションです。ユーザーがこのアクションが関連づけられたコントロールをタップすると、`clipboardText`プロパティに指定されたテキストが、端末のクリップボードにコピーされます。
 
-![](/media/news/2024/clipbord-action-example-ja.png){className="[\"w-fix-360\",\"border\"]"}
+![](/media/news/2024/clipbord-action-example-ja.webp){className="[\"w-fix-360\",\"border\"]"}
 
 上記の例で示した、メッセージにクリップボードアクションを設定したリクエストボディは以下のようになります。詳しくは、『Messaging APIリファレンス』の「[クリップボードアクション](/reference/messaging-api/#clipboard-action)」を参照してください。
 

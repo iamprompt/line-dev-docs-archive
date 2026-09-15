@@ -6,7 +6,7 @@ description: >-
   numbers hashed with the SHA256 algorithm.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/technical-specs
-__hash__: J7dEVikxOYQ3iSujyMovMiaol71WPWd0uGajxFYF69s
+__hash__: DyrBx4SmlqxmhzqW7EDCsA4gmzDZuCn1t62KoRZALYc
 seo:
   title: Technical specifications of the LINE notification messages API
   description: >-
@@ -45,7 +45,7 @@ For more information, see the [LINE notification messages API reference](/refere
 
 With LINE notification messages (template), you can easily create messages by combining premade templates, items, and buttons. When creating messages, follow the [LINE notification messages (template) UX guidelines](https://www.lycbiz.com/sites/default/files/media/jp/download/LINE_Official_Notification_Template_UXGuideline.pdf){rel="[\"nofollow\"]"} (only available in Japanese).
 
-![Sample of a LINE notification message (template)](/media/line-notification-message/notification-messages-template.png){className="[\"border\",\"w-fix-480\"]"}
+![Sample of a LINE notification message (template)](/media/line-notification-message/notification-messages-template.webp){className="[\"border\",\"w-fix-480\"]"}
 
 With LINE notification messages (flexible), you can use [Flex Message](/docs/messaging-api/message-types/#flex-messages) and other similar message types for more flexible message creation. However, messages containing images, videos, or audio aren't permitted. Additionally, LINE notification messages (flexible) require prior UX review, and only messages that pass the review can be sent. When creating messages, follow the [LINE notification messages (flexible) UX guidelines](https://www.lycbiz.com/sites/default/files/media/jp/download/LINE%E9%80%9A%E7%9F%A5%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8UX%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3.pdf){rel="[\"nofollow\"]"} (only available in Japanese).
 
@@ -161,7 +161,7 @@ If a user who isn't friends with the LINE Official Account of the sender of the 
 
 Users who receive a LINE notification message can open a one-on-one chat and use the rich menu without adding the LINE Official Account as a friend. The default rich menu, which is set either in the [LINE Official Account Manager](/docs/messaging-api/rich-menus-overview/#creating-a-rich-menu-with-the-line-manager) or with the [Messaging API](/docs/messaging-api/using-rich-menus/#set-the-default-rich-menu) will be displayed. However, the [per-user rich menu](/reference/messaging-api/#link-rich-menu-to-user) set with the Messaging API for users who aren't adding the LINE Official Account as a friend won't be displayed.
 
-![Users can access the rich menu without adding the LINE Official Account as a friend](/media/line-notification-message/about-richmenu-displayed.png){className="[\"w-fix-480\"]"}
+![Users can access the rich menu without adding the LINE Official Account as a friend](/media/line-notification-message/about-richmenu-displayed.webp){className="[\"w-fix-480\"]"}
 
 Users who receive a LINE notification message can also send messages to the LINE Official Account without adding it as a friend. Therefore, you may receive a [postback event](/reference/messaging-api/#postback-event) or a [message event](/reference/messaging-api/#message-event) from a user who isn't your LINE Official Account's friend via webhooks.
 

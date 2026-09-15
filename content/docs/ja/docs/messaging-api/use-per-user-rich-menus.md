@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/use-per-user-rich-menus
-__hash__: Ua7dFqmBQdaQOxP8oixhtnWvrSs1-Vl9gtYwLuvtRzo
+__hash__: btfn_qP7b144WDpVWqQmFpVpSVB9ay5KpE_hUkAlkRk
 seo:
   title: ユーザー単位のリッチメニューを使う
   description: null
@@ -126,6 +126,6 @@ curl -v -X DELETE https://api.line.me/v2/bot/user/{userId}/richmenu \
 
 ユーザー単位のリッチメニューを活用して、タブ切り替えが可能なリッチメニューをユーザーに提供できます。:glossary-tooltip[[リッチメニューエイリアス](/glossary/#rich-menu-alias)]{glossary-id="rich-menu-alias"}と[リッチメニュー切替アクション](/reference/messaging-api/#richmenu-switch-action)を使うことで、簡単にリッチメニューの切り替えを実装できます。
 
-![](/media/messaging-api/rich-menu/switching-richmenu-ja.png){className="[\"w-fix-480\"]"}
+![](/media/messaging-api/rich-menu/switching-richmenu-ja.webp){className="[\"w-fix-480\"]"}
 
 詳しくは、「[リッチメニューでタブ切り替えを行う](/docs/messaging-api/switch-rich-menus/)」を参照してください。

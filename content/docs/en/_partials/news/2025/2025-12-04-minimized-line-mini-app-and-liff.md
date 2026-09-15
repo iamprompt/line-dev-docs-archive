@@ -11,7 +11,7 @@ description: >-
   after they are minimized has also been changed.
 meta: '{"date":"2025-12-04 00:00 UTC","tags":"line-mini-app, liff","locale":"en"}'
 path: /en/_partials/news/2025/2025-12-04-minimized-line-mini-app-and-liff
-__hash__: 4rRabNV00wOK3JJ5_UOMOYkZmRN6zM0EnoJrQRDzEzw
+__hash__: YP06Z8cawK8CTNX6k77YJI9MJMwcmEAi_U-Eyfv6AxY
 seo:
   title: >-
     In LINE version 15.20.0 or later, the behavior when minimizing the LINE MINI
@@ -46,15 +46,15 @@ In versions of LINE earlier than 15.20.0, the icons of LINE MINI App and LIFF ap
 
 Starting from LINE version 15.20.0, the background plate has been removed, and the icons are displayed larger than before. This improves the visibility of brand logos and other elements.
 
-| LINE version earlier than 15.20.0                                     | LINE version 15.20.0 or later                                         |
-| --------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ![](/media/news/2025/icon-size-asis.png){className="[\"w-fix-300\"]"} | ![](/media/news/2025/icon-size-tobe.png){className="[\"w-fix-300\"]"} |
+| LINE version earlier than 15.20.0                                      | LINE version 15.20.0 or later                                          |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ![](/media/news/2025/icon-size-asis.webp){className="[\"w-fix-300\"]"} | ![](/media/news/2025/icon-size-tobe.webp){className="[\"w-fix-300\"]"} |
 
 #### Behavior when minimized for the first time
 
 When a LINE MINI App or LIFF app is minimized, a transition message "Tap to open" appears for a few seconds only on the first occurrence. This message is displayed only once on the first minimization. From the second minimization onwards, the message won't be displayed.
 
-![](/media/news/2025/minimized-for-the-first-time-en.png){className="[\"w-fix-300\"]"}
+![](/media/news/2025/minimized-for-the-first-time-en.webp){className="[\"w-fix-300\"]"}
 
 #### Default position where the icon appears
 
@@ -62,9 +62,9 @@ In versions of LINE earlier than 15.20.0, when a LINE MINI App or LIFF app was m
 
 Starting from LINE version 15.20.0, the default display position has been changed to the middle-right edge of the screen.
 
-| LINE version earlier than 15.20.0                                                 | LINE version 15.20.0 or later                                                     |
-| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![](/media/news/2025/default-icon-position-asis.png){className="[\"w-fix-300\"]"} | ![](/media/news/2025/default-icon-position-tobe.png){className="[\"w-fix-300\"]"} |
+| LINE version earlier than 15.20.0                                                  | LINE version 15.20.0 or later                                                      |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| ![](/media/news/2025/default-icon-position-asis.webp){className="[\"w-fix-300\"]"} | ![](/media/news/2025/default-icon-position-tobe.webp){className="[\"w-fix-300\"]"} |
 
 #### Keep icon position
 
@@ -78,4 +78,4 @@ In versions of LINE earlier than 15.20.0, to close a minimized LINE MINI App or 
 
 Starting from LINE version 15.20.0, these previous closing methods have been removed. Instead, users can now close the minimized LINE MINI App or LIFF app more intuitively by tapping the close button displayed at the top-right corner of the minimized icon.
 
-![](/media/news/2025/icon-with-close-button.png){className="[\"w-fix-300\"]"}
+![](/media/news/2025/icon-with-close-button.webp){className="[\"w-fix-300\"]"}

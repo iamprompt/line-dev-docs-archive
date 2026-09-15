@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/sharing-bot
-__hash__: E00QkxCilXQQs6ylPrngofjhGINBeuo-50T30W7kBJw
+__hash__: ScK9_OMKsEd7FDRHxJSHHYNrFcmoSJcIj6Q6vQFrkUM
 seo:
   title: LINE公式アカウントの友だちを増やす
   description: null
@@ -70,7 +70,7 @@ LINE Social Pluginsが生成する［**友だち追加**］ボタンを利用す
 
 たとえば、[`https://line.me/R/ti/p/%40linedevelopers`](https://line.me/R/ti/p/%40linedevelopers){rel="[\"nofollow\"]"}を開くと、LINE DevelopersのLINE公式アカウントのビジネスプロフィールページが表示されます。このLINE URLスキームについて詳しくは、「[LINE公式アカウントをシェアする](/docs/messaging-api/using-line-url-scheme/#sharing-line-official-account)」を参照してください。
 
-![](/media/messaging-api/sharing-bot/add-line-developers-oa-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/sharing-bot/add-line-developers-oa-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## ユーザーからLINE上の友だちにLINE公式アカウントをおすすめしてもらう
 

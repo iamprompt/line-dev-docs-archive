@@ -7,7 +7,7 @@ description: >-
   full-text search.
 meta: '{"date":"2020-04-13 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-04-13-full-text-search-released
-__hash__: BrSqJGj6w3mLMvEEZrx8EXeIamOzD_SYcb6MFlTuKtA
+__hash__: CPFt90qi2hI5iLkrGrwOULAOUkOVd1moLLX4sPm4Uk0
 seo:
   title: Full-text search is back
   description: >-
@@ -22,10 +22,10 @@ We listened to the feedback and have reimplemented full-text search.
 
 When you want to use the full-text search, enter the query in the search bar and select **Full-text search** from the menu.
 
-![Full-text search](/media/news/full-text-search.png){className="[\"border\",\"w-fix-240\"]"}
+![Full-text search](/media/news/full-text-search.webp){className="[\"border\",\"w-fix-240\"]"}
 
 Once selected, the full-text search results will appear.
 
-![Full-text search result](/media/news/full-text-search-result.png){className="[\"border\",\"w-fix-640\"]"}
+![Full-text search result](/media/news/full-text-search-result.webp){className="[\"border\",\"w-fix-640\"]"}
 
 Thank you for the valuable feedback. LINE will continue to improve the LINE Developers site to offer a smoother experience for its users.

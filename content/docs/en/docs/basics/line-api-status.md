@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/basics/line-api-status
-__hash__: 3COkCLCiLBWRxEMobpIfA8uwaMV8vMcf4LbLLZqJPfg
+__hash__: oUO1ZJLmdPJYfMpKVDwZEoZgM6xCFF67OE43ZeHV3kg
 seo:
   title: Check the availability of the LINE Platform (LINE API Status)
   description: null
@@ -23,7 +23,7 @@ LY Corporation will provide information on outage status through LINE API Status
 ::
 
 - [LINE API Status](https://api.line-status.info/){rel="[\"nofollow\"]"}  
-![](/media/basics/line-api-status.png){className="[\"border\",\"w-fix-400\"]"}
+![](/media/basics/line-api-status.webp){className="[\"border\",\"w-fix-400\"]"}
 
 ### Provision of ATOM and RSS feeds
 

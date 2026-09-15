@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/configure-console
-__hash__: 9xdtv96rFnrSXmH1mJnMY-tNXDsVsIJslWEMhb3OECY
+__hash__: aQlBnmmMzHG_U17vgjOaTTqLjL5stvIpHb7NYMBWkv0
 seo:
   title: LINEミニアプリのユーザーに表示される設定一覧
   description: null
@@ -49,7 +49,7 @@ LINEミニアプリチャネルの設定のうち、ユーザーに表示され�
 
 ユーザーが[アクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)からLINEミニアプリのページをシェアしたときに、[LINE Developersコンソール](/console/)に登録した以下の情報が、送信先のトークルームに表示されます。
 
-![アクションボタン](/media/line-mini-app/mini_share_builtin_share.png){className="[\"w-fix-320\"]"}
+![アクションボタン](/media/line-mini-app/mini_share_builtin_share.webp){className="[\"w-fix-320\"]"}
 
 | 情報             | 設定                                |
 | -------------- | --------------------------------- |
@@ -71,7 +71,7 @@ LINEミニアプリチャネルの設定のうち、ユーザーに表示され�
 
 [LINE Developersコンソール](/console/)に登録した以下の情報が、「[アクセス許可要求画面](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid)」に表示されます。
 
-![](/media/line-mini-app/line-mini-app-playground-verification-screen-ja.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/line-mini-app/line-mini-app-playground-verification-screen-ja.webp){className="[\"border\",\"w-fix-320\"]"}
 
 | 情報             | 設定                                                       |
 | -------------- | -------------------------------------------------------- |
@@ -85,7 +85,7 @@ LINEミニアプリチャネルの設定のうち、ユーザーに表示され�
 
 [LINE Developersコンソール](/console/)に登録した以下の情報が、[チャネル同意画面](/docs/line-mini-app/develop/channel-consent-simplification/#authorization-flow-disabled)に表示されます。
 
-![チャネル同意画面](/media/line-mini-app/mini-permission-request-ja.png){className="[\"border\",\"w-fix-320\"]"}
+![チャネル同意画面](/media/line-mini-app/mini-permission-request-ja.webp){className="[\"border\",\"w-fix-320\"]"}
 
 | 情報                | 設定                                                       |
 | ----------------- | -------------------------------------------------------- |
@@ -116,7 +116,7 @@ LINEミニアプリチャネルの設定のうち、ユーザーに表示され�
 
 [LINE Developersコンソール](/console/)に登録した以下の情報が、サービスメッセージのフッターセクションに表示されます。サービスメッセージについて詳しくは、「[サービスメッセージを送信する](/docs/line-mini-app/develop/service-messages/)」を参照してください。
 
-![サービスメッセージ](/media/line-mini-app/mini_service_notifier.png){className="[\"border\",\"w-fix-320\"]"}
+![サービスメッセージ](/media/line-mini-app/mini_service_notifier.webp){className="[\"border\",\"w-fix-320\"]"}
 
 | 情報         | 設定                                |
 | ---------- | --------------------------------- |
@@ -127,7 +127,7 @@ LINEミニアプリチャネルの設定のうち、ユーザーに表示され�
 
 [LINE Developersコンソール](/console/)に登録した以下の情報が、ショートカット追加画面に表示されます。ショートカット追加画面について詳しくは、「[ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する](/docs/line-mini-app/develop/add-to-home-screen/)」を参照してください。
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.webp){className="[\"border\",\"w-fix-320\"]"}
 
 | 情報                   | 設定                                  |
 | -------------------- | ----------------------------------- |

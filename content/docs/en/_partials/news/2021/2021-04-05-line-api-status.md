@@ -6,7 +6,7 @@ description: >-
   and outage status of LINE APIs.
 meta: '{"date":"2021-04-05 00:00 UTC","tags":"LINE Platform","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-05-line-api-status
-__hash__: _4I7Eux7ezaEppA6BEZCwZ0x6fSOn0lTE-zDwMU7quU
+__hash__: g0tKK-KZumYcB7wdjSwxkj2x8AieB0cR6isk2OMyHR4
 seo:
   title: LINE API Status site for checking service availability opened
   description: >-
@@ -27,7 +27,7 @@ We've opened the [LINE API Status](https://api.line-status.info/){rel="[\"nofoll
 LINE API Status is a site through which you can check the service availability and outage status of APIs and services that LINE provides. Service availability and outage status information is provided in English.
 
 - [LINE API Status](https://api.line-status.info/){rel="[\"nofollow\"]"}  
-![LINE API Status page that shows past incidents and Messaging API and LINE Developers system operations.](/media/news/line_api_status.png){className="[\"border\",\"w-fix-400\"]"}
+![LINE API Status page that shows past incidents and Messaging API and LINE Developers system operations.](/media/news/line_api_status.webp){className="[\"border\",\"w-fix-400\"]"}
 
 You can get the ATOM or RSS feed by clicking **SUBSCRIBE TO UPDATES** on LINE API Status.
 
@@ -68,7 +68,7 @@ Currently, LINE API Status doesn't cover the LINE app and services other than th
 
 You can access LINE API Status by clicking [**LINE API Status**](https://api.line-status.info/){rel="[\"nofollow\"]"} on the **More** dropdown menu.
 
-![LINE API Status on the more dropdown menu](/media/news/line_api_status_drop_down_menu_en.png){className="[\"border\",\"w-fix-640\"]"}
+![LINE API Status on the more dropdown menu](/media/news/line_api_status_drop_down_menu_en.webp){className="[\"border\",\"w-fix-640\"]"}
 
 ::admonition{title="On the information on LINE API Status" type="note"}
 LINE will provide information on outage status through LINE API Status, but this doesn't guarantee immediate, accurate, or comprehensive information. We will continue to inform you of the details of the outage, such as the cause and extent of influence, through [News](/news/tags/outage-report/) on the LINE Developers site.

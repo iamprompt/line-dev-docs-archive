@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-04-30 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/30/flex-message-usage-1
-__hash__: 7-DKWtjX2OY7pNtAbAsUj58iAIwYSldlj7e01Z44pcA
+__hash__: tboHhNkz4JgNoxkzRTPBAn3bwk7cLCuhpvWFFzZ8VHs
 seo:
   title: Flex Messageを使いこなす パート1
   description: >-
@@ -39,7 +39,7 @@ Flex Messageでは、[CSS Flexible Box（CSS Flexbox）](https://www.w3.org/TR/c
 
 Flex MessageのBOXコンポーネント自体に対して、[backgroundColor](/reference/messaging-api/#box)を設定することができます。均等間隔で横並びに[backgroundColor](/reference/messaging-api/#box)を設定したBOXコンポーネントを配置することで、画像を利用しなくても以下のような棒グラフのようなメッセージを作成することができます。
 
-![](/media/tips/2026/flex-1-vertical-bar-graph-ja.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/tips/2026/flex-1-vertical-bar-graph-ja.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ```json
 {
@@ -551,7 +551,7 @@ Flex MessageのBOXコンポーネント自体に対して、[backgroundColor](/r
 
 Flex MessageのBOXコンポーネントを横並びに隙間なく配置し、[backgroundColor](/reference/messaging-api/#box)を組み合わせることで、画像を利用しなくても以下のようなプログレスバーのような要素を含むメッセージを作成することができます。
 
-![](/media/tips/2026/flex-2-progress-bar-ja.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/tips/2026/flex-2-progress-bar-ja.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ```json
 {
@@ -1009,7 +1009,7 @@ Flex MessageのBOXコンポーネントを横並びに隙間なく配置し、[b
 
 Flex MessageのBOXコンポーネントを[cornerRadius](/reference/messaging-api/#box)で調整し、[Offset](/docs/messaging-api/flex-message-layout/#component-offset)にマイナスの値を指定して位置を調整することで、紙のチケット風のメッセージを画像を利用しなくても作成することができます。
 
-![](/media/tips/2026/flex-3-ticket-style-ja.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/tips/2026/flex-3-ticket-style-ja.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ```json
 {
@@ -1256,7 +1256,7 @@ Flex MessageのBOXコンポーネントを[cornerRadius](/reference/messaging-ap
 
 複数のBOXコンポーネントを横並びに配置し、各コンポーネントに異なるカラーの[backgroundColor](/reference/messaging-api/#box)を設定することで、ヒートマップのようなレイアウトを作成できます。これにより、メッセージ内で密度や強度のデータを視覚的に表現できます。
 
-![](/media/tips/2026/flex-4-congestion-forecast-ja.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/tips/2026/flex-4-congestion-forecast-ja.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ```json
 {

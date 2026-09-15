@@ -4,7 +4,7 @@ navigation: true
 description: Using LINE Login to get authorization from your users.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login-sdks/unity-sdk/integrate-line-login
-__hash__: x6_sXbOi9UeoPSLGwNINfnSIY3Oz60-gWwGyg5sZy3M
+__hash__: FQPC_qVlreuy09mA8ux14FSwsDAbv8jjwrkjq3MSsUo
 seo:
   title: Integrating LINE Login with your Unity game
   description: Using LINE Login to get authorization from your users.
@@ -28,7 +28,7 @@ Before you import LINE SDK for Unity into your project, backup your project and/
 
 With your Unity project open, double-click on the downloaded `.unitypackage` file. Import everything in the package, as seen here:
 
-![Import Unity package](/media/unity-sdk/importing.png)
+![Import Unity package](/media/unity-sdk/importing.webp)
 
 ## Add LineSDK prefab to your scene
 

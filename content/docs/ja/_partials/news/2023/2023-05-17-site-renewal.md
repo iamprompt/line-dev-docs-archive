@@ -6,7 +6,7 @@ description: >-
   Systemに従うことにより、一貫性のあるユーザー体験を提供することを主な目的としています。また、ダークモードを追加し、ユーザーの好みに合わせて快適にサイトを閲覧できるようになりました。
 meta: '{"date":"2023-05-17 00:00 UTC","tags":"docs, line-platform","locale":"ja"}'
 path: /ja/_partials/news/2023/2023-05-17-site-renewal
-__hash__: wF3AOR8LDLk0g0q4RQv2irCFg73Sc0_GFP0Czmpq0ko
+__hash__: 0FaK9sdB0oy1d8dUYzstbZLp1TG_T5osjH7DUsqIuCc
 seo:
   title: LINE Developersサイトのデザインをリニューアルしました
   description: >-
@@ -32,15 +32,15 @@ LINE Developersサイトのデザインをリニューアルしました。今�
 
 サイトのデザインを、以下のように変更しました。なお、リニューアルに伴うコンテンツの変更はありません。たとえばリニューアル前に有効だったアンカーリンクは、引き続き使用できます。
 
-| 変更前                                                                                             | 変更後                                                                                            |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ![](/media/news/2023/site-renewal-design-before-ja.png){className="[\"border\",\"w-fix-480\"]"} | ![](/media/news/2023/site-renewal-design-after-ja.png){className="[\"border\",\"w-fix-480\"]"} |
+| 変更前                                                                                              | 変更後                                                                                            |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| ![](/media/news/2023/site-renewal-design-before-ja.webp){className="[\"border\",\"w-fix-480\"]"} | ![](/media/news/2023/site-renewal-design-after-ja.png){className="[\"border\",\"w-fix-480\"]"} |
 
 #### ダークモードを追加しました
 
 サイトにダークモードを追加しました。ヘッダーの切り替えアイコンより、ダークモードとライトモードを切り替えることができます。
 
-![](/media/news/2023/site-renewal-dark-ja.png){className="[\"border\",\"w-fix-640\"]"}
+![](/media/news/2023/site-renewal-dark-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 #### ドキュメントの並び順を変更しました
 

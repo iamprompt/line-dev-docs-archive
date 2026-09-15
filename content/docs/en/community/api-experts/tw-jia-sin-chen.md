@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Jia-Sin
-  Chen","img":"tw-jia-sin-chen.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Chen","img":"tw-jia-sin-chen.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Website, Cloud, Android, iOS,
   UI/UX","git":"https://github.com/jarsing","fb":"https://www.facebook.com/jarsing","twitter":""}
 path: /en/community/api-experts/tw-jia-sin-chen
-__hash__: mL9Bi3rTdga59_gQm2aBXRwlgmPXvoorOlpCGdwJvjg
+__hash__: 3P4-zO_QZPWOV-ddNn0IfbYuc0fkYdnSrM2aTiMi2ow
 seo:
   title: LINE API Expert - Jia-Sin Chen
   description: ''

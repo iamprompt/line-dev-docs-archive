@@ -6,7 +6,7 @@ meta: >-
   {"date":"2017-07-24 00:00 UTC","tags":"line-app, line-official-account,
   messaging-api","priority":1000,"locale":"en"}
 path: /en/_partials/faq/how-are-the-url-previews-generated
-__hash__: TAivqajqUuXwggVTGhfiMCLIIVN5vK77aO5lKCQN0lU
+__hash__: 4s68gMrlReux7_Z9xqeTBlnPwz3eINwGkIVjozvRMwY
 seo:
   title: How are URL previews generated in chats?
   description: LINE uses Open Graph Protocol tags from websites to generate URL previews.
@@ -24,7 +24,7 @@ The three OGP tags used by LINE:
 
 Example of URL preview:
 
-![URL preview in chat](/media/faq/chat-preview.png){className="[\"border\"]"}
+![URL preview in chat](/media/faq/chat-preview.webp){className="[\"border\"]"}
 
 ::admonition{title="OGP configuration" type="note"}
 Even if you don't configure OGP tags, any text or image within the URL will be automatically retrieved to generate a URL preview.

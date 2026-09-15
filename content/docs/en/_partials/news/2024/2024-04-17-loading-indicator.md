@@ -11,7 +11,7 @@ description: >-
   want them to wait by displaying a loading animation.
 meta: '{"date":"2024-04-17 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2024/2024-04-17-loading-indicator
-__hash__: vz1WsSBG3iecTHtZEBcdtTX-S4L1wzhSkf9feFZKuEI
+__hash__: eN-yj-ugh9nxKDkoS8HwMfoMNCEHmhEROBmEc20Rdz4
 seo:
   title: >-
     In the Messaging API, you can now display loading animations on the chat
@@ -28,7 +28,7 @@ In the Messaging API, we've added a new endpoint that allows you to [display a l
 
 The loading animation will automatically disappear after the specified number of seconds has elapsed or when a new message arrives from your LINE Official Account.
 
-![](/media/messaging-api/loading-indicator/loading-animation.gif){className="[\"border\",\"w-fix-480\"]"}
+![](/media/messaging-api/loading-indicator/loading-animation.webp){className="[\"border\",\"w-fix-480\"]"}
 
 For more information, see [Display a loading animation](/docs/messaging-api/use-loading-indicator/) in the Messaging API documentation.
 

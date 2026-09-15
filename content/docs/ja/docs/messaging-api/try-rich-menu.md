@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/try-rich-menu
-__hash__: 6x9LWzz6XJtq8XrJxEHqfw0-SI4Ry_mYNZwCeFceABU
+__hash__: m8PUf8iuVfO5itCn-RaQ3s9PujdOiapUutnhyhhpYcE
 seo:
   title: リッチメニューを試す
   description: null
@@ -43,7 +43,7 @@ seo:
 3. アクションボタン：ボタンに設定されたアクションを実行する。設定可能なパラメータがアクションにある場合は、パラメータごとのボタンが表示されます。
 4. ヘルプボタン：対象のアクションのドキュメントを開く。
 
-![メインメニュー](/media/messaging-api/rich-menu-playground/menu-descriptions.png){className="[\"w-fix-320\"]"}
+![メインメニュー](/media/messaging-api/rich-menu-playground/menu-descriptions.webp){className="[\"w-fix-320\"]"}
 
 ### アクションの詳細
 
@@ -67,7 +67,7 @@ seo:
 
 このタブでは、リッチメニューからメッセージを送信するための[メッセージアクション](/reference/messaging-api/#message-action)を実行することができます。
 
-![メッセージアクションを試す](/media/messaging-api/rich-menu-playground/01-message-action-ja.png){className="[\"w-fix-320\"]"}
+![メッセージアクションを試す](/media/messaging-api/rich-menu-playground/01-message-action-ja.webp){className="[\"w-fix-320\"]"}
 
 ::admonition{title="メッセージアクション" type="tip"}
 LINE公式アカウントとのトークで、ユーザーがリッチメニューからメッセージを送信すると、LINEプラットフォームは対応する[メッセージイベント](/reference/messaging-api/#message-event)をボットサーバーに送信します。ボットサーバーは、メッセージイベントで返された応答トークンを使って[応答メッセージ](/reference/messaging-api/#send-reply-message)を送信することができます。
@@ -81,7 +81,7 @@ LINE公式アカウントとのトークで、ユーザーがリッチメニュ�
 
 このタブでは、リッチメニューから[ポストバックアクション](/reference/messaging-api/#postback-action)を実行することができます。このアクションを実行すると、LINEプラットフォームはポストバックアクションオブジェクトの`data`プロパティに指定された文字列を含む[ポストバックイベント](/reference/messaging-api/#postback-event)をボットサーバーに対して送信します。
 
-![ポストバックアクションを試す(1)](/media/messaging-api/rich-menu-playground/02-postback-action-ja.png){className="[\"w-fix-320\"]"}
+![ポストバックアクションを試す(1)](/media/messaging-api/rich-menu-playground/02-postback-action-ja.webp){className="[\"w-fix-320\"]"}
 
 ::admonition{title="ポストバックアクション" type="tip"}
 ポストバックアクションを持つリッチメニューをユーザーがタップすると、LINEプラットフォームはボットサーバーに[ポストバックイベント](/reference/messaging-api/#postback-event)を送信します。このポストバックイベントには、ポストバックアクションの`data`プロパティに指定した文字列が含まれます。
@@ -102,7 +102,7 @@ LINE公式アカウントとのトークで、ユーザーがリッチメニュ�
 
 このタブでは、リッチメニューを開く、および閉じる[ポストバックアクション](/reference/messaging-api/#postback-action)を試せます。ポストバックアクションを実行すると、`data`プロパティに指定された文字列を含む[ポストバックイベント](/reference/messaging-api/#postback-event)がLINEプラットフォームからボットサーバーへ送信されます。
 
-![ポストバックアクションを試す(2)](/media/messaging-api/rich-menu-playground/02-2-postback-action-ja.png){className="[\"w-fix-320\"]"}
+![ポストバックアクションを試す(2)](/media/messaging-api/rich-menu-playground/02-2-postback-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | ボタン         | 説明                                                  | 設定値（アクションオブジェクトの値）                                                                           |
 | ----------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -113,7 +113,7 @@ LINE公式アカウントとのトークで、ユーザーがリッチメニュ�
 
 このタブでは、キーボードおよびボイスメッセージ入力モードを開く[ポストバックアクション](/reference/messaging-api/#postback-action)が設定されたリッチメニューを試せます。ポストバックアクションの実行と同時に、`data`プロパティに指定された文字列を含む[ポストバックイベント](/reference/messaging-api/#postback-event)がLINEプラットフォームからボットサーバーへ送信されます。
 
-![ポストバックアクションを試す(3)](/media/messaging-api/rich-menu-playground/02-3-postback-action-ja.png){className="[\"w-fix-320\"]"}
+![ポストバックアクションを試す(3)](/media/messaging-api/rich-menu-playground/02-3-postback-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | ボタン                    | 説明                                                              | 設定値（アクションオブジェクトの値）                                                                                                                                    |
 | ---------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,7 +125,7 @@ LINE公式アカウントとのトークで、ユーザーがリッチメニュ�
 
 このタブでは、リッチメニューから[URIアクション](/reference/messaging-api/#uri-action)を実行することができます。このアクションを実行すると、アクションに設定されたURIがウェブブラウザで開かれます。
 
-![URIアクションを試す](/media/messaging-api/rich-menu-playground/03-uri-action-ja.png){className="[\"w-fix-320\"]"}
+![URIアクションを試す](/media/messaging-api/rich-menu-playground/03-uri-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | ボタン                        | 説明                                                                                                                                                                  | 設定値（アクションオブジェクトの値）                                                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |

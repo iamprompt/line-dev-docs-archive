@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Etrex
-  Kuo","img":"tw-etrex-kuo.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Kuo","img":"tw-etrex-kuo.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Ruby, JavaScript, Website, Chatbot, Image Processing, Database,
   iOS App, Android
   App","git":"https://github.com/etrex","fb":"https://www.facebook.com/etrex.kuo","twitter":""}
 path: /en/community/api-experts/tw-etrex-kuo
-__hash__: 6oE_2Q7GfDKxG773y74scEjGXRUtyjWAGF7-wzGnLNQ
+__hash__: d74kxCAuKS45UUu-g0g1oietyUN2rEcOdetJbfdhcDo
 seo:
   title: LINE API Expert - Etrex Kuo
   description: ''

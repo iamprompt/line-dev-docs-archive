@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login/integrate-line-login
-__hash__: ylwmGkgomDf25M6hpHX_b0PdSGLzYfamJCPYb8ZIEJw
+__hash__: ggqgdv8FfoKt7tILBTh6UbYYn0GN1wtEsFw_yQ137oc
 seo:
   title: Integrating LINE Login with your web app
   description: null
@@ -162,7 +162,7 @@ Users are automatically logged in when they visit an authorization URL from one 
 
 As shown below, the LINE app is automatically launched upon login, and the user is logged in without any operation:
 
-![](/media/line-login/integrate-login-web/auto-ligin-animation.gif){className="[\"border\"]"}
+![](/media/line-login/integrate-login-web/auto-login-animation.webp){className="[\"border\"]"}
 
 ::admonition{title="Auto login doesn't work on LINE for PC" type="note"}
 For more information on environments that can use auto login, see [How does auto login work?](/faq/#how-does-auto-login-work) in the FAQ.

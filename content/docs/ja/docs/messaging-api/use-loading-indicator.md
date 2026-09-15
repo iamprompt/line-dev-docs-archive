@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/use-loading-indicator
-__hash__: 2MRwwqsN0O-16ez6faVHpPsq72rB31wuuJpsjGryImg
+__hash__: LKuUQueDQr-O_ZxE_Mwy8MwiHQOFUG_VbKlMc9LhJpY
 seo:
   title: ローディングのアニメーションを表示する
   description: null
@@ -20,7 +20,7 @@ seo:
 
 [ローディングのアニメーションを表示する](/reference/messaging-api/#display-a-loading-indicator)エンドポイントを使用すると、トークの画面にローディングのアニメーションを表示できます。アニメーションは指定した秒数（5秒〜60秒）が経過するか、表示中にLINE公式アカウントからメッセージが届くと自動的に消えます。
 
-![](/media/messaging-api/loading-indicator/loading-animation.gif){className="[\"border\",\"w-fix-480\"]"}
+![](/media/messaging-api/loading-indicator/loading-animation.webp){className="[\"border\",\"w-fix-480\"]"}
 
 表示先としてユーザーIDを指定することで、ユーザーとLINE公式アカウントの1対1のトークにアニメーションを表示できます。グループトークまたは複数人トークは指定できません。
 

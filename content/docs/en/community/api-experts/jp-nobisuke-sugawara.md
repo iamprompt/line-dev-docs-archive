@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Nobisuke
-  Sugawara","img":"jp-nobisuke-sugawara.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Sugawara","img":"jp-nobisuke-sugawara.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Node.js, JavaScript, Chatbot, IoT, Website, Cloud, Embedded
   Control
   System","git":"https://github.com/n0bisuke","fb":"https://www.facebook.com/sugawara.ryousuke","twitter":"https://twitter.com/n0bisuke"}
 path: /en/community/api-experts/jp-nobisuke-sugawara
-__hash__: GfHX7eCi1CxdTW6huHKvenib_N9WEsziUBev2Qk8lPM
+__hash__: vDnZyy8v6QMAKru0qlO723LW7Aq2VMDPPsijtMBhPJw
 seo:
   title: LINE API Expert - Nobisuke Sugawara
   description: ''

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-developers-console/notification
-__hash__: rtmjX6lkJKgztbXSPHCsq7wItLvdAzxWLcQrX7hwBu4
+__hash__: m9fO7AaIehcs2PmuEf9Ihv3c3YXYvRFdhGiWDKYC4YQ
 seo:
   title: Receive notifications via email or the notification center
   description: null
@@ -81,4 +81,4 @@ To display the notification center, click on the bell icon in the top-right corn
 
 If you click on this icon, you will see the notification center. From here, your can check recent updates and activities.
 
-![The dropdown menu of the notification center of the LINE Developers Console](/media/line-developers-console/notification-01-en.png){className="[\"border\",\"w-fix-480\"]"}
+![The dropdown menu of the notification center of the LINE Developers Console](/media/line-developers-console/notification-01-en.webp){className="[\"border\",\"w-fix-480\"]"}

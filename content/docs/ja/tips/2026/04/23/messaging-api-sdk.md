@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-04-23 00:00 UTC","tags":"messaging-api,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/04/23/messaging-api-sdk
-__hash__: 23J3pwPmlKKdezRUuyfqwjuAfmGbxYXSJVZ0XiUUwUo
+__hash__: JXEEvR0oywlN08cxN6u3mfeoWL3uIOyg0oUTmGRRhKo
 seo:
   title: Messaging APIの新機能がSDKに反映されるまでのプロセス
   description: こんにちは！テクニカルライターの銭神です。みなさんは、LINEヤフーが提供するMessaging APIのSDKを使っていますか？
@@ -64,7 +64,7 @@ LINE OpenAPIの仕様が更新されると、各SDKのリポジトリでOpenAPI 
 
 たとえばLINE OpenAPIの[メッセージに既読をつける機能を追加するプルリクエスト](https://github.com/line/line-openapi/pull/115){rel="[\"nofollow\"]"}には、以下のように自動で作成されたプルリクエストからの参照が貼られています。
 
-![](/media/tips/2026/messaging-api-sdk.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/tips/2026/messaging-api-sdk.webp){className="[\"border\",\"w-fix-480\"]"}
 
 ### 3. SDKがリリースされる
 

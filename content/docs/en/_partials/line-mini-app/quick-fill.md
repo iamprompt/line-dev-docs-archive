@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-mini-app/quick-fill
-__hash__: VhmtXeQlPBmV_eRVxxf8rZpiLoJUihg5ghkmvzHKbhA
+__hash__: mFRzXaQp6KNJXBVY4luUh0Fqz1ZKC6AjplWUiIreA3c
 seo:
   description: ''
 ---
@@ -27,7 +27,7 @@ Quick-fill is a feature that automatically fills in the necessary profile inform
 
   Example of a modal display:
 
-  ![](/media/line-mini-app/quick-fill/quick-fill-modal-screen.png){className="[\"bg-border\",\"w-fix-280\"]"}
+  ![](/media/line-mini-app/quick-fill/quick-fill-modal-screen.webp){className="[\"bg-border\",\"w-fix-280\"]"}
   :::
 
   :::reference-code
@@ -265,7 +265,7 @@ liff.$commonProfile.get(scopes, options);
 
   Example of a modal display:
 
-  ![](/media/line-mini-app/quick-fill/quick-fill-dummy-modal-screen.png){className="[\"bg-border\",\"w-fix-280\"]"}
+  ![](/media/line-mini-app/quick-fill/quick-fill-dummy-modal-screen.webp){className="[\"bg-border\",\"w-fix-280\"]"}
   :::
 
   :::reference-code

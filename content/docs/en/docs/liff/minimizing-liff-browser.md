@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/minimizing-liff-browser
-__hash__: _RgdmdiTBQV4GNIrDXO6OeONcvmbHgwpM-iZ-Jno5iA
+__hash__: ZFmCcOyPf4c6440WvYx2jmTFOVi1NsQwJ_z0Z8Y3_GA
 seo:
   title: Minimizing LIFF browser
   description: ''
@@ -62,7 +62,7 @@ There are three ways to minimize a LIFF browser:
 
 Tap the **Minimize browser** option after opening the dropdown menu from the [action button](/docs/liff/overview/#action-button).
 
-![](/media/liff/minimizing-liff-app/tap-action-button-en.png){className="[\"border\",\"w-fix-300\"]"}
+![](/media/liff/minimizing-liff-app/tap-action-button-en.webp){className="[\"border\",\"w-fix-300\"]"}
 
 ### Tapping an in-app alert
 
@@ -80,7 +80,7 @@ Swipe a LIFF browser down.
 
 Tap the **Minimize browser** option after opening the [multi-tab view](/docs/liff/overview/#multi-tab-view) from the [action button](/docs/liff/overview/#action-button).
 
-![LIFF browser minimization (tapping the action button option)](/media/liff/minimizing-liff-app/tap-action-button-option-en.png){className="[\"w-fix-960\"]"}
+![LIFF browser minimization (tapping the action button option)](/media/liff/minimizing-liff-app/tap-action-button-option-en.webp){className="[\"w-fix-960\"]"}
 
 ## Maximizing a LIFF browser
 
@@ -117,7 +117,7 @@ Dragging a minimized LIFF browser shows the close icon at the bottom of the scre
 
 In LINE version 15.20.0 or later, you can close the minimized LIFF browser by tapping the close button displayed at the top-right corner of the minimized LIFF browser.
 
-![Close minimized liff browser](/media/liff/minimizing-liff-app/close-minimized-liff-browser-line-15-20-0-or-later-en.png){className="[\"w-fix-300\"]"}
+![Close minimized liff browser](/media/liff/minimizing-liff-app/close-minimized-liff-browser-line-15-20-0-or-later-en.webp){className="[\"w-fix-300\"]"}
 
 ## Priority of LIFF browser icon display
 

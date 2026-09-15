@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/developing-liff-apps
-__hash__: J6SzRXfzvdbV7pI3qdZ0minGaJZOTpjIcvkgmPNCLog
+__hash__: rQ-TT_qK0MR_2Dp0sDvqlarqSoj1kl8C8OHkLOBKSk8
 seo:
   title: Developing a LIFF app
   description: ''
@@ -281,7 +281,7 @@ To use LINE Login in an external browser, call the `liff.init()` method twice as
 2. Call the `liff.login()` method. Once the processing of the authentication page and the authorization screen is complete, you will be redirected to the LIFF app (`redirectUri`). Call the `liff.init()` method again.  
 If an error occurs during the processing of the `liff.init()` method, or if the user cancels authorization at the time of login, `errorCallback` will be executed.
 
-![Flow diagram](/media/liff/initializing-liff-app-flow.png){className="[\"border\"]"}
+![Flow diagram](/media/liff/initializing-liff-app-flow.webp){className="[\"border\"]"}
 
 ::admonition{title="Authorization requests within LIFF browser" type="note"}
 The behavior of LINE Login authorization requests within the LIFF browser isn't guaranteed. Also, when opening LIFF apps from an external browser or LINE's in-app browser, make sure to use the [`liff.login()`](/reference/liff/#login) method for the login process, not the [authorization requests with LINE Login](/docs/line-login/integrate-line-login/#making-an-authorization-request).
@@ -524,7 +524,7 @@ When [adding a LIFF app to your channel](/docs/liff/registering-liff-apps/), sel
 
 Displays a subwindow that prompts the user to add the LINE Official Account as a friend, or to unblock it.
 
-![](/media/liff/request-friendship/request-friendship-add-friend-en.png){className="[\"border\",\"w-fix-200\"]"}
+![](/media/liff/request-friendship/request-friendship-add-friend-en.webp){className="[\"border\",\"w-fix-200\"]"}
 
 - If the user has not added the LINE Official Account as a friend, a subwindow that prompts the user to add it as a friend is displayed.
 - If the user has blocked the LINE Official Account, a subwindow that prompts the user to unblock it is displayed.
@@ -689,7 +689,7 @@ When sharing the URL of the LIFF app in the format of `line://app/{liffId}` (dep
 
 When opening an external site that isn't a LIFF app from a LIFF app opened in the LIFF browser, a popup will appear indicating that "This is an external page".
 
-![A popup when moving to the external site](/media/news/2022/liff-opening-external-site-en.jpg){className="[\"border\",\"w-fix-240\"]"}
+![A popup when moving to the external site](/media/news/2022/liff-opening-external-site-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 The popup will only appear when opening the external site in the same window. If the external site is opened in a different window, the popup doesn't appear.
 

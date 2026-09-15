@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-developers-console/managing-roles
-__hash__: FQ3FIDU1G6RG9Ds2pIIufmbSVnrLR62EL8eSrLQ-lxk
+__hash__: roqhgjOe_G1ZSQdbGsnWltfoOdw_8QmI7r-rW0gsXPc
 seo:
   title: Managing roles
   description: null
@@ -61,7 +61,7 @@ If you grant the Member role to a developer on a provider, you can add the devel
 
 **Import from provider** is only available to a developer account with the Admin role both in the channel and the provider.
 
-![Import from provider](/media/line-developers-console/managing-roles-en.png){className="[\"border\",\"w-fix-480\"]"}
+![Import from provider](/media/line-developers-console/managing-roles-en.webp){className="[\"border\",\"w-fix-480\"]"}
 ::
 
 ### Adding developers, editing roles, and deleting developers on provider

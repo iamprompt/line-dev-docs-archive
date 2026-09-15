@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersサイトが新しくなって、より使いやすくなりました。ここでは、サイトの主な変更点についてご説明します。
 meta: '{"date":"2020-01-27 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-01-27-site-redesign
-__hash__: Vx0fe2zFpiebVPjK7SBCh3o2tJ4aeFSPQpwDIKurUgE
+__hash__: YXoZxcctmUD1k4Qs55NYrl9P1g8-LQFaYTsJIHXqXHs
 seo:
   title: LINE Developersサイトがより使いやすくなりました
   description: LINE Developersサイトが新しくなって、より使いやすくなりました。ここでは、サイトの主な変更点についてご説明します。
@@ -24,7 +24,7 @@ APIリファレンスのレスポンシブデザインが改善されました�
 
 検索キーワードを入力すると候補が即座に表示されて、必要な情報をすばやく確認できるようになりました。
 
-![検索結果](/media/news/search.png){className="[\"border\",\"w-fix-640\"]"}
+![検索結果](/media/news/search.webp){className="[\"border\",\"w-fix-640\"]"}
 
 なお新しい検索は、ページタイトルと見出しに基づく結果を返します。今後数週間にわたって、皆さんがこの新しい検索に満足しているか、フィードバックを確かめていきます。
 

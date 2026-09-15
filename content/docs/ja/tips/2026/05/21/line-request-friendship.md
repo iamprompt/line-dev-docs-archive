@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-21 00:00 UTC","tags":"liff,
   line-mini-app","locale":"ja","sidebar":false}
 path: /ja/tips/2026/05/21/line-request-friendship
-__hash__: w698zxRN8y-vsL-GJ0r--gyoVdyxQLQwf89vm3dpb8Q
+__hash__: 7r_LY6GBgk1bdpc9_WzIKPsl6ohbIUE-9CBgyVGMFgo
 seo:
   title: liff.requestFriendship()メソッドならLINE公式アカウントの友だち追加やブロック解除を自然に促すことができます
   description: こんにちは！テクニカルライターの古木です。
@@ -39,9 +39,9 @@ LIFFアプリやLINEミニアプリに組み込まれるLIFF SDKには、さま�
 
 具体的な動作イメージは以下のとおりです。
 
-| 友だち追加前                                                                                | ブロック中                                                                                     | 友だち追加済み                                                                              |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![](/media/tips/2026/tips-request-friendship-add-ja.gif){className="[\"w-fix-240\"]"} | ![](/media/tips/2026/tips-request-friendship-unblock-ja.gif){className="[\"w-fix-240\"]"} | ![](/media/tips/2026/tips-request-friendship-added.gif){className="[\"w-fix-240\"]"} |
+| 友だち追加前                                                                                           | ブロック中                                                                                      | 友だち追加済み                                                                               |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| ![](/media/tips/2026/tips-request-friendship-add-ja-animation.webp){className="[\"w-fix-240\"]"} | ![](/media/tips/2026/tips-request-friendship-unblock-ja.webp){className="[\"w-fix-240\"]"} | ![](/media/tips/2026/tips-request-friendship-added.webp){className="[\"w-fix-240\"]"} |
 
 なお、`liff.requestFriendship()`メソッドはLIFFブラウザの画面サイズが`Full`の場合のみ利用できます。画面サイズについて詳しくは、『LIFFドキュメント』の「[LIFFブラウザの画面サイズ](/docs/liff/overview/#screen-size)」を参照してください。
 
@@ -91,7 +91,7 @@ LIFFアプリやLINEミニアプリに組み込まれるLIFF SDKには、さま�
 
 友だち追加を起点としたクーポン配信やリマインド通知、会員向け情報の案内といったユースケースにおいて、自然になじむシンプルで直感的なデザインになっています。
 
-![](/media/tips/2026/tips-request-friendship-add-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/tips/2026/tips-request-friendship-add-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 「特典を受け取るためには、LINE公式アカウントを友だち追加してください。」といった案内の後にサブウィンドウを表示することで、必要なフローをユーザーに分かりやすく伝えることができます。
 

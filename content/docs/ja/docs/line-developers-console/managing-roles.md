@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-developers-console/managing-roles
-__hash__: JFrPhkbv6Uzx-vOR_cWD9ffsdxtbocFdieelUJ61J_E
+__hash__: eW2l2T5ByIsnLmel4SQ9pe77VDpORQHP-eD72KDykyo
 seo:
   title: 権限を管理する
   description: null
@@ -57,7 +57,7 @@ seo:
 
 ［**プロバイダーの権限を持つメンバーから登録**］は、対象のチャネルとプロバイダー、両方のAdmin権限を持つ開発者アカウントでのみ利用できます。
 
-![プロバイダーの権限を持つメンバーから登録](/media/line-developers-console/managing-roles-ja.png){className="[\"border\",\"w-fix-480\"]"}
+![プロバイダーの権限を持つメンバーから登録](/media/line-developers-console/managing-roles-ja.webp){className="[\"border\",\"w-fix-480\"]"}
 ::
 
 ### プロバイダーで開発者の追加、開発者権限の編集、または開発者の削除をする

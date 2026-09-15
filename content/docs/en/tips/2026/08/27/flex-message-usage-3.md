@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-08-27 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"en","sidebar":false}
 path: /en/tips/2026/08/27/flex-message-usage-3
-__hash__: 7cs86nPv6oSV-xe9d0KT3B5LxWBoKX9keGgAJS1CLak
+__hash__: FNkSCPohSHJ2nnGGDMSqQOQie9PfW_k3MZcAW2X9WgE
 seo:
   title: Mastering Flex Messages, part 3
   description: >-
@@ -70,9 +70,9 @@ Bad example:
 
 The following examples show `altText` in the LINE app's talk list, a device notification, and a quote message.
 
-| Talk list                                                                                                                              | Device notification                                                                                                                        | Quote message                                                                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![LINE app talk list showing altText](/media/tips/2026/flex-message-alt-text-talk-list-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Device notification showing altText](/media/tips/2026/flex-message-alt-text-notification-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Quote message composer showing altText](/media/tips/2026/flex-message-alt-text-quote-1-en.png){className="[\"border\",\"w-fix-240\"]"}   ![Sent quote message showing altText](/media/tips/2026/flex-message-alt-text-quote-2-en.png){className="[\"border\",\"w-fix-240\"]"} |
+| Talk list                                                                                                                              | Device notification                                                                                                                         | Quote message                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![LINE app talk list showing altText](/media/tips/2026/flex-message-alt-text-talk-list-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Device notification showing altText](/media/tips/2026/flex-message-alt-text-notification-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![Quote message composer showing altText](/media/tips/2026/flex-message-alt-text-quote-1-en.webp){className="[\"border\",\"w-fix-240\"]"}   ![Sent quote message showing altText](/media/tips/2026/flex-message-alt-text-quote-2-en.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 When you write `altText` for a Flex Message that prompts users to take action, include information like the following to make the message clear:
 

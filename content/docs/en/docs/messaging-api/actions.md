@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/actions
-__hash__: qj5zEO5CdDTvj3nqqewqSuuLs1itrfS2n1rKYf8BMfI
+__hash__: xC3lwQsD209G69Wc9MIEiTxvH1lpjatKO65GsmlfU9w
 seo:
   title: Actions
   description: null
@@ -116,7 +116,7 @@ The rich menu switch action makes rich menus switchable. You can set this action
 
 The clipboard action copies text to the clipboard. When a user taps a control associated with this action, the text specified in the `clipboardText` property is copied to the device clipboard.
 
-![](/media/news/2024/clipbord-action-example-en.png){className="[\"w-fix-360\",\"border\"]"}
+![](/media/news/2024/clipbord-action-example-en.webp){className="[\"w-fix-360\",\"border\"]"}
 
 This is a request body set with the clipboard action for the message shown in the example above. For more information, see [Clipboard action](/reference/messaging-api/#clipboard-action) in the Messaging API reference.
 

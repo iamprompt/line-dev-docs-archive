@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login-sdks/android-sdk/try-line-login
-__hash__: A-92prc6KNlF_WAY-c8YESGbY3BY_H2SsL-JUDInI6A
+__hash__: GtKDS3UOvDKzlofKzNHM90KhWNwudG6HhE97cr2EASk
 seo:
   title: Trying the sample app
   description: null
@@ -38,7 +38,7 @@ The sample app has already defined its own sample channel id, and its value is `
 
 Run the sample app using an Android device or Android Emulator. When you first log in, you must agree to let the app access your profile information.
 
-![LINE SDK Sample App Main screen](/media/line-login/try-line-login/line-sdk-sample-app-home-screen.jpg){className="[\"border\",\"w-fix-200\"]"}
+![LINE SDK Sample App Main screen](/media/line-login/try-line-login/line-sdk-sample-app-home-screen.webp){className="[\"border\",\"w-fix-200\"]"}
 
 ### Using the "Log in with LINE" button
 
@@ -71,7 +71,7 @@ For more information, see [Logging out users](/docs/line-login-sdks/android-sdk/
 
 ### Trying out the features available on the LINE SDK
 
-![LINE SDK Sample App Api List screen](/media/line-login/try-line-login/line-sdk-sample-app-api-list-screen.jpg){className="[\"border\",\"w-fix-200\"]"}
+![LINE SDK Sample App Api List screen](/media/line-login/try-line-login/line-sdk-sample-app-api-list-screen.webp){className="[\"border\",\"w-fix-200\"]"}
 
 Once you've logged in to the app, you can tap the **API List Page** button to try out the following features of the LINE SDK.
 

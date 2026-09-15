@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/add-to-home-screen
-__hash__: tasQNmZLBwg7YSH60Vvw4TIoQ7I-_4hosSq1WJE9Pkw
+__hash__: KiMRXAzUm3uvAMb3CKKJuGVweRvciYoreNfqi5r_rMs
 seo:
   title: ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する
   description: null
@@ -30,7 +30,7 @@ seo:
 
 **iOS端末での表示**
 
-![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"h-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-ja.webp){className="[\"h-fix-400\",\"inline-block\"]"}
+![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.webp){className="[\"border\",\"h-fix-400\",\"inline-block\",\"mb-0-important\",\"mr-2\"]"}![](/media/line-mini-app/develop/add-to-home-screen/shortcut-ios-ja.webp){className="[\"h-fix-400\",\"inline-block\"]"}
 
 会員証やモバイルオーダーなど、ユーザーの利用頻度の高いサービスでこの機能を活用することで、ユーザー体験を向上させることができます。
 

@@ -4,7 +4,7 @@ navigation: true
 description: LIFFアプリを開発するには、まずLINE Developersコンソールでプロバイダーとチャネルを作成します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/liff/getting-started
-__hash__: 9jPcaqQiuztp30Wd-M6eUD_3KIoaC5DFq1NdFcVcbMo
+__hash__: F86OodUp9EYyEcH7t5Jdlwt8e_tvJLOgxgF9OxECnBg
 seo:
   title: チャネルを作成する
   description: LIFFアプリを開発するには、まずLINE Developersコンソールでプロバイダーとチャネルを作成します。
@@ -33,7 +33,7 @@ LINE Developersコンソールへログインできたら、プロバイダー�
 ::
 2. ［**新規プロバイダー作成**］画面で任意の［**プロパイダー名**］を入力し、［**作成**］をクリックします。  
 **プロバイダー**は、LINEプラットフォームを通じてサービスを提供する個人、企業、またはそのほかの組織を意味する情報です。プロバイダー名には、あなたの名前や企業名を入力してください。  
-![プロバイダー作成画面](/media/liff/getting-started/create-provider-ja.png){className="[\"border\",\"w-fix-520\"]"}
+![プロバイダー作成画面](/media/liff/getting-started/create-provider-ja.webp){className="[\"border\",\"w-fix-520\"]"}
 
 ### 2. チャネルを作成する
 

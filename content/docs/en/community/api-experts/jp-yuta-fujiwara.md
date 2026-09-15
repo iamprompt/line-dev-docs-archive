@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Yuta
-  Fujiwara","img":"jp-yuta-fujiwara.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Fujiwara","img":"jp-yuta-fujiwara.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"Node.js, JavaScript, PHP, Chatbot, IoT,
   UI/UX","git":"https://github.com/FujiyamaYuta","fb":"","twitter":"https://twitter.com/Fujiyama_Yuta"}
 path: /en/community/api-experts/jp-yuta-fujiwara
-__hash__: dD0d97uZfib5pInMdi-xASch_lW2lu8HPGp41c57U-o
+__hash__: tKKbZIKy-8km4sZV6y6_dEuhfRi2VVgrFj0EvVrHEy0
 seo:
   title: LINE API Expert - Yuta Fujiwara
   description: ''

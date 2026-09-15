@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Wutthipong
-  Chinnasri","img":"th-wutthipong-chinnasri.png","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
+  Chinnasri","img":"th-wutthipong-chinnasri.webp","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE MINI App, LIFF","skills":"Node.js, Python, JavaScript, Firebase,
   Vue.js, SQL, PHP, NLP, IoT,
   AI","git":"https://github.com/cwutthipong","fb":"https://www.facebook.com/c.wutthipong","twitter":""}
 path: /en/community/api-experts/th-wutthipong-chinnasri
-__hash__: iP2RSd045-3KtyQOzIIRneYP50_-v-sbyGl6CLuju7U
+__hash__: gvyu2klniL2glC5QgJWph6S9ACdyTINR6prALrxyIKg
 seo:
   title: LINE API Expert - Wutthipong Chinnasri
   description: ''

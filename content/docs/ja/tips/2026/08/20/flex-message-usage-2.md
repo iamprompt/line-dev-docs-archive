@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-08-20 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"ja","sidebar":false}
 path: /ja/tips/2026/08/20/flex-message-usage-2
-__hash__: PmYztYM3vdJDBQ15JKps7e4W-1qV0dfjtQg6nv-U6AM
+__hash__: 1l2tEVUpQkS5TynWqrUdTk2-zPeuwURiLarEzUdGV7g
 seo:
   title: Flex Messageを使いこなす パート2
   description: >-
@@ -52,9 +52,9 @@ seo:
 
 以下は、同じ`maxLines: 2`のFlex Messageで改行位置が異なる例です。
 
-| iOS（画面幅が広い端末）                                                                                                       | iOS（画面幅が狭い端末）                                                                                                         | Flex Message Simulator                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| ![画面幅が広いiOS端末での表示](/media/tips/2026/flex-message-max-lines-ios-wide-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![画面幅が狭いiOS端末での表示](/media/tips/2026/flex-message-max-lines-ios-narrow-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message Simulatorでの表示](/media/tips/2026/flex-message-max-lines-simulator-ja.png){className="[\"border\",\"w-fix-240\"]"} |
+| iOS（画面幅が広い端末）                                                                                                        | iOS（画面幅が狭い端末）                                                                                                          | Flex Message Simulator                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ![画面幅が広いiOS端末での表示](/media/tips/2026/flex-message-max-lines-ios-wide-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![画面幅が狭いiOS端末での表示](/media/tips/2026/flex-message-max-lines-ios-narrow-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message Simulatorでの表示](/media/tips/2026/flex-message-max-lines-simulator-ja.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 ```json
 {
@@ -221,10 +221,10 @@ seo:
 
 以下は、可変長テキストを含む子ボックスに`flex: 0`を指定した場合と、子ボックスに`flex: 1`、テキストに`wrap: true`を指定した場合を比較した例です。
 
-| `flex: 0`                                                                                                                                    | `flex: 1`と`wrap: true`                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![flex: 0を指定し、ボックスの幅を超えた部分が表示されていない例](/media/tips/2026/flex-message-horizontal-layout-flex-0-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![flex: 1とwrap: trueを指定し、テキストが折り返されている例](/media/tips/2026/flex-message-horizontal-layout-flex-1-wrap-ja.png){className="[\"border\",\"w-fix-240\"]"} |
-| 店舗情報が必要な幅を取るため、店舗名の末尾と後ろにある「2名」が表示されません。                                                                                                     | 残りの幅に店舗名と住所が折り返され、すべての情報が表示されます。                                                                                                                     |
+| `flex: 0`                                                                                                                                     | `flex: 1`と`wrap: true`                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![flex: 0を指定し、ボックスの幅を超えた部分が表示されていない例](/media/tips/2026/flex-message-horizontal-layout-flex-0-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![flex: 1とwrap: trueを指定し、テキストが折り返されている例](/media/tips/2026/flex-message-horizontal-layout-flex-1-wrap-ja.webp){className="[\"border\",\"w-fix-240\"]"} |
+| 店舗情報が必要な幅を取るため、店舗名の末尾と後ろにある「2名」が表示されません。                                                                                                      | 残りの幅に店舗名と住所が折り返され、すべての情報が表示されます。                                                                                                                      |
 
 以下のJSONは、左側の`flex: 0`の例です。右側の例にするには、店舗情報を含むボックスの`flex`プロパティを`1`に変更します。
 
@@ -393,9 +393,9 @@ seo:
 
 また、以下は同じFlex Messageを画面幅の異なるiOS端末とFlex Message Simulatorで表示した例です。
 
-| iOS（画面幅が広い端末）                                                                                                                     | iOS（画面幅が狭い端末）                                                                                                                       | Flex Message Simulator                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![画面幅が広いiOS端末での横並びレイアウト](/media/tips/2026/flex-message-horizontal-layout-ios-wide-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![画面幅が狭いiOS端末での横並びレイアウト](/media/tips/2026/flex-message-horizontal-layout-ios-narrow-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message Simulatorでの横並びレイアウト](/media/tips/2026/flex-message-horizontal-layout-simulator-ja.png){className="[\"border\",\"w-fix-240\"]"} |
+| iOS（画面幅が広い端末）                                                                                                                      | iOS（画面幅が狭い端末）                                                                                                                        | Flex Message Simulator                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![画面幅が広いiOS端末での横並びレイアウト](/media/tips/2026/flex-message-horizontal-layout-ios-wide-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![画面幅が狭いiOS端末での横並びレイアウト](/media/tips/2026/flex-message-horizontal-layout-ios-narrow-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message Simulatorでの横並びレイアウト](/media/tips/2026/flex-message-horizontal-layout-simulator-ja.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 ```json
 {
@@ -575,9 +575,9 @@ seo:
 
 以下は、iOS版LINEのフォントサイズを［**特大**］に設定し、各コンポーネントの`scaling`プロパティを切り替えた場合の表示例です。どちらのボタンにも`adjustMode: shrink-to-fit`を指定しています。
 
-| `scaling: true`                                                                                                         | `scaling: false`                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| ![scaling: trueを指定した表示](/media/tips/2026/flex-message-font-scaling-true-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![scaling: falseを指定した表示](/media/tips/2026/flex-message-font-scaling-false-ja.png){className="[\"border\",\"w-fix-240\"]"} |
+| `scaling: true`                                                                                                          | `scaling: false`                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| ![scaling: trueを指定した表示](/media/tips/2026/flex-message-font-scaling-true-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![scaling: falseを指定した表示](/media/tips/2026/flex-message-font-scaling-false-ja.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 レイアウトの変化を避けるために`scaling: false`を指定するのではなく、`scaling: true`を指定したうえで、フォントサイズが変わっても重要な情報を読めるレイアウトにしてください。
 

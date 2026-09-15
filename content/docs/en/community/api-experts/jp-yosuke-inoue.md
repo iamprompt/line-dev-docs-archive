@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Yosuke
-  Inoue","img":"jp-yosuke-inoue.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Inoue","img":"jp-yosuke-inoue.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Node.js, JavaScript, Chatbot, IoT, WEB site,
   Cloud","git":"https://github.com/inoue2002","fb":"https://www.facebook.com/inoue2002","twitter":"https://twitter.com/inoue2002"}
 path: /en/community/api-experts/jp-yosuke-inoue
-__hash__: bRFdWEUNyLo76ri4DKUrazEVKYAeOAubVEBT5xJ8SOA
+__hash__: D8NZ2T5LLLQ2_eeA6cVv-a5j3IyIlRkHU1cj_QaBI6U
 seo:
   title: LINE API Expert - Yosuke Inoue
   description: ''

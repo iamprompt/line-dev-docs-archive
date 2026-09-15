@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/use-per-user-rich-menus
-__hash__: u3ERnLP5RfpI_CXNbm86QVn-Vk8OPHxa7OKW2qNEGP8
+__hash__: D1QZHc3SkjH2ZX-3cARlbm5MBMv-yuNs_OeGXyl2fKo
 seo:
   title: Use per-user rich menus
   description: null
@@ -126,6 +126,6 @@ Note that if the default rich menu is set, the default rich menu will be display
 
 You can provide users with a rich menu with tab switching using per-user rich menus. To switch between rich menus with ease, like switching between tabs, use :glossary-tooltip[[rich menu aliases](/glossary/#rich-menu-alias)]{glossary-id="rich-menu-alias"} and [rich menu switch action](/reference/messaging-api/#richmenu-switch-action).
 
-![](/media/messaging-api/rich-menu/switching-richmenu-ja.png){className="[\"w-fix-480\"]"}
+![](/media/messaging-api/rich-menu/switching-richmenu-ja.webp){className="[\"w-fix-480\"]"}
 
 For more information, see [Switch between tabs on rich menus](/docs/messaging-api/switch-rich-menus/).

@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-04-23 00:00 UTC","tags":"messaging-api,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/04/23/messaging-api-sdk
-__hash__: AMy0kvJ5LWzMH9OsNkAWXe715rYg10cs2VFBBIL_YtQ
+__hash__: 03h6J7RNhtcoLVNL1Tg-UBtSXbhsT3XoIslf-CASirs
 seo:
   title: The process of reflecting new Messaging API features in SDKs
   description: >-
@@ -68,7 +68,7 @@ When the LINE OpenAPI specification is updated, OpenAPI Generator is run on each
 
 For example, in the [pull request to add a feature for marking messages as read](https://github.com/line/line-openapi/pull/115){rel="[\"nofollow\"]"} in LINE OpenAPI, references from the automatically created pull requests are posted as shown below.
 
-![](/media/tips/2026/messaging-api-sdk.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/tips/2026/messaging-api-sdk.webp){className="[\"border\",\"w-fix-480\"]"}
 
 ### 3. SDKs are released
 

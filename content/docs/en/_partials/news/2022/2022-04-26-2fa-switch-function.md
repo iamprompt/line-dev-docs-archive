@@ -6,7 +6,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-04-26 00:00 UTC","tags":"line-login","locale":"en"}'
 path: /en/_partials/news/2022/2022-04-26-2fa-switch-function
-__hash__: dF4gmpProLm8XH2xvyUrwEywCXtZdxFYRUyDEiOWCYY
+__hash__: _EOWjHabDDM5Z0Sg4cTL5iz0SoBRi8dnPTGFxOA63uo
 seo:
   title: >-
     [Updated] LINE Login v2.1 is recommended as we'll implement LINE's
@@ -73,7 +73,7 @@ For more information about the differences between the versions, see [LINE Login
 
 The Two-factor Authentication Switch function can be activated by tapping **Home** > **Settings** > **Accounts** in LINE and turning the **Two-factor authentication** toggle switch to "ON" (right).
 
-![Two-factor authentication](/media/news/2022/2fa-switch-en.png){className="[\"border\",\"w-fix-200\"]"}
+![Two-factor authentication](/media/news/2022/2fa-switch-en.webp){className="[\"border\",\"w-fix-200\"]"}
 
 The behavior when the user turns the switch on and off is as follows:
 

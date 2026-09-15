@@ -9,7 +9,7 @@ description: >-
   codes and other text.
 meta: '{"date":"2024-02-05 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2024/2024-02-05-messaging-api-updated
-__hash__: cLk95WKYIVqN7EyI1CQkrsPyx85OcprsmcNVHdKfrYk
+__hash__: k_W_7c4TjYeTwsuagwTAxHx26AJFYELDm7BTgyoi1t8
 seo:
   title: >-
     In the Messaging API, the action has been added to allow users to easily
@@ -26,7 +26,7 @@ In the Messaging API, we've added the [clipboard action](/reference/messaging-ap
 
 Specify a clipboard action to controls such as buttons in the message and the rich menu. When a user taps a control, the text specified in the `clipboardText` property of the clipboard action is copied to the device clipboard.
 
-![](/media/news/2024/clipbord-action-example-en.png){className="[\"w-fix-360\",\"border\"]"}
+![](/media/news/2024/clipbord-action-example-en.webp){className="[\"w-fix-360\",\"border\"]"}
 
 **Example of a push message request using the clipboard action:**
 

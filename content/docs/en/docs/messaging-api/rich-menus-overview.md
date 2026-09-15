@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/rich-menus-overview
-__hash__: kbB_g1ksDBoDwMa233rGw-Vll3oIFlSAYSz4DwrZJwQ
+__hash__: dlUivfuKwJ0vCEXJOKt_VSjDIzD4-Kcm_-UKvmlN-qA
 seo:
   title: Rich menus overview
   description: null
@@ -26,7 +26,7 @@ Rich menus aren't displayed on LINE for PC (macOS, Windows).
 
 Rich menus are composed of a menu image, tappable areas, and a chat bar.
 
-![](/media/messaging-api/rich-menu/bot-demo-rich-menu-image.png){className="[\"w-fix-240\"]"}
+![](/media/messaging-api/rich-menu/bot-demo-rich-menu-image.webp){className="[\"w-fix-240\"]"}
 
 1. Rich menu image: A single JPEG or PNG image file that has menu items. For more information about image requirements, see [Requirements for rich menu image](/reference/messaging-api/#upload-rich-menu-image-requirements) in the Messaging API reference.
 2. Tappable areas: Areas you divide as menu items. Assign an [action](/reference/messaging-api/#action-objects) on each menu item, such as getting a postback event and opening a URL.

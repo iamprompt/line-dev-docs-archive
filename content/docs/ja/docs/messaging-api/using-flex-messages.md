@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/using-flex-messages
-__hash__: cEyrLhlK5RjgkOojL3bLSLX0UY6oYxW8l76i9Hly2Do
+__hash__: UZeF0Pfsx0tGmPA3khsagMyHFDHyC99YoRPGqozoVzo
 seo:
   title: Flex Messageを送信する
   description: null
@@ -22,7 +22,7 @@ Flex Messageでは、テキストの書字方向を左から右（左横書き�
 受信端末の環境によって、同じFlex Messageでも描画結果が異なる可能性があります。描画に影響を与える要素には、OS、LINEのバージョン、端末の解像度、言語設定、フォントなどがあります。
 ::
 
-![Flex Messageのサンプル](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.png)
+![Flex Messageのサンプル](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.webp)
 
 他のメッセージタイプと同様に、Flex MessageはJSON形式で記述します。Flex Messageについて詳しくは、以下のページを参照してください。
 
@@ -47,7 +47,7 @@ Flex Messageは、すべてのバージョンのLINEでサポートされます�
 
 [Flex Message Simulator](/flex-simulator/)を使うと、メッセージを実際に送信しなくても、描画された状態を確認できます。
 
-![Flex Message Simulator](/media/messaging-api/using-flex-messages/flex-message-simulator-ja.png){className="[\"border\"]"}
+![Flex Message Simulator](/media/messaging-api/using-flex-messages/flex-message-simulator-ja.webp){className="[\"border\"]"}
 
 Flex Message Simulatorについて詳しくは、「[チュートリアル - Flex Message Simulatorでデジタル名刺を作成する](/docs/messaging-api/using-flex-message-simulator/)」を参照してください。
 

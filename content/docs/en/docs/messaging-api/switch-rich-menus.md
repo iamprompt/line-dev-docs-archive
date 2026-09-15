@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/switch-rich-menus
-__hash__: BNGSWp5Nq2ibhJQS0eFrGyQddtRMCvc3zN4DDVHubrc
+__hash__: BTRTYyFfoHnPUkctch5ScfP3yUOvGAnKMpxfxLjKDxg
 seo:
   title: Switch between tabs on rich menus
   description: null
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsYou can provide users with a rich menu with tab switching using per-user rich menus. To switch between rich menus with ease, like switching between tabs, use :glossary-tooltip[[rich menu aliases](/glossary/#rich-menu-alias)]{glossary-id="rich-menu-alias"} and [rich menu switch action](/reference/messaging-api/#richmenu-switch-action).
 
-![](/media/messaging-api/rich-menu/switching-richmenu-ja.png){className="[\"w-fix-640\"]"}
+![](/media/messaging-api/rich-menu/switching-richmenu-ja.webp){className="[\"w-fix-640\"]"}
 
 Here are the steps to set up two rich menus, rich menu A and rich menu B and enable switching between the two:
 
@@ -32,9 +32,9 @@ Here are the steps to set up two rich menus, rich menu A and rich menu B and ena
 
 Prepare an image for rich menu A (`richmenu-a.png`) and an image for rich menu B (`richmenu-b.png`). For more information on supported image specification, see [Requirements for rich menu image](/reference/messaging-api/#upload-rich-menu-image-requirements) in the Messaging API reference.
 
-| Image for rich menu A                                                                            | Image for rich menu B                                                                            |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| ![Rich menu A image](/media/messaging-api/rich-menu/richmenu-a.png){className="[\"w-fix-240\"]"} | ![Rich menu B image](/media/messaging-api/rich-menu/richmenu-b.png){className="[\"w-fix-240\"]"} |
+| Image for rich menu A                                                                             | Image for rich menu B                                                                             |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![Rich menu A image](/media/messaging-api/rich-menu/richmenu-a.webp){className="[\"w-fix-240\"]"} | ![Rich menu B image](/media/messaging-api/rich-menu/richmenu-b.webp){className="[\"w-fix-240\"]"} |
 
 ## 2. Create rich menu A
 

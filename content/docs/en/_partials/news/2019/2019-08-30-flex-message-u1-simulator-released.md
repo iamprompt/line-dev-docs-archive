@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-08-30 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"en"}
 path: /en/_partials/news/2019/2019-08-30-flex-message-u1-simulator-released
-__hash__: JaQdGkxu6VjJxAYlqLkVnxbFvFyi17Ex4b30gVnmgko
+__hash__: 2sZ6ysqBdg-LWqpez8ikolLEatBGPBlyLN08jkzdSIs
 seo:
   title: Flex Message Simulator Update 1 (β) released
   description: >-
@@ -24,6 +24,6 @@ We released [Flex Message Simulator Update 1 (β)](/flex-simulator/). This versi
 We can't guarantee that the appearance of a Flex Message in Flex Message Simulator Update 1 (β) exactly matches the rendering on a target device. A single Flex Message may be rendered differently from device to device. Factors that affect rendering include OS, LINE version, screen resolution, language setting, and fonts.
 ::
 
-![Flex Message Simulator Update 1 (β)](/media/news/flex-message-simulator-u1.png){className="[\"border\"]"}
+![Flex Message Simulator Update 1 (β)](/media/news/flex-message-simulator-u1.webp){className="[\"border\"]"}
 
-![Flex Message Update 1 examples](/media/news/flex-message-simulator-u1-examples.png){className="[\"border\"]"}
+![Flex Message Update 1 examples](/media/news/flex-message-simulator-u1-examples.webp){className="[\"border\"]"}

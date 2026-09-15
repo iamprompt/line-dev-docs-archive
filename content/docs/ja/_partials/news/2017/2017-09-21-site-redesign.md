@@ -7,7 +7,7 @@ description: >-
   APIなどのサービスを導入し、必要なドキュメントを参照していただけるようになりました。ここでは、サイトの主な変更点についてご説明します。
 meta: '{"date":"2017-09-21 00:00 UTC","tags":"Docs, Console","locale":"ja"}'
 path: /ja/_partials/news/2017/2017-09-21-site-redesign
-__hash__: '-WLnxtkPex308eq4b9nboOI6D-UUqD882nDtIJE3pIc'
+__hash__: xYo-7HODWqke6UZSqWEfpGwZrorkca3WVIwoUDdQXY0
 seo:
   title: LINE Developersサイトのデザインが新しくなりました
   description: >-
@@ -27,7 +27,7 @@ READMORE
 
 ### LINE Developersコンソール
 
-![Console top](/media/news/brown-channel-top.png){className="[\"border\",\"w-fix-560\"]"}
+![Console top](/media/news/brown-channel-top.webp){className="[\"border\",\"w-fix-560\"]"}
 
 使いやすくなった「LINE Developersコンソール」では、簡単にチャネルを作成して管理することができます。[LINE Developersコンソール](/console/)にログインして開発者アカウントを登録し、プロバイダーを作成し、Messaging APIとLINEログインのチャネルを作成できます。
 

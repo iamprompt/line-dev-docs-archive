@@ -6,7 +6,7 @@ description: >-
   APIにおいて、ユーザーがクリップボードにテキストをコピーするための「クリップボードアクション」を追加しました。今回の機能追加により、ユーザーがクーポンコードなどのテキストをより簡単にコピーできるようになりました。
 meta: '{"date":"2024-02-05 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-02-05-messaging-api-updated
-__hash__: bm66yjBaHASVNt4fKPF7TkHg76qqxpwb9ii-VZw5aU0
+__hash__: ppUxoUcloqJAfp2kaoCE_FgzYetG2L4fgZtfy6kU_yw
 seo:
   title: Messaging APIにおいて、ユーザーがクリップボードにテキストを簡単にコピーできるアクションが追加されました
   description: >-
@@ -20,7 +20,7 @@ Messaging APIにおいて、ユーザーがクリップボードにテキスト�
 
 クリップボードアクションを、メッセージ内のボタンやリッチメニューなどのコントロールに指定します。ユーザーがコントロールをタップすると、クリップボードアクションの`clipboardText`プロパティに指定されたテキストが、端末のクリップボードにコピーされます。
 
-![](/media/news/2024/clipbord-action-example-ja.png){className="[\"w-fix-360\",\"border\"]"}
+![](/media/news/2024/clipbord-action-example-ja.webp){className="[\"w-fix-360\",\"border\"]"}
 
 **クリップボードアクションを使ったプッシュメッセージのリクエストの例**
 

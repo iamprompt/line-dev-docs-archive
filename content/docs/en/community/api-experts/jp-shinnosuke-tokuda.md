@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Shinnosuke
-  Tokuda","img":"jp-shinnosuke-tokuda.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Tokuda","img":"jp-shinnosuke-tokuda.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"PHP, Python, TypeScript, Next.js, Node.js, Flutter,
   Firebase. Android App, iOS
   App","git":"https://github.com/tokku5552","fb":"https://www.facebook.com/tokkuatggrks","twitter":"https://twitter.com/tokkuu"}
 path: /en/community/api-experts/jp-shinnosuke-tokuda
-__hash__: s2ldfdXV8YJaPYt680ZEMBDvNEy_mMNyOHuEnL2SKj8
+__hash__: gfPRrj8-nRtGivuYRlstjpdSOue1jrj_tb8qYvPeI1U
 seo:
   title: LINE API Expert - Shinnosuke Tokuda
   description: ''

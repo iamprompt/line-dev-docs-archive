@@ -5,7 +5,7 @@ description: >-
   LINE通知メッセージは、ユーザーのユーザーIDを知らなくても、ユーザーの電話番号を指定してメッセージを送信できるサービスです。ユーザーがLINE公式アカウントを友だち追加していなくても、LINE公式アカウントからメッセージを送信できます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/line-notification-messages/overview
-__hash__: yZrutTwM1AG95_FrlSRInKrimhtgUD-lDR40nGaDWFo
+__hash__: 8AzD7gDczMdDPWyOtSwk106e4WVL3zetHr85lZhGviY
 seo:
   title: LINE通知メッセージの概要
   description: >-
@@ -28,7 +28,7 @@ LINE通知メッセージには、用意されたテンプレートやアイテ�
 
 以下は、LINE通知メッセージ（テンプレート）のサンプルです。
 
-![LINE通知メッセージ（テンプレート）のサンプル](/media/line-notification-message/line-notification-messages-sample-ja.png){className="[\"border\",\"w-fix-480\"]"}
+![LINE通知メッセージ（テンプレート）のサンプル](/media/line-notification-message/line-notification-messages-sample-ja.webp){className="[\"border\",\"w-fix-480\"]"}
 
 詳しくは、[LINE通知メッセージAPIの技術仕様](/docs/partner-docs/line-notification-messages/technical-specs/)や、[LINE通知メッセージAPIリファレンス](/reference/line-notification-messages/)を参照してください。
 
@@ -40,7 +40,7 @@ LINE通知メッセージの利用用途は、弊社がユーザーにとって�
 
 LINE通知メッセージは、通常のメッセージと区別できるように、LINE公式アカウントのアイコンの右側に「重要なお知らせ」と表示されます。対象バージョンは、iOS版LINE、Android版LINE、iPad版LINEのバージョン15.9.0以降です。
 
-![LINE通知メッセージはアイコンの右側に「重要なお知らせ」と表示される](/media/line-notification-message/notification-messages-important-ja.jpg){className="[\"border\",\"w-fix-480\"]"}
+![LINE通知メッセージはアイコンの右側に「重要なお知らせ」と表示される](/media/line-notification-message/notification-messages-important-ja.webp){className="[\"border\",\"w-fix-480\"]"}
 
 なおLINE通知メッセージを受信したLINEアプリの言語設定によって、表示されるテキストは異なります。
 

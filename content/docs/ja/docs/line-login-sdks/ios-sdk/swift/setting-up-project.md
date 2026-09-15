@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for iOS Swiftをプロジェクトに組み込む方法
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/setting-up-project
-__hash__: rK0SeYj2-cSwDX_8GR3kS_CtXnxWPu-hNNTazFZZ8Yw
+__hash__: CaqaAh5jcqkvG5irQrZlt01ulAEj7aYiTaYI-L0IV3E
 seo:
   title: プロジェクトを設定する
   description: LINE SDK for iOS Swiftをプロジェクトに組み込む方法
@@ -77,7 +77,7 @@ $ carthage update line-sdk-ios-swift
 
 `Carthage/Build/iOS`フォルダーから`LineSDK.framework`ファイルをドラッグして、アプリのターゲットの［General］設定タブの［Linked Frameworks and Libraries］セクションにドロップします。
 
-![LINE SDK Framework ファイルが、Finder からアプリターゲットのLinked Frameworks and Libraries セクションに移動されています。](/media/ios-sdk-swift/install-link.png){className="[\"border\",\"w-fix-600\"]"}
+![LINE SDK Framework ファイルが、Finder からアプリターゲットのLinked Frameworks and Libraries セクションに移動されています。](/media/ios-sdk-swift/install-link.webp){className="[\"border\",\"w-fix-600\"]"}
 
 #### ビルドフェーズで`LineSDK.framework`ファイルをコピーする
 
@@ -93,7 +93,7 @@ $(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/LineSDK.framework
 
 実行スクリプトは以下のようになるはずです。
 
-![実行スクリプトセクションが展開されて、Shell、Input Files、Input File Lists、および Output Files が表示されます。](/media/ios-sdk-swift/install-carthage-copy.png){className="[\"border\",\"w-fix-600\"]"}
+![実行スクリプトセクションが展開されて、Shell、Input Files、Input File Lists、および Output Files が表示されます。](/media/ios-sdk-swift/install-carthage-copy.webp){className="[\"border\",\"w-fix-600\"]"}
 
 ## アプリをチャネルにリンクする
 

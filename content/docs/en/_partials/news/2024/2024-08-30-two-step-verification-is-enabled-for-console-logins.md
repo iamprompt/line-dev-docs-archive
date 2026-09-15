@@ -9,7 +9,7 @@ description: >-
 meta: '{"date":"2024-08-30 00:00 UTC","tags":"console","locale":"en"}'
 path: >-
   /en/_partials/news/2024/2024-08-30-two-step-verification-is-enabled-for-console-logins
-__hash__: bJcxr79s8f2Y5RvTZwSJT7ds_80HD0gjCRnYwvnVP4w
+__hash__: Qc5WH4rglNW5LyMFcjqn3t399hq8Op6hoDvy539l8CA
 seo:
   title: >-
     As of September 3, 2024, two-step verification will be enabled for login to
@@ -29,6 +29,6 @@ For more information, see [Enabling Two-step verification for LINE Business ID (
 
 You can check and change your registered email address on the [Settings page](https://account.line.biz/profile?redirectUri=https%3A%2F%2Fdevelopers.line.biz%2Fconsole%2F){rel="[\"nofollow\"]"} of your LINE Business ID. Before enabling two-step verification, make sure that you can receive the login code at your registered email address.
 
-![You can also turn off the enabled two-step verification on the LINE Business ID settings page](/media/news/2024/line-business-id-profile-en.png){className="[\"border\",\"w-fix-480\"]"}
+![You can also turn off the enabled two-step verification on the LINE Business ID settings page](/media/news/2024/line-business-id-profile-en.webp){className="[\"border\",\"w-fix-480\"]"}
 
 We'll continue to work to further improve its service to our customers. Thank you for your understanding.

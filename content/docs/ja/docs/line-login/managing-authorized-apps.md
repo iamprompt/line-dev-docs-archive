@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/managing-authorized-apps
-__hash__: pbaYfgy-MZ0q2Y8HUVqz_vv9rTXLpL5l_gRem3TWD3k
+__hash__: z0Derx9MOSV6QEnixy6z2Ndk1pddFlXuv4e-cHh273M
 seo:
   title: ユーザーによる連動アプリの管理について
   description: null
@@ -18,7 +18,7 @@ seo:
  ［連動アプリ］設定画面が表示されます。
 2. 同意を取り消すアプリをタップします。  
  連動アプリの画面が表示されます。  
- ![Authorized app](/media/line-login/managing-authorized-apps/authorized-app-ja.png){className="[\"border\",\"w-fix-240\"]"}  
+ ![Authorized app](/media/line-login/managing-authorized-apps/authorized-app-ja.webp){className="[\"border\",\"w-fix-240\"]"}  
  同意内容を確認するには、［許可する権限］をタップします。  
  同意を取り消すには、［連動を解除］をタップします。
 

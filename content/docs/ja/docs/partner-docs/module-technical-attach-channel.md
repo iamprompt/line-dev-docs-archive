@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-attach-channel
-__hash__: fyrSMOX0zD2kDZnTshmVWIb9tZfNlVmXJ5K12aFKrL8
+__hash__: tHhfThQQhow9IliuWGy9hsyTLvM0OanQI4P1fcgcdVA
 seo:
   title: モジュールチャネルを連携（アタッチ）する
   description: null
@@ -26,7 +26,7 @@ OAuth 2.0の認可の仕組みのフローに従って、LINE公式アカウン�
 
 1つ目の画面と5つ目の画面は、モジュールチャネルの開発担当企業が準備してください。
 
-![OAuth 2.0の認可の仕組みを使ったモジュールチャネルのアタッチするフロー](/media/partner-docs/module-technical/flow-ja.png){className="[\"border\"]"}
+![OAuth 2.0の認可の仕組みを使ったモジュールチャネルのアタッチするフロー](/media/partner-docs/module-technical/flow-ja.webp){className="[\"border\"]"}
 
 ::admonition{title="LINE公式アカウントに複数のモジュールチャネルをアタッチする際の制限" type="note"}
 「Default Active」の機能が付与されたモジュールチャネルは、1つのLINE公式アカウントに複数アタッチすることはできません。
@@ -191,7 +191,7 @@ https://manager.line.biz/module/auth/v1/authorize?response_type=code&client_id=1
 
 LINE公式アカウントの管理者が、認証と認可のためのURLにアクセスすると、LINE Official Account Managerの連携画面が表示されます。連携画面には、モジュールチャネル作成時に申請した内容が表示されます。設定内容は、[LINE Developersコンソール](/console/)で確認できます。
 
-![連携画面](/media/partner-docs/attach-disp-ja.png){className="[\"bg-border\"]"}
+![連携画面](/media/partner-docs/attach-disp-ja.webp){className="[\"bg-border\"]"}
 
 ### 3. 認可コードまたはエラーコードを受け取る
 

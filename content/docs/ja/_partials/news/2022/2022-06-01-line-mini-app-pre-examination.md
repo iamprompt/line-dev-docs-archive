@@ -4,7 +4,7 @@ navigation: true
 description: 日本において、LINEミニアプリを公開するまでのプロセスについて、次の2つの変更を行いました。
 meta: '{"date":"2022-06-01 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-06-01-line-mini-app-pre-examination
-__hash__: tBmtrLsbbGOVpek_QI1rPYFeNmbFzW4n6BXxccvvv8o
+__hash__: 7bhLMtrjrOfISR8_1c9kArdbVDnN-Q1IsF_bDSxp0Ys
 seo:
   title: 日本において、LINEミニアプリの事前審査がなくなり、より開発を始めやすくなりました
   description: 日本において、LINEミニアプリを公開するまでのプロセスについて、次の2つの変更を行いました。
@@ -41,7 +41,7 @@ LINEミニアプリにおける公開までのプロセスの変更に関して�
 
 事前審査の撤廃に伴い、企画書の提出が不要となりました。このため、リリース審査においては、サービスの内容を把握するために、[LINE Developersコンソール](/console/)の［**チャネル基本設定**］タブにある［**チャネル説明**］を確認します。この［**チャネル説明**］には、正しいサービス内容を記載してください。
 
-![チャネル説明](/media/line-mini-app/line-mini-app-channel-description-ja.png){className="[\"border\",\"w-fix-640\"]"}
+![チャネル説明](/media/line-mini-app/line-mini-app-channel-description-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 チャネル説明について詳しくは、「[チャネル説明の入力について](/docs/line-mini-app/discover/console-guide/#channel-description)」を参照してください。
 

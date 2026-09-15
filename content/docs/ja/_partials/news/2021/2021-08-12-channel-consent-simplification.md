@@ -4,7 +4,7 @@ navigation: true
 description: ユーザーが、LINEミニアプリに初めてアクセスする際に表示される同意画面をスキップできる「チャネル同意の簡略化」機能がリリースされました。
 meta: '{"date":"2021-08-12 00:00 UTC","tags":"LINE MINI app, console","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-08-12-channel-consent-simplification
-__hash__: VXChLm010F94BDSWVTIMSVmJnkf2ik19SV2ChbK4-EQ
+__hash__: qWRX1JE6EZh0C4BT7f12hqkLHk3d86U2L01vG06I0Bk
 seo:
   title: 同意画面をスキップできる「チャネル同意の簡略化」機能をリリースしました
   description: ユーザーが、LINEミニアプリに初めてアクセスする際に表示される同意画面をスキップできる「チャネル同意の簡略化」機能がリリースされました。
@@ -20,7 +20,7 @@ seo:
 
 [LINE Developersコンソール](/console/)のLINEミニアプリチャネルで、LIFFタブの**チャネル同意の簡略化**セクションのトグルボタンをオン（右）にすることで、「チャネル同意の簡略化」が有効化されます。
 
-![チャネル同意の簡略化設定のトグルボタン](/media/line-mini-app/simplification-feature-setup-ja.png){className="[\"border\",\"w-fix-760\"]"}
+![チャネル同意の簡略化設定のトグルボタン](/media/line-mini-app/simplification-feature-setup-ja.webp){className="[\"border\",\"w-fix-760\"]"}
 
 ::admonition{title="「チャネル同意の簡略化」設定時の注意点" type="note"}
 - 「チャネル同意の簡略化」は、LINEミニアプリチャネルの**地域**の設定が「日本」の場合のみ設定できます。

@@ -10,7 +10,7 @@ description: >-
   use the service with a web browser in October 2025.
 meta: '{"date":"2025-04-02 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-04-02-mini-app-browser
-__hash__: hZFH5TbVdFBGoTGuwx4Sh8uDStJUIGmJd9n14l6z-Q4
+__hash__: RsFT39Xass_2b30smysHMsE0kKNGJa1zuqo4VWqWd8c
 seo:
   title: >-
     In October 2025, all LINE MINI App users will be able to use the service in
@@ -37,9 +37,9 @@ The screen that users see when they open the LINE MINI App from their smartphone
 1. Display the LINE MINI App icon and logo at the top of the page
 2. Display a link [**Open in web browser**] at the bottom of the page to go to the endpoint URL (*)
 
-| Before change (current)                                                                        | After change                                                                                 |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![](/media/news/2025/mini-landing-page-current-en.png){className="[\"border\",\"w-fix-280\"]"} | ![](/media/news/2025/mini-landing-page-after-en.png){className="[\"border\",\"w-fix-280\"]"} |
+| Before change (current)                                                                         | After change                                                                                  |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![](/media/news/2025/mini-landing-page-current-en.webp){className="[\"border\",\"w-fix-280\"]"} | ![](/media/news/2025/mini-landing-page-after-en.webp){className="[\"border\",\"w-fix-280\"]"} |
 
 The images shown here are samples. Therefore, they are subject to change.
 

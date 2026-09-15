@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-04-30 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"en","sidebar":false}
 path: /en/tips/2026/04/30/flex-message-usage-1
-__hash__: k2mFnLZxT2tEA4wDi5cLOBPi1V2unMCUaEt5OFjgvBI
+__hash__: rIPt5K2rlo4UNFcRgphj1nKf3TFGlc_T4QT96BbSczw
 seo:
   title: Mastering Flex Messages, part 1
   description: >-
@@ -41,7 +41,7 @@ This article introduces examples of messages you can create using Flex Messages.
 
 Flex Message box components support the [backgroundColor](/reference/messaging-api/#box) property. You can arrange multiple box components with [backgroundColor](/reference/messaging-api/#box) applied horizontally with equal spacing to create a bar graph layout without using images.
 
-![](/media/tips/2026/flex-1-vertical-bar-graph-en.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/tips/2026/flex-1-vertical-bar-graph-en.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ```json
 {
@@ -553,7 +553,7 @@ Flex Message box components support the [backgroundColor](/reference/messaging-a
 
 You can arrange box components horizontally with no spacing and apply the [backgroundColor](/reference/messaging-api/#box) to create a progress bar representation without using images.
 
-![](/media/tips/2026/flex-2-progress-bar-en.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/tips/2026/flex-2-progress-bar-en.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ```json
 {
@@ -1011,7 +1011,7 @@ You can arrange box components horizontally with no spacing and apply the [backg
 
 You can create ticket-like layouts by using [cornerRadius](/reference/messaging-api/#box) on box components and adjusting component positions using negative values in [Offset](/docs/messaging-api/flex-message-layout/#component-offset).
 
-![](/media/tips/2026/flex-3-ticket-style-en.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/tips/2026/flex-3-ticket-style-en.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ```json
 {
@@ -1258,7 +1258,7 @@ You can create ticket-like layouts by using [cornerRadius](/reference/messaging-
 
 You can create a heatmap-style layout by placing multiple box components side by side and applying different [backgroundColor](/reference/messaging-api/#box) values to each component. This allows visualization of density or intensity data within a message.
 
-![](/media/tips/2026/flex-4-congestion-forecast-en.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/tips/2026/flex-4-congestion-forecast-en.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ```json
 {

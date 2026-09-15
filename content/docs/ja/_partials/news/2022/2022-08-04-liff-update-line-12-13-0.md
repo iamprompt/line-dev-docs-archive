@@ -4,7 +4,7 @@ navigation: true
 description: LINEのバージョン12.13.0以降のLIFFブラウザにおいて、以下の仕様変更を行います。
 meta: '{"date":"2022-08-04 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-08-04-liff-update-line-12-13-0
-__hash__: Ye987v_9WPMVVFHGIbf_2nX3PuJP62h2qYZHugpX-w8
+__hash__: 3cznSnWQyGJoj4OsLAaz6upYEjUlb6zvT6y6ZIBZZjY
 seo:
   title: LINEのバージョン12.13.0以降のLIFFブラウザにおいて、外部サイトへの遷移時およびLIFF間遷移時の仕様を変更します
   description: LINEのバージョン12.13.0以降のLIFFブラウザにおいて、以下の仕様変更を行います。
@@ -19,7 +19,7 @@ LINEのバージョン12.13.0以降の:glossary-tooltip[[LIFFブラウザ](/glos
 
 LIFFブラウザで開いているLIFFアプリから、LIFFアプリでない外部サイトを開いた場合、「外部サイトに遷移した」ということを示すポップアップが表示されます。
 
-![外部サイトに遷移した時のポップアップ](/media/news/2022/liff-opening-external-site-ja.jpg){className="[\"border\",\"w-fix-240\"]"}
+![外部サイトに遷移した時のポップアップ](/media/news/2022/liff-opening-external-site-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ポップアップは、同じウィンドウで外部サイトを開いた場合にのみ表示されます。別のウィンドウで外部サイトを開いた場合は、ポップアップは表示されません。
 

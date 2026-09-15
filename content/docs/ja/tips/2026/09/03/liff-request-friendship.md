@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-09-03 00:00 UTC","tags":"liff,
   line-mini-app","locale":"ja","sidebar":false}
 path: /ja/tips/2026/09/03/liff-request-friendship
-__hash__: ssPKg6asXcvce0qt_zegYQuGR1inUP4G-vy3YnJkA48
+__hash__: jqDKyedwgBmr3RLt8qhkaE29IXyqcLo9Db_9XoygxhA
 seo:
   title: 友だち追加のメリットをliff.requestFriendship()のtemplateプロパティで伝えよう
   description: こんにちは！LINE Developersサイトのドキュメントを担当している、テクニカルライターの岡島です。
@@ -23,7 +23,7 @@ seo:
 
 [`liff.requestFriendship()`](/reference/liff/#request-friendship)メソッドを使うと、LIFFアプリやLINEミニアプリ上で、LINE公式アカウントの友だち追加を促すことができます。
 
-![](/media/liff/request-friendship/request-friendship-add-friend-ja.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/liff/request-friendship/request-friendship-add-friend-ja.webp){className="[\"border\",\"w-fix-320\"]"}
 
 この`liff.requestFriendship()`メソッドがLIFF v2.30.0でパワーアップし、`template`プロパティを指定できるようになりました。このプロパティを使うと、あらかじめ用意された[テンプレート](/reference/liff/#request-friendship-template)から用途に合ったものを選び、友だち追加を促すメッセージとして表示できます。
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-01-06 00:00 UTC","tags":"line-login, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2025/2025-01-06-line-login-dark-mode
-__hash__: ySH6upfnPYX-x2peq9ObeXZ_y6-_E5dLEKp8BdQQ0N4
+__hash__: rLeBQj8UCMtPVjYBH1u1gp-4zaCo54C5uyqAWEbPg0w
 seo:
   title: LINEログインの一部画面がダークモードに対応しました
   description: LINEログインにおいて、ユーザーが認証や認可を行う際に表示される一部画面がダークモードに対応しました。
@@ -14,6 +14,6 @@ seo:
 
 LINEログインにおいて、[ユーザーが認証や認可を行う](/docs/line-login/integrate-line-login/#authentication-process)際に表示される一部画面がダークモードに対応しました。
 
-![](/media/news/2025/dark-mode-ja.png)
+![](/media/news/2025/dark-mode-ja.webp)
 
 LINEログインでは、今後も機能の追加や改善を継続して行ってまいります。詳しくは、「[ロードマップ](/docs/line-login/roadmap/)」を参照してください。

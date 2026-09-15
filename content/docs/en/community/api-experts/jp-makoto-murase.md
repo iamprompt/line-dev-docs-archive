@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Makoto
-  Murase","img":"jp-makoto-murase.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Murase","img":"jp-makoto-murase.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Java, C, Node.js, JavaScript, Swift, Chatbot, iOS App, Cloud,
   Hackathon/Ideathon,
   Kinoko","git":"https://github.com/happy2mylife","fb":"https://www.facebook.com/happy.happy.children","twitter":"https://twitter.com/h2m_kinoko"}
 path: /en/community/api-experts/jp-makoto-murase
-__hash__: Ny5kaeTvChKoqk1xfjms-kV1mA1hqzHIWsEg7dTbJqk
+__hash__: fhCqzeOZOJoMn306perDFCjbPzXFyyuiSerudn4Yn3E
 seo:
   title: LINE API Expert - Makoto Murase
   description: ''

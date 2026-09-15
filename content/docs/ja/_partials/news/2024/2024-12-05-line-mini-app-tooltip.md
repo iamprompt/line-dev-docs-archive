@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリの認証済ミニアプリにおいて、ホーム画面にLINEミニアプリへのショートカットを追加するためのツールチップが表示されるようになりました。
 meta: '{"date":"2024-12-05 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2024/2024-12-05-line-mini-app-tooltip
-__hash__: vfdnp392pwrzGtNnBN0hIfe9Nd1t0OLBn9Y_ekmelqw
+__hash__: '--0Cl26-ufdmqYWFUubr28Sx_h6eUk3yUPRUVk2GPCU'
 seo:
   title: LINEミニアプリにおいて、ホーム画面にショートカットを追加するためのツールチップが表示されるようになりました
   description: LINEミニアプリの認証済ミニアプリにおいて、ホーム画面にLINEミニアプリへのショートカットを追加するためのツールチップが表示されるようになりました。
@@ -14,7 +14,7 @@ LINEミニアプリの認証済ミニアプリにおいて、ホーム画面にL
 
 これにより、ユーザーは[アクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)をタップすることなく、直接ショートカットを追加できます。また、ツールチップの表示によって、ユーザーにショートカットの追加を促すことができます。
 
-![ツールチップには「このミニアプリをホーム画面に追加できます。」と言う案内文と、ホーム画面に追加するボタン、ツールチップを閉じるボタンが表示されます。](/media/news/2024/line-mini-app-header-tooltiop-ja.png){className="[\"border\",\"w-fix-280\"]"}
+![ツールチップには「このミニアプリをホーム画面に追加できます。」と言う案内文と、ホーム画面に追加するボタン、ツールチップを閉じるボタンが表示されます。](/media/news/2024/line-mini-app-header-tooltiop-ja.webp){className="[\"border\",\"w-fix-280\"]"}
 
 LINEミニアプリへのショートカットについて詳しくは、『LINEミニアプリドキュメント』の「[ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する](/docs/line-mini-app/develop/add-to-home-screen/)」を参照してください。
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/check-webhook-error-statistics
-__hash__: Hu_00V9dFZQtiu_eKC_GzLCH0qxxK5B_q7U9LqSo9jI
+__hash__: jqYzR2LorYRjBomvD-ljJq3VB1Qqzji7I-W10X3nFM4
 seo:
   title: Check webhook error causes and statistics
   description: null
@@ -27,7 +27,7 @@ The display of error statistics is disabled by default. To display error statist
 
 After turning on **Error statistics aggregation**, click the **Webhook errors** tab to view the statistics. The errors are aggregated only while **Error statistics aggregation** is turned on. Data from periods when it was turned off won't be displayed retroactively. The time zone used for the date and time of the displayed errors is UTC+9. You can also download past error information in TSV format by clicking **Download TSV file**.
 
-![Error statistics aggregation](/media/messaging-api/receiving-messages/error-statistics-en.png){className="[\"border\"]"}
+![Error statistics aggregation](/media/messaging-api/receiving-messages/error-statistics-en.webp){className="[\"border\"]"}
 
 Error statistics include the following items:
 

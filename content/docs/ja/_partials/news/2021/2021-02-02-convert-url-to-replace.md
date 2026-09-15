@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2021-02-02 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-02-02-convert-url-to-replace
-__hash__: OPAhXew51wjr0Fo2jKZ08KXCVAMF_uGi8dAWa58KDCg
+__hash__: dfCQh3cyjsHQkTbFVfAVZ7IJdqFiX4-n16rvP0Lkafc
 seo:
   title: 【更新】LIFFにおいて［連結］で生成されたURLを［置換（後方互換性モード）］仕様に変換するコード例を公開しました
   description: ''
@@ -22,7 +22,7 @@ seo:
 
 このドキュメントでは、［**連結**］によって生成された2次リダイレクト先URLをユーザーがクリックした際、［**置換（後方互換性モード）**］の仕様に従ったURLにリダイレクトさせる処理を行う関数と、そのロジックを紹介しています。
 
-![変換コードを使用すると](/media/liff/liff_url_automatic_convert_function_ja.png){className="[\"border\"]"}
+![変換コードを使用すると](/media/liff/liff_url_automatic_convert_function_ja.webp){className="[\"border\"]"}
 
 ::admonition{title="このドキュメントは期間限定で掲載しています" type="note"}
 『LIFFドキュメント』の「[［連結］で生成されたURLを［置換（後方互換性モード）］仕様のURLに変換するコード例](/docs/liff/handle-replace-mode-url/)」は、［**置換（後方互換性モード）**］廃止に伴う［**連結**］への移行のサポートを目的としています。［**置換（後方互換性モード）**］廃止後一定期間が経過したら、該当のページは削除される可能性があります。削除後もコードの処理内容を確認したい場合は、事前に[［連結］で生成された2次リダイレクト先URLを変換する関数をダウンロードする](/docs/liff/handle-replace-mode-url/#download-conversion-function)のダウンロードリンクから関数をダウンロードし、必要に応じて参照してください。

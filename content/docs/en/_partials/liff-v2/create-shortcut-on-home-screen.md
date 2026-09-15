@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/create-shortcut-on-home-screen
-__hash__: 0a08mWqB8z1kFQYLshX2HKxYC21pauQRoLu-hzOhm9w
+__hash__: lenctinnTCqGrsLGGAAFyZ31zNNoaogAqHn2-dm58gI
 seo:
   description: ''
 ---
@@ -23,7 +23,7 @@ seo:
 
   Displays a screen for adding a shortcut to your [LINE MINI App](/docs/line-mini-app/) to the home screen of the user's device.
 
-  ![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.png){className="[\"border\",\"w-fix-240\"]"}
+  ![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
   For more information, see [Add a shortcut to your LINE MINI App to the home screen of the user's device](/docs/line-mini-app/develop/add-to-home-screen/) in the LINE MINI App documentation.
 

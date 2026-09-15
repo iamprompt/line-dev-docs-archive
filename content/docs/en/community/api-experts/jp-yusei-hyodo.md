@@ -4,13 +4,13 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Yusei
-  Hyodo","img":"jp-yusei-hyodo.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Hyodo","img":"jp-yusei-hyodo.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"Python, Node.js, JavaScript, SQL, Ruby, Chatbot,
   Smart Speaker, Machine Learning, IoT, AI, WEB site, research, SaaS, Database,
   EC, Cloud,
   UI/UX","git":"https://github.com/hyodoblog","fb":"https://www.facebook.com/hyodoblog","twitter":"https://twitter.com/hyodoblog"}
 path: /en/community/api-experts/jp-yusei-hyodo
-__hash__: XpUMRFNY-hThsgdrjUhb9elVoR6UwgqSdTPCqmw9E1I
+__hash__: aaEOwBxVN5k-aEXavyt-7_xUCYzGlxFqWJ83_fSVe_0
 seo:
   title: LINE API Expert - Yusei Hyodo
   description: ''

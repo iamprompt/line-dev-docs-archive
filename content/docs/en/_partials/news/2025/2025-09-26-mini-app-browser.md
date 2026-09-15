@@ -11,7 +11,7 @@ description: >-
   October 1, 2025.
 meta: '{"date":"2025-09-26 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2025/2025-09-26-mini-app-browser
-__hash__: 3FAeZmmO9gNNhfvCc41bhRb6j2HH8JGThjwI4ae_Oe8
+__hash__: Nn1XzCRiNrVlSQ2TjjaLmABrfotkI74KEdil5A3_yp8
 seo:
   title: >-
     On October 1, 2025, all LINE MINI App users will be able to use the service
@@ -39,9 +39,9 @@ The screen that users see when they open a LINE MINI App from their smartphone's
 1. Display the LINE MINI App icon and logo at the top of the page
 2. Display a link [**Open in web browser**] at the bottom of the page to go to the endpoint URL (*)
 
-| Before change (current)                                                                        | After change                                                                                 |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![](/media/news/2025/mini-landing-page-current-en.png){className="[\"border\",\"w-fix-280\"]"} | ![](/media/news/2025/mini-landing-page-after-en.png){className="[\"border\",\"w-fix-280\"]"} |
+| Before change (current)                                                                         | After change                                                                                  |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![](/media/news/2025/mini-landing-page-current-en.webp){className="[\"border\",\"w-fix-280\"]"} | ![](/media/news/2025/mini-landing-page-after-en.webp){className="[\"border\",\"w-fix-280\"]"} |
 
 The images shown here are samples and may be subject to change. Note that there will be no change to [behavior when opening the LINE MINI App on a computer](/docs/line-mini-app/discover/introduction/#what-you-can-do-with-the-liff-app-or-mini-app).
 

@@ -5,7 +5,7 @@ description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: >-
   /ja/docs/line-developers-console/best-practices-for-provider-and-channel-management
-__hash__: X1pEGHuhsTDPDIf4BlDUwfe-zJj0DNhe877qHwzQny0
+__hash__: kcdr4eMTb6loVjHRQVX0jKR__76Z7FhyQXV3tI5PwfQ
 seo:
   title: プロバイダーとチャネル管理のベストプラクティス
   description: null
@@ -58,7 +58,7 @@ seo:
 
 ただし、選択した開発者がプロバイダーの配下のチャネルから削除された結果、そのチャネルのAdmin権限を持つ開発者が0人になる可能性があります。そのため、［**選択した開発者をこのプロバイダーに紐づいているチャネルからも削除する。**］をチェックする際は、チャネルのAdmin権限を持つ開発者が他にいることを確認してください。
 
-![](/media/line-developers-console/best-practices-for-provider-and-channel-management/delete-developer-from-provider-ja.png)
+![](/media/line-developers-console/best-practices-for-provider-and-channel-management/delete-developer-from-provider-ja.webp)
 ::
 
 ## プロバイダーをサービス提供者ごとに作成する

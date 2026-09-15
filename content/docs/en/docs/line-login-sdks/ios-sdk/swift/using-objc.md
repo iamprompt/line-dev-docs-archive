@@ -8,7 +8,7 @@ description: >-
   Objective-C project.
 meta: '{}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/using-objc
-__hash__: Hhhl4-hDgf8p0j4KOpyPGszrZWSO_rewQ5PzZ6UyGvM
+__hash__: Y9UpF_iX8X8_ZvBrLtekKa-pP8ZsGf-ewEFUC0RXQC4
 seo:
   title: Using the SDK with Objective-C code
   description: >-
@@ -125,7 +125,7 @@ $(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/LineSDKObjC.framework
 
 The "Build Phases" tab should look like this:
 
-![iOS SDK Swift ObjC Link Build Phases tab, showing the Link Binary with Libraries, Copy Bundle Resources, and Run Script sub tabs.](/media/ios-sdk-swift/install-carthage-objc.png){className="[\"border\",\"w-fix-600\"]"}
+![iOS SDK Swift ObjC Link Build Phases tab, showing the Link Binary with Libraries, Copy Bundle Resources, and Run Script sub tabs.](/media/ios-sdk-swift/install-carthage-objc.webp){className="[\"border\",\"w-fix-600\"]"}
 
 ##### Enabling the "Always Embed Swift Standard Libraries" option
 

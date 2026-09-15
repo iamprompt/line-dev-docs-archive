@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/switch-rich-menus
-__hash__: n8UB1Bq4QRaAon9NFbd5L8NoFtm8APiA96NxpHRhcN0
+__hash__: ArVj6GkDQbQnbwntzVleWIG0M-DK7XIyh2z_C7MttyY
 seo:
   title: リッチメニューでタブ切り替えを行う
   description: null
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsユーザー単位のリッチメニューを活用して、タブ切り替えが可能なリッチメニューをユーザーに提供できます。:glossary-tooltip[[リッチメニューエイリアス](/glossary/#rich-menu-alias)]{glossary-id="rich-menu-alias"}と[リッチメニュー切替アクション](/reference/messaging-api/#richmenu-switch-action)を使うことで、タブ切り替えのように、複数のリッチメニューを簡単に切り替えられます。
 
-![](/media/messaging-api/rich-menu/switching-richmenu-ja.png){className="[\"w-fix-640\"]"}
+![](/media/messaging-api/rich-menu/switching-richmenu-ja.webp){className="[\"w-fix-640\"]"}
 
 たとえばリッチメニューAとリッチメニューBを切り替えたい場合、以下の手順に従って設定します。
 
@@ -32,9 +32,9 @@ seo:
 
 事前にリッチメニューAの画像（`richmenu-a.png`）と、リッチメニューBの画像（`richmenu-b.png`）を準備しておきます。使用できる画像について詳しくは、『Messaging APIリファレンス』の「[リッチメニューの画像の要件](/reference/messaging-api/#upload-rich-menu-image-requirements)」を参照してください。
 
-| リッチメニューAの画像                                                                                | リッチメニューBの画像                                                                                |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| ![リッチメニューAの画像](/media/messaging-api/rich-menu/richmenu-a.png){className="[\"w-fix-240\"]"} | ![リッチメニューBの画像](/media/messaging-api/rich-menu/richmenu-b.png){className="[\"w-fix-240\"]"} |
+| リッチメニューAの画像                                                                                 | リッチメニューBの画像                                                                                 |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![リッチメニューAの画像](/media/messaging-api/rich-menu/richmenu-a.webp){className="[\"w-fix-240\"]"} | ![リッチメニューBの画像](/media/messaging-api/rich-menu/richmenu-b.webp){className="[\"w-fix-240\"]"} |
 
 ## 2. リッチメニューAを作成する
 

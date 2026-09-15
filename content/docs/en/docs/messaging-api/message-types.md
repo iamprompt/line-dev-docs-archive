@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/message-types
-__hash__: Wssoxx3RaKkw0e8UqGpB5oMH0nNQhQ7Wwnvku_L3p84
+__hash__: SgehR2Ll7o8cTDRjQIuQg53DQSpjN_3HSbd647oiPxE
 seo:
   title: Message types
   description: null
@@ -60,7 +60,7 @@ Image messages deliver a single image file to users. When you send an image, spe
 
 When the user taps the preview image, the full image is displayed as shown below. Make sure the URLs have the HTTPS (TLS 1.2 or later) protocol. For more information, see the [Image message](/reference/messaging-api/#image-message) in the Messaging API reference.
 
-![Image message](/media/messaging-api/messages/image.png){className="[\"border\",\"w-fix-240\"]"} ![Full image message](/media/messaging-api/messages/image-full.png){className="[\"border\",\"w-fix-240\"]"}
+![Image message](/media/messaging-api/messages/image.png){className="[\"border\",\"w-fix-240\"]"} ![Full image message](/media/messaging-api/messages/image-full.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Video message
 
@@ -82,7 +82,7 @@ Make sure the URL has the HTTPS (TLS 1.2 or later) protocol. For more informatio
 
 Location messages deliver location information to users. Specify in the [message object](/reference/messaging-api/#message-objects) the title, address, latitude coordinate, and longitude coordinate. For more information, see [Location message](/reference/messaging-api/#location-message) in the Messaging API reference.
 
-![Location message](/media/messaging-api/messages/location-en.png){className="[\"border\",\"w-fix-240\"]"}
+![Location message](/media/messaging-api/messages/location-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Coupon message
 
@@ -96,7 +96,7 @@ For more information, see [Coupon message](/reference/messaging-api/#coupon-mess
 
 Imagemap messages are messages with an image that has multiple tappable areas. You can set a tappable area to open a webpage or send a message on the user's behalf. You can also set to play a video over the image and display a link text when the playback is finished. For more information, see [Imagemap message](/reference/messaging-api/#imagemap-message) in the Messaging API reference.
 
-![Imagemap message](/media/messaging-api/messages/imagemap.png){className="[\"border\",\"w-fix-240\"]"}
+![Imagemap message](/media/messaging-api/messages/imagemap.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Template message
 
@@ -141,7 +141,7 @@ Image carousel templates contain multiple images that users can cycle through. F
 
 Flex Messages are messages with a customizable layout. You can customize the layout within the boundary of the [CSS Flexible Box (CSS Flexbox)](https://www.w3.org/TR/css-flexbox-1/){rel="[\"nofollow\"]"} specification. For more information, see [Send Flex Messages](/docs/messaging-api/using-flex-messages/) and [Flex Message](/reference/messaging-api/#flex-message) in the Messaging API reference.
 
-![Flex Message examples](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.png)
+![Flex Message examples](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.webp)
 
 ## Common features
 

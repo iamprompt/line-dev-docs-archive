@@ -7,7 +7,7 @@ description: >-
   URLスキームを開くアクションを設定しておくことで、メニューをタップしたユーザーに対してLINE内のコンテンツを表示できます。
 meta: '{}'
 path: /ja/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: vtZqlLpt6SmX0lhZafcAVNf0Kej5qKzQ3rDlQJ7rrJY
+__hash__: n16IlcR5JblixnWZvxahKecPeIfl8rBGYay0OGqhL-c
 seo:
   description: >-
     LINE URLスキームを使うと、スタンプショップやLIFFアプリを開いたり、カメラを起動したりできます。LINE
@@ -86,7 +86,7 @@ LINEで利用できるURLスキームは以下のとおりです。なお、指�
 
 ![](/media/messaging-api/using-line-url-scheme/camera-screen.webp){className="[\"border\",\"w-fix-240\"]"}
 
-![](/media/messaging-api/using-line-url-scheme/camera-roll.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/camera-roll.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URLスキーム                             | 説明                                                                                  |
 | ---------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -102,7 +102,7 @@ LINEで利用できるURLスキームは以下のとおりです。なお、指�
 このURLスキームはLINE公式アカウントとの1対1のトークでのみサポートされます。他の種類のトークや、LINE以外のアプリ、LIFFアプリではサポートされません。
 ::
 
-![](/media/messaging-api/using-line-url-scheme/location.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/location.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URLスキーム                     | 説明                                             |
 | -------------------------------- | ---------------------------------------------- |
@@ -112,7 +112,7 @@ LINEで利用できるURLスキームは以下のとおりです。なお、指�
 
 このLINE URLスキームを使うと、指定したLINE公式アカウントをユーザーやユーザーの友だちにおすすめして、LINE公式アカウントを友だち追加するように促すことができます。
 
-![](/media/messaging-api/using-line-url-scheme/bot-add-friend-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/bot-add-friend-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URLスキーム                                                   | 説明                                                                       |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -199,7 +199,7 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 
 このLINE URLスキームを使うと、ユーザーの「プロフィール」画面を開きます。この画面では、表示名、ステータスメッセージ、およびLINE IDを設定できます。また、さまざまなLINEプロフィール情報を確認できます。
 
-![](/media/messaging-api/using-line-url-scheme/my-profile.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/my-profile.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URLスキーム                        | 説明                                               |
 | ----------------------------------- | ------------------------------------------------ |
@@ -247,7 +247,7 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 
 このLINE URLスキームを使うと、公式スタンプやクリエイターズスタンプの購入を促すために、LINE内でスタンプショップを開くことができます。
 
-![](/media/messaging-api/using-line-url-scheme/sticker-shop-categories.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/sticker-shop-categories.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URLスキーム                                           | 説明                                                                                                                                                            |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -268,7 +268,7 @@ LINE公式アカウントのLINE IDは[LINE Official Account Manager](https://ma
 
 このLINE URLスキームを使うと、公式着せかえやクリエイターズ着せかえの購入を促すために、LINE内で着せかえショップを開くことができます。
 
-![](/media/messaging-api/using-line-url-scheme/theme-shop.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/theme-shop.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URLスキーム                                            | 説明                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

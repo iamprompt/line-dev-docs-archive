@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/permission-api
-__hash__: k6P6X2jVkCxel9xzcw2Hhj3Fn6cDO4Bh9-XruENqbwY
+__hash__: nWQfjanWP0st_wlwWqg8s1adF69S6Q4yTvodqVIaTvU
 seo:
   description: ''
 ---
@@ -142,7 +142,7 @@ When `Promise` is resolved, an object containing the following properties is ret
 
 Displays the "Verification screen" for the permissions requested by LINE MINI Apps.
 
-![verification screen](/media/line-mini-app/verification-screen-en.png){className="[\"border\",\"w-fix-200\"]"}
+![verification screen](/media/line-mini-app/verification-screen-en.webp){className="[\"border\",\"w-fix-200\"]"}
 
 ::reference-with-code
   :::reference-content

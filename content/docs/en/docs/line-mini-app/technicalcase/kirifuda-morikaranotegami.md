@@ -7,7 +7,7 @@ description: ''
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/technicalcase/kirifuda-morikaranotegami
-__hash__: 2XOzxchBUyqND8CJD_302iIncgJVbHE_ikBA4kXj5ps
+__hash__: oBKpCE-E1j_7huoKBb4hl812cTjed_QsLztqaW4ZgkA
 seo:
   title: >-
     Nature conservation through play: A technical case study of Letters from the
@@ -53,7 +53,7 @@ Soon after launch, the visitor feedback was positive, with many saying, "Receivi
 
 ## System overview
 
-![System configuration diagram](/media/line-mini-app/technicalcase/kirifuda-morikaranotegami/en/kirifuda-morikaranotegami-system.png)
+![System configuration diagram](/media/line-mini-app/technicalcase/kirifuda-morikaranotegami/en/kirifuda-morikaranotegami-system.webp)
 
 ### Technical configuration of "Letters from the Forest": Seamless integration of LIFF and blockchain
 

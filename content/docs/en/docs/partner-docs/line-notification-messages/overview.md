@@ -8,7 +8,7 @@ description: >-
   added the LINE Official Account as a friend.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/overview
-__hash__: lGc5mUQ2frM8Y_Y-AsSOhC_c8ts8f0_eqckeBt397aY
+__hash__: FtxclSbKHqgsfuN8z5_6809S44RhTNEeUfjjEkqi4HA
 seo:
   title: LINE notification messages overview
   description: >-
@@ -38,7 +38,7 @@ There are two types of LINE notification messages: [LINE notification messages (
 
 The following is a sample of a LINE notification message (template):
 
-![Sample of LINE notification messages (template)](/media/line-notification-message/line-notification-messages-sample-ja.png){className="[\"border\",\"w-fix-480\"]"}
+![Sample of LINE notification messages (template)](/media/line-notification-message/line-notification-messages-sample-ja.webp){className="[\"border\",\"w-fix-480\"]"}
 
 For more information, see [Technical specifications of the LINE notification messages API](/docs/partner-docs/line-notification-messages/technical-specs/) and the [LINE notification messages API reference](/reference/line-notification-messages/).
 
@@ -54,7 +54,7 @@ The purpose of use for LINE notification messages is limited to those that we de
 
 LINE notification messages are displayed with “Important notification” to the right of the LINE Official Account icon to distinguish them from other messages. This function is available in LINE version 15.9.0 or later for iOS, Android, and iPad.
 
-![LINE notification messages are displayed with “Important notification” to the right of the icon](/media/line-notification-message/notification-messages-important-en.jpg){className="[\"border\",\"w-fix-480\"]"}
+![LINE notification messages are displayed with “Important notification” to the right of the icon](/media/line-notification-message/notification-messages-important-en.webp){className="[\"border\",\"w-fix-480\"]"}
 
 The text displayed may vary depending on the language settings of the LINE app that received the LINE notification message.
 

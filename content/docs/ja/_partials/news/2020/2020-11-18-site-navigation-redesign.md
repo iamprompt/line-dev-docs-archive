@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-11-18 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-18-site-navigation-redesign
-__hash__: 6SJD8mTS42WSx46chloZxkAetl5VYPQXeIhmuB9JeOU
+__hash__: sSD-SVgPFwK5zarga3jhYxH0tVf_JEUH8QS1g5xpWKM
 seo:
   title: 【更新】LINE Developersサイトのナビゲーションが新しくなりました
   description: ''
@@ -13,7 +13,7 @@ seo:
 ::admonition{title="2020年12月11日追記" type="note"}
 2020年12月11日、LINE Developersサイトの「**ガイド**」の名称を「**ドキュメント**」へ変更しました。
 
-![ガイドをドキュメントに変更しました](/media/news/guide-to-documentation-after-ja.png){className="[\"border\",\"w-fix-640\"]"}
+![ガイドをドキュメントに変更しました](/media/news/guide-to-documentation-after-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 詳しくは2020年12月11日のニュース、「[LINE Developersサイトの「ガイド」の名称を「ドキュメント」へ変更しました](/news/2020/12/11/rename-guides-to-documentation/)」を参照してください。
 ::

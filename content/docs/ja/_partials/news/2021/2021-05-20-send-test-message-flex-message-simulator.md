@@ -9,7 +9,7 @@ meta: >-
   {"date":"2021-05-20 00:00 UTC","tags":"Flex Message Simulator, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-05-20-send-test-message-flex-message-simulator
-__hash__: ZG6T8tgmuFk6yuE4rx7vB5mG6acSZ197xdeSh4-XNcQ
+__hash__: IsA8Ly9e8OV1Lmwzt_ttreJoUE73dAabUdrK-nL6nFI
 seo:
   title: Flex Message Simulatorからテストメッセージを送信できるようになりました
   description: >-
@@ -38,7 +38,7 @@ LINE Developersコンソールにログインしているアカウントがビ�
 
 表示されたアカウントにテストメッセージを送信するには、アカウントを選択し、[**送信**]ボタンをクリックします。LINEアカウントにFlex Messageと、メッセージがサンプルだということを示すメッセージが届きます。
 
-![Test Flex Message](/media/news/fms-test-message-en.png){className="[\"border\",\"w-fix-360\"]"}
+![Test Flex Message](/media/news/fms-test-message-en.webp){className="[\"border\",\"w-fix-360\"]"}
 
 また、[**送信先を登録**]をクリックすると、代替送信先を追加することができます。
 

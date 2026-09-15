@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/measure-impressions
-__hash__: Tjwy8Z7KqYClL57oeEXeU100ldPyDdufscPBuqdndW8
+__hash__: zCHLYlE1lgDwyxWje4bZ9XKEwJ3vdbUkQ-flYrEWK40
 seo:
   title: Measure impressions
   description: null
@@ -61,7 +61,7 @@ In the Messaging API, a bubble refers to a single message object. Message object
 
 This illustration shows an example of a message composed of three bubbles. Although bubble 2 and 3 don't have the same speech bubble shape as the text message object in bubble 1, each is treated as bubbles for impression measurement.
 
-![](/media/messaging-api/measure-impressions/message-and-bubbles-en.png){className="[\"bg-border\",\"w-fix-600\"]"}
+![](/media/messaging-api/measure-impressions/message-and-bubbles-en.webp){className="[\"bg-border\",\"w-fix-600\"]"}
 
 When this message is sent and the user opens the chat to view it, the single bubble that's displayed triggers the counting of `overview.uniqueImpression`. `messages[].uniqueImpression` and `messages[].impression` are counted separately for each bubble.
 
@@ -97,12 +97,12 @@ These are examples of bubbles that are 100% visible and those that aren't.
 | This area's bubble is 100% visible.    | ![green](/media/messaging-api/measure-impressions/100per-area.png){className="[\"bg-border\",\"w-fix-120\"]" mt-3=""}   |
 | This area's bubble isn't 100% visible. | ![red](/media/messaging-api/measure-impressions/not-100per-area.png){className="[\"bg-border\",\"w-fix-120\"]" mt-3=""} |
 
-| Display             | Description                                                                                                                                                                                                                   | Image                                                                                                                                                                                                                      |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅️ 100% visible     | The bubble displayed in the green area is fully visible, so it's counted as an impression.                                                                                                                                    | ![The entire bubble is displayed](/media/messaging-api/measure-impressions/impression-100per.png){className="[\"bg-border\",\"w-fix-440\"]" mt-2=""}                                                                       |
-| ❌️ Not 100% visible | The bubble displayed in the red area overlaps with the rich menu and isn't fully visible, so it isn't counted as an impression.                                                                                               | ![The entire bubble isn't displayed because it overlaps with the rich menu](/media/messaging-api/measure-impressions/impression-not-100per-richmenu.png){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""}                |
-| ❌️ Not 100% visible | The bubble in the red area overlaps with the [service menu bar](https://www.lycbiz.com/jp/manual/OfficialAccountManager/servicemenubar/){rel="[\"nofollow\"]"} and isn't fully visible, so it isn't counted as an impression. | ![The entire bubble isn't displayed because it overlaps with the service menu bar](/media/messaging-api/measure-impressions/impression-not-100per-service-menu-ber.png){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""} |
-| ❌️ Not 100% visible | The bubble in the red area is too tall to fit within the chat window, so it isn't fully visible and therefore not counted as an impression.                                                                                   | ![The message is too tall to fit entirely within the bubble](/media/messaging-api/measure-impressions/impression-not-100per-too-long.png){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""}                               |
+| Display             | Description                                                                                                                                                                                                                   | Image                                                                                                                                                                                                                       |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ✅️ 100% visible     | The bubble displayed in the green area is fully visible, so it's counted as an impression.                                                                                                                                    | ![The entire bubble is displayed](/media/messaging-api/measure-impressions/impression-100per.webp){className="[\"bg-border\",\"w-fix-440\"]" mt-2=""}                                                                       |
+| ❌️ Not 100% visible | The bubble displayed in the red area overlaps with the rich menu and isn't fully visible, so it isn't counted as an impression.                                                                                               | ![The entire bubble isn't displayed because it overlaps with the rich menu](/media/messaging-api/measure-impressions/impression-not-100per-richmenu.webp){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""}                |
+| ❌️ Not 100% visible | The bubble in the red area overlaps with the [service menu bar](https://www.lycbiz.com/jp/manual/OfficialAccountManager/servicemenubar/){rel="[\"nofollow\"]"} and isn't fully visible, so it isn't counted as an impression. | ![The entire bubble isn't displayed because it overlaps with the service menu bar](/media/messaging-api/measure-impressions/impression-not-100per-service-menu-ber.webp){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""} |
+| ❌️ Not 100% visible | The bubble in the red area is too tall to fit within the chat window, so it isn't fully visible and therefore not counted as an impression.                                                                                   | ![The message is too tall to fit entirely within the bubble](/media/messaging-api/measure-impressions/impression-not-100per-too-long.webp){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""}                               |
 
 ::admonition
 ---
@@ -128,7 +128,7 @@ If you send a message that uses a [carousel](/docs/messaging-api/flex-message-el
 
 For messages using a carousel, the impression is counted once when all edges (top, bottom, left, and right) of the bubble are displayed.
 
-![](/media/messaging-api/measure-impressions/carousel-100per-scroll.png){className="[\"bg-border\",\"w-fix-240\"]"}
+![](/media/messaging-api/measure-impressions/carousel-100per-scroll.webp){className="[\"bg-border\",\"w-fix-240\"]"}
 
 ## Usage precautions
 

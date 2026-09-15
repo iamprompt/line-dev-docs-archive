@@ -9,7 +9,7 @@ description: >-
   web. The source code for LIFF Playground is now available on GitHub.
 meta: '{"date":"2022-02-16 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-02-16-liff-playground
-__hash__: ceC19TdueCgGpZNCilKnd3bdhaJi4HWD3MQ9_Cx3CWg
+__hash__: J9iRJrRa654gmNiokQAbTRyUntEQ7_i2JllOxoVHCNU
 seo:
   title: >-
     Source code for LIFF Playground, a web application for trying LIFF features,
@@ -24,7 +24,7 @@ LINE provides a web application (LIFF app) for developers called [LIFF Playgroun
 
 With the publication of the source code, developers will be able to set their LIFF ID and run their own LIFF Playground. For example, each client API such as `liff.login()` or `liff.getProfile()` can be run on the web based on the developer's LIFF ID.
 
-![LIFF Playground](/media/news/liff-playground.png){className="[\"border\",\"w-fix-480\"]"}
+![LIFF Playground](/media/news/liff-playground.webp){className="[\"border\",\"w-fix-480\"]"}
 
 For more information on how to get started with the LIFF Playground, see the README in the [GitHub repository](https://github.com/line/liff-playground){rel="[\"nofollow\"]"}.
 

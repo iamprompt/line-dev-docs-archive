@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/liff/trying-liff-app
-__hash__: yxclYuj2Z1sXxNoDy-w1DexnXztP3n-vlfiWQNY7ZDE
+__hash__: bpYGZcbqDv7aL6HUIjDgjpGc4LPOMFiRxguUxhRK26w
 seo:
   title: Trying the LIFF starter app
   description: null
@@ -160,7 +160,7 @@ Send the LIFF URL to a LINE chat room and tap the LIFF URL on the chat room to o
 ::
 
 .  
-![LIFF app](/media/liff/trying-liff-app/screenshot-mobile.png){className="[\"border\",\"w-fix-240\"]"}
+![LIFF app](/media/liff/trying-liff-app/screenshot-mobile.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ::admonition
 ---

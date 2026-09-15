@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/payment
-__hash__: 1_AQBdiXkzJXgYFYeeOzrdqRxO2q7fX3rwdUMRPa1TI
+__hash__: bwg5ouej9cUAzIHqx2m_4kkVQCkuJbtZN0tU7DqjU44
 seo:
   title: Handling payments
   description: null
@@ -49,7 +49,7 @@ The screen displayed by LINE MINI App:
 ![](/media/line-mini-app/mini_linepay_flow01.png){className="[\"w-fix-240\"]"}
 2. The user confirms the payment details with LINE Pay and enters the LINE Pay authentication information.  
 The screen displayed by LINE Pay:  
-![](/media/line-mini-app/mini_linepay_flow02.png){className="[\"w-fix-480\"]"}
+![](/media/line-mini-app/mini_linepay_flow02.webp){className="[\"w-fix-480\"]"}
 3. The order confirmation page is displayed.  
 The screen displayed by LINE MINI App:  
 ![](/media/line-mini-app/mini_linepay_flow03.png){className="[\"w-fix-240\"]"}

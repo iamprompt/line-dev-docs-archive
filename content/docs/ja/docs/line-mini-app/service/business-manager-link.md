@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/business-manager-link
-__hash__: U3ceEx1y7_LtMgsp_TkPRGo6QvoY_eeEgSl02e__SLA
+__hash__: 3e1NvZF3TrIJKkTTtmsg5cMIliN3duqad3wnJW2pc_I
 seo:
   title: LINEミニアプリチャネルをビジネスマネージャーの組織と接続する
   description: ''
@@ -83,7 +83,7 @@ LINEミニアプリチャネルの［**ビジネスマネージャー接続**］
 
 ビジネスマネージャーの組織の管理者が接続リクエスト用URLを開くと、リクエストの承認画面が表示されます。
 
-![](/media/line-mini-app/service/approve-send-link-request-ja.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/approve-send-link-request-ja.webp){className="[\"border\"]"}
 
 LINEミニアプリチャネルと組織に誤りがないこと、および注意事項を確認し、［**承認する**］をクリックします。
 
@@ -232,7 +232,7 @@ LINEミニアプリチャネルをLINE公式アカウントと接続する流れ
 ::admonition{title="開発者がビジネスマネージャーの組織の管理者でもある場合" type="tip"}
 開発者がビジネスマネージャーの組織の管理者でもある場合は、LINEミニアプリチャネルの［**ビジネスマネージャー接続**］タブの「LINE公式アカウント接続」セクションから、ビジネスマネージャーの「LINE公式アカウントと接続」画面を開くことができます。
 
-![](/media/line-mini-app/service/line-official-account-linking-from-line-mini-app-channel-ja.png){className="[\"border\"]"}
+![](/media/line-mini-app/service/line-official-account-linking-from-line-mini-app-channel-ja.webp){className="[\"border\"]"}
 ::
 
 接続するLINE公式アカウントの名前をクリックします。

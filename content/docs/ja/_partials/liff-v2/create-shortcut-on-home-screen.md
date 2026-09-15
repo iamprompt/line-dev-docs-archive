@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/create-shortcut-on-home-screen
-__hash__: oOkEYcV343YHnik9R19_8TA4uh7F3H2Hzb5bBGciu50
+__hash__: 6fg1nbRA3rmNvhlFuYbKyOfrjaMZmb3qPNXCRP42pw4
 seo:
   description: ''
 ---
@@ -19,7 +19,7 @@ seo:
 
   [LINEミニアプリ](/docs/line-mini-app/)へのショートカットを、ユーザー端末のホーム画面に追加する画面を表示します。
 
-  ![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.png){className="[\"border\",\"w-fix-240\"]"}
+  ![](/media/line-mini-app/develop/add-to-home-screen/add-shortcut-screen-ios-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
   詳しくは、『LINEミニアプリドキュメント』の「[ユーザー端末のホーム画面にLINEミニアプリへのショートカットを追加する](/docs/line-mini-app/develop/add-to-home-screen/)」を参照してください。
 

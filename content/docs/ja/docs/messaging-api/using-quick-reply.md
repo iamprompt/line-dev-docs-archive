@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/using-quick-reply
-__hash__: eiUIzxTAEGTn6LtDZTfRqHmw8_JQUH6Ts_g4zF_oFUY
+__hash__: WSbGaiE9aLBzL4ZeVUVMKt9U6HTeXYs5ZI80zCiX_-c
 seo:
   title: クイックリプライを使う
   description: null
@@ -108,7 +108,7 @@ seo:
 
 上記で指定したメッセージは、トーク上で次のようなクイックリプライボタンとして表示されます。
 
-![クイックリプライのサンプル2](/media/messaging-api/using-quick-reply/quickReplySample2.png){className="[\"border\",\"w-fix-240\"]"}
+![クイックリプライのサンプル2](/media/messaging-api/using-quick-reply/quickReplySample2.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## クイックリプライボタンが非表示になるタイミング
 

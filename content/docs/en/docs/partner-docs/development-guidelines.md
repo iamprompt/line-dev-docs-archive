@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/development-guidelines
-__hash__: atuYUM5MFk46yivVikras6ugDNxTJ5yKG8Qcsu4HSnE
+__hash__: 7UD5eoH1tnht8bWxEx-yiD8qKY08nmcMRqaJw98SJkk
 seo:
   title: Development guidelines for corporate customers
   description: null
@@ -30,7 +30,7 @@ LINE bots use the Messaging API to send and receive information. To learn more, 
 
 The relationship between bots as a component of the LINE Official Account and the channel is as follows.
 
-![Relationship between bots and channels](/media/partner-docs/bot-and-channel-relations-en.png){className="[\"w-fix-900\"]"}
+![Relationship between bots and channels](/media/partner-docs/bot-and-channel-relations-en.webp){className="[\"w-fix-900\"]"}
 
 ### Understanding various terms
 
@@ -89,7 +89,7 @@ type: note
 The IP address of the LINE Platform from which the webhook request is sent isn't disclosed. For better security, use [signature validation](/reference/messaging-api/#signature-validation) instead of access control by IP address.
 ::
 
-![Signature validation image](/media/partner-docs/webbhook-signature-verification-en.png){className="[\"w-fix-900\"]"}
+![Signature validation image](/media/partner-docs/webbhook-signature-verification-en.webp){className="[\"w-fix-900\"]"}
 
 ### Support for mass and intensive webhook event delivery
 
@@ -234,7 +234,7 @@ Even when there's no LINE Platform failure, these problems may occur due to the 
 
 In such a case, if you make the same API request in succession, the user will get the same message twice if the first API request was successfully accepted. To prevent this, implement a retry key (`X-Line-Retry-Key`) to safely retry requests. For more information on message sending requests, see [Retry failed API requests](/docs/messaging-api/retrying-api-request/) in the Messaging API documentation.
 
-![Retrying a failed API request](/media/partner-docs/retrying-a-failed-api-request-en.png){className="[\"w-fix-900\"]"}
+![Retrying a failed API request](/media/partner-docs/retrying-a-failed-api-request-en.webp){className="[\"w-fix-900\"]"}
 
 ### Request limits
 
@@ -275,7 +275,7 @@ Depending on the number of users the messages are sent to, and the content of th
 
 To prepare for such cases, use load balancing mechanisms such as CDNs or load balancers, or send messages in stages, so that the server from which the content is stored doesn't go down due to a large volume of access.
 
-![Large volume of requests](/media/partner-docs/large-volume-of-requests-en.png){className="[\"w-fix-900\"]"}
+![Large volume of requests](/media/partner-docs/large-volume-of-requests-en.webp){className="[\"w-fix-900\"]"}
 
 ## Notes on using LINE Login
 
@@ -330,7 +330,7 @@ By using the acquired access token, you can check the friendship between the use
 
 By linking user information (user IDs, etc.) obtained through LINE Login with member information managed by the company, it's possible to deliver more personalized messages.
 
-![ID linkage flow](/media/partner-docs/flow-for-linking-ids-en.png){className="[\"w-fix-900\"]"}
+![ID linkage flow](/media/partner-docs/flow-for-linking-ids-en.webp){className="[\"w-fix-900\"]"}
 
 ::admonition
 ---
@@ -359,7 +359,7 @@ LINE Login allows you use the option to add your LINE Official Account as friend
 
 The `state` parameter specified when requesting authorization for LINE Login is required to prevent [Cross-Site Request Forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery){rel="[\"nofollow\"]"}. Randomly generate it in your web app for each authorization request session and validate it when [receiving the authorization response or error response](/docs/line-login/integrate-line-login/#receiving-the-authorization-code-or-error-response-with-a-web-app).
 
-![state verification](/media/partner-docs/state-verification-en.png){className="[\"w-fix-900\"]"}
+![state verification](/media/partner-docs/state-verification-en.webp){className="[\"w-fix-900\"]"}
 
 ## LINE Front-end Framework (LIFF)
 

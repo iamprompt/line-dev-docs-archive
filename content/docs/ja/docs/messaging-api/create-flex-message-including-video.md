@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/create-flex-message-including-video
-__hash__: pgZhradze-zxVy3kdFThg1knUr5XXT19dy9mT3Z2QwQ
+__hash__: fwmycp2b_PHe8JwM3P6MbCwDlewlaKoGmMt_eAY_IQE
 seo:
   title: 動画を含むFlex Messageを作成する
   description: null
@@ -275,7 +275,7 @@ Flex Messageで送信された動画は、[トークルーム](#chat-room)上や
 
 2つ目のボタンは［**詳細はこちら**］で、動画コンポーネントに指定したURIアクションのラベルです。任意のテキストに変更できます。動画コンポーネントにURIアクションを指定しない場合は、［**完了**］だけが表示されます。詳しくは、「[動画のURIアクション](#uri-action)」を参照してください。
 
-![動画再生時の画面](/media/messaging-api/create-flex-message-including-video/video-player-ja.png){className="[\"w-fix-280\",\"bg-border\"]"}
+![動画再生時の画面](/media/messaging-api/create-flex-message-including-video/video-player-ja.webp){className="[\"w-fix-280\",\"bg-border\"]"}
 
 #### 動画再生終了時の画面
 
@@ -283,7 +283,7 @@ Flex Messageで送信された動画は、[トークルーム](#chat-room)上や
 
 2つ目のボタンは［**詳細はこちら**］で、動画コンポーネントに指定したURIアクションのラベルです。任意のテキストに変更できます。動画コンポーネントにURIアクションを指定しない場合は、［**リプレイ**］だけが表示されます。詳しくは、「[動画のURIアクション](#uri-action)」を参照してください。
 
-![動画再生終了時の画面](/media/messaging-api/create-flex-message-including-video/video-player-finished-ja.png){className="[\"w-fix-280\",\"bg-border\"]"}
+![動画再生終了時の画面](/media/messaging-api/create-flex-message-including-video/video-player-finished-ja.webp){className="[\"w-fix-280\",\"bg-border\"]"}
 
 ## 動画コンポーネントをサポートするバージョン未満のLINEでの表示
 

@@ -5,7 +5,7 @@ description: Notice for corporate customers. See also the News.
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/partner-docs/notice
-__hash__: 58QyacKL_UaSWF6xUzVX-Hn8_O73cGOFMD4GxFGJnIk
+__hash__: TPtAgmgdH8DPi7BCuXbnOd601bBs_h85ZundAO5II4k
 seo:
   title: Notice for corporate customers
   description: Notice for corporate customers. See also the News.
@@ -45,7 +45,7 @@ For more information, see [Notification email example](/docs/partner-docs/error-
 
 LINE notification messages are now displayed with “Important notification” to the right of the LINE Official Account icon to distinguish them from other messages.
 
-![LINE notification messages are displayed with “Important notification” to the right of the icon](/media/line-notification-message/notification-messages-important-en.jpg){className="[\"border\",\"w-fix-320\"]"}
+![LINE notification messages are displayed with “Important notification” to the right of the icon](/media/line-notification-message/notification-messages-important-en.webp){className="[\"border\",\"w-fix-320\"]"}
 
 For more information, see [Difference in appearance from other messages](/docs/partner-docs/line-notification-messages/overview/#difference-from-other-messages) in the LINE notification messages documentation.
 

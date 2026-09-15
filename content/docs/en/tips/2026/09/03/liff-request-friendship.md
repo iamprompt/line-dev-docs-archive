@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-09-03 00:00 UTC","tags":"liff,
   line-mini-app","locale":"en","sidebar":false}
 path: /en/tips/2026/09/03/liff-request-friendship
-__hash__: GH-eRtDPMUyrxAAJRD31ParZbmSW-SFrdUCK_gKI0Mc
+__hash__: 8xU_v32LkHXe_IIoLAh4OMf7AWkxS-sHWq-11ICeAPg
 seo:
   title: >-
     Show the benefits of adding your LINE Official Account as a friend with the
@@ -31,7 +31,7 @@ Hi! I’m Okajima, a technical writer in charge of documentation for the LINE De
 
 You can use the [`liff.requestFriendship()`](/reference/liff/#request-friendship) method to prompt users to add a LINE Official Account as a friend in a LIFF app or LINE MINI App.
 
-![](/media/liff/request-friendship/request-friendship-add-friend-en.png){className="[\"border\",\"w-fix-320\"]"}
+![](/media/liff/request-friendship/request-friendship-add-friend-en.webp){className="[\"border\",\"w-fix-320\"]"}
 
 The `liff.requestFriendship()` method was enhanced in LIFF v2.30.0 with support for the `template` property. With this property, you can select a suitable [template](/reference/liff/#request-friendship-template) from a predefined list and display it as the message prompting users to add the account as a friend.
 

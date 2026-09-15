@@ -9,7 +9,7 @@ description: >-
   changes to the site.
 meta: '{"date":"2017-09-21 00:00 UTC","tags":"Docs, Console","local":"en"}'
 path: /en/_partials/news/2017/2017-09-21-site-redesign
-__hash__: KOH-CBwLg4Nl4pdFBpYOlp4Ck93Zudy6XNDSV24iWDA
+__hash__: 0UVWsh6V837JnnFCgLXk-DVRw49rvT6Lb44l4gprpLs
 seo:
   title: Introducing the redesigned LINE Developers site
   description: >-
@@ -31,7 +31,7 @@ READMORE
 
 ### LINE Developers Console
 
-![Console top](/media/news/brown-channel-top.png){className="[\"border\",\"w-fix-560\"]"}
+![Console top](/media/news/brown-channel-top.webp){className="[\"border\",\"w-fix-560\"]"}
 
 The new and improved "LINE Developers Console" makes it easier to create and manage your channels. You can login to the [LINE Developers Console](/console/) to register a developer account, create a provider, and create channels for Messaging API and LINE Login.
 

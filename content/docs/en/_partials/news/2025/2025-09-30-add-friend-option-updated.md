@@ -10,7 +10,7 @@ meta: >-
   {"date":"2025-09-30 00:00 UTC","tags":"LINE Login, liff,
   line-mini-app","locale":"en"}
 path: /en/_partials/news/2025/2025-09-30-add-friend-option-updated
-__hash__: _wDFOcBEfbPZ3CH0-vi5m6nAs16GykKht2JkAYfJZPo
+__hash__: Rl5QR2S1FYAK4KuUkrz-FMRcpaRU-lV6edaXMLkNxeg
 seo:
   title: >-
     We've changed the design of the add friend option displayed on the channel
@@ -38,9 +38,9 @@ The design changes to the add friend option are as follows:
 
 Screenshots before and after the changes are as follows:
 
-| Before change                                                                                       | After change (current)                                                                             |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| ![](/media/news/2025/consent-screen-with-bot-before-en.png){className="[\"border\",\"w-fix-320\"]"} | ![](/media/news/2025/consent-screen-with-bot-after-en.png){className="[\"border\",\"w-fix-320\"]"} |
+| Before change                                                                                        | After change (current)                                                                              |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![](/media/news/2025/consent-screen-with-bot-before-en.webp){className="[\"border\",\"w-fix-320\"]"} | ![](/media/news/2025/consent-screen-with-bot-after-en.webp){className="[\"border\",\"w-fix-320\"]"} |
 
 This design change implements the proposal that received the most positive feedback from LINE users, according to A/B test results.
 

@@ -7,7 +7,7 @@ description: >-
   SDK for iOS SwiftをObjective-Cのプロジェクトに組み込みましょう。
 meta: '{}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/using-objc
-__hash__: Z3B3g-26RVX6NwCf6RX-Lr0P07ENopRDdtTFz_d9uLQ
+__hash__: eK92Ui0-c77wyl7P4buQpTdC1qAjprv7Hk44T_uuO_o
 seo:
   title: Objective-CのコードでSDKを使用する
   description: >-
@@ -123,7 +123,7 @@ $(BUILT_PRODUCTS_DIR)/$(FRAMEWORKS_FOLDER_PATH)/LineSDKObjC.framework
 
 ［Build Phases］設定タブは以下のようになるはずです。
 
-![iOS SDK Swift ObjCのリンクのBuild Phase タブにLink Binary with Library、Copy Bundle Resources、および Run Script サブタブが表示されます。](/media/ios-sdk-swift/install-carthage-objc.png){className="[\"border\",\"w-fix-600\"]"}
+![iOS SDK Swift ObjCのリンクのBuild Phase タブにLink Binary with Library、Copy Bundle Resources、および Run Script サブタブが表示されます。](/media/ios-sdk-swift/install-carthage-objc.webp){className="[\"border\",\"w-fix-600\"]"}
 
 ##### ［Always Embed Swift Standard Libraries］オプションを有効にする
 

@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Ryuji
-  Sasage","img":"jp-ryuji-sasage.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Sasage","img":"jp-ryuji-sasage.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"Python, Node.js, JavaScript, SQL, Smart Speaker,
   Chatbot, WEB site,
   UI/UX","git":"https://github.com/Arahabica","fb":"https://www.facebook.com/ryuji.sasage","twitter":"https://twitter.com/Arahabica"}
 path: /en/community/api-experts/jp-ryuji-sasage
-__hash__: rz2ZuOdOengYDMNgGMN4JisuxlHaLVhPoCpdsz2an2Y
+__hash__: cTqhEMLixHXrLSRjkTKRvGKj08lRbH3SftfQScteELU
 seo:
   title: LINE API Expert - Ryuji Sasage
   description: ''

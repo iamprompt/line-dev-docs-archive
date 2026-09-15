@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/beacon-device-spec
-__hash__: qr6xnYigfBPaXOxhxZ-b2K7swuvRCaPPO9Hw8Q5VkcU
+__hash__: 6oZ-wkj0kt3MXA9rtV7peVJ-eRfij6aEjl210mfgqKU
 seo:
   title: LINE Beacon端末の仕様
   description: null
@@ -37,7 +37,7 @@ LINE Beaconパケットは、152.5ミリ秒間隔で送信することを強く�
 
 アドバタイジングパケットは、以下の図のように、3つのAD structureから構成してください。
 
-![LINE Beaconパケット](/media/messaging-api/beacon-device-spec/advDataFormat.png){className="[\"border\"]"}
+![LINE Beaconパケット](/media/messaging-api/beacon-device-spec/advDataFormat.webp){className="[\"border\"]"}
 
 アドバタイジングパケットの仕様は以下のとおりです。値カラムの16進数の値は、説明カラムの括弧書きの値と同等です。
 

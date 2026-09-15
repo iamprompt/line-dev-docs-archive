@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Takumasa
-  Hirabayashi","img":"jp-takumasa-hirabayashi.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Hirabayashi","img":"jp-takumasa-hirabayashi.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Java, JavaScript, C #, SQL, Chatbot, Smart Speaker,
   Cloud","git":"https://github.com/himanago","fb":"https://www.facebook.com/takumasa.hirabayashi","twitter":"https://twitter.com/himarin269"}
 path: /en/community/api-experts/jp-takumasa-hirabayashi
-__hash__: GD1HS1t62JEhZ5nsXJaRuclMJLgfHvPGoiz62d1_sHY
+__hash__: NV_8IE38FZL6Ugikc69tCo8MmVN8tr79B4K-QQIMKGg
 seo:
   title: LINE API Expert - Takumasa Hirabayashi
   description: ''

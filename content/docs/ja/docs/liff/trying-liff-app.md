@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/liff/trying-liff-app
-__hash__: VxfO2wtfn8dlrA_ZN9OsA8nUItA_6Fo4Kc24SVClhBA
+__hash__: UuI1xhkWoV6RxZYoOZbcRDJNs6pceozIDZJC2ngEaW0
 seo:
   title: LIFFスターターアプリを試してみる
   description: null
@@ -160,7 +160,7 @@ LIFF URLをLINEの任意のトークルームに送信し、トークルーム�
 ::
 
 でLIFFアプリが開けます。  
-![LIFFアプリ](/media/liff/trying-liff-app/screenshot-mobile.png){className="[\"border\",\"w-fix-240\"]"}
+![LIFFアプリ](/media/liff/trying-liff-app/screenshot-mobile.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ::admonition{title="LIFF IDを設定せずにLIFFアプリを開いた場合" type="tip"}
 環境変数の`LIFF_ID`を設定せずにLIFFアプリを開いた場合、[`liff.init()`](/reference/liff/#initialize-liff-app)によるLIFFアプリの初期化に失敗しますが、LIFFスターターアプリの見た目に変化はありません。

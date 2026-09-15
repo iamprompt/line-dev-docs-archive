@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/minimizing-liff-browser
-__hash__: OkMSykPpquHmxNuK16Ujmafq3yFBFmDmUgzStZKvmmM
+__hash__: v3edsAUgtcEm8wXrLWw6wDIWXZCYAO3Uc686Meg0KCg
 seo:
   title: LIFFブラウザを最小化する
   description: ''
@@ -58,7 +58,7 @@ LIFFブラウザを最小化するには、以下の3つの方法があります
 
 [アクションボタン](/docs/liff/overview/#action-button)からドロップダウンメニューを開き、［**ページを最小化**］オプションをタップします。
 
-![](/media/liff/minimizing-liff-app/tap-action-button-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![](/media/liff/minimizing-liff-app/tap-action-button-ja.webp){className="[\"border\",\"w-fix-300\"]"}
 
 ### アプリ内通知をタップする
 
@@ -76,7 +76,7 @@ LIFFブラウザを下方向へスワイプします。
 
 [アクションボタン](/docs/liff/overview/#action-button)から[マルチタブビュー](/docs/liff/overview/#multi-tab-view)を開き、［**ページを最小化**］オプションをタップします。
 
-![LIFFブラウザの最小化（アクションボタンのオプションをタップする）](/media/liff/minimizing-liff-app/tap-action-button-option-ja.png){className="[\"w-fix-960\"]"}
+![LIFFブラウザの最小化（アクションボタンのオプションをタップする）](/media/liff/minimizing-liff-app/tap-action-button-option-ja.webp){className="[\"w-fix-960\"]"}
 
 ## LIFFブラウザを最大化する
 
@@ -113,7 +113,7 @@ LINEバージョン15.20.0未満の場合、最小化したLIFFブラウザを�
 
 LINEバージョン15.20.0以降の場合、最小化したLIFFブラウザの右上に表示される閉じるボタンを押すと、LIFFブラウザを閉じることができます。
 
-![最小化したLIFFブラウザを閉じる](/media/liff/minimizing-liff-app/close-minimized-liff-browser-line-15-20-0-or-later-ja.png){className="[\"w-fix-300\"]"}
+![最小化したLIFFブラウザを閉じる](/media/liff/minimizing-liff-app/close-minimized-liff-browser-line-15-20-0-or-later-ja.webp){className="[\"w-fix-300\"]"}
 
 ## LIFFブラウザのアイコン表示の優先順位
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2025-09-30 00:00 UTC","tags":"LINE Login, liff,
   line-mini-app","locale":"ja"}
 path: /ja/_partials/news/2025/2025-09-30-add-friend-option-updated
-__hash__: 1Sdqj5SptCx_PXXGcoCUCaM4tygBU2bGOx4KSzK0A1A
+__hash__: 8EnuWzRnqrQx_UHWzspwaKTQCLDae20BRJe88POhUyc
 seo:
   title: チャネル同意画面に表示される友だち追加オプションのデザインを変更しました
   description: チャネル同意画面に表示される友だち追加オプションのデザインを変更しました。機能に変更はありません。
@@ -30,9 +30,9 @@ seo:
 
 変更前と変更後のスクリーンショットは、以下のとおりです。
 
-| 変更前                                                                                                 | 変更後（現在）                                                                                            |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| ![](/media/news/2025/consent-screen-with-bot-before-ja.png){className="[\"border\",\"w-fix-320\"]"} | ![](/media/news/2025/consent-screen-with-bot-after-ja.png){className="[\"border\",\"w-fix-320\"]"} |
+| 変更前                                                                                                  | 変更後（現在）                                                                                             |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![](/media/news/2025/consent-screen-with-bot-before-ja.webp){className="[\"border\",\"w-fix-320\"]"} | ![](/media/news/2025/consent-screen-with-bot-after-ja.webp){className="[\"border\",\"w-fix-320\"]"} |
 
 このデザイン変更には、A/Bテストの結果LINEユーザーから最も好意的に受け入れられた案を採用しています。
 

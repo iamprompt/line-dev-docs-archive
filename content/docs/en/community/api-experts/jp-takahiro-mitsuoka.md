@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Takahiro
-  Mitsuoka","img":"jp-takahiro-mitsuoka.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Mitsuoka","img":"jp-takahiro-mitsuoka.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"Python, Node.js, Go, JavaScript, PHP, Chatbot, IoT,
   WEB site, AI,
   SaaS","git":"https://github.com/mitsuoka0423","fb":"https://www.facebook.com/mitsuoka0423","twitter":"https://twitter.com/mitsuoka0423"}
 path: /en/community/api-experts/jp-takahiro-mitsuoka
-__hash__: hCjClc9_Es0jUkypA5yyO6PQxDUw-KLjVyD4Roq6NTo
+__hash__: GTKPxBzsPBqkSzLb6I9AHjr9ZfMumsl9pXUI5xEIhMY
 seo:
   title: LINE API Expert - Takahiro Mitsuoka
   description: ''

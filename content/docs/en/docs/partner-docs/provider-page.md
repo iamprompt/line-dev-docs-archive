@@ -6,7 +6,7 @@ description: >-
   the LINE Platform.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/provider-page
-__hash__: FQQGIiY4ilANQb8eVXq0E4s_yjxE1e7Yp1CwFVHKvto
+__hash__: hvWIesdtXjTM3nsXlyaQdowKSsj4YkF-2yCteJbRr9Y
 seo:
   title: Provider page
   description: >-
@@ -46,7 +46,7 @@ type: tip
 The only LINE Official Account that can be added to your provider page are verified or :glossary-tooltip[[premium accounts](/glossary/#premium-account)]{glossary-id="premium-account"}. For more information about account types, see the [Account Types of LINE Official Account](https://www.linebiz.com/jp-en/service/line-official-account/account-type/){rel="[\"nofollow\"]"} page on LINE for Business.
 ::
 
-![provider page settings screen](/media/partner-docs/provider-page-settings-en.png){className="[\"border\",\"w-fix-480\"]"}
+![provider page settings screen](/media/partner-docs/provider-page-settings-en.webp){className="[\"border\",\"w-fix-480\"]"}
 
 ### Set the order in which services are displayed on the provider page
 

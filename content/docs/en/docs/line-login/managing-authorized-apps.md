@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login/managing-authorized-apps
-__hash__: 2U-e5IZaXNkTh3-PnkqIvossM98FQ24T8btJzPYnZ0A
+__hash__: EiDog8Bv8tjo37WqlirsvvD14M2F2k6DHicUEDKjMvg
 seo:
   title: Managing authorized apps
   description: null
@@ -18,7 +18,7 @@ seo:
  The settings screen for "Authorized apps" will be displayed.
 2. Tap the app you wish to unauthorize.  
  The authorized app screen will be displayed.  
- ![Authorized app](/media/line-login/managing-authorized-apps/authorized-app-en.png){className="[\"border\",\"w-fix-240\"]"}  
+ ![Authorized app](/media/line-login/managing-authorized-apps/authorized-app-en.webp){className="[\"border\",\"w-fix-240\"]"}  
  To review the terms of consent, tap "View permissions".   
  To revoke consent, tap "Unlink".
 

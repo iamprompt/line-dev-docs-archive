@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Takeshi
-  Yamamoto","img":"jp-takeshi-yamamoto.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Yamamoto","img":"jp-takeshi-yamamoto.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Python, JavaScript, Chatbot, WEB site, UI/UX, Google Apps
   Script,
   SEO","git":"https://github.com/Tyamamoto1007","fb":"https://www.facebook.com/yamamoto.takeshi.9638/","twitter":"https://twitter.com/gas_seo"}
 path: /en/community/api-experts/jp-takeshi-yamamoto
-__hash__: b9PvJEnG0KvNTZiaIrwj0HXRg3Wdcdq9rk0T1u-tTL8
+__hash__: FLrNtJyI0ga7-8pmgc3zr_0FVZOf5o2cbS-cYSwprjg
 seo:
   title: LINE API Expert - Takeshi Yamamoto
   description: ''

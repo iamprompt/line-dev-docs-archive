@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-03-05 00:00 UTC","tags":"docs, line-developers-site,
   console","locale":"en","sidebar":false}
 path: /en/tips/2026/03/05/how-to-get-the-latest-news
-__hash__: Cm98d12QqREz0_yc1d1Z-cHK_OWYCv1EUaz7tXeJBqI
+__hash__: EATKAatuUAeF_zhOtQOt-PZyNhittjVXZ32t6TqPl8Y
 seo:
   title: Let's check out the latest news from the LINE Developers site
   description: '"Wait, when was this feature added?"'
@@ -39,9 +39,9 @@ This dot indicates that there are unread articles among the latest 8 posts on th
 
 If you scroll down the homepage, you'll find the "News" and "Tips for Developers" sections.
 
-![](/media/tips/2026/news-excerpts-en.png){className="[\"border\"]"}
+![](/media/tips/2026/news-excerpts-en.webp){className="[\"border\"]"}
 
-![](/media/tips/2026/tips-excerpts-en.png){className="[\"border\"]"}
+![](/media/tips/2026/tips-excerpts-en.webp){className="[\"border\"]"}
 
 In both sections, the titles and excerpts of the three latest articles are displayed. This allows you to quickly see at a glance whether there are any articles of interest without opening each page.
 

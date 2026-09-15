@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Punsiri
-  Boonyakiat","img":"th-punsiri-boonyakiat.png","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
+  Boonyakiat","img":"th-punsiri-boonyakiat.webp","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
   API, LIFF","skills":"Python, Node.js, Javascript, SQL, Chatbot, Machine
   Learning, AI, Cloud,
   Database","git":"https://github.com/punsiriboo","fb":"https://www.facebook.com/beet.mog","twitter":""}
 path: /en/community/api-experts/th-punsiri-boonyakiat
-__hash__: 1GQ5GRjSVm8gAaVnowVIxY6FdRBal55mVCgJHByXEFQ
+__hash__: a4k3Uk7lgFFgDRW1FYJSjuFipf1BmZONmN71ydUEGE8
 seo:
   title: LINE API Expert - Punsiri Boonyakiat
   description: ''

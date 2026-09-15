@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/building-bot
-__hash__: djIPF9PH2Rc1uIc8WrDQr77rUdRzp1tTK5K1KDwyLAw
+__hash__: MhSHp9MzRlu5LACB1T6GCTw5mTgqgokxZrfsVFhPfgE
 seo:
   title: ボットを作成する
   description: null
@@ -62,7 +62,7 @@ IPアドレスを登録するには、[LINE Developersコンソール](/console/
 
 なおMessaging APIで使用するチャネルアクセストークンは、[任意の有効期間を指定できるチャネルアクセストークン（チャネルアクセストークンv2.1）](/docs/basics/channel-access-token/#user-specified-expiration)を推奨しています。
 
-![](/media/messaging-api/build-bot/security-settings-input-ja.png){className="[\"border\",\"w-fix-640\"]"}
+![](/media/messaging-api/build-bot/security-settings-input-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 ## Webhookの動作を確認する
 

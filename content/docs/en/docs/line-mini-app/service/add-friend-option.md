@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/add-friend-option
-__hash__: 1ddB57xZj9qkaL3KgvoDg46CN55FLJNTxylAS8UUmlQ
+__hash__: CIffRcPDkLD04mhgojUk306WTrz-CaP6tzbF1Rb7Mg4
 seo:
   title: >-
     Add a LINE Official Account as a friend in a LINE MINI App (add friend
@@ -20,7 +20,7 @@ seo:
 
 You can display an option to add your LINE Official Account as a friend on the [verification screen](/docs/line-mini-app/develop/configure-console/#verification-screen) or the [channel consent screen](/docs/line-mini-app/develop/configure-console/#consent-screen-settings) of your LINE MINI App. This is called the add friend option.
 
-![](/media/line-mini-app/channel-consent-simplification/add-friend-option-verification-screen-en.png){className="[\"border\",\"w-fix-320\",\"inline-block\",\"mb-0-important\"]"} ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-channel-consent-screen-en.png){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
+![](/media/line-mini-app/channel-consent-simplification/add-friend-option-verification-screen-en.webp){className="[\"border\",\"w-fix-320\",\"inline-block\",\"mb-0-important\"]"} ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-channel-consent-screen-en.webp){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
 
 ::admonition
 ---

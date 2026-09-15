@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/basics/line-api-status
-__hash__: G251L6AcydYl1ChaZ2YEypcE9ZnOwhygh3kk-lPLFaQ
+__hash__: 46kFC5_xucjuwDTdVpjhJtAegw1jFxkDoVWrBvGn1bY
 seo:
   title: LINEプラットフォームの稼働状況を確認する（LINE API Status）
   description: null
@@ -23,7 +23,7 @@ LINEヤフー株式会社は、LINE API Statusにおいて障害状況の情報�
 ::
 
 - [LINE API Status](https://api.line-status.info/){rel="[\"nofollow\"]"}  
-![](/media/basics/line-api-status.png){className="[\"border\",\"w-fix-400\"]"}
+![](/media/basics/line-api-status.webp){className="[\"border\",\"w-fix-400\"]"}
 
 ### ATOMやRSSのフィードの提供
 

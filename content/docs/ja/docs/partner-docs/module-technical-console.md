@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-console
-__hash__: unZvml1Zbs-_fopYI_LHEAO_MnLqwnnTywiWOD5Sbs4
+__hash__: Tj4sGfYCxaYELr26N79hEskLhWcutY0rVclpMIdvXPU
 seo:
   title: モジュールチャネルの設定を行う
   description: null
@@ -20,7 +20,7 @@ seo:
 
 ［**モジュール**］タブでは、モジュールチャネルのWebhook URLおよびWebhook利用のオン・オフと、[LINE公式アカウントの管理者に認可を要求する](/docs/partner-docs/module-technical-attach-channel/#request-auth-from-line-oa-admin)際に指定する`redirect_uri`を設定できます。
 
-![LINE Developersコンソール上のモジュールタブ](/media/partner-docs/module-technical/module-tab-in-console-ja.png){className="[\"w-fix-360\",\"border\"]"}
+![LINE Developersコンソール上のモジュールタブ](/media/partner-docs/module-technical/module-tab-in-console-ja.webp){className="[\"w-fix-360\",\"border\"]"}
 
 ## 1. モジュールタブ
 

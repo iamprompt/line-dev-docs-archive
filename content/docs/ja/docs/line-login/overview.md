@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインをウェブアプリやネイティブアプリに組み込むと、ユーザーがLINEログインを使用できるようになります。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login/overview
-__hash__: TnC7xafu6JgOQT3Nddi6QfHQzYs56zK_JEqdO1RVzrk
+__hash__: jyOmQrcQUagaZ11U1wDc1hoa6oMLEDy7JE4wsDiXgEY
 seo:
   title: LINEログインの概要
   description: LINEログインをウェブアプリやネイティブアプリに組み込むと、ユーザーがLINEログインを使用できるようになります。
@@ -34,7 +34,7 @@ LINEログインは、ウェブアプリ（ウェブサイト）、iOSアプリ�
 ::admonition{title="LINEログインを組み込んだウェブサイトの例" type="tip"}
 たとえば、電子書籍ストア「[BOOK☆WALKER](https://bookwalker.jp/top/){rel="[\"nofollow\"]"}」では、ユーザーが簡単に会員登録、継続利用できるように、LINEログインをはじめとするさまざまなソーシャルログインが組み込まれています。
 
-![電子書籍ストアのログイン画面](/media/line-login/overview/line-login-bookwalker-01-ja.png){className="[\"border\",\"w-fix-560\"]"}
+![電子書籍ストアのログイン画面](/media/line-login/overview/line-login-bookwalker-01-ja.webp){className="[\"border\",\"w-fix-560\"]"}
 ::
 
 ## デモサイトでLINEログインを体験する
@@ -70,7 +70,7 @@ LINE SDKを使用してLINEログインをアプリに組み込めば、LINEで�
 
 たとえば、LINEレンジャーゲームにはLINEログインが組み込まれており、ユーザーは自分のLINEアカウントで簡単にゲームのアカウントを作成することができます。
 
-![LINE Rangers 1](/media/line-login/overview/line-login-rangers-1.webp){className="[\"border\"]"}![LINE Rangers 3](/media/line-login/overview/line-login-rangers-3.png){className="[\"border\"]"}
+![LINE Rangers 1](/media/line-login/overview/line-login-rangers-1.webp){className="[\"border\"]"}![LINE Rangers 3](/media/line-login/overview/line-login-rangers-3.webp){className="[\"border\"]"}
 
 ## LINEログインの認証方法
 

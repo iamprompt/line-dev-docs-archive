@@ -5,7 +5,7 @@ description: >-
   LINEミニアプリにおいて、現在は日本、タイ、台湾以外のLINE未使用ユーザーがウェブブラウザでサービスを利用できます。2025年4月2日のニュースでお知らせしたとおり、2025年10月1日より、すべてのユーザーがウェブブラウザでサービスを利用できるように仕様を変更する予定ですのでお知らせします。
 meta: '{"date":"2025-09-26 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2025/2025-09-26-mini-app-browser
-__hash__: lzBcsA1iwKlUUOHcUJRKMcxfGXKdujqHg4Tu223alsI
+__hash__: 6MIYS-yYHP_ro9rLcYzeSL2LKbzw-1-ZlIZLWO1jU9U
 seo:
   title: LINEミニアプリにおいて、2025年10月1日よりすべてのユーザーがウェブブラウザでサービスを利用できるようになります
   description: >-
@@ -27,9 +27,9 @@ LINEミニアプリにおいて、現在は日本、タイ、台湾以外のLINE
 1. ページ上部にLINEミニアプリのアイコンとロゴを表示
 2. ページ下部にエンドポイントURL（※）に遷移するためのリンク［**ウェブブラウザで開く**］を表示
 
-| 変更前（現在）                                                                                        | 変更後                                                                                          |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![](/media/news/2025/mini-landing-page-current-ja.png){className="[\"border\",\"w-fix-280\"]"} | ![](/media/news/2025/mini-landing-page-after-ja.png){className="[\"border\",\"w-fix-280\"]"} |
+| 変更前（現在）                                                                                         | 変更後                                                                                           |
+| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| ![](/media/news/2025/mini-landing-page-current-ja.webp){className="[\"border\",\"w-fix-280\"]"} | ![](/media/news/2025/mini-landing-page-after-ja.webp){className="[\"border\",\"w-fix-280\"]"} |
 
 画像の内容はイメージのため、変更される可能性があります。なお、[パソコンでLINEミニアプリを開いたときの挙動](/docs/line-mini-app/discover/introduction/#what-you-can-do-with-the-liff-app-or-mini-app)に変更はありません。
 

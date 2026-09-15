@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインを使って、サービスのユーザーからデータ取得の許可を得られます。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login-sdks/unity-sdk/integrate-line-login
-__hash__: CNdywna6T0N2S13Np8WNmbc0j_QtZ9CTOKeXrVG3OXE
+__hash__: a5jB0NeNSDZCy3N9yUq6V9pi2439mnpTGAzgS9Q-Yio
 seo:
   title: UnityゲームにLINEログインを組み込む
   description: LINEログインを使って、サービスのユーザーからデータ取得の許可を得られます。
@@ -28,7 +28,7 @@ LINE SDK for Unityをプロジェクトにインポートする前に、プロ�
 
 Unityプロジェクトを開いたまま、ダウンロードした`.unitypackage`ファイルをダブルクリックします。以下のように、パッケージ内のすべてのファイルをインポートします。
 
-![Import Unity package](/media/unity-sdk/importing.png)
+![Import Unity package](/media/unity-sdk/importing.webp)
 
 ## LineSDKプレハブをシーンに追加する
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/02/19/markdown-notebooklm
-__hash__: v94lF8qGb-0hQFveKAGbozdRIzd8o4EeA8lyGoSJZvw
+__hash__: jSnPs3YnAZmc7HUZS-vayn5zoiCde28ibLnd3F0BhfA
 seo:
   title: AIにLINE Developersサイトのドキュメントを読ませる：Markdown表示機能の活用方法
   description: こんにちは！LINE Developersサイトのドキュメントを担当している、テクニカルライターの岡島です。
@@ -63,13 +63,13 @@ NotebookLMは、リサーチに特化したAIサービスです。ファイル�
 
 [NotebookLM](https://notebooklm.google.com/){rel="[\"nofollow\"]"}にアクセスし、［**ノートブックを新規作成**］ボタンを押します。
 
-![](/media/tips/2026/markdown-notebooklm-create-notebook-ja.png){className="[\"border\"]"}
+![](/media/tips/2026/markdown-notebooklm-create-notebook-ja.webp){className="[\"border\"]"}
 
 ### 3. ノートブックにMarkdownファイルを追加する
 
 作成したノートブックのソースにMarkdownファイルを追加します。「ソース」パネルの［**ソースを追加**］ボタンを押し、Markdownファイルをアップロードします。
 
-![](/media/tips/2026/markdown-notebooklm-add-source-ja.png){className="[\"border\"]"}
+![](/media/tips/2026/markdown-notebooklm-add-source-ja.webp){className="[\"border\"]"}
 
 ### 4. 質問する
 
@@ -77,7 +77,7 @@ Markdownファイルをソースに追加したら、「チャット」パネル
 
 たとえば、「LINEミニアプリと通常のLIFFアプリの主な違いは何ですか？」と質問すると、ソースとして追加されたLINEミニアプリのドキュメントに基づき、回答が生成されます。
 
-![](/media/tips/2026/markdown-notebooklm-answer-ja.png){className="[\"border\"]"}
+![](/media/tips/2026/markdown-notebooklm-answer-ja.webp){className="[\"border\"]"}
 
 ```markdown
 提供された資料に基づき、LINEミニアプリと通常のLIFFアプリ（LINEログインチャネルに追加するLIFFアプリ）の主な違いを解説します。

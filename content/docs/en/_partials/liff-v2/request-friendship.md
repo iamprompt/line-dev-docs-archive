@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/liff-v2/request-friendship
-__hash__: jGBPuh5Ic-MXEaJtXTXBnYdOHERnWpgoaRQ9I2Di-BM
+__hash__: 8CpoqxWKWSK8-0GXDP2hn3k6yV0hM0aMTLeG8yorAVk
 seo:
   description: ''
 ---
@@ -15,7 +15,7 @@ seo:
   :::reference-content
   Displays a subwindow that prompts the user to add the LINE Official Account as a friend, or to unblock it.
 
-  ![](/media/liff/request-friendship/request-friendship-add-friend-en.png){className="[\"border\",\"w-fix-200\"]"}
+  ![](/media/liff/request-friendship/request-friendship-add-friend-en.webp){className="[\"border\",\"w-fix-200\"]"}
 
   - If the user has not added the LINE Official Account as a friend, a subwindow that prompts the user to add it as a friend is displayed.
   - If the user has blocked the LINE Official Account, a subwindow that prompts the user to unblock it is displayed.

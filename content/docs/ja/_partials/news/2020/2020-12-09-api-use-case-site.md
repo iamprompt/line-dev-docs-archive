@@ -4,7 +4,7 @@ navigation: true
 description: LINE APIに関する技術情報やユースケース、クライアント事例、デモアプリなどを紹介するサイト「LINE API Use Case」を本日公開しました。
 meta: '{"date":"2020-12-09 00:00 UTC","tags":"LINE Platform","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-12-09-api-use-case-site
-__hash__: zLfMYbSuPFItkLljL_8OkOJoOw11o7A58w4TIggDvxc
+__hash__: kLRv-llhE70sy2I27b3zGFSVQ5mj8MMAH6Ef5ZVZeuM
 seo:
   title: LINE APIのユースケース、デモアプリなどを紹介するサイト「LINE API Use Case」を公開しました
   description: >-
@@ -19,7 +19,7 @@ LINE APIに関する技術情報やユースケース、クライアント事例
 ::
 
 - **LINE API Use Case**（[https://lineapiusecase.com/](https://lineapiusecase.com/){rel="[\"nofollow\"]"}）
-![LINE API Use Case](/media/news/line-use-case-site.png){className="[\"border\",\"w-fix-640\"]"}
+![LINE API Use Case](/media/news/line-use-case-site.webp){className="[\"border\",\"w-fix-640\"]"}
 
 LINEでは、企業や外部の開発者に向けて、LINEの各種サービスとの連携が可能になる様々なAPIを提供しています。[LINE Developersサイト](/)では、開発者向けにAPIの仕様や開発方法を説明していますが、細かい仕様以前に「そもそもLINE APIを使ってなにができるのかを知りたい」というご要望も頂いていました。
 
@@ -37,6 +37,6 @@ LINEでは、企業や外部の開発者に向けて、LINEの各種サービス
 
 なお「LINE API Use Case」は［**その他**］のドロップダウンメニューに表示される「[Use Case](https://lineapiusecase.com/){rel="[\"nofollow\"]"}」から開けます。
 
-![その他のドロップダウンメニューのUse Case](/media/news/api-use-case-drop-down-menu-ja.png){className="[\"border\",\"w-fix-640\"]"}
+![その他のドロップダウンメニューのUse Case](/media/news/api-use-case-drop-down-menu-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 LINEでは、今後もユーザーと様々な情報やサービス、モノとの距離を縮め、心地よい関係性を創出すべく、外部企業・パートナー、外部開発者との連携を強め、様々な取り組みを積極的に行ってまいります。

@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Kento
-  Yamada","img":"jp-kento-yamada.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Yamada","img":"jp-kento-yamada.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Python, PHP, SQL, container, docker, サーバーレス, Google Cloud,
   AWS","git":"https://github.com/ymd65536","fb":"https://www.facebook.com/ymd65536","twitter":"https://twitter.com/ymd65536"}
 path: /en/community/api-experts/jp-kento-yamada
-__hash__: FWHPaVvsM6dVX5fwMNIcAk31QVB3wMhtavSf-h2xM0M
+__hash__: FrnR_m_ZR31U_cEzOerq9wWfw81ZQHJlehbqFlR5bEU
 seo:
   title: LINE API Expert - Kento Yamada
   description: ''

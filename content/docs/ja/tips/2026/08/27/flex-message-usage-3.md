@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-08-27 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"ja","sidebar":false}
 path: /ja/tips/2026/08/27/flex-message-usage-3
-__hash__: ZGnRPfR7xwK9jPwWPciJjmRenReFXf4iGweMxzmqOYk
+__hash__: N9MAu_yf_CxcLfknKDkZqAFkLtntHyBTo5tTn5MOCuM
 seo:
   title: Flex Messageを使いこなす パート3
   description: >-
@@ -69,9 +69,9 @@ Flex Messageでは、メッセージオブジェクトに`altText`を設定す�
 
 以下は、`altText`がLINEアプリのトークリスト、端末の通知、引用メッセージに表示された例です。
 
-| トークリスト                                                                                                                          | 端末の通知                                                                                                                     | 引用メッセージ                                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![LINEアプリのトークリストに表示されたaltText](/media/tips/2026/flex-message-alt-text-talk-list-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![端末の通知に表示されたaltText](/media/tips/2026/flex-message-alt-text-notification-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![引用メッセージ利用の際に表示されたaltText](/media/tips/2026/flex-message-alt-text-quote-1-ja.png){className="[\"border\",\"w-fix-240\"]"}   ![送信済みの引用メッセージに表示されたaltText](/media/tips/2026/flex-message-alt-text-quote-2-ja.png){className="[\"border\",\"w-fix-240\"]"} |
+| トークリスト                                                                                                                          | 端末の通知                                                                                                                      | 引用メッセージ                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![LINEアプリのトークリストに表示されたaltText](/media/tips/2026/flex-message-alt-text-talk-list-ja.png){className="[\"border\",\"w-fix-240\"]"} | ![端末の通知に表示されたaltText](/media/tips/2026/flex-message-alt-text-notification-ja.webp){className="[\"border\",\"w-fix-240\"]"} | ![引用メッセージ利用の際に表示されたaltText](/media/tips/2026/flex-message-alt-text-quote-1-ja.webp){className="[\"border\",\"w-fix-240\"]"}   ![送信済みの引用メッセージに表示されたaltText](/media/tips/2026/flex-message-alt-text-quote-2-ja.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 ユーザーに対して何かしらの行動を促すFlex Messageで`altText`を書くときは、以下のような情報を含めると、メッセージの内容が伝わりやすくなります。
 

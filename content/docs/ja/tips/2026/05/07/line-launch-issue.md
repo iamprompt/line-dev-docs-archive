@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-05-07 00:00 UTC","tags":"line-login,
   liff","locale":"ja","sidebar":false}
 path: /ja/tips/2026/05/07/line-launch-issue
-__hash__: vhEryR_w4_Ix2UWn9l4cMuEodRcsDkG2tn1jPSov3WE
+__hash__: zE5nGV0DSOUVXr8AU9v7sjLWV96Pm-FKibXuBdLadIM
 seo:
   title: 「LINEで開く」や「LINEでログイン」がうまく動かないときに知っておきたいこと
   description: みなさんはLINEミニアプリを利用した際に「LINEで開く」ボタンを押してもLINEが起動しなかった、といった経験はありませんか？
@@ -21,7 +21,7 @@ seo:
 
 みなさんはLINEミニアプリを利用した際に「LINEで開く」ボタンを押してもLINEが起動しなかった、といった経験はありませんか？
 
-![](/media/tips/2026/line-launch-issue_landingpage-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/tips/2026/line-launch-issue_landingpage-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 また、LINEミニアプリ開発者のみなさんも「Facebookからミニアプリが開けない」という相談を受けたことはないでしょうか。
 

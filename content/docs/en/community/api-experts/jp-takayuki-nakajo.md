@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Takayuki
-  Nakajo","img":"jp-takayuki-nakajo.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Nakajo","img":"jp-takayuki-nakajo.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"Python, JavaScript, Chatbot, WEB site, research,
   Cloud, Unity, Cluster, Google Apps
   Script","git":"https://github.com/TakayukiNJ","fb":"https://www.facebook.com/njn0te","twitter":"https://twitter.com/njn0te"}
 path: /en/community/api-experts/jp-takayuki-nakajo
-__hash__: X1EEA8uEe48e1jHaULulO1AX9d5DJvYCA3amvHyja2s
+__hash__: pfa9hX5aeuPYCjAFXRd1WrXadzkpey3FcygOnuTGhb4
 seo:
   title: LINE API Expert - Takayuki Nakajo
   description: ''

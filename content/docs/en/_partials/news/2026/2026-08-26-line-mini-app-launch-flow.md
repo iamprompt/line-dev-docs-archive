@@ -8,7 +8,7 @@ description: >-
   with the "Channel consent simplification" feature enabled has changed.
 meta: '{"date":"2026-08-26 01:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-08-26-line-mini-app-launch-flow
-__hash__: GRoVoaCq-eOYh4iN6qBRPQyHj2qizq5Qlq7VrVWyBb8
+__hash__: _v9R775oEJRpTTWvYFWMo9TI1Jmk2KqYXC_ZDFb9p78
 seo:
   title: >-
     Users can now open LINE MINI Apps with the "Channel consent simplification"
@@ -22,9 +22,9 @@ As of August 26, 2026, the authorization flow for :glossary-tooltip[[verified MI
 
 Previously, when the "Channel consent simplification" feature was enabled, the simplification consent screen or the loading screen was displayed when users accessed a LINE MINI App for the first time. Now, these screens will no longer be displayed, allowing users to open LINE MINI Apps more smoothly.
 
-| Before change                                                                                                   | After change (current)                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| ![](/media/news/2026/channel-consent-simplification-flow-before-en.png){className="[\"border\",\"w-fix-440\"]"} | ![](/media/news/2026/channel-consent-simplification-flow-after-en.png){className="[\"border\",\"w-fix-300\"]"} |
+| Before change                                                                                                    | After change (current)                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![](/media/news/2026/channel-consent-simplification-flow-before-en.webp){className="[\"border\",\"w-fix-440\"]"} | ![](/media/news/2026/channel-consent-simplification-flow-after-en.webp){className="[\"border\",\"w-fix-300\"]"} |
 
 For more information about the "Channel consent simplification" feature, see [LINE MINI App authorization flow](/docs/line-mini-app/develop/channel-consent-simplification/) in the LINE MINI App documentation.
 

@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Cheng-Lung
-  Sung","img":"tw-cheng-lung-sung.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Sung","img":"tw-cheng-lung-sung.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"C++, Python, Perl, Go, Chatbot, Cloud, NLP, Machine Learning,
   AI","git":"https://github.com/clsung","fb":"","twitter":"https://twitter.com/clsung"}
 path: /en/community/api-experts/tw-cheng-lung-sung
-__hash__: L_h5BUiyLrvoRHsVekikn701UGl4GA0hEegFTHgPXc8
+__hash__: 9a5S2JR2O3r-0Q9HcHn_e2lOqw1UOJWlEHbJ2ly-FC0
 seo:
   title: LINE API Expert - Cheng-Lung Sung
   description: ''

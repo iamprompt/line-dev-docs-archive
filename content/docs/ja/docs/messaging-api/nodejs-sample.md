@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/nodejs-sample
-__hash__: mo36HPinkWiGjLnjH_ElMEEUjEs3xlfD2SXglZIJLdA
+__hash__: 0RKsyTGzIlg6l_hQllQX75leSU6PsRXCW-NEIScZpBE
 seo:
   title: チュートリアル - 応答ボットを作る
   description: null
@@ -18,7 +18,7 @@ Messaging APIは、サービスとLINEユーザーとの間で双方向のコミ
 
 このチュートリアルを最後まで進めると、ユーザーが送信したメッセージに自動的に応答するアプリが作成できます。
 
-![サンプルボットとの会話イメージ](/media/messaging-api/node-js-sample/sample-bot-test.png){className="[\"border\",\"w-fix-320\"]"}
+![サンプルボットとの会話イメージ](/media/messaging-api/node-js-sample/sample-bot-test.webp){className="[\"border\",\"w-fix-320\"]"}
 
 ## 始める前に
 
@@ -357,7 +357,7 @@ git push heroku main
 
 LINEでボットにメッセージを送ってみてください。このようなメッセージが届くはずです。
 
-![サンプルボットとの会話イメージ](/media/messaging-api/node-js-sample/sample-bot-test.png){className="[\"border\",\"w-fix-320\"]"}
+![サンプルボットとの会話イメージ](/media/messaging-api/node-js-sample/sample-bot-test.webp){className="[\"border\",\"w-fix-320\"]"}
 
 ### トラブルシューティング
 

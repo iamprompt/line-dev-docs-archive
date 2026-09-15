@@ -7,7 +7,7 @@ description: >-
   LINE contents from rich menus with the action to open the LINE URL scheme.
 meta: '{}'
 path: /en/_partials/documentation-partials/line-url-scheme/line-url-scheme
-__hash__: iW7vghK5vYLf-hke_4MKqPrURUKUxuY5O_2drAIKj4A
+__hash__: 3ccnHLL5AyrgQly3jIM5XlkVpRcXDaLxhRBaQpWWBkI
 seo:
   description: >-
     You can open Sticker Shop, LIFF app or camera with the LINE URL scheme. The
@@ -92,7 +92,7 @@ You can open the camera or camera roll with the URL scheme only from LINE chats,
 
 ![](/media/messaging-api/using-line-url-scheme/camera-screen.webp){className="[\"border\",\"w-fix-240\"]"}
 
-![](/media/messaging-api/using-line-url-scheme/camera-roll.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/camera-roll.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URL scheme                          | Description                                                                                                                                            |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -112,7 +112,7 @@ type: note
 You can let users view location information with this URL scheme only in one-on-one chats between the user and your LINE Official Account. This URL scheme isn't supported in other chat types, LIFF apps or apps other than LINE.
 ::
 
-![](/media/messaging-api/using-line-url-scheme/location.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/location.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URL scheme                  | Description                                                                                 |
 | -------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ You can let users view location information with this URL scheme only in one-on-
 
 With the LINE URL scheme, you can recommend and encourage users and their friends to add your LINE Official Account.
 
-![](/media/messaging-api/using-line-url-scheme/bot-add-friend-en.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/bot-add-friend-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URL scheme                                                | Description                                                                                                                                      |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -229,7 +229,7 @@ Make sure `{text_message}` is [percent encoded](https://developer.mozilla.org/en
 
 With the LINE URL scheme, you can let users open their "My profile" screen. On this screen, users can update their display name and status message, set their LINE ID and view profile settings.
 
-![](/media/messaging-api/using-line-url-scheme/my-profile.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/my-profile.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URL scheme                     | Description                                                                                                                 |
 | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -277,7 +277,7 @@ With the LINE URL scheme, you can open different settings menu.
 
 With the LINE URL scheme, you can let users open Sticker Shop in LINE to encourage purchase of official and creators' sticker sets.
 
-![](/media/messaging-api/using-line-url-scheme/sticker-shop-categories.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/sticker-shop-categories.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URL scheme                                        | Description                                                                                                                                                                                                    |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -298,7 +298,7 @@ To create your own sticker sets for users, visit [LINE Creators Market](https://
 
 With the LINE URL scheme, you can let user open Theme Shop in LINE to encourage purchase of official and creators' theme.
 
-![](/media/messaging-api/using-line-url-scheme/theme-shop.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/messaging-api/using-line-url-scheme/theme-shop.webp){className="[\"border\",\"w-fix-240\"]"}
 
 | LINE URL scheme                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

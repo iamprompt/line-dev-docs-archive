@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/error-notification
-__hash__: PnmtHPk6K1XoAdw4jJjSugOPObfLXm_GhPPCx2BYmCs
+__hash__: q7R3fDEDhSmf8AANSXBW23TpEGkjXZ3Qz2l-dfcABIY
 seo:
   title: Error notification
   description: null
@@ -111,4 +111,4 @@ You can also check the error information received in the notification email on t
 
 The **Webhook errors** tab is displayed only for channels where **Error statistics aggregation** is enabled on the **Messaging API** tab. For more information, see [Enable error statistics](/docs/messaging-api/check-webhook-error-statistics/#enable-error-statistics).
 
-![Error statistics aggregation](/media/messaging-api/receiving-messages/error-statistics-en.png){className="[\"border\"]"}
+![Error statistics aggregation](/media/messaging-api/receiving-messages/error-statistics-en.webp){className="[\"border\"]"}

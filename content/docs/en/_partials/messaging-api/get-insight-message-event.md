@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-insight-message-event
-__hash__: M_JZ-O1TCsNOND-pAcs1Phymv7xNP54hXSqY9tBTmgI
+__hash__: RMSunC87aQ8L2vB7wc5xMKD5PMyMlsz3Y4ZqbhFtAfI
 seo:
   description: ''
 ---
@@ -17,7 +17,7 @@ seo:
 
   You can get statistics per message or per bubble.
 
-  ![message and bubbles](/media/messaging-api/get-message-event.png){className="[\"border\"]"}
+  ![message and bubbles](/media/messaging-api/get-message-event.webp){className="[\"border\"]"}
 
     ::::admonition{title="On the recorded statistics recorded" type="note"}
     Statistics are updated for only 14 days (1,209,600 seconds) from the time a message was sent. After that time, statistics aren't updated.

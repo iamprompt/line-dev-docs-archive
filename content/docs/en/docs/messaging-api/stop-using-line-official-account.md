@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/stop-using-line-official-account
-__hash__: OjvYzvTKlyQSyaBIujs4bHkfKxLR87xgykele2KV5P4
+__hash__: BRkNLR6ROCycBYQA_gjtUmfBwqHztp_FQgZ8uKNn3LA
 seo:
   title: Stop using your LINE Official Account
   description: null
@@ -21,11 +21,11 @@ To stop using your LINE Official Account linked to a Messaging API channel, foll
 1. Select the Messaging API channel you want to delete on the [LINE Developers Console](/console/).
 2. The **Basic settings** tab will appear. Click **Delete** in the "Delete this channel" section.
 
-![](/media/messaging-api/stop-using-line-official-account/delete-this-channel-en.png){className="[\"border\",\"w-fix-720\"]"}
+![](/media/messaging-api/stop-using-line-official-account/delete-this-channel-en.webp){className="[\"border\",\"w-fix-720\"]"}
 
 1. The "Delete this channel?" modal will appear. Click **Go to LINE Official Account Manager**.
 
-![](/media/messaging-api/stop-using-line-official-account/display-line-official-account-manager-en.png){className="[\"border\",\"w-fix-720\"]"}
+![](/media/messaging-api/stop-using-line-official-account/display-line-official-account-manager-en.webp){className="[\"border\",\"w-fix-720\"]"}
 
 1. The LINE Official Account Manager will open in new tab and the "Delete LINE official account" screen will appear. The following steps will be performed on the LINE Official Account Manager. Check **I agree to the above and wish to permanently delete my LINE official account** and click **Delete account**.
 

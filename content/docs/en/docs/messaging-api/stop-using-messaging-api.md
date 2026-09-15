@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/stop-using-messaging-api
-__hash__: QFiWKOY4yctfi2TTod2CccWEgfJ3bHumODv2MdM079w
+__hash__: D4rPDrX4bG_OtwrHwvdbZmDm0UyL7ym_RbVbmPJhX9U
 seo:
   title: Stop using the Messaging API
   description: null
@@ -24,7 +24,7 @@ If you want to continue using your LINE Official Account linked to a Messaging A
 2. Click the **Messaging API** tab.
 3. Disable the **Use webhook** in the **Webhook settings** section.
 
-![Use webhook in the Webhook settings section](/media/messaging-api/stop-using-messaging-api/disable-use-webhook-en.png){className="[\"border\",\"w-fix-720\"]"}
+![Use webhook in the Webhook settings section](/media/messaging-api/stop-using-messaging-api/disable-use-webhook-en.webp){className="[\"border\",\"w-fix-720\"]"}
 
 ## Revoke channel access tokens
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/send-coupons-to-users
-__hash__: Lkam_MGDo_1WivvwtPLa-cb6kRmcapMT00-KUlR0_6Y
+__hash__: OWXIT4gUx5V9CXvC6GoB4Pwjp_K3XodTRlmYWaz01-E
 seo:
   title: クーポンを作成してユーザーに送る
   description: null
@@ -108,7 +108,7 @@ curl -v -X POST https://api.line.me/v2/bot/message/broadcast \
 
 ユーザーは届いたクーポンを開いて獲得することで、有効期間内にクーポンを使用できます。
 
-![](/media/messaging-api/coupon/coupon-message-ja.jpg){className="[\"w-fix-360\"]"}
+![](/media/messaging-api/coupon/coupon-message-ja.webp){className="[\"w-fix-360\"]"}
 
 ## クーポンを終了する
 
@@ -207,7 +207,7 @@ Messaging APIで作成したクーポンだけでなく、LINE Official Account 
 
 クーポンの画像は、クーポンの作成時に`imageUrl`で画像のURLを指定することで表示できます。正方形の画像を指定した場合、トーク画面ではアスペクト比が1.51:1（幅：高さ）になるため、画像の上下が一部切れた状態で表示されます。
 
-![](/media/messaging-api/coupon/how-images-look.jpg)
+![](/media/messaging-api/coupon/how-images-look.webp)
 
 ::admonition{title="クーポンの画像はどうやって作ればいい？" type="tip"}
 クーポンの画像は『LINEヤフーマーケティングキャンパス』の「[無料でもらえるテンプレート画像まとめ](https://lymcampus.jp/line-official-account/courses/template/lessons/6-1-1){rel="[\"nofollow\"]"}」や、[LINE Creative Lab](https://creativelab.line.biz/){rel="[\"nofollow\"]"}のテンプレートを利用することもできます。

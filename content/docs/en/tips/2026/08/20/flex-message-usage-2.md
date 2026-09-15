@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-08-20 00:00 UTC","tags":"messaging-api,
   flex-message","locale":"en","sidebar":false}
 path: /en/tips/2026/08/20/flex-message-usage-2
-__hash__: DRvzbBKxYSQZ-g2lyxk12V4AJX6bfAg8Ouz_awoqihk
+__hash__: A9iLOaMWcXPtVLkzEUqJP5hDW16MjYAZA9TtY6fpkI8
 seo:
   title: Mastering Flex Messages, part 2
   description: >-
@@ -56,9 +56,9 @@ Set `wrap` to `true` in a [text component](/docs/messaging-api/flex-message-elem
 
 These examples show different line breaks in the same Flex Message with `maxLines: 2`.
 
-| iOS device with a wide screen                                                                                                                        | iOS device with a narrow screen                                                                                                                          | Flex Message Simulator                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Flex Message on an iOS device with a wide screen](/media/tips/2026/flex-message-max-lines-ios-wide-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message on an iOS device with a narrow screen](/media/tips/2026/flex-message-max-lines-ios-narrow-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message in the Flex Message Simulator](/media/tips/2026/flex-message-max-lines-simulator-en.png){className="[\"border\",\"w-fix-240\"]"} |
+| iOS device with a wide screen                                                                                                                         | iOS device with a narrow screen                                                                                                                           | Flex Message Simulator                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Flex Message on an iOS device with a wide screen](/media/tips/2026/flex-message-max-lines-ios-wide-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message on an iOS device with a narrow screen](/media/tips/2026/flex-message-max-lines-ios-narrow-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message in the Flex Message Simulator](/media/tips/2026/flex-message-max-lines-simulator-en.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 ```json
 {
@@ -225,10 +225,10 @@ Content that extends beyond the parent box may not appear. Set `flex: 0` for chi
 
 These examples compare a child box that uses `flex: 0` with one that uses `flex: 1` and contains text with `wrap: true`.
 
-| `flex: 0`                                                                                                                                                                          | `flex: 1` and `wrap: true`                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Example where the box hides content beyond its width when you use flex 0](/media/tips/2026/flex-message-horizontal-layout-flex-0-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Example where text wraps when you use flex 1 and wrap true](/media/tips/2026/flex-message-horizontal-layout-flex-1-wrap-en.png){className="[\"border\",\"w-fix-240\"]"} |
-| The store information takes the width it needs. The end of the store name and the **2 guests** box don't appear.                                                                   | The store name and address wrap within the remaining width. All information appears.                                                                                      |
+| `flex: 0`                                                                                                                                                                           | `flex: 1` and `wrap: true`                                                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Example where the box hides content beyond its width when you use flex 0](/media/tips/2026/flex-message-horizontal-layout-flex-0-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![Example where text wraps when you use flex 1 and wrap true](/media/tips/2026/flex-message-horizontal-layout-flex-1-wrap-en.webp){className="[\"border\",\"w-fix-240\"]"} |
+| The store information takes the width it needs. The end of the store name and the **2 guests** box don't appear.                                                                    | The store name and address wrap within the remaining width. All information appears.                                                                                       |
 
 This JSON defines the `flex: 0` example on the left. To create the example on the right, change the `flex` property of the box that contains the store information to `1`.
 
@@ -397,9 +397,9 @@ This JSON defines the `flex: 0` example on the left. To create the example on th
 
 These examples show the same Flex Message on iOS devices with different screen widths and in the Flex Message Simulator.
 
-| iOS device with a wide screen                                                                                                                                     | iOS device with a narrow screen                                                                                                                                       | Flex Message Simulator                                                                                                                                       |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Horizontal layout on an iOS device with a wide screen](/media/tips/2026/flex-message-horizontal-layout-ios-wide-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Horizontal layout on an iOS device with a narrow screen](/media/tips/2026/flex-message-horizontal-layout-ios-narrow-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Horizontal layout in the Flex Message Simulator](/media/tips/2026/flex-message-horizontal-layout-simulator-en.png){className="[\"border\",\"w-fix-240\"]"} |
+| iOS device with a wide screen                                                                                                                                      | iOS device with a narrow screen                                                                                                                                        | Flex Message Simulator                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Horizontal layout on an iOS device with a wide screen](/media/tips/2026/flex-message-horizontal-layout-ios-wide-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![Horizontal layout on an iOS device with a narrow screen](/media/tips/2026/flex-message-horizontal-layout-ios-narrow-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![Horizontal layout in the Flex Message Simulator](/media/tips/2026/flex-message-horizontal-layout-simulator-en.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 ```json
 {
@@ -579,9 +579,9 @@ You can set the [`adjustMode` property](/docs/messaging-api/flex-message-layout/
 
 These examples show components with different `scaling` values. They use **Extra large** for the font size in the LINE app for iOS. Both buttons use `adjustMode: shrink-to-fit`.
 
-| `scaling: true`                                                                                                                        | `scaling: false`                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Flex Message that uses scaling true](/media/tips/2026/flex-message-font-scaling-true-en.png){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message that uses scaling false](/media/tips/2026/flex-message-font-scaling-false-en.png){className="[\"border\",\"w-fix-240\"]"} |
+| `scaling: true`                                                                                                                         | `scaling: false`                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Flex Message that uses scaling true](/media/tips/2026/flex-message-font-scaling-true-en.webp){className="[\"border\",\"w-fix-240\"]"} | ![Flex Message that uses scaling false](/media/tips/2026/flex-message-font-scaling-false-en.webp){className="[\"border\",\"w-fix-240\"]"} |
 
 Set `scaling` to `true` and design the layout so that important information remains readable when the font size changes. Don't set `scaling` to `false` just to prevent layout changes.
 

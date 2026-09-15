@@ -6,7 +6,7 @@ description: >-
   LINE Login v2.1 more secure.
 meta: '{"date":"2021-04-09 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2021/2021-04-09-line-login-pkce-support
-__hash__: 9JMWN7s7kEFa9vZGaY5sYjg4EemIvifw2fkAhRMl7HA
+__hash__: p-Vs8X1AGkNHUSFmEgV-zTZpKHA_Yley9W-V3vvTvuA
 seo:
   title: LINE Login now supports PKCE
   description: >-
@@ -33,7 +33,7 @@ The behavior against authorization code interception attacks differs depending o
 ::admonition{title="Another benefit of implementing PKCE" type="tip"}
 If you access a web app that incorporates PKCE-implemented LINE Login from the [Yahoo! JAPAN app](https://promo-mobile.yahoo.co.jp/yjapp/){rel="[\"nofollow\"]"}, the [auto login](/docs/line-login/integrate-line-login/#line-auto-login) function that lets you skip the login process using your email address and password will be enabled.
 
-![Auto login from the Yahoo! JAPAN app](/media/line-login/yja-to-line-login-en.png){className="[\"w-fix-680\"]"}
+![Auto login from the Yahoo! JAPAN app](/media/line-login/yja-to-line-login-en.webp){className="[\"w-fix-680\"]"}
 ::
 
 For more information on how to implement PKCE, see [Implement PKCE for LINE Login](/docs/line-login/integrate-pkce/#how-to-integrate-pkce) in the LINE Login documentation.

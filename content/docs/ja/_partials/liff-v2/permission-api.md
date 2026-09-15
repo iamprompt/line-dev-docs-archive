@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/permission-api
-__hash__: gSyOT-cO1brhyTlo8ZDdBavaqmgZriPl95-s9Mx2yGk
+__hash__: vBnaZXudoF3y4dJfDB_svqEmx5cCIbVK1Jrag886cxI
 seo:
   description: ''
 ---
@@ -142,7 +142,7 @@ liff.permission.query(permission);
 
 LINEミニアプリが要求する権限の「アクセス許可要求画面」を表示します。
 
-![アクセス許可要求画面](/media/line-mini-app/verification-screen-ja.png){className="[\"border\",\"w-fix-200\"]"}
+![アクセス許可要求画面](/media/line-mini-app/verification-screen-ja.webp){className="[\"border\",\"w-fix-200\"]"}
 
 ::reference-with-code
   :::reference-content

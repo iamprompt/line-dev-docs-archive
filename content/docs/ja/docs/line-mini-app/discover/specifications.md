@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/specifications
-__hash__: XeDdI9G8Q8gTqncHrH_aDElUXOgWxdbUH6oRL4PRWKQ
+__hash__: RWt7hVnslgqLdhm0CWK-XmzZPvtcySiX7W-iNE-cnBg
 seo:
   title: LINEミニアプリの仕様
   description: null
@@ -49,7 +49,7 @@ LINEミニアプリは、[LIFF](/docs/liff/overview/)を使用して開発しま
 
 LINE未使用ユーザー、もしくは[ディープリンク](https://en.wikipedia.org/wiki/Mobile_deep_linking){rel="[\"nofollow\"]"}が動作しない状況にあるLINEユーザーが、:glossary-tooltip[[外部ブラウザ](/glossary/#external-browser)]{glossary-id="external-browser"}でLINEミニアプリを開くと、以下の図のようなページが表示され、LINEミニアプリをスマートフォン版LINE（:glossary-tooltip[[LIFFブラウザ](/glossary/#liff-browser)]{glossary-id="liff-browser"}）で開くように案内されます。ページ内の［**ウェブブラウザで開く**］をタップすると、LIFFのエンドポイントURLのページがウェブブラウザで表示されます。
 
-![](/media/line-mini-app/landing-page-ja.png){className="[\"w-fix-640\"]"}
+![](/media/line-mini-app/landing-page-ja.webp){className="[\"w-fix-640\"]"}
 
 ## LIFFの対応バージョン
 

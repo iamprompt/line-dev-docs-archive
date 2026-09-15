@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/message-types
-__hash__: Uk1xzh1vNHLkWsRVfTh_dfMFWytd_a892MK4Rp4lnGQ
+__hash__: qZAY5IzF4UUiK-z2e3wS5xBVKWznWKuM4yyF7ziVUhw
 seo:
   title: メッセージタイプ
   description: null
@@ -60,7 +60,7 @@ seo:
 
 ユーザーがプレビュー用の画像をタップすると、以下のようにオリジナルの画像が表示されます。URLのプロトコルがHTTPS（TLS 1.2以降）であることを確認してください。詳しくは、『Messaging APIリファレンス』の「[画像メッセージ](/reference/messaging-api/#image-message)」を参照してください。
 
-![画像メッセージ](/media/messaging-api/messages/image.png){className="[\"border\",\"w-fix-240\"]"} ![フルサイズの画像メッセージ](/media/messaging-api/messages/image-full.png){className="[\"border\",\"w-fix-240\"]"}
+![画像メッセージ](/media/messaging-api/messages/image.png){className="[\"border\",\"w-fix-240\"]"} ![フルサイズの画像メッセージ](/media/messaging-api/messages/image-full.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## 動画メッセージ
 
@@ -82,7 +82,7 @@ URLのプロトコルがHTTPS（TLS 1.2以降）であることを確認して�
 
 位置情報メッセージは、ユーザーに位置情報を送信するメッセージです。[メッセージオブジェクト](/reference/messaging-api/#message-objects)にタイトルと住所、緯度と経度の座標を指定します。詳しくは、『Messaging APIリファレンス』の「[位置情報メッセージ](/reference/messaging-api/#location-message)」を参照してください。
 
-![位置情報メッセージ](/media/messaging-api/messages/location-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![位置情報メッセージ](/media/messaging-api/messages/location-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## クーポンメッセージ
 
@@ -96,7 +96,7 @@ URLのプロトコルがHTTPS（TLS 1.2以降）であることを確認して�
 
 イメージマップメッセージは、複数のタップ可能な領域を設定した画像を送信するメッセージです。タップ可能な領域を設定して、ウェブページを開いたり、ユーザーに代わってメッセージを送信したりできます。また、画像の上で動画を再生し、再生が終わるとリンクテキストを表示するように設定することもできます。詳しくは、『Messaging APIリファレンス』の「[イメージマップメッセージ](/reference/messaging-api/#imagemap-message)」を参照してください。
 
-![イメージマップメッセージ](/media/messaging-api/messages/imagemap.png){className="[\"border\",\"w-fix-240\"]"}
+![イメージマップメッセージ](/media/messaging-api/messages/imagemap.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## テンプレートメッセージ
 
@@ -141,7 +141,7 @@ URLのプロトコルがHTTPS（TLS 1.2以降）であることを確認して�
 
 Flex Messageはレイアウトをカスタマイズできるメッセージです。[CSS Flexible Box（CSS Flexbox）](https://www.w3.org/TR/css-flexbox-1/){rel="[\"nofollow\"]"}の仕様の範囲内でレイアウトをカスタマイズできます。詳しくは、「[Flex Messageを送信する](/docs/messaging-api/using-flex-messages/)」と『Messaging APIリファレンス』の「[Flex Message](/reference/messaging-api/#flex-message)」を参照してください。
 
-![Flex Messageのサンプル](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.png)
+![Flex Messageのサンプル](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.webp)
 
 ## メッセージタイプ共通機能
 

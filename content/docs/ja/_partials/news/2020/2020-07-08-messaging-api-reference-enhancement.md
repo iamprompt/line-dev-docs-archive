@@ -8,7 +8,7 @@ description: >-
   そのため開発者の皆さんからは、「スクロールしているうちに、どこを見ていたのか分からなくなってしまう」「ページが長すぎて見にくい」といったお声をいただいていました。
 meta: '{"date":"2020-07-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-08-messaging-api-reference-enhancement
-__hash__: snxluE7xtkJxqpIpBhB-4nr-L6OTSKyf3RjQQeC9V18
+__hash__: HNqzugVs4_ihT2f3j62cWz60PmaRqhMgV2vk7JpxdSA
 seo:
   title: Messaging APIリファレンスとサイドメニューを改善しました
   description: >-
@@ -43,7 +43,7 @@ LINE Developersサイトの[Messaging APIリファレンス](/reference/messagin
 
 いままではブラウザのページ内検索を使ってエンドポイントを探していた、という開発者の方は、今後は検索機能をご利用ください。エンドポイントをタイトル検索や全文検索で探せます。
 
-![検索でエンドポイントを探せます](/media/news/messaging-api-rich-menu-search.png){className="[\"border\",\"w-fix-240\"]"}
+![検索でエンドポイントを探せます](/media/news/messaging-api-rich-menu-search.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### LINE Developersサイトについてご意見をお聞かせください
 

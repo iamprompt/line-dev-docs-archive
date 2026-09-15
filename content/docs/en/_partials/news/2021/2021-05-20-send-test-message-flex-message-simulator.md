@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-05-20 00:00 UTC","tags":"Flex Message Simulator, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-05-20-send-test-message-flex-message-simulator
-__hash__: 7sygxivuY732fW78ZCNM4tZ4foAVkCZEptSrZx71XKY
+__hash__: FRXx4urVSTBam3CXjiGBR3j2WfWInorwGqlC5Lyxvak
 seo:
   title: You can now send test messages from Flex Message Simulator
   description: >-
@@ -44,7 +44,7 @@ You also need to be friends with the [Flex Message Simulator Official Account](h
 
 To send a test Flex Message to this account, select the account and click the **Send** button. You should receive a sample Flex Message and a message indicating that it's a sample message in your LINE Account.
 
-![Test Flex Message](/media/news/fms-test-message-en.png){className="[\"border\",\"w-fix-360\"]"}
+![Test Flex Message](/media/news/fms-test-message-en.webp){className="[\"border\",\"w-fix-360\"]"}
 
 You can also add alternative destinations by clicking **Register destination** in the popup.
 

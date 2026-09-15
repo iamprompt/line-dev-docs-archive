@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/docs/partner-docs/line-notification-messages/template
-__hash__: oryGzZjzCkh26jDem-0sMeiQc9BKoirg8Vha6fNNwaA
+__hash__: pjKMfHX7UdPLnRes-wMFh-7J6_MybfAz_Xof1lACZGo
 seo:
   title: LINE通知メッセージ（テンプレート）
   description: ''
@@ -26,7 +26,7 @@ LINE通知メッセージ（テンプレート）は日本、タイ、台湾のL
 
 使用できるテンプレート、アイテム、およびボタンの種類は日本、タイ、台湾ごとに異なり、送信元のLINE公式アカウントによって自動で決まります。メッセージのヘッダーとフッターは変更できません。
 
-![LINE通知メッセージ（テンプレート）のサンプル](/media/line-notification-message/notification-messages-template.png){className="[\"border\",\"w-fix-480\"]"}
+![LINE通知メッセージ（テンプレート）のサンプル](/media/line-notification-message/notification-messages-template.webp){className="[\"border\",\"w-fix-480\"]"}
 
 たとえば上記のメッセージは、次のようなJSONを作成することで送信できます。
 
@@ -77,18 +77,18 @@ LINE通知メッセージ（テンプレート）は日本、タイ、台湾のL
 
 テンプレートのキー（`Key`）を指定してLINE通知メッセージ（テンプレート）を送ることで、対象テンプレートのタイトル（`Title`）と概要（`Description`）がメッセージ上部に表示されます。
 
-![](/media/line-notification-message/notification-messages-template-templates.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/line-notification-message/notification-messages-template-templates.webp){className="[\"border\",\"w-fix-480\"]"}
 
 :templates{src="templates"}## アイテム
 
 アイテムのキー（`Key`）を指定することで、テンプレート内に複数のアイテムを含めることができます。アイテムには、値として任意の文字列を設定できます。
 
-![](/media/line-notification-message/notification-messages-template-items.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/line-notification-message/notification-messages-template-items.webp){className="[\"border\",\"w-fix-480\"]"}
 
 :templates{src="items"}## ボタン
 
 ボタンのキー（`Key`）を指定することで、テンプレート内に複数のボタンを含めることができます。ボタンの遷移先として任意のURLを設定できます。
 
-![](/media/line-notification-message/notification-messages-template-buttons.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/line-notification-message/notification-messages-template-buttons.webp){className="[\"border\",\"w-fix-480\"]"}
 
 :templates{src="buttons"}

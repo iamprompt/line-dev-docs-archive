@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/introduction
-__hash__: nB9r5eshzRe6qDPj15OaYx4QICsYtjlDLz20iFmpN9s
+__hash__: DyvU-zHS6JQkTSgVmccpCwpKa26k_HpXReS6D2LiF38
 seo:
   title: LINEミニアプリとは
   description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
@@ -73,7 +73,7 @@ LINEミニアプリは、弊社による認証審査に通過しているかど�
 
 LINEミニアプリのページは、（A）ヘッダーおよび（B）ボディで構成されています。詳しくは、「[LINEミニアプリの構造](/docs/line-mini-app/discover/ui-components/)」を参照してください。
 
-![LINEミニアプリの構造](/media/line-mini-app/mini_concept.png){className="[\"w-fix-280\"]"}
+![LINEミニアプリの構造](/media/line-mini-app/mini_concept.webp){className="[\"w-fix-280\"]"}
 
 ## ユーザーがLINEミニアプリにアクセスする方法
 
@@ -92,7 +92,7 @@ LINEミニアプリのページは、（A）ヘッダーおよび（B）ボデ�
 
 LINE公式アカウントからもLINEミニアプリにアクセスできます。たとえば、LINE公式アカウントの友だちに送信するリッチメッセージや、LINE公式アカウントとのトーク画面に表示されるリッチメニューに、LINEミニアプリを開くリンクを追加できます。詳しくは、[LINE公式アカウントを活用する](/docs/line-mini-app/service/line-mini-app-oa/)を参照してください。
 
-![LINE公式アカウントでLINEミニアプリのプロモーションができる](/media/line-mini-app/mini_with_oa.png){className="[\"w-fix-280\"]"}
+![LINE公式アカウントでLINEミニアプリのプロモーションができる](/media/line-mini-app/mini_with_oa.webp){className="[\"w-fix-280\"]"}
 
 ### ホームタブ
 
@@ -116,7 +116,7 @@ LINEの検索機能からも、LINEミニアプリにアクセスできます。
 
 友だち同士で、LINEミニアプリを簡単にシェアできます。[ビルトインのアクションボタン](/docs/line-mini-app/discover/builtin-features/#action-button)を使用するだけでなく、[カスタムアクションボタン](/docs/line-mini-app/develop/share-messages/)を使用して、LINEミニアプリのページをLINEメッセージでシェアできます。
 
-![シェアメッセージ](/media/line-mini-app/mini_access_share.png){className="[\"w-fix-280\"]"}
+![シェアメッセージ](/media/line-mini-app/mini_access_share.webp){className="[\"w-fix-280\"]"}
 
 ## LIFFアプリでできてLINEミニアプリでできないこと
 

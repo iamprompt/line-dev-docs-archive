@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Supakarn
-  Laorattanakul","img":"th-supakarn-laorattanakul.png","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
+  Laorattanakul","img":"th-supakarn-laorattanakul.webp","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE MINI App, LINE Login, LIFF","skills":"Java, C, Python, Node.js,
   Javascript, SQL, Chatbot, WEBSite, SaaS, Cloud, Database,
   UI/UX","git":"https://github.com/iamprompt","fb":"https://www.facebook.com/wearedprompt","twitter":"https://twitter.com/iamprompt"}
 path: /en/community/api-experts/th-supakarn-laorattanakul
-__hash__: H-yPAiQ1R8-pQ0W6Ix7ZIQcFZL2veLIlNk2G1AM5TNc
+__hash__: 816mNVneYpCJcnhzKrtmnPclPpIr1yPH4eclIjuWJQw
 seo:
   title: LINE API Expert - Supakarn Laorattanakul
   description: ''

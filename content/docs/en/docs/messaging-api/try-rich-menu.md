@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/try-rich-menu
-__hash__: GyZdTOdSWZzImyo59NvOnIQlTeR1ESB8WRXVSKQAirk
+__hash__: m-Rg2jQ-aEWDcFIEqtt0bI9h8lXdPAIfipGbgBxBIyI
 seo:
   title: Play with rich menus
   description: null
@@ -43,7 +43,7 @@ The rich menus of Rich Menu Playground have four main components:
 3. Action button: Triggers the action set on the button. If an action requires parameters, a parameter gets a button each for you to try.
 4. Help button: Opens the document for the target action.
 
-![Main Menu](/media/messaging-api/rich-menu-playground/menu-descriptions.png){className="[\"w-fix-320\"]"}
+![Main Menu](/media/messaging-api/rich-menu-playground/menu-descriptions.webp){className="[\"w-fix-320\"]"}
 
 ### Action detail
 
@@ -67,7 +67,7 @@ With Rich Menu Playground you can test:
 
 This tab lets you trigger a [message action](/reference/messaging-api/#message-action) to send a message from the rich menu.
 
-![Try Message Action](/media/messaging-api/rich-menu-playground/01-message-action-ja.png){className="[\"w-fix-320\"]"}
+![Try Message Action](/media/messaging-api/rich-menu-playground/01-message-action-ja.webp){className="[\"w-fix-320\"]"}
 
 ::admonition{title="Message action" type="tip"}
 When a user sends a message through the rich menu in a chat with your LINE Official Account, the LINE Platform sends a corresponding [message event](/reference/messaging-api/#message-event) to your bot server. Your bot server can then send a [reply message](/reference/messaging-api/#send-reply-message) with the reply token returned through the message event.
@@ -81,7 +81,7 @@ When a user sends a message through the rich menu in a chat with your LINE Offic
 
 This tab lets you trigger a [postback action](/reference/messaging-api/#postback-action) from the rich menu. When you trigger this action, the LINE Platform sends the bot server a [postback event](/reference/messaging-api/#postback-event) with the string specified in the `data` property of the postback action object.
 
-![Try Postback Action (1)](/media/messaging-api/rich-menu-playground/02-postback-action-ja.png){className="[\"w-fix-320\"]"}
+![Try Postback Action (1)](/media/messaging-api/rich-menu-playground/02-postback-action-ja.webp){className="[\"w-fix-320\"]"}
 
 ::admonition{title="Postback action" type="tip"}
 When a user taps on a rich menu with a [postback action](/reference/messaging-api/#postback-action), the LINE Platform sends a [postback event](/reference/messaging-api/#postback-event) to your bot server. This postback event has the string you specify in the `data` property of the postback action.
@@ -102,7 +102,7 @@ To show text in a chat as a message from the user when a postback action is trig
 
 In this tab you can try the [postback actions](/reference/messaging-api/#postback-action) of opening and closing the rich menu. When the postback action is executed, a [postback event](/reference/messaging-api/#postback-event) containing the string specified in the `data` property is sent from the LINE Platform to the bot server.
 
-![Try Postback Action (2)](/media/messaging-api/rich-menu-playground/02-2-postback-action-ja.png){className="[\"w-fix-320\"]"}
+![Try Postback Action (2)](/media/messaging-api/rich-menu-playground/02-2-postback-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | Button label    | Action                                                           | Action object                                                                                |
 | --------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -113,7 +113,7 @@ In this tab you can try the [postback actions](/reference/messaging-api/#postbac
 
 In this tab, you can try out the rich menu with [postback actions](/reference/messaging-api/#postback-action) set to open keyboard and voice message input modes. Once the postback action is executed, a [postback event](/reference/messaging-api/#postback-event) containing the string specified in the `data` property is sent from the LINE Platform to the bot server.
 
-![Try Postback Action (3)](/media/messaging-api/rich-menu-playground/02-3-postback-action-ja.png){className="[\"w-fix-320\"]"}
+![Try Postback Action (3)](/media/messaging-api/rich-menu-playground/02-3-postback-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | Button label                  | Action                                                                           | Action object                                                                                                                                         |
 | ----------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,7 +125,7 @@ In this tab, you can try out the rich menu with [postback actions](/reference/me
 
 In this tab, you can trigger a [URI action](/reference/messaging-api/#uri-action) from the rich menu. When you trigger this action, the `uri` set for the action is opened in a web browser.
 
-![Try URI action](/media/messaging-api/rich-menu-playground/03-uri-action-ja.png){className="[\"w-fix-320\"]"}
+![Try URI action](/media/messaging-api/rich-menu-playground/03-uri-action-ja.webp){className="[\"w-fix-320\"]"}
 
 | Button label                               | Action                                                                                                                                                 | Action object                                                                                                                            |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |

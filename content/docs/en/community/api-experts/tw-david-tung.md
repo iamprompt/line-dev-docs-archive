@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"David
-  Tung","img":"tw-david-tung.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Tung","img":"tw-david-tung.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"C#, JavaScript, Chatbot, Website, EC, SaaS,
   Cloud","git":"https://github.com/isdaviddong","fb":"https://www.facebook.com/DotNetWalker","twitter":""}
 path: /en/community/api-experts/tw-david-tung
-__hash__: mHZCb2EMKP_KjQMewgFbggn9sE3ZbaUkBaEd99cDdiw
+__hash__: xiWp5MgXYv_a-3yBBQ6vHmeVtei6uWB_pOi28z91NxU
 seo:
   title: LINE API Expert - David Tung
   description: ''

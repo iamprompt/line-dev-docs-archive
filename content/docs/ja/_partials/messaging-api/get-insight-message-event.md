@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-insight-message-event
-__hash__: oTVbXiWPcUPqi0w6moGPdD7i3B7vSRzSJabRxzNBMF4
+__hash__: YFhqN3IbvdGVi0pIJkU4SDoa3SnXuv8zT-NUAptSD00
 seo:
   description: ''
 ---
@@ -17,7 +17,7 @@ seo:
 
   1メッセージ（message）単位、および1吹き出し（bubble）単位で統計情報を取得できます。
 
-  ![message and bubbles](/media/messaging-api/get-message-event.png){className="[\"border\"]"}
+  ![message and bubbles](/media/messaging-api/get-message-event.webp){className="[\"border\"]"}
 
     ::::admonition{title="記録される統計情報について" type="note"}
     統計情報は、メッセージの送信時刻から14日間（1,209,600秒間）のみ更新されます。それ以降は更新されません。

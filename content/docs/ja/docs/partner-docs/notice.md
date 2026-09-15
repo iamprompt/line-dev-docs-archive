@@ -5,7 +5,7 @@ description: 法人ユーザー向けのお知らせです。ニュースもあ�
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /ja/docs/partner-docs/notice
-__hash__: _9hvoridLw-wBv_OSV2Aj7FruWEQeZHmVnB77sJD-UA
+__hash__: lp1OstUC6la71PU-xTUI0p-QY2ia4B7gHjEzGJ0nlmI
 seo:
   title: 法人ユーザー向けのお知らせ
   description: 法人ユーザー向けのお知らせです。ニュースもあわせてご参照ください。
@@ -45,7 +45,7 @@ seo:
 
 LINE通知メッセージは、通常のメッセージと区別できるようLINE公式アカウントのアイコンの右側に「重要なお知らせ」と表示されるようになりました。
 
-![LINE通知メッセージはアイコンの右側に「重要なお知らせ」と表示される](/media/line-notification-message/notification-messages-important-ja.jpg){className="[\"border\",\"w-fix-320\"]"}
+![LINE通知メッセージはアイコンの右側に「重要なお知らせ」と表示される](/media/line-notification-message/notification-messages-important-ja.webp){className="[\"border\",\"w-fix-320\"]"}
 
 詳しくは、『LINE通知メッセージドキュメント』の「[LINE通知メッセージ以外のメッセージとの見た目の差異](/docs/partner-docs/line-notification-messages/overview/#difference-from-other-messages)」を参照してください。
 

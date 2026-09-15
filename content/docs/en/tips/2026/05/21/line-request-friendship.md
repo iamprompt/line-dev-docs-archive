@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-05-21 00:00 UTC","tags":"liff,
   line-mini-app","locale":"en","sidebar":false}
 path: /en/tips/2026/05/21/line-request-friendship
-__hash__: tym_FDAmh-CALY0WRQtIqXggTyd1M1OdSW-OU7mOed4
+__hash__: Jd6ELPvvpACnyrWSmp2ax-xSR_DY4o49TIeqBDlRFMQ
 seo:
   title: >-
     Use the liff.requestFriendship() method to naturally prompt users to add
@@ -43,9 +43,9 @@ The `liff.requestFriendship()` method displays a subwindow that prompts the user
 
 The following images show how it works:
 
-| Not added                                                                             | Blocked                                                                                   | Added                                                                                |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![](/media/tips/2026/tips-request-friendship-add-en.gif){className="[\"w-fix-240\"]"} | ![](/media/tips/2026/tips-request-friendship-unblock-en.gif){className="[\"w-fix-240\"]"} | ![](/media/tips/2026/tips-request-friendship-added.gif){className="[\"w-fix-240\"]"} |
+| Not added                                                                                        | Blocked                                                                                    | Added                                                                                 |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| ![](/media/tips/2026/tips-request-friendship-add-en-animation.webp){className="[\"w-fix-240\"]"} | ![](/media/tips/2026/tips-request-friendship-unblock-en.webp){className="[\"w-fix-240\"]"} | ![](/media/tips/2026/tips-request-friendship-added.webp){className="[\"w-fix-240\"]"} |
 
 Note that the `liff.requestFriendship()` method is available only when the LIFF browser screen size is `Full`. For more information, see [Size of the LIFF browser](/docs/liff/overview/#screen-size) in the LIFF documentation.
 
@@ -99,7 +99,7 @@ The third reason I like it is that the design fits naturally into use cases wher
 
 It has a simple and intuitive design that fits naturally into use cases centered around adding the account as a friend, such as delivering coupons, sending reminder notifications, and providing member-only information.
 
-![](/media/tips/2026/tips-request-friendship-add-en.png){className="[\"border\",\"w-fix-240\"]"}
+![](/media/tips/2026/tips-request-friendship-add-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 For example, after showing guidance such as "Add this LINE Official Account as a friend to receive the benefit," you can display the subwindow to make the required flow easy for users to understand.
 

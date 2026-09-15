@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login/integrate-line-login
-__hash__: Tr5SsigCD4U32XFYalhb-nAkku8inV7GbEw6DxU-HE0
+__hash__: mv10nLm6Ih-we50pQC-ygaWtBQAX4bbSXPsgKRb1kJI
 seo:
   title: ウェブアプリにLINEログインを組み込む
   description: null
@@ -158,7 +158,7 @@ LINEログインを組み込むウェブアプリ側で、認証の機能を実�
 
 以下のように、ログイン時に自動的にLINEアプリが起動し、ユーザーの操作なしでログインが完了します。
 
-![](/media/line-login/integrate-login-web/auto-ligin-animation.gif){className="[\"border\"]"}
+![](/media/line-login/integrate-login-web/auto-login-animation.webp){className="[\"border\"]"}
 
 ::admonition{title="自動ログインはPC版LINEでは動作しません" type="note"}
 自動ログインが利用可能な環境について詳しくは、FAQの「[自動ログインについて教えてください。](/faq/#how-does-auto-login-work)」を参照してください。

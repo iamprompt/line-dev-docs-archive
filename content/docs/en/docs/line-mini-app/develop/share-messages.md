@@ -5,7 +5,7 @@ description: Learn how to implement your custom action button on LINE MINI App.
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/develop/share-messages
-__hash__: bYnH9OElDVZ-S9s2b0UfDuOADClHxRaEDHRck2F_w8g
+__hash__: Nod3o_3Piq9FdRrC9oGBEdLBkNLMiyVuJKrCYv07Pso
 seo:
   title: Implementing a custom action button
   description: Learn how to implement your custom action button on LINE MINI App.
@@ -17,7 +17,7 @@ seo:
 
 However, if you implement a custom action button in the (B) body, you can customize the content of the share message before sharing the LINE MINI App.
 
-![](/media/line-mini-app/mini_concept.png){className="[\"w-fix-280\"]"}
+![](/media/line-mini-app/mini_concept.webp){className="[\"w-fix-280\"]"}
 
 ## Guidelines
 

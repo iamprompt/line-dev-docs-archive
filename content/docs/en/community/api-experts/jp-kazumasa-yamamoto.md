@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Kazumasa
-  Yamamoto","img":"jp-kazumasa-yamamoto.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Yamamoto","img":"jp-kazumasa-yamamoto.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"AWS, C/C++, Rust, TypeScript, Ruby, Python, SQL,
   Docker","git":null,"fb":"https://www.facebook.com/kyamamoto9120","twitter":"https://twitter.com/kyamamoto9120","platform-evangelist":true}
 path: /en/community/api-experts/jp-kazumasa-yamamoto
-__hash__: WfTWYO6gFmFntyLFdfvQ6YKiWFK_E1Wq9PKwXF9rWtk
+__hash__: mqiQkGOyW0QXc5LgQiePL4GvwLEbxJvt8hLer55yPhk
 seo:
   title: LINE API Expert - Kazumasa Yamamoto
   description: ''

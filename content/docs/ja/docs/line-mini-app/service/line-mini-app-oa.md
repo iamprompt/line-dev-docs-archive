@@ -4,7 +4,7 @@ navigation: true
 description: LINE公式アカウントを使ってLINEミニアプリを宣伝します。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/line-mini-app-oa
-__hash__: a56DmX1Zo_RQq0kBaqMn1oOutzdPXcIJSLR1kJkcbT8
+__hash__: XHJaYFxm1jT1jR91AHFWYEH_pTYj7lPMtNOSTmPl0IA
 seo:
   title: LINE公式アカウントを活用する
   description: LINE公式アカウントを使ってLINEミニアプリを宣伝します。
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsこのページでは、LINEミニアプリのプロモーションにLINE公式アカウントを活用する方法を紹介します。LINE公式アカウントを作成する方法について詳しくは、『Messaging APIドキュメント』の「[LINE公式アカウントを作成する](/docs/messaging-api/getting-started/#create-oa)」を参照してください。
 
-![あなたのLINEミニアプリをLINE公式アカウントで宣伝](/media/line-mini-app/mini_with_oa.png){className="[\"w-fix-280\"]"}
+![あなたのLINEミニアプリをLINE公式アカウントで宣伝](/media/line-mini-app/mini_with_oa.webp){className="[\"w-fix-280\"]"}
 
 ## リッチメッセージを送る
 

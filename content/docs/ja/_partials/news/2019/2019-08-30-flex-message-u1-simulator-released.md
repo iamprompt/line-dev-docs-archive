@@ -8,7 +8,7 @@ meta: >-
   {"date":"2019-08-30 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"ja"}
 path: /ja/_partials/news/2019/2019-08-30-flex-message-u1-simulator-released
-__hash__: 7TcrJdkJvzRQ9EJnhMkG4n7XJfXzXxz_hMihNgk64T4
+__hash__: n092c6Sj2GhG2pctjwOy6E5A6fNlmralL_bEP0reJC4
 seo:
   title: Flex Message Simulator Update 1（β）がリリースされました
   description: >-
@@ -22,6 +22,6 @@ seo:
 Flex Message Simulator Update 1（β）は、Flex Messageのレイアウトを保証するものではありません。受信端末の環境によって、同じFlex Messageでも描画結果が異なる可能性があります。描画に影響を与える要素には、OS、LINEのバージョン、端末の解像度、言語設定、フォントなどがあります。
 ::
 
-![Flex Message Simulator Update 1 (β)](/media/news/flex-message-simulator-u1.png){className="[\"border\"]"}
+![Flex Message Simulator Update 1 (β)](/media/news/flex-message-simulator-u1.webp){className="[\"border\"]"}
 
-![Flex Message Update 1 examples](/media/news/flex-message-simulator-u1-examples.png){className="[\"border\"]"}
+![Flex Message Update 1 examples](/media/news/flex-message-simulator-u1-examples.webp){className="[\"border\"]"}

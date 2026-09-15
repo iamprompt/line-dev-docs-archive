@@ -9,7 +9,7 @@ meta: >-
   {"date":"2019-08-28 00:00 UTC","tags":"Messaging API, Flex
   Message","locale":"en"}
 path: /en/_partials/news/2019/2019-08-28-flex-message-update-1-released
-__hash__: _2io2VWQmIjKlOECRv4Mmy9hi_IchELxHIv-NwqXKRg
+__hash__: q3j2ajIcJWwta-QhaKbY40o_UkRcUv3qqLVvtvaTqRk
 seo:
   title: Flex Message Update 1 released
   description: >-
@@ -20,4 +20,4 @@ seo:
 
 We've added new Flex Message properties. As a result, you can use the rich expressive power of HTML and CSS in Flex Messages. For details, see [Sending Flex Messages](/docs/messaging-api/using-flex-messages/).
 
-![Flex Message example](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.png)
+![Flex Message example](/media/messaging-api/using-flex-messages/bubbleSamples-Update1.webp)

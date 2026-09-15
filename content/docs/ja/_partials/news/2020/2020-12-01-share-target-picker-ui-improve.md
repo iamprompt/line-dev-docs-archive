@@ -4,7 +4,7 @@ navigation: true
 description: シェアターゲットピッカーのUIが改善されました。
 meta: '{"date":"2020-12-01 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-12-01-share-target-picker-ui-improve
-__hash__: EPDd_qJsbHapZUjgvWdmDTUfDZB0ZSVw18Z0mzcpRNY
+__hash__: HfCJHNau9CCb_Z0LaB2f534cDIUoiSfcB6rUG4TkYx4
 seo:
   title: シェアターゲットピッカーのUIが改善されました
   description: シェアターゲットピッカーのUIが改善されました。
@@ -19,6 +19,6 @@ seo:
 - これまで**トークルーム**しか含まれていなかった`トーク`カテゴリに、**1対1トーク**や**グループ**も含まれるようになりました。
 - `トーク`カテゴリ内のコンテンツの表示順が、アルファベット順から最近送信したトーク順に変更されました。
 
-![The order of items changes](/media/liff/sharetargetpicker_ui_change_ja.png){className="[\"w-fix-640\"]"}
+![The order of items changes](/media/liff/sharetargetpicker_ui_change_ja.webp){className="[\"w-fix-640\"]"}
 
 シェアターゲットピッカーについて詳しくは、『LIFFドキュメント』の「[ユーザーの友だちにメッセージを送信する](/docs/liff/developing-liff-apps/#share-target-picker)」を参照してください。

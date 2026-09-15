@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Shinri
-  Nakamura","img":"jp-shinri-nakamura.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Nakamura","img":"jp-shinri-nakamura.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Python, C, JavaScript, IoT, Image Processing, Embedded Control
   System","git":"","fb":"https://www.facebook.com/nakamura.shinri","twitter":"https://twitter.com/shinfrom1981"}
 path: /en/community/api-experts/jp-shinri-nakamura
-__hash__: ppY7eOfcv9O177fNf4X5xQCtI2k07qTZnJ4BUZ0yons
+__hash__: kDInfaOSnYKmYXj8h5rcxMlLqslzuUh4kVRz1l8CCGw
 seo:
   title: LINE API Expert - Shinri Nakamura
   description: ''

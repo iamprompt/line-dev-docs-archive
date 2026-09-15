@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-11-18 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-11-18-site-navigation-redesign
-__hash__: ebNMNO89ZVUEIM9cyVdK6aUO8SwCP462COSS0A0c_aM
+__hash__: 9UR39hEXPebmbKqEZ4TYGvtRy7xJ-mWUAU_kpAY62SA
 seo:
   title: '[Updated] Introducing the new LINE Developers site navigation'
   description: ''
@@ -13,7 +13,7 @@ seo:
 ::admonition{title="Added on December 11, 2020" type="note"}
 On December 11, 2020, we changed the category name **Guides** to **Documentation** on the LINE Developers site.
 
-![Guides changed to documentation](/media/news/guide-to-documentation-after-en.png){className="[\"border\",\"w-fix-640\"]"}
+![Guides changed to documentation](/media/news/guide-to-documentation-after-en.webp){className="[\"border\",\"w-fix-640\"]"}
 
 For more details, see the news on December 11, 2020, [We changed "Guides" to "Documentation" on the LINE Developers site](/news/2020/12/11/rename-guides-to-documentation/).
 ::

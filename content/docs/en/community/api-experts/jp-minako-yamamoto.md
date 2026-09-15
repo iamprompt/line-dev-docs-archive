@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Minako
-  Yamamoto","img":"jp-minako-yamamoto.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Yamamoto","img":"jp-minako-yamamoto.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"Python, Node.js, JavaScript, PHP, Swift, Chatbot,
   Smart Speaker, IoT, WEB site, iOS App,
   SaaS","git":"https://github.com/minako-ph","fb":"","twitter":"https://twitter.com/minako__ph"}
 path: /en/community/api-experts/jp-minako-yamamoto
-__hash__: P-J2CeJtHAcFb1tcEne_Lby-0d1OGA9ekQqj8_VfBRs
+__hash__: ETS9RMO2GfXRwZ8mWk1wOyXGyG1mu0N8TuVUvc8_v7U
 seo:
   title: LINE API Expert - Minako Yamamoto
   description: ''

@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Ryuhei
-  Takagaki","img":"jp-ryuhei-takagaki.png","region":"Japan","location":null,"expert-since":null,"line-api":"LINE
+  Takagaki","img":"jp-ryuhei-takagaki.webp","region":"Japan","location":null,"expert-since":null,"line-api":"LINE
   Login, LINEミニアプリ, Messaging API","skills":"Node.js, JavaScript, TypeScript,
   Ruby, React, Next.js, Ruby on Rails,
   AWS","git":"https://github.com/ryuhei202","fb":"","twitter":"https://x.com/ruonp24"}
 path: /en/community/api-experts/jp-ryuhei-takagaki
-__hash__: cHbKWHgoUHJTxuh00uydk_G7jjr2d7ZjlexnKUFFk3k
+__hash__: EbVMTyLe0F1GgkYcCBiWnIYOa2X3ObEPAnZAB02FG8A
 seo:
   title: LINE API Expert - Ryuhei Takagaki
   description: ''

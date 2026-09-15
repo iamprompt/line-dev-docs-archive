@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/using-quick-reply
-__hash__: uLtYMEP2H-b5HHOjHAYV_hbQ7q-eErLkt8hk816kG0k
+__hash__: kN9KwDwYjdc2DwaM9Loss-Xsv0FE8xirz93fB60LqX8
 seo:
   title: Use quick replies
   description: null
@@ -108,7 +108,7 @@ Here is an example of the message with quick reply buttons. The lines marked wit
 
 Here are the quick reply buttons the user sees in a chat with the message specified above.
 
-![Quick reply sample 2](/media/messaging-api/using-quick-reply/quickReplySample2.png){className="[\"border\",\"w-fix-240\"]"}
+![Quick reply sample 2](/media/messaging-api/using-quick-reply/quickReplySample2.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ## Quick reply buttons disappear
 

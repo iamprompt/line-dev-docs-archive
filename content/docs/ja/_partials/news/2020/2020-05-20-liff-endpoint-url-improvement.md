@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-20 00:00 UTC","tags":"LIFF","new":"false","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-05-20-liff-endpoint-url-improvement
-__hash__: r7FRJzF9EfEpJH9v5qEj-4OsgF06IYeTZtnZY1E4ofE
+__hash__: FNSwZ3Jd841SIzuDJdEaMbQKEhR29SFxdg3wLbNL1N0
 seo:
   title: 【更新】まもなくLIFFのエンドポイントURLでパスが使用できるようになります
   description: ''
@@ -29,7 +29,7 @@ seo:
 
 たとえば、HerokuにLIFFアプリをデプロイする場合は、LINE Developersコンソールの**基本情報**セクションの**エンドポイントURL**に`https://{Herokuアプリ名}.herokuapp.com/path/?key=value`と入力します。
 
-![LINE Developersコンソールでパスを追加したエンドポイントURLの例](/media/news/liff-url-with-path-appended.png){className="[\"border\",\"w-fix-480\"]"}
+![LINE Developersコンソールでパスを追加したエンドポイントURLの例](/media/news/liff-url-with-path-appended.webp){className="[\"border\",\"w-fix-480\"]"}
 
 URLスキームは、必ずhttpsを使用してください。
 

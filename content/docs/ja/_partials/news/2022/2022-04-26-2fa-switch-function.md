@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2022-04-26 00:00 UTC","tags":"line-login","locale":"ja"}'
 path: /ja/_partials/news/2022/2022-04-26-2fa-switch-function
-__hash__: usLv-TXsSiXlXQFq33WpkqmkSYgcMgTBqs35NIatOmw
+__hash__: f9ZKXO7k6RCHdmZZJZPVv4sBHHrvbwH272KvJcrlJQ8
 seo:
   title: 【更新】LINEの2要素認証スイッチ機能導入に伴い、LINEログイン v2.1の利用を推奨します
   description: ''
@@ -69,7 +69,7 @@ LINEログイン v1.0（:glossary-tooltip[[廃止](/glossary/#end-of-life)]{glos
 
 2要素認証スイッチ機能は、LINEの［**ホーム**］>［**設定**］>［**アカウント**］をタップし、［**Webログインの2要素認証**］のトグルスイッチをオン（右）にすることで有効化できます。
 
-![Webログインの2要素認証](/media/news/2022/2fa-switch-ja.png){className="[\"border\",\"w-fix-200\"]"}
+![Webログインの2要素認証](/media/news/2022/2fa-switch-ja.webp){className="[\"border\",\"w-fix-200\"]"}
 
 ユーザーがスイッチをオンにした場合とオフにした場合の動作は、以下のとおりです。
 

@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Yuji
-  Ueki","img":"jp-yuji-ueki.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Ueki","img":"jp-yuji-ueki.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Python, C#, Chatbot, Finance, Smart Speaker, UI/UX, RPA /
   Scraping","git":"https://github.com/uezo","fb":"https://www.facebook.com/uezochan","twitter":"https://twitter.com/uezochan"}
 path: /en/community/api-experts/jp-yuji-ueki
-__hash__: 7z02aEYxMg_uIqtgy2dv9Qn_IGITCWKjkj0liMHGCoQ
+__hash__: CB-JMZ8z6bqgg0lbqFNaKDVah1XMD_hojLV5VXlRrr8
 seo:
   title: LINE API Expert - Yuji Ueki
   description: ''

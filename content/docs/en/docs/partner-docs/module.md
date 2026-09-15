@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module
-__hash__: KI2m4kic9AOaLILlhYwqwpETzsZMpUtXnveL4cpKRMo
+__hash__: zZANudmsB4lgaOGjJUcZuWuLkzTwToRHfFnMZ_DFMFw
 seo:
   title: Module
   description: null
@@ -24,7 +24,7 @@ The functions described in this document are available only to corporate custome
 
 The module is a mechanism that allows you to add functions using the Messaging API to your LINE Official Account by linking (attaching) it to your LINE Official Account. Modules are provided as a type of channel [module channel](/docs/line-developers-console/overview/#channel). Even if your LINE Official Account hasn't created a Messaging API channel, you can still call the Messaging API from a module channel to send messages to users and set rich menus.
 
-![module channel](/media/partner-docs/module/module-channel-en.png){className="[\"border\",\"w-fix-1040\"]"}
+![module channel](/media/partner-docs/module/module-channel-en.webp){className="[\"border\",\"w-fix-1040\"]"}
 
 ### Relationship between module channel and LINE Official Account
 

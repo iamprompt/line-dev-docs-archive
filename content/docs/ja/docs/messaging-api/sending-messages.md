@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/sending-messages
-__hash__: YkgRT1vfe7MPp0G9A-yR6MrruJlXODqZUsA1XSTLkhg
+__hash__: kqifcW8Vj1Puxi2szNe8XopEoOx4URh-7CjNwhOorW8
 seo:
   title: メッセージを送信する
   description: null
@@ -481,7 +481,7 @@ curl -v -X GET 'https://api.line.me/v2/bot/message/progress/narrowcast?requestId
 
 Messaging APIを使って、過去のメッセージを引用したメッセージを送信できます。
 
-![](/media/messaging-api/sending-messages/quote-message.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/messaging-api/sending-messages/quote-message.webp){className="[\"border\",\"w-fix-480\"]"}
 
 過去のメッセージを引用したメッセージを送るには、引用対象となるメッセージの引用トークン（`quoteToken`）を指定します。引用トークンの取得方法について詳しくは、「[引用トークンを取得する](/docs/messaging-api/get-quote-tokens/)」を参照してください。
 

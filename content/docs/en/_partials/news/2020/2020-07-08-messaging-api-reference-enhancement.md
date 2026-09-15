@@ -6,7 +6,7 @@ description: >-
   amount of endpoints, was long and difficult to navigate.
 meta: '{"date":"2020-07-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-08-messaging-api-reference-enhancement
-__hash__: 9g0I72HZm8gq51soa7PGfaZo5EX5tj85I6d2FbmoBXU
+__hash__: Ray09f6OQ8mya4wt8AISEXpGQt0Wj01G-MAuQv1xYUE
 seo:
   title: Improved Messaging API reference and side menu
   description: >-
@@ -32,7 +32,7 @@ When you scroll through the page, the highlighted location on the side menu auto
 
 For example, when you scroll through the page and see the "response" section under the "Webhooks" category, "response" under "Webhooks" is also highlighted in the side menu.
 
-![Webhook location on page is reflected in side menu](/media/news/messaging-api-response-en.png){className="[\"border\",\"w-fix-480\"]"}
+![Webhook location on page is reflected in side menu](/media/news/messaging-api-response-en.webp){className="[\"border\",\"w-fix-480\"]"}
 
 If you're lost on the page, you can now refer to the side menu to find your location.
 
@@ -40,7 +40,7 @@ If you're lost on the page, you can now refer to the side menu to find your loca
 
 Developers who use the browser's in-page search should use the built-in search function to find the endpoint. You can search endpoints by title search or full-text search.
 
-![Search for an endpoint](/media/news/messaging-api-rich-menu-search-en.png){className="[\"border\",\"w-fix-240\"]"}
+![Search for an endpoint](/media/news/messaging-api-rich-menu-search-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### Tell us your thoughts about the LINE Developers site
 

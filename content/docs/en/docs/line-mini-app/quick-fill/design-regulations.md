@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/quick-fill/design-regulations
-__hash__: u0orqu-tp9dUoPfC_4HfzGIwArSBY-coNh9-PS2yz6Y
+__hash__: I5TT-UjoBjB6PaM1GPlmSOcrSGppISe1_j5lDJHgCIk
 seo:
   title: Common Profile Quick-fill design regulations
   description: null
@@ -72,13 +72,13 @@ We prohibit the following types of screen transitions when Integrating Quick-fil
 
 It is prohibited to display a modal on a screen that doesn't have a form that automatically fills in the fields.
 
-![](/media/line-mini-app/quick-fill/prohibited-screen-transition-01.png){className="[\"bg-border\",\"w-fix-480\"]"}
+![](/media/line-mini-app/quick-fill/prohibited-screen-transition-01.webp){className="[\"bg-border\",\"w-fix-480\"]"}
 
 #### Getting items that don't exist in the form
 
 It is prohibited to get items that don't exist on the form. For example, you must not get phonetic information even though there is no phonetic field on the registration form.
 
-![](/media/line-mini-app/quick-fill/prohibited-screen-transition-02.png){className="[\"bg-border\",\"w-fix-480\"]"}
+![](/media/line-mini-app/quick-fill/prohibited-screen-transition-02.webp){className="[\"bg-border\",\"w-fix-480\"]"}
 
 #### Move to the confirmation screen without auto-filling the form
 
@@ -100,7 +100,7 @@ There are 4 types, with a total of 13 different Auto-fill buttons. Use the butto
 
 Use the button as it is, without modifying or editing it, or adding animation or effects (zoom, rotate, decorate, etc.). For more information on prohibited items, see [Prohibited items for Auto-fill button](#auto-fill-button-prohibition).
 
-![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-02.png){className="[\"border\",\"w-fix-600\"]"}
+![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-02.webp){className="[\"border\",\"w-fix-600\"]"}
 
 ### Location of the Auto-fill button
 
@@ -108,17 +108,17 @@ To improve user visibility, align the Auto-fill button with the left or center o
 
 #### Example of left alignment
 
-![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-03.png){className="[\"border\",\"w-fix-600\"]"}
+![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-03.webp){className="[\"border\",\"w-fix-600\"]"}
 
 #### Example of center alignment
 
-![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-04.png){className="[\"border\",\"w-fix-600\"]"}
+![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-04.webp){className="[\"border\",\"w-fix-600\"]"}
 
 #### Notes on placement
 
 Place the Auto-fill button in a appropriate position where the user can see the form that will be filled in after tapping the button.
 
-![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-05.png){className="[\"border\",\"w-fix-600\"]"}
+![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-05.webp){className="[\"border\",\"w-fix-600\"]"}
 
 #### Leave a clear space around the button
 

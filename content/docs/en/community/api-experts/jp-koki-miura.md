@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Koki
-  Miura","img":"jp-koki-miura.png","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
+  Miura","img":"jp-koki-miura.webp","region":"Japan","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Python, Node.js, Chatbot, Smart Speaker, Machine Learning, IoT,
   AI, Image Processing,
   Cloud","git":"https://github.com/Miura55","fb":"https://www.facebook.com/koki.miura05","twitter":"https://twitter.com/k_miura_io"}
 path: /en/community/api-experts/jp-koki-miura
-__hash__: ANVyiZMDvVhW-MoEb8SJ-IrvTsmzURtp6u1EHP_QPFc
+__hash__: ycgZ-UOAXopeWd6tW-ZbIjg7Mb68oQUnLZB77LfPfnc
 seo:
   title: LINE API Expert - Koki Miura
   description: ''

@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"MingHui-D.
-  Wen","img":"tw-minghui-d.-wen.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Chatbot,
+  Wen","img":"tw-minghui-d.-wen.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Chatbot,
   Finance, Research, UI/UX","skills":"Messaging
   API","git":"","fb":"https://www.facebook.com/sdfaewfadfadf","twitter":""}
 path: /en/community/api-experts/tw-minghui-d-wen
-__hash__: LrZYaaKqhx5KqyewX9xzsVtfjATLMypSm-WbhToVIfo
+__hash__: 6CJd36pFnz7Znvg0rWNMq9bPHk1NaQoqCJ6A3vDBrJo
 seo:
   title: LINE API Expert - MingHui-D. Wen
   description: ''

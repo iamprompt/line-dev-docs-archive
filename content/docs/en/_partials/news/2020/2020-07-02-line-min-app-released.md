@@ -4,7 +4,7 @@ navigation: true
 description: LINE MINI App opened its documents and entry point of contact.
 meta: '{"date":"2020-07-02 00:00 UTC","tags":"LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-02-line-min-app-released
-__hash__: kpAXZTCLM8A6ueXysUbbu-PyQ-UzDv2_qjNB97AJSL0
+__hash__: XoA80RYg9EETrhFYmIKtSLUtXsXJHUqF-U0nJBvB_zY
 seo:
   title: LINE MINI App docs and entry point of contact opened
   description: LINE MINI App opened its documents and entry point of contact.
@@ -20,7 +20,7 @@ With LINE MINI App, users can use various services without having to install sep
 
 LINE MINI App provides even more features than the existing LINE Front-end Framework (LIFF) App, including the ability to send a message called a "service message" to a special chat room.
 
-![Service Message](/media/line-mini-app/mini_service_notifier.png){className="[\"border\",\"w-fix-280\"]"}
+![Service Message](/media/line-mini-app/mini_service_notifier.webp){className="[\"border\",\"w-fix-280\"]"}
 
 For details, see [Discover LINE MINI App](/docs/line-mini-app/discover/introduction/).
 

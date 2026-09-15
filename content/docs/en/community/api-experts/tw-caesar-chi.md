@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Caesar
-  Chi","img":"tw-caesar-chi.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Chi","img":"tw-caesar-chi.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"Node.js, JavaScript, SQL, Chatbot, WEB site, EC,
   Cloud,
   UI/UX","git":"https://github.com/clonn","fb":"https://www.facebook.com/clonncd","twitter":"https://twitter.com/clonncd"}
 path: /en/community/api-experts/tw-caesar-chi
-__hash__: k1cUZS5Cu1-bvvILWe7kqyUCcg_Yws1JN8GKDi4RqaA
+__hash__: a72QjgyoN6rOGTqZxawDKHchuqNxDHPS7pzVBc2ki5A
 seo:
   title: LINE API Expert - Caesar Chi
   description: ''

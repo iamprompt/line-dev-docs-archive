@@ -6,7 +6,7 @@ description: >-
   API.
 meta: '{"date":"2021-06-21 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-06-21-switch-between-multiple-rich-menus
-__hash__: eCpr13TrFXLuVCu55I57gehDZo1o9QMGdBKtdqpW2CU
+__hash__: WT97nBDOnNp0Wq8XCR2Kp193r3mJRpsqr1uXQ7zkWig
 seo:
   title: You can now easily switch between multiple rich menus
   description: >-
@@ -18,7 +18,7 @@ A new feature to switch between rich menus has been added to the Messaging API.
 
 :glossary-tooltip[[Rich menu aliases](/glossary/#rich-menu-alias)]{glossary-id="rich-menu-alias"} make it easy to switch between multiple rich menus like switching tabs. For more information, see [Switching between multiple rich menus](/docs/messaging-api/switch-rich-menus/) in the Messaging API documentation.
 
-![Rich menu aliases make it easy to switch between multiple rich menus like switching tabs.](/media/messaging-api/rich-menu/switching-richmenu.png){className="[\"w-fix-640\"]"}
+![Rich menu aliases make it easy to switch between multiple rich menus like switching tabs.](/media/messaging-api/rich-menu/switching-richmenu.webp){className="[\"w-fix-640\"]"}
 
 These new endpoints, actions, and objects have been added along with the feature to switch between rich menus.
 

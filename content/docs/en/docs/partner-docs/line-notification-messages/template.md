@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/docs/partner-docs/line-notification-messages/template
-__hash__: _WGbum1mYGEPolH0_eK_cAN64qsPS8FMts82_TjsYks
+__hash__: k7UDAjlPnz-hyRut5qmtJWJyu49qVzpMTRGla36wpfw
 seo:
   title: LINE notification messages (template)
   description: ''
@@ -30,7 +30,7 @@ After selecting a [template](#templates), you can send a LINE notification messa
 
 The types of templates, items and buttons available are different for Japan, Thailand and Taiwan, and are automatically determined by the LINE Official Account from which the message is sent. You can't change the header and footer of the message.
 
-![Sample of a LINE notification message (template)](/media/line-notification-message/notification-messages-template.png){className="[\"border\",\"w-fix-480\"]"}
+![Sample of a LINE notification message (template)](/media/line-notification-message/notification-messages-template.webp){className="[\"border\",\"w-fix-480\"]"}
 
 For example, the above message can be sent by creating the following JSON:
 
@@ -81,18 +81,18 @@ You can check the number of LINE notification messages (template) using the API.
 
 By sending a LINE notification message (template) with the key (`Key`) of the template specified, the title (`Title`) and description (`Description`) of the target template are displayed at the top of the message.
 
-![](/media/line-notification-message/notification-messages-template-templates.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/line-notification-message/notification-messages-template-templates.webp){className="[\"border\",\"w-fix-480\"]"}
 
 :templates{src="templates"}## Items
 
 You can include multiple items in the template by specifying the key (`Key`) of the item. You can set any string as the value of the specified item.
 
-![](/media/line-notification-message/notification-messages-template-items.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/line-notification-message/notification-messages-template-items.webp){className="[\"border\",\"w-fix-480\"]"}
 
 :templates{src="items"}## Buttons
 
 You can include multiple buttons in the template by specifying the key (`Key`) of the button. You can set any URL as the transition destination for the button.
 
-![](/media/line-notification-message/notification-messages-template-buttons.png){className="[\"border\",\"w-fix-480\"]"}
+![](/media/line-notification-message/notification-messages-template-buttons.webp){className="[\"border\",\"w-fix-480\"]"}
 
 :templates{src="buttons"}

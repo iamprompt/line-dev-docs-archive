@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-05-20 00:00 UTC","tags":"LIFF","new":"false","locale":"en"}'
 path: /en/_partials/news/2020/2020-05-20-liff-endpoint-url-improvement
-__hash__: 5x3wpiz1TOQWKY3iyh8ix_vQuYwP4OJjgiuE0-oavi0
+__hash__: REkUIHmHKzPbZTarLw8FhloM-LmgKarqgYx4Ib9sr28
 seo:
   title: '[Updated] You can soon add and use paths to your LIFF endpoint URL'
   description: ''
@@ -29,7 +29,7 @@ With the upcoming update, these improvements will be made to the LIFF endpoint U
 
 For example, if you're deploying the LIFF app on Heroku, you can enter `https://{Heroku app name}.herokuapp.com/path/?key=value` as the **Endpoint URL** in the **Basic information** section of the LINE Developers Console.
 
-![LIFF URL with paths appended in the LINE Developers Console](/media/news/liff-url-with-path-appended.png){className="[\"border\",\"w-fix-480\"]"}
+![LIFF URL with paths appended in the LINE Developers Console](/media/news/liff-url-with-path-appended.webp){className="[\"border\",\"w-fix-480\"]"}
 
 The URL scheme must use https.
 

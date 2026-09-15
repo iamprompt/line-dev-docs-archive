@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_update":"2020-04-24","source_language":"en"}'
 path: /en/docs/line-mini-app/discover/ui-components
-__hash__: mw--vic3c4GIUbuWR7RZrDEdeQx8bzr8tpmTpmTEKag
+__hash__: qMjgBPU32lj3P5hMypS4AkoxJEQXvRJdPnEZhl1JVH0
 seo:
   title: LINE MINI App UI components
   description: null
@@ -14,7 +14,7 @@ seo:
 
 :markdown-controlsLINE MINI App page consists of (A) Header and (B) Body
 
-![](/media/line-mini-app/mini_concept.png){className="[\"w-fix-280\"]"}
+![](/media/line-mini-app/mini_concept.webp){className="[\"w-fix-280\"]"}
 
 ## Header
 
@@ -24,7 +24,7 @@ The header of a verified MINI App displays the title, LINE MINI App name, and ve
 
 The header is composed of the following components. You can't set the header or specific components of the header to be hidden.
 
-![](/media/line-mini-app/discover/mini_uicomp_header.png){className="[\"w-fix-560\"]"}
+![](/media/line-mini-app/discover/mini_uicomp_header.webp){className="[\"w-fix-560\"]"}
 
 | Number | Component                      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------ | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -4,7 +4,7 @@ navigation: true
 description: Make a reply bot with Node.js
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/nodejs-sample
-__hash__: mcp_-1zfpLEFSfzDYwCFqt9DZYbtfqxkPdUMdqciCn8
+__hash__: IwQGgsdI8PC9RY4E9Vjp17Oh-spDvy-QMU5uH2K8K3U
 seo:
   title: Tutorial - Make a reply bot
   description: Make a reply bot with Node.js
@@ -18,7 +18,7 @@ The Messaging API enables two-way communication between your service and LINE us
 
 The outcome of this tutorial is an app which automatically responds to a user's message.
 
-![Conversation with a sample bot](/media/messaging-api/node-js-sample/sample-bot-test.png){className="[\"border\",\"w-fix-320\"]"}
+![Conversation with a sample bot](/media/messaging-api/node-js-sample/sample-bot-test.webp){className="[\"border\",\"w-fix-320\"]"}
 
 ## Before you start
 
@@ -361,7 +361,7 @@ Before we test our bot, we want to check that webhook is working. Go to **Messag
 
 Try to send a message to the bot on your LINE. If all is well, you'll receive a message from your bot like this:
 
-![Conversation with a sample bot in the LINE chat room](/media/messaging-api/node-js-sample/sample-bot-test.png){className="[\"border\",\"w-fix-320\"]"}
+![Conversation with a sample bot in the LINE chat room](/media/messaging-api/node-js-sample/sample-bot-test.webp){className="[\"border\",\"w-fix-320\"]"}
 
 ### Troubleshoot the sample bot
 

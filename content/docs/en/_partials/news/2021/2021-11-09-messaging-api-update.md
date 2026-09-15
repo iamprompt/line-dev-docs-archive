@@ -6,7 +6,7 @@ description: >-
   have been newly added or updated.
 meta: '{"date":"2021-11-09 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2021/2021-11-09-messaging-api-update
-__hash__: HwzJrtbIl8Grvd1aLtlzsVtVMZJTrLN5p-a5UttZ0mU
+__hash__: xWWzEaPcuch3_MuqWjhn7cz9EMq6-48CtATWyoUpyLg
 seo:
   title: Messaging API Update (November 2021)
   description: >-
@@ -21,7 +21,7 @@ New features have been added to the Messaging API. These are the features that h
 
 ### You can now retrieve the text entered by the user in a message sticker
 
-![message sticker](/media/news/message-sticker-sample.png){className="[\"w-fix-320\"]"}
+![message sticker](/media/news/message-sticker-sample.webp){className="[\"w-fix-320\"]"}
 
 You can now retrieve the text entered by the user in a :glossary-tooltip[[Message sticker](/glossary/#message-sticker)]{glossary-id="message-sticker"}.
 

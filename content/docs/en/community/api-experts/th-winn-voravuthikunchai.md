@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Winn
-  Voravuthikunchai","img":"th-winn-voravuthikunchai.png","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
+  Voravuthikunchai","img":"th-winn-voravuthikunchai.webp","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
   API","skills":"Python, SQL, Chatbot, NLP, Machine Learning, AI, Image
   Processing","git":"","fb":"https://www.facebook.com/BotnoiLittlebot","twitter":""}
 path: /en/community/api-experts/th-winn-voravuthikunchai
-__hash__: AeBXPFG_F_wswyeeUgEqfKYrtxdMim6YDvBMiLqPU9o
+__hash__: 1Ki5CLfwdh5A521luwZDJ3D3vWJVDYan9QiynxOLSWI
 seo:
   title: LINE API Expert - Winn Voravuthikunchai
   description: ''

@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
 meta: '{"date":"2020-07-02 00:00 UTC","tags":"LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-02-line-min-app-released
-__hash__: _KaMGP48DXJmM4sraX-1f3TPDHWkUedTrjhbHP5Xbnk
+__hash__: D5RiIz2hL0FIuj-8yTMIxeUYCBFTMr21ekkuiSuv0Uc
 seo:
   title: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
   description: LINEミニアプリのドキュメントおよびエントリー窓口を公開しました
@@ -20,7 +20,7 @@ LINEミニアプリを使えば、ユーザーはアプリをインストール�
 
 LINEミニアプリでは、特別なトークルームに「サービスメッセージ」と呼ばれるメッセージを送信できるなど、既存のLIFF（LINE Front-end Framework）アプリよりもさらに豊富な機能を利用できます。
 
-![サービスメッセージ](/media/line-mini-app/mini_service_notifier.png){className="[\"border\",\"w-fix-280\"]"}
+![サービスメッセージ](/media/line-mini-app/mini_service_notifier.webp){className="[\"border\",\"w-fix-280\"]"}
 
 詳しくは、「[LINEミニアプリとは](/docs/line-mini-app/discover/introduction/)」を参照してください。
 

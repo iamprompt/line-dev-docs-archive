@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/measure-impressions
-__hash__: oFMalnj7xTZYUfMnYaPrzsiG8mjytQsg7isZiJ1Pung
+__hash__: JAbqT4gKoAffYEvTHj-7SQUgZlydJ31dyX98d4trFps
 seo:
   title: インプレッションを計測する
   description: null
@@ -61,7 +61,7 @@ Messaging APIにおける吹き出しとは、1つのメッセージオブジェ
 
 下の図は3つの吹き出しで構成されるメッセージの例です。吹き出し2と3は、吹き出し1のテキストメッセージオブジェクトのような吹き出しの形状をしていませんが、それぞれ吹き出しとしてインプレッションの計測に利用されます。
 
-![](/media/messaging-api/measure-impressions/message-and-bubbles-ja.png){className="[\"bg-border\",\"w-fix-600\"]"}
+![](/media/messaging-api/measure-impressions/message-and-bubbles-ja.webp){className="[\"bg-border\",\"w-fix-600\"]"}
 
 このメッセージを送信した場合、ユーザーがトークルームに入室してメッセージを確認すると、1つの吹き出しが表示された段階で`overview.uniqueImpression`が計測されます。`messages[].uniqueImpression`と`messages[].impression`は、吹き出しごとに個別で計測されます。
 
@@ -97,12 +97,12 @@ Messaging APIにおける吹き出しとは、1つのメッセージオブジェ
 | このエリアの吹き出しは、100％表示されていることを示します。   | ![green](/media/messaging-api/measure-impressions/100per-area.png){className="[\"bg-border\",\"w-fix-120\"]" mt-3=""}   |
 | このエリアの吹き出しは、100％は表示されていないことを示します。 | ![red](/media/messaging-api/measure-impressions/not-100per-area.png){className="[\"bg-border\",\"w-fix-120\"]" mt-3=""} |
 
-| 表示              | 説明                                                                                                                                                                    | 画像                                                                                                                                                                          |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅️ 100％表示されている  | 緑色の部分に表示されている吹き出しは、100％表示されているため、インプレッションとして計測されます。                                                                                                                   | ![吹き出し全体が表示されている](/media/messaging-api/measure-impressions/impression-100per.png){className="[\"bg-border\",\"w-fix-440\"]" mt-2=""}                                        |
-| ❌️ 100％表示されていない | 赤色の部分に表示されている吹き出しは、リッチメニューと重なり、100％表示されていないため、インプレッションとして計測されません。                                                                                                     | ![リッチメニューと重なったため吹き出し全体が表示されていない](/media/messaging-api/measure-impressions/impression-not-100per-richmenu.png){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""}            |
-| ❌️ 100％表示されていない | 赤色の部分に表示されている吹き出しは、[サービスメニューバー](https://www.lycbiz.com/jp/manual/OfficialAccountManager/servicemenubar/){rel="[\"nofollow\"]"}と重なり、100％表示されていないため、インプレッションとして計測されません。 | ![サービスメニューバーと重なったため吹き出し全体が表示されていない](/media/messaging-api/measure-impressions/impression-not-100per-service-menu-ber.png){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""} |
-| ❌️ 100％表示されていない | 赤色の部分に表示されている吹き出しは、縦長であるためトーク画面に収まらず、100％表示されていないため、インプレッションとして計測されません。                                                                                               | ![メッセージが縦長過ぎて吹き出し全体が表示されていない](/media/messaging-api/measure-impressions/impression-not-100per-too-long.png){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""}               |
+| 表示              | 説明                                                                                                                                                                    | 画像                                                                                                                                                                           |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ✅️ 100％表示されている  | 緑色の部分に表示されている吹き出しは、100％表示されているため、インプレッションとして計測されます。                                                                                                                   | ![吹き出し全体が表示されている](/media/messaging-api/measure-impressions/impression-100per.webp){className="[\"bg-border\",\"w-fix-440\"]" mt-2=""}                                        |
+| ❌️ 100％表示されていない | 赤色の部分に表示されている吹き出しは、リッチメニューと重なり、100％表示されていないため、インプレッションとして計測されません。                                                                                                     | ![リッチメニューと重なったため吹き出し全体が表示されていない](/media/messaging-api/measure-impressions/impression-not-100per-richmenu.webp){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""}            |
+| ❌️ 100％表示されていない | 赤色の部分に表示されている吹き出しは、[サービスメニューバー](https://www.lycbiz.com/jp/manual/OfficialAccountManager/servicemenubar/){rel="[\"nofollow\"]"}と重なり、100％表示されていないため、インプレッションとして計測されません。 | ![サービスメニューバーと重なったため吹き出し全体が表示されていない](/media/messaging-api/measure-impressions/impression-not-100per-service-menu-ber.webp){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""} |
+| ❌️ 100％表示されていない | 赤色の部分に表示されている吹き出しは、縦長であるためトーク画面に収まらず、100％表示されていないため、インプレッションとして計測されません。                                                                                               | ![メッセージが縦長過ぎて吹き出し全体が表示されていない](/media/messaging-api/measure-impressions/impression-not-100per-too-long.webp){className="[\"bg-border\",\"w-fix-400\"]" mt-2=""}               |
 
 ::admonition{title="吹き出し全体を一度に表示できない場合のインプレッション計測" type="tip"}
 「100％表示される」とは、トークルームから退出するまでの間に、計測対象となる吹き出しの上端と下端の両方が、ユーザーのトークルーム内で表示されることを指します。
@@ -124,7 +124,7 @@ Flex Messageなどを利用し、[カルーセル](/docs/messaging-api/flex-mess
 
 カルーセルを使用したメッセージでは、吹き出しの上端、下端、左端、右端のすべてが表示されると100％表示されたとみなされ、1回のインプレッションとして計測されます。
 
-![](/media/messaging-api/measure-impressions/carousel-100per-scroll.png){className="[\"bg-border\",\"w-fix-240\"]"}
+![](/media/messaging-api/measure-impressions/carousel-100per-scroll.webp){className="[\"bg-border\",\"w-fix-240\"]"}
 
 ## 利用上の注意点
 

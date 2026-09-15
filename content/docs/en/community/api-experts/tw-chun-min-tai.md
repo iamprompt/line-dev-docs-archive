@@ -4,11 +4,11 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Chun-Min
-  Tai","img":"tw-chun-min-tai.png","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
+  Tai","img":"tw-chun-min-tai.webp","region":"Taiwan","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE Login","skills":"ChatBot, Website,
   Cloud","git":"https://github.com/taichunmin","fb":"https://www.facebook.com/taichunmin","twitter":""}
 path: /en/community/api-experts/tw-chun-min-tai
-__hash__: fQWgQD5HTi1uOJhqaFo2PvZQ3-7hKQDni052qGnCmQg
+__hash__: 43uM_GwzZXIbo47zRomWjGPQldz_DS8gr2MceTz2Y_U
 seo:
   title: LINE API Expert - Chun-Min Tai
   description: ''

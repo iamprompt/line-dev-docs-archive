@@ -9,7 +9,7 @@ description: >-
   MINI Apps.
 meta: '{"date":"2021-08-12 00:00 UTC","tags":"LINE MINI app, console","locale":"en"}'
 path: /en/_partials/news/2021/2021-08-12-channel-consent-simplification
-__hash__: lHhib7LsaPMUe8u3nxW4T15VLN6CrmtgSWPUTih0S_E
+__hash__: QsKW1jCcym09UOTnjTwHeYLgs3jolZvR4g2CebR9SGI
 seo:
   title: >-
     Skip the consent screen with the newly-released "Channel consent
@@ -34,7 +34,7 @@ The only permission consent that can be skipped with the "Channel consent simpli
 
 From your LINE MINI App channel on the [LINE Developers Console](/console/), locate the **Channel consent simplification** section under the LIFF tab, and toggle the slider on (right) to enable the "Channel consent simplification" feature.
 
-![simplification feature setup](/media/line-mini-app/simplification-feature-setup-en.png){className="[\"border\",\"w-fix-760\"]"}
+![simplification feature setup](/media/line-mini-app/simplification-feature-setup-en.webp){className="[\"border\",\"w-fix-760\"]"}
 
 ::admonition
 ---
@@ -50,7 +50,7 @@ type: note
 
 When a user first access a LINE MINI App with "Channel consent simplifcation" enabled, the channel consent screen is displayed, requesting consent regarding the use of :glossary-tooltip[[User ID](/glossary/#user-id)]{glossary-id="user-id"}.
 
-![channel consent screen](/media/line-mini-app/simplification-process-01-en.png){className="[\"border\",\"w-fix-200\"]"}
+![channel consent screen](/media/line-mini-app/simplification-process-01-en.webp){className="[\"border\",\"w-fix-200\"]"}
 
 Users will have to go through the consent process described above only once, upon which whenever they access another LINE MINI App for the first time, they will be able to skip the consent process and start using the service immediately.
 

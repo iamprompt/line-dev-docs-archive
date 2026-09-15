@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-developers-console/login-account
-__hash__: zOjzqxjQudjln2Qc56Su_RTk6tr3EN_2O53IiH90WfI
+__hash__: b85kwygQFugLbImaU_cIl0CF_6a6sfQmwBdY01B2oU4
 seo:
   title: Log in to the LINE Developers Console
   description: null
@@ -69,11 +69,11 @@ For more information about how to log in with your Yahoo! JAPAN ID, see [What ar
 
 When you first log in to the [LINE Developers Console](/console/) with your LINE account or business account, create a developer account. Enter **Developer name** and **Your email**. Read carefully and agree to the [LINE Developers Agreement](https://terms2.line.me/LINE_Developers_Agreement?lang=en){rel="[\"nofollow\"]"}. Click **Create my account**. This step is only required on first login.
 
-![Developer account creation screen](/media/line-developers-console/developer-registration-01-en.png){className="[\"border\",\"w-fix-520\"]"}
+![Developer account creation screen](/media/line-developers-console/developer-registration-01-en.webp){className="[\"border\",\"w-fix-520\"]"}
 
 Once the developer account has been created, a screen showing that the developer account has been created will be displayed.
 
-![Developer account creation completion screen](/media/line-developers-console/developer-registration-02-en.png){className="[\"border\",\"w-fix-520\"]"}
+![Developer account creation completion screen](/media/line-developers-console/developer-registration-02-en.webp){className="[\"border\",\"w-fix-520\"]"}
 
 ## Account relationships
 

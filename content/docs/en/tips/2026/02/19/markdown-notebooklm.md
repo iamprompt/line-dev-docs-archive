@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/02/19/markdown-notebooklm
-__hash__: iVFN7bSsHXVEyzBtqH2hCHev2l7ca6re8bdMoC83HQI
+__hash__: zWEKZJWZh9Z_JwWNNYEhFU9zdVPJ9vLEuQqwlu-RrnI
 seo:
   title: >-
     Let AI read the documentation on the LINE Developers site: How to use the
@@ -71,13 +71,13 @@ Once `index.html.md` is displayed, save the page content as a file. You can keep
 
 Go to [NotebookLM](https://notebooklm.google.com/){rel="[\"nofollow\"]"} and click **Create new notebook**.
 
-![](/media/tips/2026/markdown-notebooklm-create-notebook-en.png){className="[\"border\"]"}
+![](/media/tips/2026/markdown-notebooklm-create-notebook-en.webp){className="[\"border\"]"}
 
 ### 3. Add the Markdown files to the notebook
 
 Add the Markdown files as sources in your notebook. In the "Sources" panel, click the **Add sources** button and upload the Markdown files.
 
-![](/media/tips/2026/markdown-notebooklm-add-source-en.png){className="[\"border\"]"}
+![](/media/tips/2026/markdown-notebooklm-add-source-en.webp){className="[\"border\"]"}
 
 ### 4. Ask a question
 
@@ -85,7 +85,7 @@ After adding the Markdown files as sources, try asking a question about the LINE
 
 For example, if you ask, "What are the main differences between LINE MINI Apps and regular LIFF apps?", NotebookLM will generate an answer based on the documentation for the LINE MINI App you added as sources.
 
-![](/media/tips/2026/markdown-notebooklm-answer-en.png){className="[\"border\"]"}
+![](/media/tips/2026/markdown-notebooklm-answer-en.webp){className="[\"border\"]"}
 
 ```markdown
 Based on the provided sources, the main differences between LINE MINI Apps and regular LIFF apps (specifically those added to a LINE Login channel) can be categorized into channel structure, user interface features, and functional capabilities.

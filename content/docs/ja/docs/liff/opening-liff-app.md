@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/opening-liff-app
-__hash__: KOgXE2EcX01vyEuC9RW-ToBfzFWDHl2xkXkjP7sG9wU
+__hash__: 8EKRhGSKmP4ySzCNz-h7rsDmIfX5rNt1Bkz91o6jGi0
 seo:
   title: LIFFアプリを開く
   description: ''
@@ -30,7 +30,7 @@ LIFF URLは、[LIFFアプリをチャネルに追加する](/docs/liff/registeri
 たとえば、LINEアプリのトークにLIFF URLを送信し、吹き出しに表示されたLIFF URLをタップします。  
 ![](/media/liff/open-liff-app.png){className="[\"w-fix-320\"]"}
 2. ユーザーからの認可が必要な場合、チャネル同意画面が表示されます。同意画面では、ユーザーがLIFFアプリに必要な権限を与えることを許可します。  
-![同意画面](/media/liff/opening-liff-app/channel-consent-screen-ja.png){className="[\"border\",\"w-fix-280\"]"}
+![同意画面](/media/liff/opening-liff-app/channel-consent-screen-ja.webp){className="[\"border\",\"w-fix-280\"]"}
 3. LIFFアプリが開きます。  
 ![LIFF browser](/media/liff/overview/liffBrowser.png){className="[\"border\"]"}
 

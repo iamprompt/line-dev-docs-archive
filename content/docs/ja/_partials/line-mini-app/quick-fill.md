@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/quick-fill
-__hash__: FmAE6f1I4dyF4CQ2-WXmQjcTa-JBLl2WRzcP1xXyOMs
+__hash__: bROdtTEbJ3XvlVgAkxeBBApSVzQ3qnvmiT0qMl0omQE
 seo:
   description: ''
 ---
@@ -27,7 +27,7 @@ seo:
 
   モーダルの表示例：
 
-  ![](/media/line-mini-app/quick-fill/quick-fill-modal-screen.png){className="[\"bg-border\",\"w-fix-280\"]"}
+  ![](/media/line-mini-app/quick-fill/quick-fill-modal-screen.webp){className="[\"bg-border\",\"w-fix-280\"]"}
   :::
 
   :::reference-code
@@ -267,7 +267,7 @@ liff.$commonProfile.get(scopes, options);
 
   モーダルの表示例：
 
-  ![](/media/line-mini-app/quick-fill/quick-fill-dummy-modal-screen.png){className="[\"bg-border\",\"w-fix-280\"]"}
+  ![](/media/line-mini-app/quick-fill/quick-fill-dummy-modal-screen.webp){className="[\"bg-border\",\"w-fix-280\"]"}
   :::
 
   :::reference-code

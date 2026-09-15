@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/developing-liff-apps
-__hash__: DD7PSlX66XCXFL9VWM6GHGZco0B4Bwj24Nq2HGDlbWU
+__hash__: l63A8NxBI9Y3JLYDU6cEMRHu7dNUYpBoyxdyve7HebQ
 seo:
   title: LIFFアプリを開発する
   description: ''
@@ -272,7 +272,7 @@ liff
 2. `liff.login()`メソッドを実行し、認証ページおよび認可画面の処理が終了すると、LIFFアプリ（`redirectUri`）にリダイレクトされます。そこで、改めて`liff.init()`メソッドを実行します。  
 `liff.init()`メソッドの処理中にエラーが発生した場合、またはログイン時にユーザーが認可をキャンセルした場合は、`errorCallback`が実行されます。
 
-![フロー図](/media/liff/initializing-liff-app-flow.png){className="[\"border\"]"}
+![フロー図](/media/liff/initializing-liff-app-flow.webp){className="[\"border\"]"}
 
 ::admonition{title="LIFFブラウザ内での認可リクエストについて" type="note"}
 LIFFブラウザ内でLINEログインによる認可リクエストを行った際の動作は保証されません。また、LIFFアプリを外部ブラウザやLINE内ブラウザで開く場合には、必ず[`liff.login()`](/reference/liff/#login)メソッドでログイン処理を行い、[LINEログインによる認可リクエスト](/docs/line-login/integrate-line-login/#making-an-authorization-request)は行わないでください。
@@ -505,7 +505,7 @@ liff.getFriendship().then((data) => {
 
 LINE公式アカウントの友だち追加、またはブロック解除を促すサブウィンドウを表示します。
 
-![](/media/liff/request-friendship/request-friendship-add-friend-ja.png){className="[\"border\",\"w-fix-200\"]"}
+![](/media/liff/request-friendship/request-friendship-add-friend-ja.webp){className="[\"border\",\"w-fix-200\"]"}
 
 - LINE公式アカウントと友だちになっていない場合は、友だち追加を促すサブウィンドウが表示されます。
 - LINE公式アカウントをブロックしている場合は、ブロック解除を促すサブウィンドウが表示されます。
@@ -670,7 +670,7 @@ LIFFアプリのURLを、`line://app/{liffId}`（非推奨）の形式でシェ�
 
 LIFFブラウザでは、LIFFアプリからLIFFアプリでない外部サイトを開いた場合、「外部サイトに遷移した」ということを示すポップアップが表示されます。
 
-![外部サイトに遷移した時のポップアップ](/media/news/2022/liff-opening-external-site-ja.jpg){className="[\"border\",\"w-fix-240\"]"}
+![外部サイトに遷移した時のポップアップ](/media/news/2022/liff-opening-external-site-ja.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ポップアップは、同じウィンドウで外部サイトを開いた場合にのみ表示されます。別のウィンドウで外部サイトを開いた場合は、ポップアップは表示されません。
 

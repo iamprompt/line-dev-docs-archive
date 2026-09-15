@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/quick-fill/design-regulations
-__hash__: EwrIa9V4ePHVEnHIdCBV0i2XUYcjcLHEUdM2oEphCvk
+__hash__: lGj5BZoT1FDLBtqGLqyiD4Dn7A9_jDVZhEI4wkYLu4M
 seo:
   title: 共通プロフィールのクイック入力のデザインレギュレーション
   description: null
@@ -72,13 +72,13 @@ LINEミニアプリにクイック入力を組み込む際は、以下のよう�
 
 自動入力するフォーム以外の画面でモーダルを表示することは禁止されています。
 
-![](/media/line-mini-app/quick-fill/prohibited-screen-transition-01.png){className="[\"bg-border\",\"w-fix-480\"]"}
+![](/media/line-mini-app/quick-fill/prohibited-screen-transition-01.webp){className="[\"bg-border\",\"w-fix-480\"]"}
 
 #### 入力フォームに存在しない項目を取得する
 
 入力フォームに存在しない項目を取得することは禁止されています。たとえば会員登録フォームにフリガナの項目がないにも関わらず、フリガナの情報を取得することは禁止です。
 
-![](/media/line-mini-app/quick-fill/prohibited-screen-transition-02.png){className="[\"bg-border\",\"w-fix-480\"]"}
+![](/media/line-mini-app/quick-fill/prohibited-screen-transition-02.webp){className="[\"bg-border\",\"w-fix-480\"]"}
 
 #### フォームへの自動入力を飛ばして確認画面へ遷移する
 
@@ -100,7 +100,7 @@ LINEミニアプリにクイック入力を組み込む際は、以下を遵守�
 
 ボタンは変形や加工、アニメーション、効果（拡大、回転、装飾）などを加えず、そのまま使用してください。禁止事項について詳しくは、「[自動入力ボタンの禁止事項](#auto-fill-button-prohibition)」を参照してください。
 
-![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-02.png){className="[\"border\",\"w-fix-600\"]"}
+![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-02.webp){className="[\"border\",\"w-fix-600\"]"}
 
 ### 自動入力ボタンの配置
 
@@ -108,17 +108,17 @@ LINEミニアプリにクイック入力を組み込む際は、以下を遵守�
 
 #### 左揃えの例
 
-![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-03.png){className="[\"border\",\"w-fix-600\"]"}
+![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-03.webp){className="[\"border\",\"w-fix-600\"]"}
 
 #### 中央揃えの例
 
-![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-04.png){className="[\"border\",\"w-fix-600\"]"}
+![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-04.webp){className="[\"border\",\"w-fix-600\"]"}
 
 #### 配置する際の注意事項
 
 自動入力ボタンは、ボタンを押したことによって入力されるフォームが認識できる適切な位置に配置してください。
 
-![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-05.png){className="[\"border\",\"w-fix-600\"]"}
+![](/media/line-mini-app/quick-fill/auto-fill-button-guideline-05.webp){className="[\"border\",\"w-fix-600\"]"}
 
 #### ボタンの周囲にはクリアスペースを確保してください
 

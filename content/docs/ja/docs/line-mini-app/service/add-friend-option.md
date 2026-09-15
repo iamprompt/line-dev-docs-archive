@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/add-friend-option
-__hash__: TVmyM5NG2oSj5_iwxe9fAM47lGp1NFjT5j05x5HTkds
+__hash__: jiUuofnzQQBP4jqfWIG3lucJ6yz7n2ZlScK9niSNe5g
 seo:
   title: LINEミニアプリ上でLINE公式アカウントを友だち追加する（友だち追加オプション）
   description: ''
@@ -18,7 +18,7 @@ seo:
 
 LINEミニアプリの[アクセス許可要求画面](/docs/line-mini-app/develop/configure-console/#verification-screen)や[チャネル同意画面](/docs/line-mini-app/develop/configure-console/#consent-screen-settings)に、LINE公式アカウントを友だち追加するオプションを表示できます。これを、友だち追加オプションと呼びます。
 
-![](/media/line-mini-app/channel-consent-simplification/add-friend-option-verification-screen-ja.png){className="[\"border\",\"w-fix-320\",\"inline-block\",\"mb-0-important\"]"} ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-channel-consent-screen-ja.png){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
+![](/media/line-mini-app/channel-consent-simplification/add-friend-option-verification-screen-ja.webp){className="[\"border\",\"w-fix-320\",\"inline-block\",\"mb-0-important\"]"} ![](/media/line-mini-app/channel-consent-simplification/add-friend-option-channel-consent-screen-ja.webp){className="[\"border\",\"w-fix-320\",\"inline-block\"]"}
 
 ::admonition{title="認証プロバイダーの場合、認可画面上の友だち追加オプションはデフォルトでオンになります" type="tip"}
 LINEミニアプリチャネルが[認証プロバイダー](/docs/line-developers-console/overview/#certified-provider)に属している場合、アクセス許可要求画面やチャネル同意画面上の友だち追加オプションは、デフォルトでオンになります。

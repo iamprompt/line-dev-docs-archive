@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/rich-menus-overview
-__hash__: QbMe0dBJSPjOH2dVHSD5fyxqTeHnC-xOG1swp1ABfSM
+__hash__: ufeWy716vZdO5M4XG5c6sy9jVS436GhqvhtQJVAJSzg
 seo:
   title: リッチメニューの概要
   description: null
@@ -26,7 +26,7 @@ seo:
 
 リッチメニューは、リッチメニュー画像、タップ領域、およびトークルームメニューで構成されます。
 
-![](/media/messaging-api/rich-menu/bot-demo-rich-menu-image.png){className="[\"w-fix-240\"]"}
+![](/media/messaging-api/rich-menu/bot-demo-rich-menu-image.webp){className="[\"w-fix-240\"]"}
 
 1. リッチメニュー画像：メニューの項目を含む1枚の画像（JPEGまたはPNG）ファイルです。画像の要件について詳しくは、『Messaging APIリファレンス』の「[リッチメニューの画像の要件](/reference/messaging-api/#upload-rich-menu-image-requirements)」を参照してください。
 2. タップ領域：メニューの項目として分割した領域。ポストバックイベントを返したり、URLを開いたりするさまざまなアクションを各項目に設定します。

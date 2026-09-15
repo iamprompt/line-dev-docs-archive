@@ -9,7 +9,7 @@ description: >-
   specifications as follows:
 meta: '{"date":"2022-08-04 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2022/2022-08-04-liff-update-line-12-13-0
-__hash__: oHrxvAV6tT261JrCn8YTmW1_GjnNSVIZx-dOAEFTRGU
+__hash__: _Wbu0YV-KTLncsa4grlpaPg656l78swu7wbiCFNAjoM
 seo:
   title: >-
     In the LIFF browser on LINE version 12.13.0 or later, we'll change the
@@ -29,7 +29,7 @@ In the :glossary-tooltip[[LIFF browser](/glossary/#liff-browser)]{glossary-id="l
 
 When opening an external site that isn't a non-LIFF app from a LIFF app opened in the LIFF browser, a popup will appear indicating that "This is an external page".
 
-![A popup when moving to an external site](/media/news/2022/liff-opening-external-site-en.jpg){className="[\"border\",\"w-fix-240\"]"}
+![A popup when moving to an external site](/media/news/2022/liff-opening-external-site-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 The popup will only appear when opening the external site in the same window. If the external site is opened in a different window, the popup doesn't appear.
 

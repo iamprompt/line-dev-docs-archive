@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/messaging-api/beacon-device-spec
-__hash__: 8XUnwkrmatTMkqRhIasHsR6YuiYSiL_Kh_gyFqV1W2o
+__hash__: u3tAiJQygTx_OjTDQjNY4xL7IJ-imTxi55tVUSbdRf8
 seo:
   title: LINE Beacon device specification
   description: null
@@ -37,7 +37,7 @@ We strongly recommend that you send LINE Beacon packets at 152.5ms intervals.
 
 Compose advertising packets with three AD structures, as illustrated below.
 
-![LINE Beacon packet](/media/messaging-api/beacon-device-spec/advDataFormat.png){className="[\"border\"]"}
+![LINE Beacon packet](/media/messaging-api/beacon-device-spec/advDataFormat.webp){className="[\"border\"]"}
 
 The advertising packet specification is as follows. The hexadecimal values in the value column are equivalent to the bracketed values in the description column.
 

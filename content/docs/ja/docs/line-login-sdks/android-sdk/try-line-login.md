@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/android-sdk/try-line-login
-__hash__: ssQtKZuu0ee7U_0pZsK1yueIRta3ihUFWn_3t3Jx6Tc
+__hash__: x1ng5SaK02eZadscHUy3BFy5v0N0orBSOLp_CMgTcms
 seo:
   title: サンプルアプリを試してみる
   description: null
@@ -38,7 +38,7 @@ $ git clone https://github.com/line/line-sdk-android.git
 
 お手元のAndroid端末、またはAndroidエミュレーターを使ってサンプルアプリを実行します。初回ログイン時のみ、アプリのプロフィール情報取得に同意する必要があります。
 
-![サンプルアプリのメイン画面](/media/line-login/try-line-login/line-sdk-sample-app-home-screen.jpg){className="[\"border\",\"w-fix-200\"]"}
+![サンプルアプリのメイン画面](/media/line-login/try-line-login/line-sdk-sample-app-home-screen.webp){className="[\"border\",\"w-fix-200\"]"}
 
 ### ［Log in with LINE］ボタンを使う
 
@@ -66,7 +66,7 @@ $ git clone https://github.com/line/line-sdk-android.git
 
 ### LINE SDKの機能を試す
 
-![LINE SDKサンプルアプリリスト画面](/media/line-login/try-line-login/line-sdk-sample-app-api-list-screen.jpg){className="[\"border\",\"w-fix-200\"]"}
+![LINE SDKサンプルアプリリスト画面](/media/line-login/try-line-login/line-sdk-sample-app-api-list-screen.webp){className="[\"border\",\"w-fix-200\"]"}
 
 アプリにログインした後で［**API List Page**］ボタンをタップして、LINE SDKの以下の機能を試すことができます。
 

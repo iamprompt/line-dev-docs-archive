@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/liff-v2/request-friendship
-__hash__: _yNrcZhBMx4Q7UXXeJEn2Gbhz_glDChdH7mfrGf7J4k
+__hash__: wcslDAHf91VcvWnrW72VGEpRCAPhN_rgn99nSsOPGsM
 seo:
   description: ''
 ---
@@ -15,7 +15,7 @@ seo:
   :::reference-content
   LINE公式アカウントの友だち追加、またはブロック解除を促すサブウィンドウを表示します。
 
-  ![](/media/liff/request-friendship/request-friendship-add-friend-ja.png){className="[\"border\",\"w-fix-200\"]"}
+  ![](/media/liff/request-friendship/request-friendship-add-friend-ja.webp){className="[\"border\",\"w-fix-200\"]"}
 
   - LINE公式アカウントと友だちになっていない場合は、友だち追加を促すサブウィンドウが表示されます。
   - LINE公式アカウントをブロックしている場合は、ブロック解除を促すサブウィンドウが表示されます。

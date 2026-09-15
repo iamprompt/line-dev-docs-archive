@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-developers-console/login-account
-__hash__: xHSxNo5G-VKZG-cDK60UJVCiIx27Bjx37MmX7h_gkJk
+__hash__: _yjO7m17dYsQ5A0BhYvskk60RThuuzmoUy3SShlaYCI
 seo:
   title: LINE Developersコンソールへのログイン
   description: null
@@ -30,7 +30,7 @@ LINE Developersコンソールにログインするには、[LINE Developersサ�
 
 ログイン方法の違いについて詳しくは、ヘルプセンターの「[ログイン方法の違い](https://help2.line.me/business_id/web/?lang=ja&contentId=20011265){rel="[\"nofollow\"]"}」を参照してください。
 
-![](/media/line-developers-console/login-account-01-ja.png){className="[\"border\",\"w-fix-360\"]"}
+![](/media/line-developers-console/login-account-01-ja.webp){className="[\"border\",\"w-fix-360\"]"}
 
 ### LINEアカウントでログインする
 
@@ -65,11 +65,11 @@ Yahoo! JAPAN IDのログイン方法について詳しくは、『Yahoo! JAPAN I
 
 LINEアカウントまたはビジネスアカウントで[LINE Developersコンソール](/console/)に初めてログインしたら、開発者アカウントを作成します。［**開発者名**］と［**メールアドレス**］を入力します。[LINE開発者契約](https://terms2.line.me/LINE_Developers_Agreement?lang=ja){rel="[\"nofollow\"]"}をよく読み、同意できる場合はチェックボックスにチェックを入れて、［**アカウントの作成**］をクリックします。この作業は、初回ログイン時のみ必要です。
 
-![開発者アカウント作成画面](/media/line-developers-console/developer-registration-01-ja.png){className="[\"border\",\"w-fix-520\"]"}
+![開発者アカウント作成画面](/media/line-developers-console/developer-registration-01-ja.webp){className="[\"border\",\"w-fix-520\"]"}
 
 開発者アカウントが作成できたら、開発者アカウント作成完了画面が表示されます。
 
-![開発者アカウント作成完了画面](/media/line-developers-console/developer-registration-02-ja.png){className="[\"border\",\"w-fix-520\"]"}
+![開発者アカウント作成完了画面](/media/line-developers-console/developer-registration-02-ja.webp){className="[\"border\",\"w-fix-520\"]"}
 
 ## アカウントの関係
 

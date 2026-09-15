@@ -6,7 +6,7 @@ meta: >-
   {"date":"2017-07-24 00:00 UTC","tags":"line-app, line-official-account,
   messaging-api","priority":1000,"locale":"ja"}
 path: /ja/_partials/faq/how-are-the-url-previews-generated
-__hash__: ayiUgtfveWd5VRlaWe6yJwTmPMGNb7X9FqLeZwK0H8o
+__hash__: AnYAvSCMc_GOrzLzjmeHNXGOKr-aeWgPcSDcGT4etU8
 seo:
   title: トークのURLプレビューはどのようにして生成されますか？
   description: LINEでは、ウェブサイトのOpen Graphタグを使用してURLプレビューが生成されます。
@@ -24,7 +24,7 @@ LINEで使用される3つのOGPタグ：
 
 URLプレビューの例：
 
-![URL preview in chat](/media/faq/chat-preview.png){className="[\"border\"]"}
+![URL preview in chat](/media/faq/chat-preview.webp){className="[\"border\"]"}
 
 ::admonition{title="OGPの設定" type="note"}
 OGPの設定をしていない場合でも、URL内の記載の任意の文言・画像などが自動取得され、URLプレビューが生成されます。

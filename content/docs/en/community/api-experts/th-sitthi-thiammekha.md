@@ -4,12 +4,12 @@ navigation: true
 description: ''
 meta: >-
   {"sidebar":false,"search_index":false,"feedback_form":false,"name":"Sitthi
-  Thiammekha","img":"th-sitthi-thiammekha.png","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
+  Thiammekha","img":"th-sitthi-thiammekha.webp","region":"Thailand","location":null,"expert-since":null,"line-api":"Messaging
   API, LINE MINI App, LIFF, LINE Login","skills":"Node.js, Python, JavaScript,
   Firebase, Vue.js,  SQL, PHP, NLP, IoT,
   AI","git":"https://github.com/kamnan43","fb":"https://www.facebook.com/sitthi.thiammekha","twitter":""}
 path: /en/community/api-experts/th-sitthi-thiammekha
-__hash__: NqYlZYcRAyJB3Ad_JjySSn0--SpQijK3r3ILo9fo0ys
+__hash__: vTkjva4zIjAzAw_xRZWhgfohO2h3I06vBLJFL0Zlm28
 seo:
   title: LINE API Expert - Sitthi Thiammekha
   description: ''
