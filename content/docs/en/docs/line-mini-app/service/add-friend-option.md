@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/service/add-friend-option
-__hash__: CIffRcPDkLD04mhgojUk306WTrz-CaP6tzbF1Rb7Mg4
+__hash__: zJMCENzUNbLF0vo1_NyLON7BitPXrF4Vu8PhCFCx7fA
 seo:
   title: >-
     Add a LINE Official Account as a friend in a LINE MINI App (add friend
@@ -150,6 +150,16 @@ For more information, see [`liff.permission.requestAll()`](/reference/liff/#perm
 The verification screen may also be displayed when you execute a [method that requires permissions other than the `openid` scope](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid). In this case, the LINE Official Account configured as the **Default LINE Official Account** is displayed. You can’t switch to another LINE Official Account.
 
 ##### Switch the LINE Official Account displayed on the channel consent screen
+
+::admonition
+---
+title: >-
+  The feature to switch the LINE Official Account displayed on the channel
+  consent screen is temporarily suspended
+type: note
+---
+Due to a technical issue, the feature to switch the LINE Official Account displayed on the channel consent screen is temporarily suspended. For more information, see the news from [September 15, 2026](/news/2026/09/15/use-multiple-accounts/).
+::
 
 To switch the LINE Official Account displayed on the channel consent screen, add the `prompt_bot_id` query parameter to the :glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"} or :glossary-tooltip[[permanent link](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"}. For the `prompt_bot_id` query parameter, specify the ID of the LINE Official Account that users are prompted to add as a friend, using its basic ID or :glossary-tooltip[[premium ID](/glossary/#premium-id)]{glossary-id="premium-id"}.
 

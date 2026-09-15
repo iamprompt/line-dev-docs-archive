@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/add-friend-option
-__hash__: jiUuofnzQQBP4jqfWIG3lucJ6yz7n2ZlScK9niSNe5g
+__hash__: kLRJ_xYcoTOkRw77y3zFYSKmxVXCFcw78pxFtAXjWzM
 seo:
   title: LINEミニアプリ上でLINE公式アカウントを友だち追加する（友だち追加オプション）
   description: ''
@@ -138,6 +138,14 @@ try {
 なお、アクセス許可要求画面は、[`openid`スコープ以外の権限を必要とするメソッド](/docs/line-mini-app/develop/channel-consent-simplification/#request-permissions-other-than-openid)を実行した際にも表示されることがあります。この場合、［**デフォルトのLINE公式アカウント**］に設定したLINE公式アカウントが表示されます。任意のLINE公式アカウントに切り替えることはできません。
 
 ##### チャネル同意画面に表示するLINE公式アカウントを切り替える
+
+::admonition
+---
+title: 「チャネル同意画面に表示するLINE公式アカウントを切り替える」機能は提供を一時停止しています
+type: note
+---
+「チャネル同意画面に表示するLINE公式アカウントを切り替える」機能は、技術的な問題があり、提供を一時停止しています。詳しくは、[2026年9月15日](/news/2026/09/15/use-multiple-accounts/)のニュースを参照してください。
+::
 
 チャネル同意画面に表示するLINE公式アカウントを切り替えるには、:glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}または:glossary-tooltip[[パーマネントリンク](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"}に`prompt_bot_id`クエリパラメータを付与します。`prompt_bot_id`クエリパラメータには、友だち追加を促すLINE公式アカウントのIDを、ベーシックIDまたは:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}で指定します。
 
