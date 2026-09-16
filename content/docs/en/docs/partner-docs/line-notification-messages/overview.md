@@ -8,7 +8,7 @@ description: >-
   added the LINE Official Account as a friend.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/line-notification-messages/overview
-__hash__: FtxclSbKHqgsfuN8z5_6809S44RhTNEeUfjjEkqi4HA
+__hash__: tiYLCSTzQFe-ueuCUnyfOPD8G-ctn2dtB2ENuQBxZA0
 seo:
   title: LINE notification messages overview
   description: >-
@@ -73,3 +73,4 @@ For more information about the language setting of the LINE app, see [Changing t
 - [LINE notification messages API reference](/reference/line-notification-messages/)
 - [Webhook delivery completion event](/docs/partner-docs/line-notification-messages/message-sending-complete-webhook-event/)
 - [Flow when receiving a LINE notification message](/docs/partner-docs/line-notification-messages/flow-when-receiving-message/)
+- [Get statistics of LINE notification messages](/docs/partner-docs/line-notification-messages/statistics/)

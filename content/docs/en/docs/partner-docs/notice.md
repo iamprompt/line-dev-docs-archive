@@ -5,7 +5,7 @@ description: Notice for corporate customers. See also the News.
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/partner-docs/notice
-__hash__: TPtAgmgdH8DPi7BCuXbnOd601bBs_h85ZundAO5II4k
+__hash__: NmZdxzt4cHDMHWJX5zJo9Y2KKyXeBSuOC-fA5oAXY10
 seo:
   title: Notice for corporate customers
   description: Notice for corporate customers. See also the News.
@@ -14,6 +14,14 @@ seo:
 # :page-title
 
 :markdown-controlsNotice for corporate customers. See also the [News](/news/).
+
+2026/09/16
+
+## You can now get statistics per unit for LINE notification messages
+
+You can now get statistics per unit for LINE notification messages (template) and LINE notification messages (flexible). Specify a unit name in the `customAggregationUnits` property when sending a LINE notification message, then use the [Get statistics per unit](/reference/messaging-api/#get-statistics-per-unit) endpoint to get statistics for messages sent with the same unit name.
+
+For more information, see [Get statistics of LINE notification messages](/docs/partner-docs/line-notification-messages/statistics/) in the LINE notification messages documentation.
 
 2026/05/18
 

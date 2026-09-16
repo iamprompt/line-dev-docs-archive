@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-name-list-of-units
-__hash__: 4-PCYhdE3yvoqeU2JBkrkhDPKiBqTSgcpYU_jIPvayc
+__hash__: QJLI48cAEFqqqyMup0GMlCNvPTMBkoUXZD7EdRYGnZY
 seo:
   description: ''
 ---
@@ -13,7 +13,11 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/message/aggregation/list"}::reference-with-code
   :::reference-content
-  当月中にメッセージに付与したユニット名の、一意なリストを取得します。
+  当月中にプッシュメッセージ、マルチキャストメッセージ、またはLINE通知メッセージに付与したユニット名の、一意なリストを取得します。
+
+    ::::admonition{title="LINE通知メッセージのユニット名が反映されるタイミング" type="tip"}
+    LINE通知メッセージの場合、APIリクエストが受け付けられても、メッセージが実際に送信されるまでは、指定したユニット名はリストに含まれません。詳しくは、『LINE通知メッセージドキュメント』の「[統計情報は実際にメッセージが送信されてから更新される](/docs/partner-docs/line-notification-messages/statistics/#statistics-are-aggregated-when-the-message-is-sent)」を参照してください。
+    ::::
   :::
 
   :::reference-code
@@ -89,7 +93,7 @@ seo:
       #undefined
       Array of strings
 
-      ユニット名を表す文字列の配列です。配列には、当月中にメッセージに付与したユニット名が一意に含まれています。
+      ユニット名を表す文字列の配列です。配列には、当月中にプッシュメッセージ、マルチキャストメッセージ、またはLINE通知メッセージに付与したユニット名が一意に含まれています。
       :::::
 
       :::::parameter-table-entry{annotation="含まれないことがあります"}

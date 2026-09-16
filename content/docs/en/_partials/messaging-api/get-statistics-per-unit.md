@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-statistics-per-unit
-__hash__: ar0ZgtyFPrhNOHrRoGj2E3a4VPG-Ja5jeiotI1zxZRU
+__hash__: V600RicHyey_y6sFxiqCJ6bFkOfK6F4b2sR6v1_kAMo
 seo:
   description: ''
 ---
@@ -13,7 +13,7 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/insight/message/event/aggregation?customAggregationUnit={customAggregationUnit}&from={from}&to={to}"}::reference-with-code
   :::reference-content
-  You can check the per-unit statistics of how users interact with push messages and multicast messages sent from your LINE Official Account.
+  You can check the per-unit statistics of how users interact with push messages, multicast messages, or LINE notification messages sent from your LINE Official Account.
 
   You can get statistics on a per-message and per-message bubble basis for each unit.
 
@@ -33,6 +33,14 @@ seo:
     Use this endpoint to get statistics per narrowcast message or broadcast message.
 
     - [Get user interaction statistics](/reference/messaging-api/#get-message-event)
+    ::::
+
+    ::::admonition
+    ---
+    title: When statistics for LINE notification messages are updated
+    type: tip
+    ---
+    For LINE notification messages, even if the API request is accepted, updates to the statistics for that message don't begin until the message is actually sent. For more information, see [Statistics are updated after the message is actually sent](/docs/partner-docs/line-notification-messages/statistics/#statistics-are-aggregated-when-the-message-is-sent) in the LINE notification messages documentation.
     ::::
   :::
 

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-name-list-of-units
-__hash__: nMNPfc28vbnimEhTOgNyrmWtFXmYLSsRWBFlL3aSIJk
+__hash__: 108jE33WpSWFa6BQEurD6S447MHnbHY8zvO0WacIasI
 seo:
   description: ''
 ---
@@ -13,7 +13,15 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/message/aggregation/list"}::reference-with-code
   :::reference-content
-  You can get a unique list of unit names assigned to messages during this month.
+  You can get a unique list of unit names assigned to push messages, multicast messages, or LINE notification messages during this month.
+
+    ::::admonition
+    ---
+    title: When unit names for LINE notification messages are reflected
+    type: tip
+    ---
+    For LINE notification messages, even if the API request is accepted, the specified unit name isn't included in the list until the message is actually sent. For more information, see [Statistics are updated after the message is actually sent](/docs/partner-docs/line-notification-messages/statistics/#statistics-are-aggregated-when-the-message-is-sent) in the LINE notification messages documentation.
+    ::::
   :::
 
   :::reference-code
@@ -89,7 +97,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       Array of strings
 
-      An array of strings indicating the unit names. The array uniquely contains the unit names assigned to messages during this month.
+      An array of strings indicating the unit names. The array uniquely contains the unit names assigned to push messages, multicast messages, or LINE notification messages during this month.
       :::::
 
       :::::parameter-table-entry{annotation="Not always included"}

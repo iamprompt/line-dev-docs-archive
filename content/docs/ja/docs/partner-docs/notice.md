@@ -5,7 +5,7 @@ description: 法人ユーザー向けのお知らせです。ニュースもあ�
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /ja/docs/partner-docs/notice
-__hash__: lp1OstUC6la71PU-xTUI0p-QY2ia4B7gHjEzGJ0nlmI
+__hash__: wucyATtxTazdxBDGk9WxHwwzKQBAPadG5wDKp4WhbBk
 seo:
   title: 法人ユーザー向けのお知らせ
   description: 法人ユーザー向けのお知らせです。ニュースもあわせてご参照ください。
@@ -14,6 +14,14 @@ seo:
 # :page-title
 
 :markdown-controls法人ユーザー向けのお知らせです。[ニュース](/news/)もあわせてご参照ください。
+
+2026/09/16
+
+## LINE通知メッセージの統計情報をユニットごとに取得できるようになりました
+
+LINE通知メッセージ（テンプレート）およびLINE通知メッセージ（フレキシブル）の統計情報を、ユニットごとに取得できるようになりました。LINE通知メッセージを送信する際に`customAggregationUnits`プロパティにユニット名を指定すると、同じユニット名を付与して送信したメッセージの統計情報を「[ユニットごとの統計情報を取得する](/reference/messaging-api/#get-statistics-per-unit)」エンドポイントで取得できます。
+
+詳しくは、『LINE通知メッセージドキュメント』の「[LINE通知メッセージの統計情報を取得する](/docs/partner-docs/line-notification-messages/statistics/)」を参照してください。
 
 2026/05/18
 

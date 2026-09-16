@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-number-of-units
-__hash__: ofwYeMA_IK7qg6x0An5pwAdjFvbo0GIe5iirCGTG8oA
+__hash__: tW9XuuPNWfGe1aa0Rp5MtfmFyBiFJlELGkHl4K3sZmY
 seo:
   description: ''
 ---
@@ -13,7 +13,11 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/message/aggregation/info"}::reference-with-code
   :::reference-content
-  当月中にメッセージに付与したユニット名の種類数を取得します。メッセージ送信時にユニット名を付与する際の制限については、『Messaging APIドキュメント』の「[ユニット名の種類数の上限](/docs/messaging-api/unit-based-statistics-aggregation/#limit-to-the-number-of-units)」を参照してください。
+  当月中にプッシュメッセージ、マルチキャストメッセージ、またはLINE通知メッセージに付与したユニット名の種類数を取得します。メッセージ送信時にユニット名を付与する際の制限については、『Messaging APIドキュメント』の「[ユニット名の種類数の上限](/docs/messaging-api/unit-based-statistics-aggregation/#limit-to-the-number-of-units)」を参照してください。
+
+    ::::admonition{title="LINE通知メッセージのユニット名が反映されるタイミング" type="tip"}
+    LINE通知メッセージの場合、APIリクエストが受け付けられても、メッセージが実際に送信されるまでは、指定したユニット名は種類数にカウントされません。詳しくは、『LINE通知メッセージドキュメント』の「[統計情報は実際にメッセージが送信されてから更新される](/docs/partner-docs/line-notification-messages/statistics/#statistics-are-aggregated-when-the-message-is-sent)」を参照してください。
+    ::::
   :::
 
   :::reference-code
@@ -61,7 +65,7 @@ seo:
       #undefined
       Number
 
-      当月中にメッセージに付与したユニット名の種類数。
+      当月中にプッシュメッセージ、マルチキャストメッセージ、またはLINE通知メッセージに付与したユニット名の種類数。
       :::::
     ::::
   :::

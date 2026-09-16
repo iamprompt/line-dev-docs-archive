@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/partner-docs/template
-__hash__: Dy6LMNZqngiC_gikojRdeIuGlxnDTpk5AqdI1prCweY
+__hash__: WjHn1Sou09tKIlDZJ3DsAO6MY7eqRkjmzUARq3AZbAo
 seo:
   description: ''
 ---
@@ -79,7 +79,10 @@ seo:
                       "url": "https://example.com/ContactUs/"
                   }
               ]
-          }
+          },
+          "customAggregationUnits": [
+              "shipping"
+          ]
       }'
       ```
       :::::
@@ -188,6 +191,33 @@ The LINE notification messages API doesn't allow API request retries using [retr
   - `emphasizedItem`: The [item](#send-line-notification-message-template-items) to emphasize.
   - `items`: The array of [items](#send-line-notification-message-template-items).
   - `buttons`: The array of [buttons](#send-line-notification-message-template-buttons).
+  :::
+
+  :::parameter-table-entry{optional=""}
+  #undefined
+  customAggregationUnits
+
+  #undefined
+  Array of strings
+
+  Name of aggregation unit. Case-sensitive. For example, `Promotion_a` and `Promotion_A` are regarded as different unit names.  
+
+  Max unit number: 1  
+
+  Max character limit: 30  
+
+  Supported character types: Half-width alphanumeric characters (`a-z`, `A-Z`, `0-9`) and underscore (`_`)
+
+  For more information about assigning a unit name, see [Assign a unit name](/docs/messaging-api/unit-based-statistics-aggregation/#assign-names-to-units-when-sending-messages) in the Messaging API documentation.
+
+    ::::admonition{title="Unit names may not be assigned" type="note"}
+    During the current month (from the 1st to the last day of the month), you can assign up to 1,000 different unit name types to push messages, multicast messages, and LINE notification messages. The number of unit name types is counted across all message types. If you send messages with a 1,001st or subsequent type of unit name, the messages will be sent, but those unit names won't be assigned to the messages.
+
+    If you have many types of unit names, confirm that unit names can be assigned or have been assigned using one of the following methods:
+
+    - Before sending a message, use the [Get the number of unit name types assigned during this month](/reference/messaging-api/#get-the-number-of-unit-name-types-assigned-during-this-month) endpoint to confirm that the number of unit names for the current month has not yet reached 1,000.
+    - After sending a message, use the [Get a list of unit names assigned during this month](/reference/messaging-api/#get-a-list-of-unit-names-assigned-during-this-month) endpoint to confirm that the assigned unit name exists.
+    ::::
   :::
 
   :::parameter-table-entry{optional=""}
@@ -353,7 +383,7 @@ The LINE notification messages API doesn't allow API request retries using [retr
 
   | Code  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
   | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | `400` | Problem with the request. Consider these reasons:- An invalid message destination is specified. - An invalid message object is specified. - Your LINE Official Account can't use the specified template.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+  | `400` | Problem with the request. Consider these reasons:- An invalid message destination is specified. - An invalid message object is specified. - A unit name longer than the maximum number of characters (30) is specified in the `customAggregationUnits` property. - A unit name containing an invalid character is specified in the `customAggregationUnits` property. - Your LINE Official Account can't use the specified template.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
   | `403` | Not authorized to use this endpoint.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
   | `422` | Failed to send a LINE notification message using the LINE notification messages API. Consider these reasons:- There is no LINE user associated with the phone number specified as the target for sending messages. - The phone number specified as the message sending target wasn't issued in LINE notification message service target country. For more information, see [Conditions for sending LINE notification messages](/docs/partner-docs/line-notification-messages/technical-specs/#conditions-for-sending-line-notification-messages). - The LINE user associated with the phone number specified as the message sending target has [refused to receive LINE notification messages](/docs/partner-docs/line-notification-messages/technical-specs/#how-to-consent-for-line-notification-messages). - The LINE user associated with the phone number specified as the message sending target hasn't agreed to LINE's Privacy Policy (revised in March 2022 or later). |
 
@@ -406,6 +436,17 @@ The LINE notification messages API doesn't allow API request retries using [retr
           {
             "message": "The value must be a valid SHA-256 digest.",
             "property": "to"
+          }
+        ]
+      }
+
+      // If the unit name contains invalid characters (400 Bad Request)
+      {
+        "message": "The request body has 1 error(s)",
+        "details": [
+          {
+            "message": "Invalid characters are included in custom aggregation unit",
+            "property": "customAggregationUnits[0]"
           }
         ]
       }

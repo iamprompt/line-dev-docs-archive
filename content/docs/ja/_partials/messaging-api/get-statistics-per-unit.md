@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-statistics-per-unit
-__hash__: X9NvGQtcCPh8dBrPSdilGjsRIAswBCMMneLrwOfZXqM
+__hash__: GP88NEMz0SJyN8ygiUYDk1AMD-yLLMjVTp5Gt__rKkg
 seo:
   description: ''
 ---
@@ -13,7 +13,7 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/insight/message/event/aggregation?customAggregationUnit={customAggregationUnit}&from={from}&to={to}"}::reference-with-code
   :::reference-content
-  LINE公式アカウントから送信したプッシュメッセージやマルチキャストメッセージに対して、ユーザーがどのように操作したかを示す統計情報をユニットごとに確認できます。
+  LINE公式アカウントから送信したプッシュメッセージ、マルチキャストメッセージ、またはLINE通知メッセージに対して、ユーザーがどのように操作したかを示す統計情報をユニットごとに確認できます。
 
   統計情報はユニットごとに、1メッセージ（message）単位、および1吹き出し（bubble）単位で取得できます。
 
@@ -33,6 +33,10 @@ seo:
     ナローキャストメッセージまたはブロードキャストメッセージについて、メッセージごとの統計情報を取得したい場合は、次のエンドポイントを使用してください。
 
     - [ユーザーの操作に基づく統計情報を取得する](/reference/messaging-api/#get-message-event)
+    ::::
+
+    ::::admonition{title="LINE通知メッセージの統計情報が更新されるタイミング" type="tip"}
+    LINE通知メッセージの場合、APIリクエストが受け付けられても、メッセージが実際に送信されるまでは、そのメッセージの統計情報の更新は始まりません。詳しくは、『LINE通知メッセージドキュメント』の「[統計情報は実際にメッセージが送信されてから更新される](/docs/partner-docs/line-notification-messages/statistics/#statistics-are-aggregated-when-the-message-is-sent)」を参照してください。
     ::::
   :::
 

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/send-multicast
-__hash__: nbRaKSnloRgpoTBtDH67GuQo9PzIc4Xe1BbK7M-NGQA
+__hash__: PAUqn7sG27cDY5grYTjA3MZEfKwQQ931QLmvTHxDbLY
 seo:
   description: ''
 ---
@@ -149,12 +149,12 @@ For more information on rate limits, see [Rate limits](#rate-limits).
   For more information about assigning a unit name, see [Assign a unit name](/docs/messaging-api/unit-based-statistics-aggregation/#assign-names-to-units-when-sending-messages) in the Messaging API documentation.
 
     ::::admonition{title="Unit names may not be assigned" type="note"}
-    During the current month (from the 1st to the last day of the month), you can send messages with up to 1,000 different unit names. If you try to assign the 1,001st or later unit name, the messages will be sent. However, the unit name won't be assigned.
+    During the current month (from the 1st to the last day of the month), you can assign up to 1,000 different unit name types to push messages, multicast messages, and LINE notification messages. The number of unit name types is counted across all message types. If you send messages with a 1,001st or subsequent type of unit name, the messages will be sent, but those unit names won't be assigned to the messages.
 
     If you have many types of unit names, confirm that unit names can be assigned or have been assigned using one of the following methods:
 
-    - Before sending a message, use the [Get the number of unit name types assigned during this month](#get-the-number-of-unit-name-types-assigned-during-this-month) endpoint to confirm that the number of unit names for the current month has not yet reached 1,000
-    - After sending a message, use the [Get a list of unit names assigned during this month](#get-a-list-of-unit-names-assigned-during-this-month) endpoint to confirm that the assigned unit name exists
+    - Before sending a message, use the [Get the number of unit name types assigned during this month](#get-the-number-of-unit-name-types-assigned-during-this-month) endpoint to confirm that the number of unit names for the current month has not yet reached 1,000.
+    - After sending a message, use the [Get a list of unit names assigned during this month](#get-a-list-of-unit-names-assigned-during-this-month) endpoint to confirm that the assigned unit name exists.
     ::::
   :::
 ::
@@ -185,11 +185,11 @@ For more information on rate limits, see [Rate limits](#rate-limits).
   :::reference-content
   Returns the following HTTP status code and an error response:
 
-  | Code  | Description                                                                                                                                                                                                                                                                                                                                                                                  |
-  | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | `400` | Couldn't send the message. Consider these reasons:- A user ID that doesn't exist in this channel is specified, such as a user ID obtained from channels under other providers. - A non-user ID, such as a group ID, is specified. - An invalid message object is specified.                                                                                                                  |
-  | `409` | A request containing the same retry key has already been accepted. For more information, see [Response if the request has already been accepted](#retry-api-request-response) in the Retrying an API request.                                                                                                                                                                                |
-  | `429` | The number of requests has exceeded the limit. Consider these reasons:- Exceeded the [rate limit](#send-multicast-rate-limit) for this endpoint. - Exceeded [the target limit for sending messages this month](#get-quota).  For more information about the target limit for sending messages, see [Messaging API pricing](/docs/messaging-api/pricing/) in the Messaging API documentation. |
+  | Code  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+  | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | `400` | Couldn't send the message. Consider these reasons:- A user ID that doesn't exist in this channel is specified, such as a user ID obtained from channels under other providers. - A non-user ID, such as a group ID, is specified. - An invalid message object is specified. - A unit name longer than the maximum number of characters (30) is specified in the `customAggregationUnits` property. - A unit name containing an invalid character is specified in the `customAggregationUnits` property. |
+  | `409` | A request containing the same retry key has already been accepted. For more information, see [Response if the request has already been accepted](#retry-api-request-response) in the Retrying an API request.                                                                                                                                                                                                                                                                                           |
+  | `429` | The number of requests has exceeded the limit. Consider these reasons:- Exceeded the [rate limit](#send-multicast-rate-limit) for this endpoint. - Exceeded [the target limit for sending messages this month](#get-quota).  For more information about the target limit for sending messages, see [Messaging API pricing](/docs/messaging-api/pricing/) in the Messaging API documentation.                                                                                                            |
 
   For more information, see [Status codes](#status-codes) and [Error responses](#error-responses) in [Common specifications](#common-specifications) section.
 
@@ -205,6 +205,17 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       // If your request contains invalid parameters（400 Bad Request）
       {
         "message": "The property, to[1], in the request body is invalid (line: -, column: -)"
+      }
+
+      // If the unit name contains invalid characters (400 Bad Request)
+      {
+        "message": "The request body has 1 error(s)",
+        "details": [
+          {
+            "message": "Invalid characters are included in custom aggregation unit",
+            "property": "customAggregationUnits[0]"
+          }
+        ]
       }
       ```
       :::::

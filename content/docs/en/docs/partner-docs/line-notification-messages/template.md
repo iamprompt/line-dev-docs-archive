@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/docs/partner-docs/line-notification-messages/template
-__hash__: k7UDAjlPnz-hyRut5qmtJWJyu49qVzpMTRGla36wpfw
+__hash__: Wr4GSGqpZLl8vcT68-EFhfUngMhCMfy1p6fEosh5Mac
 seo:
   title: LINE notification messages (template)
   description: ''
@@ -71,7 +71,8 @@ For example, the above message can be sent by creating the following JSON:
         "url": "https://example.com/ContactUs/"
       }
     ]
-  }
+  },
+  "customAggregationUnits": ["shipping"]
 }
 ```
 

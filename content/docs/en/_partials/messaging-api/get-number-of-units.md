@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-number-of-units
-__hash__: c9VqFTYrIp1piH55noCsAj1bG-uWzs0YXqxPu0jzLwI
+__hash__: QG4HqgLlRPln-_2iOrhN9fjbTOtRSMz89XhyN_toi5s
 seo:
   description: ''
 ---
@@ -13,7 +13,15 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/message/aggregation/info"}::reference-with-code
   :::reference-content
-  You can get the number of unit name types assigned to messages during this month. For more information about the limit on unit names assigned when sending messages, see [Maximum number of unit name types](/docs/messaging-api/unit-based-statistics-aggregation/#limit-to-the-number-of-units) in the Messaging API documentation.
+  You can get the number of unit name types assigned to push messages, multicast messages, or LINE notification messages during this month. For more information about the limit on unit names assigned when sending messages, see [Maximum number of unit name types](/docs/messaging-api/unit-based-statistics-aggregation/#limit-to-the-number-of-units) in the Messaging API documentation.
+
+    ::::admonition
+    ---
+    title: When unit names for LINE notification messages are reflected
+    type: tip
+    ---
+    For LINE notification messages, even if the API request is accepted, the specified unit name isn't counted toward the number of unit name types until the message is actually sent. For more information, see [Statistics are updated after the message is actually sent](/docs/partner-docs/line-notification-messages/statistics/#statistics-are-aggregated-when-the-message-is-sent) in the LINE notification messages documentation.
+    ::::
   :::
 
   :::reference-code
@@ -61,7 +69,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       Number
 
-      Number of unit name types assigned to messages during this month.
+      Number of unit name types assigned to push messages, multicast messages, or LINE notification messages during this month.
       :::::
     ::::
   :::

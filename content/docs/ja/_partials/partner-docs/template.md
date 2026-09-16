@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/partner-docs/template
-__hash__: jHRE-LeQehyQYp6k5DUR31beEh2E_kYiYGwiUeytIpQ
+__hash__: dgpxJ89Q52af0JKpQ7PhctMPkm8tZwEXVllVguhbJpY
 seo:
   description: ''
 ---
@@ -75,7 +75,10 @@ seo:
                       "url": "https://example.com/ContactUs/"
                   }
               ]
-          }
+          },
+          "customAggregationUnits": [
+              "shipping"
+          ]
       }'
       ```
       :::::
@@ -184,6 +187,33 @@ LINE通知メッセージAPIでは、[リトライキー](/reference/messaging-a
   - `emphasizedItem`：強調したい[アイテム](#send-line-notification-message-template-items)
   - `items`：[アイテム](#send-line-notification-message-template-items)の配列
   - `buttons`：[ボタン](#send-line-notification-message-template-buttons)の配列
+  :::
+
+  :::parameter-table-entry{optional=""}
+  #undefined
+  customAggregationUnits
+
+  #undefined
+  Array of strings
+
+  任意の集計単位のユニット名。大文字と小文字は区別されます。たとえば`promotion_a`と`promotion_A`は別のユニットとして扱われます。  
+
+  最大ユニット数：1  
+
+  最大文字数：30  
+
+  使用可能文字種：半角英数字（`a`〜`z`、`A`〜`Z`、`0`〜`9`）、アンダースコア（`_`）
+
+  ユニット名の付与について詳しくは、『Messaging APIドキュメント』の「[ユニット名を付与する](/docs/messaging-api/unit-based-statistics-aggregation/#assign-names-to-units-when-sending-messages)」を参照してください。
+
+    ::::admonition{title="ユニット名が付与されないことがあります" type="note"}
+    当月中（その月の1日から末日）に、プッシュメッセージ、マルチキャストメッセージ、またはLINE通知メッセージに最大で1,000種類のユニット名を付与して送信できます。メッセージの種類にかかわらず、ユニット名の種類数は合計でカウントされます。1,001種類目以降のユニット名を付与してメッセージを送信すると、メッセージ自体は送られますが、1,001種類目以降のユニット名は付与されません。
+
+    ユニット名の種類が多い場合は、以下のいずれかの方法でユニット名が付与できる、あるいは付与できたことを確認してください。
+
+    - 当月のユニット名がまだ1,000種類に達していないことを、メッセージの送信前に「[当月中に付与したユニット名の種類数を取得する](/reference/messaging-api/#get-the-number-of-unit-name-types-assigned-during-this-month)」エンドポイントで確認する。
+    - メッセージの送信後に「[当月中に付与したユニット名のリストを取得する](/reference/messaging-api/#get-a-list-of-unit-names-assigned-during-this-month)」エンドポイントで、付与したユニット名が存在することを確認する。
+    ::::
   :::
 
   :::parameter-table-entry{optional=""}
@@ -349,7 +379,7 @@ LINE通知メッセージAPIでは、[リトライキー](/reference/messaging-a
 
   | コード   | 説明                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
   | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | `400` | リクエストに問題があります。次のような理由が考えられます。- メッセージの送信先が無効です。 - 無効なメッセージオブジェクトが指定されています。 - このLINE公式アカウントでは指定したテンプレートは使用できません。                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+  | `400` | リクエストに問題があります。次のような理由が考えられます。- メッセージの送信先が無効です。 - 無効なメッセージオブジェクトが指定されています。 - `customAggregationUnits`プロパティに最大文字数（30文字）より長いユニット名が指定されています。 - `customAggregationUnits`プロパティに無効な文字を含むユニット名が指定されています。 - このLINE公式アカウントでは指定したテンプレートは使用できません。                                                                                                                                                                                                                                                                                                                         |
   | `403` | このエンドポイントを使う権限がありません。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
   | `422` | LINE通知メッセージ（テンプレート）の送信に失敗しました。以下のような理由が考えられます。- メッセージ送信対象に指定した電話番号に紐づくLINEユーザーが存在しません。 - メッセージ送信対象に指定した電話番号は、LINE通知メッセージのサービス対象国で発行されたものではありません。詳しくは、「[LINE通知メッセージが送信される条件](/docs/partner-docs/line-notification-messages/technical-specs/#conditions-for-sending-line-notification-messages)」を参照してください。 - メッセージ送信対象に指定した電話番号に紐づくLINEユーザーが[LINE通知メッセージの受信を拒否](/docs/partner-docs/line-notification-messages/technical-specs/#how-to-consent-for-line-notification-messages)しています。 - メッセージ送信対象に指定した電話番号に紐づくLINEユーザーが、LINEのプライバシーポリシー（2022年3月改定以降のもの）に同意していません。 |
 
@@ -402,6 +432,17 @@ LINE通知メッセージAPIでは、[リトライキー](/reference/messaging-a
           {
             "message": "The value must be a valid SHA-256 digest.",
             "property": "to"
+          }
+        ]
+      }
+
+      // ユニット名に無効な文字が含まれている場合（400 Bad Request）
+      {
+        "message": "The request body has 1 error(s)",
+        "details": [
+          {
+            "message": "Invalid characters are included in custom aggregation unit",
+            "property": "customAggregationUnits[0]"
           }
         ]
       }

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/docs/partner-docs/line-notification-messages/template
-__hash__: pjKMfHX7UdPLnRes-wMFh-7J6_MybfAz_Xof1lACZGo
+__hash__: 33t9lUoU7rnLJLqH7r_7Ll_ck_N0ttKLVK7hnG59uAM
 seo:
   title: LINE通知メッセージ（テンプレート）
   description: ''
@@ -67,7 +67,8 @@ LINE通知メッセージ（テンプレート）は日本、タイ、台湾のL
         "url": "https://example.com/ContactUs/"
       }
     ]
-  }
+  },
+  "customAggregationUnits": ["shipping"]
 }
 ```
 
