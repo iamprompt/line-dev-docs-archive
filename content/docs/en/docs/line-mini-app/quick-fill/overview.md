@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/quick-fill/overview
-__hash__: Wj0K7_Hrqqbod6C2A5g4S3-pATc9bKpcde54sauk3Mc
+__hash__: B_6djtQX7dmqJwfe2ZKrfgm-s3HQDsUWH-CO_2qteFs
 seo:
   title: Overview of Common Profile Quick-fill
   description: null
@@ -69,7 +69,7 @@ After your application has been accepted to use Quick-fill, specify the scope of
 
 To specify the scope for a verified MINI App, you must click the **Search enable** button in the **Review request** tab to enable search for the LINE MINI App.
 
-![](/media/line-mini-app/quick-fill/quick-fill-scope-ja.png){className="[\"border\",\"w-fix-680\"]"}
+![](/media/line-mini-app/quick-fill/quick-fill-scope-en.png){className="[\"border\",\"w-fix-680\"]"}
 
 For more information about the types of scope that you can use with Quick-fill, see [Types of scope that can be selected in the LINE Developers Console](#scope).
 
