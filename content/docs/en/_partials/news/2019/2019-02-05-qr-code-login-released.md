@@ -8,7 +8,7 @@ description: >-
   password.
 meta: '{"date":"2019-02-05 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2019/2019-02-05-qr-code-login-released
-__hash__: ZfLbKtWTmpM8bHT7QjKmVQft2_P7Nf2uK4aXuLAfMss
+__hash__: REJzQGVc_I-1kzFsPNX66KkyKmiM1_QYHtS9nWH-fuM
 seo:
   title: 'LINE Login: You can log in with a QR Code'
   description: >-
@@ -20,7 +20,7 @@ seo:
 
 Web apps that use [LINE Login v2.1](/services/line-login/) now allow users to log in by scanning a QR code on the login screen. They can scan the QR code with LINE on their smartphones. As before, they can also log in with their email address and password.
 
-![QR Code login](/media/news/qr-code-login.png){className="[\"w-fix-320\"]"}
+![QR Code login](/media/news/2019/qr-code-login.png){className="[\"w-fix-320\"]"}
 
 We have applied this new feature to all channels with LINE Login v2.1 enabled. You don't need any further development.
 

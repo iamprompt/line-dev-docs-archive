@@ -6,7 +6,7 @@ description: >-
   amount of endpoints, was long and difficult to navigate.
 meta: '{"date":"2020-07-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-08-messaging-api-reference-enhancement
-__hash__: Ray09f6OQ8mya4wt8AISEXpGQt0Wj01G-MAuQv1xYUE
+__hash__: buq_avEEOemwD9FIf2M3DvDd8ZrtEYjcveTzDqqhzvQ
 seo:
   title: Improved Messaging API reference and side menu
   description: >-
@@ -24,7 +24,7 @@ All endpoints are divided into categories such as Webhooks and OAuth.
 
 You can see the overview for each category and select **Show** to display the category's endpoints.
 
-![Messaging API Webhooks overview](/media/news/messaging-api-category-en.png){className="[\"border\",\"w-fix-480\"]"}
+![Messaging API Webhooks overview](/media/news/2020/messaging-api-category-en.png){className="[\"border\",\"w-fix-480\"]"}
 
 ### Side menu shows current page location
 
@@ -32,7 +32,7 @@ When you scroll through the page, the highlighted location on the side menu auto
 
 For example, when you scroll through the page and see the "response" section under the "Webhooks" category, "response" under "Webhooks" is also highlighted in the side menu.
 
-![Webhook location on page is reflected in side menu](/media/news/messaging-api-response-en.webp){className="[\"border\",\"w-fix-480\"]"}
+![Webhook location on page is reflected in side menu](/media/news/2020/messaging-api-response-en.webp){className="[\"border\",\"w-fix-480\"]"}
 
 If you're lost on the page, you can now refer to the side menu to find your location.
 
@@ -40,13 +40,13 @@ If you're lost on the page, you can now refer to the side menu to find your loca
 
 Developers who use the browser's in-page search should use the built-in search function to find the endpoint. You can search endpoints by title search or full-text search.
 
-![Search for an endpoint](/media/news/messaging-api-rich-menu-search-en.webp){className="[\"border\",\"w-fix-240\"]"}
+![Search for an endpoint](/media/news/2020/messaging-api-rich-menu-search-en.webp){className="[\"border\",\"w-fix-240\"]"}
 
 ### Tell us your thoughts about the LINE Developers site
 
 If you use the new [Messaging API Reference](/reference/messaging-api/) and notice issues or find it difficult to use, select "Was this page helpful?" in the bottom right corner and let us know.
 
-![Feedback form title](/media/news/messaging-api-user-voice-en.png){className="[\"border\",\"w-fix-240\"]"}
+![Feedback form title](/media/news/2020/messaging-api-user-voice-en.png){className="[\"border\",\"w-fix-240\"]"}
 
 Thanks to everyone for their valuable feedback. We read each message we receive.
 

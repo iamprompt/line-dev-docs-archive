@@ -7,7 +7,7 @@ description: >-
   the documentation you need.
 meta: '{"date":"2020-01-27 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-27-site-redesign
-__hash__: bRrTgAb0sDmUhi9vZhy1Fw9D64Q0nzboOXha46d5TFw
+__hash__: 9Ry9K6TOP4kgNqN8t9nMFesu3l3-48YZ7MhG1nqdL6I
 seo:
   title: Introducing the redesigned LINE Developers site
   description: >-
@@ -32,7 +32,7 @@ We've improved the responsive design of the API reference. The layout adapts to 
 
 As you type your search terms, suggestions appear instantly, helping you find the information you need more quickly.
 
-![Search Results](/media/news/search-results.webp){className="[\"border\",\"w-fix-640\"]"}
+![Search Results](/media/news/2020/search-results.webp){className="[\"border\",\"w-fix-640\"]"}
 
 Note: Although the new search is faster, it only returns results based on page titles and headings. We'll collect internal feedback over the coming weeks to see if people are satisfied with this new search, or we need to adjust it.
 

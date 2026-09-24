@@ -6,7 +6,7 @@ description: >-
   we've added a notification center to the LINE Developers Console.
 meta: '{"date":"2020-11-11 00:00 UTC","tags":"Console","locale":"en"}'
 path: /en/_partials/news/2020/2020-11-11-line-developers-console-notification-center
-__hash__: D0w5dtOTUJ3XV_JFqiAD0nzkktpqNdnNDYekcdddJL8
+__hash__: QIPFkt-7SNi7YVfip_VK3Ha814RbXmiUxSENGxtOoXE
 seo:
   title: Introducing the LINE Developers Console notification center
   description: >-
@@ -33,7 +33,7 @@ After clicking the icon, the notification center will appear. You can view any r
 
 You also have complete control over the notifications you receive and where you receive them. Go to your profile in the LINE Developers Console and, in the **Settings** section, toggle the slider on (right) or off (left) next to the notification option to enable or disable that setting.
 
-![LINE Developers Console notification center settings](/media/news/console-notification-center-settings.png){className="[\"border\",\"w-fix-400\"]"}
+![LINE Developers Console notification center settings](/media/news/2020/console-notification-center-settings.png){className="[\"border\",\"w-fix-400\"]"}
 
 ::admonition{title="Email notifications" type="note"}
 Your email address registered in your LINE Developers Console profile must be verified to receive email notifications. If the email address in your profile is labeled as **Your email is not yet verified**, click on **Get Verification Link** to verify your email address.

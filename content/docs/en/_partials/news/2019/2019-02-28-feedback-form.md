@@ -6,7 +6,7 @@ description: >-
   the feedback form again at the right bottom of our documentation pages.
 meta: '{"date":"2019-02-28 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2019/2019-02-28-feedback-form
-__hash__: nCTf5crZFWU9-nVn-IpFsC5pslwfZuxXKg_DP7ucNk8
+__hash__: RrzMaorR6r6nbdNpLlkgj9ZYMjc6MAEAC9BUj88u5Dc
 seo:
   title: Introducing our new feedback form
   description: >-
@@ -20,4 +20,4 @@ If you would like to report any bugs in our documentation or would like to leave
 
 We greatly appreciate your feedback and we are committed to improving your experience using our developer products.
 
-![Feedback form](/media/news/feedback-feature2.webp){className="[\"border\",\"w-fix-600\"]"}
+![Feedback form](/media/news/2019/feedback-feature2.webp){className="[\"border\",\"w-fix-600\"]"}

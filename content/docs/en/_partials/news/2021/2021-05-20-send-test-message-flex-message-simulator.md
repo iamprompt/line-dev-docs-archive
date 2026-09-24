@@ -10,7 +10,7 @@ meta: >-
   {"date":"2021-05-20 00:00 UTC","tags":"Flex Message Simulator, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-05-20-send-test-message-flex-message-simulator
-__hash__: FRXx4urVSTBam3CXjiGBR3j2WfWInorwGqlC5Lyxvak
+__hash__: 0wwr16YjZ3BOECQAXdWBE5Ru3Nycw-G0BIRMbCdRBjE
 seo:
   title: You can now send test messages from Flex Message Simulator
   description: >-
@@ -26,7 +26,7 @@ To send a test message, go to [Flex Message Simulator](/flex-simulator/). Log in
 
 On the top right corner, click the **Send...** button.
 
-![Send button shown on the top right corner of Flex Message Simulator](/media/news/fms-buttons-en.png){className="[\"border\",\"w-fix-360\"]"}
+![Send button shown on the top right corner of Flex Message Simulator](/media/news/2021/fms-buttons-en.png){className="[\"border\",\"w-fix-360\"]"}
 
 You'll see a "Send Message" popup, listing the LINE account you've logged in with as a destination by default.
 
@@ -40,19 +40,19 @@ If the account you're logged in to the LINE Developers Console is a business acc
 You also need to be friends with the [Flex Message Simulator Official Account](https://line.me/R/ti/p/@flexmessagesim?from=page){rel="[\"nofollow\"]"} before you can receive test messages.
 ::
 
-![Popup showing the destination and a send button](/media/news/fms-select-destination-en.png){className="[\"border\",\"w-fix-360\"]"}
+![Popup showing the destination and a send button](/media/news/2021/fms-select-destination-en.png){className="[\"border\",\"w-fix-360\"]"}
 
 To send a test Flex Message to this account, select the account and click the **Send** button. You should receive a sample Flex Message and a message indicating that it's a sample message in your LINE Account.
 
-![Test Flex Message](/media/news/fms-test-message-en.webp){className="[\"border\",\"w-fix-360\"]"}
+![Test Flex Message](/media/news/2021/fms-test-message-en.webp){className="[\"border\",\"w-fix-360\"]"}
 
 You can also add alternative destinations by clicking **Register destination** in the popup.
 
-![Popup showing the register destination button](/media/news/fms-register-destination-en.png){className="[\"border\",\"w-fix-360\"]"}
+![Popup showing the register destination button](/media/news/2021/fms-register-destination-en.png){className="[\"border\",\"w-fix-360\"]"}
 
 Scan the displayed QR code with the LINE app of an account you'd like to register as a destination. You'll receive a verification code on your LINE app.
 
-![Popup display QR code](/media/news/fms-qr-code-en.png){className="[\"border\",\"w-fix-360\"]"}
+![Popup display QR code](/media/news/2021/fms-qr-code-en.png){className="[\"border\",\"w-fix-360\"]"}
 
 Once you enter and confirm the verification code in the Flex Message Simulator, your alternative destination will be registered.
 

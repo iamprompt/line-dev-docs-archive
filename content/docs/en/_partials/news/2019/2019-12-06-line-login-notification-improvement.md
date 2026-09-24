@@ -6,7 +6,7 @@ description: >-
   notification from the Official LINE account will be different.
 meta: '{"date":"2019-12-06 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2019/2019-12-06-line-login-notification-improvement
-__hash__: bUJnfsTK4s77YWkMZptDXFSBqNNtUFtgh-7L8o9KjBY
+__hash__: zVD2gcVyYEHdnNm-hHGEFERy2IxZOd7rfonHlrwJ66E
 seo:
   title: New LINE Login notification message
   description: >-
@@ -18,7 +18,7 @@ When a user logs in to a site that uses LINE Login v2.1, the content of the noti
 
 Before, the notification differed depending on the login method that was used. Starting December 9th, 2019, the notification content will be consistent regardless of how the user logs in.
 
-![LINE Login notification message](/media/news/line-login-notification.png){className="[\"border\"]"}
+![LINE Login notification message](/media/news/2019/line-login-notification.png){className="[\"border\"]"}
 
 | dummy            | dummy                                                                                                                                                                                                                                                                                           |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -6,7 +6,7 @@ description: >-
   Developersサイトでは2020年1月27日にリニューアルを行い、サイトの再設計により、全文検索ではなくタイトル検索を用いてサイト内検索の高速化を図りました。
 meta: '{"date":"2020-04-13 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-04-13-full-text-search-released
-__hash__: nC23Tqv-nWzaw70zizWR08ufMGMVfJzJsSKqWF8aq3w
+__hash__: wX4SezUntTKtNUnbOHLBYkWnfJ04nrUz7vMZ17K40Lo
 seo:
   title: 全文検索機能が復活しました
   description: >-
@@ -20,10 +20,10 @@ LINE Developersサイトでは[2020年1月27日にリニューアル](/news/2020
 
 全文検索を利用したい場合は、検索キーワードを入力して**全文検索**を選択します。
 
-![全文検索](/media/news/full-text-search-ja.png){className="[\"border\",\"w-fix-240\"]"}
+![全文検索](/media/news/2020/full-text-search-ja.png){className="[\"border\",\"w-fix-240\"]"}
 
 **全文検索**を選択すると、全文検索の結果が表示されます。
 
-![全文検索結果](/media/news/full-text-search-result-ja.webp){className="[\"border\",\"w-fix-640\"]"}
+![全文検索結果](/media/news/2020/full-text-search-result-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 貴重なご意見をお寄せいただき、ありがとうございました。今後も引き続き、LINE Developersサイトと開発者向けドキュメントの品質向上に努めて参ります。

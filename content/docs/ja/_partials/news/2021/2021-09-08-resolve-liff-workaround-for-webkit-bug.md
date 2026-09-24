@@ -7,7 +7,7 @@ description: >-
   14.1.2で修正されました。
 meta: '{"date":"2021-09-08 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-09-08-resolve-liff-workaround-for-webkit-bug
-__hash__: XZVzGwZfvdpDCPoOcfK1J076jTNfddklBmYMzV5EBlQ
+__hash__: 3ybIC6tYHBsuZYWTDnYuzB_CfN3hHv86jdMEfneD95M
 seo:
   title: LIFF間遷移前のLIFFアプリに戻る際にコンテンツが正しく表示されなくなる不具合が修正されました
   description: >-
@@ -22,7 +22,7 @@ seo:
 
 2021年5月31日以前は、iOS14.5.x上のLINEまたはSafari、もしくはmacOS上のSafari 14.xにおいて以下の不具合が発生していました。
 
-![LIFF間遷移前のLIFFアプリに戻ると画面が空白になる図](/media/news/content-vanish-bug.png){className="[\"w-fix-680\"]"}
+![LIFF間遷移前のLIFFアプリに戻ると画面が空白になる図](/media/news/2021/content-vanish-bug.png){className="[\"w-fix-680\"]"}
 
 [暫定対応](/news/2021/05/31/liff-workaround-for-webkit-bug/#temporary-support)として、LIFF URLの追加情報の内、URLフラグメント（`#URL-fragment`）のみリダイレクト時に除外することで不具合を回避しました。
 

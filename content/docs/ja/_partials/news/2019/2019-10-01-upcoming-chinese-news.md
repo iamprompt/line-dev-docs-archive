@@ -6,7 +6,7 @@ description: >-
   Developersの最新情報を簡単に入手できるようになります。
 meta: '{"date":"2019-10-01 05:00 UTC","tags":"LINE Platform","locale":"ja"}'
 path: /ja/_partials/news/2019/2019-10-01-upcoming-chinese-news
-__hash__: aoLnh1u44NA7g0VW_HuQElnwlynzpwu2oct0NN60vEQ
+__hash__: egxBLb42mxBJU-4YOCeANpd45uec8tDhbt51mM56NmI
 seo:
   title: ニュースを中国語でも提供します
   description: >-
@@ -18,4 +18,4 @@ seo:
 
 言語設定を中国語に変更するには、ページのフッター（最下部）にある言語メニューから「繁體中文」を選択してください。
 
-![language option](/media/news/language-option.png){className="[\"border\"]"}
+![language option](/media/news/2019/language-option.png){className="[\"border\"]"}

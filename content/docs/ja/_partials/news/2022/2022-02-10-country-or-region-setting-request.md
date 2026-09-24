@@ -6,7 +6,7 @@ meta: >-
   {"date":"2022-02-10 00:00 UTC","tags":"messaging-api, liff, line-mini-app,
   LINE Login, console, line-blockchain","locale":"ja"}
 path: /ja/_partials/news/2022/2022-02-10-country-or-region-setting-request
-__hash__: p7xWWA0ycn1XnQFJYebniy-IsmRVlC3G3CAWYmuLKr8
+__hash__: Bu1U68GHLK0JnjdPJFmyB8c0c7rXaUc-J2mu1hSFhwg
 seo:
   title: 【更新】改正個人情報保護法の施行に伴い、LINE公式アカウントや連動アプリを管理する会社または事業者は、所在国・地域を設定してください
   description: ''
@@ -81,7 +81,7 @@ seo:
 
 審査の申請時に設定した［**地域**］と同じ値が反映されます。申請時に、以下のチェックボックスの内容への同意が必要です。
 
-![LINEミニアプリを提供する地域と、サービス事業主の所在国・地域が同一であることを表明し、保証します。](/media/news/country-or-region-setting-request-mini-ja.png){className="[\"border\",\"w-fix-800\"]"}
+![LINEミニアプリを提供する地域と、サービス事業主の所在国・地域が同一であることを表明し、保証します。](/media/news/2022/country-or-region-setting-request-mini-ja.png){className="[\"border\",\"w-fix-800\"]"}
 
 #### 作成済みのLINEミニアプリチャネルへの設定
 

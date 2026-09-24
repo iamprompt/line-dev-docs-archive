@@ -7,7 +7,7 @@ description: >-
   URLに戻るが、画面の表示が変わらない、もしくは画面が空白になる不具合が発生していました。
 meta: '{"date":"2021-05-31 01:00 UTC","tags":"LIFF, LINE MINI app","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-05-31-liff-workaround-for-webkit-bug
-__hash__: XF7zcrQ8xYgyQZCSI47vUXszY_OahQYF87OpGImJlys
+__hash__: mBB5lfT1slBm_slsKEVNJ5TniW0HDjXGrpnn4nkColA
 seo:
   title: LIFF間遷移前のLIFFアプリに戻る際にコンテンツが正しく表示されなくなる不具合に暫定的な対応を行いました
   description: >-
@@ -20,7 +20,7 @@ iOS14.5.x上のLINEまたはSafari、もしくはmacOS上のSafari 14.xにおい
 
 **LIFF間遷移前のLIFFアプリに戻ると画面が空白になる**
 
-![LIFF間遷移前のLIFFアプリに戻ると画面が空白になる図](/media/news/content-vanish-bug.png){className="[\"w-fix-680\"]"}
+![LIFF間遷移前のLIFFアプリに戻ると画面が空白になる図](/media/news/2021/content-vanish-bug.png){className="[\"w-fix-680\"]"}
 
 ### 不具合が発生する環境
 

@@ -6,7 +6,7 @@ description: >-
   Developersサイトのドキュメントのページに、フィードバックフォームを追加しました。ページ下部の［フィードバックを送る］ボタンをクリックするとフォームが開きますので、ドキュメントについてお気づきになったことやご意見・ご要望をお寄せいただければ幸いです。
 meta: '{"date":"2017-12-20 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2017/2017-12-20-feedback-form
-__hash__: TYA41k9CFRm7uAMRNBDNGzby0ggHUi4jddRX-XJfEh8
+__hash__: xKasHqNPFZ2oaH6g_onfxI-63T76zxoLM44xOgii0l0
 seo:
   title: フィードバックフォームをご利用いただけるようになりました
   description: >-
@@ -18,4 +18,4 @@ LINE Developersサイトのドキュメントのページに、フィードバ�
 
 皆様からのフィードバックを参考に、LINEの開発者向けサービスを使いやすいものにすべく取組んでまいります。どうぞよろしくお願い申し上げます。
 
-![Feedback form](/media/news/feedback-feature.png){className="[\"border\",\"w-fix-600\"]"}
+![Feedback form](/media/news/2017/feedback-feature.png){className="[\"border\",\"w-fix-600\"]"}

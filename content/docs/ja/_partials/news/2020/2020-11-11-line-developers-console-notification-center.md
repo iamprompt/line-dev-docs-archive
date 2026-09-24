@@ -4,7 +4,7 @@ navigation: true
 description: 開発者のみなさんがアラートやお知らせを受け取れるように、LINE Developersコンソールに通知センターを追加しました。
 meta: '{"date":"2020-11-11 00:00 UTC","tags":"Console","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-11-line-developers-console-notification-center
-__hash__: t_i5FKIg9c1zdCwAOjmklAKjXDZZNPrDHIPsyDKRGSM
+__hash__: 05246Ao4ZwQ49FwH2bx1tK5pf4BBIlkLiLhNDkMqH3c
 seo:
   title: LINE Developersコンソールに通知センターを追加しました
   description: 開発者のみなさんがアラートやお知らせを受け取れるように、LINE Developersコンソールに通知センターを追加しました。
@@ -29,7 +29,7 @@ seo:
 
 また、受け取りたい通知の種類や受信方法も設定できます。LINE Developersコンソールのプロフィールにアクセスし、［**設定**］で、通知オプションの横にあるトグルボタンをオン（右）またはオフ（左）にして、その設定を有効または無効にします。
 
-![LINE Developersコンソール 通知センター設定](/media/news/console-notification-center-settings-ja.png){className="[\"border\",\"w-fix-400\"]"}
+![LINE Developersコンソール 通知センター設定](/media/news/2020/console-notification-center-settings-ja.png){className="[\"border\",\"w-fix-400\"]"}
 
 ::admonition{title="通知メール" type="note"}
 通知メールを受信するには、LINE Developersコンソールのプロフィールに登録されているメールアドレスが認証済みである必要があります。プロフィールのメールアドレスに［**未認証**］と表示されていた場合は、［**認証用のリンクを取得**］をクリックして、メールアドレスの認証を行ってください。

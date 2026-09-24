@@ -8,7 +8,7 @@ meta: >-
   {"date":"2018-07-12 00:00 UTC","tags":"Clova Extensions Kit,
   Clova","locale":"ja"}
 path: /ja/_partials/news/2018/2018-07-12-clova-release
-__hash__: DZyWULmauxumnRRSLdvAuyPZp3Z-albOcXDG3Bypm_w
+__hash__: clFdllwrToSk0fnMJIjO19u3wtrb06rVbP0PoT9hAg4
 seo:
   title: Clova Extensions Kitが公開されました
   description: >-
@@ -18,7 +18,7 @@ seo:
 
 本日、AIアシスタントClovaのスキルを誰でも開発できるClova Extensitons Kitを公開しました。あわせて公開した[Clova Developer Center](https://clova-developers.line.biz/){rel="[\"nofollow\"]"}では、チュートリアルや各種ドキュメントを参照できます。
 
-![Clova Developer Center](/media/news/clovaDevCenterTop.webp){className="[\"border\",\"w-fix-640\"]"}
+![Clova Developer Center](/media/news/2018/clovaDevCenterTop.webp){className="[\"border\",\"w-fix-640\"]"}
 
 今回のClova Extensions Kitの公開と同時に、[LINE Developersコンソール](/console/)でClovaのスキルチャネルも作成できるようになりました。
 

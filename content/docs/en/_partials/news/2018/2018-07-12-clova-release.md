@@ -9,7 +9,7 @@ meta: >-
   {"date":"2018-07-12 00:00 UTC","tags":"Clova Extensions Kit,
   Clova","locale":"en"}
 path: /en/_partials/news/2018/2018-07-12-clova-release
-__hash__: LFQway4ve5B7YKuI64sNS7837lcd0njxLGtndIoacZs
+__hash__: 7zHjIIfN9IDB191JfSPbp3xQZY6hx3R2UyWOgLzHWvY
 seo:
   title: CLOVA Extensions Kit released
   description: >-
@@ -20,7 +20,7 @@ seo:
 
 We have released the CLOVA Extensions Kit that allows you to develop skills for CLOVA, AI assistant from LINE. We have also released the [CLOVA Developer Center](https://clova-developers.line.biz/){rel="[\"nofollow\"]"} for tutorials and documentation in Japanese.
 
-![CLOVA Developer Center](/media/news/clovaDevCenterTop.webp){className="[\"border\",\"w-fix-640\"]"}
+![CLOVA Developer Center](/media/news/2018/clovaDevCenterTop.webp){className="[\"border\",\"w-fix-640\"]"}
 
 Now you can create skill channels in the [LINE Developers Console](/console/).
 

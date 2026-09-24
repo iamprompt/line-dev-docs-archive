@@ -10,7 +10,7 @@ meta: >-
   {"date":"2022-02-10 00:00 UTC","tags":"messaging-api, liff, line-mini-app,
   LINE Login, console, line-blockchain","locale":"en"}
 path: /en/_partials/news/2022/2022-02-10-country-or-region-setting-request
-__hash__: wHXDCSoI1i3moJS6MOkh9FM7yUGqNYrXrfzr2Gk93tg
+__hash__: gnZXg4IudF0mfK0ZhYDhI5K56XHRJkmppO0Xt9XTfGw
 seo:
   title: >-
     [Updated] With the enforcement of the Amended Act on the Protection of
@@ -115,7 +115,7 @@ For items not listed in the table above, submit the form with the default values
 
 The same value as **Region** set at the time of review request will be reflected. At the time of review request, you must agree to the following checkbox:
 
-![I represent and warrant that the region to provide the LINE MINI App and service company's country or region are the same.](/media/news/country-or-region-setting-request-mini-en.png){className="[\"border\",\"w-fix-800\"]"}
+![I represent and warrant that the region to provide the LINE MINI App and service company's country or region are the same.](/media/news/2022/country-or-region-setting-request-mini-en.png){className="[\"border\",\"w-fix-800\"]"}
 
 #### Configuring for existing LINE MINI App channels
 

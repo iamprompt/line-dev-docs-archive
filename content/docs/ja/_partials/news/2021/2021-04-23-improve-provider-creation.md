@@ -4,7 +4,7 @@ navigation: true
 description: LINE Developersコンソールで、プロバイダーやMessaging APIチャネルの作成手順が一部変わり、より使いやすくなりました。
 meta: '{"date":"2021-04-23 00:00 UTC","tags":"Messaging API, Console","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-04-23-improve-provider-creation
-__hash__: lIkbr9rM9hDs2XJMzNkIz3VfLEX0GVuH8YXNu9ku3J0
+__hash__: 8uidiMEUMY4KJRXf9oxUdxtxZQ39Ow7c-JStRgYE4-8
 seo:
   title: プロバイダーやMessaging APIチャネルの作成手順が変わりました
   description: LINE Developersコンソールで、プロバイダーやMessaging APIチャネルの作成手順が一部変わり、より使いやすくなりました。
@@ -23,7 +23,7 @@ seo:
 
 開発者がプロバイダーを新しく作成する際に、ポップアップ内に「プロバイダーとは何か？」を解説したガイドテキストが表示されるようになりました。
 
-![新しいプロバイダーを作成するポップアップでプロバイダーの定義が一緒に表示される](/media/news/provider-popup-ja.png){className="[\"border\",\"w-fix-360\"]"}
+![新しいプロバイダーを作成するポップアップでプロバイダーの定義が一緒に表示される](/media/news/2021/provider-popup-ja.png){className="[\"border\",\"w-fix-360\"]"}
 
 新しくプロバイダーを作成する方法については、LINE Developersコンソールのドキュメントで「[プロバイダーを作成する](/docs/line-developers-console/overview/#creating-a-provider)」を参照してください。
 
@@ -33,7 +33,7 @@ seo:
 
 開発者がMessaging APIチャネルを作成すると、チャネル名、公式アカウント名、プロバイダー、注意事項が書かれたポップアップが表示されます。
 
-![チャネル名、公式アカウント名、プロバイダーが書かれたポップアップが表示される](/media/news/messaging-api-creation-popup-ja.png){className="[\"border\",\"w-fix-680\"]"}
+![チャネル名、公式アカウント名、プロバイダーが書かれたポップアップが表示される](/media/news/2021/messaging-api-creation-popup-ja.png){className="[\"border\",\"w-fix-680\"]"}
 
 開発者が［**OK**］をクリックすると、「情報利用に関する同意について」というポップアップが表示されます。
 

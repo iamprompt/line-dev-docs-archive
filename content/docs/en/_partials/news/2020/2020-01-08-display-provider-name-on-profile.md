@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-01-08 00:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-01-08-display-provider-name-on-profile
-__hash__: XmN-vQgqnpI8P2a8dQx2C_h8Aawdftjr1f3R8I452ag
+__hash__: ueoBr8uMnw7PtRzrVulbAQbbfqzx6jyxabBKcZ0tNM0
 seo:
   title: '[Updated] Make sure the provider name is correct'
   description: ''
@@ -18,6 +18,6 @@ Starting January 16, 2020, LINE Official Accounts using the Messaging API will d
 
 Corporate LINE Official Accounts may also have personal names registered as provider names. Make sure that the correct name is registered. The provider name can be changed from the [LINE Developers Console](/console/).
 
-![Profile](/media/news/display-provider-name-on-profile.jpg){className="[\"border\"]"}
+![Profile](/media/news/2020/display-provider-name-on-profile.jpg){className="[\"border\"]"}
 
 *The provider name is displayed in the red frame

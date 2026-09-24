@@ -5,7 +5,7 @@ description: >-
   2021年7月12日にお知らせしたとおり、LINEログインにおいて、自動ログインとシングルサインオン（SSO）によるログインが両方利用できる環境では、自動ログインが優先して動作します。
 meta: '{"date":"2021-09-21 00:00 UTC","tags":"LINE Login","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-09-21-line-login-disable-auto-login
-__hash__: MFt1cxsYcedox0r7CAOJJWfvK5vbKOvWMhyakJHW8PQ
+__hash__: 8hutE09D8X4YQAEnBc557PGQS8lLBMm0tEhWLfFrhyM
 seo:
   title: LINEログインで自動ログインを無効にするパラメータが追加されました
   description: >-
@@ -36,6 +36,6 @@ LINEログインを組み込んだウェブアプリにおいて、プライベ�
 
 このような自動ログインに失敗する環境において、LINEログインに失敗したユーザーに、自動ログインが有効な認可URLで再ログインを促してしまうと、繰り返しログインに失敗し続けることになります。一度自動ログインに失敗したら、`disable_auto_login`パラメータを使用し、自動ログインを無効にした認可URLで再ログインを促すことで、ログインの連続失敗を避けることができます。
 
-![自動ログインに失敗した時の簡易フロー図](/media/news/disable-auto-login-parameter-ja.png){className="[\"w-fix-720\",\"border\"]"}
+![自動ログインに失敗した時の簡易フロー図](/media/news/2021/disable-auto-login-parameter-ja.png){className="[\"w-fix-720\",\"border\"]"}
 
 詳しくは、『LINEログインドキュメント』の「[自動ログインに失敗した時の対応方法](/docs/line-login/how-to-handle-auto-login-failure/)」を参照してください。

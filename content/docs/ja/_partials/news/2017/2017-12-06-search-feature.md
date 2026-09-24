@@ -6,7 +6,7 @@ description: >-
   Developersサイトに検索機能が追加されました。サイドメニューの最上位にある検索バーを使って、［プロダクト］、［ドキュメント］、および［FAQ］の各セクションの内容を検索できます。
 meta: '{"date":"2017-12-06 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2017/2017-12-06-search-feature
-__hash__: QaNA7bUctVIQhk_kuLh7ycStW7-cZdeLVoSOx-Y8pyU
+__hash__: MHGTxsjCb--sFV1-xzbnh2s5GkxbtAvXhLTq9YGFanM
 seo:
   title: サイトに検索機能が追加されました
   description: >-
@@ -16,4 +16,4 @@ seo:
 
 必要な情報を見つけやすくするため、LINE Developersサイトに検索機能が追加されました。サイドメニューの最上位にある検索バーを使って、［[プロダクト](/services/)］、［[ドキュメント](/docs/)］、および［[FAQ](/faq/)］の各セクションの内容を検索できます。
 
-![Search bar](/media/news/search-bar.png){className="[\"border\"]"}
+![Search bar](/media/news/2017/search-bar.png){className="[\"border\"]"}

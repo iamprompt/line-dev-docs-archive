@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-10-08 00:00 UTC","tags":"Messaging API, Flex
   Message","new":"false","category":"Messaging API","locale":"ja"}
 path: /ja/_partials/news/2020/2020-10-08-flex-message-update-2-released
-__hash__: bEWc0snGMptfvgjTmjmZY1dww_-aOyE8CHL62pqZonY
+__hash__: '-O05PFJTe4OUFPyT3Gv_HdzGHWpmMTdsVTqIMmDR7qs'
 seo:
   title: 【更新】Flex Message Update 2がリリースされました
   description: ''
@@ -66,7 +66,7 @@ Flex Messageの[ボックス](/reference/messaging-api/#box)コンポーネン�
 ::admonition{title="空配列が指定できるとどんな場面で便利になる？" type="tip"}
 次の4つの四角のように、ボックスコンポーネントを装飾的に使う場合、今まではそれぞれのボックスに子要素としてフィラーコンポーネントなどを入れておく必要がありましたが、Flex Message Update 2からは空配列を指定するだけで済むようになりました。
 
-![offsetプロパティの例1](/media/news/flex-message-update-empty-array-tips.png){className="[\"border\"]"}
+![offsetプロパティの例1](/media/news/2020/flex-message-update-empty-array-tips.png){className="[\"border\"]"}
 
 一番左にある黄色いボックスコンポーネントのJSONデータを、変更前と変更後で比較してみましょう。
 

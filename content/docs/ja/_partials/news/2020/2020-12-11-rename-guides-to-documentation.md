@@ -6,7 +6,7 @@ description: >-
   Developersサイトでは、「開発者向けのドキュメントやAPIリファレンス」のカテゴリを「ガイド」という名称で呼んでいました。
 meta: '{"date":"2020-12-11 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-12-11-rename-guides-to-documentation
-__hash__: ZSV3yNskgPlNbE26QuWwrtxxpDXqsRtEKfo9p_SgB3A
+__hash__: _W4f_lhjP3QUwrvuHMPmyTZf_V7KIUCcUqWsWxH1s-4
 seo:
   title: LINE Developersサイトの「ガイド」の名称を「ドキュメント」へ変更しました
   description: >-
@@ -19,9 +19,9 @@ seo:
 開発者の皆さんがお探しの情報をより見つけやすくするため、このたびカテゴリの名称を「**ガイド**」から「**ドキュメント**」へ変更しました。
 
 - **変更前**  
-![ガイドをドキュメントに変更しました](/media/news/guide-to-documentation-before-ja.webp){className="[\"border\",\"w-fix-600\"]"}
+![ガイドをドキュメントに変更しました](/media/news/2020/guide-to-documentation-before-ja.webp){className="[\"border\",\"w-fix-600\"]"}
 - **変更後**  
-![ガイドをドキュメントに変更しました](/media/news/guide-to-documentation-after-ja.webp){className="[\"border\",\"w-fix-640\"]"}
+![ガイドをドキュメントに変更しました](/media/news/2020/guide-to-documentation-after-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 なお当該カテゴリ内の各ドキュメントやAPIリファレンスの内容に変更はありません。
 

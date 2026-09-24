@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-07-01 02:00 UTC","tags":"Outage report, Messaging
   API","locale":"en"}
 path: /en/_partials/news/2021/2021-07-01-messaging-api-outage
-__hash__: 281coIqGgNQ_ZM6k5Yf5oYGhaY_Rvars08dS5Rn_g8E
+__hash__: zw3J6MOxslFq3uCKQWIsHA7EQUuGDVYRAzumvNIdpdY
 seo:
   title: '[Resolved/Updated] Notice about service outage for the Messaging API'
   description: ''
@@ -49,7 +49,7 @@ During the above time period, a failure occurred in some requests where messages
 
 We have already unsent the messages that were displayed in error. Canceled messages will not be charged.
 
-![unsend message](/media/news/message-unsend-en.png){className="[\"w-fix-320\",\"border\"]"}
+![unsend message](/media/news/2021/message-unsend-en.png){className="[\"w-fix-320\",\"border\"]"}
 
 The number of bots affected by this outage is very limited, and we will be contacting the administrators of the affected bots (bot A and bot B) individually.
 

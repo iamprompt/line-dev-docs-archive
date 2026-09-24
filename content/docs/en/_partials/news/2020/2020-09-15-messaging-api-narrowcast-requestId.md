@@ -10,7 +10,7 @@ description: >-
   narrowcast message.
 meta: '{"date":"2020-09-15 01:00 UTC","tags":"Messaging API","locale":"en"}'
 path: /en/_partials/news/2020/2020-09-15-messaging-api-narrowcast-requestid
-__hash__: NHsoTcISw1b3iYONzVoCIx85W-DJsGzqRxQlI1w_afo
+__hash__: m4eLXBir6bs7WJEO3S_BkSK1AY3AkVl_agZ4samoawo
 seo:
   title: >-
     Redelivery object has been added to the criteria for narrowing down the
@@ -56,7 +56,7 @@ Similar to existing audience objects, you can specify the target based on comple
 
 Below is an example of a recipient object with *users with a specific chat tag* and (AND) *users who received a narrowcast message previously delivered* set as the target:
 
-![send target](/media/news/send_target_en.png){className="[\"w-fix-320\"]"}
+![send target](/media/news/2020/send_target_en.png){className="[\"w-fix-320\"]"}
 
 ```json
 "recipient": {

@@ -11,7 +11,7 @@ description: >-
   Safari 14.1.2 on macOS.
 meta: '{"date":"2021-09-08 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2021/2021-09-08-resolve-liff-workaround-for-webkit-bug
-__hash__: xe-tpXVbBG1XnSGgRFTqerKReq6Of0IBkuapQyPqCOE
+__hash__: YjgYtAIydDWubFplzovVKKk02NaWWsJdSC1oR12zL2E
 seo:
   title: >-
     We fixed the bug that caused content to be displayed incorrectly when
@@ -30,7 +30,7 @@ As announced in the news on [May 31, 2021](/news/2021/05/31/liff-workaround-for-
 
 Prior to May 31, 2021, the following issues occured with LINE or Safari on iOS 14.5.x or Safari 14.x on macOS.
 
-![Diagram of a blank screen when returning to the LIFF app before the transition between LIFF apps](/media/news/content-vanish-bug-en.png){className="[\"w-fix-680\"]"}
+![Diagram of a blank screen when returning to the LIFF app before the transition between LIFF apps](/media/news/2021/content-vanish-bug-en.png){className="[\"w-fix-680\"]"}
 
 We used a [temporary fix](/news/2021/05/31/liff-workaround-for-webkit-bug/#temporary-support) by excluding only the URL fragment from the additional information in the LIFF URL during the redirection.
 

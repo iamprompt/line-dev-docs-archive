@@ -4,7 +4,7 @@ navigation: true
 description: iOS版およびiPadOS版LINE v11.0.0以降、「セーフエリア」の取り扱いが厳格化します。
 meta: '{"date":"2021-01-21 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-01-21-about-liff-safe-area
-__hash__: aSzzvCtOiAbNx54hUU6TFAG9gvNuWfxhzT_AJv_5Rks
+__hash__: j9sZGQItizWCOzAVJEmfP-82byTQbY2VqWifljbNS-s
 seo:
   title: LIFFアプリおよびLINEミニアプリの「セーフエリア」の取り扱いが厳格化します
   description: iOS版およびiPadOS版LINE v11.0.0以降、「セーフエリア」の取り扱いが厳格化します。
@@ -38,7 +38,7 @@ html {
 ::admonition{title="「セーフエリア」とは" type="tip"}
 iOSおよびiPadOSの「セーフエリア」とは、角丸のディスプレイを持つデバイスで、ヘッダー/フッター部分に余白を残し、安全にレイアウトできる領域のことを指します。通常HTML内の`<meta>`タグに`viewport-fit=cover`を指定することで、セーフエリアを無効化し、ディスプレイ全体にレイアウトすることができます。
 
-![safe area](/media/news/safe-area_ja.png){className="[\"w-fix-600\"]"}
+![safe area](/media/news/2021/safe-area_ja.png){className="[\"w-fix-600\"]"}
 
 セーフエリアについて詳しくは、『Apple Developer』の「[Layout](https://developer.apple.com/design/human-interface-guidelines/layout){rel="[\"nofollow\"]"}」を参照してください。::
 ::

@@ -4,7 +4,7 @@ navigation: true
 description: We plan to make changes to the LIFF header specifications after mid-July 2020.
 meta: '{"date":"2020-07-06 00:00 UTC","tags":"LIFF","new":"false","locale":"en"}'
 path: /en/_partials/news/2020/2020-07-06-liff-header-design-improvement
-__hash__: bY3B03mw7Dxg6MP8ImH84Odu8J1pXedx2hC5zovl0BY
+__hash__: QfZU65KXttspeVvnlIoWGX8ME3kFPXsFI9e9KoYxsng
 seo:
   title: New feature will be added to the LIFF header
   description: >-
@@ -14,7 +14,7 @@ seo:
 
 We plan to make changes to the LIFF header specifications after mid-July 2020.
 
-![LIFF header design to be improved](/media/news/liff-header-design-improvement.png){className="[\"w-fix-560\"]"}
+![LIFF header design to be improved](/media/news/2020/liff-header-design-improvement.png){className="[\"w-fix-560\"]"}
 
 - [The LIFF app icon will no longer be displayed](#remove-liff-app-icon)
 - [The share button will be added](#liff-share-button)

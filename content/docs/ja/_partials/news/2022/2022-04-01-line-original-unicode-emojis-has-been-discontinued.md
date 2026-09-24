@@ -7,7 +7,7 @@ meta: >-
   end-of-life","locale":"ja"}
 path: >-
   /ja/_partials/news/2022/2022-04-01-line-original-unicode-emojis-has-been-discontinued
-__hash__: 8LLkZZDoNOZB_6YCNUMcbfU_ziVa5Fnxodl3QCnmOhc
+__hash__: jKMO463iJUJ5KFaD_PnCnW5dGWOFjdPyhWoQ8bdojBE
 seo:
   title: 2022年3月31日をもって、Messaging APIの「LINE独自のUnicode絵文字」を廃止しました
   description: >-
@@ -24,9 +24,9 @@ seo:
 
 「LINE独自のUnicode絵文字」が順次表示されなくなります。この変更は、2022年3月31日以降、予告なく行われますが、時期は未定です。また、この変更は廃止前に送信済みの「LINE独自のUnicode絵文字」にも適用されます。
 
-| 廃止前                                                                                                                          | 廃止後                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![廃止前の「LINE独自のUnicode絵文字」](/media/news/line-original-unicode-emojis-before-discontinuation.png){className="[\"w-fix-280\"]"} | ![廃止後の「LINE独自のUnicode絵文字」](/media/news/line-original-unicode-emojis-after-discontinuation.png){className="[\"w-fix-280\"]"} |
+| 廃止前                                                                                                                               | 廃止後                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ![廃止前の「LINE独自のUnicode絵文字」](/media/news/2021/line-original-unicode-emojis-before-discontinuation.png){className="[\"w-fix-280\"]"} | ![廃止後の「LINE独自のUnicode絵文字」](/media/news/2021/line-original-unicode-emojis-after-discontinuation.png){className="[\"w-fix-280\"]"} |
 
 なお、廃止後の見た目は予告なく変更される可能性があります。
 

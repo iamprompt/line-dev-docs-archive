@@ -4,7 +4,7 @@ navigation: true
 description: Messaging APIに新たな機能が追加されました。今回のアップデートで追加、更新された機能は以下のとおりです。
 meta: '{"date":"2021-11-09 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2021/2021-11-09-messaging-api-update
-__hash__: yn0cp5d34u4WPLPkemuFXP2IcJV1aX7p69-nObobviw
+__hash__: S0ZSxp1bb5L1jxwo8SEo4gnriiTF-Z_zGZcWE8-TPWo
 seo:
   title: Messaging APIアップデート（2021年11月）
   description: Messaging APIに新たな機能が追加されました。今回のアップデートで追加、更新された機能は以下のとおりです。
@@ -17,7 +17,7 @@ Messaging APIに新たな機能が追加されました。今回のアップデ�
 
 ### メッセージスタンプでユーザーが入力したテキストを取得できるようになりました
 
-![メッセージスタンプ](/media/news/message-sticker-sample.webp){className="[\"w-fix-320\"]"}
+![メッセージスタンプ](/media/news/2021/message-sticker-sample.webp){className="[\"w-fix-320\"]"}
 
 :glossary-tooltip[[メッセージスタンプ](/glossary/#message-sticker)]{glossary-id="message-sticker"}で、ユーザーが入力した任意のテキストを取得できるようになりました。
 

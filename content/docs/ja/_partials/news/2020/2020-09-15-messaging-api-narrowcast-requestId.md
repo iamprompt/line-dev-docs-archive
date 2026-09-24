@@ -6,7 +6,7 @@ description: |-
   再配信オブジェクトを使うと、「過去に配信したナローキャストメッセージを受信したユーザー」を条件にしてメッセージが送れます。
 meta: '{"date":"2020-09-15 01:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-09-15-messaging-api-narrowcast-requestid
-__hash__: t1VXG1N-vcMtt8KzoGawKds3u1evNxo3ZvIRA3e7uQk
+__hash__: 5Y59a40Ekh-wFW1LCC6aluIA7RdvY3dUiv7ikoBI45I
 seo:
   title: ナローキャストメッセージの送信対象を絞り込む条件に再配信オブジェクトが追加されました
   description: |-
@@ -49,7 +49,7 @@ Messaging APIで、ナローキャストメッセージの送信対象を絞り�
 
 以下は、「チャットに特定のタグが付いているユーザー」、かつ（AND）「過去に配信したナローキャストメッセージを受信したユーザー」を送信対象に設定した場合のレシピエントオブジェクトの例です。
 
-![send target](/media/news/send_target.png){className="[\"w-fix-320\"]"}
+![send target](/media/news/2020/send_target.png){className="[\"w-fix-320\"]"}
 
 ```json
 "recipient": {

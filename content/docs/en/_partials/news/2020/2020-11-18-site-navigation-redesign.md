@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-11-18 00:00 UTC","tags":"Docs","locale":"en"}'
 path: /en/_partials/news/2020/2020-11-18-site-navigation-redesign
-__hash__: 9UR39hEXPebmbKqEZ4TYGvtRy7xJ-mWUAU_kpAY62SA
+__hash__: 4tCOJBeZa34xdW6c3XiGurqCeQtcRuLMLZMfjBkSK2w
 seo:
   title: '[Updated] Introducing the new LINE Developers site navigation'
   description: ''
@@ -13,7 +13,7 @@ seo:
 ::admonition{title="Added on December 11, 2020" type="note"}
 On December 11, 2020, we changed the category name **Guides** to **Documentation** on the LINE Developers site.
 
-![Guides changed to documentation](/media/news/guide-to-documentation-after-en.webp){className="[\"border\",\"w-fix-640\"]"}
+![Guides changed to documentation](/media/news/2020/guide-to-documentation-after-en.webp){className="[\"border\",\"w-fix-640\"]"}
 
 For more details, see the news on December 11, 2020, [We changed "Guides" to "Documentation" on the LINE Developers site](/news/2020/12/11/rename-guides-to-documentation/).
 ::
@@ -34,15 +34,15 @@ We've combined the **Documents** and **API reference** categories into a singula
 
 Hover your mouse over "Guides" and select a product from the drop-down menu.
 
-![Guides drop-down menu](/media/news/guides-drop-down-menu.png){className="[\"border\",\"w-fix-440\"]"}
+![Guides drop-down menu](/media/news/2020/guides-drop-down-menu.png){className="[\"border\",\"w-fix-440\"]"}
 
 You'll now see the selected product's documentation in the side navigation. To access the API reference for that product, click the product name in the **API reference** section.
 
-![API reference in side navigation](/media/news/api-reference-in-side-navigation.png){className="[\"border\",\"w-fix-300\"]"}
+![API reference in side navigation](/media/news/2020/api-reference-in-side-navigation.png){className="[\"border\",\"w-fix-300\"]"}
 
 To go back to the product's documentation, just click the **Back** button.
 
-![Button to go back to the documentation from the API reference](/media/news/back-button.png){className="[\"border\",\"w-fix-300\"]"}
+![Button to go back to the documentation from the API reference](/media/news/2020/back-button.png){className="[\"border\",\"w-fix-300\"]"}
 
 By placing the developer content of each product in a single location, users can more easily and quickly find the content they're looking for.
 
@@ -56,11 +56,11 @@ Now, the `New` tag will only appear on unread announcements, and will disappear 
 
 If there is any unread news, a notification will appear next to the **News** option in the header...
 
-![Red dot by news in header](/media/news/red-dot-by-news-in-header.png){className="[\"border\",\"w-fix-300\"]"}
+![Red dot by news in header](/media/news/2020/red-dot-by-news-in-header.png){className="[\"border\",\"w-fix-300\"]"}
 
 ...and with the news itself (found in both the **News** section and on the home page).
 
-![New tag next to news](/media/news/new-tag-next-to-news.png){className="[\"border\",\"w-fix-300\"]"}
+![New tag next to news](/media/news/2020/new-tag-next-to-news.png){className="[\"border\",\"w-fix-300\"]"}
 
 The notification will disappear after clicking the unread article.
 
@@ -70,7 +70,7 @@ LINE Developers site provides its documentation in multiple languages. We've mad
 
 Also, you used to have to click the language switch icon to display the drop-down menu. Now, all you have to do is hover your mouse over the icon, making it that much quicker to get where you need to go.
 
-![Language switch drop-down menu](/media/news/language-switch-drop-down.png){className="[\"border\",\"w-fix-300\"]"}
+![Language switch drop-down menu](/media/news/2020/language-switch-drop-down.png){className="[\"border\",\"w-fix-300\"]"}
 
 ### General header and side navigation improvements
 
@@ -78,7 +78,7 @@ In addition to everything else, we've also made some general improvements to the
 
 We've also improved the design and responsiveness of the side navigation. We've incorporated a more modern, structured design, and the location indicator is more responsive, showing you where you are on the site, even as you quickly scroll through the page.
 
-![Location indicator in the side navigation](/media/news/location-indicator-in-side-navigation.png){className="[\"border\",\"w-fix-300\"]"}
+![Location indicator in the side navigation](/media/news/2020/location-indicator-in-side-navigation.png){className="[\"border\",\"w-fix-300\"]"}
 
 ### What's next?
 

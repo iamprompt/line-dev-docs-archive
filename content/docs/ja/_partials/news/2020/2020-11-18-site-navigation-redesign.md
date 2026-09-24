@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-11-18 00:00 UTC","tags":"Docs","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-11-18-site-navigation-redesign
-__hash__: sSD-SVgPFwK5zarga3jhYxH0tVf_JEUH8QS1g5xpWKM
+__hash__: d-8Sar43zaZyofAWAnp1IgZwhlt9ExwK0GP9ozB277E
 seo:
   title: 【更新】LINE Developersサイトのナビゲーションが新しくなりました
   description: ''
@@ -13,7 +13,7 @@ seo:
 ::admonition{title="2020年12月11日追記" type="note"}
 2020年12月11日、LINE Developersサイトの「**ガイド**」の名称を「**ドキュメント**」へ変更しました。
 
-![ガイドをドキュメントに変更しました](/media/news/guide-to-documentation-after-ja.webp){className="[\"border\",\"w-fix-640\"]"}
+![ガイドをドキュメントに変更しました](/media/news/2020/guide-to-documentation-after-ja.webp){className="[\"border\",\"w-fix-640\"]"}
 
 詳しくは2020年12月11日のニュース、「[LINE Developersサイトの「ガイド」の名称を「ドキュメント」へ変更しました](/news/2020/12/11/rename-guides-to-documentation/)」を参照してください。
 ::
@@ -34,15 +34,15 @@ LINE Developersサイトのナビゲーションの主な更新内容は次の�
 
 **ガイド**にマウスを合わせ、ドロップダウンメニューからプロダクト名を選択してください。
 
-![ガイドのドロップダウンメニュー](/media/news/guides-drop-down-menu-ja.png){className="[\"border\",\"w-fix-440\"]"}
+![ガイドのドロップダウンメニュー](/media/news/2020/guides-drop-down-menu-ja.png){className="[\"border\",\"w-fix-440\"]"}
 
 これで、サイドナビゲーションに選択したプロダクトのドキュメントが表示されます。そのプロダクトのAPIリファレンスにアクセスするには、**APIリファレンス**セクションのプロダクト名をクリックします。
 
-![サイドナビゲーションのAPIリファレンス](/media/news/api-reference-in-side-navigation-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![サイドナビゲーションのAPIリファレンス](/media/news/2020/api-reference-in-side-navigation-ja.png){className="[\"border\",\"w-fix-300\"]"}
 
 そのプロダクトのドキュメントに戻るには、**戻る**ボタンをクリックします。
 
-![APIリファレンスからドキュメントに戻るボタン](/media/news/back-button-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![APIリファレンスからドキュメントに戻るボタン](/media/news/2020/back-button-ja.png){className="[\"border\",\"w-fix-300\"]"}
 
 各プロダクトの開発者コンテンツを1か所にまとめることによって、ユーザーは探しているコンテンツをより簡単かつ迅速に見つけることができます。
 
@@ -56,11 +56,11 @@ LINE Developersサイトのナビゲーションの主な更新内容は次の�
 
 未読のニュースがあると、ヘッダーの**ニュース**欄の横に通知が表示され、
 
-![ヘッダーに赤い点を表示](/media/news/red-dot-by-news-in-header-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![ヘッダーに赤い点を表示](/media/news/2020/red-dot-by-news-in-header-ja.png){className="[\"border\",\"w-fix-300\"]"}
 
 ニュースそのものにも表示されます（**ニュース**セクションとホームページの両方に表示されます）。
 
-![ニュースの横のNewタグ](/media/news/new-tag-next-to-news-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![ニュースの横のNewタグ](/media/news/2020/new-tag-next-to-news-ja.png){className="[\"border\",\"w-fix-300\"]"}
 
 未読記事をクリックすると通知が消えます。
 
@@ -70,7 +70,7 @@ LINE Developersサイトでは複数の言語でドキュメントを提供し�
 
 また、以前は言語スイッチのアイコンをクリックしてドロップダウンメニューを表示させる必要がありました。現在は、アイコンの上にマウスを置くだけで、素早く表示できるようになりました。
 
-![言語スイッチのドロップダウンメニュー](/media/news/language-switch-drop-down-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![言語スイッチのドロップダウンメニュー](/media/news/2020/language-switch-drop-down-ja.png){className="[\"border\",\"w-fix-300\"]"}
 
 ### ヘッダーとサイドナビゲーションの全般的な改善
 
@@ -78,7 +78,7 @@ LINE Developersサイトでは複数の言語でドキュメントを提供し�
 
 また、サイドナビゲーションのデザインとレスポンスも改善しました。よりモダンで構造化されたデザインを取り入れ、サイト内のどこにいるのかを表す位置表示は、ページを素早くスクロールしてもレスポンスできるようになりました。
 
-![サイドナビゲーションの位置表示](/media/news/location-indicator-in-side-navigation-ja.png){className="[\"border\",\"w-fix-300\"]"}
+![サイドナビゲーションの位置表示](/media/news/2020/location-indicator-in-side-navigation-ja.png){className="[\"border\",\"w-fix-300\"]"}
 
 ### 今後の予定
 

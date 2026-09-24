@@ -4,7 +4,7 @@ navigation: true
 description: 2020年7月6日にお知らせしたとおり、LIFFのヘッダーに機能を追加しました。
 meta: '{"date":"2020-07-15 00:00 UTC","tags":"LIFF","new":"false","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-07-15-liff-header-design-improvement
-__hash__: el6VY6Eeb0tGHCGmS_Ma4a1ptz-MsPDI-g1J5BxE7Y4
+__hash__: vCrlBZXAI_n2SeMlDIVLfQdLPgQtYEk9qycF425qohM
 seo:
   title: LIFFのヘッダーに機能を追加しました
   description: 2020年7月6日にお知らせしたとおり、LIFFのヘッダーに機能を追加しました。
@@ -12,7 +12,7 @@ seo:
 
 [2020年7月6日にお知らせ](/news/2020/07/06/liff-header-design-improvement/)したとおり、LIFFのヘッダーに機能を追加しました。
 
-![LIFF header design to be improved](/media/news/liff-header-design-improvement.png){className="[\"w-fix-560\"]"}
+![LIFF header design to be improved](/media/news/2020/liff-header-design-improvement.png){className="[\"w-fix-560\"]"}
 
 - [LIFFアプリのアイコンが非表示になりました](#remove-liff-app-icon-07-15)
 - [シェアボタンが表示されるようになりました](#liff-share-button-07-15)

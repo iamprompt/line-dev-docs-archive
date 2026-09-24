@@ -7,7 +7,7 @@ description: >-
   developers to stay up-to-date on LINE development.
 meta: '{"date":"2019-10-01 05:00 UTC","tags":"LINE Platform","locale":"en"}'
 path: /en/_partials/news/2019/2019-10-01-upcoming-chinese-news
-__hash__: a3UCX_Z-AOx2lVbq9NB6qrfrSxF7FnFoj_NgB4epeCE
+__hash__: 22rHiUcLaf6HZdV66I5fKMPLhKlE7OOG9mWc4vnZBOE
 seo:
   title: New Chinese-language news page
   description: >-
@@ -20,4 +20,4 @@ From now on, LINE Developers News will offer selected articles in [Chinese](http
 
 To change your language setting to Chinese, scroll to the bottom of the page and select "繁體中文" (Traditional Chinese) from the language menu in the page footer:
 
-![language option](/media/news/language-option.png){className="[\"border\"]"}
+![language option](/media/news/2019/language-option.png){className="[\"border\"]"}

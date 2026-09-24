@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"date":"2020-01-08 00:00 UTC","tags":"Messaging API","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-01-08-display-provider-name-on-profile
-__hash__: BqRX1B34Ww2z9RblPZ77zzAcwqc4TPr09I9x20Ro4BU
+__hash__: yC5IcG4leY2Taevk7YPhE8FVDnIdxqotlaey_hYShUo
 seo:
   title: 【更新】プロバイダー名が適切であることを確認してください
   description: ''
@@ -18,7 +18,7 @@ seo:
 
 企業が提供するLINE公式アカウントでも、プロバイダー名に個人名が登録されている場合があります。適切な名前が登録されていることを、もう一度確認してください。プロバイダー名は[LINE Developersコンソール](/console/)から変更できます。
 
-![プロフィール](/media/news/display-provider-name-on-profile.jpg){className="[\"border\"]"}
+![プロフィール](/media/news/2020/display-provider-name-on-profile.jpg){className="[\"border\"]"}
 
 ※赤枠箇所に、プロバイダー名が表示されます。
 

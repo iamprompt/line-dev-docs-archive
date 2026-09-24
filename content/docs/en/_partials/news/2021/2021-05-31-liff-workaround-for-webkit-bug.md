@@ -11,7 +11,7 @@ description: >-
   remained the same or was blank.
 meta: '{"date":"2021-05-31 01:00 UTC","tags":"LIFF, LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2021/2021-05-31-liff-workaround-for-webkit-bug
-__hash__: '-Uhdb_LCn-nb9bgpXpe9x7O3cH5V78Gzfj1wC7p3FII'
+__hash__: djhxORUhO-m_glHOHXY1Km1_2PPOjcJL8u_O_JKDbhw
 seo:
   title: >-
     We made a temporary fix for a bug which prevented content from being
@@ -28,7 +28,7 @@ In LINE or Safari on iOS 14.5.x or Safari 14.x on macOS, when users click the ba
 
 **The screen becoming blank when returning to the LIFF app before the transition between LIFF apps**
 
-![Diagram of a blank screen when returning to the LIFF app before the transition between LIFF apps.](/media/news/content-vanish-bug-en.png){className="[\"w-fix-680\"]"}
+![Diagram of a blank screen when returning to the LIFF app before the transition between LIFF apps.](/media/news/2021/content-vanish-bug-en.png){className="[\"w-fix-680\"]"}
 
 ### Environment where the problem occurred
 

@@ -8,7 +8,7 @@ description: >-
   later.
 meta: '{"date":"2021-06-14 00:00 UTC","tags":"LIFF, LINE MINI app","locale":"en"}'
 path: /en/_partials/news/2021/2021-06-14-liff-ui-change-on-line-11-10-0
-__hash__: 1Sm4sNUTw3guCZoEZFeOnp_Pyaur7QfONNO3njOn-7c
+__hash__: RS6IW3MNxPtYoB1ShU3jly0w7wMmMWEYGtcAu4KJ2QY
 seo:
   title: >-
     Icons in the LIFF app header will be visually enhanced from LINE 11.10.0 or
@@ -22,9 +22,9 @@ The LIFF app header design will be visually enhanced from LINE 11.10.0 or later.
 
 All icon designs used in the LIFF header section, including the "close" button, "share" button, and "back" button, will change as follows:
 
-| LINE 11.9.x or earlier                                                                                        | LINE 11.10.0 or later                                                                                         |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![Old LIFF header icon](/media/news/old-liff-header-icon.png){className="[\"border\",\"w-fix-320\",\"m-2\"]"} | ![New LIFF header icon](/media/news/new-liff-header-icon.png){className="[\"border\",\"w-fix-320\",\"m-2\"]"} |
+| LINE 11.9.x or earlier                                                                                             | LINE 11.10.0 or later                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| ![Old LIFF header icon](/media/news/2021/old-liff-header-icon.png){className="[\"border\",\"w-fix-320\",\"m-2\"]"} | ![New LIFF header icon](/media/news/2021/new-liff-header-icon.png){className="[\"border\",\"w-fix-320\",\"m-2\"]"} |
 
 ### Applicable environments
 

@@ -6,7 +6,7 @@ meta: >-
   {"date":"2020-10-08 00:00 UTC","tags":"Messaging API, Flex
   Message","new":"false","category":"Messaging API","locale":"en"}
 path: /en/_partials/news/2020/2020-10-08-flex-message-update-2-released
-__hash__: OVi-M9HKeCckBVeFKS8iLzMUyOlYVT4f1f6olkdcqdU
+__hash__: YyfLfup3JFQm1CdEkpNMxoNuzvCY4qdYJmPylZo5D7s
 seo:
   title: '[Updated] Flex Message Update 2 released'
   description: ''
@@ -70,7 +70,7 @@ type: tip
 ---
 When using box components for decoration like the four squares shown below, it used to be necessary to add filler components as child elements to each of the boxes. Starting with Flex Message Update 2, you only need to specify an empty array.
 
-![offset property example 1](/media/news/flex-message-update-empty-array-tips.png){className="[\"border\"]"}
+![offset property example 1](/media/news/2020/flex-message-update-empty-array-tips.png){className="[\"border\"]"}
 
 Let's compare the JSON data for the yellow box component on the left before and after this change:
 

@@ -7,7 +7,7 @@ description: >-
   precedence.
 meta: '{"date":"2021-09-21 00:00 UTC","tags":"LINE Login","locale":"en"}'
 path: /en/_partials/news/2021/2021-09-21-line-login-disable-auto-login
-__hash__: EBlBXE3dzfnMuA83MFxUWErN4qMjonyIteAIDV5JGyo
+__hash__: zrI4jHU9lNWz4iwg_eJGEC6E59kUNOutylM2CKoWrfo
 seo:
   title: A parameter has been added to disable Auto login in LINE Login
   description: >-
@@ -40,6 +40,6 @@ Auto login may fail when private browsing is enabled in web apps that incorporat
 
 In such environments where Auto login fails, if the user who failed LINE Login is prompted to reattempt with an authorization URL where Auto login is enabled, the user will continue to fail at LINE Login repeatedly. In order to prevent continuous login failures, once Auto login fails, you can use the `disable_auto_login` parameter to prompt the user to reattempt LINE Login with an authorization URL that has Auto login disabled.
 
-![Simplified flow diagram when auto-login fails](/media/news/disable-auto-login-parameter-en.png){className="[\"w-fix-720\",\"border\"]"}
+![Simplified flow diagram when auto-login fails](/media/news/2021/disable-auto-login-parameter-en.png){className="[\"w-fix-720\",\"border\"]"}
 
 For more information, see [How to handle Auto login failure](/docs/line-login/how-to-handle-auto-login-failure/) in the LINE Login documentation.

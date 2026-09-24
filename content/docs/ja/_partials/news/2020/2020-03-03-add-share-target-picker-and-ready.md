@@ -4,7 +4,7 @@ navigation: true
 description: LIFF v2に、liff.shareTargetPicker()およびliff.readyが追加されました。
 meta: '{"date":"2020-03-03 00:00 UTC","tags":"LIFF","locale":"ja"}'
 path: /ja/_partials/news/2020/2020-03-03-add-share-target-picker-and-ready
-__hash__: DUv16e9c5V7NdZqPsZ3Gv_UWrk-qhFfqUnyL2QRBF4M
+__hash__: LJ0QQhfSs8SGpbiy-I7FkK3UsJVHkqzW_2PK_No3SW0
 seo:
   title: LIFF v2にliff.shareTargetPicker()およびliff.readyが追加されました
   description: LIFF v2に、liff.shareTargetPicker()およびliff.readyが追加されました。
@@ -16,7 +16,7 @@ LIFF v2に、`liff.shareTargetPicker()`および`liff.ready`が追加されま�
 
 ターゲットピッカー（グループまたは友だちを選択する画面）を表示し、ターゲットピッカーで選択した相手に、開発者が作成したメッセージを送信するメソッドが追加されました。このメッセージは、ユーザーが送信したかのように、グループまたは友だちに表示されます。
 
-![target picker](/media/news/share-target-picker.png){className="[\"border\"]"}
+![target picker](/media/news/2020/share-target-picker.png){className="[\"border\"]"}
 
 詳しくは、『LIFFドキュメント』の「[ユーザーの友だちにメッセージを送信する](/docs/liff/developing-liff-apps/#share-target-picker)」を参照してください。
 

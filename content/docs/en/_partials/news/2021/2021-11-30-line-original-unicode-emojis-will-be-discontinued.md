@@ -9,7 +9,7 @@ meta: >-
   end-of-life","locale":"en"}
 path: >-
   /en/_partials/news/2021/2021-11-30-line-original-unicode-emojis-will-be-discontinued
-__hash__: fDpN0X_DvaxPQmnONYJezJ7pYQd-0BCSb0buiQbKBxo
+__hash__: rHDKfm3ySulZN0ez9YKcQFv2UqwtFryxgKtkw55nNbc
 seo:
   title: >-
     "LINE original unicode emojis" of the Messaging API will be discontinued on
@@ -35,9 +35,9 @@ March 31, 2022
 
 After March 31, 2022, "LINE original unicode emojis" will no longer be displayed sequentially. This change will also be applied to "LINE original unicode emojis" sent before the discontinuation.
 
-| Before discontinuation                                                                                                                                     | After discontinuation                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| !["LINE original unicode emojis" before discontinuation](/media/news/line-original-unicode-emojis-before-discontinuation.png){className="[\"w-fix-280\"]"} | !["LINE original unicode emojis" after discontinuation](/media/news/line-original-unicode-emojis-after-discontinuation.png){className="[\"w-fix-280\"]"} |
+| Before discontinuation                                                                                                                                          | After discontinuation                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| !["LINE original unicode emojis" before discontinuation](/media/news/2021/line-original-unicode-emojis-before-discontinuation.png){className="[\"w-fix-280\"]"} | !["LINE original unicode emojis" after discontinuation](/media/news/2021/line-original-unicode-emojis-after-discontinuation.png){className="[\"w-fix-280\"]"} |
 
 ### Alternative way
 

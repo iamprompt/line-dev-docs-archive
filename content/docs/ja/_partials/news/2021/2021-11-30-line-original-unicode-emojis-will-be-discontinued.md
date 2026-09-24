@@ -7,7 +7,7 @@ meta: >-
   end-of-life","locale":"ja"}
 path: >-
   /ja/_partials/news/2021/2021-11-30-line-original-unicode-emojis-will-be-discontinued
-__hash__: l-F30xDywD3LMMXqBjcnD86nfs7pHpy8CI_RU168JUA
+__hash__: uxZTZUBt7HJCmoa6I5aVVPHNJ_ksU48qIwI0OKlzzg4
 seo:
   title: 2022年3月31日をもって、Messaging APIの「LINE独自のUnicode絵文字」を廃止します
   description: 現在、Messaging APIで送信可能な絵文字として、次の3種類を提供しています。
@@ -29,9 +29,9 @@ seo:
 
 2022年3月31日以降、「LINE独自のUnicode絵文字」が順次表示されなくなります。なお、この変更は廃止前に送信済みの「LINE独自のUnicode絵文字」にも適用されます。
 
-| 廃止前                                                                                                                          | 廃止後                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![廃止前の「LINE独自のUnicode絵文字」](/media/news/line-original-unicode-emojis-before-discontinuation.png){className="[\"w-fix-280\"]"} | ![廃止後の「LINE独自のUnicode絵文字」](/media/news/line-original-unicode-emojis-after-discontinuation.png){className="[\"w-fix-280\"]"} |
+| 廃止前                                                                                                                               | 廃止後                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| ![廃止前の「LINE独自のUnicode絵文字」](/media/news/2021/line-original-unicode-emojis-before-discontinuation.png){className="[\"w-fix-280\"]"} | ![廃止後の「LINE独自のUnicode絵文字」](/media/news/2021/line-original-unicode-emojis-after-discontinuation.png){className="[\"w-fix-280\"]"} |
 
 ### 代替方法
 

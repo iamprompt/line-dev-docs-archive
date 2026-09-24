@@ -6,7 +6,7 @@ meta: >-
   {"date":"2021-07-01 02:00 UTC","tags":"Outage report, Messaging
   API","locale":"ja"}
 path: /ja/_partials/news/2021/2021-07-01-messaging-api-outage
-__hash__: c-8RO4RgOrwM-5Sb4WWgmfxjewnNlldZcBJrMiyyLMc
+__hash__: yQDGfWwytC3EClTyqqLPb-n4wMsSVedhPAQgqPrnWwg
 seo:
   title: 【復旧済み／更新】Messaging API障害のお知らせ
   description: ''
@@ -47,7 +47,7 @@ Messaging APIにおいて以下の障害が発生しておりましたが、す�
 
 誤って表示されたメッセージは、すでに取り消しを実施しております。取り消されたメッセージは課金対象にはなりません。
 
-![メッセージ送信取り消し](/media/news/message-unsend-ja.png){className="[\"w-fix-320\",\"border\"]"}
+![メッセージ送信取り消し](/media/news/2021/message-unsend-ja.png){className="[\"w-fix-320\",\"border\"]"}
 
 影響のあったボットの数は非常に限られており、対象となったボット（ボットA、ボットB）の管理者には、順次個別にご連絡を差し上げております。
 
