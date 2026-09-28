@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/overview
-__hash__: 5rU5_RjMIAHxghJ3A14FS-IK_c44OXskEakUKkzM7g0
+__hash__: 5O-WdI-jAELTKv-588_z7RrSYrDY-d3j94HBSJ07xM4
 seo:
   title: Messaging API overview
   description: null
@@ -27,16 +27,6 @@ With the Messaging API, a bot server can send and receive data to and from the L
 3. The bot server checks the webhook event and responds to the user through the LINE Platform.
 
 ![](/media/messaging-api/overview/messaging-api-architecture.png)
-
-## Try the demo
-
-Try using the demo to experience Messaging API for yourself. You can view the demo on your smartphone. Scan the QR code to add the LINE Official Account for the demo as a friend.
-
-![](/media/messaging-api/demo/messaging-api-demo-qr-code-en.png){className="[\"border\",\"w-fix-560\"]"}
-
-::admonition{title="Data the Demo App Retrieves" type="note"}
-The LINE Official Account for the demo has a function to send your device's location information. If you do not wish to send this information, turn off the location sharing function on your device before using the service. We will also collect some of your profile information (user ID) from your LINE account. However, this information isn't stored on the server. Please understand the above before using this service.
-::
 
 ## What you can do with the Messaging API
 

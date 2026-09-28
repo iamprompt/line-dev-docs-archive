@@ -4,7 +4,7 @@ navigation: true
 description: LINEログインをウェブアプリやネイティブアプリに組み込むと、ユーザーがLINEログインを使用できるようになります。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-login/overview
-__hash__: jyOmQrcQUagaZ11U1wDc1hoa6oMLEDy7JE4wsDiXgEY
+__hash__: tmCi0FOjfk3K7EMeofFd6tpH9l7YrzLXTqjMaVOPBx8
 seo:
   title: LINEログインの概要
   description: LINEログインをウェブアプリやネイティブアプリに組み込むと、ユーザーがLINEログインを使用できるようになります。
@@ -35,16 +35,6 @@ LINEログインは、ウェブアプリ（ウェブサイト）、iOSアプリ�
 たとえば、電子書籍ストア「[BOOK☆WALKER](https://bookwalker.jp/top/){rel="[\"nofollow\"]"}」では、ユーザーが簡単に会員登録、継続利用できるように、LINEログインをはじめとするさまざまなソーシャルログインが組み込まれています。
 
 ![電子書籍ストアのログイン画面](/media/line-login/overview/line-login-bookwalker-01-ja.webp){className="[\"border\",\"w-fix-560\"]"}
-::
-
-## デモサイトでLINEログインを体験する
-
-デモサイトで実際にLINEログインを体験してみましょう。お使いのスマートフォンでLINEを起動し、以下のQRコードを読み込むとデモを見ることができます。
-
-![](/media/line-login/demo/login-demo-qr-code.png){className="[\"border\",\"w-fix-560\"]"}
-
-::admonition{title="デモサイトで取得するデータについて" type="note"}
-LINEログインのデモサイトでは、デモを利用したユーザーのLINEアカウントの「プロフィール情報（表示名、プロフィール画像のURL、ユーザーID）」を取得します。 ユーザーIDのみをサーバーに保存しますが、保存されたデータは毎日削除されます。上記をご理解の上、ご利用ください。
 ::
 
 ## LINEログインを組み込む開発を始める
