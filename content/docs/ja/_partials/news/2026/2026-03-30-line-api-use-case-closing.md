@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-03-30 00:00 UTC","tags":"line-developers-site,
   docs","locale":"ja"}
 path: /ja/_partials/news/2026/2026-03-30-line-api-use-case-closing
-__hash__: 2uN17t1xu6qt0ynERbCzYpaQ6Ad8EnmHCYbsVS0iGJk
+__hash__: BWeibiBCQwASdVSvv5gwhOBZ3Zz91DPu9EFFL_nEKRE
 seo:
   title: LINE API Use Caseサイトからコンテンツの一部をLINE Developersサイトに移管しました
   description: >-
@@ -24,7 +24,7 @@ LINEプラットフォームに関する技術情報やユースケース、ク�
 
 - LINEプラットフォームの実用シナリオおよびデモアプリ
 
-  - [LINEミニアプリのデモ](/docs/line-mini-app/#%E3%83%87%E3%83%A2)
+  - LINEミニアプリのデモ
 - LINEプラットフォームのユーザー導入事例
 
   - [Messaging APIの導入事例](/docs/messaging-api/#%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B)

@@ -11,7 +11,7 @@ meta: >-
   {"date":"2026-03-30 00:00 UTC","tags":"line-developers-site,
   docs","locale":"en"}
 path: /en/_partials/news/2026/2026-03-30-line-api-use-case-closing
-__hash__: yrTiU8YkyJHeevto3zhVJ5UhmhoeVbTvUqyNPeLHzeI
+__hash__: jtTQzDObD5gD8WpJiGRRV23xZn0o5vfc3GXiFJ85ZwE
 seo:
   title: >-
     Partial content from the LINE API Use Case site has been migrated to the
@@ -30,7 +30,7 @@ The LINE API Use Case site will be closed on March 31, 2026.
 
 - Practical scenarios and demo apps for the LINE Platform
 
-  - [LINE MINI App demos](/docs/line-mini-app/#demo)
+  - LINE MINI App demos
 - User adoption stories for the LINE Platform
 
   - [Messaging API case studies](/docs/messaging-api/#case-studies)
