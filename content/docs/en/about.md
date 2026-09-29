@@ -9,7 +9,7 @@ description: >-
   API.
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /en/about
-__hash__: bNTs8yRHEKS3DY2n_fQJoGSfTs2H1FaoIE0D5TB3ZFw
+__hash__: ipP4zp_aGrx8hBaYQDWcKHiaUsUsl3LOKJFUdHL_pBg
 seo:
   title: About LINE Developers site
   description: >-
@@ -135,5 +135,5 @@ There are related sites to the LINE Developers site that you could use alongside
 ## X Account
 
 ::cards-container
-:generic-card{path="https://twitter.com/lycorptechjp_e" title-id="about.linedevtwitter.title" description-id="about.linedevtwitter.description"}
+:generic-card{path="https://x.com/lycorptech_jp" title-id="about.linedevtwitter.title" description-id="about.linedevtwitter.description"}
 ::

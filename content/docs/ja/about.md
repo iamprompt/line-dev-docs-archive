@@ -7,7 +7,7 @@ description: >-
   APIの仕様や、開発手順を解説したドキュメントを開発者向けに提供しています。
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /ja/about
-__hash__: eZu__2KWPIbibELVORmtr-2YZug1ACNq18FZJX2WHiI
+__hash__: _ywOEsOwfV4ELbs6bJkXoWXt4ooJOB2VyAlTJy4a1C8
 seo:
   title: LINE Developersサイトとは
   description: >-
@@ -134,7 +134,7 @@ LINE Developersサイトには、以下のような関連サイトがありま�
 ::cards-container
   :::generic-card
   ---
-  path: https://twitter.com/lycorptech_jp
+  path: https://x.com/lycorptech_jp
   title-id: about.linedevtwitter.title
   description-id: about.linedevtwitter.description
   ---
@@ -142,7 +142,7 @@ LINE Developersサイトには、以下のような関連サイトがありま�
 
   :::generic-card
   ---
-  path: https://twitter.com/linedc_jp
+  path: https://x.com/linedc_jp
   title-id: about.linedevcommunitytwitter.title
   description-id: about.linedevcommunitytwitter.description
   ---
