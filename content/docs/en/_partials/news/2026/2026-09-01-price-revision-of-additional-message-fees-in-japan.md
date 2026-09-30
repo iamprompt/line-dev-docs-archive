@@ -9,9 +9,10 @@ description: >-
   October 1, 2026.
 meta: >-
   {"date":"2026-09-01 00:00 UTC","tags":"line-official-account,
-  messaging-api","locale":"en"}
-path: /en/_partials/news/2026/2026-09-01-revised-subscription-plans
-__hash__: cjbxvF1EfpFcwkL1uY-ni_WxdcFSSevH_j6pVTydQvQ
+  messaging-api","locale":"en","notify":false}
+path: >-
+  /en/_partials/news/2026/2026-09-01-price-revision-of-additional-message-fees-in-japan
+__hash__: lt871O2JtHMtMlMSlJdSUm89TxiROKjhCInD8bWfh84
 seo:
   title: >-
     We will revise the additional message fees for LINE Official Accounts in

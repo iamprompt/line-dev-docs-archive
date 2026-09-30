@@ -4,9 +4,10 @@ navigation: true
 description: LINE公式アカウントでは、2026年10月1日に、日本における追加メッセージ（無料メッセージ通数を超過して配信されるメッセージ）の料金を変更する予定です。
 meta: >-
   {"date":"2026-09-01 00:00 UTC","tags":"line-official-account,
-  messaging-api","locale":"ja"}
-path: /ja/_partials/news/2026/2026-09-01-revised-subscription-plans
-__hash__: MmBXGh3ZDiQzD6FPS-S3lzLSz5c3DvyEDk4XBsLxWlY
+  messaging-api","locale":"ja","notify":false}
+path: >-
+  /ja/_partials/news/2026/2026-09-01-price-revision-of-additional-message-fees-in-japan
+__hash__: B3eFx_AVvU60A5PhsXP-D36kNAQvYoF6S1jWQLnxIWk
 seo:
   title: 2026年10月1日に日本におけるLINE公式アカウントの追加メッセージ料金を改定します
   description: >-
