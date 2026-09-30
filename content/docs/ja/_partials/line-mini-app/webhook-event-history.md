@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/webhook-event-history
-__hash__: H2Y05LePYojcAIulaJOVG1m6UM1U_RWTyH-Y2VZezUI
+__hash__: UMrb6LbJGEx6A8tRnB18B6ohJhXioXo72VjiieQ2sBk
 seo:
   description: ''
 ---
@@ -187,7 +187,8 @@ seo:
               "productId": "iap_ln_002",
               "userId": "U91FC5A...",
               "purchaseTimestamp": 1738672496,
-              "channelId": "12345..."
+              "channelId": "12345...",
+              "paymentBenefitProgram": "APPLE_MINI_APPS_PARTNER_PROGRAM"
             }
           }
         ],

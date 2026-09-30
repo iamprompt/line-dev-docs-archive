@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-mini-app/refund-event
-__hash__: skoiZpBZ4BQPmhpoa3eBdozvi0nL1wN9dLQfvzcF7Uc
+__hash__: iQtVzdjLOsq51cw5V6dwCyMhhHXkD3iaPfUKyjqscKg
 seo:
   description: ''
 ---
@@ -80,6 +80,18 @@ seo:
 
       LINEミニアプリチャネルのチャネルID。
       :::::
+
+      :::::parameter-table-entry{annotation="含まれないことがあります"}
+      #undefined
+      paymentBenefitProgram
+
+      #undefined
+      String
+
+      元の決済に適用された手数料優遇プログラムを示します。Apple Inc.が提供する[Mini Apps Partner Program](/docs/line-mini-app/in-app-purchase/apple-mini-apps-partner-program/)によって手数料が減額された場合、`APPLE_MINI_APPS_PARTNER_PROGRAM`が返されます。  
+
+      手数料優遇が適用されていない場合、このプロパティは含まれません。
+      :::::
     ::::
   :::
 
@@ -95,7 +107,8 @@ seo:
         "productId": "iap_ln_002",
         "userId": "U91FC5A...",
         "purchaseTimestamp": 1738672496,
-        "channelId": "12345..."
+        "channelId": "12345...",
+        "paymentBenefitProgram": "APPLE_MINI_APPS_PARTNER_PROGRAM"
       }
       ```
       :::::

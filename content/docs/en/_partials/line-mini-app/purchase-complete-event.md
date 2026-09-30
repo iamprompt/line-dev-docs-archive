@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-mini-app/purchase-complete-event
-__hash__: oOQtXP5N_CCFlj13pn7wWmoF8ZC0cbt_vhLABea4tVk
+__hash__: X0xT7p9cnEtvxEgZsdTHaDXg4wfMCriuNEa5eZxZESs
 seo:
   description: ''
 ---
@@ -80,6 +80,18 @@ This event occurs when a user purchases a reserved item at an app store (App Sto
 
       The channel ID of the LINE MINI App channel.
       :::::
+
+      :::::parameter-table-entry{annotation="Not always included"}
+      #undefined
+      paymentBenefitProgram
+
+      #undefined
+      String
+
+      Indicates the fee reduction program applied to the payment. If the fee was reduced through the [Mini Apps Partner Program](/docs/line-mini-app/in-app-purchase/apple-mini-apps-partner-program/) offered by Apple Inc., `APPLE_MINI_APPS_PARTNER_PROGRAM` is returned.  
+
+      If no fee reduction was applied, this property isn't included.
+      :::::
     ::::
   :::
 
@@ -95,7 +107,8 @@ This event occurs when a user purchases a reserved item at an app store (App Sto
         "productId": "iap_ln_002",
         "userId": "U91FC5A...",
         "purchaseTimestamp": 1738672496,
-        "channelId": "12345..."
+        "channelId": "12345...",
+        "paymentBenefitProgram": "APPLE_MINI_APPS_PARTNER_PROGRAM"
       }
       ```
       :::::

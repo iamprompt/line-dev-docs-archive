@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-mini-app/refund-event
-__hash__: ReZ5hK1D_IRO0o6S8N-ekSnn7VVlVD-HWcB6thSH980
+__hash__: V_7YTcBnWIN1mCsLUHGonDLNX2Ev_PVIP0F7usq_7Zs
 seo:
   description: ''
 ---
@@ -80,6 +80,18 @@ This event occurs when a refund was issued for an item purchased by a user at an
 
       The channel ID of the LINE MINI App channel.
       :::::
+
+      :::::parameter-table-entry{annotation="Not always included"}
+      #undefined
+      paymentBenefitProgram
+
+      #undefined
+      String
+
+      Indicates the fee reduction program applied to the original payment. If the fee was reduced through the [Mini Apps Partner Program](/docs/line-mini-app/in-app-purchase/apple-mini-apps-partner-program/) offered by Apple Inc., `APPLE_MINI_APPS_PARTNER_PROGRAM` is returned.  
+
+      If no fee reduction was applied, this property isn't included.
+      :::::
     ::::
   :::
 
@@ -95,7 +107,8 @@ This event occurs when a refund was issued for an item purchased by a user at an
         "productId": "iap_ln_002",
         "userId": "U91FC5A...",
         "purchaseTimestamp": 1738672496,
-        "channelId": "12345..."
+        "channelId": "12345...",
+        "paymentBenefitProgram": "APPLE_MINI_APPS_PARTNER_PROGRAM"
       }
       ```
       :::::
