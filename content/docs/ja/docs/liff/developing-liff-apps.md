@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/developing-liff-apps
-__hash__: l63A8NxBI9Y3JLYDU6cEMRHu7dNUYpBoyxdyve7HebQ
+__hash__: nEWJ1DcZqy1qiNGMopVBa6O5dky3jf7JbTNv_7pglOw
 seo:
   title: LIFFアプリを開発する
   description: ''
@@ -40,7 +40,7 @@ LIFF SDKで提供する機能を利用するには、LIFFアプリのHTMLソー�
 | CDNパス    | 説明                                                                                                                                                                                                                                                           |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | CDNエッジパス | メジャーバージョンのみを含むCDNパスです。常に最新の機能を使用する場合は、このCDNパスを使用します。メジャーバージョンがアップデートされたときのみURLを更新する必要があります。   例：https://[static.line-scdn.net/liff/edge/**2**/sdk.js]                                                                                                        |
-| CDN固定パス  | パッチバージョンまで含むCDNパスです。特定のバージョンの機能を使用する場合は、このCDNパスを使用します。LIFFアプリを更新しない限り、指定したパッチバージョンを使い続けることができます。LIFFの新機能や、セキュリティ改善、バグ修正を反映したいときのみURLを更新してください。自動的に更新されないため、LIFF SDKのアップデートの影響を受けません。   例：https://[static.line-scdn.net/liff/edge/**versions/2.22.3**/sdk.js] |
+| CDN固定パス  | パッチバージョンまで含むCDNパスです。特定のバージョンの機能を使用する場合は、このCDNパスを使用します。LIFFアプリを更新しない限り、指定したパッチバージョンを使い続けることができます。LIFFの新機能や、セキュリティ改善、バグ修正を反映したいときのみURLを更新してください。自動的に更新されないため、LIFF SDKのアップデートの影響を受けません。   例：https://[static.line-scdn.net/liff/edge/**versions/2.31.1**/sdk.js] |
 
 ::admonition{title="どのバージョンを使うべきか" type="note"}
 CDN固定パスを使用している開発者は、LIFFアプリを更新するタイミングを決める必要があります。アップデートの内容を正しく理解し、自分のLIFFアプリに適しているか判断するために、『LIFFドキュメント』の「[リリースノート](/docs/liff/release-notes/)」をこまめに確認してください。
@@ -49,7 +49,7 @@ CDN固定パスを使用している開発者は、LIFFアプリを更新する�
 CDN固定パスを指定する例：
 
 ```html
-<script charset="utf-8" src="https://static.line-scdn.net/liff/edge/versions/2.22.3/sdk.js"></script>
+<script charset="utf-8" src="https://static.line-scdn.net/liff/edge/versions/2.31.1/sdk.js"></script>
 ```
 
 ::admonition{title="LIFF SDKはUTF-8で書かれています" type="note"}

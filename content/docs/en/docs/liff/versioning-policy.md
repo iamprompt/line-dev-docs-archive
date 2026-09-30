@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/liff/versioning-policy
-__hash__: pp5hDJCzT4WkFhFSlRSxs99gJtnA7KeIwImmQQXq_fQ
+__hash__: ZsLRQ1eCtJRORBFfTcE3mqt3bpL_90ArVVEJ9pjD_Cs
 seo:
   title: Versioning policy
   description: null
@@ -60,7 +60,7 @@ Since the LIFF v2.1.13 release, we prepare these two types of CDN paths. When [I
 | CDN path       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CDN edge path  | This is a CDN path that contains only the MAJOR version. Use this CDN path if you want to always be up-to-date with the latest LIFF features. You only need to update your URL when a new MAJOR version is released.   e.g.: https://[static.line-scdn.net/liff/edge/**2**/sdk.js]                                                                                                                                                                                                             |
-| CDN fixed path | This is a CDN path that contains up to the PATCH version. Use this CDN path if you want to use the LIFF features of a specific version. You can continue to use the specified PATCH version as long as you don't update the LIFF app. Update your URL only when you want to implement our new features, security updates, and bug fixes. It's not updated automatically and isn't affected by the LIFF SDK update.   e.g.: https://[static.line-scdn.net/liff/edge/**versions/2.22.3**/sdk.js] |
+| CDN fixed path | This is a CDN path that contains up to the PATCH version. Use this CDN path if you want to use the LIFF features of a specific version. You can continue to use the specified PATCH version as long as you don't update the LIFF app. Update your URL only when you want to implement our new features, security updates, and bug fixes. It's not updated automatically and isn't affected by the LIFF SDK update.   e.g.: https://[static.line-scdn.net/liff/edge/**versions/2.31.1**/sdk.js] |
 
 ::admonition{title="Which version should you use?" type="note"}
 Developers using the CDN fixed path will need to decide when to update their LIFF app. You can evaluate each update we provide by frequently checking the [Release notes](/docs/liff/release-notes/) in the LIFF documentation and decide if the update is right for you.
@@ -69,7 +69,7 @@ Developers using the CDN fixed path will need to decide when to update their LIF
 Example of specifying a CDN fixed path:
 
 ```html
-<script charset="utf-8" src="https://static.line-scdn.net/liff/edge/versions/2.22.3/sdk.js"></script>
+<script charset="utf-8" src="https://static.line-scdn.net/liff/edge/versions/2.31.1/sdk.js"></script>
 ```
 
 ::admonition

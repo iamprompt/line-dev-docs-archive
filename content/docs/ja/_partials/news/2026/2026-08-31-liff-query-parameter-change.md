@@ -1,21 +1,24 @@
 ---
-title: 2026年10月7日より、LIFF URLのクエリパラメータの値に含まれる「?」の処理が変更されます
+title: 【更新】2026年10月7日より、LIFF URLのクエリパラメータの値に含まれる「?」の処理が変更されます
 navigation: true
-description: >-
-  2026年10月7日リリース予定のLIFF v2.31.1以降、LIFF URLのクエリパラメータの値に含まれる?の処理を変更します。これにより、LIFF
-  URLへのアクセス時に生成される2次リダイレクト先URLが変わる場合があります。
+description: ''
 meta: '{"date":"2026-08-31 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-08-31-liff-query-parameter-change
-__hash__: i9sSgfbTbgmKqlPMGAGWoTTvjrKH2vSsXCsZolv5it4
+__hash__: q-rfikZHzwQGi8EiG-C71Kd2IJV7sf46zobfBqPvMXU
 seo:
-  title: 2026年10月7日より、LIFF URLのクエリパラメータの値に含まれる「?」の処理が変更されます
-  description: >-
-    2026年10月7日リリース予定のLIFF v2.31.1以降、LIFF
-    URLのクエリパラメータの値に含まれる?の処理を変更します。これにより、LIFF
-    URLへのアクセス時に生成される2次リダイレクト先URLが変わる場合があります。
+  title: 【更新】2026年10月7日より、LIFF URLのクエリパラメータの値に含まれる「?」の処理が変更されます
+  description: ''
 ---
 
-2026年10月7日リリース予定のLIFF v2.31.1以降、:glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}のクエリパラメータの値に含まれる`?`の処理を変更します。これにより、LIFF URLへのアクセス時に生成される2次リダイレクト先URLが変わる場合があります。
+::admonition{title="2026年9月30日追記" type="note"}
+[対象バージョン](#affected-versions-20260831)を変更しました。
+
+| 変更前            | 変更後            |
+| -------------- | -------------- |
+| LIFF v2.31.1以降 | LIFF v2.31.2以降 |
+::
+
+2026年10月7日リリース予定のLIFF v2.31.2以降、:glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}のクエリパラメータの値に含まれる`?`の処理を変更します。これにより、LIFF URLへのアクセス時に生成される2次リダイレクト先URLが変わる場合があります。
 
 ### 仕様変更予定日
 
@@ -23,11 +26,11 @@ seo:
 
 ### 対象バージョン
 
-LIFF v2.31.1以降
+LIFF v2.31.2以降
 
 ### 変更点
 
-LIFFアプリでは、ユーザーがLIFF URLにアクセスすると、1次リダイレクト先URLに遷移した後、[2次リダイレクト先URLに遷移します](/docs/liff/opening-liff-app/#redirect-flow)。LIFF v2.31.1以降は、:glossary-tooltip[[LIFFブラウザ](/glossary/#liff-browser)]{glossary-id="liff-browser"}でLIFF URLのクエリパラメータの値を2次リダイレクト先URLに復元する実装の一部が変わります。以下の[具体例](#examples-20260831)に示すように、クエリパラメータの値に含まれる`?`が`&`に置き換えられなくなります。
+LIFFアプリでは、ユーザーがLIFF URLにアクセスすると、1次リダイレクト先URLに遷移した後、[2次リダイレクト先URLに遷移します](/docs/liff/opening-liff-app/#redirect-flow)。LIFF v2.31.2以降は、:glossary-tooltip[[LIFFブラウザ](/glossary/#liff-browser)]{glossary-id="liff-browser"}でLIFF URLのクエリパラメータの値を2次リダイレクト先URLに復元する実装の一部が変わります。以下の[具体例](#examples-20260831)に示すように、クエリパラメータの値に含まれる`?`が`&`に置き換えられなくなります。
 
 なお、今回の変更はLIFFアプリをLIFFブラウザで開いた場合が対象です。LIFFアプリを:glossary-tooltip[[外部ブラウザ](/glossary/#external-browser)]{glossary-id="external-browser"}で開いた場合は、今回の変更による挙動の変化はありません。
 
@@ -35,13 +38,13 @@ LIFFアプリでは、ユーザーがLIFF URLにアクセスすると、1次リ�
 
 LIFFアプリのエンドポイントURLが`https://example.com`の場合に、`https://liff.line.me/{liffId}/?key=foo?bar`にアクセスしたとします。このとき、2次リダイレクト先URLは変更前と変更後で以下のようになります。
 
-| 変更前（現在）                           | 変更後（LIFF v2.31.1以降）               |
+| 変更前（現在）                           | 変更後（LIFF v2.31.2以降）               |
 | --------------------------------- | --------------------------------- |
 | `https://example.com?key=foo&bar` | `https://example.com?key=foo?bar` |
 
 また、クエリパラメータの値に含まれる`?`をパーセントエンコードして、`https://liff.line.me/{liffId}/?key=foo%3Fbar`のようなLIFF URLにアクセスする場合も、アクセス方法によっては影響があります。LIFFアプリをLIFFブラウザで開く方法ごとの変更前と変更後の挙動については、以下の表を参照してください。
 
-| アクセス方法                | 変更前（現在）                             | 変更後（LIFF v2.31.1以降）               |
+| アクセス方法                | 変更前（現在）                             | 変更後（LIFF v2.31.2以降）               |
 | --------------------- | ----------------------------------- | --------------------------------- |
 | iOS端末でLINEアプリ以外からアクセス | `https://example.com?key=foo&bar`   | `https://example.com?key=foo?bar` |
 | iOS端末でLINEアプリからアクセス   | `https://example.com?key=foo%3Fbar` | 変更なし                              |
