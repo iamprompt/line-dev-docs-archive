@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/try-rich-menu
-__hash__: cxlI4FrPkeWt3eliHGTZ14KAdCKWH-RLq6cR8Z2o040
+__hash__: m8PUf8iuVfO5itCn-RaQ3s9PujdOiapUutnhyhhpYcE
 seo:
   title: リッチメニューを試す
   description: null
@@ -13,10 +13,6 @@ seo:
 # :page-title
 
 :markdown-controlsリッチメニュープレイグラウンドは、リッチメニューの機能を試すことができるLINE公式アカウントです。本アカウントは、日本語のみに対応しています。[日時選択アクション](/reference/messaging-api/#datetime-picker-action)による日付選択、[リッチメニューエイリアス](/docs/messaging-api/switch-rich-menus/)によるリッチメニューの切り替えなど、リッチメニューのさまざまな機能を試すことができます。
-
-::admonition{title="リッチメニュープレイグラウンドは現在利用できません" type="note"}
-リッチメニュープレイグラウンドは現在稼働を停止しており、「[リッチメニュープレイグラウンドで試せるアクション](#actions-you-can-try-out-on-the-richmenu-playground)」で紹介しているアクションを試せません。再開時期は未定です。ご迷惑をお掛けして申し訳ありません。
-::
 
 ![リッチメニュープレイグラウンドメイン画面](/media/messaging-api/rich-menu-playground/richmenu-playground-bot-overview.webp){className="[\"border\",\"w-fix-240\"]"}
 
