@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/channel-consent-simplification
-__hash__: l1IuD1CmisxgLiBRF83yC09cJS51hB6wbkcfpOu7Q8s
+__hash__: D11Wn2E4Y2UDaEQS5mj33e66SOQ-9vms4z5-ipeRaGk
 seo:
   title: LINE MINI App authorization flow
   description: null
@@ -63,9 +63,12 @@ For the "Channel consent simplification" feature to work, all of the following c
 
 - LINE MINI App is a verified MINI App (*).
 - The LIFF SDK version of the LINE MINI App is v2.13.x or later.
-- The LINE MINI App isn't opened via a [LIFF-to-LIFF transition](/docs/liff/opening-liff-app/#move-liff-to-liff).
 
 * For unverified MINI Apps, this feature works only in the LINE MINI App for Developing and for Review.
+
+#### Conditions for the "Channel consent simplification" feature to work in LIFF-to-LIFF transitions
+
+When you open a LINE MINI App that meets the [operating conditions for the "Channel consent simplification" feature](#operating-conditions) above via a [LIFF-to-LIFF transition](/docs/liff/opening-liff-app/#move-liff-to-liff), the feature works if the destination URL is a :glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}. However, if the destination URL is an endpoint URL, the feature doesn't work.
 
 ## Authorization flow in LINE MINI Apps where the "Channel consent simplification" feature is enabled
 

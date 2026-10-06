@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/channel-consent-simplification
-__hash__: qjx5dp1bbSjXh-CxX13KaqPbrHHATzs9yK2ZTg-uw7o
+__hash__: FJYjetyALTQLzWdh4foJkJ35q2_nTb0s0NIoVzdxbfQ
 seo:
   title: LINEミニアプリの認可フロー
   description: null
@@ -59,9 +59,12 @@ LIFF SDKで取得した:glossary-tooltip[[アクセストークン](/glossary/#a
 
 - LINEミニアプリが認証済ミニアプリである（※）。
 - LINEミニアプリのLIFF SDKのバージョンがv2.13.x以降である。
-- LINEミニアプリが[LIFF間遷移](/docs/liff/opening-liff-app/#move-liff-to-liff)で開かれていない。
 
 ※ 未認証ミニアプリでは、開発用と審査用のLINEミニアプリでのみ動作します。
+
+#### LIFF間遷移で「チャネル同意の簡略化」が動作する条件
+
+上記の[「チャネル同意の簡略化」機能の動作条件](#operating-conditions)を満たすLINEミニアプリを[LIFF間遷移](/docs/liff/opening-liff-app/#move-liff-to-liff)で開く場合、遷移先のURLが:glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}であれば「チャネル同意の簡略化」機能は動作します。一方、遷移先のURLがエンドポイントURLの場合は動作しません。
 
 ## 「チャネル同意の簡略化」機能が有効なLINEミニアプリでの認可フロー
 
