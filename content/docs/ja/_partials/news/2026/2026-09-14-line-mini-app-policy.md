@@ -4,7 +4,7 @@ navigation: true
 description: 2026年10月14日にLINEミニアプリポリシーを改定します。
 meta: '{"date":"2026-09-14 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-09-14-line-mini-app-policy
-__hash__: DWfWWvpqBhrvQiJuS5SsSdbTveWtoHUL0Nq-aCbQCGw
+__hash__: IHEYMGZSy0_ALiURQJXH4JQSkq3dtiJLOaCM6OiduJA
 seo:
   title: 2026年10月14日にLINEミニアプリポリシーを改定します
   description: 2026年10月14日にLINEミニアプリポリシーを改定します。
@@ -25,9 +25,9 @@ seo:
 
 改定前と改定後の差異は次のとおりです。
 
-| 改定前（現在）                                                                             | 改定後                                                                                                   |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [LINEミニアプリポリシー](https://terms2.line.me/LINE_MINI_App?lang=ja){rel="[\"nofollow\"]"} | [LINEミニアプリポリシー](https://workers-hub.box.com/s/csxehfasuhzqdl0qbl3ls1abyc4ezmne){rel="[\"nofollow\"]"} |
+| 改定前（現在）                                                                             | 改定後                                                                                                       |
+| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [LINEミニアプリポリシー](https://terms2.line.me/LINE_MINI_App?lang=ja){rel="[\"nofollow\"]"} | [LINEミニアプリポリシー](https://workers-hub.ent.box.com/s/csxehfasuhzqdl0qbl3ls1abyc4ezmne){rel="[\"nofollow\"]"} |
 
 ### 改定の背景
 
