@@ -6,7 +6,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"ja","sidebar":false}
 path: /ja/tips/2026/02/19/markdown-notebooklm
-__hash__: jSnPs3YnAZmc7HUZS-vayn5zoiCde28ibLnd3F0BhfA
+__hash__: z4t5dLBvnxDDqv9Hn19T8Zx6LhSBO1yqsrfk_SGBVK8
 seo:
   title: AIにLINE Developersサイトのドキュメントを読ませる：Markdown表示機能の活用方法
   description: こんにちは！LINE Developersサイトのドキュメントを担当している、テクニカルライターの岡島です。
@@ -29,7 +29,7 @@ Markdown表示機能に対応しているページでは、ページタイトル
 
 Markdown表示機能とAIを組み合わせることで、LINE DevelopersサイトのドキュメントをAIの一次情報として活用できるようになります。
 
-その活用例の1つとして、LINE DevelopersサイトのドキュメントのMarkdownファイルを[Google NotebookLM](https://notebooklm.google/?hl=ja){rel="[\"nofollow\"]"}にアップロードし、AIリサーチアシスタントとして使用する例をご紹介します。
+その活用例の1つとして、LINE DevelopersサイトのドキュメントのMarkdownファイルを[Google NotebookLM](https://notebook.google/?hl=ja){rel="[\"nofollow\"]"}にアップロードし、AIリサーチアシスタントとして使用する例をご紹介します。
 
 ## NotebookLMとは
 

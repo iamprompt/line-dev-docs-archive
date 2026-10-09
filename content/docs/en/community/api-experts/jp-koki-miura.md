@@ -9,7 +9,7 @@ meta: >-
   AI, Image Processing,
   Cloud","git":"https://github.com/Miura55","fb":"https://www.facebook.com/koki.miura05","twitter":"https://twitter.com/k_miura_io"}
 path: /en/community/api-experts/jp-koki-miura
-__hash__: ycgZ-UOAXopeWd6tW-ZbIjg7Mb68oQUnLZB77LfPfnc
+__hash__: lNs8v-BtRSJOcMooum2_I92HZ0RH4LJui2LBkKQe7ms
 seo:
   title: LINE API Expert - Koki Miura
   description: ''
@@ -27,7 +27,7 @@ seo:
 #undefined
 :::lae-activities
     ::::lae-activity{date="2023/11/2"}
-    [AWS Community Builder](https://builder.aws.com/connect/community/community-builders){rel="[\"nofollow\"]"}  
+    [AWS Community Builder](https://builder.aws.com/community/community-builders){rel="[\"nofollow\"]"}  
 
     Type: **表彰**
     ::::

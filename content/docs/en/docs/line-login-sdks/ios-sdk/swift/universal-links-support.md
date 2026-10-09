@@ -4,7 +4,7 @@ navigation: true
 description: How to set up universal links with LINE SDK for iOS Swift
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/universal-links-support
-__hash__: 0xquxd9a4a7lP5VZkVywc4w-r4tZFS_YnAAKYBf101c
+__hash__: eivMjU1oH4-FmGiX3kSqqj7mVoXfAUP4rI6ax92hvnM
 seo:
   title: Using universal links
   description: How to set up universal links with LINE SDK for iOS Swift
@@ -12,7 +12,7 @@ seo:
 
 # :page-title
 
-:markdown-controlsYou can improve the security of your app with Apple's [universal links](https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/UniversalLinks.html){rel="[\"nofollow\"]"} feature that securely communicates information between apps. If you set up a universal link, LINE tries to open your app with the universal link first. If the universal link is invalid, LINE falls back to a URL based on your iOS bundle ID (see [Linking your app to your channel](/docs/line-login-sdks/ios-sdk/swift/setting-up-project/#linking-app-to-channel)).
+:markdown-controlsYou can improve the security of your app with Apple's [universal links](https://developer.apple.com/documentation/xcode/supporting-universal-links-in-your-app){rel="[\"nofollow\"]"} feature that securely communicates information between apps. If you set up a universal link, LINE tries to open your app with the universal link first. If the universal link is invalid, LINE falls back to a URL based on your iOS bundle ID (see [Linking your app to your channel](/docs/line-login-sdks/ios-sdk/swift/setting-up-project/#linking-app-to-channel)).
 
 ::admonition{title="Universal links are recommended" type="note"}
 Although universal links are optional, we recommend using them to make your app more secure.

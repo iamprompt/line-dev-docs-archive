@@ -10,7 +10,7 @@ meta: >-
   {"date":"2026-02-19 00:00 UTC","tags":"docs,
   line-developers-site","locale":"en","sidebar":false}
 path: /en/tips/2026/02/19/markdown-notebooklm
-__hash__: zWEKZJWZh9Z_JwWNNYEhFU9zdVPJ9vLEuQqwlu-RrnI
+__hash__: 1gHH3ax0cwNRPVLZzz_XYptgddQZKekyAVlsI67eeno
 seo:
   title: >-
     Let AI read the documentation on the LINE Developers site: How to use the
@@ -37,7 +37,7 @@ On pages that support the Markdown display feature, you’ll see the **Copy for 
 
 By combining this feature with AI, you can use the documentation on the LINE Developers site as a primary source for AI.
 
-As one example, this article shows how to upload the documentation in Markdown format to [Google NotebookLM](https://notebooklm.google/?hl=en){rel="[\"nofollow\"]"} and use NotebookLM as an AI research assistant.
+As one example, this article shows how to upload the documentation in Markdown format to [Google NotebookLM](https://notebook.google/?hl=en){rel="[\"nofollow\"]"} and use NotebookLM as an AI research assistant.
 
 ## What is NotebookLM
 

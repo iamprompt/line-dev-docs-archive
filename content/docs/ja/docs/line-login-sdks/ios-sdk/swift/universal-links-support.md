@@ -4,7 +4,7 @@ navigation: true
 description: LINE SDK for iOS Swiftでユニバーサルリンクを設定する方法
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/universal-links-support
-__hash__: D5UxoRgnvud9B8FfXPN0hAgFPh0BIf2cYpxF3NhkHOg
+__hash__: bq5j4B_XyD6wezIADuEE48TZxbTIz8UGML4RoUpnCrA
 seo:
   title: ユニバーサルリンクを利用する
   description: LINE SDK for iOS Swiftでユニバーサルリンクを設定する方法
@@ -12,7 +12,7 @@ seo:
 
 # :page-title
 
-:markdown-controlsAppleの[ユニバーサルリンク](https://developer.apple.com/library/archive/documentation/General/Conceptual/AppSearch/UniversalLinks.html){rel="[\"nofollow\"]"}機能を使ってアプリのセキュリティを高めることができます。ユニバーサルリンクを設定すると、LINEにより、まずユニバーサルリンクを使ってアプリの起動が試行されます。ユニバーサルリンクが無効な場合は、iOSバンドルIDに基づいたURLがフォールバックとして使用されます（詳しくは、「[アプリをチャネルにリンクする](/docs/line-login-sdks/ios-sdk/swift/setting-up-project/#linking-app-to-channel)」を参照してください）。
+:markdown-controlsAppleの[ユニバーサルリンク](https://developer.apple.com/documentation/xcode/supporting-universal-links-in-your-app){rel="[\"nofollow\"]"}機能を使ってアプリのセキュリティを高めることができます。ユニバーサルリンクを設定すると、LINEにより、まずユニバーサルリンクを使ってアプリの起動が試行されます。ユニバーサルリンクが無効な場合は、iOSバンドルIDに基づいたURLがフォールバックとして使用されます（詳しくは、「[アプリをチャネルにリンクする](/docs/line-login-sdks/ios-sdk/swift/setting-up-project/#linking-app-to-channel)」を参照してください）。
 
 ::admonition{title="ユニバーサルリンク機能の有効化を推奨します" type="note"}
 ユニバーサルリンク機能の有効化は必須ではありませんが、アプリケーションの安全性を高めるため使用することを推奨します。
