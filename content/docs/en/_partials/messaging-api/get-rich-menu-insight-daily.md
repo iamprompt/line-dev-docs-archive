@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-rich-menu-insight-daily
-__hash__: gM8L495r5xExjnR3nEzlUIsWzA6Z916WxedS8nfC34A
+__hash__: WJXcyj04nXrj3dfpuk-MFchUhj02aoQSSn6-LHQsWiU
 seo:
   description: ''
 ---
@@ -14,6 +14,16 @@ seo:
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/insight/richmenu/{richMenuId}/daily?from={from}&to={to}"}::reference-with-code
   :::reference-content
   Retrieves daily statistics for the specified period, such as the number of users who viewed the rich menu and how many times it was viewed. The aggregation process of these statistics is usually completed within the next day.
+
+    ::::admonition
+    ---
+    title: Statistics for rich menus after deletion or unlinking
+    type: tip
+    ---
+    You can still retrieve statistics for dates within the aggregation period, even if the rich menu has already been deleted or unlinked from users.
+
+    Even after you [delete a rich menu](#delete-rich-menu), it may remain visible in a chat the user already has open. As a result, even if you delete a rich menu at the end of a month, its statistics may include data on views and clicks that occurred in the following month or later. For more information, see [When rich menu setting changes take effect](/docs/messaging-api/rich-menus-overview/#when-setting-change-takes-effect) in the Messaging API documentation.
+    ::::
   :::
 
   :::reference-code
@@ -423,10 +433,10 @@ For more information on rate limits, see [Rate limits](#rate-limits).
   :::reference-content
   Returns the following HTTP status code and an error response:
 
-  | Code  | Description                                                                                                                              |
-  | ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-  | `400` | Unable to get the statistic. Consider these reasons:- No aggregation period date specified. - Invalid aggregation period date specified. |
-  | `404` | A non-existent rich menu is specified.                                                                                                   |
+  | Code  | Description                                                                                                                                                                                                                                                                                                                                       |
+  | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | `400` | Unable to get the statistic. Consider these reasons:- No aggregation period date specified. - Invalid aggregation period date specified.                                                                                                                                                                                                          |
+  | `404` | No statistics exist for the specified rich menu. Consider these reasons:- The rich menu ID is incorrect. - The rich menu was just created, and the initial aggregation of its statistics hasn't finished yet (the aggregation process of these statistics is usually completed within the next day). - The rich menu was deleted a long time ago. |
 
   For more information, see [Status codes](#status-codes) and [Error responses](#error-responses) in the [Common specifications](#common-specifications) section.
   :::
