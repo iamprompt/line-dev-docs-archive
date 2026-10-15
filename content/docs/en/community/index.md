@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /en/community
-__hash__: XLyjeC2BJPJ3ayEG9v5n05_-d5lPREiS_9dR6WvlmV4
+__hash__: '-E1izQiyuf6Lq7YE9eLjaZpzredPm9Z84qK4sT6IKMk'
 seo:
   title: Developers Community
   description: ''
@@ -14,7 +14,15 @@ seo:
 
 ## LINE API Expert
 
-LINE API Expert is a program that recognizes skilled engineers who have a deep understanding of the APIs provided by LINE and are influential in the community by giving them the title of "LINE API Expert". In addition to providing an array of benefits, LY Corporation will also support the various activities of these LINE API Experts through this program. We hope to see many qualified engineers [apply](#application-forms)!
+::admonition
+---
+title: Notice of the end of the LINE API Expert program in Japan
+type: note
+---
+The [LINE API Expert](/community/#lae) program in Japan will end when current appointments expire. The LINE API Platform Evangelist program in Japan will also end at that time. For more information, see [Notice of the end of the LINE API Expert program in Japan](/news/2026/10/15/line-api-expert-program-in-japan-will-be-discontinued/).
+::
+
+LINE API Expert is a program for engineers who deeply understand the APIs provided by LINE. These engineers have advanced technical skills and influence in the community. The program recognizes them as LINE API Experts. It provides various benefits and supports their activities. For application details in Taiwan or Thailand, contact the local Developer Relations representative.
 
 ## LINE API Platform Evangelist
 
@@ -22,13 +30,7 @@ LINE API Platform Evangelists are partners selected from among those certified a
 
 Note that only developers residing in Japan are eligible for certification as LINE API Platform Evangelists.
 
-## Apply
-
-- Applications for the LINE API Expert and LINE API Platform Evangelist positions in Japan are currently suspended.
-- For information on how to apply for the LINE API Expert program in Taiwan, contact the Developer Relations team in Taiwan.
-- For information on how to apply for the LINE API Expert program in Thailand, contact the Developer Relations team in Thailand.
-
-### List of experts
+## List of experts
 
 :lae-top## Our Communities
 

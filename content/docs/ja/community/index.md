@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /ja/community
-__hash__: qip2vRD1-gpefjYzS_GI6ULW26SrS4oxmN2rCEZJDao
+__hash__: Huw-c8j9UycaPzvNyCfqkv-XAzePvsQRkckGZlFzNos
 seo:
   title: 開発者コミュニティ
   description: ''
@@ -14,7 +14,11 @@ seo:
 
 ## LINE API Expert
 
-LINEが提供する各種APIに対する深い理解と高い技術力を持ち、コミュニティに影響力を持つエンジニアの方々を、LINEヤフーが「LINE API Expert」として認定し、様々な特典を提供すると共に、その活動を支援するプログラムです。多くのエンジニアのみなさまからの[応募](#application-forms)をお待ちしています。
+::admonition{title="日本におけるLINE API Expert制度終了のお知らせ" type="note"}
+日本における[LINE API Expert](/community/#lae)、および[LINE API Platform Evangelist](/community/#platform-evangelist)の制度は、現在任命されているみなさまの任期をもって終了させていただくこととなりました。詳しくは、「[日本におけるLINE API Expert制度終了のお知らせ](/news/2026/10/15/line-api-expert-program-in-japan-will-be-discontinued/)」を参照してください。
+::
+
+LINEが提供する各種APIに対する深い理解と高い技術力を持ち、コミュニティに影響力を持つエンジニアの方々を「LINE API Expert」として認定し、様々な特典を提供すると共に、その活動を支援するプログラムです。台湾、タイにおけるLINE API Expertへの応募方法は、それぞれのDeveloper Relations担当者までお問い合わせください。
 
 ## LINE API Platform Evangelist
 
@@ -22,13 +26,7 @@ LINE API Platform Evangelistは、[LINE API Expert](#lae)として認定され�
 
 なおLINE API Platform Evangelistは、日本に居住されている開発者の方のみを認定対象としています。
 
-## 応募する
-
-- 日本におけるLINE API Expert、LINE API Platform Evangelistへの応募は一時的に受付を停止しています。
-- 台湾におけるLINE API Expertへの応募方法は、台湾のDeveloper Relations担当者までお問い合わせください。
-- タイにおけるLINE API Expertへの応募方法は、タイのDeveloper Relations担当者までお問い合わせください。
-
-### API Expert一覧
+## API Expert一覧
 
 :lae-top## コミュニティ一覧
 
