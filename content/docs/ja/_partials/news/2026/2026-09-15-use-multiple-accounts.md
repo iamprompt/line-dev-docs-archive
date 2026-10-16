@@ -1,16 +1,18 @@
 ---
-title: LINEミニアプリの友だち追加オプションにおいて、複数のLINE公式アカウントを使用する機能の一部を一時的に停止しています
+title: 【更新】LINEミニアプリの友だち追加オプションにおいて、複数のLINE公式アカウントを使用する機能の一部を一時的に停止しています
 navigation: true
-description: >-
-  LINEミニアプリの友だち追加オプションにおいて、複数のLINE公式アカウントを使用する機能の一部に技術的な問題があり、該当機能の提供を一時停止しております。
+description: ''
 meta: '{"date":"2026-09-15 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-09-15-use-multiple-accounts
-__hash__: 7fqI0ZI5tgs6n1HOOg_JiSCSjTscQAD0ScQW12358pQ
+__hash__: fT_JQzOL34xHcsQyhkYIBnngCgqoReA3yq810skwPI4
 seo:
-  title: LINEミニアプリの友だち追加オプションにおいて、複数のLINE公式アカウントを使用する機能の一部を一時的に停止しています
-  description: >-
-    LINEミニアプリの友だち追加オプションにおいて、複数のLINE公式アカウントを使用する機能の一部に技術的な問題があり、該当機能の提供を一時停止しております。
+  title: 【更新】LINEミニアプリの友だち追加オプションにおいて、複数のLINE公式アカウントを使用する機能の一部を一時的に停止しています
+  description: ''
 ---
+
+::admonition{title="2026年10月16日追記" type="note"}
+[提供の再開時期](#use-multiple-accounts-date-20260915)を「2026年11月上旬」に更新しました。
+::
 
 LINEミニアプリの[友だち追加オプション](/docs/line-mini-app/service/add-friend-option/)において、複数のLINE公式アカウントを使用する機能の一部に技術的な問題があり、該当機能の提供を一時停止しております。
 
@@ -28,6 +30,8 @@ LINEミニアプリの[友だち追加オプション](/docs/line-mini-app/servi
 
 ### 提供の再開時期
 
-提供の再開時期は未定です。決まり次第、本ニュースで改めてお知らせいたします。
+2026年11月上旬
+
+なお、提供の再開時期は、予告なく変更される可能性があります。
 
 お客様にはご不便、ご迷惑をお掛けしておりますことを、重ねてお詫び申し上げます。

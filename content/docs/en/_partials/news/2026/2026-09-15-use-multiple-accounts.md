@@ -1,24 +1,22 @@
 ---
 title: >-
-  We've temporarily suspended part of the feature for using multiple LINE
-  Official Accounts with the add friend option in LINE MINI Apps
+  [Updated] We've temporarily suspended part of the feature for using multiple
+  LINE Official Accounts with the add friend option in LINE MINI Apps
 navigation: true
-description: >-
-  Due to a technical issue, we've temporarily suspended part of the feature for
-  using multiple LINE Official Accounts with the add friend option in LINE MINI
-  Apps.
+description: ''
 meta: '{"date":"2026-09-15 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-09-15-use-multiple-accounts
-__hash__: c44Hy4Vb0dXzVHnEN3g5nk3IR78mT0KYYK3zx3QXa-I
+__hash__: nnZxOPU9REo6y-6V8P2-9A7lNSt5IvqnrJ0C9lBYGcw
 seo:
   title: >-
-    We've temporarily suspended part of the feature for using multiple LINE
-    Official Accounts with the add friend option in LINE MINI Apps
-  description: >-
-    Due to a technical issue, we've temporarily suspended part of the feature
-    for using multiple LINE Official Accounts with the add friend option in LINE
-    MINI Apps.
+    [Updated] We've temporarily suspended part of the feature for using multiple
+    LINE Official Accounts with the add friend option in LINE MINI Apps
+  description: ''
 ---
+
+::admonition{title="Added on October 16, 2026" type="note"}
+We've updated the [resumption date](#use-multiple-accounts-date-20260915) to early November 2026.
+::
 
 Due to a technical issue, we've temporarily suspended part of the feature for using multiple LINE Official Accounts with the [add friend option](/docs/line-mini-app/service/add-friend-option/) in LINE MINI Apps.
 
@@ -36,6 +34,8 @@ You can continue to use the features to [switch the LINE Official Account displa
 
 ### Resumption date
 
-The resumption date hasn't yet been determined. We'll update this news article once the date is determined.
+Early November 2026
+
+The resumption date is subject to change without notice.
 
 We sincerely apologize again for any inconvenience this may cause.
