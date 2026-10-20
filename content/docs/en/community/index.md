@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"sidebar":false,"search_index":false,"feedback_form":false}'
 path: /en/community
-__hash__: '-E1izQiyuf6Lq7YE9eLjaZpzredPm9Z84qK4sT6IKMk'
+__hash__: 27E_YDr3cQmb0Y2cKcG0lWJZzqUwyAZPDcgnP6p4gpU
 seo:
   title: Developers Community
   description: ''
@@ -19,7 +19,7 @@ seo:
 title: Notice of the end of the LINE API Expert program in Japan
 type: note
 ---
-The [LINE API Expert](/community/#lae) program in Japan will end when current appointments expire. The LINE API Platform Evangelist program in Japan will also end at that time. For more information, see [Notice of the end of the LINE API Expert program in Japan](/news/2026/10/15/line-api-expert-program-in-japan-will-be-discontinued/).
+The [LINE API Expert](/community/#lae) program in Japan will end when current appointments expire. The [LINE API Platform Evangelist](/community/#platform-evangelist) program in Japan will also end at that time. For more information, see [Notice of the end of the LINE API Expert program in Japan](/news/2026/10/15/line-api-expert-program-in-japan-will-be-discontinued/).
 ::
 
 LINE API Expert is a program for engineers who deeply understand the APIs provided by LINE. These engineers have advanced technical skills and influence in the community. The program recognizes them as LINE API Experts. It provides various benefits and supports their activities. For application details in Taiwan or Thailand, contact the local Developer Relations representative.
