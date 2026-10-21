@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/measure-impressions
-__hash__: zCHLYlE1lgDwyxWje4bZ9XKEwJ3vdbUkQ-flYrEWK40
+__hash__: mw2Suox-F0Q9ULXg1nEbixwR3T1jzGOayN_nT9rHQo0
 seo:
   title: Measure impressions
   description: null
@@ -43,25 +43,27 @@ There are two types of impressions: unique impressions and impressions. The [imp
 
 The impressions that can be retrieved through the [endpoints for obtaining statistics](#endpoints-for-statistics) are as follows:
 
-| Property                         | Impression type   | Description                                                                                                                                   |
-| -------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| `overview.uniqueImpression` *1   | Unique impression | Number of users who opened the message. The number of people who displayed at least one bubble.   Each message is counted only once per user. |
-| `messages[].uniqueImpression` *2 | Unique impression | Number of users who displayed the bubble.   Each bubble is counted only once per user.                                                        |
-| `messages[].impression` *1       | Impression        | Number of times the bubble was displayed.   If the conditions are met, each bubble may be counted multiple times per user.                    |
+| Property                         | Impression type   | Description                                                                                                                                        |
+| -------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `overview.uniqueImpression` *1   | Unique impression | Number of users who opened the message. The number of people who displayed at least one bubble (*3).   Each message is counted only once per user. |
+| `messages[].uniqueImpression` *2 | Unique impression | Number of users who displayed the bubble (*3).   Each bubble is counted only once per user.                                                        |
+| `messages[].impression` *1       | Impression        | Number of times the bubble (*3) was displayed.   If the conditions are met, each bubble may be counted multiple times per user.                    |
 
 *1 The property containing the impression value in the response of the [Get user interaction statistics](/reference/messaging-api/#get-message-event) and [Get statistics per unit](/reference/messaging-api/#get-statistics-per-unit) endpoints.
 
 *2 The property containing the impression value in the response of the [Get statistics per unit](/reference/messaging-api/#get-statistics-per-unit) endpoint.
 
+*3 For carousels, an impression is counted when all four edges (top, bottom, left, and right) of the first (leftmost) bubble are displayed. For more information, see [About carousel messages](#carousel-message).
+
 #### Message and bubble concept
 
 A [message](/docs/messaging-api/sending-messages/) consists of one or more [message objects](/reference/messaging-api/#message-objects). You can send up to five message objects in a single request.
 
-In the Messaging API, a bubble refers to a single message object. Message objects include various types such as sticker message objects and image message objects. Whether they visually appear as a speech bubble or not doesn’t matter.
+In the Messaging API, a bubble refers to a single message object. Message objects include various types such as sticker message objects and Flex Message objects. Whether they visually appear as a speech bubble or not doesn't matter.
 
 This illustration shows an example of a message composed of three bubbles. Although bubble 2 and 3 don't have the same speech bubble shape as the text message object in bubble 1, each is treated as bubbles for impression measurement.
 
-![](/media/messaging-api/measure-impressions/message-and-bubbles-en.webp){className="[\"bg-border\",\"w-fix-600\"]"}
+![](/media/messaging-api/measure-impressions/message-text-sticker-carousel-en.webp){className="[\"bg-border\",\"w-fix-600\"]"}
 
 When this message is sent and the user opens the chat to view it, the single bubble that's displayed triggers the counting of `overview.uniqueImpression`. `messages[].uniqueImpression` and `messages[].impression` are counted separately for each bubble.
 
@@ -124,9 +126,9 @@ A unique impression is measured only once per user, so it doesn't increase even 
 
 ### About carousel messages
 
-If you send a message that uses a [carousel](/docs/messaging-api/flex-message-elements/#carousel) using Flex Message, impressions aren't counted multiple times even if a user scrolls horizontally to display the carousel.
+For messages that use a [carousel](/docs/messaging-api/flex-message-elements/#carousel), such as Flex Messages, impression counting differs from that for other message types. The message is considered 100% displayed and counted as one impression when all four edges (top, bottom, left, and right) of the first (leftmost) bubble in the carousel are displayed on the screen.
 
-For messages using a carousel, the impression is counted once when all edges (top, bottom, left, and right) of the bubble are displayed.
+Therefore, impressions aren't counted multiple times even if the user scrolls horizontally through the carousel to display all the bubbles.
 
 ![](/media/messaging-api/measure-impressions/carousel-100per-scroll.webp){className="[\"bg-border\",\"w-fix-240\"]"}
 

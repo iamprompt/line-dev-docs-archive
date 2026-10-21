@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-statistics-per-unit
-__hash__: V600RicHyey_y6sFxiqCJ6bFkOfK6F4b2sR6v1_kAMo
+__hash__: EtsEMDD8K26pBCdNQuDCwbv9B1uPPuvFeP-toW-7fkc
 seo:
   description: ''
 ---
@@ -17,7 +17,7 @@ seo:
 
   You can get statistics on a per-message and per-message bubble basis for each unit.
 
-  ![message and bubbles](/media/messaging-api/get-message-event.webp){className="[\"border\"]"}
+  ![message and bubbles](/media/messaging-api/measure-impressions/message-text-sticker-carousel-en.webp){className="[\"border\"]"}
 
   If you send messages with the same unit name, the statistics are aggregated together, regardless of message contents or the number and order of message bubbles.
 

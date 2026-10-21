@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/measure-impressions
-__hash__: JAbqT4gKoAffYEvTHj-7SQUgZlydJ31dyX98d4trFps
+__hash__: zQovdsL4lOEdPehSK0vh61yYxwRb8uBPTsTlR7gWbQg
 seo:
   title: インプレッションを計測する
   description: null
@@ -43,25 +43,27 @@ Messaging APIにおけるインプレッションとは、LINE公式アカウン
 
 [統計情報を取得するエンドポイント](#endpoints-for-statistics)で取得できるインプレッションは以下のとおりです。
 
-| プロパティ                            | インプレッションの種類  | 説明                                                                    |
-| -------------------------------- | ------------ | --------------------------------------------------------------------- |
-| `overview.uniqueImpression` ※1   | ユニークインプレッション | メッセージを開封した人数。少なくとも1つの吹き出しを表示した人数です。   1つのメッセージにつき、1ユーザーあたり1回のみ計測されます。 |
-| `messages[].uniqueImpression` ※2 | ユニークインプレッション | 吹き出しを表示した人数。   1つの吹き出しにつき、1ユーザーあたり1回のみ計測されます。                         |
-| `messages[].impression` ※1       | インプレッション     | 吹き出しが表示された回数。   条件を満たしていれば、1つの吹き出しにつき、1ユーザーあたり複数回計測されることがあります。        |
+| プロパティ                            | インプレッションの種類  | 説明                                                                        |
+| -------------------------------- | ------------ | ------------------------------------------------------------------------- |
+| `overview.uniqueImpression` ※1   | ユニークインプレッション | メッセージを開封した人数。少なくとも1つの吹き出し（※3）を表示した人数です。   1つのメッセージにつき、1ユーザーあたり1回のみ計測されます。 |
+| `messages[].uniqueImpression` ※2 | ユニークインプレッション | 吹き出し（※3）を表示した人数。   1つの吹き出しにつき、1ユーザーあたり1回のみ計測されます。                         |
+| `messages[].impression` ※1       | インプレッション     | 吹き出し（※3）が表示された回数。   条件を満たしていれば、1つの吹き出しにつき、1ユーザーあたり複数回計測されることがあります。        |
 
 ※1 [ユーザーの操作に基づく統計情報を取得する](/reference/messaging-api/#get-message-event)および[ユニットごとの統計情報を取得する](/reference/messaging-api/#get-statistics-per-unit)エンドポイントのレスポンスにおいて、インプレッションの値が含まれるプロパティ
 
 ※2 [ユニットごとの統計情報を取得する](/reference/messaging-api/#get-statistics-per-unit)エンドポイントのレスポンスにおいて、インプレッションの値が含まれるプロパティ
 
+※3 カルーセルの場合は、1つ目（一番左）のバブルの上下左右すべてが表示されるとインプレッションが計測されます。詳しくは、「[カルーセルを使用したメッセージについて](#carousel-message)」を参照してください。
+
 #### メッセージと吹き出しの概念
 
 [メッセージ](/docs/messaging-api/sending-messages/)は、1つまたは複数の[メッセージオブジェクト](/reference/messaging-api/#message-objects)で構成されます。メッセージオブジェクトは、1回のリクエストで最大5つまで送信できます。
 
-Messaging APIにおける吹き出しとは、1つのメッセージオブジェクトを指します。メッセージオブジェクトにはスタンプメッセージオブジェクトや画像メッセージオブジェクトなども含まれ、見た目が吹き出しの形状をしているかどうかは関係ありません。
+Messaging APIにおける吹き出しとは、1つのメッセージオブジェクトを指します。メッセージオブジェクトには、スタンプメッセージオブジェクトやFlex Messageオブジェクトなども含まれ、見た目が吹き出しの形状をしているかどうかは関係ありません。
 
 下の図は3つの吹き出しで構成されるメッセージの例です。吹き出し2と3は、吹き出し1のテキストメッセージオブジェクトのような吹き出しの形状をしていませんが、それぞれ吹き出しとしてインプレッションの計測に利用されます。
 
-![](/media/messaging-api/measure-impressions/message-and-bubbles-ja.webp){className="[\"bg-border\",\"w-fix-600\"]"}
+![](/media/messaging-api/measure-impressions/message-text-sticker-carousel-ja.webp){className="[\"bg-border\",\"w-fix-600\"]"}
 
 このメッセージを送信した場合、ユーザーがトークルームに入室してメッセージを確認すると、1つの吹き出しが表示された段階で`overview.uniqueImpression`が計測されます。`messages[].uniqueImpression`と`messages[].impression`は、吹き出しごとに個別で計測されます。
 
@@ -120,9 +122,9 @@ Messaging APIにおける吹き出しとは、1つのメッセージオブジェ
 
 ### カルーセルを使用したメッセージについて
 
-Flex Messageなどを利用し、[カルーセル](/docs/messaging-api/flex-message-elements/#carousel)を使用したメッセージを送信した場合、カルーセル部分を横にスクロールして表示しても、インプレッションが複数回計測されることはありません。
+Flex Messageなどで[カルーセル](/docs/messaging-api/flex-message-elements/#carousel)を使用したメッセージを送信する場合、インプレッションのカウント方法がほかのメッセージタイプとは異なります。複数あるバブルのうち、1つ目（一番左）のバブルの上下左右すべてが画面に表示された時点で100％表示されたとみなされ、1回のインプレッションとして計測されます。
 
-カルーセルを使用したメッセージでは、吹き出しの上端、下端、左端、右端のすべてが表示されると100％表示されたとみなされ、1回のインプレッションとして計測されます。
+したがって、カルーセル部分を横にスクロールしてすべてのバブルを表示しても、インプレッションが複数回計測されることはありません。
 
 ![](/media/messaging-api/measure-impressions/carousel-100per-scroll.webp){className="[\"bg-border\",\"w-fix-240\"]"}
 

@@ -9,7 +9,7 @@ meta: >-
   {"date":"2026-05-28 00:00
   UTC","tags":"messaging-api","locale":"en","sidebar":false}
 path: /en/tips/2026/05/28/how-to-count-messages
-__hash__: XJtJN34N3i-DI-QLYPj27EvOdtN2XVBMjDISsgxzBJQ
+__hash__: DxA93CsT-_3IqESJAy-lsChWVATTzaK0C50888kmZM4
 seo:
   title: How message counts are calculated in the Messaging API
   description: >-
@@ -33,7 +33,7 @@ One common misunderstanding about Messaging API pricing is how message counts ar
 
 With the Messaging API, you can send up to five message objects in a single request. For example, suppose you send a message made up of three bubbles to five users. The figure below shows this case.
 
-![](/media/messaging-api/measure-impressions/message-and-bubbles-en.webp){className="[\"bg-border\",\"w-fix-600\"]"}
+![](/media/messaging-api/measure-impressions/message-text-sticker-carousel-en.webp){className="[\"bg-border\",\"w-fix-600\"]"}
 
 The count is NOT calculated as "3 bubbles x 5 users = 15 messages". It is calculated as "1 request x 5 users = 5 messages". In other words, using multiple message objects doesn't increase the cost per message.
 

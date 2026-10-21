@@ -8,7 +8,7 @@ meta: >-
   {"date":"2026-05-28 00:00
   UTC","tags":"messaging-api","locale":"ja","sidebar":false}
 path: /ja/tips/2026/05/28/how-to-count-messages
-__hash__: qSoU2x5F0VTPH70yXB4p-UANh5TMq1ATHSvY6OduzKg
+__hash__: G43UUNgrNXrC2IYMiEM0_uvihSqK5u162DCgGqrcSUo
 seo:
   title: 今さら聞けない！ Messaging APIの通数カウント方法
   description: >-
@@ -31,7 +31,7 @@ Messaging APIの料金について、よくある誤解の1つに、メッセー
 
 Messaging APIでは、1リクエストにつき5つまでメッセージオブジェクトをまとめて送ることができます。たとえば下図のように、3つの吹き出しで構成されたメッセージを、5人に対して送信した場合を考えてみましょう。
 
-![](/media/messaging-api/measure-impressions/message-and-bubbles-ja.webp){className="[\"bg-border\",\"w-fix-600\"]"}
+![](/media/messaging-api/measure-impressions/message-text-sticker-carousel-ja.webp){className="[\"bg-border\",\"w-fix-600\"]"}
 
 カウントされるのは「吹き出し3つ×5人＝15通」ではなく、「1リクエスト×5人＝5通」になります。つまり、複数のメッセージオブジェクトを使ってリッチな配信をしても、1通あたりのコストは増えないのです。
 
