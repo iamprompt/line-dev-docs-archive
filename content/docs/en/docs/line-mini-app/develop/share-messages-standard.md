@@ -5,7 +5,7 @@ description: This is how a JSON file that follows the guidelines should look.
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"en"}
 path: /en/docs/line-mini-app/develop/share-messages-standard
-__hash__: J0J-7ZHbSemxGo_hF7Fune2xDcfRiyL9i53Plp2AKMU
+__hash__: FTX0eA1qxAXv_WEN2_sanxlA05cspy7NxyfY_S3SJcE
 seo:
   title: An example of a JSON file that adheres to guidelines
   description: This is how a JSON file that follows the guidelines should look.
@@ -188,7 +188,7 @@ seo:
             "action": {
               "type": "uri",
               "label": "action",
-              "uri": "https://miniapp.line.me/123456-abcedfg" // Specify the top page of the LINE MINI App.
+              "uri": "https://miniapp.line.me/123456-abcedfg" // Specify the LIFF URL of the LINE MINI App.
             }
           }
         ],
@@ -443,7 +443,7 @@ seo:
             "action": {
               "type": "uri",
               "label": "action",
-              "uri": "https://miniapp.line.me/123456-abcedfg" // Specify the top page of the LINE MINI App.
+              "uri": "https://miniapp.line.me/123456-abcedfg" // Specify the LIFF URL of the LINE MINI App.
             }
           }
         ],

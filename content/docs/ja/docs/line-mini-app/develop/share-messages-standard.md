@@ -5,7 +5,7 @@ description: ガイドラインに従ったJSONファイルです。
 meta: >-
   {"tags":"line-mini-app","author":null,"last_updated":null,"source_language":"ja"}
 path: /ja/docs/line-mini-app/develop/share-messages-standard
-__hash__: EC0rImfe9FlETM017YA1hGQG17NJ1p8LGogEdEf7TYg
+__hash__: whqOiyQfiZH_mAmsXR253l6h7IMYoijVt8MJiHAxK6k
 seo:
   title: ガイドラインに従ったJSONファイルの例
   description: ガイドラインに従ったJSONファイルです。
@@ -188,7 +188,7 @@ seo:
             "action": {
               "type": "uri",
               "label": "action",
-              "uri": "https://miniapp.line.me/123456-abcedfg" // LINEミニアプリのトップページを指定してください
+              "uri": "https://miniapp.line.me/123456-abcedfg" // LINEミニアプリのLIFF URLを指定してください
             }
           }
         ],
@@ -443,7 +443,7 @@ seo:
             "action": {
               "type": "uri",
               "label": "action",
-              "uri": "https://miniapp.line.me/123456-abcedfg" // LINEミニアプリのトップページを指定してください
+              "uri": "https://miniapp.line.me/123456-abcedfg" // LINEミニアプリのLIFF URLを指定してください
             }
           }
         ],

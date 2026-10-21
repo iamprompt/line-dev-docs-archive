@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/service-messages
-__hash__: 0V9IpmDTqgefY8bF9K5q7cZRpauhO2P9V7vr3P7X_9I
+__hash__: zKwh-SgNiG70Em4Qm_uKE4f9opb35gRUErOY1VnrRu8
 seo:
   title: サービスメッセージを送信する
   description: null
@@ -124,7 +124,7 @@ LINEヤフー株式会社が提供しているテンプレートの中から、[
 | A   | タイトル  | タイトルセクションは、以下の要素で構成されます。- タイトル（A-1） - サブタイトル（A-2）                                                                                                                                                                                                                                                                                                                                                                                                  |
 | B   | 詳細内容  | 詳細内容セクションには、テンプレートの種類に応じて次の2種類のレイアウトがあります。 - 「detailed」：1個のキーが必須です。キーの最大数は選択したテンプレートによって異なります。文字数については、「[各要素の最大文字数](#maximum-number-of-characters)」を参照してください。   ![](/media/line-mini-app/mini_detail_detailed.webp){className="[\"border\",\"w-fix-280\"]"} - 「simple」: 最大1個のキーを指定できます。文字数については、「[各要素の最大文字数](#maximum-number-of-characters)」を参照してください。   ![](/media/line-mini-app/mini_detail_simple.webp){className="[\"border\",\"w-fix-280\"]"} |
 | C   | ボタン   | 選択したテンプレートによって、使用できるボタンの数は異なります。また、URLを設定したボタンのみが表示されます。URLは、LINEミニアプリのページの[パーマネントリンク](/docs/line-mini-app/develop/permanent-links/)を指定してください。- 1個目のボタンは必須で、［**詳細はこちら**］として表示されます。 - 2個目以降のボタンは任意で、選択したテンプレートによってあらかじめ定義されています。                                                                                                                                                                                                                    |
-| D   | フッター  | ［**チャネル基本設定**］タブの［**チャネルアイコン**］で設定したアイコンと、［**チャネル名**］で設定したチャネル名が表示されます。ユーザーがフッターをタップすると、そのLINEミニアプリのトップページが表示されます。                                                                                                                                                                                                                                                                                                                                 |
+| D   | フッター  | ［**チャネル基本設定**］タブの［**チャネルアイコン**］で設定したアイコンと、［**チャネル名**］で設定したチャネル名が表示されます。ユーザーがフッターをタップすると、そのLINEミニアプリのエンドポイントURLのページが表示されます。                                                                                                                                                                                                                                                                                                                         |
 
 ::admonition{title="LINEミニアプリのステータスが「反映済み」以外の場合のフッター" type="note"}
 LINEミニアプリのステータスが「審査前」や「審査中」の場合は、本来のフッターの代わりにLINEのアイコンと、「Service Message」というテキストが表示されます。ステータスが「反映済み」に切り替わると、設定したLINEミニアプリのアイコンとLINEミニアプリの名前が表示されます。

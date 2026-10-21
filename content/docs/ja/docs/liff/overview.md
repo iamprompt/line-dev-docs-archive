@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/liff/overview
-__hash__: ro8TA-aNTO457m7Tvq-KfW8Q16mpawFMT83t5YSoqpY
+__hash__: LLMBUeiiAiIgod5Wl3wS4mKJV8jU0kkqi93Z6YZxrHM
 seo:
   title: LIFFの概要
   description: LINE Front-end Framework（LIFF）は、LINEヤフー株式会社が提供するプラットフォームです。
@@ -106,13 +106,14 @@ LINE DevelopersコンソールでLIFFアプリの［**モジュールモード**
 
 LINEバージョン26.7.0以降では、アクションボタンをタップすると、以下のドロップダウンメニューが表示されます。
 
-| 項目          | 説明                                                                                                                              |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **すべてのタブ**  | [マルチタブビュー](#multi-tab-view)を表示します。                                                                                              |
-| **更新**      | 現在開いているページを再読み込みします。                                                                                                            |
-| **ページを最小化** | LIFFブラウザを最小化します。詳しくは、「[LIFFブラウザを最小化する](/docs/liff/minimizing-liff-browser/)」を参照してください。                                          |
-| **シェア**     | 現在開いているページの:glossary-tooltip[[パーマネントリンク](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"}を、LINEメッセージでシェアします。 |
-| **権限設定**    | 権限設定画面を開きます。権限設定画面では、現在開いているLIFFアプリのカメラやマイクへのアクセス権を確認できます。変更はできません。LINEバージョン14.6.0以降で利用可能です。                                    |
+| 項目                 | 説明                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| **すべてのタブ**         | [マルチタブビュー](#multi-tab-view)を表示します。                                                                                              |
+| **更新**             | 現在開いているページを再読み込みします。                                                                                                            |
+| **このアプリのホーム画面に移動** | LIFFアプリのエンドポイントURLのページに遷移します。LINEバージョン26.16.0以降で利用可能です。                                                                         |
+| **ページを最小化**        | LIFFブラウザを最小化します。詳しくは、「[LIFFブラウザを最小化する](/docs/liff/minimizing-liff-browser/)」を参照してください。                                          |
+| **シェア**            | 現在開いているページの:glossary-tooltip[[パーマネントリンク](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"}を、LINEメッセージでシェアします。 |
+| **権限設定**           | 権限設定画面を開きます。権限設定画面では、現在開いているLIFFアプリのカメラやマイクへのアクセス権を確認できます。変更はできません。LINEバージョン14.6.0以降で利用可能です。                                    |
 
 ::admonition{title="パーマネントリンクのシェアに失敗する場合があります" type="note"}
 現在のページのURLがLINE Developersコンソールの［**エンドポイントURL**］に指定したURLで始まらない場合、パーマネントリンクを取得できずシェアに失敗します。

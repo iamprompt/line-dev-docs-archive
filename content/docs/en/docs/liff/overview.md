@@ -4,7 +4,7 @@ navigation: true
 description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /en/docs/liff/overview
-__hash__: zZa9x6xgbeWQlVF84CKDYkosHbruiuZY-waVi2KLuAo
+__hash__: UfMEe3CRJelVJofNuE7DIDwPsjQcXS4nhyAr3QfAEt0
 seo:
   title: LIFF overview
   description: LINE Front-end Framework (LIFF) is a platform provided by LY Corporation.
@@ -110,13 +110,14 @@ When you tap the action button, the features shown below will appear, depending 
 
 In LINE version 26.7.0 or later, tapping the action button displays the following drop-down menu:
 
-| Item                    | Description                                                                                                                                                                                                                            |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **All tabs**            | Displays the [Multi-tab view](#multi-tab-view).                                                                                                                                                                                        |
-| **Refresh**             | Reloads the current page.                                                                                                                                                                                                              |
-| **Minimize browser**    | Minimizes LIFF browser. For more information, see [Minimizing LIFF browser](/docs/liff/minimizing-liff-browser/).                                                                                                                      |
-| **Share**               | Shares the :glossary-tooltip[[permanent link](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"} of the current page via a LINE message.                                                                              |
-| **Permission settings** | Opens the Permission Settings screen. The Permission Settings screen allows the user to view the camera and microphone permissions of the currently open LIFF app. No changes can be made. Available in LINE versions 14.6.0 or later. |
+| Item                      | Description                                                                                                                                                                                                                           |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **All tabs**              | Displays the [Multi-tab view](#multi-tab-view).                                                                                                                                                                                       |
+| **Refresh**               | Reloads the current page.                                                                                                                                                                                                             |
+| **Go to app home screen** | Opens the page at the endpoint URL of the LIFF app. Available in LINE version 26.16.0 or later.                                                                                                                                       |
+| **Minimize browser**      | Minimizes LIFF browser. For more information, see [Minimizing LIFF browser](/docs/liff/minimizing-liff-browser/).                                                                                                                     |
+| **Share**                 | Shares the :glossary-tooltip[[permanent link](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"} of the current page via a LINE message.                                                                             |
+| **Permission settings**   | Opens the Permission Settings screen. The Permission Settings screen allows the user to view the camera and microphone permissions of the currently open LIFF app. No changes can be made. Available in LINE version 14.6.0 or later. |
 
 ::admonition{title="Permanent link sharing may fail" type="note"}
 If the URL of the current page doesn't start with the URL specified in **Endpoint URL** of the LINE Developers Console, the permanent link can't be obtained and sharing will fail.
