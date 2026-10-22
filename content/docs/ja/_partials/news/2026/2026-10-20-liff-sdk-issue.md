@@ -1,20 +1,18 @@
 ---
-title: LIFF/LINEミニアプリにおけるLIFF SDKの脆弱性の概要および旧バージョンの利用制限について
+title: 【更新】LIFF/LINEミニアプリにおけるLIFF SDKの脆弱性の概要および旧バージョンの利用制限について
 navigation: true
-description: >-
-  2026年9月30日に公開した「LIFF
-  v2.31.1をリリースしました」に関連して、LIFF/LINEミニアプリにおける修正されたセキュリティ上の脆弱性の概要と、それに伴うLIFF
-  SDKの旧バージョンの利用制限についてお知らせします。
+description: ''
 meta: '{"date":"2026-10-20 00:00 UTC","tags":"liff, line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-10-20-liff-sdk-issue
-__hash__: 5kg62RaGyGQ-C31s4r49rQG6kPMlTslJx11c2icY_14
+__hash__: PHuFPHckgz90SB5awVP2VhX7--MXlqjU_UsXjuXN6rw
 seo:
-  title: LIFF/LINEミニアプリにおけるLIFF SDKの脆弱性の概要および旧バージョンの利用制限について
-  description: >-
-    2026年9月30日に公開した「LIFF
-    v2.31.1をリリースしました」に関連して、LIFF/LINEミニアプリにおける修正されたセキュリティ上の脆弱性の概要と、それに伴うLIFF
-    SDKの旧バージョンの利用制限についてお知らせします。
+  title: 【更新】LIFF/LINEミニアプリにおけるLIFF SDKの脆弱性の概要および旧バージョンの利用制限について
+  description: ''
 ---
+
+::admonition{title="2026年10月22日追記" type="tip"}
+「[脆弱性の概要](#overview-20261020)」に、LINE内ブラウザからの利用について追記しました。
+::
 
 2026年9月30日に公開した「[LIFF v2.31.1をリリースしました](/news/2026/09/30/release-liff-2-31-1/)」に関連して、LIFF/LINEミニアプリにおける修正されたセキュリティ上の脆弱性の概要と、それに伴うLIFF SDKの旧バージョンの利用制限についてお知らせします。
 
@@ -29,7 +27,11 @@ LIFF v2.20.0 〜 v2.31.0において、クロスサイトスクリプティン�
 - CVE: [CVE-2026-112148](https://www.cve.org/CVERecord?id=CVE-2026-112148){rel="[\"nofollow\"]"}
 - GitHub Advisory: [CVE-2026-112148](https://github.com/line/liff/security/advisories/GHSA-wppr-qmp4-w627){rel="[\"nofollow\"]"}
 
-特定の条件において、不正なURLから:glossary-tooltip[[外部ブラウザ](/glossary/#external-browser)]{glossary-id="external-browser"}でLIFF/LINEミニアプリを開いた際、LIFF/LINEミニアプリのドメイン上で任意のJavaScriptが実行される可能性があります。これにより、アクセストークン等の認証情報や画面上の情報が不正に取得されるおそれがあります。
+特定の条件において、不正なURLから外部ブラウザでLIFF/LINEミニアプリを開いた際、LIFF/LINEミニアプリのドメイン上で任意のJavaScriptが実行される可能性があります。これにより、アクセストークン等の認証情報や画面上の情報が不正に取得されるおそれがあります。
+
+::admonition{title="LINE内ブラウザからの利用も対象となります" type="note"}
+:glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}ではなくLIFF/LINEミニアプリのエンドポイントURLを:glossary-tooltip[[LINE内ブラウザ](/glossary/#line-iab)]{glossary-id="line-iab"}で開いた場合も外部ブラウザの一種として扱われるため、本脆弱性の対象となります。
+::
 
 ### 影響範囲
 

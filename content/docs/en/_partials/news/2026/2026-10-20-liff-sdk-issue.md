@@ -1,26 +1,22 @@
 ---
 title: >-
-  Overview of the LIFF SDK vulnerability in LIFF/LINE MINI App and restrictions
-  on using older versions
+  [Updated] Overview of the LIFF SDK vulnerability in LIFF/LINE MINI App and
+  restrictions on using older versions
 navigation: true
-description: >-
-  In connection with LIFF v2.31.1 released on September 30, 2026, we would like
-  to provide an overview of the resolved security vulnerability in the LIFF/LINE
-  MINI App and the accompanying usage restriction for older versions of the LIFF
-  SDK.
+description: ''
 meta: '{"date":"2026-10-20 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-10-20-liff-sdk-issue
-__hash__: fNwPkZBdk4yaVNNq6_058m-U31w4Fsh07EVI4Sj46qE
+__hash__: b_iJwJdC5T2V9FdM6Mq1fbNa5c-9hLu1iianxLcYaZc
 seo:
   title: >-
-    Overview of the LIFF SDK vulnerability in LIFF/LINE MINI App and
+    [Updated] Overview of the LIFF SDK vulnerability in LIFF/LINE MINI App and
     restrictions on using older versions
-  description: >-
-    In connection with LIFF v2.31.1 released on September 30, 2026, we would
-    like to provide an overview of the resolved security vulnerability in the
-    LIFF/LINE MINI App and the accompanying usage restriction for older versions
-    of the LIFF SDK.
+  description: ''
 ---
+
+::admonition{title="Added on October 22, 2026" type="tip"}
+We have added a note about usage from LINE's in-app browser to [Overview of the vulnerability](#overview-20261020).
+::
 
 In connection with [LIFF v2.31.1 released](/news/2026/09/30/release-liff-2-31-1/) on September 30, 2026, we would like to provide an overview of the resolved security vulnerability in the LIFF/LINE MINI App and the accompanying usage restriction for older versions of the LIFF SDK.
 
@@ -39,7 +35,11 @@ A cross-site scripting (XSS) vulnerability was identified in LIFF v2.20.0 - v2.3
 - CVE: [CVE-2026-112148](https://www.cve.org/CVERecord?id=CVE-2026-112148){rel="[\"nofollow\"]"}
 - GitHub Advisory: [CVE-2026-112148](https://github.com/line/liff/security/advisories/GHSA-wppr-qmp4-w627){rel="[\"nofollow\"]"}
 
-Under certain conditions, when a LIFF/LINE MINI App is opened in an :glossary-tooltip[[external browser](/glossary/#external-browser)]{glossary-id="external-browser"} from a malicious URL, arbitrary JavaScript may be executed on the LIFF/LINE MINI App's domain. This could allow an attacker to obtain authentication information, such as access tokens, and information displayed on the screen.
+Under certain conditions, when a LIFF/LINE MINI App is opened in an external browser from a malicious URL, arbitrary JavaScript may be executed on the LIFF/LINE MINI App's domain. This could allow an attacker to obtain authentication information, such as access tokens, and information displayed on the screen.
+
+::admonition{title="LINE's in-app browser is also affected" type="note"}
+If you open a LIFF/LINE MINI App's endpoint URL in :glossary-tooltip[[LINE's in-app browser](/glossary/#line-iab)]{glossary-id="line-iab"} instead of using a :glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}, it is treated as an external browser and is therefore also subject to this vulnerability.
+::
 
 ### Impact
 
