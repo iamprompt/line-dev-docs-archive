@@ -4,7 +4,7 @@ navigation: true
 description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/discover/introduction
-__hash__: DyvU-zHS6JQkTSgVmccpCwpKa26k_HpXReS6D2LiF38
+__hash__: f9HyhIdb_U3d47ajXgDrceWBX2HA7OQ1jEB3WlvRuTU
 seo:
   title: LINEミニアプリとは
   description: LINEミニアプリは、LIFF上で実行されるウェブアプリです。
@@ -94,13 +94,17 @@ LINE公式アカウントからもLINEミニアプリにアクセスできます
 
 ![LINE公式アカウントでLINEミニアプリのプロモーションができる](/media/line-mini-app/mini_with_oa.webp){className="[\"w-fix-280\"]"}
 
+### ミニアプリタブ
+
+LINEアプリの［**ミニアプリ**］タブでは、履歴やお気に入りからLINEミニアプリにアクセスできます。また、おすすめのLINEミニアプリや人気のLINEミニアプリも紹介しています。
+
+なお、ミニアプリタブは日本のユーザーのみ利用できます。
+
+![](/media/line-mini-app/mini-access-mini-apps-tab-ja.webp){className="[\"border\",\"w-fix-280\"]"}
+
 ### ホームタブ
 
-::admonition{title="LINEミニアプリをLINEのホームタブに固定する機能は廃止されました" type="note"}
-詳しくは、2024年1月9日のニュース、「[最近利用したLINEミニアプリにLINEのホームタブからアクセスできるようになりました](/news/2024/01/09/line-mini-app-history/)」を参照してください。
-::
-
-LINEの［**ホーム**］タブの［**サービス**］から、最近利用したLINEミニアプリにアクセスできます。［**サービス**］には、最近利用したLINEミニアプリが、利用履歴の新しい順に最大で8件まで表示されます。この機能は、認証済ミニアプリでのみ利用できます。
+LINEアプリの［**ホーム**］タブの［**最近の履歴**］から、最近利用したLINEミニアプリにアクセスできます。［**最近の履歴**］には、最近利用したLINEミニアプリが、利用履歴の新しい順に最大で3件まで表示されます。この機能は、認証済ミニアプリでのみ利用できます。
 
 ホームタブの表示ポリシーは、サービスを提供する地域によって異なります。
 
@@ -110,7 +114,7 @@ LINEの［**ホーム**］タブの［**サービス**］から、最近利用�
 
 LINEの検索機能からも、LINEミニアプリにアクセスできます。この機能は、認証済ミニアプリでのみ利用できます。
 
-![検索機能からアクセス](/media/line-mini-app/mini_access_search.png){className="[\"w-fix-280\",\"border\"]"}
+![検索機能からアクセス](/media/line-mini-app/mini-access-search-ja.webp){className="[\"w-fix-280\",\"border\"]"}
 
 ### LINEメッセージ
 
