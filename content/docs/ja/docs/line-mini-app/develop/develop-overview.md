@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/develop/develop-overview
-__hash__: 5yhPS5sbgmRzamFh6vNeY-rJ4ebjZr7H7FQZ-hA1rU4
+__hash__: hxO_2fFc7UUjfstIibXaVjL_P-HIhpTF_WoVbcG3-cc
 seo:
   title: 開発を始めよう
   description: null
@@ -149,11 +149,11 @@ LINEミニアプリ用として提供されるAPIは、LIFF APIと[サービス�
 
 LIFFアプリ、およびステータスが「反映済み」のLINEミニアプリでは、ベーシック認証は利用できません。また、ダイジェスト認証は利用できません。
 
-::admonition{title="条件を満たしているのにベーシック認証が利用できない" type="tip"}
+::admonition{title="条件を満たしているのにベーシック認証が利用できないときは" type="tip"}
 LIFF間遷移後のLINEミニアプリではベーシック認証は利用できません。LIFF間遷移について詳しくは、『LIFFドキュメント』の「[LIFFアプリから別のLIFFアプリを開いた場合の動作について（LIFF間遷移）](/docs/liff/opening-liff-app/#move-liff-to-liff)」を参照してください。
 ::
 
-LIFFブラウザのベーシック認証に関する仕様については、『LIFFドキュメント』の[LIFFブラウザの仕様](/docs/liff/overview/#liff-browser-spec)を参照してください。
+なお、LIFFブラウザは各OSが提供するWebViewを利用しているため、ベーシック認証の挙動についてもiOSの[WKWebView](https://developer.apple.com/documentation/webkit/wkwebview){rel="[\"nofollow\"]"}およびAndroidの[Android WebView](https://developer.android.com/reference/android/webkit/WebView){rel="[\"nofollow\"]"}の仕様に依存します。
 
 ### ベーシック認証を利用する際の注意
 

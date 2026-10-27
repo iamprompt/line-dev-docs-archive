@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/line-login/issue-access-token
-__hash__: 8-sNtXm3WL94QtNxAkzxmhOQcrI_zotIwcaP-CZwF-I
+__hash__: gYgMVujZ9OyFqK9-DHoQ-LK44NoSWKY1v5fvw8DZTiA
 seo:
   description: ''
 ---
@@ -19,6 +19,13 @@ seo:
 
   LINE Login API calls require you to provide an access token or refresh token that was sent in an earlier response.
 
+  To use this endpoint, you must authenticate the client using one of the following methods:
+
+  | Authentication method            | Description                                                                                         |
+  | -------------------------------- | --------------------------------------------------------------------------------------------------- |
+  | Authenticate by the header       | Specify `Basic {A Base64-encoded string of client_id:client_secret}` in the `Authorization` header. |
+  | Authenticate by the request body | Specify `client_id` and `client_secret` as parameters in the request body.                          |
+
     ::::admonition{title="Note" type="note"}
     - This is the reference for the LINE Login v2.1 endpoint. For information on the v2.0 endpoint, see [Issue access token](/reference/line-login-v2/#issue-access-token) in the v2.0 API reference.
     - As new LINE Login features are added and existing features are modified, the structure of the JSON objects in responses and ID tokens may change. These changes may cause properties to be added or ordered differently; whitespace and line breaks to be added or removed between elements; and the size of the data to vary. Design your backend to be tolerant of future payloads that are structured differently.
@@ -26,7 +33,23 @@ seo:
   :::
 
   :::reference-code
-  *Example request*
+  *Example request (Authenticate by the header)*
+
+    ::::code-tabs
+      :::::tab{lang="shell"}
+      ```sh
+      curl -v -X POST https://api.line.me/oauth2/v2.1/token \
+      -H 'Authorization: Basic {A Base64-encoded string of client_id:client_secret}' \
+      -H 'Content-Type: application/x-www-form-urlencoded' \
+      -d 'grant_type=authorization_code' \
+      -d 'code=1234567890abcde' \
+      --data-urlencode 'redirect_uri=https://example.com/auth?key=value' \
+      -d 'code_verifier=wJKN8qz5t8SSI9lMFhBB6qwNkQBkuPZoCxzRhwLRUo1'
+      ```
+      :::::
+    ::::
+
+  *Example request (Authenticate by the request body)*
 
     ::::code-tabs
       :::::tab{lang="shell"}
@@ -53,6 +76,15 @@ seo:
   Content-Type
 
   application/x-www-form-urlencoded
+  :::
+
+  :::parameter-table-entry{annotation="See description"}
+  #undefined
+  Authorization
+
+  Basic `{A Base64-encoded string of client_id:client_secret}`
+
+  Required when authenticating by the header.
   :::
 ::
 
@@ -89,7 +121,7 @@ seo:
   Same value as `redirect_uri` specified in the [authorization request](/docs/line-login/integrate-line-login/#making-an-authorization-request).
   :::
 
-  :::parameter-table-entry{required="true"}
+  :::parameter-table-entry{annotation="See description"}
   #undefined
   client_id
 
@@ -97,9 +129,11 @@ seo:
   String
 
   Channel ID. Found in the [LINE Developers Console](/console/).
+
+  Required when authenticating by the request body.
   :::
 
-  :::parameter-table-entry{required="true"}
+  :::parameter-table-entry{annotation="See description"}
   #undefined
   client_secret
 
@@ -107,6 +141,8 @@ seo:
   String
 
   Channel secret. Found in the [LINE Developers Console](/console/).
+
+  Required when authenticating by the request body.
   :::
 
   :::parameter-table-entry{optional=""}

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-mini-app/develop/develop-overview
-__hash__: I17s_CgtEVqONG4WbMzk2izPZKl2bb0OLgBwuxDpvuM
+__hash__: doRPDGD57p93qRqoxzoRhBY5alFT34Dyw6T4Pd-EwXU
 seo:
   title: Getting started
   description: null
@@ -169,7 +169,7 @@ type: tip
 Basic authentication isn't available in a LINE MINI App after a LIFF-to-LIFF transition. For more information, see [Opening a LIFF app from another LIFF app (LIFF-to-LIFF transition)](/docs/liff/opening-liff-app/#move-liff-to-liff) in the LIFF documentation.
 ::
 
-For more information about basic authentication specifications on LIFF browser, see [LIFF browser specifications](/docs/liff/overview/#liff-browser-spec) in the LIFF documentation.
+The LIFF browser uses the WebView provided by each OS. Therefore, the behavior of basic authentication depends on the specifications of [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview){rel="[\"nofollow\"]"} for iOS and [Android WebView](https://developer.android.com/reference/android/webkit/WebView){rel="[\"nofollow\"]"} for Android.
 
 ### Notes on using basic authentication
 

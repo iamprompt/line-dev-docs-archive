@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-login/issue-access-token
-__hash__: PauH62Nk8sm2NUrFT8UAynylERKlRpiwLVdIbxjwVTA
+__hash__: KsKVPOEkK0gla3H43QYzKqKoplSy1FD5KoT8izWFMns
 seo:
   description: ''
 ---
@@ -19,6 +19,13 @@ seo:
 
   レスポンスに含まれるアクセストークンとリフレッシュトークンは、LINEログインAPIを呼び出す際に必要です。
 
+  このエンドポイントを使用するには、以下のいずれかの方法でクライアントを認証する必要があります。
+
+  | 認証方法          | 概要                                                                           |
+  | ------------- | ---------------------------------------------------------------------------- |
+  | ヘッダーによる認証     | `Authorization`ヘッダーに、`Basic {client_id:client_secretをBase64エンコードした文字列}`を指定する |
+  | リクエストボディによる認証 | リクエストボディのパラメータに`client_id`と`client_secret`を指定する                              |
+
     ::::admonition{title="注意" type="note"}
     - ここでは、LINEログイン v2.1のエンドポイントについて解説します。v2.0については、v2.0の「[アクセストークンを発行する](/reference/line-login-v2/#issue-access-token)」を参照してください。
     - LINEログイン機能に追加または変更があったときに、レスポンスやIDトークンのJSONオブジェクトの構造が変更される場合があります。この変更には、プロパティの追加、順序の変更、データの要素間の空白や改行の有無、データ長の変化が含まれます。将来、従来と異なる構造のペイロードを受信しても不具合が発生しないように、サーバーを実装してください。
@@ -26,7 +33,23 @@ seo:
   :::
 
   :::reference-code
-  *リクエストの例*
+  *リクエストの例（ヘッダーによる認証）*
+
+    ::::code-tabs
+      :::::tab{lang="shell"}
+      ```sh
+      curl -v -X POST https://api.line.me/oauth2/v2.1/token \
+      -H 'Authorization: Basic {client_id:client_secretをBase64エンコードした文字列}' \
+      -H 'Content-Type: application/x-www-form-urlencoded' \
+      -d 'grant_type=authorization_code' \
+      -d 'code=1234567890abcde' \
+      --data-urlencode 'redirect_uri=https://example.com/auth?key=value' \
+      -d 'code_verifier=wJKN8qz5t8SSI9lMFhBB6qwNkQBkuPZoCxzRhwLRUo1'
+      ```
+      :::::
+    ::::
+
+  *リクエストの例（リクエストボディによる認証）*
 
     ::::code-tabs
       :::::tab{lang="shell"}
@@ -53,6 +76,15 @@ seo:
   Content-Type
 
   application/x-www-form-urlencoded
+  :::
+
+  :::parameter-table-entry{annotation="説明を参照"}
+  #undefined
+  Authorization
+
+  Basic `{client_id:client_secretをBase64エンコードした文字列}`
+
+  ヘッダーによる認証を行う場合は必須です。
   :::
 ::
 
@@ -89,7 +121,7 @@ seo:
   [認可リクエスト](/docs/line-login/integrate-line-login/#making-an-authorization-request)時に指定した`redirect_uri`と同じ値
   :::
 
-  :::parameter-table-entry{required="true"}
+  :::parameter-table-entry{annotation="説明を参照"}
   #undefined
   client_id
 
@@ -97,9 +129,11 @@ seo:
   String
 
   チャネルID。[LINE Developersコンソール](/console/)で確認できます。
+
+  リクエストボディによる認証を行う場合は必須です。
   :::
 
-  :::parameter-table-entry{required="true"}
+  :::parameter-table-entry{annotation="説明を参照"}
   #undefined
   client_secret
 
@@ -107,6 +141,8 @@ seo:
   String
 
   チャネルシークレット。[LINE Developersコンソール](/console/)で確認できます。
+
+  リクエストボディによる認証を行う場合は必須です。
   :::
 
   :::parameter-table-entry{optional=""}

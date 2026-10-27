@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/line-login/refresh-access-token
-__hash__: ayyiUynDNiski2bwjmtG7hCUjmwTLzptYZupNL-6MWI
+__hash__: 5yg1bPq74Cukx75zwJlmihnAfCd14QcbYtBbNdKLo7g
 seo:
   description: ''
 ---
@@ -17,6 +17,13 @@ seo:
 
   ユーザーの認証が終わったときに、アクセストークンと共にリフレッシュトークンが返されます。
 
+  このエンドポイントを使用するには、以下のいずれかの方法でクライアントを認証する必要があります。
+
+  | 認証方法          | 概要                                                                                                                                        |
+  | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+  | ヘッダーによる認証     | `Authorization`ヘッダーに、`Basic {client_id:client_secretをBase64エンコードした文字列}`を指定する                                                              |
+  | リクエストボディによる認証 | リクエストボディのパラメータに`client_id`と`client_secret`を指定する。`client_secret`の要否はアプリタイプによって異なるため、詳細は「[リクエストボディ](#refresh-token-request-body)」を参照してください。 |
+
     ::::admonition{title="注意" type="note"}
     - ここでは、LINEログイン v2.1のエンドポイントについて解説します。v2.0については、v2.0の「[アクセストークンを更新する](/reference/line-login-v2/#refresh-access-token)」を参照してください。
     - Messaging APIで使用されるチャネルアクセストークンの更新には使用できません。
@@ -24,7 +31,20 @@ seo:
   :::
 
   :::reference-code
-  *リクエストの例*
+  *リクエストの例（ヘッダーによる認証）*
+
+    ::::code-tabs
+      :::::tab{lang="shell"}
+      ```sh
+      curl -v -X POST https://api.line.me/oauth2/v2.1/token \
+      -H 'Authorization: Basic {client_id:client_secretをBase64エンコードした文字列}' \
+      -H 'Content-Type: application/x-www-form-urlencoded' \
+      -d 'grant_type=refresh_token&refresh_token={your_refresh_token}'
+      ```
+      :::::
+    ::::
+
+  *リクエストの例（リクエストボディによる認証）*
 
     ::::code-tabs
       :::::tab{lang="shell"}
@@ -51,6 +71,15 @@ seo:
 
   application/x-www-form-urlencoded
   :::
+
+  :::parameter-table-entry{annotation="説明を参照"}
+  #undefined
+  Authorization
+
+  Basic `{client_id:client_secretをBase64エンコードした文字列}`
+
+  ヘッダーによる認証を行う場合は必須です。
+  :::
 ::
 
 #### リクエストボディ
@@ -76,7 +105,7 @@ seo:
   再発行するアクセストークンに対応するリフレッシュトークン。アクセストークンが発行されてから最長90日間有効です。リフレッシュトークンの有効期限が切れた場合は、ユーザーに再度ログインを要求して新しいアクセストークンを生成する必要があります。
   :::
 
-  :::parameter-table-entry{required="true"}
+  :::parameter-table-entry{annotation="説明を参照"}
   #undefined
   client_id
 
@@ -84,6 +113,8 @@ seo:
   String
 
   チャネルID。[LINE Developersコンソール](/console/)で確認できます。
+
+  リクエストボディによる認証を行う場合は必須です。
   :::
 
   :::parameter-table-entry{annotation="説明を参照"}
@@ -95,7 +126,7 @@ seo:
 
   チャネルシークレット。[LINE Developersコンソール](/console/)で確認できます。
 
-  - アプリタイプが［**ウェブアプリ**］のみのチャネルでは必須です。
+  - アプリタイプが［**ウェブアプリ**］のみのチャネルで、リクエストボディによる認証を行う場合は必須です。
   - アプリタイプが［**ネイティブアプリ**］かつ［**ウェブアプリ**］のチャネルでは無視されます。
   - アプリタイプが［**ネイティブアプリ**］のみのチャネルでは無視されます。
   :::
