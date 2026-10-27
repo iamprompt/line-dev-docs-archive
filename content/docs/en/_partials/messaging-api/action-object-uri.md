@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/action-object-uri
-__hash__: EWk8F9IpOHBqmulQxE0J3zb7vQ6NMpOA2N1bTgwKIFQ
+__hash__: BSnzBm164rQPOYATnrlkcHYhcANmRdVQspkeTLrkrVs
 seo:
   description: ''
 ---
@@ -43,7 +43,7 @@ seo:
       #undefined
       String
 
-      URI opened when the action is performed (Max character limit: 1000)  
+      URI opened when the action is performed (Max character limit: 10,000)  
 
       The available schemes are `http`, `https`, `line`, and `tel`. For more information about the LINE URL scheme, see [Use LINE features with the LINE URL scheme](/docs/messaging-api/using-line-url-scheme/).
 
@@ -57,7 +57,7 @@ seo:
       #undefined
       String
 
-      URI opened on LINE for macOS and Windows when the action is performed (Max character limit: 1000)  
+      URI opened on LINE for macOS and Windows when the action is performed (Max character limit: 10,000)  
 
       If the `altUri.desktop` property is set, the `uri` property is ignored on LINE for macOS and Windows.  
 

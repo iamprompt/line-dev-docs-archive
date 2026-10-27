@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/action-object-uri
-__hash__: utbLQCllbwuhycl3wPVJg8aUubYzF4G6dWcXQXzV_MI
+__hash__: 88TGC3ZqFyFPLtwieklJzk1Jh-r_v2GSNK1e4ZOMjaw
 seo:
   description: ''
 ---
@@ -43,7 +43,7 @@ seo:
       #undefined
       String
 
-      アクションの実行時に開かれるURI（最大文字数：1000）  
+      アクションの実行時に開かれるURI（最大文字数：10,000）  
 
       使用できるスキームは、`http`、`https`、`line`、および`tel`です。LINE URLスキームについて詳しくは、「[LINE URLスキームでLINEの機能を使う](/docs/messaging-api/using-line-url-scheme/)」を参照してください。
 
@@ -57,7 +57,7 @@ seo:
       #undefined
       String
 
-      macOS版とWindows版のLINEでアクションを実行したときに開かれるURI（最大文字数：1000）  
+      macOS版とWindows版のLINEでアクションを実行したときに開かれるURI（最大文字数：10,000）  
       `altUri.desktop`を指定した場合は、macOS版とWindows版のLINEでは`uri`が無視されます。  
 
       使用できるスキームは、`http`、`https`、`line`、および`tel`です。LINE URLスキームについて詳しくは、「[LINE URLスキームでLINEの機能を使う](/docs/messaging-api/using-line-url-scheme/)」を参照してください。
