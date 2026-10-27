@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/action-object-uri
-__hash__: BSnzBm164rQPOYATnrlkcHYhcANmRdVQspkeTLrkrVs
+__hash__: 4UypLmgvR3kKBTna70bef4V6PcCWV6YWdzCsRygdOKg
 seo:
   description: ''
 ---
@@ -66,7 +66,7 @@ seo:
       The URI should be percent-encoded using UTF-8. For more information, see [About the encoding of a URL specified in a request body property](#url-encoding).
 
         ::::::admonition{title="Note" type="note"}
-        The `altUri.desktop` is supported when you set URI actions in Flex Messages, but it doesn't work in quick reply.
+        The `altUri.desktop` property is supported when you set URI actions in Flex Messages, but it doesn't work in quick reply.
         ::::::
       :::::
     ::::

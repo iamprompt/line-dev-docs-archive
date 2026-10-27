@@ -10,7 +10,7 @@ description: >-
   parameters in URI actions.
 meta: '{"date":"2026-10-27 00:00 UTC","tags":"messaging-api","locale":"en"}'
 path: /en/_partials/news/2026/2026-10-27-uri-action
-__hash__: 9Jw932nOmt4__HqFl63mcdXadU7YvadCsNS0BmrfWN4
+__hash__: raovEmHgksVM5wE7IawHGGdX8cDFStY1kVsluCHL7B0
 seo:
   title: >-
     In the Messaging API, the maximum number of characters for URIs specified in
@@ -44,7 +44,7 @@ For each message type and feature, the URI action properties referenced on LINE 
 | [Quick reply](/reference/messaging-api/#quick-reply)             | `uri`               | - *              |
 | [Rich menu](/reference/messaging-api/#rich-menu)                 | `uri`               | - *              |
 
-* The `altUri.desktop` is supported when you set URI actions in Flex Messages.
+* The `altUri.desktop` property is supported when you set URI actions in Flex Messages.
 
 For more information on URI actions, see [URI action](/reference/messaging-api/#uri-action) in the Messaging API reference.
 
