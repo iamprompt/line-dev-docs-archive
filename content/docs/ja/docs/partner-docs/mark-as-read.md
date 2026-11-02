@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/partner-docs/mark-as-read
-__hash__: _YX2UD-zjun5zRxwhaACg9hYAWkRDmkc0lDGCk4jzhs
+__hash__: BzMHCfvtBM-CQsERQ3ZXD1olR7LTVhw-iz2Yzpsnn74
 seo:
   title: 既読API（旧）
   description: null
@@ -12,14 +12,10 @@ seo:
 
 # :page-title
 
-:markdown-controls::admonition{title="既読をつける新しいエンドポイントを使用してください" type="tip"}
-既読API（旧）は引き続き使用できますが、ユーザーからのメッセージに既読をつける処理をこれから実装する場合は、Messaging APIの「[メッセージに既読をつける](/reference/messaging-api/#mark-as-read)」エンドポイントを使用してください。「メッセージに既読をつける」エンドポイントは申請なしに使用でき、またチャット機能との併用も可能です。
-::
+:markdown-controls::admonition{title="既読API（旧）の新規利用申請の受付は終了しました" type="note"}
+2026年10月31日をもって、既読API（旧）の新規利用申請の受付を終了しました。既読API（旧）を利用中のLINE公式アカウントでは、引き続き既読API（旧）を利用できます。
 
-::admonition{title="オプション機能を利用するには手続きが必要です" type="note"}
-本ドキュメントに記載の機能は、所定の申請等を行った法人ユーザーのみがご利用いただけます。自社のLINE公式アカウントでご利用になりたいお客様は、担当営業までご連絡いただくか、[弊社パートナー](https://www.lycbiz.com/jp/partner/sales/){rel="[\"nofollow\"]"}にお問い合わせください。
-
-既読API（旧）の新規利用申請の受付は、2026年10月末で終了します。現在、既読API（旧）をご利用中のLINE公式アカウントでは、受付終了後も引き続き既読API（旧）をご利用いただけます。
+なお、既読API（旧）は、今後:glossary-tooltip[[非推奨](/glossary/#deprecated)]{glossary-id="deprecated"}となる可能性があります。ユーザーからのメッセージに既読をつける処理をこれから実装する場合は、Messaging APIの「[メッセージに既読をつける](/reference/messaging-api/#mark-as-read)」エンドポイントを使用してください。また、すでに既読API（旧）を利用している場合は、同エンドポイントへの移行を検討してください。「メッセージに既読をつける」エンドポイントは申請なしに使用でき、チャット機能との併用も可能です。
 ::
 
 ## 概要

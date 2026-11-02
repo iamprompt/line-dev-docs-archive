@@ -5,7 +5,7 @@ description: Notice for corporate customers. See also the News.
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/partner-docs/notice
-__hash__: NmZdxzt4cHDMHWJX5zJo9Y2KKyXeBSuOC-fA5oAXY10
+__hash__: oVjQIs2HV6EJp2Cjw33KvKRsm0DPkHY1dXEpTCOd7yk
 seo:
   title: Notice for corporate customers
   description: Notice for corporate customers. See also the News.
@@ -14,6 +14,14 @@ seo:
 # :page-title
 
 :markdown-controlsNotice for corporate customers. See also the [News](/news/).
+
+2026/11/02
+
+## We stopped accepting new applications for the Mark as read API (old) on October 31, 2026
+
+As announced on [May 18, 2026](#partner-news-20260518), we stopped accepting new applications for the [Mark as read API (old)](/docs/partner-docs/mark-as-read/) on October 31, 2026. LINE Official Accounts currently using the Mark as read API (old) can continue to use it.
+
+The Mark as read API (old) may be :glossary-tooltip[[deprecated](/glossary/#deprecated)]{glossary-id="deprecated"} in the future. If you're implementing functionality to mark messages from users as read going forward, use the Messaging API's [Mark messages as read](/reference/messaging-api/#mark-as-read) endpoint. If you're already using the Mark as read API (old), also consider migrating to the same endpoint. The "Mark messages as read" endpoint requires no application and can be used in conjunction with the chat feature.
 
 2026/09/16
 

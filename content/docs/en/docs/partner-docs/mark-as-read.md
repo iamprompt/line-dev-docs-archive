@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/partner-docs/mark-as-read
-__hash__: iuH6AwiE7iW0epOSd4WJW_vh-J-MWQR_vRRJAYD3w7s
+__hash__: EM_NK7HhaP40epNiCs3tqsqHKf6bF_VuHcoSGIVSrYM
 seo:
   title: Mark as read API (old)
   description: null
@@ -12,18 +12,14 @@ seo:
 
 # :page-title
 
-:markdown-controls::admonition{title="Use the new endpoint to mark as read" type="tip"}
-The Mark as read API (old) remains available for use. However, if you're implementing functionality to mark messages as read from users going forward, use the Messaging API's [Mark messages as read](/reference/messaging-api/#mark-as-read) endpoint. The "Mark messages as read" endpoint requires no application and can be used in conjunction with the chat feature.
-::
-
-::admonition
+:markdown-controls::admonition
 ---
-title: Use of optional functions requires an application
+title: We're no longer accepting new applications for the Mark as read API (old)
 type: note
 ---
-Only corporate users who have submitted the required applications can use the functions described in this document. To use these functions with your LINE Official Account, contact your sales representative or contact [our Sales partners](https://www.lycbiz.com/jp/partner/sales/){rel="[\"nofollow\"]"}.
+As of October 31, 2026, we're no longer accepting new applications for the Mark as read API (old). LINE Official Accounts currently using the Mark as read API (old) can continue to use it.
 
-We'll stop accepting new applications for the Mark as read API (old) at the end of October 2026. LINE Official Accounts that are currently using the Mark as read API (old) can continue to use it after new applications are no longer accepted.
+The Mark as read API (old) may be :glossary-tooltip[[deprecated](/glossary/#deprecated)]{glossary-id="deprecated"} in the future. If you're implementing functionality to mark messages from users as read going forward, use the Messaging API's [Mark messages as read](/reference/messaging-api/#mark-as-read) endpoint. If you're already using the Mark as read API (old), also consider migrating to the same endpoint. The "Mark messages as read" endpoint requires no application and can be used in conjunction with the chat feature.
 ::
 
 ## Overview

@@ -5,7 +5,7 @@ description: 法人ユーザー向けのお知らせです。ニュースもあ�
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /ja/docs/partner-docs/notice
-__hash__: wucyATtxTazdxBDGk9WxHwwzKQBAPadG5wDKp4WhbBk
+__hash__: vxPf-a1GFR2ZZxGvlBxyDrLWtujUpc-LYrMqDRDTwWo
 seo:
   title: 法人ユーザー向けのお知らせ
   description: 法人ユーザー向けのお知らせです。ニュースもあわせてご参照ください。
@@ -14,6 +14,14 @@ seo:
 # :page-title
 
 :markdown-controls法人ユーザー向けのお知らせです。[ニュース](/news/)もあわせてご参照ください。
+
+2026/11/02
+
+## 2026年10月31日をもって、既読API（旧）の新規利用申請の受付を終了しました
+
+[2026年5月18日](#partner-news-20260518)にお知らせしたとおり、2026年10月31日をもって、[既読API（旧）](/docs/partner-docs/mark-as-read/)の新規利用申請の受付を終了しました。既読API（旧）を利用中のLINE公式アカウントでは、引き続き既読API（旧）を利用できます。
+
+なお、既読API（旧）は、今後:glossary-tooltip[[非推奨](/glossary/#deprecated)]{glossary-id="deprecated"}となる可能性があります。ユーザーからのメッセージに既読をつける処理をこれから実装する場合は、Messaging APIの「[メッセージに既読をつける](/reference/messaging-api/#mark-as-read)」エンドポイントを使用してください。また、すでに既読API（旧）を利用している場合は、同エンドポイントへの移行を検討してください。「メッセージに既読をつける」エンドポイントは申請なしに使用でき、チャット機能との併用も可能です。
 
 2026/09/16
 
