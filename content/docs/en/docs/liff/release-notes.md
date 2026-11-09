@@ -5,7 +5,7 @@ description: Release notes for the LIFF API. See the latest changes and releases
 meta: >-
   {"tags":null,"author":null,"last_updated":null,"source_language":"en","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/liff/release-notes
-__hash__: LQD_ZUAXwl0Si2tZHst2OgGq_KMjDEfZ0_eV1azK5ow
+__hash__: rn_Z0jwURIgjM8IoIJSXFeHox3elXXnbe1hDq3UvIGw
 seo:
   title: Release notes
   description: Release notes for the LIFF API. See the latest changes and releases.
@@ -27,13 +27,17 @@ For more information, see [LIFF SDK (sdk.js) update policy](/docs/liff/versionin
 
 When you use the CDN edge path (`https://static.line-scdn.net/liff/edge/2/sdk.js`), you can always use the latest features of LIFF v2.
 
-[LIFF v2.31.2: October 7, 2026](#liff-v2-31-2)
+[LIFF v2.32.0: November 9, 2026](#liff-v2-32-0)
 
 ### Version list
 
-When you use the CDN fixed path (e.g. `https://static.line-scdn.net/liff/edge/versions/2.31.2/sdk.js`), you can use the features of the specified LIFF version.
+When you use the CDN fixed path (e.g. `https://static.line-scdn.net/liff/edge/versions/2.32.0/sdk.js`), you can use the features of the specified LIFF version.
 
-:toc2026/10/07
+:toc2026/11/09
+
+## LIFF v2.32.0 released
+
+:partial{content="news/2026/2026-11-09-release-liff-2-32-0/"}2026/10/07
 
 ## LIFF v2.31.2 released
 

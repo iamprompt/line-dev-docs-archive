@@ -6,13 +6,17 @@ navigation: true
 description: ''
 meta: '{"date":"2026-09-15 00:00 UTC","tags":"line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-09-15-use-multiple-accounts
-__hash__: nnZxOPU9REo6y-6V8P2-9A7lNSt5IvqnrJ0C9lBYGcw
+__hash__: gm4HTAYWjZVQf4MJbg-FUTYKHYMqHp99OW5BQ3Q2cT4
 seo:
   title: >-
     [Updated] We've temporarily suspended part of the feature for using multiple
     LINE Official Accounts with the add friend option in LINE MINI Apps
   description: ''
 ---
+
+::admonition{title="Added on November 9, 2026" type="note"}
+We've resumed the feature to [switch the LINE Official Account displayed on the channel consent screen](/docs/line-mini-app/service/add-friend-option/#channel-consent-screen). For more information, see the news from [November 9, 2026](/news/2026/11/09/add-friend-option/).
+::
 
 ::admonition{title="Added on October 16, 2026" type="note"}
 We've updated the [resumption date](#use-multiple-accounts-date-20260915) to early November 2026.

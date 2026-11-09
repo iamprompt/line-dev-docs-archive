@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /ja/docs/line-login-sdks/ios-sdk/swift/link-a-bot
-__hash__: LnzfWyryAz_61xlV75aamUdaHZffinmzcIr-A_Cspys
+__hash__: swd97WdjFbKpv7GmczmMpHWRNbLDcNkwRPE4RzCuhZw
 seo:
   title: SDKで友だち追加オプションを利用する
   description: null
@@ -93,4 +93,4 @@ API.getBotFriendshipStatus { result in
 }
 ```
 
-戻り値について詳しくは、『LINE SDK for iOS Swiftリファレンス（英語）』の「[getBotFriendshipStatus](/en/reference/ios-sdk-swift/Enums/API.html#/s:7LineSDK3APIO22getBotFriendshipStatus13callbackQueue17completionHandleryAA08CallbackI0O_ys6ResultOyAA03GetefG7RequestV8ResponseVAA0A8SDKErrorOGctFZ)」を参照してください。
+戻り値について詳しくは、『LINE SDK for iOS Swiftリファレンス（英語）』の「[getBotFriendshipStatus](/en/reference/ios-sdk-swift/Enums/API.html#/s:7LineSDK3APIO22getBotFriendshipStatus13callbackQueue17completionHandleryAA08CallbackI0O_ys6ResultOyAA03GetefG7RequestV8ResponseVAA0A8SDKErrorOGYbctFZ)」を参照してください。

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/batch-control-rich-menus-of-users
-__hash__: 2XIDKeKs6IEHuS6NLDjaTWxPU9RiqVWBOx7duSt5hwc
+__hash__: udb_rUiH_xJV-EtzLPW0HvZomDqnkDKNfWM4CEp5kE8
 seo:
   description: ''
 ---
@@ -171,6 +171,12 @@ seo:
   - `unlinkAll`：リッチメニューがリンクされている、すべてのユーザーとリッチメニューのリンクを解除する。
 
   `unlinkAll`を指定した場合、`unlinkAll`以外の`type`を`operations`プロパティに含めることはできません。
+
+    ::::admonition{title="タブ切り替え（リッチメニューエイリアス）を利用している場合" type="note"}
+    `unlink`および`unlinkAll`を指定した場合でも、すべてのユーザーとのリンクを必ず解除できるとは限りません。リンク解除の処理中にユーザーがリッチメニューエイリアスで別のリッチメニューに切り替えた場合、リッチメニューとのリンクが解除されずに残ってしまうことがあります。
+
+    タブ切り替えにより解除されず残ってしまったリンクを解除するためには、時間をおいてリンクの解除を再実行してください。詳しくは、『Messaging APIドキュメント』の「[タブ切り替え（リッチメニューエイリアス）を利用している場合](/docs/messaging-api/stop-displaying-rich-menu/#if-you-are-using-tab-switching)」を参照してください。
+    ::::
   :::
 
   :::parameter-table-entry{annotation="typeがlinkまたはunlinkの場合必須"}

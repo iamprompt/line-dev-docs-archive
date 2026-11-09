@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/messaging-api/switch-rich-menus
-__hash__: ArVj6GkDQbQnbwntzVleWIG0M-DK7XIyh2z_C7MttyY
+__hash__: hGtcURTrcjTaQ6HktebVn01cbEEbnGMLeXy9A4Pwm7g
 seo:
   title: リッチメニューでタブ切り替えを行う
   description: null
@@ -239,7 +239,7 @@ curl -v -X POST https://api.line.me/v2/bot/richmenu/alias \
 
 ## 9. リッチメニューの表示を終了する
 
-リッチメニューの表示を終了したい場合は、Messaging APIで以下の手順で実施します。
+リッチメニューの表示を終了したい場合は、Messaging APIで以下の手順で実施します。詳しくは、「[リッチメニューの表示を終了する](/docs/messaging-api/stop-displaying-rich-menu/)」を参照してください。
 
 1. [デフォルトのリッチメニューを解除する](/reference/messaging-api/#clear-default-rich-menu)
 2. [リッチメニューエイリアスを削除する](/reference/messaging-api/#delete-rich-menu-alias)

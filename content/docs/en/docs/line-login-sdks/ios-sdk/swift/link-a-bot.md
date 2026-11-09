@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/line-login-sdks/ios-sdk/swift/link-a-bot
-__hash__: DCQWc_kkLsaf-Bcmj7kGUtlNygSNN5QuYcQSRQoo6dM
+__hash__: 4EdsN28bF1zI8et-a-74pwRI9vz7lJinw13i6DfyMF4
 seo:
   title: Enabling the add friend option with the SDK
   description: null
@@ -93,4 +93,4 @@ API.getBotFriendshipStatus { result in
 }
 ```
 
-For more information about the return values, see [getBotFriendshipStatus](/reference/ios-sdk-swift/Enums/API.html#/s:7LineSDK3APIO22getBotFriendshipStatus13callbackQueue17completionHandleryAA08CallbackI0O_ys6ResultOyAA03GetefG7RequestV8ResponseVAA0A8SDKErrorOGctFZ) in the LINE SDK for iOS Swift reference.
+For more information about the return values, see [getBotFriendshipStatus](/reference/ios-sdk-swift/Enums/API.html#/s:7LineSDK3APIO22getBotFriendshipStatus13callbackQueue17completionHandleryAA08CallbackI0O_ys6ResultOyAA03GetefG7RequestV8ResponseVAA0A8SDKErrorOGYbctFZ) in the LINE SDK for iOS Swift reference.

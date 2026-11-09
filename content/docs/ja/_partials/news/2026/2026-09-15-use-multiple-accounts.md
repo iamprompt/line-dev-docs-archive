@@ -4,11 +4,15 @@ navigation: true
 description: ''
 meta: '{"date":"2026-09-15 00:00 UTC","tags":"line-mini-app","locale":"ja"}'
 path: /ja/_partials/news/2026/2026-09-15-use-multiple-accounts
-__hash__: fT_JQzOL34xHcsQyhkYIBnngCgqoReA3yq810skwPI4
+__hash__: 9PoxjzZyeu94b-_UkTk9EQnaRBAoGnpNfTdPn69-UJ0
 seo:
   title: 【更新】LINEミニアプリの友だち追加オプションにおいて、複数のLINE公式アカウントを使用する機能の一部を一時的に停止しています
   description: ''
 ---
+
+::admonition{title="2026年11月9日追記" type="note"}
+「[チャネル同意画面に表示するLINE公式アカウントを切り替える](/docs/line-mini-app/service/add-friend-option/#channel-consent-screen)」機能の提供を再開しました。詳しくは、[2026年11月9日](/news/2026/11/09/add-friend-option/)のニュースを参照してください。
+::
 
 ::admonition{title="2026年10月16日追記" type="note"}
 [提供の再開時期](#use-multiple-accounts-date-20260915)を「2026年11月上旬」に更新しました。

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/switch-rich-menus
-__hash__: BTRTYyFfoHnPUkctch5ScfP3yUOvGAnKMpxfxLjKDxg
+__hash__: exTU_7cPtSmV03rZJRfwK-8_Aq7w1sa5N1iyob3IVKs
 seo:
   title: Switch between tabs on rich menus
   description: null
@@ -239,7 +239,7 @@ You can [change the aliases](/reference/messaging-api/#update-rich-menu-alias) a
 
 ## 9. Stop displaying rich menu
 
-Suppose we want to stop displaying the rich menu. With the Messaging API, withdraw the rich menu in this order:
+Suppose we want to stop displaying the rich menu. With the Messaging API, withdraw the rich menu in this order. For more information, see [Stop displaying rich menus](/docs/messaging-api/stop-displaying-rich-menu/).
 
 1. [Clear the default menu setting of the rich menu](/reference/messaging-api/#clear-default-rich-menu).
 2. [Delete the rich menu aliases](/reference/messaging-api/#delete-rich-menu-alias).

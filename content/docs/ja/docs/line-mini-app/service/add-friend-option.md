@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/line-mini-app/service/add-friend-option
-__hash__: kLRJ_xYcoTOkRw77y3zFYSKmxVXCFcw78pxFtAXjWzM
+__hash__: iGzN3xKkOZrhx8HNkMeQCKplYnOLvt91T-3Q9jB-IvQ
 seo:
   title: LINEミニアプリ上でLINE公式アカウントを友だち追加する（友だち追加オプション）
   description: ''
@@ -139,19 +139,25 @@ try {
 
 ##### チャネル同意画面に表示するLINE公式アカウントを切り替える
 
-::admonition
----
-title: 「チャネル同意画面に表示するLINE公式アカウントを切り替える」機能は提供を一時停止しています
-type: note
----
-「チャネル同意画面に表示するLINE公式アカウントを切り替える」機能は、技術的な問題があり、提供を一時停止しています。詳しくは、[2026年9月15日](/news/2026/09/15/use-multiple-accounts/)のニュースを参照してください。
-::
+チャネル同意画面に表示するLINE公式アカウントを切り替えるには、:glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}または:glossary-tooltip[[パーマネントリンク](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"}に`liff_prompt_bot_id`クエリパラメータを付与します。この機能を利用するには、LIFF SDKがv2.32.0以上である必要があります。
 
-チャネル同意画面に表示するLINE公式アカウントを切り替えるには、:glossary-tooltip[[LIFF URL](/glossary/#liff-url)]{glossary-id="liff-url"}または:glossary-tooltip[[パーマネントリンク](/glossary/#permanent-link-liff)]{glossary-id="permanent-link-liff"}に`prompt_bot_id`クエリパラメータを付与します。`prompt_bot_id`クエリパラメータには、友だち追加を促すLINE公式アカウントのIDを、ベーシックIDまたは:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}で指定します。
+`liff_prompt_bot_id`クエリパラメータには、友だち追加を促すLINE公式アカウントのIDを、ベーシックIDまたは:glossary-tooltip[[プレミアムID](/glossary/#premium-id)]{glossary-id="premium-id"}で指定します。
 
 ```text
-https://miniapp.line.me/123456-abcedfg?prompt_bot_id=@819...
+https://miniapp.line.me/123456-abcedfg?liff_prompt_bot_id=@819...
 ```
+
+```text
+https://liff.line.me/123456-abcedfg?liff_prompt_bot_id=@819...
+```
+
+::admonition
+---
+title: liff_prompt_bot_idはLIFF URLまたはパーマネントリンクに付与してください
+type: note
+---
+`liff_prompt_bot_id`クエリパラメータはLIFF URLまたはパーマネントリンクに付与してください。エンドポイントURLに`liff_prompt_bot_id`クエリパラメータを付与した場合の動作は保証されません。
+::
 
 ##### LINE公式アカウントの友だち追加、またはブロック解除を促すサブウィンドウに表示するLINE公式アカウントを切り替える
 

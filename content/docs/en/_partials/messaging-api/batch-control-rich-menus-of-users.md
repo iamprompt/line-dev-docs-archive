@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/batch-control-rich-menus-of-users
-__hash__: etnLj1TUPb2WxzgmllQss_zqcZJqKEkcIfibWzOwz0g
+__hash__: AL0NcHpPjc3FFfvT4LVCPYxAi9-NE8k7jrvhBYGmd2k
 seo:
   description: ''
 ---
@@ -171,6 +171,16 @@ Rich menu operation object represents the batch operation to the rich menu linke
   - `unlinkAll`: Unlink the rich menu from all users linked to the rich menu.
 
   If you specify `unlinkAll`, `type` other than `unlinkAll` can't be included in the `operations` property.
+
+    ::::admonition
+    ---
+    title: If you are using tab switching (rich menu aliases)
+    type: note
+    ---
+    Even if you specify `unlink` or `unlinkAll`, it isn't always possible to unlink all users. If a user switches to another rich menu using a rich menu alias while the unlinking process is in progress, the link to the rich menu may remain without being unlinked.
+
+    To unlink the links that remained without being unlinked due to tab switching, wait for a while and re-execute the unlinking process. For more information, see [If you are using tab switching (rich menu aliases)](/docs/messaging-api/stop-displaying-rich-menu/#if-you-are-using-tab-switching) in the Messaging API documentation.
+    ::::
   :::
 
   :::parameter-table-entry{annotation="Required if type is link or unlink"}
