@@ -5,7 +5,7 @@ description: null
 meta: >-
   {"tags":null,"author":null,"last_updated":null,"source_language":"en","toc_max_depth":2}
 path: /en/docs/messaging-api/stop-displaying-rich-menu
-__hash__: cColll1IPnTVYnRdprnM_vMtAElHtJv9MOc4TATOwzg
+__hash__: UlLfqXi4Iy9l0SCil9evyluDHFK8ChtYCtsM1uxSlYA
 seo:
   title: Stop displaying rich menus
   description: null
@@ -70,4 +70,4 @@ There is a limit to the number of rich menus you can create with the Messaging A
 
 Even if you delete only the rich menu without [unlinking it from users](#stop-displaying-per-user-rich-menu), it won't disappear immediately from the user's chat screen. The deleted rich menu will continue to be displayed until the user re-enters the chat screen. If you want to stop it immediately even while the user is on the chat screen, don't delete the rich menu, but unlink it first.
 
-Also, you can [get rich menu insight even after deleting a rich menu](/docs/messaging-api/rich-menus-overview/#rich-menu-insight-after-deletion), but you will no longer be able to [get rich menu list](/reference/messaging-api/#get-rich-menu-list) via the Messaging API. If you plan to get statistical information even after deleting a rich menu, be sure to save the rich menu ID before deleting it.
+Also, you can [get rich menu insight even after deleting a rich menu](/docs/messaging-api/rich-menus-overview/#rich-menu-insight-after-deletion), but you can no longer [get the deleted rich menu's ID](/reference/messaging-api/#get-rich-menu-list) via the Messaging API. If you plan to get statistical information even after deleting a rich menu, be sure to save the rich menu ID before deleting it.

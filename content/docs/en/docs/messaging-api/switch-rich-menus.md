@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/switch-rich-menus
-__hash__: exTU_7cPtSmV03rZJRfwK-8_Aq7w1sa5N1iyob3IVKs
+__hash__: 9wE4VPs4L0h_c1uunHXs80QF-5Axx4JTRrS_bXtO86s
 seo:
   title: Switch between tabs on rich menus
   description: null
@@ -239,7 +239,7 @@ You can [change the aliases](/reference/messaging-api/#update-rich-menu-alias) a
 
 ## 9. Stop displaying rich menu
 
-Suppose we want to stop displaying the rich menu. With the Messaging API, withdraw the rich menu in this order. For more information, see [Stop displaying rich menus](/docs/messaging-api/stop-displaying-rich-menu/).
+If you want to stop displaying rich menu A and rich menu B configured in the previous steps, follow the steps below using the Messaging API.
 
 1. [Clear the default menu setting of the rich menu](/reference/messaging-api/#clear-default-rich-menu).
 2. [Delete the rich menu aliases](/reference/messaging-api/#delete-rich-menu-alias).
@@ -253,6 +253,8 @@ You can unlink a rich menu from a user who is a friend of your LINE Official Acc
 - [Unlink rich menus from multiple users](/reference/messaging-api/#unlink-rich-menu-from-users)
 
 The moment you unlink a rich menu from a user, the rich menu disappears from the chat room right away.
+
+For more information on how to stop displaying a rich menu on an active LINE Official Account, see [Stop displaying rich menus](/docs/messaging-api/stop-displaying-rich-menu/).
 
 ## When the intended rich menu isn't displayed
 
