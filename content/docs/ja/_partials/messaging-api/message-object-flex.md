@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/message-object-flex
-__hash__: djCDTsxBYQRAZuXSLsUNhIiMoS-qG_iHsIE0lZWQka0
+__hash__: 4G8g_C5T5g8-2cWMUbfOcu2R6rjKYA2mNqD88JmSxEg
 seo:
   description: ''
 ---
@@ -504,6 +504,8 @@ Flex Messageは、すべてのバージョンのLINEでサポートされます�
 ::reference-with-code
   :::reference-content
   ボックスは、水平または垂直のレイアウト方向を定義します。ボックスを含む、他のコンポーネントを含むことができます。
+
+  ボックスを繰り返しネストできる深さは、最大20階層です。一番外側のボックスを1階層目、その子ボックスを2階層目として、順に数えます。なお、20階層目のボックスにも、ボックス以外のコンポーネントは配置できます。
 
     ::::parameter-table
       :::::parameter-table-entry{required="true"}

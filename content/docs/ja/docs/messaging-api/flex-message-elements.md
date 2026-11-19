@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /ja/docs/messaging-api/flex-message-elements
-__hash__: dp3MAogXYQA7lnMWBkuRzFmg7RmyyXXBBuV8owa603Q
+__hash__: NwAQybi22wLGrsQOEPEc4ACCqDZJfAXIFmvYYaLXiuE
 seo:
   title: Flex Messageの要素
   description: null
@@ -194,6 +194,8 @@ seo:
 ### ボックス
 
 ボックスは、水平または垂直にコンポーネントをレイアウトするためのコンポーネントです。ボックスを含む、他のコンポーネントを含めることができます。レイアウトについて詳しくは、「[Flex Messageのレイアウト](/docs/messaging-api/flex-message-layout/)」を参照してください。JSONスキーマについて詳しくは、『Messaging APIリファレンス』の「[ボックス](/reference/messaging-api/#box)」を参照してください。
+
+ボックスを繰り返しネストできる深さは、最大20階層です。一番外側のボックスを1階層目、その子ボックスを2階層目として、順に数えます。なお、20階層目のボックスにも、ボックス以外のコンポーネントは配置できます。
 
 ### ボタン
 

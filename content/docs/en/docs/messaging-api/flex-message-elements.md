@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":null}'
 path: /en/docs/messaging-api/flex-message-elements
-__hash__: eCaCfcMf3NPL-BD_4FwPv3i_lMvYeJ15MvrX_TzMgCI
+__hash__: LeVgNOCVKmPh-mshp_49R0DtTZDpv9CVdbLO5KNt9cs
 seo:
   title: Flex Message elements
   description: null
@@ -194,6 +194,8 @@ Component is a unit that composes a [block](#block). Available components are:
 ### Box
 
 This component defines a horizontal or vertical layout orientation and holds components together. Any component can be contained, including a box. For more information on layout information, see [Flex Message layout](/docs/messaging-api/flex-message-layout/). For more information on the JSON schema, see [Box](/reference/messaging-api/#box) in the Messaging API reference.
+
+You can nest boxes inside each other up to a maximum of 20 levels. The outermost box counts as level 1, its child box as level 2, and so on. You can still place components other than boxes inside a box at level 20.
 
 ### Button
 

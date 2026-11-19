@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/message-object-flex
-__hash__: EXrMMQxosPOcCrpAYj8w2tkjzYsBmDXf2rC7SB9Z_c0
+__hash__: K9rS1mtOKuP8TIwHl6JN9eyfnHOxNsqPZBhHNLychrk
 seo:
   description: ''
 ---
@@ -504,6 +504,8 @@ For JSON samples and usage of each component, see [Flex Message elements](/docs/
 ::reference-with-code
   :::reference-content
   This component defines a horizontal or vertical layout orientation and holds components together. Any component can be contained, including a box. You can also include a box in a box.
+
+  You can nest boxes inside each other up to a maximum of 20 levels. The outermost box counts as level 1, its child box as level 2, and so on. You can still place components other than boxes inside a box at level 20.
 
     ::::parameter-table
       :::::parameter-table-entry{required="true"}
