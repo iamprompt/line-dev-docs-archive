@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/partner-docs/flexible
-__hash__: CFRwEUOwqFDg3nbn8mQLcVY8Q6ZKYGJxgAaBxxm3tH4
+__hash__: yIhhtmG0iZswJGscA7IVyKnsFDAIrJiNdedRaoWX1e8
 seo:
   description: ''
 ---
@@ -32,16 +32,6 @@ seo:
     Consequently, the previous "LINE notification messages" that required UX review have been renamed "LINE notification messages (flexible)".
 
     For more information, see the notice for corporate customers from June 2, 2025, [LINE notification messages (template) now available](/docs/partner-docs/notice/#partner-news-20250602).
-    ::::
-
-    ::::admonition
-    ---
-    title: Don't restrict the request source IP addresses
-    type: warning
-    ---
-    When sending LINE notification messages, don't register server IP addresses that can call LINE Platform APIs in the [**Security Settings**] tab of the Messaging API channel. Sending a LINE notification message with the source IP addresses restricted may result in sending failure.
-
-    For more information about how to check if you are restricting the requesting IP addresses, see [Restrict who can call the API when using a long-lived channel access token (optional)](/docs/messaging-api/building-bot/#configure-security-settings) in the Messaging API documentation.
     ::::
   :::
 

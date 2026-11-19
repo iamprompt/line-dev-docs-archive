@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/partner-docs/flexible
-__hash__: 7vol7hou5-ksTkegYkkAHxlvqM-GCv252Fse4Uudetw
+__hash__: jHWD57J6mK5w1A-2Teqk7BL4TMo2JeODTCSYs4kvES0
 seo:
   description: ''
 ---
@@ -30,12 +30,6 @@ seo:
     これに伴い、UX審査を要する従来の「LINE通知メッセージ」は、名称が「LINE通知メッセージ（フレキシブル）」に変更されました。
 
     詳しくは、2025年6月2日の『法人ユーザー向けお知らせ』、「[LINE通知メッセージ（テンプレート）の提供を開始しました](/docs/partner-docs/notice/#partner-news-20250602)」を参照してください。
-    ::::
-
-    ::::admonition{title="リクエスト元IPアドレスの制限はしないでください" type="warning"}
-    LINE通知メッセージを送る場合、Messaging APIチャネルの［**セキュリティ設定**］タブで、LINEプラットフォームのAPIを呼び出せるサーバーのIPアドレスを登録しないでください。リクエスト元のIPアドレスを制限した状態でLINE通知メッセージを送ると、送信に失敗することがあります。
-
-    リクエスト元のIPアドレスを制限しているか確認する方法については、『Messaging APIドキュメント』の「[長期のチャネルアクセストークン利用時にAPIの呼び出し元を制限する（任意）](/docs/messaging-api/building-bot/#configure-security-settings)」を参照してください。
     ::::
   :::
 

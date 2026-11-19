@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/partner-docs/template
-__hash__: dgpxJ89Q52af0JKpQ7PhctMPkm8tZwEXVllVguhbJpY
+__hash__: gAhcssLbOMeS3M7-yubwTAUJkzDCNUdKd0Dh2wuCE0A
 seo:
   description: ''
 ---
@@ -21,12 +21,6 @@ seo:
   ユーザーの電話番号を指定してLINE通知メッセージ（テンプレート）を送るAPIです。
 
   詳しくは、『LINE通知メッセージドキュメント』の「[LINE通知メッセージ（テンプレート）](/docs/partner-docs/line-notification-messages/template/)」を参照してください。
-
-    ::::admonition{title="リクエスト元IPアドレスの制限はしないでください" type="warning"}
-    LINE通知メッセージを送る場合、Messaging APIチャネルの［**セキュリティ設定**］タブで、LINEプラットフォームのAPIを呼び出せるサーバーのIPアドレスを登録しないでください。リクエスト元のIPアドレスを制限した状態でLINE通知メッセージを送ると、送信に失敗することがあります。
-
-    リクエスト元のIPアドレスを制限しているか確認する方法については、『Messaging APIドキュメント』の「[長期のチャネルアクセストークン利用時にAPIの呼び出し元を制限する（任意）](/docs/messaging-api/building-bot/#configure-security-settings)」を参照してください。
-    ::::
   :::
 
   :::reference-code
