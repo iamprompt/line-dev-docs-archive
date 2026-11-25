@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/development-guidelines
-__hash__: 7UD5eoH1tnht8bWxEx-yiD8qKY08nmcMRqaJw98SJkk
+__hash__: oe9NNIJAuGqtSQavrmiBzq8cr7XO1r_VCfXumG00baQ
 seo:
   title: Development guidelines for corporate customers
   description: null
@@ -153,14 +153,6 @@ It's recommended to desynchronize the event processing when the bot server gets 
 This image depicts asynchronized processing.
 
 ![Processing flow when receiving a webhook request](/media/partner-docs/flow-when-receiving-a-webhook-en.png)
-
-### If a problem occurs when sending a webhook request
-
-For Messaging API channels under the certified provider, if the HTTP status code `2xx` isn't sent within 2 seconds after getting the webhook event, a [`request_timeout`](/docs/messaging-api/check-webhook-error-statistics/#check-error-reason) [error notification](/docs/partner-docs/error-notification/) is sent to the channel administrator.
-
-::admonition{title="Use of error notification function" type="note"}
-The error notification feature is only available for Messaging API channels that are under the certified provider.
-::
 
 ### Other precautions
 

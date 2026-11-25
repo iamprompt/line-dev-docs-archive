@@ -5,7 +5,7 @@ description: Notice for corporate customers. See also the News.
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /en/docs/partner-docs/notice
-__hash__: oVjQIs2HV6EJp2Cjw33KvKRsm0DPkHY1dXEpTCOd7yk
+__hash__: eaAiXOZWeGaLm4lAWYcEv2RibeERG8c7kKSnKHALaJs
 seo:
   title: Notice for corporate customers
   description: Notice for corporate customers. See also the News.
@@ -14,6 +14,14 @@ seo:
 # :page-title
 
 :markdown-controlsNotice for corporate customers. See also the [News](/news/).
+
+2026/11/25
+
+## You can now change your error notification settings
+
+For Messaging API channels under a certified provider, you can now change your settings for receiving [error notifications](/docs/partner-docs/error-notification/) in the [LINE Developers Console](/console/).
+
+For more information, see [Enable error notification emails](/docs/partner-docs/error-notification/#enable-error-notification-emails) in the options for corporate customers documentation.
 
 2026/11/02
 

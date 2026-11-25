@@ -5,7 +5,7 @@ description: 法人ユーザー向けのお知らせです。ニュースもあ�
 meta: >-
   {"layout":"feature-index","toc_max_depth":2,"content_class":"reduced-header-spacing"}
 path: /ja/docs/partner-docs/notice
-__hash__: vxPf-a1GFR2ZZxGvlBxyDrLWtujUpc-LYrMqDRDTwWo
+__hash__: 14tvjA3xtI-Ibp3QbLSvvjPuoB2Jq8pVS2TY20RUsvo
 seo:
   title: 法人ユーザー向けのお知らせ
   description: 法人ユーザー向けのお知らせです。ニュースもあわせてご参照ください。
@@ -14,6 +14,14 @@ seo:
 # :page-title
 
 :markdown-controls法人ユーザー向けのお知らせです。[ニュース](/news/)もあわせてご参照ください。
+
+2026/11/25
+
+## エラー通知の受信設定を変更できるようになりました
+
+認証プロバイダー配下のMessaging APIチャネルにおいて、[エラー通知](/docs/partner-docs/error-notification/)の受信設定を[LINE Developersコンソール](/console/)から変更できるようになりました。
+
+詳しくは、『法人ユーザー向けオプションドキュメント』の「[エラー通知メールを有効にする](/docs/partner-docs/error-notification/#enable-error-notification-emails)」を参照してください。
 
 2026/11/02
 

@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/module-technical-console
-__hash__: Tj4sGfYCxaYELr26N79hEskLhWcutY0rVclpMIdvXPU
+__hash__: Dqlpq6Bz7cnJ6AM1ek3hQvgzc6AGyRPboSr-tOkOyr8
 seo:
   title: モジュールチャネルの設定を行う
   description: null
@@ -20,7 +20,7 @@ seo:
 
 ［**モジュール**］タブでは、モジュールチャネルのWebhook URLおよびWebhook利用のオン・オフと、[LINE公式アカウントの管理者に認可を要求する](/docs/partner-docs/module-technical-attach-channel/#request-auth-from-line-oa-admin)際に指定する`redirect_uri`を設定できます。
 
-![LINE Developersコンソール上のモジュールタブ](/media/partner-docs/module-technical/module-tab-in-console-ja.webp){className="[\"w-fix-360\",\"border\"]"}
+![LINE Developersコンソール上のモジュールタブ](/media/partner-docs/module-technical/module-tab-in-console-ja.webp){className="[\"w-fix-480\",\"border\"]"}
 
 ## 1. モジュールタブ
 
@@ -43,6 +43,10 @@ seo:
 ### エラーの統計情報
 
 Webhookイベントの受信失敗に関する統計情報を［**Webhookエラー**］タブで表示するかどうかを設定できます。
+
+### エラー通知メール
+
+LINEプラットフォームがWebhookの送信エラーを検知したときや、Webhookの再送を停止したときに、メールで通知を受け取るかどうかを設定できます。詳しくは、『法人ユーザー向けオプションドキュメント』の「[エラー通知](/docs/partner-docs/error-notification/)」を参照してください。
 
 ## 3. リダイレクト設定
 

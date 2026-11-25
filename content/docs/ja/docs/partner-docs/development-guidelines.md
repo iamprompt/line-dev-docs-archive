@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/development-guidelines
-__hash__: AIp8Hl9Xl2bMRu6Q4KHxkxnecE-A3nBJmF0tzhKYVFw
+__hash__: KkleX36UW38mOnuxoB9vn4unoRvGHM_sf7bFrnKkkiQ
 seo:
   title: 法人ユーザー向け開発ガイドライン
   description: null
@@ -145,14 +145,6 @@ Webhookリクエストの処理が後続の処理に遅延を与えないよう�
 以下は、非同期で処理を行う際のイメージです。
 
 ![Webhookリクエスト受信時の処理フロー](/media/partner-docs/flow-when-receiving-a-webhook-ja.png)
-
-### Webhookリクエスト送信時に問題が発生した場合
-
-認証プロバイダー配下に存在するMessaging APIチャネルにおいては、Webhookイベントを受信してから2秒以内にHTTPステータスコード`200`番台がレスポンスされなかった場合、チャネルの管理者に対し、[`request_timeout`](/docs/messaging-api/check-webhook-error-statistics/#check-error-reason)の[エラー通知](/docs/partner-docs/error-notification/)が送信されます。
-
-::admonition{title="エラー通知機能の利用" type="note"}
-エラー通知機能は、認証プロバイダー配下に存在するMessaging APIチャネルでのみ利用できます。
-::
 
 ### その他注意事項
 

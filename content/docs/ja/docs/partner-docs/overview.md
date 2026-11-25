@@ -4,7 +4,7 @@ navigation: true
 description: 本ドキュメントは、法人ユーザー向けのオプション機能に関するドキュメントです。
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"ja"}'
 path: /ja/docs/partner-docs/overview
-__hash__: ohjRPRDnuvYJXQqM_HjEZPYGgNt7pIu0wyNKFEpmgpY
+__hash__: hif6jxnfbTnAU620p7Uyp7R1XpvtOKgU8ZIZF59d_mI
 seo:
   title: 概要
   description: 本ドキュメントは、法人ユーザー向けのオプション機能に関するドキュメントです。
@@ -18,7 +18,7 @@ seo:
 
 | オプション機能                                                                | 概要                                                                                                                         |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [エラー通知](/docs/partner-docs/error-notification/)                        | LINEプラットフォームからのWebhookイベント送信に、ボットサーバーがエラーを返した場合、チャネルの管理者にメールで通知できます。                                                       |
+| [エラー通知](/docs/partner-docs/error-notification/)                        | LINEプラットフォームがWebhookの送信エラーを検知したときや、Webhookの再送を停止したときに、メールで通知を受け取ることができます。                                                  |
 | [プロバイダーページ](/docs/partner-docs/provider-page/)                         | :glossary-tooltip[[プロバイダー](/glossary/#provider)]{glossary-id="provider"}がLINEプラットフォーム上で提供している各種サービスの一覧ページです。               |
 | [ミッションスタンプ](/docs/partner-docs/mission-stickers/)                      | ミッションの達成を条件としてユーザーにスタンプを提供することができます。                                                                                       |
 | [LINE通知メッセージ](/docs/partner-docs/line-notification-messages/overview/) | ユーザーIDを知らないユーザーにも、電話番号を指定することでメッセージを送信できます。                                                                                |

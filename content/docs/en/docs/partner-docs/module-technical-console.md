@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/module-technical-console
-__hash__: Z8pkGTY__OUctB8ktZYgmWsq_7MB-ILk7K8tsQSshrU
+__hash__: LvFRfndevfGlnrPvq7NttiULgIOCA08ppLcrSvHL9Vs
 seo:
   title: Configure module channel settings
   description: null
@@ -24,7 +24,7 @@ In the module channel, a dedicated **module** tab appears in the [LINE Developer
 
 In the **module** tab, you can set the module channel's webhook URL, whether to receive webhook, and the `redirect_uri` specified when [requesting authorization from the LINE Official Account admin](/docs/partner-docs/module-technical-attach-channel/#request-auth-from-line-oa-admin).
 
-![Module tab in LINE Developers Console](/media/partner-docs/module-technical/module-tab-in-console-en.png){className="[\"w-fix-360\",\"border\"]"}
+![Module tab in LINE Developers Console](/media/partner-docs/module-technical/module-tab-in-console-en.png){className="[\"w-fix-480\",\"border\"]"}
 
 ## 1. module tab
 
@@ -47,6 +47,10 @@ You can set whether or not to resend the webhook event from the LINE Platform wh
 ### Error stats
 
 You can set whether or not to display stats about webhook event reception failures on the **Webhook errors** tab.
+
+### Error notification emails
+
+You can set whether or not to receive email notifications when the LINE Platform detects a webhook delivery error or stops webhook redelivery. For more information, see [Error notification](/docs/partner-docs/error-notification/) in the options for corporate customers documentation.
 
 ## 3. Redirect settings
 

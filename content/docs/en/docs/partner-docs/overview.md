@@ -4,7 +4,7 @@ navigation: true
 description: This document contains optional functions for corporate users.
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/partner-docs/overview
-__hash__: X1oz8j-yK6louCB_mKzmgeju8EHvagxMuLtQ1ofUVA0
+__hash__: h7FdIsUbH9LEa_GGSTv5bzaAIQpbhKUDkLWJX9DWo_I
 seo:
   title: Overview
   description: This document contains optional functions for corporate users.
@@ -18,7 +18,7 @@ This page describes how to use these optional functions:
 
 | Optional function                                                                     | Overview                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Error notification](/docs/partner-docs/error-notification/)                          | If the bot server returns an error when sending webhook events from the LINE Platform, you can notify a channel administrator by email.                                                                                                  |
+| [Error notification](/docs/partner-docs/error-notification/)                          | You can receive email notifications when the LINE Platform detects a webhook delivery error or stops webhook redelivery.                                                                                                                 |
 | [Provider page](/docs/partner-docs/provider-page/)                                    | A list of all the services that the :glossary-tooltip[[Provider](/glossary/#provider)]{glossary-id="provider"} offers on the LINE Platform.                                                                                              |
 | [Mission stickers](/docs/partner-docs/mission-stickers/)                              | Mission stickers are provided to user upon completion of certain objectives.                                                                                                                                                             |
 | [LINE notification messages](/docs/partner-docs/line-notification-messages/overview/) | You can send messages to users by specifying their phone number, even without knowing their user IDs.                                                                                                                                    |
