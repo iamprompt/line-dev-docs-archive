@@ -1,41 +1,36 @@
 ---
 title: >-
-  For LIFF/LINE MINI App, usage restrictions have been implemented for older
-  versions of the LIFF SDK
+  [Updated] For LIFF/LINE MINI App, usage restrictions have been implemented for
+  older versions of the LIFF SDK
 navigation: true
-description: >-
-  As announced in [Updated] Overview of the LIFF SDK vulnerability in LIFF/LINE
-  MINI App and restrictions on using older versions published on October 20,
-  2026, we have implemented usage restrictions for older versions of the LIFF
-  SDK (v2.20.0 - v2.31.0) with a confirmed vulnerability to ensure user safety.
+description: ''
 meta: '{"date":"2026-11-24 00:00 UTC","tags":"liff, line-mini-app","locale":"en"}'
 path: /en/_partials/news/2026/2026-11-24-liff-sdk-issue
-__hash__: 6vUKIjQpCWbiYOpKf097et5qe4AWPmpuQvDi4ftPIDk
+__hash__: mSIIhpczOGJqdXWwlp6IyeTHXQHrCilCQqFGzdOzaao
 seo:
   title: >-
-    For LIFF/LINE MINI App, usage restrictions have been implemented for older
-    versions of the LIFF SDK
-  description: >-
-    As announced in [Updated] Overview of the LIFF SDK vulnerability in
-    LIFF/LINE MINI App and restrictions on using older versions published on
-    October 20, 2026, we have implemented usage restrictions for older versions
-    of the LIFF SDK (v2.20.0 - v2.31.0) with a confirmed vulnerability to ensure
-    user safety.
+    [Updated] For LIFF/LINE MINI App, usage restrictions have been implemented
+    for older versions of the LIFF SDK
+  description: ''
 ---
+
+::admonition{title="Updated on November 25, 2026" type="note"}
+On November 25, 2026, we implemented usage restrictions on CDN fixed paths for older versions of the LIFF SDK (v2.20.0 - v2.31.0). Depending on the user's environment and cache status, it may take a day or more for the restrictions to take effect.
+::
 
 As announced in [[Updated] Overview of the LIFF SDK vulnerability in LIFF/LINE MINI App and restrictions on using older versions](/news/2026/10/20/liff-sdk-issue/) published on October 20, 2026, we have implemented usage restrictions for older versions of the LIFF SDK (v2.20.0 - v2.31.0) with a confirmed vulnerability to ensure user safety.
 
 ### Implementation status and schedule of usage restrictions
 
-We are sequentially implementing usage restrictions for the affected older versions (v2.20.0 - v2.31.0) according to the following schedule.
+We have implemented usage restrictions for the affected older versions (v2.20.0 - v2.31.0) according to the following schedule.
 
 #### November 24, 2026 (implemented)
 
-We have restricted `liff.login()` requests from the affected older versions of the LIFF SDK in external browsers and LINE's in-app browser. As a result, the execution of `liff.login()` fails on the affected versions, which may result in your LIFF/LINE MINI App becoming unavailable.
+We have restricted [`liff.login()`](/reference/liff/#login) requests from the affected older versions of the LIFF SDK in external browsers and LINE's in-app browser. As a result, the execution of `liff.login()` fails on the affected versions, which may result in your LIFF/LINE MINI App becoming unavailable.
 
-#### November 25, 2026 (scheduled)
+#### November 25, 2026 (implemented)
 
-In external browsers and LINE's in-app browser, accessing the affected older versions of the LIFF SDK using a CDN fixed path will return an error with status code `403`. As a result, an error will occur when loading the affected LIFF SDK using a `<script>` tag.
+In external browsers and LINE's in-app browser, accessing the affected older versions of the LIFF SDK using a CDN fixed path now returns an error with status code `403`. As a result, an error occurs when loading the affected LIFF SDK using a `<script>` tag.
 
 ### Updating your app is still required
 
