@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-number-of-sent-messages
-__hash__: vqDLH8YZd27QSyXRz1VSVTDSuYv3njMbsbWZaIPe_dY
+__hash__: wiV_sWJ0mbG1LhxmeFWNycmCjjdBoabk3tJvLmiuDPk
 seo:
   description: ''
 ---
@@ -18,6 +18,8 @@ seo:
   The number of messages retrieved by this operation includes the number of messages sent from LINE Official Account Manager.
 
   The number of messages retrieved by this operation is approximate. To get the correct number of sent messages, use LINE Official Account Manager or execute API operations for getting the number of sent messages.
+
+  The LINE Platform temporarily reserves the planned number of messages for [narrowcast messages](#send-narrowcast-message-cautions) and targeted broadcasts from LINE Official Account Manager. It includes these reservations in `totalUsage`. After finalizing the actual number of messages sent, the LINE Platform releases the reservations for unsent messages and subtracts the corresponding message count from `totalUsage`.
   :::
 
   :::reference-code
@@ -67,7 +69,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       Number
 
-      The number of sent messages in the current month
+      The number of messages sent in the current month. This number may include messages temporarily reserved for planned deliveries.
       :::::
     ::::
   :::

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/get-number-of-sent-messages
-__hash__: PwxnV0dpbEkBpQs-ATMsk90eJB7lSmqHqD5U_oluD8k
+__hash__: 0E82mLVAvN3FpzHvtEtLXLHc7K9OT2QKoE22qqjH19U
 seo:
   description: ''
 ---
@@ -18,6 +18,8 @@ seo:
   この操作により取得されるメッセージ数には、LINE Official Account Managerから送信するメッセージの数も含まれます。
 
   この操作により取得されるメッセージ数は概算です。正確なメッセージ送信数を取得するには、LINE Official Account Managerを使用するか、送信済みのメッセージ数を取得するAPI操作を実行してください。
+
+  [ナローキャストメッセージ](#send-narrowcast-message-cautions)やLINE Official Account Managerの絞り込み配信では、配信予定のメッセージ通数が一時的に予約され、`totalUsage`に含まれます。実際の送信件数が確定すると、送信されなかった分は予約が解除され、`totalUsage`から差し引かれます。
   :::
 
   :::reference-code
@@ -67,7 +69,7 @@ seo:
       #undefined
       Number
 
-      当月に送信されたメッセージの数
+      当月に送信されたメッセージの数。配信予定のメッセージの一時的な予約分を含む場合があります。
       :::::
     ::::
   :::

@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-quota
-__hash__: c0zGjKw4zcfW3ZmCbRryiSafmo05d8Ad8Y8X5LIG6fg
+__hash__: Op-GaicEpYHfgJjkoHjQlQ0j-g7hLaFFfSUsiMH6R3Q
 seo:
   description: ''
 ---
@@ -13,11 +13,11 @@ seo:
 
 :api-endpoint{protocol="get" endpoint="https://api.line.me/v2/bot/message/quota"}::reference-with-code
   :::reference-content
-  Gets the target limit for sending messages in the current month. The total number of the free messages and the additional messages is returned.
+  This endpoint gets the target limit for sending messages in the current month. It returns the sum of the number of free messages and the target limit for additional messages.
 
-  The number of messages retrieved by this endpoint includes the number of messages sent from LINE Official Account Manager.
+  The target limit returned by this endpoint includes the number of messages sent from LINE Official Account Manager.
 
-  Set a target limit for the additional messages with LINE Official Account Manager. For more information about configuration, see [Using and billing (plan changes and payment management)](https://www.lycbiz.com/jp/manual/OfficialAccountManager/account-settings_plan/?list=7171){rel="[\"nofollow\"]"} (only available in Japanese) in LINE for Business.
+  Set the target limit for additional messages in LINE Official Account Manager. For more information, see [Using and billing (plan changes and payment management)](https://www.lycbiz.com/jp/manual/OfficialAccountManager/account-settings_plan/?list=7171){rel="[\"nofollow\"]"} (only available in Japanese) in LINE for Business.
   :::
 
   :::reference-code
@@ -67,10 +67,10 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       String
 
-      One of the following values to indicate whether a target limit is set or not.
+      The `type` property indicates whether your account has a target limit. The endpoint returns one of these values:
 
-      - `none`: This indicates that a target limit is not set.
-      - `limited`: This indicates that a target limit is set.
+      - `none`: Your account doesn't have a target limit. The endpoint returns this value only for some LINE Official Accounts on special plans, such as the [Local Government Plan](https://linegov.com/){rel="[\"nofollow\"]"} (only available in Japanese). These plans require a separate application to LY Corporation.
+      - `limited`: Your account has a target limit. The endpoint returns this value for the [Communication Plan, Light Plan, or Standard Plan](/docs/messaging-api/pricing/#examples-of-subscription-plans) if you signed up in LINE Official Account Manager.
       :::::
 
       :::::parameter-table-entry{annotation="Not always included"}
@@ -80,7 +80,7 @@ For more information on rate limits, see [Rate limits](#rate-limits).
       #undefined
       Number
 
-      The target limit for sending messages in the current month. This property is returned when the `type` property has a value of `limited`.
+      The target limit for sending messages in the current month. The endpoint returns this property only when `type` is `limited`. If you've set a target limit for additional messages on the [Standard Plan](/docs/messaging-api/pricing/#examples-of-subscription-plans), `value` is the sum of that limit and the plan's free message allowance.
       :::::
     ::::
   :::

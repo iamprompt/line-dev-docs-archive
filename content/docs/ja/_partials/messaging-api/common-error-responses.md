@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /ja/_partials/messaging-api/common-error-responses
-__hash__: DdVbldzj1OrkMqjo_EJwXtrBGh0QmDRGJp03AQN09SU
+__hash__: iH1I4dFvXU956_KHTeRt5zaHKPcAsl3z0MmIlSCpfro
 seo:
   description: ''
 ---
@@ -101,4 +101,5 @@ seo:
 | Failed to send messages                                                    | メッセージの送信に失敗しました。指定したユーザーIDが存在しない場合などにこのエラーが発生します。                                                                                                                                                                                                                                                                                                                                                                                    |
 | You have reached your monthly limit.                                       | - 無料メッセージ通数を超過しました。 - 追加メッセージ数の上限目安を超過しました。  無料メッセージ通数や、追加メッセージ数の上限目安について詳しくは、『Messaging APIドキュメント』の「[Messaging APIの料金](/docs/messaging-api/pricing/)」を参照してください。  当月に配信できるメッセージ数がまだ残っていても、`You have reached your monthly limit.`が返される場合があります。詳しくは、FAQの「[当月に配信できるメッセージ数はまだ残っているのに、メッセージ送信時に429 Too Many Requests（You have reached your monthly limit.）が返されるのはなぜですか？](/faq/#why-do-i-get-429-error-during-message-delivery)」を参照してください。 |
 | The API rate limit has been exceeded. Try again later.                     | APIコールの[レート制限](#rate-limits)を超過しました。                                                                                                                                                                                                                                                                                                                                                                                                 |
+| There are too many running upload jobs for the audience group id.          | オーディエンスID（`audienceGroupId`）単位での[同時処理数の制限](#limit-on-the-number-of-concurrent-operations)を超過しました。                                                                                                                                                                                                                                                                                                                                    |
 | Not found                                                                  | プロフィール情報を取得できませんでした。次のような理由が考えられます。- 対象のユーザーIDが存在していない - ユーザーがプロフィール情報の取得に同意していない - ユーザーが対象のLINE公式アカウントを友だち追加していない - ユーザーが対象のLINE公式アカウントを友だち追加した後にブロックした  詳しくは、『Messaging APIドキュメント』の「[ユーザーのプロフィール情報取得の同意](/docs/messaging-api/user-consent/)」を参照してください。                                                                                                                                                                             |

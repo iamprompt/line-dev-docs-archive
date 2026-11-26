@@ -4,7 +4,7 @@ navigation: true
 description: null
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/messaging-api/retrying-api-request
-__hash__: G2-FP7EJZM3v34OBcE4HVCHJcIPCuIrODYwZ4kxkDa8
+__hash__: s15FJMkzhh8KANF2b8zfbdFJQxA3ZZQnDp5qwa6UmbE
 seo:
   title: Retry failed API requests
   description: null
@@ -78,13 +78,14 @@ curl -v -X POST https://api.line.me/v2/bot/message/push \
 
 Determine whether to retry an API request by the status code you get:
 
-| Status code               | Description                                                       | Retry or not                                            |
-| ------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------- |
-| 500 Internal Server Error | Internal server error                                             | ✅ Retry. Your next request may be successful.           |
-| Timeout                   | The request failed due to a network failure or some other reason. | ✅ Retry. Your next request may be successful.           |
-| 2xx                       | The API request is accepted.                                      | ❌ Don't retry. Additional retries aren't accepted.      |
-| 409 Conflict              | An API request with the same retry key is already accepted.       | ❌ Don't retry. The retried request is already accepted. |
-| 4xx                       | Problem with the request                                          | ❌ Don't retry. Retries don't change the result.         |
+| Status code               | Description                                                                                                                                                                                                 | Retry or not                                                                                                                                                                                                                                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 500 Internal Server Error | Internal server error                                                                                                                                                                                       | ✅ Retry. Your next request may be successful.                                                                                                                                                                                                                                                        |
+| Timeout                   | The request failed due to a network failure or some other reason.                                                                                                                                           | ✅ Retry. Your next request may be successful.                                                                                                                                                                                                                                                        |
+| 2xx                       | The API request is accepted.                                                                                                                                                                                | ❌ Don't retry. Additional retries aren't accepted.                                                                                                                                                                                                                                                   |
+| 409 Conflict              | An API request with the same retry key is already accepted.                                                                                                                                                 | ❌ Don't retry. The retried request is already accepted.                                                                                                                                                                                                                                              |
+| 429 Too Many Requests     | You exceeded a rate limit, or you don't have enough messages available to send. You may have reached the message limit. The LINE Platform may also have temporarily reserved messages for another delivery. | ⚠️ How to handle the error and when to retry depend on the cause. Check `message` in the response and take the necessary action before retrying the API request. For more information, see [Handle HTTP status code 429 errors in the Messaging API](/docs/messaging-api/handling-http-429-errors/). |
+| Other 4xx codes           | The request has a problem.                                                                                                                                                                                  | ❌ Don't retry. Retries don't change the result.                                                                                                                                                                                                                                                      |
 
 ::admonition{title="Note" type="note"}
 - A retry key is valid for 24 hours after the first request. Design your service to retry requests within 24 hours.
