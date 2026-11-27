@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{}'
 path: /en/_partials/messaging-api/get-rich-menu-insight-summary
-__hash__: QEAItD0wgHw2WTitC4_4QHCz-m8XmG6E6nYX5m3d-EE
+__hash__: qqvC6CfJQ-IRe4pdaLiLewwa8Y-f0gbCO4W4VrdXf6k
 seo:
   description: ''
 ---
@@ -351,10 +351,10 @@ For more information on rate limits, see [Rate limits](#rate-limits).
   :::reference-content
   Returns the following HTTP status code and an error response:
 
-  | Code  | Description                                                                                                                                                                                                                                                                                                                                       |
-  | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  | `400` | Unable to get the statistic. Consider these reasons:- No aggregation period date specified. - Invalid aggregation period date specified.                                                                                                                                                                                                          |
-  | `404` | No statistics exist for the specified rich menu. Consider these reasons:- The rich menu ID is incorrect. - The rich menu was just created, and the initial aggregation of its statistics hasn't finished yet (the aggregation process of these statistics is usually completed within the next day). - The rich menu was deleted a long time ago. |
+  | Code  | Description                                                                                                                                                                                                                                                                                                                                           |
+  | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | `400` | Unable to get the statistic. Consider these reasons:- No aggregation period date specified. - Invalid aggregation period date specified.                                                                                                                                                                                                              |
+  | `404` | No statistics exist for the specified rich menu. Consider these reasons:- The rich menu ID is incorrect. - The rich menu was just created, and the initial aggregation of its statistics hasn't finished yet (the aggregation process of these statistics is usually completed within the next day). - The rich menu was deleted 3 or more years ago. |
 
   For more information, see [Status codes](#status-codes) and [Error responses](#error-responses) in the [Common specifications](#common-specifications) section.
   :::
