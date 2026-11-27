@@ -4,7 +4,7 @@ navigation: true
 description: ''
 meta: '{"tags":null,"author":null,"last_updated":null,"source_language":"en"}'
 path: /en/docs/liff/developing-liff-apps
-__hash__: OWrtajyhRDJqOpBJFMW2i92aLJhREAfBLnvFtZumVKA
+__hash__: Mwa1d11X8uIBs1FxoYyOH_DWBF3ED-RR_2o2NFKhRZk
 seo:
   title: Developing a LIFF app
   description: ''
@@ -607,11 +607,11 @@ To use the share target picker, developers need to consent to "Agreement Regardi
 
 Users can select the following types of recipients in the target picker:
 
-| Recipient type | Selectable recipients                                                                                                                       |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Groups         | Groups that the user participates in. OpenChat isn't included.                                                                              |
-| Friends        | The user's friends. However, LINE Official Accounts aren't displayed in the Friends section.                                                |
-| Chats          | Chats in which messages have been sent or received within a certain period. Includes groups, users, chat rooms, and LINE Official Accounts. |
+| Recipient type | Selectable recipients                                                                                                                                                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Groups         | Groups that the user participates in. OpenChat isn't included.                                                                                                                                                                          |
+| Friends        | The user's friends. If a friend has set a :glossary-tooltip[[subprofile](/glossary/#subprofile)]{glossary-id="subprofile"} for the user, the subprofile is displayed.   LINE Official Accounts aren't displayed in the Friends section. |
+| Chats          | Chats in which messages have been sent or received within a certain period. Includes groups, users, chat rooms, and LINE Official Accounts.                                                                                             |
 
 If `false` is specified for the `options.isMultiple` property when calling the method, only the Friends section is displayed, and users can select only one friend as the recipient.
 
